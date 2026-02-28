@@ -21,6 +21,14 @@ export const algorithms: ComplexityEntry[] = [
   { name: 'BFS', category: 'graph', time: { best: 'O(V+E)', average: 'O(V+E)', worst: 'O(V+E)' }, space: 'O(V)' },
   { name: 'DFS', category: 'graph', time: { best: 'O(V+E)', average: 'O(V+E)', worst: 'O(V+E)' }, space: 'O(V)' },
   { name: "Dijkstra's", category: 'graph', time: { best: 'O(V+E log V)', average: 'O(V+E log V)', worst: 'O(V²)' }, space: 'O(V)', notes: 'With min-heap' },
+  { name: 'Tim Sort', category: 'sorting', time: { best: 'O(n)', average: 'O(n log n)', worst: 'O(n log n)' }, space: 'O(n)', stable: true },
+  { name: 'Bucket Sort', category: 'sorting', time: { best: 'O(n+k)', average: 'O(n+k)', worst: 'O(n²)' }, space: 'O(n)', notes: 'k = number of buckets' },
+  { name: 'Shell Sort', category: 'sorting', time: { best: 'O(n log n)', average: 'O(n^(4/3))', worst: 'O(n²)' }, space: 'O(1)', notes: 'Depends on gap sequence' },
+  { name: 'Bellman-Ford', category: 'graph', time: { best: 'O(VE)', average: 'O(VE)', worst: 'O(VE)' }, space: 'O(V)', notes: 'Handles negative weights' },
+  { name: 'Floyd-Warshall', category: 'graph', time: { best: 'O(V³)', average: 'O(V³)', worst: 'O(V³)' }, space: 'O(V²)', notes: 'All-pairs shortest path' },
+  { name: 'A* Search', category: 'graph', time: { best: 'O(E)', average: 'O(E)', worst: 'O(V²)' }, space: 'O(V)', notes: 'Depends on heuristic' },
+  { name: "Kruskal's MST", category: 'graph', time: { best: 'O(E log E)', average: 'O(E log E)', worst: 'O(E log E)' }, space: 'O(V)', notes: 'Uses union-find' },
+  { name: "Prim's MST", category: 'graph', time: { best: 'O(V+E log V)', average: 'O(V+E log V)', worst: 'O(V+E log V)' }, space: 'O(V)', notes: 'With binary heap' },
 ];
 
 export interface DSComplexity {
@@ -41,4 +49,10 @@ export const dataStructures: DSComplexity[] = [
   { name: 'BST', access: 'O(log n)*', search: 'O(log n)*', insert: 'O(log n)*', delete: 'O(log n)*', spaceNote: '*Balanced' },
   { name: 'Heap', access: 'O(1)', search: 'O(n)', insert: 'O(log n)', delete: 'O(log n)', spaceNote: 'Access is peek (min/max)' },
   { name: 'Trie', access: 'O(m)', search: 'O(m)', insert: 'O(m)', delete: 'O(m)', spaceNote: 'm = key length' },
+  { name: 'AVL Tree', access: 'O(log n)', search: 'O(log n)', insert: 'O(log n)', delete: 'O(log n)', spaceNote: 'Self-balancing BST' },
+  { name: 'Red-Black Tree', access: 'O(log n)', search: 'O(log n)', insert: 'O(log n)', delete: 'O(log n)', spaceNote: 'Self-balancing BST' },
+  { name: 'B-Tree', access: 'O(log n)', search: 'O(log n)', insert: 'O(log n)', delete: 'O(log n)', spaceNote: 'Used in databases & filesystems' },
+  { name: 'Skip List', access: 'O(log n)', search: 'O(log n)', insert: 'O(log n)', delete: 'O(log n)', spaceNote: 'Average case, O(n) worst' },
+  { name: 'Bloom Filter', access: 'N/A', search: 'O(1)', insert: 'O(1)', delete: 'N/A', spaceNote: 'Probabilistic; false positives possible' },
+  { name: 'Disjoint Set', access: 'N/A', search: 'O(\u03B1(n))', insert: 'O(\u03B1(n))', delete: 'O(\u03B1(n))', spaceNote: '\u03B1 = inverse Ackermann function' },
 ];
