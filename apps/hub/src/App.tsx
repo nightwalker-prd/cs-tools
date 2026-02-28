@@ -1,5 +1,5 @@
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from '@cstools/ui';
-import { BarChart3, Brain, Network, Gauge, Code } from 'lucide-react';
+import { BarChart3, Brain, Network, Gauge, Code, BookOpen, Wifi } from 'lucide-react';
 
 const tools = [
   {
@@ -33,6 +33,30 @@ const tools = [
     color: '#D29922',
     port: 5176,
     path: '/complexity-atlas',
+  },
+  {
+    name: 'DDIA Explorer',
+    description: 'Explore key concepts from Designing Data-Intensive Applications',
+    icon: BookOpen,
+    color: '#FF7B72',
+    port: 5177,
+    path: '/ddia',
+  },
+  {
+    name: 'Networking Explorer',
+    description: 'Full-stack networking topic explorer covering OSI/TCP-IP layers, protocols, and security',
+    icon: Wifi,
+    color: '#FFA657',
+    port: 5178,
+    path: '/networking',
+  },
+  {
+    name: 'LeetCode Guide',
+    description: 'Pattern-based guide for coding interview preparation',
+    icon: Code,
+    color: '#3FB950',
+    port: 5179,
+    path: '/leetcode-guide',
   },
 ];
 

@@ -35,6 +35,9 @@ pnpm test                             # Run tests
 | dsa-drills | 5174 | SRS-backed DSA flashcards & drills |
 | system-design | 5175 | Interactive system design reference |
 | complexity-atlas | 5176 | Big-O reference & practice |
+| ddia | 5177 | DDIA book concept explorer with quizzes |
+| networking | 5178 | Full-stack networking topic explorer |
+| leetcode-guide | 5179 | LeetCode problem-solving patterns guide |
 
 ### Shared Packages (8)
 | Package | Contents |

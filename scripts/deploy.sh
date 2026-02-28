@@ -20,7 +20,7 @@ get_project_name() {
 }
 
 # All known apps
-ALL_APPS="hub algo-viz dsa-drills system-design complexity-atlas"
+ALL_APPS="hub algo-viz dsa-drills system-design complexity-atlas ddia networking leetcode-guide"
 
 deploy_app() {
   local app=$1
