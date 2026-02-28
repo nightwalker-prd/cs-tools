@@ -38,6 +38,7 @@ pnpm test                             # Run tests
 | ddia | 5177 | DDIA book concept explorer with quizzes |
 | networking | 5178 | Full-stack networking topic explorer |
 | leetcode-guide | 5179 | LeetCode problem-solving patterns guide |
+| databases | 5180 | Database concepts explorer with quizzes |
 
 ### Shared Packages (8)
 | Package | Contents |

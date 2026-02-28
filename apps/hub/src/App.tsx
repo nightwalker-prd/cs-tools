@@ -1,5 +1,5 @@
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from '@cstools/ui';
-import { BarChart3, Brain, Network, Gauge, Code, BookOpen, Wifi, Server, BookMarked, HelpCircle, Layers } from 'lucide-react';
+import { BarChart3, Brain, Network, Gauge, Code, BookOpen, Wifi, Server, BookMarked, HelpCircle, Layers, Database } from 'lucide-react';
 
 type Tag = 'reference' | 'interactive' | 'quiz' | 'interview' | 'drills';
 
@@ -77,6 +77,15 @@ const tools: Tool[] = [
     stats: '13 patterns, 39 concepts, 39 quiz questions',
     tags: ['reference', 'quiz', 'interview'],
   },
+  {
+    name: 'Databases',
+    description: 'Database internals — storage engines, indexing, transactions, replication, sharding, and NoSQL data models',
+    icon: Database,
+    color: '#F778BA',
+    port: 5180,
+    stats: '13 topics, 39 concepts, 39 quiz questions',
+    tags: ['reference', 'quiz', 'interview'],
+  },
 ];
 
 const tagColors: Record<Tag, string> = {
@@ -88,10 +97,10 @@ const tagColors: Record<Tag, string> = {
 };
 
 const overallStats = [
-  { label: 'Tools', value: '7', icon: Server, color: '#58A6FF' },
-  { label: 'Topics', value: '51+', icon: Layers, color: '#3FB950' },
-  { label: 'Questions', value: '230+', icon: HelpCircle, color: '#D2A8FF' },
-  { label: 'Concepts', value: '150+', icon: BookMarked, color: '#D29922' },
+  { label: 'Tools', value: '8', icon: Server, color: '#58A6FF' },
+  { label: 'Topics', value: '64+', icon: Layers, color: '#3FB950' },
+  { label: 'Questions', value: '269+', icon: HelpCircle, color: '#D2A8FF' },
+  { label: 'Concepts', value: '189+', icon: BookMarked, color: '#D29922' },
 ];
 
 export default function App() {
