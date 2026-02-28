@@ -1,4 +1,6 @@
-import { Book, BarChart3, Flame, Trophy } from 'lucide-react';
+import { Book, BarChart3, Trophy } from 'lucide-react';
+import { LevelBadge, StreakDisplay } from '@cstools/gamification';
+import type { LevelInfo, StreakData } from '@cstools/gamification';
 
 export type DifficultyFilter = 'all' | 'easy' | 'medium' | 'hard';
 
@@ -12,7 +14,12 @@ interface CategoryInfo {
 interface SidebarProps {
   activeTab: string;
   onTabChange: (tab: string) => void;
-  stats: { streak: number; xp: number; cardsDue: number; cardsNew: number };
+  levelInfo: LevelInfo;
+  streakData: StreakData;
+  streakMultiplier: number;
+  xp: number;
+  cardsDue: number;
+  cardsNew: number;
   categories: CategoryInfo[];
   difficultyFilter: DifficultyFilter;
   onDifficultyChange: (d: DifficultyFilter) => void;
@@ -31,7 +38,19 @@ function accuracyColor(accuracy: number): string {
   return 'bg-[#F85149]';
 }
 
-export function Sidebar({ activeTab, onTabChange, stats, categories, difficultyFilter, onDifficultyChange }: SidebarProps) {
+export function Sidebar({
+  activeTab,
+  onTabChange,
+  levelInfo,
+  streakData,
+  streakMultiplier,
+  xp,
+  cardsDue,
+  cardsNew,
+  categories,
+  difficultyFilter,
+  onDifficultyChange,
+}: SidebarProps) {
   return (
     <aside className="w-64 bg-[#161B22] border-r border-[#30363D] flex flex-col h-screen">
       <div className="p-4 border-b border-[#30363D]">
@@ -39,23 +58,27 @@ export function Sidebar({ activeTab, onTabChange, stats, categories, difficultyF
         <p className="text-xs text-[#8B949E]">Spaced repetition flashcards</p>
       </div>
 
-      {/* Stats */}
-      <div className="p-4 border-b border-[#30363D] grid grid-cols-2 gap-3">
-        <div className="flex items-center gap-2">
-          <Flame className="w-4 h-4 text-[#FFA657]" />
-          <span className="text-sm text-[#E6EDF3]">{stats.streak}d</span>
+      {/* Level & Streak */}
+      <div className="p-3 border-b border-[#30363D] space-y-2">
+        <LevelBadge levelInfo={levelInfo} />
+        <div className="flex items-center justify-between px-1">
+          <StreakDisplay streak={streakData.currentStreak} multiplier={streakMultiplier} compact />
+          <div className="flex items-center gap-1">
+            <Trophy className="w-3.5 h-3.5 text-[#58A6FF]" />
+            <span className="text-xs font-semibold text-[#E6EDF3]">{xp.toLocaleString()} XP</span>
+          </div>
         </div>
-        <div className="flex items-center gap-2">
-          <Trophy className="w-4 h-4 text-[#58A6FF]" />
-          <span className="text-sm text-[#E6EDF3]">{stats.xp} XP</span>
+      </div>
+
+      {/* Cards stats */}
+      <div className="px-4 py-2 border-b border-[#30363D] flex items-center gap-4">
+        <div className="flex items-center gap-1.5">
+          <BarChart3 className="w-3.5 h-3.5 text-[#D29922]" />
+          <span className="text-xs text-[#E6EDF3]">{cardsDue} due</span>
         </div>
-        <div className="flex items-center gap-2">
-          <BarChart3 className="w-4 h-4 text-[#D29922]" />
-          <span className="text-sm text-[#E6EDF3]">{stats.cardsDue} due</span>
-        </div>
-        <div className="flex items-center gap-2">
-          <Book className="w-4 h-4 text-[#3FB950]" />
-          <span className="text-sm text-[#E6EDF3]">{stats.cardsNew} new</span>
+        <div className="flex items-center gap-1.5">
+          <Book className="w-3.5 h-3.5 text-[#3FB950]" />
+          <span className="text-xs text-[#E6EDF3]">{cardsNew} new</span>
         </div>
       </div>
 
