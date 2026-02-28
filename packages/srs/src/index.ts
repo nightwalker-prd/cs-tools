@@ -13,11 +13,11 @@ export {
   getDepth,
 } from './graph/prerequisite-graph';
 export {
-  NAHW_TOPIC_IDS,
-  NAHW_PREREQUISITE_EDGES,
-  getNahwPrerequisiteGraph,
-  getAllNahwTopicIds,
-} from './graph/nahw-prerequisites';
+  CS_TOPIC_IDS,
+  CS_PREREQUISITE_EDGES,
+  getCsPrerequisiteGraph,
+  getAllCsTopicIds,
+} from './graph/cs-prerequisites';
 
 // Session
 export { buildSession, getSessionPreview } from './session/session-builder';

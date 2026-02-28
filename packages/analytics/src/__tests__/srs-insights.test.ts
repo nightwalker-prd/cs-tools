@@ -5,14 +5,14 @@ import {
   computeReviewForecast,
   computeDecayCurve,
 } from '../services/srs-insights';
-import type { SrsItem } from '@arabtools/srs/types';
+import type { SrsItem } from '@cstools/srs/types';
 
 const MS_PER_DAY = 24 * 60 * 60 * 1000;
 
 function makeSrsItem(overrides: Partial<SrsItem>): SrsItem {
   return {
     id: 'test-1',
-    pillar: 'vocabulary',
+    pillar: 'dsa',
     difficulty: 'beginner',
     phase: 'review',
     stability: 10,
@@ -23,8 +23,8 @@ function makeSrsItem(overrides: Partial<SrsItem>): SrsItem {
     lapses: 0,
     last_review: Date.now() - MS_PER_DAY,
     due: Date.now() + 9 * MS_PER_DAY,
-    contentId: 'word-1',
-    contentType: 'vocab-word',
+    contentId: 'algo-1',
+    contentType: 'algorithm',
     ...overrides,
   };
 }
@@ -69,9 +69,9 @@ describe('getForgettingSoon', () => {
   it('returns items sorted by lowest retrievability', () => {
     const now = Date.now();
     const items: SrsItem[] = [
-      makeSrsItem({ id: 'a', stability: 100, last_review: now - MS_PER_DAY, contentId: 'word-a' }),
-      makeSrsItem({ id: 'b', stability: 2, last_review: now - 5 * MS_PER_DAY, contentId: 'word-b' }),
-      makeSrsItem({ id: 'c', stability: 5, last_review: now - 3 * MS_PER_DAY, contentId: 'word-c' }),
+      makeSrsItem({ id: 'a', stability: 100, last_review: now - MS_PER_DAY, contentId: 'algo-a' }),
+      makeSrsItem({ id: 'b', stability: 2, last_review: now - 5 * MS_PER_DAY, contentId: 'algo-b' }),
+      makeSrsItem({ id: 'c', stability: 5, last_review: now - 3 * MS_PER_DAY, contentId: 'algo-c' }),
     ];
 
     const result = getForgettingSoon(items, now, 10);
@@ -84,7 +84,7 @@ describe('getForgettingSoon', () => {
   it('limits to topN', () => {
     const now = Date.now();
     const items: SrsItem[] = Array.from({ length: 20 }, (_, i) =>
-      makeSrsItem({ id: `item-${i}`, stability: i + 1, last_review: now - MS_PER_DAY, contentId: `word-${i}` })
+      makeSrsItem({ id: `item-${i}`, stability: i + 1, last_review: now - MS_PER_DAY, contentId: `algo-${i}` })
     );
 
     const result = getForgettingSoon(items, now, 5);

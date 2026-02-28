@@ -15,7 +15,7 @@ const ONE_DAY = 24 * 60 * 60 * 1000;
 function makeItem(overrides: Partial<SrsItem> = {}): SrsItem {
   return {
     id: `item-${Math.random().toString(36).slice(2, 8)}`,
-    pillar: 'grammar',
+    pillar: 'dsa',
     difficulty: 'beginner',
     phase: 'review',
     stability: 5,
@@ -27,7 +27,7 @@ function makeItem(overrides: Partial<SrsItem> = {}): SrsItem {
     last_review: NOW - 5 * ONE_DAY,
     due: NOW - ONE_DAY, // 1 day overdue
     contentId: 'topic-1',
-    contentType: 'grammar-topic',
+    contentType: 'algorithm',
     ...overrides,
   };
 }
@@ -52,14 +52,14 @@ describe('interleaveItems', () => {
   });
 
   it('respects maxItems limit', () => {
-    const dueItems = makeItems(20, 'grammar');
+    const dueItems = makeItems(20, 'dsa');
     const result = interleaveItems(dueItems, [], 10, 0.2, NOW);
     expect(result.length).toBeLessThanOrEqual(10);
   });
 
   it('includes new items at approximately the target ratio', () => {
-    const dueItems = makeItems(20, 'grammar');
-    const newItems = makeItems(10, 'vocabulary').map(i => ({
+    const dueItems = makeItems(20, 'dsa');
+    const newItems = makeItems(10, 'systems').map(i => ({
       ...i,
       phase: 'new' as const,
     }));
@@ -72,7 +72,7 @@ describe('interleaveItems', () => {
   });
 
   it('assigns positions sequentially', () => {
-    const items = makeItems(5, 'grammar');
+    const items = makeItems(5, 'dsa');
     const result = interleaveItems(items, [], 10, 0.2, NOW);
     result.forEach((item, index) => {
       expect(item.position).toBe(index);
@@ -80,7 +80,7 @@ describe('interleaveItems', () => {
   });
 
   it('assigns question types to each item', () => {
-    const items = makeItems(5, 'grammar');
+    const items = makeItems(5, 'dsa');
     const result = interleaveItems(items, [], 10, 0.2, NOW);
     for (const item of result) {
       expect(item.questionType).toBeDefined();
@@ -89,10 +89,10 @@ describe('interleaveItems', () => {
 
   it('never has more than 3 consecutive same-pillar items', () => {
     // Create items with multiple pillars
-    const grammar = makeItems(10, 'grammar');
-    const vocab = makeItems(5, 'vocabulary');
-    const reading = makeItems(5, 'reading');
-    const allDue = [...grammar, ...vocab, ...reading];
+    const dsaItems = makeItems(10, 'dsa');
+    const systemsItems = makeItems(5, 'systems');
+    const engItems = makeItems(5, 'engineering');
+    const allDue = [...dsaItems, ...systemsItems, ...engItems];
 
     const result = interleaveItems(allDue, [], 20, 0, NOW);
 
@@ -201,29 +201,29 @@ describe('escalateQuestionType', () => {
 describe('groupByPillar', () => {
   it('groups items correctly', () => {
     const items = [
-      makeItem({ pillar: 'grammar', id: 'g1' }),
-      makeItem({ pillar: 'vocabulary', id: 'v1' }),
-      makeItem({ pillar: 'grammar', id: 'g2' }),
-      makeItem({ pillar: 'reading', id: 'r1' }),
+      makeItem({ pillar: 'dsa', id: 'g1' }),
+      makeItem({ pillar: 'systems', id: 'v1' }),
+      makeItem({ pillar: 'dsa', id: 'g2' }),
+      makeItem({ pillar: 'engineering', id: 'r1' }),
     ];
 
     const groups = groupByPillar(items);
-    expect(groups.grammar).toHaveLength(2);
-    expect(groups.vocabulary).toHaveLength(1);
-    expect(groups.reading).toHaveLength(1);
+    expect(groups.dsa).toHaveLength(2);
+    expect(groups.systems).toHaveLength(1);
+    expect(groups.engineering).toHaveLength(1);
   });
 
   it('returns empty arrays for missing pillars', () => {
-    const items = [makeItem({ pillar: 'grammar' })];
+    const items = [makeItem({ pillar: 'dsa' })];
     const groups = groupByPillar(items);
-    expect(groups.vocabulary).toHaveLength(0);
-    expect(groups.reading).toHaveLength(0);
+    expect(groups.systems).toHaveLength(0);
+    expect(groups.engineering).toHaveLength(0);
   });
 
   it('handles empty input', () => {
     const groups = groupByPillar([]);
-    expect(groups.grammar).toHaveLength(0);
-    expect(groups.vocabulary).toHaveLength(0);
-    expect(groups.reading).toHaveLength(0);
+    expect(groups.dsa).toHaveLength(0);
+    expect(groups.systems).toHaveLength(0);
+    expect(groups.engineering).toHaveLength(0);
   });
 });

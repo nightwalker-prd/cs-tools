@@ -1,75 +1,94 @@
 /**
- * @arabtools/data — Shared data package
+ * @cstools/data — Shared data package
  *
- * Unified access to grammar, vocabulary, and reading data
- * extracted from nahw-navigator, tarkeeb, nation-test, and reading apps.
+ * CS algorithms, data structures, systems concepts, and design patterns.
  */
 
 // Types
 export type {
   Pillar,
   Difficulty,
-  NahwExample,
-  NahwRule,
-  NahwTable,
-  LevelContent,
-  NahwTopic,
-  NahwSubcategory,
-  NahwCategory,
-  GrammaticalLabel,
-  GrammaticalLabels,
-  FrequencyLevel,
-  WordExample,
-  WordFamily,
-  ReadingLevel,
-  VocabularyHighlight,
-  WordTranslation,
-  ReadingText,
-  ReadingTextSummary,
+  Language,
+  Algorithm,
+  DataStructureInfo,
+  SystemConcept,
+  DesignPattern,
 } from './types';
 
-// Grammar
+// Algorithms
 export {
-  allTopics,
-  topicMap,
-  getTopicById,
-  getTopicsByCategory,
-  categories,
-  grammaticalLabels,
-  getAllLabels,
-  findLabelById,
-  getLabelsByCategory,
-} from './grammar/index';
+  allAlgorithms,
+  sortingAlgorithms,
+  searchingAlgorithms,
+  graphAlgorithms,
+  dynamicAlgorithms,
+  bubbleSort,
+  insertionSort,
+  mergeSort,
+  quickSort,
+  heapSort,
+  linearSearch,
+  binarySearch,
+  bfs,
+  dfs,
+  dijkstra,
+  kruskal,
+  topologicalSort,
+  fibonacci,
+  knapsack,
+  lcs,
+  coinChange,
+} from './algorithms';
 
-// Vocabulary
+// Data Structures
 export {
-  level1k,
-  level2k,
-  level3k,
-  level5k,
-  level10k,
-} from './vocabulary/index';
+  allDataStructures,
+  linearDataStructures,
+  treeDataStructures,
+  graphDataStructures,
+  hashDataStructures,
+  array,
+  linkedList,
+  stack,
+  queue,
+  binaryTree,
+  bst,
+  heap,
+  adjacencyList,
+  adjacencyMatrix,
+  hashTable,
+} from './data-structures';
 
-// Reading
+// Systems
 export {
-  allReadingTexts,
-  getTextsByLevel,
-  getTextsByCategory,
-  getTextById,
-} from './reading/index';
+  allSystemConcepts,
+  networkingConcepts,
+  databaseConcepts,
+  osConcepts,
+  distributedConcepts,
+  tcpIp,
+  http,
+  dns,
+  webSockets,
+  sqlVsNosql,
+  indexing,
+  acid,
+  processes,
+  threads,
+  memoryManagement,
+  capTheorem,
+  consistencyModels,
+  loadBalancing,
+} from './systems';
 
-// Quran
-export type { SurahInfo, RubRange } from './quran/index';
+// Patterns
 export {
-  SURAH_DATA,
-  RUB_AYAH_RANGES,
-  expandRubToAyahs,
-  getRubsForJuz,
-  getJuzForRub,
-  getRubDescription,
-  getSurahName,
-  getRubRange,
-  getSurahsForRub,
-  getAyahCountForRub,
-  calculateDailyTargets,
-} from './quran/index';
+  designPatterns,
+  singleton,
+  factory,
+  observer,
+  strategy,
+  solidPrinciples,
+  generalPrinciples,
+} from './patterns';
+export type { Principle } from './patterns';

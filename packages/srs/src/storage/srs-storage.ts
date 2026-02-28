@@ -1,7 +1,7 @@
 /**
  * localStorage adapter for SRS state persistence.
  *
- * All keys use the `arabtools-srs-` prefix.
+ * All keys use the `cstools-srs-` prefix.
  * Handles serialization, deserialization, and storage limits.
  */
 
@@ -12,7 +12,7 @@ import type { CalibrationState } from '../engine/calibration';
 
 // ─── Storage Keys ───────────────────────────────────────────────
 
-const PREFIX = 'arabtools-srs-';
+const PREFIX = 'cstools-srs-';
 
 const KEYS = {
   /** SrsItem[] — the full deck state */

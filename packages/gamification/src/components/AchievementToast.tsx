@@ -5,7 +5,7 @@ import type { AchievementDef } from '../types/achievements';
 const TIER_COLORS: Record<string, string> = {
   bronze: '#CD7F32',
   silver: '#C0C0C0',
-  gold: '#c5a253',
+  gold: '#58A6FF',
   diamond: '#B9F2FF',
 };
 
@@ -50,10 +50,7 @@ export function AchievementToast({ achievement, onDismiss }: AchievementToastPro
           Achievement Unlocked
         </div>
         <div className="font-semibold text-sm">
-          {achievement.titleEn}
-        </div>
-        <div dir="rtl" className="font-arabic text-[0.85rem] text-muted">
-          {achievement.titleAr}
+          {achievement.title}
         </div>
         <div className="text-xs text-muted-foreground mt-0.5">
           {achievement.description}

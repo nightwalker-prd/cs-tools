@@ -8,12 +8,14 @@ const SEVERITY_MULTIPLIER: Record<Severity, number> = {
 };
 
 const ADVICE_MAP: Record<string, string> = {
-  'vocabulary-confusion': 'Review word pairs that look similar. Practice in context.',
-  'grammar-error': 'Review the grammar rule. Try constructing examples.',
-  'case-ending': 'Focus on i\'raab rules. Practice identifying word positions.',
-  'gender-agreement': 'Review masculine/feminine patterns. Check adjective agreement.',
-  'verb-conjugation': 'Review the verb forms table. Practice with root variations.',
-  'word-order': 'Study sentence structure patterns. Practice with different sentence types.',
+  'off-by-one': 'Check loop bounds and array indices carefully. Consider fence-post problems.',
+  'wrong-complexity': 'Review Big-O analysis. Count nested loops and recursive calls.',
+  'incorrect-base-case': 'Identify the simplest input and verify your base case handles it.',
+  'missing-edge-case': 'Consider empty inputs, single elements, duplicates, and boundary values.',
+  'wrong-data-structure': 'Match the data structure to the access pattern needed.',
+  'logic-error': 'Trace through your code with a small example step by step.',
+  'syntax-error': 'Review language syntax rules. Check brackets, semicolons, and types.',
+  'wrong-algorithm': 'Re-read the problem constraints. Consider if a different approach fits better.',
 };
 
 const FOURTEEN_DAYS_MS = 14 * 24 * 60 * 60 * 1000;

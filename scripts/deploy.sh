@@ -14,13 +14,13 @@ if [ -z "${CLOUDFLARE_API_TOKEN:-}" ] || [ -z "${CLOUDFLARE_ACCOUNT_ID:-}" ]; th
   exit 1
 fi
 
-# App name → Cloudflare project name mapping (all follow arabtools-<app> pattern)
+# App name → Cloudflare project name mapping (all follow cstools-<app> pattern)
 get_project_name() {
-  echo "arabtools-$1"
+  echo "cstools-$1"
 }
 
 # All known apps
-ALL_APPS="hans-wehr sarf-charts sarf-tool tarkeeb conjugation nation-test fstu-exercises reading sarf-platform tarkib-guide nahw-navigator masdar-trainer tarkib-builder sarf-navigator nahw-atlas insha-guide mufradat kalimat hub durus hafiz kalaam tarjama insha tashkhis dhakira bina sarf-exercises khatt sarf-forge diwan fiqh riwaya"
+ALL_APPS="hub algo-viz dsa-drills system-design complexity-atlas"
 
 deploy_app() {
   local app=$1

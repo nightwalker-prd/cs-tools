@@ -1,10 +1,4 @@
 export {
-  useSpeechSynthesis,
-  type SpeechSynthesisState,
-  type SpeechSynthesisActions,
-} from './useSpeechSynthesis';
-
-export {
   usePersistedState,
   useFilterPersistence,
   type FilterConfig,
@@ -14,3 +8,17 @@ export {
   useSidebarState,
   type SidebarState,
 } from './useSidebarState';
+
+export { useStepAnimation } from './useStepAnimation';
+
+export { useTimer } from './useTimer';
+
+export {
+  useKeyboardShortcuts,
+  type KeyboardShortcut,
+} from './useKeyboardShortcuts';
+
+export {
+  useCodeExecution,
+  type ExecutionResult,
+} from './useCodeExecution';

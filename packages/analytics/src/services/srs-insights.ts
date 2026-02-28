@@ -1,4 +1,4 @@
-import type { SrsItem } from '@arabtools/srs/types';
+import type { SrsItem } from '@cstools/srs/types';
 import type {
   DecayCurve,
   ForgettingWord,

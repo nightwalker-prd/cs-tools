@@ -1,5 +1,5 @@
 {
-  "name": "@arabtools/analytics",
+  "name": "@cstools/analytics",
   "version": "0.0.1",
   "private": true,
   "type": "module",
@@ -19,7 +19,7 @@
     "test:watch": "vitest"
   },
   "dependencies": {
-    "@arabtools/srs": "*"
+    "@cstools/srs": "workspace:*"
   },
   "peerDependencies": {
     "react": "^19.0.0"

@@ -2,7 +2,7 @@
  * Core SRS item types for spaced repetition scheduling.
  */
 
-export type Pillar = 'grammar' | 'vocabulary' | 'reading' | 'quran';
+export type Pillar = 'dsa' | 'systems' | 'engineering' | 'theory';
 
 export type Difficulty = 'beginner' | 'intermediate' | 'advanced';
 
@@ -51,7 +51,7 @@ export interface SrsItem {
   due: number;
   /** References the content item in the data package */
   contentId: string;
-  /** Type of content: 'grammar-topic' | 'vocab-word' | 'reading-passage' */
+  /** Type of content: 'algorithm' | 'data-structure' | 'system-concept' | 'theory-topic' */
   contentType: string;
 }
 

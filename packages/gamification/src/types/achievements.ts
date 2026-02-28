@@ -3,8 +3,7 @@ export type AchievementCategory = 'streak' | 'mastery' | 'practice' | 'milestone
 
 export interface AchievementDef {
   id: string;
-  titleAr: string;
-  titleEn: string;
+  title: string;
   description: string;
   category: AchievementCategory;
   tier: AchievementTier;

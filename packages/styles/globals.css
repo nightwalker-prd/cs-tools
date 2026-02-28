@@ -1,138 +1,121 @@
-/**
- * Arab Tools Global Styles
- *
- * Shared styles for all Arab Tools standalone tools.
- * Islamic manuscript aesthetic with Arabic typography support.
- *
- * Note: This file uses Tailwind CSS v4 syntax.
- * Import in your app's index.css: @import "tailwindcss";
- * Then add the @theme block with colors before importing this file.
- */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap');
 
-@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500;600;700&family=Open+Sans:wght@300;400;500;600;700&family=Amiri:wght@400;700&display=swap');
+@import "tailwindcss";
 
-/* Base styles */
+@custom-variant dark (&:is(.dark *));
+
+:root {
+  --background: #0D1117;
+  --foreground: #E6EDF3;
+  --card: #161B22;
+  --card-foreground: #E6EDF3;
+  --popover: #161B22;
+  --popover-foreground: #E6EDF3;
+  --muted: #21262D;
+  --muted-foreground: #8B949E;
+  --destructive: #F85149;
+  --destructive-foreground: #E6EDF3;
+  --border: #30363D;
+  --input: #30363D;
+  --ring: #58A6FF;
+  --radius: 0.5rem;
+}
+
 * {
-  border-color: var(--color-border, rgba(26, 49, 80, 0.1));
+  border-color: var(--border);
 }
 
 body {
-  background-color: var(--color-background, #f8f9fa);
-  color: var(--color-foreground, #222222);
-  font-family: 'Open Sans', sans-serif;
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: 'Inter', system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
-h1, h2, h3, h4 {
-  font-family: 'EB Garamond', serif;
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Inter', system-ui, sans-serif;
+  font-weight: 600;
 }
 
-/* Arabic font utility */
-.font-arabic {
-  font-family: 'Amiri', serif;
-  font-feature-settings: 'liga', 'dlig';
+code, pre, .font-mono {
+  font-family: 'JetBrains Mono', 'Fira Code', monospace;
 }
 
-/* Glass morphism card */
+/* Terminal background */
+.bg-terminal {
+  background: linear-gradient(135deg, #0D1117 0%, #010409 100%);
+}
+
+/* Glass morphism card (dark) */
 .glass-card {
+  background: rgba(22, 27, 34, 0.8);
   backdrop-filter: blur(12px);
-  background-color: rgba(255, 255, 255, 0.8);
-  border: 1px solid rgba(255, 255, 255, 0.4);
-  border-radius: 1.5rem;
-  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(48, 54, 61, 0.6);
 }
 
-/* Parchment background */
-.bg-parchment {
-  background: linear-gradient(to bottom right, #f8f6f3, #ffffff, #faf8f5);
-}
-
-/* Gold accent button */
-.btn-gold {
-  padding: 0.75rem 1.5rem;
-  border-radius: 0.75rem;
-  background-color: var(--color-accent, #c5a253);
-  color: white;
+/* Accent button */
+.btn-accent {
+  background: #58A6FF;
+  color: #0D1117;
+  padding: 0.5rem 1.25rem;
+  border-radius: 0.375rem;
+  font-weight: 500;
   transition: all 0.2s;
-  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
 }
-
-.btn-gold:hover {
-  background-color: rgba(197, 162, 83, 0.9);
+.btn-accent:hover {
+  background: #79C0FF;
+  box-shadow: 0 0 12px rgba(88, 166, 255, 0.3);
 }
 
 /* Primary button */
 .btn-primary {
-  padding: 0.75rem 1.5rem;
-  border-radius: 0.75rem;
-  background-color: var(--color-primary, #1a3150);
-  color: var(--color-primary-foreground, #ffffff);
+  background: #21262D;
+  color: #E6EDF3;
+  padding: 0.5rem 1.25rem;
+  border-radius: 0.375rem;
+  font-weight: 500;
+  border: 1px solid #30363D;
   transition: all 0.2s;
 }
-
 .btn-primary:hover {
-  background-color: rgba(26, 49, 80, 0.9);
+  background: #30363D;
+  border-color: #8B949E;
 }
 
 /* Stats pill */
 .stats-pill {
-  padding: 0.5rem 1rem;
+  background: rgba(88, 166, 255, 0.1);
+  color: #58A6FF;
+  padding: 0.25rem 0.75rem;
   border-radius: 9999px;
-  background-color: rgba(197, 162, 83, 0.1);
-  border: 1px solid rgba(197, 162, 83, 0.2);
+  font-size: 0.875rem;
+  font-weight: 500;
 }
 
-/* Custom animations */
-@keyframes float {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-10px); }
+/* Code block styling */
+.code-block {
+  background: #010409;
+  border: 1px solid #30363D;
+  border-radius: 0.375rem;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.875rem;
+  line-height: 1.5;
 }
 
-@keyframes fadeInUp {
-  from { opacity: 0; transform: translateY(10px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-
-@keyframes scale-in {
-  0% { transform: scale(0.8); opacity: 0; }
-  100% { transform: scale(1); opacity: 1; }
-}
-
-@keyframes gold-pulse {
-  0%, 100% { box-shadow: 0 0 0 0 rgba(197, 162, 83, 0.3); }
-  50% { box-shadow: 0 0 0 8px rgba(197, 162, 83, 0); }
-}
-
-.animate-float {
-  animation: float 6s ease-in-out infinite;
-}
-
-.animate-fade-in-up {
-  animation: fadeInUp 0.3s ease-out;
-}
-
-.animate-scale-in {
-  animation: scale-in 0.2s ease-out;
-}
-
-.animate-gold-pulse {
-  animation: gold-pulse 2s ease-in-out infinite;
-}
-
-/* Scrollbar styling */
+/* Custom scrollbar */
 ::-webkit-scrollbar {
   width: 8px;
   height: 8px;
 }
-
 ::-webkit-scrollbar-track {
-  background: transparent;
+  background: #010409;
 }
-
 ::-webkit-scrollbar-thumb {
-  background: rgba(26, 49, 80, 0.2);
+  background: #30363D;
   border-radius: 4px;
 }
-
 ::-webkit-scrollbar-thumb:hover {
-  background: rgba(26, 49, 80, 0.3);
+  background: #484F58;
 }

@@ -31,10 +31,10 @@ export interface PillarCalibration {
  * Full calibration state across all pillars.
  */
 export interface CalibrationState {
-  grammar: PillarCalibration;
-  vocabulary: PillarCalibration;
-  reading: PillarCalibration;
-  quran: PillarCalibration;
+  dsa: PillarCalibration;
+  systems: PillarCalibration;
+  engineering: PillarCalibration;
+  theory: PillarCalibration;
   globalSpeedMultiplier: number;
 }
 
@@ -52,10 +52,10 @@ const MAX_MULTIPLIER = 1.5;
  */
 export function createCalibrationState(): CalibrationState {
   return {
-    grammar: { samples: [], speedMultiplier: 1.0 },
-    vocabulary: { samples: [], speedMultiplier: 1.0 },
-    reading: { samples: [], speedMultiplier: 1.0 },
-    quran: { samples: [], speedMultiplier: 1.0 },
+    dsa: { samples: [], speedMultiplier: 1.0 },
+    systems: { samples: [], speedMultiplier: 1.0 },
+    engineering: { samples: [], speedMultiplier: 1.0 },
+    theory: { samples: [], speedMultiplier: 1.0 },
     globalSpeedMultiplier: 1.0,
   };
 }
@@ -136,7 +136,7 @@ export function calculateSpeedMultiplier(samples: CalibrationSample[]): number {
  * Pillars with more samples have more weight.
  */
 function calculateGlobalMultiplier(state: CalibrationState): number {
-  const pillars: Pillar[] = ['grammar', 'vocabulary', 'reading', 'quran'];
+  const pillars: Pillar[] = ['dsa', 'systems', 'engineering', 'theory'];
   let totalWeight = 0;
   let weightedSum = 0;
 

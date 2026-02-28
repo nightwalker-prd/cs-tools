@@ -18,33 +18,33 @@ describe('analyzeBlindSpots', () => {
     let store = emptyStore();
     const now = Date.now();
 
-    // 10 errors for word1/case-ending => severe (10 * 3 = 30)
+    // 10 errors for word1/off-by-one => severe (10 * 3 = 30)
     for (let i = 0; i < 10; i++) {
       store = recordError(store, {
         wordId: 'word1',
-        category: 'case-ending',
+        category: 'off-by-one',
         expected: 'a',
         actual: 'b',
         sourceApp: 'app1',
       }, now);
     }
 
-    // 5 errors for word2/grammar-error => moderate (5 * 2 = 10)
+    // 5 errors for word2/logic-error => moderate (5 * 2 = 10)
     for (let i = 0; i < 5; i++) {
       store = recordError(store, {
         wordId: 'word2',
-        category: 'grammar-error',
+        category: 'logic-error',
         expected: 'c',
         actual: 'd',
         sourceApp: 'app1',
       }, now);
     }
 
-    // 3 errors for word3/verb-conjugation => mild (3 * 1 = 3)
+    // 3 errors for word3/wrong-algorithm => mild (3 * 1 = 3)
     for (let i = 0; i < 3; i++) {
       store = recordError(store, {
         wordId: 'word3',
-        category: 'verb-conjugation',
+        category: 'wrong-algorithm',
         expected: 'e',
         actual: 'f',
         sourceApp: 'app1',
@@ -63,7 +63,7 @@ describe('analyzeBlindSpots', () => {
     const now = Date.now();
 
     // Create 5 different word/category combos
-    const categories = ['case-ending', 'grammar-error', 'verb-conjugation', 'gender-agreement', 'word-order'] as const;
+    const categories = ['off-by-one', 'logic-error', 'wrong-algorithm', 'missing-edge-case', 'syntax-error'] as const;
     for (let i = 0; i < 5; i++) {
       for (let j = 0; j < (5 - i); j++) {
         store = recordError(store, {
@@ -86,7 +86,7 @@ describe('analyzeBlindSpots', () => {
 
     store = recordError(store, {
       wordId: 'w1',
-      category: 'case-ending',
+      category: 'off-by-one',
       expected: 'a',
       actual: 'b',
       sourceApp: 'app1',
@@ -94,18 +94,18 @@ describe('analyzeBlindSpots', () => {
 
     store = recordError(store, {
       wordId: 'w2',
-      category: 'vocabulary-confusion',
+      category: 'wrong-complexity',
       expected: 'c',
       actual: 'd',
       sourceApp: 'app1',
     }, now);
 
     const result = analyzeBlindSpots(store, 5, now);
-    const caseEndingSpot = result.spots.find(s => s.category === 'case-ending');
-    const vocabSpot = result.spots.find(s => s.category === 'vocabulary-confusion');
+    const offByOneSpot = result.spots.find(s => s.category === 'off-by-one');
+    const complexitySpot = result.spots.find(s => s.category === 'wrong-complexity');
 
-    expect(caseEndingSpot?.advice).toContain('i\'raab');
-    expect(vocabSpot?.advice).toContain('word pairs');
+    expect(offByOneSpot?.advice).toContain('loop bounds');
+    expect(complexitySpot?.advice).toContain('Big-O');
   });
 
   it('includes recent examples', () => {
@@ -115,7 +115,7 @@ describe('analyzeBlindSpots', () => {
     for (let i = 0; i < 5; i++) {
       store = recordError(store, {
         wordId: 'w1',
-        category: 'case-ending',
+        category: 'off-by-one',
         expected: `expected${i}`,
         actual: `actual${i}`,
         sourceApp: 'app1',
@@ -133,7 +133,7 @@ describe('analyzeBlindSpots', () => {
 
     store = recordError(store, {
       wordId: 'w1',
-      category: 'case-ending',
+      category: 'off-by-one',
       expected: 'a',
       actual: 'b',
       sourceApp: 'app1',

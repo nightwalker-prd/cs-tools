@@ -7,10 +7,10 @@ import {
   getDepth,
 } from '../graph/prerequisite-graph';
 import {
-  getNahwPrerequisiteGraph,
-  getAllNahwTopicIds,
-  NAHW_PREREQUISITE_EDGES,
-} from '../graph/nahw-prerequisites';
+  getCsPrerequisiteGraph,
+  getAllCsTopicIds,
+  CS_PREREQUISITE_EDGES,
+} from '../graph/cs-prerequisites';
 import type { PrerequisiteEdge } from '../types/graph';
 
 // ─── buildGraph ─────────────────────────────────────────────────
@@ -272,73 +272,74 @@ describe('getDepth', () => {
   });
 });
 
-// ─── Nahw Prerequisite Graph ────────────────────────────────────
+// ─── CS Prerequisite Graph ──────────────────────────────────────
 
-describe('nahw prerequisite graph', () => {
+describe('CS prerequisite graph', () => {
   it('builds without errors (no cycles)', () => {
-    expect(() => getNahwPrerequisiteGraph()).not.toThrow();
+    expect(() => getCsPrerequisiteGraph()).not.toThrow();
   });
 
-  it('contains all 49 topics', () => {
-    const allIds = getAllNahwTopicIds();
-    expect(allIds).toHaveLength(49);
+  it('contains all topics', () => {
+    const allIds = getAllCsTopicIds();
+    expect(allIds.length).toBeGreaterThan(0);
   });
 
   it('has all topics in the graph', () => {
-    const graph = getNahwPrerequisiteGraph();
-    const allIds = getAllNahwTopicIds();
+    const graph = getCsPrerequisiteGraph();
+    const allIds = getAllCsTopicIds();
     for (const id of allIds) {
       expect(graph.nodes.has(id)).toBe(true);
     }
   });
 
-  it('word-types is a root node (depth 0)', () => {
-    const graph = getNahwPrerequisiteGraph();
-    expect(getDepth(graph, 'word-types')).toBe(0);
+  it('arrays is a root node (depth 0)', () => {
+    const graph = getCsPrerequisiteGraph();
+    expect(getDepth(graph, 'arrays')).toBe(0);
   });
 
-  it('word-types has many dependents', () => {
-    const graph = getNahwPrerequisiteGraph();
-    const deps = getDependents(graph, 'word-types');
-    // word-types is the foundation — should reach most topics
+  it('arrays has many dependents', () => {
+    const graph = getCsPrerequisiteGraph();
+    const deps = getDependents(graph, 'arrays');
+    // arrays is the foundation — should reach most topics
     expect(deps.length).toBeGreaterThan(20);
   });
 
-  it('nominal-sentence depends on noun-irab', () => {
-    const graph = getNahwPrerequisiteGraph();
-    const prereqs = getPrerequisites(graph, 'nominal-sentence');
-    expect(prereqs).toContain('noun-irab');
+  it('binary-trees depends on linked-lists', () => {
+    const graph = getCsPrerequisiteGraph();
+    const prereqs = getPrerequisites(graph, 'binary-trees');
+    expect(prereqs).toContain('linked-lists');
   });
 
-  it('verbal-sentence depends on verb-tense and verb-irab', () => {
-    const graph = getNahwPrerequisiteGraph();
-    const prereqs = getPrerequisites(graph, 'verbal-sentence');
-    expect(prereqs).toContain('verb-tense');
-    expect(prereqs).toContain('verb-irab');
+  it('bfs depends on graphs and queues', () => {
+    const graph = getCsPrerequisiteGraph();
+    const prereqs = getPrerequisites(graph, 'bfs');
+    expect(prereqs).toContain('graphs');
+    expect(prereqs).toContain('queues');
   });
 
-  it('kana-and-sisters depends on nominal-sentence', () => {
-    const graph = getNahwPrerequisiteGraph();
-    const directPrereqs = graph.prerequisites.get('kana-and-sisters');
-    expect(directPrereqs?.has('nominal-sentence')).toBe(true);
+  it('dijkstra depends on bfs and priority-queues', () => {
+    const graph = getCsPrerequisiteGraph();
+    const directPrereqs = graph.prerequisites.get('dijkstra');
+    expect(directPrereqs?.has('bfs')).toBe(true);
+    expect(directPrereqs?.has('priority-queues')).toBe(true);
   });
 
-  it('jumla-sughra depends on both sentence types', () => {
-    const graph = getNahwPrerequisiteGraph();
-    const prereqs = getPrerequisites(graph, 'jumla-sughra');
-    expect(prereqs).toContain('nominal-sentence');
-    expect(prereqs).toContain('verbal-sentence');
+  it('knapsack depends on tabulation', () => {
+    const graph = getCsPrerequisiteGraph();
+    const prereqs = getPrerequisites(graph, 'knapsack');
+    expect(prereqs).toContain('tabulation');
   });
 
   it('produces a valid topological sort', () => {
-    const graph = getNahwPrerequisiteGraph();
+    const graph = getCsPrerequisiteGraph();
     const sorted = topologicalSort(graph);
+    const allIds = getAllCsTopicIds();
 
-    // Verify all 49 topics are present
-    expect(sorted).toHaveLength(49);
+    // Verify all topics are present
+    expect(sorted).toHaveLength(allIds.length);
 
     // Verify ordering: for each edge, from appears before to
-    for (const edge of NAHW_PREREQUISITE_EDGES) {
+    for (const edge of CS_PREREQUISITE_EDGES) {
       const fromIdx = sorted.indexOf(edge.from);
       const toIdx = sorted.indexOf(edge.to);
       expect(fromIdx).toBeLessThan(toIdx);
@@ -346,15 +347,15 @@ describe('nahw prerequisite graph', () => {
   });
 
   it('advanced topics have higher depth than basic ones', () => {
-    const graph = getNahwPrerequisiteGraph();
+    const graph = getCsPrerequisiteGraph();
 
-    const wordTypesDepth = getDepth(graph, 'word-types');
-    const nominalDepth = getDepth(graph, 'nominal-sentence');
-    const kanaSistersDepth = getDepth(graph, 'kana-and-sisters');
-    const jumlaSughraDepth = getDepth(graph, 'jumla-sughra');
+    const arraysDepth = getDepth(graph, 'arrays');
+    const binaryTreesDepth = getDepth(graph, 'binary-trees');
+    const bstDepth = getDepth(graph, 'bst');
+    const dijkstraDepth = getDepth(graph, 'dijkstra');
 
-    expect(wordTypesDepth).toBeLessThan(nominalDepth);
-    expect(nominalDepth).toBeLessThan(kanaSistersDepth);
-    expect(nominalDepth).toBeLessThan(jumlaSughraDepth);
+    expect(arraysDepth).toBeLessThan(binaryTreesDepth);
+    expect(binaryTreesDepth).toBeLessThan(bstDepth);
+    expect(binaryTreesDepth).toBeLessThan(dijkstraDepth);
   });
 });

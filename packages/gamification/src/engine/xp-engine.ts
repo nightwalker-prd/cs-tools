@@ -11,7 +11,7 @@ export function calculateLevel(totalXp: number, levels: LevelDef[]): number {
 
   while (lo <= hi) {
     const mid = (lo + hi) >>> 1;
-    if (levels[mid].xpRequired <= totalXp) {
+    if (levels[mid].minXp <= totalXp) {
       lo = mid + 1;
     } else {
       hi = mid - 1;
@@ -29,16 +29,15 @@ export function getLevelInfo(totalXp: number, levels: LevelDef[]): LevelInfo {
   const currentDef = levels.find((l) => l.level === level)!;
   const nextDef = levels.find((l) => l.level === level + 1);
 
-  const xpForNext = nextDef ? nextDef.xpRequired : currentDef.xpRequired;
-  const xpIntoLevel = totalXp - currentDef.xpRequired;
-  const xpNeeded = xpForNext - currentDef.xpRequired;
+  const xpForNext = nextDef ? nextDef.minXp : currentDef.minXp;
+  const xpIntoLevel = totalXp - currentDef.minXp;
+  const xpNeeded = xpForNext - currentDef.minXp;
   const progress = xpNeeded > 0 ? Math.min(xpIntoLevel / xpNeeded, 1) : 1;
 
   return {
     level,
-    titleAr: currentDef.titleAr,
-    titleEn: currentDef.titleEn,
-    xpRequired: currentDef.xpRequired,
+    title: currentDef.title,
+    xpRequired: currentDef.minXp,
     xpForNext,
     progress,
   };

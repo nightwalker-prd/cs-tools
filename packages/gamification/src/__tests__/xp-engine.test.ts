@@ -29,10 +29,10 @@ describe('calculateLevel', () => {
   });
 
   it('returns correct level for mid-range XP', () => {
-    // 600 XP should be level 4 (600 required)
-    expect(calculateLevel(600, LEVELS)).toBe(4);
-    // 599 XP should be level 3 (300 required, next at 600)
-    expect(calculateLevel(599, LEVELS)).toBe(3);
+    // 500 XP should be level 4 (500 minXp)
+    expect(calculateLevel(500, LEVELS)).toBe(4);
+    // 499 XP should be level 3 (250 minXp, next at 500)
+    expect(calculateLevel(499, LEVELS)).toBe(3);
   });
 });
 
@@ -40,14 +40,14 @@ describe('getLevelInfo', () => {
   it('returns correct info for level 1 with 0 XP', () => {
     const info = getLevelInfo(0, LEVELS);
     expect(info.level).toBe(1);
-    expect(info.titleEn).toBe('Beginner');
+    expect(info.title).toBe('Beginner');
     expect(info.progress).toBe(0);
     expect(info.xpRequired).toBe(0);
     expect(info.xpForNext).toBe(100);
   });
 
   it('returns progress fraction between levels', () => {
-    // Level 1 (0 XP) → Level 2 (100 XP), at 50 XP = 50% progress
+    // Level 1 (0 XP) -> Level 2 (100 XP), at 50 XP = 50% progress
     const info = getLevelInfo(50, LEVELS);
     expect(info.level).toBe(1);
     expect(info.progress).toBeCloseTo(0.5);
@@ -59,9 +59,9 @@ describe('getLevelInfo', () => {
     expect(info.progress).toBe(1);
   });
 
-  it('returns Arabic title', () => {
+  it('returns title for level 1', () => {
     const info = getLevelInfo(0, LEVELS);
-    expect(info.titleAr).toBe('مُبْتَدِئ');
+    expect(info.title).toBe('Beginner');
   });
 });
 

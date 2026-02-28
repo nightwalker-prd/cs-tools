@@ -70,12 +70,14 @@ export function getErrorsInRange(store: ErrorStore, startMs: number, endMs: numb
  */
 export function getErrorsByCategory(store: ErrorStore): Record<ErrorCategory, number> {
   const counts: Record<ErrorCategory, number> = {
-    'vocabulary-confusion': 0,
-    'grammar-error': 0,
-    'case-ending': 0,
-    'gender-agreement': 0,
-    'verb-conjugation': 0,
-    'word-order': 0,
+    'off-by-one': 0,
+    'wrong-complexity': 0,
+    'incorrect-base-case': 0,
+    'missing-edge-case': 0,
+    'wrong-data-structure': 0,
+    'logic-error': 0,
+    'syntax-error': 0,
+    'wrong-algorithm': 0,
   };
 
   for (const entry of store.entries) {

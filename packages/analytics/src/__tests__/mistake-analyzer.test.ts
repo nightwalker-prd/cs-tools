@@ -21,7 +21,7 @@ describe('analyzeMistakes', () => {
     for (let i = 0; i < 3; i++) {
       store = recordError(store, {
         wordId: `w${i}`,
-        category: 'case-ending',
+        category: 'off-by-one',
         expected: 'a',
         actual: 'b',
         sourceApp: 'app1',
@@ -30,7 +30,7 @@ describe('analyzeMistakes', () => {
 
     const result = analyzeMistakes(store, now);
     expect(result).toHaveLength(1);
-    expect(result[0].category).toBe('case-ending');
+    expect(result[0].category).toBe('off-by-one');
     expect(result[0].severity).toBe('mild');
     expect(result[0].frequency).toBe(3);
   });
@@ -41,7 +41,7 @@ describe('analyzeMistakes', () => {
     for (let i = 0; i < 7; i++) {
       store = recordError(store, {
         wordId: `w${i}`,
-        category: 'verb-conjugation',
+        category: 'wrong-algorithm',
         expected: 'a',
         actual: 'b',
         sourceApp: 'app1',
@@ -58,7 +58,7 @@ describe('analyzeMistakes', () => {
     for (let i = 0; i < 12; i++) {
       store = recordError(store, {
         wordId: `w${i}`,
-        category: 'grammar-error',
+        category: 'logic-error',
         expected: 'a',
         actual: 'b',
         sourceApp: 'app1',
@@ -76,7 +76,7 @@ describe('analyzeMistakes', () => {
     for (let i = 0; i < 8; i++) {
       store = recordError(store, {
         wordId: `w${i}`,
-        category: 'case-ending',
+        category: 'off-by-one',
         expected: 'a',
         actual: 'b',
         sourceApp: 'app1',
@@ -86,7 +86,7 @@ describe('analyzeMistakes', () => {
     for (let i = 0; i < 2; i++) {
       store = recordError(store, {
         wordId: `w${i + 8}`,
-        category: 'case-ending',
+        category: 'off-by-one',
         expected: 'a',
         actual: 'b',
         sourceApp: 'app1',
@@ -104,7 +104,7 @@ describe('analyzeMistakes', () => {
     for (let i = 0; i < 2; i++) {
       store = recordError(store, {
         wordId: `w${i}`,
-        category: 'case-ending',
+        category: 'off-by-one',
         expected: 'a',
         actual: 'b',
         sourceApp: 'app1',
@@ -114,7 +114,7 @@ describe('analyzeMistakes', () => {
     for (let i = 0; i < 8; i++) {
       store = recordError(store, {
         wordId: `w${i + 2}`,
-        category: 'case-ending',
+        category: 'off-by-one',
         expected: 'a',
         actual: 'b',
         sourceApp: 'app1',
@@ -128,21 +128,21 @@ describe('analyzeMistakes', () => {
   it('sorts patterns by frequency descending', () => {
     let store = emptyStore();
     const now = Date.now();
-    // 3 case-ending errors
+    // 3 off-by-one errors
     for (let i = 0; i < 3; i++) {
       store = recordError(store, {
         wordId: `w${i}`,
-        category: 'case-ending',
+        category: 'off-by-one',
         expected: 'a',
         actual: 'b',
         sourceApp: 'app1',
       }, now);
     }
-    // 5 grammar errors
+    // 5 logic errors
     for (let i = 0; i < 5; i++) {
       store = recordError(store, {
         wordId: `w${i}`,
-        category: 'grammar-error',
+        category: 'logic-error',
         expected: 'a',
         actual: 'b',
         sourceApp: 'app1',
@@ -150,9 +150,9 @@ describe('analyzeMistakes', () => {
     }
 
     const result = analyzeMistakes(store, now);
-    expect(result[0].category).toBe('grammar-error');
+    expect(result[0].category).toBe('logic-error');
     expect(result[0].frequency).toBe(5);
-    expect(result[1].category).toBe('case-ending');
+    expect(result[1].category).toBe('off-by-one');
     expect(result[1].frequency).toBe(3);
   });
 });

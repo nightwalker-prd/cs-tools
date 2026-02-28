@@ -1,7 +1,7 @@
 /**
  * localStorage adapter for gamification state persistence.
  *
- * All keys use the `arabtools-` prefix.
+ * All keys use the `cstools-` prefix.
  * Handles serialization, deserialization, and storage limits.
  */
 
@@ -13,11 +13,11 @@ import type { UserStats } from '../types/achievements';
 // ─── Storage Keys ───────────────────────────────────────────────
 
 const KEYS = {
-  xp: 'arabtools-xp',
-  streak: 'arabtools-streak',
-  streakFreeze: 'arabtools-streak-freeze',
-  achievements: 'arabtools-achievements',
-  dailyChallenge: 'arabtools-daily-challenge',
+  xp: 'cstools-xp',
+  streak: 'cstools-streak',
+  streakFreeze: 'cstools-streak-freeze',
+  achievements: 'cstools-achievements',
+  dailyChallenge: 'cstools-daily-challenge',
 } as const;
 
 // ─── XP State ───────────────────────────────────────────────────
@@ -97,17 +97,10 @@ export function collectUserStats(): UserStats {
 
   // Detect which apps have been used by checking for their localStorage keys
   const appKeys: Array<{ app: string; key: string }> = [
-    { app: 'sarf-exercises', key: 'arabtools-sarf-ex-state' },
-    { app: 'bina', key: 'arabtools-bina-progress' },
-    { app: 'tashkhis', key: 'arabtools-tashkhis-history' },
-    { app: 'conjugation', key: 'arabtools-conjugation-progress' },
-    { app: 'hafiz', key: 'arabtools-hafiz-state' },
-    { app: 'mufradat', key: 'arabtools-srs-state' },
-    { app: 'kalimat', key: 'arabtools-kalimat-progress' },
-    { app: 'reading', key: 'arabtools-reading-visited' },
-    { app: 'insha', key: 'arabtools-insha-progress' },
-    { app: 'durus', key: 'arabtools-durus-progress' },
-    { app: 'dhakira', key: 'dhakira-stats' },
+    { app: 'algo-viz', key: 'cstools-algo-viz-state' },
+    { app: 'dsa-drills', key: 'cstools-srs-state' },
+    { app: 'system-design', key: 'cstools-system-design-bookmarks' },
+    { app: 'complexity-atlas', key: 'cstools-complexity-progress' },
   ];
 
   const appsUsed: string[] = [];

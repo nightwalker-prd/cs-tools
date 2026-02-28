@@ -1,5 +1,5 @@
 import { useMemo } from 'react';
-import { loadDeckState } from '@arabtools/srs/storage';
+import { loadDeckState } from '@cstools/srs/storage';
 import { computeSrsInsights } from '../services/srs-insights';
 import type { SrsInsightsData } from '../types/srs-insights';
 

@@ -13,8 +13,7 @@ export interface XpState {
 
 export interface LevelInfo {
   level: number;
-  titleAr: string;
-  titleEn: string;
+  title: string;
   xpRequired: number;
   xpForNext: number;
   progress: number; // 0-1 fraction toward next level
@@ -22,7 +21,7 @@ export interface LevelInfo {
 
 export interface LevelDef {
   level: number;
-  titleAr: string;
-  titleEn: string;
-  xpRequired: number;
+  title: string;
+  minXp: number;
+  icon: string;
 }

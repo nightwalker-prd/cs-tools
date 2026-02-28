@@ -17,7 +17,7 @@ import type { ResponseQuality } from '../types/reviews';
 function makeItem(overrides: Partial<SrsItem> = {}): SrsItem {
   return {
     id: 'test-1',
-    pillar: 'grammar',
+    pillar: 'dsa',
     difficulty: 'beginner',
     phase: 'new',
     stability: 0,
@@ -29,7 +29,7 @@ function makeItem(overrides: Partial<SrsItem> = {}): SrsItem {
     last_review: null,
     due: Date.now(),
     contentId: 'topic-1',
-    contentType: 'grammar-topic',
+    contentType: 'algorithm',
     ...overrides,
   };
 }

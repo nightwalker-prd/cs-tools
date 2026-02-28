@@ -1,5 +1,5 @@
 {
-  "name": "@arabtools/data",
+  "name": "@cstools/data",
   "version": "0.0.1",
   "private": true,
   "type": "module",
@@ -7,11 +7,11 @@
   "types": "./src/index.ts",
   "exports": {
     ".": "./src/index.ts",
-    "./grammar": "./src/grammar/index.ts",
-    "./vocabulary": "./src/vocabulary/index.ts",
-    "./reading": "./src/reading/index.ts",
-    "./types": "./src/types.ts",
-    "./quran": "./src/quran/index.ts"
+    "./algorithms": "./src/algorithms/index.ts",
+    "./data-structures": "./src/data-structures/index.ts",
+    "./systems": "./src/systems/index.ts",
+    "./patterns": "./src/patterns/index.ts",
+    "./types": "./src/types.ts"
   },
   "scripts": {
     "typecheck": "tsc --noEmit",

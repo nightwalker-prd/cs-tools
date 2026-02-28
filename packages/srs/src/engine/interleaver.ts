@@ -220,10 +220,10 @@ export function escalateQuestionType(item: SrsItem): QuestionType {
  */
 export function groupByPillar(items: SrsItem[]): Record<Pillar, SrsItem[]> {
   const groups: Record<Pillar, SrsItem[]> = {
-    grammar: [],
-    vocabulary: [],
-    reading: [],
-    quran: [],
+    dsa: [],
+    systems: [],
+    engineering: [],
+    theory: [],
   };
 
   for (const item of items) {

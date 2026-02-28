@@ -4,8 +4,8 @@ import type { WeeklyStats } from '../types/weekly';
 // ─── Storage Keys ───────────────────────────────────────────────
 
 const KEYS = {
-  errors: 'arabtools-errors',
-  weeklyStats: 'arabtools-weekly-stats',
+  errors: 'cstools-errors',
+  weeklyStats: 'cstools-weekly-stats',
 } as const;
 
 // ─── Error Store ────────────────────────────────────────────────

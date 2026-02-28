@@ -1,21 +1,16 @@
 // Types
 export type {
-  ExerciseQuestion,
-  Exercise,
+  ExerciseType,
   ExerciseTag,
-  ExerciseSection,
-  ExerciseUnit,
-  UnitMeta,
+  Difficulty,
+  ExerciseQuestion,
+  ExerciseSet,
 } from './types';
 
-export { TAG_LABELS } from './types';
-
-// Data loaders
+// Data
 export {
-  UNIT_INDEX,
-  UNIT_MAPPING,
-  getUnitForPages,
-  loadUnit,
-  loadAllUnits,
-  loadExercisesByTag,
+  sortingExercises,
+  complexityExercises,
+  dsExercises,
+  allExerciseSets,
 } from './data';

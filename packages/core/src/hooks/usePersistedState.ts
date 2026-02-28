@@ -7,17 +7,17 @@
 
 import { useState, useEffect, useCallback } from 'react';
 
-const STORAGE_PREFIX = 'arabtools-';
+const STORAGE_PREFIX = 'cstools-';
 
 /**
  * Persist state in localStorage with automatic serialization.
  *
- * @param key - Storage key (will be prefixed with 'arabtools-')
+ * @param key - Storage key (will be prefixed with 'cstools-')
  * @param initialValue - Default value if nothing in storage
  * @returns [value, setValue, clearValue] tuple
  *
  * @example
- * const [filters, setFilters, clearFilters] = usePersistedState('sarf-filters', {
+ * const [filters, setFilters, clearFilters] = usePersistedState('algo-filters', {
  *   difficulty: 'beginner',
  *   showHints: true,
  * });

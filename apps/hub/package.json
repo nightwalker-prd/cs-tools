@@ -1,5 +1,5 @@
 {
-  "name": "@arabtools/hub",
+  "name": "@cstools/hub",
   "version": "0.0.1",
   "private": true,
   "type": "module",
@@ -11,11 +11,9 @@
     "lint": "eslint src/"
   },
   "dependencies": {
-    "@arabtools/analytics": "*",
-    "@arabtools/core": "*",
-    "@arabtools/gamification": "*",
-    "@arabtools/srs": "*",
-    "@arabtools/ui": "*",
+    "@cstools/core": "workspace:*",
+    "@cstools/ui": "workspace:*",
+    "lucide-react": "^0.487.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },

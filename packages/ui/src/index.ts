@@ -73,3 +73,11 @@ export {
 export { Tabs, TabsList, TabsTrigger, TabsContent } from "./tabs";
 export { Tooltip, TooltipTrigger, TooltipContent, TooltipProvider } from "./tooltip";
 export { ErrorBoundary } from "./error-boundary";
+
+// CS-specific components
+export { CodeBlock } from "./code-block";
+export { TreeView, type TreeNodeData } from "./tree-view";
+export { ComplexityBadge } from "./complexity-badge";
+export { Terminal } from "./terminal";
+export { StepIndicator } from "./step-indicator";
+export { DifficultyStars } from "./difficulty-stars";

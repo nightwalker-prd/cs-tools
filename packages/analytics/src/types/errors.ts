@@ -1,10 +1,12 @@
 export type ErrorCategory =
-  | 'vocabulary-confusion'
-  | 'grammar-error'
-  | 'case-ending'
-  | 'gender-agreement'
-  | 'verb-conjugation'
-  | 'word-order';
+  | 'off-by-one'
+  | 'wrong-complexity'
+  | 'incorrect-base-case'
+  | 'missing-edge-case'
+  | 'wrong-data-structure'
+  | 'logic-error'
+  | 'syntax-error'
+  | 'wrong-algorithm';
 
 export interface ErrorEntry {
   id: string;

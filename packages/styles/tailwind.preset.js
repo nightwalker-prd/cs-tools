@@ -1,8 +1,6 @@
 /**
- * Arab Tools Tailwind Preset
- *
- * Shared theme configuration for all Arab Tools standalone tools.
- * Uses the Islamic manuscript aesthetic with navy, gold, and parchment tones.
+ * CS Tools Tailwind Preset
+ * Dark developer aesthetic theme for all CS Tools standalone tools.
  */
 
 /** @type {import('tailwindcss').Config} */
@@ -10,34 +8,37 @@ export default {
   theme: {
     extend: {
       colors: {
-        // Core brand colors
         primary: {
-          DEFAULT: '#1a3150', // Navy (lapis)
-          foreground: '#ffffff',
+          DEFAULT: '#0D1117',
+          foreground: '#E6EDF3',
         },
         accent: {
-          DEFAULT: '#c5a253', // Gold
-          foreground: '#1a3150',
+          DEFAULT: '#58A6FF',
+          foreground: '#0D1117',
+          secondary: '#3FB950',
+          warning: '#D29922',
+          error: '#F85149',
         },
-        // Parchment palette
-        parchment: {
-          light: '#FAF7F2',
-          warm: '#F5EDE3',
-          dark: '#E8DFD4',
+        surface: {
+          0: '#010409',
+          1: '#0D1117',
+          2: '#161B22',
+          3: '#21262D',
         },
-        // Ink colors
-        ink: {
-          black: '#2A2522',
-          brown: '#5C4A3D',
+        border: {
+          DEFAULT: '#30363D',
         },
-        // Additional colors
-        gold: {
-          light: '#E8D5A3',
-          DEFAULT: '#C5A253',
+        muted: {
+          DEFAULT: '#8B949E',
+          foreground: '#8B949E',
         },
-        burgundy: '#6B2D3C',
-        lapis: '#1a3150',
-        // UI colors
+        syntax: {
+          keyword: '#FF7B72',
+          string: '#A5D6FF',
+          function: '#D2A8FF',
+          variable: '#FFA657',
+        },
+        // UI colors (CSS variables for shadcn compatibility)
         background: 'var(--background)',
         foreground: 'var(--foreground)',
         card: {
@@ -48,22 +49,16 @@ export default {
           DEFAULT: 'var(--popover)',
           foreground: 'var(--popover-foreground)',
         },
-        muted: {
-          DEFAULT: 'var(--muted)',
-          foreground: 'var(--muted-foreground)',
-        },
         destructive: {
           DEFAULT: 'var(--destructive)',
           foreground: 'var(--destructive-foreground)',
         },
-        border: 'var(--border)',
         input: 'var(--input)',
         ring: 'var(--ring)',
       },
       fontFamily: {
-        sans: ['Open Sans', 'sans-serif'],
-        serif: ['EB Garamond', 'serif'],
-        arabic: ['Amiri', 'serif'],
+        mono: ['JetBrains Mono', 'Fira Code', 'monospace'],
+        sans: ['Inter', 'system-ui', 'sans-serif'],
       },
       borderRadius: {
         lg: 'var(--radius)',
@@ -71,18 +66,18 @@ export default {
         sm: 'calc(var(--radius) - 4px)',
       },
       animation: {
-        'float': 'float 6s ease-in-out infinite',
+        'terminal-blink': 'terminal-blink 1s step-end infinite',
         'gradient': 'gradient 3s ease infinite',
         'fade-in-up': 'fadeInUp 0.3s ease-out',
         'scale-in': 'scale-in 0.2s ease-out',
-        'gold-pulse': 'gold-pulse 2s ease-in-out infinite',
+        'glow-pulse': 'glow-pulse 2s ease-in-out infinite',
         'accordion-down': 'accordion-down 0.2s ease-out',
         'accordion-up': 'accordion-up 0.2s ease-out',
       },
       keyframes: {
-        float: {
-          '0%, 100%': { transform: 'translateY(0) rotate(45deg)' },
-          '50%': { transform: 'translateY(-20px) rotate(45deg)' },
+        'terminal-blink': {
+          '0%, 100%': { opacity: '1' },
+          '50%': { opacity: '0' },
         },
         gradient: {
           '0%': { backgroundPosition: '0% 50%' },
@@ -97,9 +92,9 @@ export default {
           '0%': { transform: 'scale(0.8)', opacity: '0' },
           '100%': { transform: 'scale(1)', opacity: '1' },
         },
-        'gold-pulse': {
-          '0%, 100%': { boxShadow: '0 0 0 0 rgba(197, 162, 83, 0.3)' },
-          '50%': { boxShadow: '0 0 0 8px rgba(197, 162, 83, 0)' },
+        'glow-pulse': {
+          '0%, 100%': { boxShadow: '0 0 0 0 rgba(88, 166, 255, 0.3)' },
+          '50%': { boxShadow: '0 0 0 8px rgba(88, 166, 255, 0)' },
         },
         'accordion-down': {
           from: { height: '0' },

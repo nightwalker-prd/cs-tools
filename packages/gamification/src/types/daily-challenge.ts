@@ -1,6 +1,5 @@
 export interface DailyChallengeQuestion {
-  questionAr: string;
-  questionEn: string;
+  question: string;
   options: string[];
   correctIndex: number;
   category: string;

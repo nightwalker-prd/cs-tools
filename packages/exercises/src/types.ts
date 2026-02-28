@@ -1,76 +1,26 @@
-/**
- * FSTU Exercise Type Definitions
- *
- * Shared types for the FSTU Arabic curriculum exercises.
- * These exercises cover 5 units with 838 exercises and 11,789 questions.
- */
+export type ExerciseType = 'multiple-choice' | 'fill-blank' | 'trace-output' | 'complexity-match' | 'order-steps' | 'code-fix' | 'diagram-label';
+
+export type ExerciseTag = 'sorting' | 'trees' | 'graphs' | 'dynamic-programming' | 'complexity' | 'recursion' | 'system-design' | 'data-structures' | 'searching' | 'strings' | 'hash-tables';
+
+export type Difficulty = 'easy' | 'medium' | 'hard';
 
 export interface ExerciseQuestion {
   id: string;
+  type: ExerciseType;
   question: string;
-  answer: string;
+  codeSnippet?: string;
+  language?: string;
+  options?: string[];
+  answer: string | string[];
+  explanation: string;
+  hints?: string[];
+  difficulty: Difficulty;
+  tags: ExerciseTag[];
 }
 
-export interface Exercise {
+export interface ExerciseSet {
   id: string;
   title: string;
   description: string;
   questions: ExerciseQuestion[];
-  tags: ExerciseTag[];
-}
-
-export type ExerciseTag =
-  | 'translation'
-  | 'fill-blank'
-  | 'grammar-analysis'
-  | 'descriptive-phrase'
-  | 'demonstrative-phrase'
-  | 'possessive-phrase'
-  | 'conjunctive-phrase'
-  | 'verb-conjugation'
-  | 'pronouns'
-  | 'emphasis'
-  | 'relative-clause'
-  | 'conditional'
-  | 'irab'
-  | 'morphology'
-  | 'vocabulary';
-
-export const TAG_LABELS: Record<ExerciseTag, string> = {
-  'translation': 'Translation',
-  'fill-blank': 'Fill in Blank',
-  'grammar-analysis': 'Grammar',
-  'verb-conjugation': 'Conjugation',
-  'pronouns': 'Pronouns',
-  'emphasis': 'Emphasis',
-  'descriptive-phrase': 'Descriptive',
-  'demonstrative-phrase': 'Demonstrative',
-  'possessive-phrase': 'Possessive',
-  'conjunctive-phrase': 'Conjunctive',
-  'relative-clause': 'Relative Clause',
-  'conditional': 'Conditional',
-  'irab': "I'rab",
-  'morphology': 'Morphology',
-  'vocabulary': 'Vocabulary',
-};
-
-export interface ExerciseSection {
-  id: string;
-  title: string;
-  bookPages: { start: number; end: number };
-  exercises: Exercise[];
-}
-
-export interface ExerciseUnit {
-  unit: number;
-  title: string;
-  sections: ExerciseSection[];
-}
-
-export interface UnitMeta {
-  unit: number;
-  title: string;
-  sectionCount: number;
-  exerciseCount: number;
-  questionCount: number;
 }

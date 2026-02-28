@@ -25,7 +25,7 @@ export function computeDashboardData(
   history: ReviewLog[],
   now: number = Date.now(),
 ): DashboardData {
-  const pillars: Pillar[] = ['grammar', 'vocabulary', 'reading', 'quran'];
+  const pillars: Pillar[] = ['dsa', 'systems', 'engineering', 'theory'];
 
   // Per-pillar stats
   const pillarStats = {} as Record<Pillar, PillarStats>;

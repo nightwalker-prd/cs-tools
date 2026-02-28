@@ -13,7 +13,7 @@ import type { SrsItem } from '../types/items';
 function makeItem(contentId: string, stability: number = 5): SrsItem {
   return {
     id: `srs-${contentId}`,
-    pillar: 'grammar',
+    pillar: 'dsa',
     difficulty: 'beginner',
     phase: 'review',
     stability,
@@ -25,7 +25,7 @@ function makeItem(contentId: string, stability: number = 5): SrsItem {
     last_review: Date.now() - 5 * 24 * 60 * 60 * 1000,
     due: Date.now(),
     contentId,
-    contentType: 'grammar-topic',
+    contentType: 'algorithm',
   };
 }
 

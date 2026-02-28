@@ -1,5 +1,5 @@
 import { useMemo } from 'react';
-import { loadReviewHistory } from '@arabtools/srs/storage';
+import { loadReviewHistory } from '@cstools/srs/storage';
 
 /**
  * Hook that extracts unique review dates from SRS history
