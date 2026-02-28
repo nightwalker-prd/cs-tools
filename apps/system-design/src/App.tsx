@@ -1,65 +1,125 @@
-import { useState, useMemo } from 'react';
+import { useState } from 'react';
 import { usePersistedState } from '@cstools/core/hooks';
+import { chapters, getChapter } from './data/topics';
 import { Sidebar } from './components/Sidebar';
-import { ConceptCard } from './components/ConceptCard';
-import { ConceptDetail } from './components/ConceptDetail';
-import { concepts, categories } from './data/concepts';
+import { TopicView } from './components/TopicView';
+import { SearchResults } from './components/SearchResults';
+import { QuizMode } from './components/QuizMode';
+import { Server } from 'lucide-react';
+
+export interface QuizScore {
+  score: number;
+  total: number;
+  bestPct: number;
+  lastAttempt: string;
+}
 
 export default function App() {
-  const [activeCategory, setActiveCategory] = useState<string | null>(null);
+  const [activeChapter, setActiveChapter] = useState<number | null>(null);
   const [searchQuery, setSearchQuery] = useState('');
-  const [selectedConcept, setSelectedConcept] = useState<string | null>(null);
+  const [quizMode, setQuizMode] = useState(false);
   const [bookmarks, setBookmarks] = usePersistedState<string[]>('system-design-bookmarks', []);
+  const [completedChapters, setCompletedChapters] = usePersistedState<number[]>('system-design-completed', []);
+  const [quizScores, setQuizScores] = usePersistedState<Record<number, QuizScore>>('system-design-quiz-scores', {});
 
-  const filteredConcepts = useMemo(() => {
-    return concepts.filter(c => {
-      if (activeCategory && c.category !== activeCategory) return false;
-      if (searchQuery && !c.name.toLowerCase().includes(searchQuery.toLowerCase()) && !c.description.toLowerCase().includes(searchQuery.toLowerCase())) return false;
-      return true;
-    });
-  }, [activeCategory, searchQuery]);
+  const handleQuizComplete = (chapterId: number, score: number, total: number) => {
+    const pct = Math.round((score / total) * 100);
+    setQuizScores(prev => ({
+      ...prev,
+      [chapterId]: {
+        score,
+        total,
+        bestPct: Math.max(pct, prev[chapterId]?.bestPct ?? 0),
+        lastAttempt: new Date().toISOString(),
+      },
+    }));
+  };
 
   const toggleBookmark = (id: string) => {
     setBookmarks(prev => prev.includes(id) ? prev.filter(b => b !== id) : [...prev, id]);
   };
 
-  const selected = concepts.find(c => c.id === selectedConcept);
+  const toggleCompleted = (chapterId: number) => {
+    setCompletedChapters(prev =>
+      prev.includes(chapterId) ? prev.filter(id => id !== chapterId) : [...prev, chapterId]
+    );
+  };
+
+  const handleChapterChange = (id: number) => {
+    setActiveChapter(id);
+    setSearchQuery('');
+  };
+
+  const chapter = activeChapter ? getChapter(activeChapter) : null;
+
+  const renderContent = () => {
+    if (searchQuery.trim()) {
+      return (
+        <SearchResults
+          query={searchQuery}
+          bookmarks={bookmarks}
+          onToggleBookmark={toggleBookmark}
+          onGoToChapter={handleChapterChange}
+        />
+      );
+    }
+
+    if (quizMode && chapter) {
+      return <QuizMode chapterId={chapter.id} chapterTitle={chapter.title} onQuizComplete={handleQuizComplete} bestScore={quizScores[chapter.id]?.bestPct} />;
+    }
+
+    if (chapter) {
+      return (
+        <TopicView
+          chapter={chapter}
+          bookmarks={bookmarks}
+          onToggleBookmark={toggleBookmark}
+          isCompleted={completedChapters.includes(chapter.id)}
+          onToggleCompleted={() => toggleCompleted(chapter.id)}
+        />
+      );
+    }
+
+    return (
+      <div className="max-w-2xl mx-auto text-center py-20 space-y-6">
+        <Server className="w-16 h-16 text-[#58A6FF] mx-auto" />
+        <h2 className="text-2xl font-bold text-[#E6EDF3]">System Design</h2>
+        <p className="text-[#8B949E] leading-relaxed">
+          Master system design concepts for interviews and real-world architecture.
+          Select a topic from the sidebar to begin.
+        </p>
+        <div className="grid grid-cols-3 gap-4 pt-4">
+          <div className="bg-[#161B22] border border-[#30363D] rounded-lg p-4">
+            <div className="text-2xl font-bold font-mono text-[#E6EDF3]">{chapters.length}</div>
+            <div className="text-xs text-[#8B949E]">Topics</div>
+          </div>
+          <div className="bg-[#161B22] border border-[#30363D] rounded-lg p-4">
+            <div className="text-2xl font-bold font-mono text-[#3FB950]">{completedChapters.length}</div>
+            <div className="text-xs text-[#8B949E]">Completed</div>
+          </div>
+          <div className="bg-[#161B22] border border-[#30363D] rounded-lg p-4">
+            <div className="text-2xl font-bold font-mono text-[#D29922]">{bookmarks.length}</div>
+            <div className="text-xs text-[#8B949E]">Bookmarked</div>
+          </div>
+        </div>
+      </div>
+    );
+  };
 
   return (
     <div className="flex h-screen bg-[#0D1117]">
       <Sidebar
-        activeCategory={activeCategory}
-        onCategoryChange={setActiveCategory}
+        activeChapter={activeChapter}
+        onChapterChange={handleChapterChange}
         searchQuery={searchQuery}
         onSearchChange={setSearchQuery}
+        completedChapters={completedChapters}
+        quizMode={quizMode}
+        onToggleQuizMode={() => setQuizMode(!quizMode)}
+        quizScores={quizScores}
       />
       <main className="flex-1 overflow-y-auto p-8">
-        {selected ? (
-          <ConceptDetail
-            concept={selected}
-            isBookmarked={bookmarks.includes(selected.id)}
-            onToggleBookmark={toggleBookmark}
-            onBack={() => setSelectedConcept(null)}
-          />
-        ) : (
-          <div>
-            <h2 className="text-xl font-bold text-[#E6EDF3] mb-6">
-              {activeCategory ? categories.find(c => c.id === activeCategory)?.name || 'Concepts' : 'All Concepts'}
-              <span className="text-sm text-[#8B949E] font-normal ml-2">({filteredConcepts.length})</span>
-            </h2>
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-              {filteredConcepts.map(concept => (
-                <ConceptCard
-                  key={concept.id}
-                  concept={concept}
-                  isBookmarked={bookmarks.includes(concept.id)}
-                  onToggleBookmark={toggleBookmark}
-                  onClick={() => setSelectedConcept(concept.id)}
-                />
-              ))}
-            </div>
-          </div>
-        )}
+        {renderContent()}
       </main>
     </div>
   );
