@@ -417,6 +417,129 @@ export const quizQuestions: QuizQuestion[] = [
     answer: 2,
     explanation: 'Kubernetes containers use Linux network namespaces (isolated network stacks per pod), veth pairs (virtual Ethernet cables connecting pods to host bridges), and CNI plugins (Calico, Cilium, Flannel) that implement the actual networking strategy — whether overlay (VXLAN) or direct routing.',
   },
+
+  // Topic 11: Wireless & Mobile Networks
+  {
+    id: 't11-q1',
+    chapterId: 11,
+    question: 'Why does Wi-Fi use CSMA/CA (Collision Avoidance) instead of CSMA/CD (Collision Detection) like Ethernet?',
+    options: [
+      'CSMA/CA is faster than CSMA/CD',
+      'Wireless stations cannot reliably detect collisions while transmitting — the transmitter\'s own signal overwhelms incoming signals',
+      'CSMA/CD requires more bandwidth than is available on Wi-Fi channels',
+      'FCC regulations prohibit collision detection on wireless frequencies',
+    ],
+    answer: 1,
+    explanation: 'In wired Ethernet, a station can listen while sending and detect a collision (voltage anomaly). In wireless, the transmitter\'s own signal is orders of magnitude stronger than any incoming signal at its antenna — it cannot "hear" a collision while transmitting. So Wi-Fi avoids collisions by listening before transmitting (carrier sense) and using random backoff timers.',
+  },
+  {
+    id: 't11-q2',
+    chapterId: 11,
+    question: 'What is the key innovation of Wi-Fi 6\'s OFDMA compared to previous Wi-Fi generations?',
+    options: [
+      'It uses wider 160 MHz channels for faster single-device throughput',
+      'It subdivides a channel into resource units so multiple clients can be served simultaneously in a single transmission',
+      'It increases the maximum number of spatial streams from 4 to 8',
+      'It switches from 5 GHz to 6 GHz for less interference',
+    ],
+    answer: 1,
+    explanation: 'Previous Wi-Fi generations serve one client at a time per channel (or a few with MU-MIMO). OFDMA splits the channel into smaller resource units (RUs) that can be assigned to different clients simultaneously — dramatically improving efficiency in dense environments with many devices sending small packets (IoT, browsing, messaging).',
+  },
+  {
+    id: 't11-q3',
+    chapterId: 11,
+    question: 'Why does 5G use "network slicing" and what problem does it solve?',
+    options: [
+      'It divides the radio spectrum into smaller frequency bands to reduce interference',
+      'It creates multiple isolated virtual networks on a single physical infrastructure, each with different performance guarantees (latency, bandwidth, reliability)',
+      'It slices data packets into smaller fragments for faster over-the-air transmission',
+      'It separates voice and data traffic onto different cell towers',
+    ],
+    answer: 1,
+    explanation: 'Network slicing partitions a single physical 5G network into multiple isolated virtual networks, each tailored for a specific use case — e.g., one slice with ultra-low latency for autonomous vehicles (URLLC), another with massive bandwidth for video streaming (eMBB), and another for millions of IoT sensors (mMTC). This requires a 5G Standalone (SA) core architecture.',
+  },
+
+  // Topic 12: Cloud & Virtual Networking
+  {
+    id: 't12-q1',
+    chapterId: 12,
+    question: 'Why does VXLAN use a 24-bit VNI (VXLAN Network Identifier) instead of relying on traditional 802.1Q VLANs?',
+    options: [
+      'VXLAN is faster than VLANs because it uses UDP',
+      '802.1Q VLANs are limited to 4094 IDs (12-bit), which is insufficient for multi-tenant cloud environments — VXLAN\'s 24-bit VNI supports ~16 million segments',
+      'VXLAN encrypts traffic while VLANs do not',
+      'VLANs cannot span multiple physical switches',
+    ],
+    answer: 1,
+    explanation: '802.1Q uses a 12-bit VLAN ID, limiting networks to 4094 VLANs — far too few for cloud providers with thousands of tenants. VXLAN encapsulates L2 frames in UDP with a 24-bit VNI, supporting ~16.7 million unique segments. Additionally, VXLAN tunnels over L3 networks, allowing L2 segments to span across data centers without requiring L2 adjacency.',
+  },
+  {
+    id: 't12-q2',
+    chapterId: 12,
+    question: 'What is the main architectural difference between SDN and traditional networking that makes SDN more programmable?',
+    options: [
+      'SDN uses newer Ethernet cables with higher bandwidth',
+      'SDN replaces TCP/IP with a proprietary protocol stack',
+      'SDN separates the control plane (routing decisions) from the data plane (packet forwarding), centralizing decisions in a controller that exposes APIs',
+      'SDN eliminates the need for IP addresses by using MAC-only routing',
+    ],
+    answer: 2,
+    explanation: 'In traditional networking, each device runs its own control plane (OSPF, STP, etc.) — configuration is per-device and distributed. SDN extracts routing decisions into a centralized controller that has a global network view and programs forwarding rules into "dumb" switches via OpenFlow or similar protocols. The controller exposes northbound APIs, enabling applications to programmatically configure the network.',
+  },
+  {
+    id: 't12-q3',
+    chapterId: 12,
+    question: 'What challenge does NFV face when virtualizing stateful network functions like firewalls?',
+    options: [
+      'Virtual firewalls cannot inspect encrypted traffic',
+      'Stateful functions maintain session tables that must be synchronized across instances when scaling — making horizontal scaling significantly harder than for stateless functions',
+      'NFV can only run on specialized hardware, not commodity servers',
+      'Virtual network functions cannot achieve line-rate performance under any circumstances',
+    ],
+    answer: 1,
+    explanation: 'Stateful network functions (firewalls, NAT, load balancers) maintain per-connection state (session tables, connection tracking). When scaling horizontally by adding more VNF instances, this state must be synchronized or partitioned across instances — otherwise, traffic from an existing session may hit a new instance that has no context. This is much harder than scaling stateless functions like routers.',
+  },
+
+  // Topic 13: Observability & Troubleshooting
+  {
+    id: 't13-q1',
+    chapterId: 13,
+    question: 'Why is SNMP v3 strongly recommended over v1/v2c in production environments?',
+    options: [
+      'SNMPv3 supports higher polling rates and more OIDs per request',
+      'SNMPv3 adds authentication (verifying identity) and encryption (confidentiality) — v1/v2c send community strings as plaintext, allowing anyone on the network to read or modify device configurations',
+      'SNMPv3 is the only version that supports network monitoring',
+      'SNMPv3 replaces the pull model with push-based streaming',
+    ],
+    answer: 1,
+    explanation: 'SNMP v1/v2c use "community strings" as the only authentication mechanism, and these are sent in plaintext — anyone who captures a packet can see the community string and gain read or write access to network devices. SNMPv3 introduces USM (User-based Security Model) with authentication (HMAC-SHA) and privacy (AES encryption), making it suitable for production use.',
+  },
+  {
+    id: 't13-q2',
+    chapterId: 13,
+    question: 'What is the difference between head-based and tail-based trace sampling, and when does it matter?',
+    options: [
+      'Head-based captures the first 50% of spans; tail-based captures the last 50%',
+      'Head-based decides whether to sample at trace start (fast, but may miss rare errors); tail-based decides after the trace completes (catches errors/slow traces, but requires buffering)',
+      'Head-based samples HTTP headers only; tail-based samples request bodies',
+      'Head-based is for client-side traces; tail-based is for server-side traces',
+    ],
+    answer: 1,
+    explanation: 'Head-based sampling makes the sampling decision at the very start of a trace (e.g., sample 10% of all traces). This is simple and low-overhead but randomly discards traces — including rare but important error traces. Tail-based sampling buffers the entire trace and decides after it completes, allowing rules like "keep all traces with errors or latency > 2s." The tradeoff is that tail-based requires a collection tier that buffers all traces before deciding.',
+  },
+  {
+    id: 't13-q3',
+    chapterId: 13,
+    question: 'A TCP connection completes the three-way handshake successfully but then hangs when sending large data. Small requests work fine. What is the most likely cause?',
+    options: [
+      'The server\'s SSL certificate has expired',
+      'DNS resolution is returning the wrong IP address',
+      'Path MTU Discovery is broken — ICMP "Fragmentation Needed" messages are being blocked by a firewall, so oversized packets are silently dropped',
+      'The client is using UDP instead of TCP for the data transfer',
+    ],
+    answer: 2,
+    explanation: 'This is a classic MTU black hole. The TCP handshake uses small packets (SYN/ACK) that fit within any MTU, so the connection establishes successfully. When the application sends large data, packets may exceed the path MTU. Normally, routers send back ICMP "Fragmentation Needed" (or "Packet Too Big" for IPv6) so the sender reduces its segment size. If a firewall blocks these ICMP messages, the sender never learns to reduce its packet size, and large packets are silently dropped — causing the connection to hang.',
+  },
 ];
 
 export function getQuestionsForChapter(chapterId: number): QuizQuestion[] {

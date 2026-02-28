@@ -23,6 +23,7 @@ export const parts = [
   { id: 1, title: 'Array & String Patterns' },
   { id: 2, title: 'Graph & Tree Patterns' },
   { id: 3, title: 'Advanced Optimization Patterns' },
+  { id: 4, title: 'Specialized Techniques' },
 ];
 
 export const topics: Topic[] = [
@@ -804,6 +805,190 @@ export const topics: Topic[] = [
           'General graph coloring (k > 2) is NP-hard, but 2-coloring is polynomial',
         ],
         realWorld: ['LC 785: Is Graph Bipartite?', 'LC 886: Possible Bipartition', 'LC 1042: Flower Planting With No Adjacent'],
+      },
+    ],
+  },
+
+  // ═══════════════════════════════════════════════════════════════
+  // PART 4: Specialized Techniques
+  // ═══════════════════════════════════════════════════════════════
+  {
+    id: 11,
+    title: 'Trie (Prefix Tree)',
+    part: 4,
+    partTitle: 'Specialized Techniques',
+    summary: 'A Trie (prefix tree) stores strings character by character in a tree structure, enabling O(L) lookups, prefix matching, and autocomplete. Combined with backtracking, Tries power efficient word search in grids and dictionary-based problems.',
+    concepts: [
+      {
+        id: 'p11-c1',
+        name: 'Trie Structure & Operations',
+        description: 'A Trie is a tree where each node represents a character, and paths from root to marked nodes spell out stored words. Insert, search, and delete all run in O(L) where L is the word length.',
+        keyPoints: [
+          'Each node has up to 26 children (for lowercase English) and an isEnd flag marking complete words',
+          'Insert: walk character by character, creating nodes as needed, mark the last node as end-of-word',
+          'Search: walk character by character — if any child is missing, word is absent; if path exists and isEnd is true, word is found',
+          'Space complexity: O(N × L × Σ) where N is number of words, L is average length, Σ is alphabet size',
+          'Can store additional data at nodes (e.g., frequency counts, word references) for advanced queries',
+        ],
+        tradeoffs: [
+          'O(L) lookup vs. hash map O(L) average — Trie excels at prefix queries where hash maps fail',
+          'Higher memory usage than hash maps due to pointer overhead per character',
+        ],
+        realWorld: ['LC 208: Implement Trie', 'LC 211: Design Add and Search Words', 'LC 648: Replace Words'],
+      },
+      {
+        id: 'p11-c2',
+        name: 'Prefix Matching & Autocomplete',
+        description: 'Tries enable efficient prefix-based operations: checking if any word starts with a given prefix, enumerating all words with that prefix, and building autocomplete systems.',
+        keyPoints: [
+          'startsWith: walk the Trie along the prefix — if the path exists, at least one word has that prefix',
+          'Autocomplete: navigate to the prefix node, then DFS/BFS to collect all words in that subtree',
+          'Ranked autocomplete: store frequency at each end-of-word node, use a priority queue during collection',
+          'Longest common prefix: traverse the Trie until a node has more than one child or is an end-of-word',
+          'Prefix count: store a count at each node tracking how many words pass through it',
+        ],
+        tradeoffs: [
+          'Trie-based autocomplete is O(P + K) where P is prefix length and K is results — hash maps require scanning all entries',
+          'For very large dictionaries, compressed Tries (radix trees) reduce memory by collapsing single-child chains',
+        ],
+        realWorld: ['LC 14: Longest Common Prefix', 'LC 1268: Search Suggestions System', 'LC 642: Design Search Autocomplete System'],
+      },
+      {
+        id: 'p11-c3',
+        name: 'Word Search in Grids with Trie Pruning',
+        description: 'Combining a Trie with grid backtracking solves multi-word search problems efficiently — the Trie prunes branches where no dictionary word can be formed, avoiding redundant DFS paths.',
+        keyPoints: [
+          'Build a Trie from the dictionary, then DFS from each cell using the Trie to guide exploration',
+          'At each cell, check if the current character exists as a child in the current Trie node — if not, prune immediately',
+          'When an end-of-word node is reached, record the found word and optionally remove it to avoid duplicates',
+          'Trie pruning reduces time from O(cells × 4^L × words) to O(cells × 4^L) — shared prefixes are explored once',
+          'Remove leaf nodes after finding a word (backtracking cleanup) to further prune future searches',
+        ],
+        tradeoffs: [
+          'Trie + DFS is optimal for searching many words simultaneously vs. running DFS once per word',
+          'Building the Trie costs O(N × L) time and space upfront, but amortizes over multiple searches',
+        ],
+        realWorld: ['LC 212: Word Search II', 'LC 79: Word Search', 'LC 425: Word Squares'],
+      },
+    ],
+  },
+  {
+    id: 12,
+    title: 'Intervals & Line Sweep',
+    part: 4,
+    partTitle: 'Specialized Techniques',
+    summary: 'Interval problems involve ranges [start, end] that may overlap, conflict, or need merging. The line sweep technique processes events (start/end points) in sorted order, enabling efficient solutions for scheduling, coverage, and intersection problems.',
+    concepts: [
+      {
+        id: 'p12-c1',
+        name: 'Merge Overlapping Intervals',
+        description: 'Sort intervals by start time, then scan linearly, merging any interval whose start overlaps with the previous interval\'s end. Produces a minimal set of non-overlapping intervals.',
+        keyPoints: [
+          'Sort by start time — overlapping intervals become adjacent after sorting',
+          'Maintain a "current" interval; for each next interval: if next.start <= current.end, extend current.end = max(current.end, next.end)',
+          'If no overlap, push the current interval to results and start a new current',
+          'Time O(n log n) for sorting + O(n) scan = O(n log n) overall',
+          'Edge case: intervals that touch (e.g., [1,3] and [3,5]) may or may not merge depending on problem definition',
+        ],
+        tradeoffs: [
+          'Sorting is required — if intervals arrive pre-sorted, the merge step is O(n)',
+          'In-place merging is possible but tricky; typically O(n) extra space for the result array',
+        ],
+        realWorld: ['LC 56: Merge Intervals', 'LC 986: Interval List Intersections', 'LC 57: Insert Interval'],
+      },
+      {
+        id: 'p12-c2',
+        name: 'Insert & Schedule Intervals',
+        description: 'Insert a new interval into a sorted, non-overlapping set (merging as needed), or determine the minimum resources needed to handle all intervals without conflict.',
+        keyPoints: [
+          'Insert interval: add all intervals that end before the new one, merge overlapping ones, then add remaining — O(n) with sorted input',
+          'Meeting Rooms I: sort by start, check if any consecutive pair overlaps — O(n log n)',
+          'Meeting Rooms II: sort start and end times separately, sweep to find max concurrent meetings',
+          'Alternatively, use a min-heap of end times: for each meeting, if heap top <= current start, reuse that room; otherwise allocate a new room',
+          'The peak number of overlapping intervals equals the minimum number of resources needed (pigeonhole principle)',
+        ],
+        tradeoffs: [
+          'Sorting + sweep is O(n log n) and works for all interval scheduling variants',
+          'Heap approach gives O(n log n) and is intuitive for "minimum rooms/resources" problems',
+        ],
+        realWorld: ['LC 57: Insert Interval', 'LC 252: Meeting Rooms', 'LC 253: Meeting Rooms II'],
+      },
+      {
+        id: 'p12-c3',
+        name: 'Line Sweep for Concurrent Events',
+        description: 'The line sweep technique converts intervals into +1 (start) and -1 (end) events, sorts them, and sweeps left to right tracking the running count — the maximum count is the peak concurrency.',
+        keyPoints: [
+          'Create events: for each interval [s, e], add (+1, s) and (-1, e) — or (-1, e+1) for inclusive ends',
+          'Sort events by time; break ties by processing ends before starts (to avoid overcounting at boundaries)',
+          'Sweep through events, maintaining a running counter; track the maximum — this is the answer for "max overlap"',
+          'Time O(n log n) for sorting events + O(n) sweep',
+          'Generalizes to 2D sweep lines for rectangle intersection and computational geometry problems',
+        ],
+        tradeoffs: [
+          'Line sweep is more general than the two-pointer approach — handles arbitrary event types and weights',
+          'For simple overlap counting, the sorted start/end arrays approach avoids creating event objects',
+        ],
+        realWorld: ['LC 253: Meeting Rooms II', 'LC 1094: Car Pooling', 'LC 731: My Calendar II'],
+      },
+    ],
+  },
+  {
+    id: 13,
+    title: 'Monotonic Stack & Queue',
+    part: 4,
+    partTitle: 'Specialized Techniques',
+    summary: 'A monotonic stack or queue maintains elements in sorted order, enabling O(n) solutions for "next greater/smaller element" patterns, histogram problems, and sliding window extrema. The key insight is that elements which can never be useful are discarded eagerly.',
+    concepts: [
+      {
+        id: 'p13-c1',
+        name: 'Next Greater Element Pattern',
+        description: 'A monotonic decreasing stack processes elements right-to-left (or left-to-right with popping), efficiently finding the next greater or next smaller element for every position in O(n) total.',
+        keyPoints: [
+          'Maintain a stack of candidates in decreasing order; for each element, pop all smaller elements (they found their "next greater")',
+          'After popping, the stack top (if exists) is the current element\'s next greater element',
+          'Each element is pushed and popped at most once — total O(n) despite nested loops',
+          'Variants: next smaller element (maintain increasing stack), previous greater/smaller (reverse direction)',
+          'Circular array variant: process the array twice (indices 0 to 2n-1, using modulo) to handle wrap-around',
+        ],
+        tradeoffs: [
+          'O(n) vs. brute force O(n^2) — each element enters and leaves the stack exactly once',
+          'Stack stores indices (not values) to also track distances like "days until warmer temperature"',
+        ],
+        realWorld: ['LC 496: Next Greater Element I', 'LC 503: Next Greater Element II', 'LC 739: Daily Temperatures'],
+      },
+      {
+        id: 'p13-c2',
+        name: 'Largest Rectangle in Histogram',
+        description: 'Use a monotonic increasing stack to find the largest rectangular area in a histogram — when a bar shorter than the stack top is encountered, compute the area of rectangles that can no longer extend right.',
+        keyPoints: [
+          'Maintain a stack of bar indices in increasing height order',
+          'When a shorter bar is encountered, pop taller bars and compute their maximum rectangle: height × (current_index - stack_top - 1)',
+          'The popped bar\'s rectangle extends from the previous stack top + 1 to the current index - 1',
+          'After processing all bars, pop remaining stack entries using n as the right boundary',
+          'Extends to "maximal rectangle in a binary matrix" by treating each row as a histogram and applying the algorithm per row',
+        ],
+        tradeoffs: [
+          'O(n) time and O(n) space — each bar is pushed and popped exactly once',
+          'The stack-based approach is harder to implement correctly than the O(n^2) brute force but dramatically faster',
+        ],
+        realWorld: ['LC 84: Largest Rectangle in Histogram', 'LC 85: Maximal Rectangle', 'LC 42: Trapping Rain Water'],
+      },
+      {
+        id: 'p13-c3',
+        name: 'Sliding Window Maximum with Monotonic Deque',
+        description: 'A monotonic decreasing deque maintains potential maximum values for a sliding window — elements are discarded from the back when a larger element arrives, and from the front when they exit the window.',
+        keyPoints: [
+          'Deque stores indices; front of deque is always the current window maximum',
+          'When adding element at index i: remove all indices from the back whose values are <= arr[i] (they can never be the max)',
+          'Remove front index if it is outside the window (i.e., front index <= i - k for window size k)',
+          'Each element enters and leaves the deque at most once — O(n) total for all windows',
+          'The deque is "monotonic decreasing" because each new element removes all smaller ones before being added',
+        ],
+        tradeoffs: [
+          'O(n) vs. O(n log k) with a heap or balanced BST — the deque avoids log-factor overhead',
+          'Also applicable to sliding window minimum by maintaining a monotonic increasing deque',
+        ],
+        realWorld: ['LC 239: Sliding Window Maximum', 'LC 862: Shortest Subarray with Sum at Least K', 'LC 1438: Longest Subarray With Abs Diff <= Limit'],
       },
     ],
   },

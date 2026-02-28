@@ -7,12 +7,33 @@ import { SearchResults } from './components/SearchResults';
 import { QuizMode } from './components/QuizMode';
 import { Wifi } from 'lucide-react';
 
+export interface QuizScore {
+  score: number;
+  total: number;
+  bestPct: number;
+  lastAttempt: string;
+}
+
 export default function App() {
   const [activeChapter, setActiveChapter] = useState<number | null>(null);
   const [searchQuery, setSearchQuery] = useState('');
   const [quizMode, setQuizMode] = useState(false);
   const [bookmarks, setBookmarks] = usePersistedState<string[]>('networking-bookmarks', []);
   const [completedChapters, setCompletedChapters] = usePersistedState<number[]>('networking-completed', []);
+  const [quizScores, setQuizScores] = usePersistedState<Record<number, QuizScore>>('networking-quiz-scores', {});
+
+  const handleQuizComplete = (chapterId: number, score: number, total: number) => {
+    const pct = Math.round((score / total) * 100);
+    setQuizScores(prev => ({
+      ...prev,
+      [chapterId]: {
+        score,
+        total,
+        bestPct: Math.max(pct, prev[chapterId]?.bestPct ?? 0),
+        lastAttempt: new Date().toISOString(),
+      },
+    }));
+  };
 
   const toggleBookmark = (id: string) => {
     setBookmarks(prev => prev.includes(id) ? prev.filter(b => b !== id) : [...prev, id]);
@@ -44,7 +65,7 @@ export default function App() {
     }
 
     if (quizMode && chapter) {
-      return <QuizMode chapterId={chapter.id} chapterTitle={chapter.title} />;
+      return <QuizMode chapterId={chapter.id} chapterTitle={chapter.title} onQuizComplete={handleQuizComplete} bestScore={quizScores[chapter.id]?.bestPct} />;
     }
 
     if (chapter) {
@@ -95,6 +116,7 @@ export default function App() {
         completedChapters={completedChapters}
         quizMode={quizMode}
         onToggleQuizMode={() => setQuizMode(!quizMode)}
+        quizScores={quizScores}
       />
       <main className="flex-1 overflow-y-auto p-8">
         {renderContent()}

@@ -437,6 +437,135 @@ export const quizQuestions: QuizQuestion[] = [
     answer: 1,
     explanation: 'Dijkstra\'s greedy strategy assumes that when a node is extracted from the priority queue with distance d, no shorter path to it can exist. With negative edges, this assumption breaks: a longer path through a not-yet-processed node could later be shortened by a negative edge, making the total distance less than d. Bellman-Ford handles negative weights by relaxing all edges V-1 times.',
   },
+
+  // ═══════════════════════════════════════════════════════════════
+  // Pattern 11: Trie (Prefix Tree)
+  // ═══════════════════════════════════════════════════════════════
+  {
+    id: 'p11-q1',
+    chapterId: 11,
+    question: 'Why is a Trie more suitable than a hash set for autocomplete functionality?',
+    options: [
+      'Tries use less memory than hash sets for storing strings',
+      'A Trie allows navigating to the prefix node and enumerating all words in that subtree, while a hash set would require scanning every stored word to check the prefix',
+      'Tries have O(1) lookup while hash sets have O(n)',
+      'Hash sets cannot store strings, only integers',
+    ],
+    answer: 1,
+    explanation: 'For autocomplete, you need to find all words sharing a given prefix. A Trie stores words by their shared prefixes, so you navigate to the prefix node in O(P) time, then traverse its subtree to collect all completions. A hash set has no prefix structure — you would need to iterate over every stored word and check if it starts with the prefix, giving O(N × L) per query instead of O(P + K) where K is the number of results.',
+  },
+  {
+    id: 'p11-q2',
+    chapterId: 11,
+    question: 'In Word Search II (searching a grid for multiple dictionary words), why does using a Trie dramatically outperform running a separate DFS for each word?',
+    options: [
+      'The Trie reduces the grid size by compressing cells',
+      'The Trie allows all words to share DFS exploration of common prefixes — instead of restarting DFS per word, one DFS traversal guided by the Trie searches for all words simultaneously',
+      'The Trie sorts the words alphabetically which makes DFS faster',
+      'DFS is inherently slower than BFS, and the Trie converts DFS to BFS',
+    ],
+    answer: 1,
+    explanation: 'Without a Trie, searching for W words each of length L in an M×N grid requires O(W × M × N × 4^L) in the worst case — a separate DFS per word. With a Trie, words sharing prefixes (e.g., "cat" and "car") share the same DFS path up to the divergence point. The Trie also enables immediate pruning: if no dictionary word starts with the current path, the DFS backtracks instantly. This reduces the complexity to O(M × N × 4^L), independent of the number of words.',
+  },
+  {
+    id: 'p11-q3',
+    chapterId: 11,
+    question: 'Why is it important to remove (prune) Trie leaf nodes after finding a word during grid word search?',
+    options: [
+      'To free memory and prevent out-of-memory errors during the search',
+      'Removing found words from the Trie prevents duplicate results and prunes branches that no longer lead to any unfound word, reducing future DFS exploration',
+      'The Trie becomes invalid after a word is found and must be rebuilt',
+      'Leaf node removal is required to maintain the Trie\'s balanced structure',
+    ],
+    answer: 1,
+    explanation: 'After finding a word, removing its end-of-word marker prevents reporting it again. More importantly, if that word\'s last characters are not shared by any other remaining word, those Trie nodes become dead ends. Pruning them means future DFS calls reaching that area of the Trie will stop immediately (no children to explore), progressively reducing the search space as words are found. This is especially impactful when many words share long prefixes.',
+  },
+
+  // ═══════════════════════════════════════════════════════════════
+  // Pattern 12: Intervals & Line Sweep
+  // ═══════════════════════════════════════════════════════════════
+  {
+    id: 'p12-q1',
+    chapterId: 12,
+    question: 'When merging overlapping intervals, why must you sort by start time rather than end time?',
+    options: [
+      'Sorting by end time would give incorrect results in all cases',
+      'Sorting by start time ensures that overlapping intervals are adjacent in the sorted order — you only need to compare each interval with the current merged interval, not with all previous ones',
+      'Start time sorting is faster than end time sorting',
+      'End time sorting is only used for greedy scheduling, never for merging',
+    ],
+    answer: 1,
+    explanation: 'Sorting by start time guarantees that once an interval\'s start exceeds the current merged interval\'s end, no future interval can overlap with the current one (all future starts are >= current start). This means a single linear scan suffices. If sorted by end time, an interval with a very early start but late end could appear after intervals it overlaps with, requiring backtracking. Start-time sorting makes overlap detection a simple left-to-right comparison.',
+  },
+  {
+    id: 'p12-q2',
+    chapterId: 12,
+    question: 'In Meeting Rooms II, why does sorting start and end times into two separate arrays and using two pointers give the correct minimum number of rooms?',
+    options: [
+      'It simulates a priority queue using arrays, which is more cache-friendly',
+      'Sweeping through sorted starts and ends independently counts how many meetings have started but not yet ended at each point — the maximum of this running count equals the peak overlap',
+      'It converts the interval problem into a two-pointer problem on sorted arrays',
+      'Separate sorting allows parallel processing of starts and ends',
+    ],
+    answer: 1,
+    explanation: 'By sorting starts and ends independently, we can sweep through time: each start increments the active meeting count, each end decrements it. When starts[i] < ends[j], a new meeting begins before the earliest ending one finishes, so we need another room. When starts[i] >= ends[j], a meeting ends and frees a room. The maximum active count during the sweep is the minimum rooms needed. This works because we only care about the count of concurrent meetings, not which specific meetings overlap.',
+  },
+  {
+    id: 'p12-q3',
+    chapterId: 12,
+    question: 'In the line sweep technique, why is it important to process end events before start events when they occur at the same time?',
+    options: [
+      'Processing ends first is a convention with no algorithmic impact',
+      'If an interval ends and another starts at the same point, processing the end first avoids overcounting the overlap — the ending interval does not truly overlap with the starting one at that boundary',
+      'Start events are more expensive to process, so delaying them improves performance',
+      'End events must update the data structure before start events can read from it',
+    ],
+    answer: 1,
+    explanation: 'When an interval ends at time t and another starts at time t, they share an endpoint but do not overlap in most problem definitions (e.g., a meeting ending at 10:00 and one starting at 10:00 can use the same room). Processing the -1 end event before the +1 start event at the same time ensures the counter decrements first, so the peak count reflects truly concurrent intervals. Reversing this order would incorrectly count them as overlapping, inflating the answer.',
+  },
+
+  // ═══════════════════════════════════════════════════════════════
+  // Pattern 13: Monotonic Stack & Queue
+  // ═══════════════════════════════════════════════════════════════
+  {
+    id: 'p13-q1',
+    chapterId: 13,
+    question: 'Why is a monotonic stack O(n) even though it appears to have nested loops (outer loop + inner while loop for popping)?',
+    options: [
+      'The inner loop runs at most log(n) times per iteration due to the sorted property',
+      'Each element is pushed onto the stack exactly once and popped at most once — so across all iterations, the total number of push and pop operations is at most 2n',
+      'The compiler optimizes the nested loops into a single pass',
+      'The stack never contains more than sqrt(n) elements at any time',
+    ],
+    answer: 1,
+    explanation: 'The amortized O(n) analysis comes from a simple counting argument: every element enters the stack once (n pushes total) and leaves the stack at most once (at most n pops total). Even though a single iteration might pop many elements, those elements will never be pushed or popped again. The total work across ALL iterations is bounded by 2n operations, giving O(n) amortized time regardless of how the pops distribute among iterations.',
+  },
+  {
+    id: 'p13-q2',
+    chapterId: 13,
+    question: 'In the "Largest Rectangle in Histogram" problem, when a shorter bar causes a pop from the monotonic stack, how is the width of the popped bar\'s rectangle determined?',
+    options: [
+      'The width is always 1 (just the bar itself)',
+      'The width extends from the new stack top + 1 to the current index - 1 — because all bars between these positions are at least as tall as the popped bar',
+      'The width is the difference between the popped bar\'s index and the current index',
+      'The width is determined by the total number of bars remaining in the stack',
+    ],
+    answer: 1,
+    explanation: 'When bar at index i is popped because a shorter bar at index j arrives, the rectangle\'s right boundary is j - 1. The left boundary is the new stack top + 1 (or 0 if the stack is empty). This range is correct because every bar between these boundaries was already popped (meaning they were taller than the popped bar) or is the popped bar itself. Since the stack maintained increasing order, all bars in this range are guaranteed to be >= the popped bar\'s height, forming a valid rectangle.',
+  },
+  {
+    id: 'p13-q3',
+    chapterId: 13,
+    question: 'In the Sliding Window Maximum problem, why does a monotonic decreasing deque outperform a max-heap for this task?',
+    options: [
+      'A deque uses less memory than a heap',
+      'The deque enables O(1) removal of elements that exit the window from the front, while a heap cannot efficiently remove arbitrary elements — stale maximums may remain in the heap requiring lazy deletion',
+      'A heap cannot find the maximum in O(1) time',
+      'The deque automatically sorts elements while a heap does not',
+    ],
+    answer: 1,
+    explanation: 'The key advantage is window expiration handling. When the window slides, the oldest element must leave. In a deque, if the expired element is the current maximum, it is at the front and is removed in O(1). A heap does not support efficient removal of a specific element (only the top). Using a heap requires "lazy deletion" — leaving expired elements and checking validity on each extraction, resulting in O(n log n) worst case. The deque guarantees each element is added and removed at most once, giving strict O(n) total.',
+  },
 ];
 
 export function getQuestionsForChapter(chapterId: number): QuizQuestion[] {

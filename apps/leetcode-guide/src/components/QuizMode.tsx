@@ -1,4 +1,4 @@
-import { useState, useMemo } from 'react';
+import { useState, useMemo, useEffect, useRef } from 'react';
 import { Button, Card, CardContent, CardHeader, CardTitle } from '@cstools/ui';
 import { CheckCircle2, XCircle, ArrowRight, RotateCcw } from 'lucide-react';
 import { getQuestionsForChapter } from '../data/quiz';
@@ -6,9 +6,11 @@ import { getQuestionsForChapter } from '../data/quiz';
 interface QuizModeProps {
   chapterId: number;
   chapterTitle: string;
+  onQuizComplete?: (chapterId: number, score: number, total: number) => void;
+  bestScore?: number;
 }
 
-export function QuizMode({ chapterId, chapterTitle }: QuizModeProps) {
+export function QuizMode({ chapterId, chapterTitle, onQuizComplete, bestScore }: QuizModeProps) {
   const questions = useMemo(() => getQuestionsForChapter(chapterId), [chapterId]);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [selectedAnswer, setSelectedAnswer] = useState<number | null>(null);
@@ -26,6 +28,14 @@ export function QuizMode({ chapterId, chapterTitle }: QuizModeProps) {
 
   const question = questions[currentIndex];
   const isFinished = answered === questions.length && currentIndex >= questions.length;
+  const completedRef = useRef(false);
+
+  useEffect(() => {
+    if (isFinished && !completedRef.current) {
+      completedRef.current = true;
+      onQuizComplete?.(chapterId, score, questions.length);
+    }
+  }, [isFinished, chapterId, score, questions.length, onQuizComplete]);
 
   if (isFinished) {
     const percentage = Math.round((score / questions.length) * 100);
@@ -37,8 +47,15 @@ export function QuizMode({ chapterId, chapterTitle }: QuizModeProps) {
           <span className="text-[#E6EDF3] font-semibold">{questions.length}</span> correct
         </p>
         <p className="text-sm text-[#8B949E]">Pattern {chapterId}: {chapterTitle}</p>
+        {bestScore !== undefined && bestScore > percentage && (
+          <p className="text-xs text-[#D29922]">Best: {bestScore}%</p>
+        )}
+        {bestScore !== undefined && percentage >= bestScore && percentage > 0 && (
+          <p className="text-xs text-[#3FB950]">New best score!</p>
+        )}
         <Button
           onClick={() => {
+            completedRef.current = false;
             setCurrentIndex(0);
             setSelectedAnswer(null);
             setShowExplanation(false);

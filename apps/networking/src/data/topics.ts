@@ -23,6 +23,7 @@ export const parts = [
   { id: 1, title: 'Foundations' },
   { id: 2, title: 'Transport & Application' },
   { id: 3, title: 'Security & Modern Networking' },
+  { id: 4, title: 'Specialized & Modern' },
 ];
 
 export const topics: Topic[] = [
@@ -855,6 +856,198 @@ export const topics: Topic[] = [
           'Overlay networks (VXLAN) are flexible but add encapsulation overhead — direct routing is faster but less portable',
         ],
         realWorld: ['Kubernetes networking', 'Docker bridge networks', 'Cilium eBPF-based networking'],
+      },
+    ],
+  },
+
+  // ═══════════════════════════════════════════════════════════════
+  // PART 4: Specialized & Modern
+  // ═══════════════════════════════════════════════════════════════
+  {
+    id: 11,
+    title: 'Wireless & Mobile Networks',
+    part: 4,
+    partTitle: 'Specialized & Modern',
+    summary: 'Wireless networking spans Wi-Fi LANs and cellular WANs — each with unique challenges around shared spectrum, mobility, and handoff between access points or cell towers.',
+    concepts: [
+      {
+        id: 't11-c1',
+        name: 'Wi-Fi (802.11) Protocol Family & Channel Management',
+        description: 'The IEEE 802.11 family defines wireless LAN standards operating on 2.4 GHz, 5 GHz, and 6 GHz bands — each generation improving throughput, latency, and multi-device handling.',
+        keyPoints: [
+          '802.11 generations: a/b/g (legacy) → n (Wi-Fi 4, MIMO) → ac (Wi-Fi 5, MU-MIMO) → ax (Wi-Fi 6/6E, OFDMA) → be (Wi-Fi 7, 320 MHz channels)',
+          'CSMA/CA (Carrier Sense Multiple Access / Collision Avoidance): stations listen before transmitting — unlike Ethernet\'s detect-after-collision approach',
+          'Channel overlap on 2.4 GHz: only channels 1, 6, 11 are non-overlapping — co-channel interference degrades throughput',
+          '5 GHz / 6 GHz: more non-overlapping channels and wider bandwidths but shorter range and worse wall penetration',
+          'Wi-Fi 6 OFDMA (Orthogonal Frequency Division Multiple Access): subdivides channels into resource units — serves multiple clients simultaneously instead of one at a time',
+        ],
+        tradeoffs: [
+          '2.4 GHz has better range and wall penetration but only 3 non-overlapping channels and heavy interference from Bluetooth, microwaves, and neighbors',
+          'Higher frequencies (5/6 GHz) offer more bandwidth but shorter range — may require more access points for the same coverage area',
+          'OFDMA improves multi-device efficiency but only helps when many devices send small packets — bulk transfers still use full channels',
+        ],
+        realWorld: ['Enterprise Wi-Fi (Cisco Meraki, Aruba)', 'Home mesh systems (Eero, UniFi)', 'Stadium/venue high-density deployments'],
+      },
+      {
+        id: 't11-c2',
+        name: 'Cellular Networks (4G LTE / 5G NR) Architecture',
+        description: 'Cellular networks divide coverage into cells served by base stations — 4G LTE introduced all-IP packet switching, and 5G NR adds massive MIMO, mmWave, and network slicing.',
+        keyPoints: [
+          '4G LTE: fully packet-switched (no circuit-switching), uses OFDMA downlink and SC-FDMA uplink, flat all-IP architecture (eNodeB → EPC)',
+          '5G NR: three deployment profiles — eMBB (enhanced broadband, >1 Gbps), URLLC (ultra-reliable low-latency, <1 ms), mMTC (massive IoT, 1M devices/km²)',
+          'Massive MIMO: base stations with 64-256 antennas perform beamforming — focus signals toward specific users instead of broadcasting omnidirectionally',
+          'mmWave (24-100 GHz): enormous bandwidth but extremely short range — requires dense small-cell deployments and is blocked by walls and rain',
+          'Network slicing: 5G core can partition a single physical network into multiple virtual networks with guaranteed SLA — e.g., one slice for IoT, another for video',
+        ],
+        tradeoffs: [
+          'mmWave delivers multi-Gbps speeds but requires line-of-sight and dense deployment — sub-6 GHz 5G offers better coverage but modest speed gains over LTE',
+          'Network slicing enables per-application SLAs but adds orchestration complexity and requires a 5G standalone (SA) core',
+        ],
+        realWorld: ['5G fixed wireless access (T-Mobile, Verizon)', 'Private 5G in factories (CBRS band)', 'Connected vehicles (C-V2X)'],
+      },
+      {
+        id: 't11-c3',
+        name: 'Mobile IP & Handoff/Roaming Mechanisms',
+        description: 'Mobile devices must maintain connectivity while moving between access points or cell towers — requiring seamless handoff, IP continuity, and authentication across networks.',
+        keyPoints: [
+          'Mobile IP (RFC 5944): allows a device to keep its home IP address while roaming — a home agent tunnels packets to the foreign network',
+          'Handoff types: hard handoff (break-before-make, brief interruption) vs. soft handoff (make-before-break, simultaneous connections to old and new)',
+          'LTE X2 handover: direct eNodeB-to-eNodeB signaling for fast handoff — context transferred without involving the core network',
+          '802.11r (Fast BSS Transition): pre-authenticates with target access point before roaming — reduces Wi-Fi handoff from hundreds of milliseconds to tens',
+          'Proxy Mobile IP (PMIPv6): network-based mobility — the network handles IP continuity without any client changes, used in LTE/5G',
+        ],
+        tradeoffs: [
+          'Mobile IP provides IP continuity but triangular routing (home agent → foreign agent → device) adds latency — route optimization helps but adds complexity',
+          'Soft handoff ensures seamless connectivity but consumes more radio resources (device connected to two base stations simultaneously)',
+          'Fast roaming protocols (802.11r) improve Wi-Fi handoff but require all APs to support it and share key material',
+        ],
+        realWorld: ['VoLTE call continuity during driving', 'Enterprise Wi-Fi roaming (802.11r/k/v)', 'Airplane mode → reconnection handshake'],
+      },
+    ],
+  },
+  {
+    id: 12,
+    title: 'Cloud & Virtual Networking',
+    part: 4,
+    partTitle: 'Specialized & Modern',
+    summary: 'Cloud environments virtualize the network — VPCs create isolated network topologies, VXLAN overlays decouple virtual from physical networks, and SDN/NFV make networks programmable and elastic.',
+    concepts: [
+      {
+        id: 't12-c1',
+        name: 'Virtual Networks (VPC, VXLAN Overlays)',
+        description: 'Virtual networks provide isolated, software-defined network topologies on shared physical infrastructure — VPCs in the cloud and VXLAN overlays in data centers.',
+        keyPoints: [
+          'VPC (Virtual Private Cloud): logically isolated network with your own IP space, subnets, route tables, and gateways — multi-tenancy without interference',
+          'Subnets: public (Internet-reachable via IGW) vs. private (no direct Internet access) — NAT gateway provides outbound-only Internet for private subnets',
+          'VPC peering: direct routing between two VPCs without traversing the public Internet — non-transitive (A↔B and B↔C does NOT mean A↔C)',
+          'VXLAN (Virtual Extensible LAN): encapsulates L2 frames in UDP packets — extends Layer 2 segments across Layer 3 boundaries with a 24-bit VNI (16M+ segments vs. VLAN\'s 4094)',
+          'Transit Gateway / VTEP: centralized hub for connecting multiple VPCs or VXLAN tunnel endpoints — simplifies complex multi-network topologies',
+        ],
+        tradeoffs: [
+          'VPCs provide strong isolation but VPC peering doesn\'t scale — transit gateways add cost but simplify many-to-many connectivity',
+          'VXLAN enables massive L2 scale but adds ~50 bytes of encapsulation overhead and requires VTEP management',
+          'Public subnets are easier to access but increase attack surface — private subnets are more secure but need NAT/bastion hosts for outbound/admin access',
+        ],
+        realWorld: ['AWS VPC', 'Azure VNet', 'VMware NSX-T VXLAN overlays', 'Multi-VPC architectures with Transit Gateway'],
+      },
+      {
+        id: 't12-c2',
+        name: 'Software-Defined Networking (SDN) & OpenFlow',
+        description: 'SDN decouples the control plane from the data plane — a centralized controller programs forwarding rules into network devices via protocols like OpenFlow, enabling automation and dynamic reconfiguration.',
+        keyPoints: [
+          'Traditional networking: each device runs its own control plane (routing protocols, spanning tree) — distributed, hard to manage at scale',
+          'SDN architecture: centralized controller (the "brain") pushes flow rules to data plane switches (the "muscles") via southbound APIs',
+          'OpenFlow: the original SDN southbound protocol — defines match-action flow tables (match on headers → forward, drop, modify, or send to controller)',
+          'Northbound APIs: controller exposes REST/gRPC APIs to applications — enables network-as-code, intent-based networking',
+          'SDN controllers: ONOS (carrier-grade, distributed), OpenDaylight (modular, vendor-neutral), cloud-native controllers in AWS/GCP/Azure',
+        ],
+        tradeoffs: [
+          'Centralized control simplifies management and enables global optimization but the controller is a critical single point of failure — needs clustering',
+          'OpenFlow gives fine-grained control but TCAM (flow table memory) on switches is limited — too many rules degrade forwarding performance',
+          'SDN enables rapid reconfiguration but migrating from traditional networking requires significant re-skilling and tooling investment',
+        ],
+        realWorld: ['Google B4 (WAN SDN, 40% better utilization)', 'AWS VPC flow programming', 'Campus SDN (Cisco ACI, Arista CloudVision)'],
+      },
+      {
+        id: 't12-c3',
+        name: 'Network Functions Virtualization (NFV)',
+        description: 'NFV replaces dedicated hardware appliances (firewalls, load balancers, WAN optimizers) with software running on commodity servers — enabling elastic, on-demand network services.',
+        keyPoints: [
+          'Traditional model: each network function is a proprietary hardware appliance — expensive, slow to provision, hard to scale',
+          'NFV model: network functions run as Virtual Network Functions (VNFs) on standard x86 servers — deploy, scale, and update like any software',
+          'MANO (Management and Orchestration): ETSI framework for lifecycle management — onboarding, instantiation, scaling, and termination of VNFs',
+          'Service function chaining (SFC): traffic is steered through an ordered sequence of VNFs (e.g., firewall → IDS → load balancer) using service headers or SDN rules',
+          'Cloud-native NFs (CNFs): evolution from VMs to containers — Kubernetes-orchestrated network functions with faster scaling and lower overhead',
+        ],
+        tradeoffs: [
+          'NFV reduces hardware costs and enables rapid provisioning but software-based packet processing has lower throughput than dedicated ASICs',
+          'VNFs are easier to scale horizontally but stateful functions (firewalls, NAT) require session state synchronization across instances',
+          'DPDK and SR-IOV bypass the kernel for near-hardware packet processing speeds but add deployment complexity',
+        ],
+        realWorld: ['Telecom 5G core (virtualized UPF, AMF, SMF)', 'Virtual firewalls (Palo Alto VM-Series)', 'SD-WAN (Cisco Viptela, VMware VeloCloud)'],
+      },
+    ],
+  },
+  {
+    id: 13,
+    title: 'Observability & Troubleshooting',
+    part: 4,
+    partTitle: 'Specialized & Modern',
+    summary: 'Network observability combines monitoring, tracing, and analysis to understand network behavior — while systematic troubleshooting skills are essential for diagnosing real-world failures.',
+    concepts: [
+      {
+        id: 't13-c1',
+        name: 'Network Monitoring (SNMP, NetFlow, Packet Capture)',
+        description: 'Monitoring provides visibility into network health and traffic patterns — SNMP for device metrics, NetFlow for traffic analytics, and packet capture for deep inspection.',
+        keyPoints: [
+          'SNMP (Simple Network Management Protocol): agent-manager model — polls devices for metrics (CPU, bandwidth, errors) via OIDs in a MIB tree structure',
+          'SNMP versions: v1/v2c use community strings (plaintext!) — v3 adds authentication and encryption; always use v3 in production',
+          'NetFlow / sFlow / IPFIX: routers export flow records (src/dst IP, ports, bytes, packets) — enables traffic analysis, capacity planning, and anomaly detection',
+          'Packet capture (tcpdump, Wireshark): captures actual packets for deep analysis — essential for troubleshooting protocol issues, but generates massive data at scale',
+          'Modern alternatives: eBPF-based observability (no kernel modules), streaming telemetry (gNMI/gRPC replaces SNMP polling), network TAPs for reliable capture',
+        ],
+        tradeoffs: [
+          'SNMP polling is simple but introduces delay and misses bursts between polls — streaming telemetry provides real-time data but requires modern infrastructure',
+          'Full packet capture gives complete visibility but is expensive in storage and may raise privacy concerns — flow data is a lighter alternative',
+          'Agent-based monitoring is more accurate but requires software on every device — agentless (SNMP) works with any managed device',
+        ],
+        realWorld: ['Datadog Network Monitoring', 'SolarWinds', 'Wireshark for packet analysis', 'Kentik for flow analytics'],
+      },
+      {
+        id: 't13-c2',
+        name: 'Distributed Tracing & Service Mesh Observability',
+        description: 'In microservice architectures, a single request may traverse dozens of services — distributed tracing correlates these hops into end-to-end traces, revealing latency bottlenecks and failure points.',
+        keyPoints: [
+          'Trace context propagation: each request carries a trace ID and span ID in headers (W3C Trace Context, B3) — services forward these to link spans into a trace',
+          'Spans: each service creates a span recording start time, duration, status, and metadata — parent-child relationships form a trace tree',
+          'OpenTelemetry: vendor-neutral standard for traces, metrics, and logs — auto-instrumentation libraries minimize code changes',
+          'Service mesh observability: sidecar proxies (Envoy) automatically emit L7 metrics (request rate, error rate, latency — the "RED" method) without application changes',
+          'Trace sampling: head-based (decide at trace start) vs. tail-based (decide after trace completes, keeping errors/slow traces) — controls data volume while preserving signal',
+        ],
+        tradeoffs: [
+          'Distributed tracing gives end-to-end visibility but requires every service in the chain to propagate trace context — one missing link breaks the trace',
+          'Head-based sampling is simple but may miss rare errors — tail-based sampling catches them but requires buffering complete traces before deciding',
+          'Service mesh auto-instrumentation captures network-level metrics but misses application-level context — combine with in-app instrumentation for full picture',
+        ],
+        realWorld: ['Jaeger', 'Zipkin', 'Grafana Tempo', 'Honeycomb', 'AWS X-Ray'],
+      },
+      {
+        id: 't13-c3',
+        name: 'Common Troubleshooting Patterns (MTU Issues, DNS Failures, TCP Resets)',
+        description: 'Systematic network troubleshooting follows repeatable patterns — recognizing common failure signatures (MTU black holes, DNS misconfigurations, unexpected TCP resets) dramatically speeds up resolution.',
+        keyPoints: [
+          'MTU / PMTUD issues: packets exceeding path MTU are dropped silently when ICMP is blocked — symptoms include connections that hang after handshake or fail only for large transfers',
+          'DNS failures: common causes include stale cache, missing/wrong records, SERVFAIL from authoritative server, and DNS timeout — dig/nslookup isolate the layer',
+          'TCP resets (RST): can indicate closed port, firewall rejection, application crash, or load balancer timeout — packet capture reveals which side sends the RST and when',
+          'Layered approach: start at Layer 1 (physical/link up?), then L3 (can you ping?), L4 (can you TCP connect?), L7 (does the application respond?) — isolate the failing layer',
+          'Key tools: ping (ICMP reachability), traceroute (path analysis), mtr (continuous traceroute), ss/netstat (socket state), curl -v (HTTP debugging), openssl s_client (TLS debugging)',
+        ],
+        tradeoffs: [
+          'Blocking ICMP improves security posture but breaks Path MTU Discovery and makes troubleshooting harder — consider allowing specific ICMP types',
+          'DNS caching improves performance but stale records during migrations cause outages — use low TTLs before planned changes, restore after',
+          'TCP keepalives detect dead connections but generate extra traffic — tune intervals based on application requirements and intermediate device timeouts',
+        ],
+        realWorld: ['VPN MTU issues (IPsec/VXLAN overhead reduces effective MTU)', 'Cloud DNS propagation delays during failover', 'Load balancer idle timeout causing unexpected RSTs'],
       },
     ],
   },

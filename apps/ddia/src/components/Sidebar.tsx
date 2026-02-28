@@ -2,6 +2,8 @@ import { Search, BookOpen, CheckCircle2 } from 'lucide-react';
 import { Input } from '@cstools/ui';
 import { chapters, parts } from '../data/chapters';
 
+import type { QuizScore } from '../App';
+
 interface SidebarProps {
   activeChapter: number | null;
   onChapterChange: (id: number) => void;
@@ -10,6 +12,7 @@ interface SidebarProps {
   completedChapters: number[];
   quizMode: boolean;
   onToggleQuizMode: () => void;
+  quizScores: Record<number, QuizScore>;
 }
 
 export function Sidebar({
@@ -20,6 +23,7 @@ export function Sidebar({
   completedChapters,
   quizMode,
   onToggleQuizMode,
+  quizScores,
 }: SidebarProps) {
   return (
     <aside className="w-72 bg-[#161B22] border-r border-[#30363D] flex flex-col h-screen">
@@ -93,10 +97,15 @@ export function Sidebar({
                   ) : (
                     <span className="w-3.5 h-3.5 rounded-full border border-[#30363D] shrink-0" />
                   )}
-                  <span className="truncate">
+                  <span className="truncate flex-1">
                     <span className="text-[#484F58] mr-1">{ch.id}.</span>
                     {ch.title}
                   </span>
+                  {quizScores[ch.id] && (
+                    <span className={`text-[10px] font-mono shrink-0 ${quizScores[ch.id].bestPct >= 80 ? 'text-[#3FB950]' : quizScores[ch.id].bestPct >= 50 ? 'text-[#D29922]' : 'text-[#F85149]'}`}>
+                      {quizScores[ch.id].bestPct}%
+                    </span>
+                  )}
                 </button>
               ))}
           </div>
