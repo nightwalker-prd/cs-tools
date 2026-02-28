@@ -25,8 +25,10 @@ export function FlashCard({ question, onAnswer, onSkip }: FlashCardProps) {
   const [selectedOption, setSelectedOption] = useState<string | null>(null);
   const [showHint, setShowHint] = useState(false);
 
+  const isOptionType = question.type === 'multiple-choice' || question.type === 'complexity-match';
+
   const handleCheck = () => {
-    if (question.type === 'multiple-choice' && selectedOption) {
+    if (isOptionType && selectedOption) {
       const isCorrect = selectedOption === question.answer;
       onAnswer(isCorrect);
     } else {
@@ -65,8 +67,8 @@ export function FlashCard({ question, onAnswer, onSkip }: FlashCardProps) {
             <CodeBlock code={question.codeSnippet} language={question.language || 'javascript'} />
           )}
 
-          {/* Options for multiple choice */}
-          {question.type === 'multiple-choice' && question.options && !showAnswer && (
+          {/* Options for multiple choice and complexity match */}
+          {isOptionType && question.options && !showAnswer && (
             <div className="space-y-2">
               {question.options.map((option, i) => (
                 <button
@@ -122,7 +124,7 @@ export function FlashCard({ question, onAnswer, onSkip }: FlashCardProps) {
                 <RotateCcw className="w-3.5 h-3.5 mr-1" /> Skip
               </Button>
               <Button size="sm" onClick={handleCheck} className="bg-[#58A6FF] text-[#0D1117] hover:bg-[#79C0FF]">
-                <Eye className="w-3.5 h-3.5 mr-1" /> {question.type === 'multiple-choice' ? 'Check' : 'Show Answer'}
+                <Eye className="w-3.5 h-3.5 mr-1" /> {isOptionType ? 'Check' : 'Show Answer'}
               </Button>
             </>
           ) : (
