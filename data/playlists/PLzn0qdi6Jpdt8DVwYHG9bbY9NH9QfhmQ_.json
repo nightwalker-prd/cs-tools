@@ -1,0 +1,30 @@
+{
+  "playlistId": "PLzn0qdi6Jpdt8DVwYHG9bbY9NH9QfhmQ_",
+  "playlistTitle": "Umrah",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PLzn0qdi6Jpdt8DVwYHG9bbY9NH9QfhmQ_",
+  "extractedAt": "2026-02-15T19:19:27Z",
+  "videoCount": 3,
+  "videos": [
+    {
+      "index": 1,
+      "videoId": "H4g6F895008",
+      "title": "Understanding Wrong Without Belittling Others",
+      "url": "https://www.youtube.com/watch?v=H4g6F895008",
+      "duration": 395
+    },
+    {
+      "index": 2,
+      "videoId": "LLfnwLNidFM",
+      "title": "Dealing with Beggars",
+      "url": "https://www.youtube.com/watch?v=LLfnwLNidFM",
+      "duration": 602
+    },
+    {
+      "index": 3,
+      "videoId": "jUl5VFrxPbY",
+      "title": "How To Perform Umrah",
+      "url": "https://www.youtube.com/watch?v=jUl5VFrxPbY",
+      "duration": 1970
+    }
+  ]
+}

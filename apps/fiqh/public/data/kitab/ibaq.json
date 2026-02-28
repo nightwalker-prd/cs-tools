@@ -1,0 +1,47 @@
+{
+  "id": "ibaq",
+  "titleAr": "كتاب الإباق",
+  "titleEn": "Runaway Slave",
+  "order": 26,
+  "categoryId": "mutafarriqat",
+  "pageRange": [
+    129,
+    129
+  ],
+  "abwab": [
+    {
+      "id": "ibaq-main",
+      "kitabId": "ibaq",
+      "titleAr": "كتاب الإباق",
+      "titleEn": "Runaway Slave",
+      "order": 1,
+      "sections": [
+        {
+          "id": "ibaq-main-1",
+          "babId": "ibaq-main",
+          "kitabId": "ibaq",
+          "titleAr": "كتاب الإباق",
+          "titleEn": "Runaway Slave",
+          "order": 1,
+          "textAr": "إذا أبق مملوك فرده رجل على مولاه من مسيرة ثلاثة أيام فصاعدا فله عليه الجعل أربعون درهما وإن رده لأقل من ذلك فبحسابه وإن كانت قيمته أقل من أربعين درهما قضي له بقيمته إلا درهما وإن أبق من الذي رده فلا شيء عليه وينبغي أن يشهد إذا أخذه أنه يأخذه ليرده فإن كان العبد الآبق رهنا فالجعل على المرتهن",
+          "sourcePage": 129,
+          "masail": [
+            {
+              "id": "masalah-ibaq-main-1",
+              "sectionId": "ibaq-main-1",
+              "kitabId": "ibaq",
+              "titleAr": "كتاب الإباق",
+              "titleEn": "Runaway Slave",
+              "rulingAr": "إذا أبق مملوك فرده رجل على مولاه من مسيرة ثلاثة أيام فصاعدا فله عليه الجعل أربعون درهما وإن رده لأقل من ذلك فبحسابه وإن كانت قيمته أقل من أربعين درهما قضي له بقيمته إلا درهما وإن أبق من الذي رده فلا شيء عليه وينبغي أن يشهد إذا أخذه أنه يأخذه ليرده فإن كان العبد الآبق رهنا فالجعل على المرتهن",
+              "rulingEn": "If a slave runs away and a man returns him to his master from a distance of three days' travel or more, he is entitled to a reward (ju'l) of forty dirhams. If he returns him from a lesser distance, it is proportional. If the slave's value is less than forty dirhams, he is awarded the slave's value minus one dirham. If the slave runs away again from the person returning him, there is no liability upon the returner. He should have witnesses when he takes the slave that he is taking him to return him. If the runaway slave is pledged as security (rahn), the reward is upon the pledgee (mortgagee).",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "If a slave runs away and a man returns him to his master from a distance of three days' travel or more, he is entitled to a reward (ju'l) of forty dirhams. If he returns him from a lesser distance, it is proportional. If the slave's value is less than forty dirhams, he is awarded the slave's value minus one dirham. If the slave runs away again from the person returning him, there is no liability upon the returner. He should have witnesses when he takes the slave that he is taking him to return him. If the runaway slave is pledged as security (rahn), the reward is upon the pledgee (mortgagee)."
+        }
+      ]
+    }
+  ]
+}

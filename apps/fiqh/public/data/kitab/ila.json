@@ -1,0 +1,81 @@
+{
+  "id": "ila",
+  "titleAr": "كتاب الإيلاء",
+  "titleEn": "Oath of Abstinence",
+  "order": 33,
+  "categoryId": "munakahaat",
+  "pageRange": [
+    151,
+    154
+  ],
+  "abwab": [
+    {
+      "id": "ila-intro",
+      "kitabId": "ila",
+      "titleAr": "مقدمة كتاب الإيلاء",
+      "titleEn": "Introduction to Oath of Abstinence",
+      "order": 0,
+      "sections": [
+        {
+          "id": "ila-intro-1",
+          "babId": "ila-intro",
+          "kitabId": "ila",
+          "titleAr": "مقدمة",
+          "titleEn": "Introduction",
+          "order": 1,
+          "textAr": "إذا قال الرجل لامرأته: والله لا أقربك أو لا أقربك أربعة أشهرفهو مول فإن وطئها في الأربعة الأشهر حنث في يمينه ولزمته الكفارة وسقط الإيلاء\n\nوإن لم يقربها حتى مضت أربعة أشهر بانت منه بتطليقة\n\nفإن كان خلف على أربعة أشهر فقد سقطت اليمين وإن كان حلف على الأبد فاليمين باقية فإن عاد فتزوجها عاد الإيلاء فإن وطئها لزمته الكفارة وإلا وقعت بمضي أربعة أشهر تطليقه أخرى فإن تزوجها عاد الإيلاء ووقع بمضي أربعة أشهر تطليقه أخرى فإن تزوجها بعد\n\nزوج آخر لم يقع بذلك الإيلاء طلاق واليمين باقية فإن وطئها كفر عن يمينه\n\nوإذا حلف على أقل من أربعة أشهر لم يكن موليا وإن حلف بحج أو صوم أوصدقة أو عتق أو طلاق فهو مول\n\nوإن آلى من المطلقة الرجعية كان موليا وإن آلى من البائنة لم يكن موليا ومدة إيلاء الأمة شهران\n\nوإن كان المولى مريضا لا يقدر على الجماع أو كانت المرأة مريضة أو كانت بينهما مسافة لا يقدر أن يصل إليها في مدة الإيلاء ففيئه أن يقول بلسانه: فئت إليها فإن قال ذلك سقطر الإيلاء وإن صح في المدة بطل ذلك الفيء وصار فيئه بالجماع\n\nوإذا قال لامرأته أنت علي حرام سئل عن نيته فإن قال: أردت الكذب فهو كما قال\n\nوإن قال: أردت الطلاق فهي تطليقة بائنة إلا أن ينوي الثلاث وإن قال: أردت الظهار فهو ظهار وإن قال: أردت التحريم أو لم أرد به شيئا فهو يمين يصير بها موليا",
+          "sourcePage": 151,
+          "masail": [
+            {
+              "id": "masalah-ila-intro-1",
+              "sectionId": "ila-intro-1",
+              "kitabId": "ila",
+              "titleAr": "مقدمة",
+              "titleEn": "Introduction",
+              "rulingAr": "إذا قال الرجل لامرأته: والله لا أقربك أو لا أقربك أربعة أشهرفهو مول فإن وطئها في الأربعة الأشهر حنث في يمينه ولزمته الكفارة وسقط الإيلاء\n\nوإن لم يقربها حتى مضت أربعة أشهر بانت منه بتطليقة\n\nفإن كان خلف على أربعة أشهر فقد سقطت اليمين وإن كان حلف على الأبد فاليمين باقية فإن عاد فتزوجها عاد الإيلاء فإن وطئها لزمته الكفارة وإلا وقعت بمضي أربعة أشهر تطليقه أخرى فإن تزوجها عاد الإيلاء ووقع بمضي أربعة أشهر تطليقه أخرى فإن تزوجها بعد\n\nزوج آخر لم يقع بذلك الإيلاء طلاق واليمين باقية فإن وطئها كفر عن يمينه\n\nوإذا حلف على أقل من أربعة أشهر لم يكن موليا وإن حلف بحج أو صوم أوصدقة أو عتق أو طلاق فهو مول\n\nوإن آلى من المطلقة الرجعية كان موليا وإن آلى من البائنة لم يكن موليا ومدة إيلاء الأمة شهران\n\nوإن كان المولى مريضا لا يقدر على الجماع أو كانت المرأة مريضة أو كانت بينهما مسافة لا يقدر أن يصل إليها في مدة الإيلاء ففيئه أن يقول بلسانه: فئت إليها فإن قال ذلك سقطر الإيلاء وإن صح في المدة بطل ذلك الفيء وصار فيئه بالجماع\n\nوإذا قال لامرأته أنت علي حرام سئل عن نيته فإن قال: أردت الكذب فهو كما قال\n\nوإن قال: أردت الطلاق فهي تطليقة بائنة إلا أن ينوي الثلاث وإن قال: أردت الظهار فهو ظهار وإن قال: أردت التحريم أو لم أرد به شيئا فهو يمين يصير بها موليا",
+              "rulingEn": "If a man says to his wife: \"By Allah, I will not approach you\" or \"I will not approach you for four months,\" he is a person who has taken an oath of abstinence (muli). If he has intercourse with her during the four months, he has broken his oath, the expiation becomes obligatory upon him, and the oath of abstinence lapses.\n\nIf he does not approach her until four months have passed, she becomes irrevocably separated from him by one divorce.\n\nIf he swore for four months, the oath has lapsed. If he swore for an indefinite period, the oath remains. If he returns and marries her again, the oath of abstinence resumes. If he has intercourse with her, the expiation becomes obligatory. Otherwise, with the passage of four months, another divorce takes effect. If he marries her again, the oath of abstinence resumes, and with the passage of four months, another divorce takes effect. If he marries her after another husband, the oath of abstinence no longer causes divorce, but the oath remains. If he has intercourse with her, he must make expiation for his oath.\n\nIf he swears for less than four months, he is not considered one who has taken the oath of abstinence. If he swears by Hajj, fasting, charity, or manumission, or by divorce, he is considered one who has taken the oath of abstinence.\n\nIf he takes the oath of abstinence from a revocably divorced woman, he is considered one who has taken the oath. If he takes it from an irrevocably divorced woman, he is not. The period for the oath of abstinence of a slave-woman is two months.\n\nIf the one who took the oath is ill and unable to have intercourse, or the woman is ill, or there is a distance between them that prevents him from reaching her during the period of the oath, his return (fi'ah) is to say verbally: \"I have returned to her.\" If he says that, the oath of abstinence lapses. If he recovers during the period, that verbal return is nullified, and his return must be by intercourse.\n\nIf a man says to his wife: \"You are forbidden to me\" -- he is asked about his intention. If he says: \"I intended a lie,\" it is as he says.\n\nIf he says: \"I intended divorce,\" it is one irrevocable divorce, unless he intended three. If he says: \"I intended dhihar,\" it is dhihar. If he says: \"I intended the prohibition\" or \"I did not intend anything by it,\" it is an oath by which he becomes one who has taken the oath of abstinence.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "If a man says to his wife: \"By Allah, I will not approach you\" or \"I will not approach you for four months,\" he is a person who has taken an oath of abstinence (muli). If he has intercourse with her during the four months, he has broken his oath, the expiation becomes obligatory upon him, and the oath of abstinence lapses.\n\nIf he does not approach her until four months have passed, she becomes irrevocably separated from him by one divorce.\n\nIf he swore for four months, the oath has lapsed. If he swore for an indefinite period, the oath remains. If he returns and marries her again, the oath of abstinence resumes. If he has intercourse with her, the expiation becomes obligatory. Otherwise, with the passage of four months, another divorce takes effect. If he marries her again, the oath of abstinence resumes, and with the passage of four months, another divorce takes effect. If he marries her after another husband, the oath of abstinence no longer causes divorce, but the oath remains. If he has intercourse with her, he must make expiation for his oath.\n\nIf he swears for less than four months, he is not considered one who has taken the oath of abstinence. If he swears by Hajj, fasting, charity, or manumission, or by divorce, he is considered one who has taken the oath of abstinence.\n\nIf he takes the oath of abstinence from a revocably divorced woman, he is considered one who has taken the oath. If he takes it from an irrevocably divorced woman, he is not. The period for the oath of abstinence of a slave-woman is two months.\n\nIf the one who took the oath is ill and unable to have intercourse, or the woman is ill, or there is a distance between them that prevents him from reaching her during the period of the oath, his return (fi'ah) is to say verbally: \"I have returned to her.\" If he says that, the oath of abstinence lapses. If he recovers during the period, that verbal return is nullified, and his return must be by intercourse.\n\nIf a man says to his wife: \"You are forbidden to me\" -- he is asked about his intention. If he says: \"I intended a lie,\" it is as he says.\n\nIf he says: \"I intended divorce,\" it is one irrevocable divorce, unless he intended three. If he says: \"I intended dhihar,\" it is dhihar. If he says: \"I intended the prohibition\" or \"I did not intend anything by it,\" it is an oath by which he becomes one who has taken the oath of abstinence."
+        }
+      ]
+    },
+    {
+      "id": "ila-bab-1",
+      "kitabId": "ila",
+      "titleAr": "باب الخلع",
+      "titleEn": "Divorce by Ransom (Khul')",
+      "order": 1,
+      "sections": [
+        {
+          "id": "ila-bab-1-1",
+          "babId": "ila-bab-1",
+          "kitabId": "ila",
+          "titleAr": "باب الخلع",
+          "titleEn": "Divorce by Ransom (Khul')",
+          "order": 1,
+          "textAr": "إذا اشتاق الزوجان وخافا أن لا يقيما حدود الله فلا بأس أن تفتدي نفسها منه بمال يخلعها به فإذ فعل ذلك وقع بالخلع تطليقة بائنة ولزمها المال\n\nوإن كان النشوز من قبله كره له أن يأخذ منها عوضا وإن كان النشوز من قبلها كره له أيأخذ منها أكثر مما أعطاها فإن فعل ذلك جاز في القضاء\n\nوإن طلقها على مال فقبلت وقع الطلاق ولزمها المال وكان الطلاق بائنا\n\nوإذا بطل العوض في الخلع مثل أن تخالع المرأة المسلمة على خمر أو خنزير فلا شيء للزوج والفرقة بائنة وإن بطل العوض في الطلاق كان رجعيا\n\nوما جاز أن يكون مهرا جاز أن يكون بدلا في الخلع\n\nفإن قالت له: خالعني على ما في يدي فخالعها ولم يكن في يدها شيء فلا شيء له عليها وإن قالت: خالعني على ما في يدي من مال ولم يكن في يدها شيء ردت عليه مهرها وإن قالت: خالعني على ما في يدي من دراهم فخالها ولم يكن في يدها شيء فعليها ثلاثة دراهم وإن قالت: طلقني ثلاثا بألف فطلقها واحدة فعليها ثلث الألف وإن قالت: طلقني ثلاثا على ألف فطلقها واحدة فلا شيء عليها عند أبي حنيفة\n\nولو قال الزوج: طلقي نفسك ثلاثا بألف أو على ألف فطلقت نفسها واحدة لم يقع عليها شيء\n\nوالمبارأة كالخلع والخلع كالمبارأة يسقطان كل حق لكل واحد من الزوجين على الآخر مما يتعلق بالنكاح عند أبي حنيفة ﵀ إلا نفقة العدة وقال أبو يوسف ﵀ المبارأة تسقط والخلع لا تسقط وقال محمد ﵀ لا تسقطان إلا ما سمياه.",
+          "sourcePage": 151,
+          "masail": [
+            {
+              "id": "masalah-ila-bab-1-1",
+              "sectionId": "ila-bab-1-1",
+              "kitabId": "ila",
+              "titleAr": "باب الخلع",
+              "titleEn": "Divorce by Ransom (Khul')",
+              "rulingAr": "إذا اشتاق الزوجان وخافا أن لا يقيما حدود الله فلا بأس أن تفتدي نفسها منه بمال يخلعها به فإذ فعل ذلك وقع بالخلع تطليقة بائنة ولزمها المال\n\nوإن كان النشوز من قبله كره له أن يأخذ منها عوضا وإن كان النشوز من قبلها كره له أيأخذ منها أكثر مما أعطاها فإن فعل ذلك جاز في القضاء\n\nوإن طلقها على مال فقبلت وقع الطلاق ولزمها المال وكان الطلاق بائنا\n\nوإذا بطل العوض في الخلع مثل أن تخالع المرأة المسلمة على خمر أو خنزير فلا شيء للزوج والفرقة بائنة وإن بطل العوض في الطلاق كان رجعيا\n\nوما جاز أن يكون مهرا جاز أن يكون بدلا في الخلع\n\nفإن قالت له: خالعني على ما في يدي فخالعها ولم يكن في يدها شيء فلا شيء له عليها وإن قالت: خالعني على ما في يدي من مال ولم يكن في يدها شيء ردت عليه مهرها وإن قالت: خالعني على ما في يدي من دراهم فخالها ولم يكن في يدها شيء فعليها ثلاثة دراهم وإن قالت: طلقني ثلاثا بألف فطلقها واحدة فعليها ثلث الألف وإن قالت: طلقني ثلاثا على ألف فطلقها واحدة فلا شيء عليها عند أبي حنيفة\n\nولو قال الزوج: طلقي نفسك ثلاثا بألف أو على ألف فطلقت نفسها واحدة لم يقع عليها شيء\n\nوالمبارأة كالخلع والخلع كالمبارأة يسقطان كل حق لكل واحد من الزوجين على الآخر مما يتعلق بالنكاح عند أبي حنيفة ﵀ إلا نفقة العدة وقال أبو يوسف ﵀ المبارأة تسقط والخلع لا تسقط وقال محمد ﵀ لا تسقطان إلا ما سمياه.",
+              "rulingEn": "If the spouses are in discord and they fear they will not uphold the limits of Allah, there is no harm in the wife ransoming herself from him with wealth by which he grants her khul'. If he does so, one irrevocable divorce takes effect by the khul' and the wealth becomes binding upon her.\n\nIf the discord is from his side, it is disliked for him to take compensation from her. If the discord is from her side, it is disliked for him to take more than what he gave her. If he does so, it is valid judicially.\n\nIf he divorces her for a sum of wealth and she accepts, the divorce takes effect, the wealth becomes binding upon her, and the divorce is irrevocable.\n\nIf the consideration in the khul' is void -- for example, if a Muslim woman takes khul' for wine or swine -- the husband receives nothing, and the separation is irrevocable. If the consideration in a divorce is void, it is revocable.\n\nWhatever is valid as a dower is valid as consideration in khul'.\n\nIf she says to him: \"Grant me khul' for what is in my hand\" and he grants her khul' and there is nothing in her hand, he is owed nothing. If she says: \"Grant me khul' for whatever wealth is in my hand\" and there is nothing in her hand, she must return her dower to him. If she says: \"Grant me khul' for whatever dirhams are in my hand\" and he grants her khul' and there is nothing in her hand, she owes him three dirhams. If she says: \"Divorce me three times for one thousand\" and he divorces her once, she owes one-third of the thousand. If she says: \"Divorce me three times on condition of one thousand\" and he divorces her once, she owes nothing according to Abu Hanifah.\n\nIf the husband says: \"Divorce yourself three times for one thousand\" or \"on condition of one thousand\" and she divorces herself once, nothing takes effect upon her.\n\nThe mubara'ah (mutual release) is like khul' and khul' is like mubara'ah: both extinguish every right of each spouse against the other that is connected to the marriage, according to Abu Hanifah -- may Allah have mercy on him -- except maintenance during the waiting period. Abu Yusuf -- may Allah have mercy on him -- said: Mubara'ah extinguishes rights but khul' does not. Muhammad -- may Allah have mercy on him -- said: Neither extinguishes except what they specifically mentioned.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "If the spouses are in discord and they fear they will not uphold the limits of Allah, there is no harm in the wife ransoming herself from him with wealth by which he grants her khul'. If he does so, one irrevocable divorce takes effect by the khul' and the wealth becomes binding upon her.\n\nIf the discord is from his side, it is disliked for him to take compensation from her. If the discord is from her side, it is disliked for him to take more than what he gave her. If he does so, it is valid judicially.\n\nIf he divorces her for a sum of wealth and she accepts, the divorce takes effect, the wealth becomes binding upon her, and the divorce is irrevocable.\n\nIf the consideration in the khul' is void -- for example, if a Muslim woman takes khul' for wine or swine -- the husband receives nothing, and the separation is irrevocable. If the consideration in a divorce is void, it is revocable.\n\nWhatever is valid as a dower is valid as consideration in khul'.\n\nIf she says to him: \"Grant me khul' for what is in my hand\" and he grants her khul' and there is nothing in her hand, he is owed nothing. If she says: \"Grant me khul' for whatever wealth is in my hand\" and there is nothing in her hand, she must return her dower to him. If she says: \"Grant me khul' for whatever dirhams are in my hand\" and he grants her khul' and there is nothing in her hand, she owes him three dirhams. If she says: \"Divorce me three times for one thousand\" and he divorces her once, she owes one-third of the thousand. If she says: \"Divorce me three times on condition of one thousand\" and he divorces her once, she owes nothing according to Abu Hanifah.\n\nIf the husband says: \"Divorce yourself three times for one thousand\" or \"on condition of one thousand\" and she divorces herself once, nothing takes effect upon her.\n\nThe mubara'ah (mutual release) is like khul' and khul' is like mubara'ah: both extinguish every right of each spouse against the other that is connected to the marriage, according to Abu Hanifah -- may Allah have mercy on him -- except maintenance during the waiting period. Abu Yusuf -- may Allah have mercy on him -- said: Mubara'ah extinguishes rights but khul' does not. Muhammad -- may Allah have mercy on him -- said: Neither extinguishes except what they specifically mentioned."
+        }
+      ]
+    }
+  ]
+}

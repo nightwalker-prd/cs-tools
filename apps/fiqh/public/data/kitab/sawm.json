@@ -1,0 +1,156 @@
+{
+  "id": "sawm",
+  "titleAr": "كتاب الصوم",
+  "titleEn": "Fasting",
+  "order": 4,
+  "categoryId": "ibadat",
+  "pageRange": [
+    52,
+    55
+  ],
+  "abwab": [
+    {
+      "id": "sawm-intro",
+      "kitabId": "sawm",
+      "titleAr": "مقدمة كتاب الصوم",
+      "titleEn": "Introduction to Fasting",
+      "order": 0,
+      "sections": [
+        {
+          "id": "sawm-intro-1-1",
+          "babId": "sawm-intro",
+          "kitabId": "sawm",
+          "titleAr": "مقدمة",
+          "titleEn": "Introduction",
+          "order": 1,
+          "textAr": "الصوم ضربان: واجب ونفل فالواجب ضربان: منه ما يتعلق بزمام بعينه كصوم رمضان والنذر المعين فيجوز صومه بينة من الليل فإن لم ينو حتى أصبح\n\nوالضرب الثاني: ما يثبت في الذمة كقضاء رمضان والنذر المطلق والكفارات فلا يجوز إلا بنية من الليل والنفل كله يجوز بنية قبل الزوال\n\nوينبغي للناس أن يلتمسوا الهلال في اليوم التاسع والعشرين من شعبان فإن رأوه صاموا وإن غم عليهم أكملوا عدة شعبان ثلاثين يوما ثم صاموا ومن رأى هلال رمضان وحده صام وإن لم يقبل الإمام شهادته وإذا كان بالسماء علة قبل الإمام شهادة الواحد العدل في رؤية الهلال رجلا أو امرأة حرا كان أو عبدا\n\nفإن لم يكن بالسماء عله لم تقبل شهادته حتى يراه جمع كثير يقع\n\nالعلم بخبرهم\n\nووقت الصوم من طلوع الفجر الثاني إلى غروب الشمس",
+          "sourcePage": 52,
+          "masail": [
+            {
+              "id": "masalah-sawm-intro-1-1",
+              "sectionId": "sawm-intro-1-1",
+              "kitabId": "sawm",
+              "titleAr": "مقدمة",
+              "titleEn": "Introduction",
+              "rulingAr": "الصوم ضربان: واجب ونفل فالواجب ضربان: منه ما يتعلق بزمام بعينه كصوم رمضان والنذر المعين فيجوز صومه بينة من الليل فإن لم ينو حتى أصبح\n\nوالضرب الثاني: ما يثبت في الذمة كقضاء رمضان والنذر المطلق والكفارات فلا يجوز إلا بنية من الليل والنفل كله يجوز بنية قبل الزوال\n\nوينبغي للناس أن يلتمسوا الهلال في اليوم التاسع والعشرين من شعبان فإن رأوه صاموا وإن غم عليهم أكملوا عدة شعبان ثلاثين يوما ثم صاموا ومن رأى هلال رمضان وحده صام وإن لم يقبل الإمام شهادته وإذا كان بالسماء علة قبل الإمام شهادة الواحد العدل في رؤية الهلال رجلا أو امرأة حرا كان أو عبدا\n\nفإن لم يكن بالسماء عله لم تقبل شهادته حتى يراه جمع كثير يقع\n\nالعلم بخبرهم\n\nووقت الصوم من طلوع الفجر الثاني إلى غروب الشمس",
+              "rulingEn": "Fasting is of two types: obligatory and voluntary. The obligatory is of two types: one that is connected to a specific time, such as the fast of Ramadan and a specified vow -- its fast is valid with an intention from the night. If one does not intend until the morning,\n\nthe second type is what is established as an obligation in general, such as making up missed days of Ramadan, an unspecified vow, and expiations -- these are not valid except with an intention from the night. All voluntary fasts are valid with an intention made before the sun reaches its zenith.\n\nThe people should look for the crescent on the twenty-ninth day of Sha'ban. If they see it, they fast. If it is obscured from them, they complete Sha'ban as thirty days and then fast. One who sees the crescent of Ramadan alone fasts even if the ruler does not accept his testimony. If there are clouds in the sky, the ruler accepts the testimony of a single upright person for sighting the crescent, whether male or female, free or slave.\n\nIf there are no clouds in the sky, the testimony is not accepted until a large group sees it such that their report produces certainty.\n\nThe time of fasting is from the rising of the second dawn until the setting of the sun.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "Fasting is of two types: obligatory and voluntary. The obligatory is of two types: one that is connected to a specific time, such as the fast of Ramadan and a specified vow -- its fast is valid with an intention from the night. If one does not intend until the morning,\n\nthe second type is what is established as an obligation in general, such as making up missed days of Ramadan, an unspecified vow, and expiations -- these are not valid except with an intention from the night. All voluntary fasts are valid with an intention made before the sun reaches its zenith.\n\nThe people should look for the crescent on the twenty-ninth day of Sha'ban. If they see it, they fast. If it is obscured from them, they complete Sha'ban as thirty days and then fast. One who sees the crescent of Ramadan alone fasts even if the ruler does not accept his testimony. If there are clouds in the sky, the ruler accepts the testimony of a single upright person for sighting the crescent, whether male or female, free or slave.\n\nIf there are no clouds in the sky, the testimony is not accepted until a large group sees it such that their report produces certainty.\n\nThe time of fasting is from the rising of the second dawn until the setting of the sun."
+        },
+        {
+          "id": "sawm-intro-1-2",
+          "babId": "sawm-intro",
+          "kitabId": "sawm",
+          "titleAr": "مقدمة",
+          "titleEn": "Introduction",
+          "order": 2,
+          "textAr": "والصوم هو: الإمساك عن الأكل واشرب والجماع نهارا مع النية فإن أكل الصائم أو شرب أو جامع ناسيا لم يفطر وإن نام فاحتلم أو نظر إلى امرأة فأنزل أو ادهن أو احتجم أو اكتحل أو اكتحل أو قبل لم يفطره فإن أنزل بقبلة أو لمس فعليه القضاء\n\nولا بأس بالقبلة إذا أمن على نفسه ويكره إن لم يأمن وإن ذرعه القيء لم يفطر وإن استقاء عامدا ملء فيه فعليه القضاء ومن ابتلع الحصاة أو الحديد أفطر\n\nومن جامع عامدا في أحد السبيلين أو أكل أو شرب ما يتغذى به أو يتداوى به فعليه القضاء والكفارة مثل كفارة الظهار ومن جامع فيما دون الفرج فأنزل فعليه القضاء ولا\n\nكفارة عليه في إفساد الصوم في غير رمضان كفارة ومن احتقن أو استعط أوقطر في أذنيه أو داوى جائفة أو آمة بدواء فوصل إلى جوفه أو دماغه أفطر وإن أقطر في إحليله لم يفطر عند أبي حنيفة وقال أبو يوسف يفطر",
+          "sourcePage": 52,
+          "masail": [
+            {
+              "id": "masalah-sawm-intro-1-2",
+              "sectionId": "sawm-intro-1-2",
+              "kitabId": "sawm",
+              "titleAr": "مقدمة",
+              "titleEn": "Introduction",
+              "rulingAr": "والصوم هو: الإمساك عن الأكل واشرب والجماع نهارا مع النية فإن أكل الصائم أو شرب أو جامع ناسيا لم يفطر وإن نام فاحتلم أو نظر إلى امرأة فأنزل أو ادهن أو احتجم أو اكتحل أو اكتحل أو قبل لم يفطره فإن أنزل بقبلة أو لمس فعليه القضاء\n\nولا بأس بالقبلة إذا أمن على نفسه ويكره إن لم يأمن وإن ذرعه القيء لم يفطر وإن استقاء عامدا ملء فيه فعليه القضاء ومن ابتلع الحصاة أو الحديد أفطر\n\nومن جامع عامدا في أحد السبيلين أو أكل أو شرب ما يتغذى به أو يتداوى به فعليه القضاء والكفارة مثل كفارة الظهار ومن جامع فيما دون الفرج فأنزل فعليه القضاء ولا\n\nكفارة عليه في إفساد الصوم في غير رمضان كفارة ومن احتقن أو استعط أوقطر في أذنيه أو داوى جائفة أو آمة بدواء فوصل إلى جوفه أو دماغه أفطر وإن أقطر في إحليله لم يفطر عند أبي حنيفة وقال أبو يوسف يفطر",
+              "rulingEn": "Fasting is: abstaining from eating, drinking, and sexual intercourse during the day with the intention. If the fasting person eats, drinks, or has intercourse forgetfully, his fast is not broken. If he sleeps and has a wet dream, or looks at a woman and ejaculates, or applies oil, or has cupping done, or applies kohl, or kisses without ejaculation, his fast is not broken. But if he ejaculates from a kiss or from touching, he must make up that day.\n\nThere is no harm in kissing if one is confident in controlling oneself, and it is disliked if one is not confident. If vomiting overcomes him involuntarily, his fast is not broken. If he deliberately induces vomiting that fills his mouth, he must make up the fast. One who swallows a pebble or piece of iron breaks his fast.\n\nOne who deliberately has intercourse in either of the two passages, or deliberately eats or drinks something nourishing or medicinal, must make up the fast and pay an expiation like the expiation for zihar (a specific oath of marital abstention). One who has intercourse short of the private parts and ejaculates must make up the fast, but there is no\n\nexpiation on him. There is no expiation for invalidating the fast outside of Ramadan. One who takes an enema, or applies medicine through the nose, or drops medicine into the ear, or treats a deep body wound or a head wound with medicine that reaches his stomach or brain, breaks his fast. If medicine is dropped into the urethra, the fast is not broken according to Abu Hanifah. Abu Yusuf said: It breaks the fast.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "Fasting is: abstaining from eating, drinking, and sexual intercourse during the day with the intention. If the fasting person eats, drinks, or has intercourse forgetfully, his fast is not broken. If he sleeps and has a wet dream, or looks at a woman and ejaculates, or applies oil, or has cupping done, or applies kohl, or kisses without ejaculation, his fast is not broken. But if he ejaculates from a kiss or from touching, he must make up that day.\n\nThere is no harm in kissing if one is confident in controlling oneself, and it is disliked if one is not confident. If vomiting overcomes him involuntarily, his fast is not broken. If he deliberately induces vomiting that fills his mouth, he must make up the fast. One who swallows a pebble or piece of iron breaks his fast.\n\nOne who deliberately has intercourse in either of the two passages, or deliberately eats or drinks something nourishing or medicinal, must make up the fast and pay an expiation like the expiation for zihar (a specific oath of marital abstention). One who has intercourse short of the private parts and ejaculates must make up the fast, but there is no\n\nexpiation on him. There is no expiation for invalidating the fast outside of Ramadan. One who takes an enema, or applies medicine through the nose, or drops medicine into the ear, or treats a deep body wound or a head wound with medicine that reaches his stomach or brain, breaks his fast. If medicine is dropped into the urethra, the fast is not broken according to Abu Hanifah. Abu Yusuf said: It breaks the fast."
+        },
+        {
+          "id": "sawm-intro-1-3",
+          "babId": "sawm-intro",
+          "kitabId": "sawm",
+          "titleAr": "مقدمة",
+          "titleEn": "Introduction",
+          "order": 3,
+          "textAr": "ومن ذاق شيئا بفمه لم يفطر ويكره له ذلك ويكره للمرأة أن تمضغ لصبيها الطعام إذا كان لها منه بد\n\nومضغ العلك لا يفطر الصائم ويكره\n\nومن كان مريضا في رمضان فخاف إن صام زاد مرضه أفطر وقضى وإن كان مسافرا لا يستضر بالصوم فصومه أفضل وإن أفطر وقضى جاز وإن مات المريض أو المسافر وهما على حالهما لم يلزمهما القضاء وإن صح المريض أو أقام المسافر ثم ماتا لزمهما القضاء بقدر الصحة والإقامة\n\nوقضاء رمضان إن شاء فرقه وإن شاء تابعه فإن أخره حتى دخل رمضان آخر صام رمضان الثاني وقضى الأول بعده ولا فدية عليه\n\nوالحامل والمريض إذا خافتا على ولديهما\n\nأفطرتا وقضتا ولا فدية عليهما\n\nوالشيخ الفاني الذي لا يقدر على الصيام يفطر ويطعم لكل يوم مسكينا كما يطعم في الكفارات\n\nومن مات وعليه قضاء رمضان فأوصى به أطعم عنه وليه لكل يوم مسكينا نصف صاع من بر أو صاعا من تمر أو صاعا من شعير",
+          "sourcePage": 52,
+          "masail": [
+            {
+              "id": "masalah-sawm-intro-1-3",
+              "sectionId": "sawm-intro-1-3",
+              "kitabId": "sawm",
+              "titleAr": "مقدمة",
+              "titleEn": "Introduction",
+              "rulingAr": "ومن ذاق شيئا بفمه لم يفطر ويكره له ذلك ويكره للمرأة أن تمضغ لصبيها الطعام إذا كان لها منه بد\n\nومضغ العلك لا يفطر الصائم ويكره\n\nومن كان مريضا في رمضان فخاف إن صام زاد مرضه أفطر وقضى وإن كان مسافرا لا يستضر بالصوم فصومه أفضل وإن أفطر وقضى جاز وإن مات المريض أو المسافر وهما على حالهما لم يلزمهما القضاء وإن صح المريض أو أقام المسافر ثم ماتا لزمهما القضاء بقدر الصحة والإقامة\n\nوقضاء رمضان إن شاء فرقه وإن شاء تابعه فإن أخره حتى دخل رمضان آخر صام رمضان الثاني وقضى الأول بعده ولا فدية عليه\n\nوالحامل والمريض إذا خافتا على ولديهما\n\nأفطرتا وقضتا ولا فدية عليهما\n\nوالشيخ الفاني الذي لا يقدر على الصيام يفطر ويطعم لكل يوم مسكينا كما يطعم في الكفارات\n\nومن مات وعليه قضاء رمضان فأوصى به أطعم عنه وليه لكل يوم مسكينا نصف صاع من بر أو صاعا من تمر أو صاعا من شعير",
+              "rulingEn": "One who tastes something with his mouth does not break his fast, but it is disliked for him. It is disliked for a woman to chew food for her infant if she can avoid it.\n\nChewing gum does not break the fast, but it is disliked.\n\nOne who is ill during Ramadan and fears that fasting will worsen his illness may break his fast and make it up later. If one is a traveler who is not harmed by fasting, then fasting is better; if he breaks his fast and makes it up later, it is permissible. If the ill person or the traveler dies while still in their respective states, they are not required to make anything up. If the ill person recovers or the traveler settles and then they die, they must make up an amount proportional to their days of health and residence.\n\nThe make-up of Ramadan -- if one wishes, one may spread the days out, and if one wishes, one may fast them consecutively. If one delays the make-up until the next Ramadan enters, one fasts the current Ramadan and makes up the first one after it, and there is no redemption payment (fidyah) on him.\n\nThe pregnant woman and the nursing woman, if they fear for their children,\n\nmay break their fast and make it up, and there is no redemption payment on them.\n\nThe very elderly person who is unable to fast may break his fast and feed one poor person for each day, as one feeds in the expiations.\n\nOne who dies while owing make-up days of Ramadan and left a bequest for it -- his guardian feeds on his behalf for each day one poor person: half a sa' of wheat, or a full sa' of dates, or a full sa' of barley.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "One who tastes something with his mouth does not break his fast, but it is disliked for him. It is disliked for a woman to chew food for her infant if she can avoid it.\n\nChewing gum does not break the fast, but it is disliked.\n\nOne who is ill during Ramadan and fears that fasting will worsen his illness may break his fast and make it up later. If one is a traveler who is not harmed by fasting, then fasting is better; if he breaks his fast and makes it up later, it is permissible. If the ill person or the traveler dies while still in their respective states, they are not required to make anything up. If the ill person recovers or the traveler settles and then they die, they must make up an amount proportional to their days of health and residence.\n\nThe make-up of Ramadan -- if one wishes, one may spread the days out, and if one wishes, one may fast them consecutively. If one delays the make-up until the next Ramadan enters, one fasts the current Ramadan and makes up the first one after it, and there is no redemption payment (fidyah) on him.\n\nThe pregnant woman and the nursing woman, if they fear for their children,\n\nmay break their fast and make it up, and there is no redemption payment on them.\n\nThe very elderly person who is unable to fast may break his fast and feed one poor person for each day, as one feeds in the expiations.\n\nOne who dies while owing make-up days of Ramadan and left a bequest for it -- his guardian feeds on his behalf for each day one poor person: half a sa' of wheat, or a full sa' of dates, or a full sa' of barley."
+        },
+        {
+          "id": "sawm-intro-1-4",
+          "babId": "sawm-intro",
+          "kitabId": "sawm",
+          "titleAr": "مقدمة",
+          "titleEn": "Introduction",
+          "order": 4,
+          "textAr": "ومن دخل في صوم التطوع أو صلاة التطوع ثم أفسده قضاه وإذا بلغ الصبي أو أسلم الكافر في رمضان أمسكا بقية يومهما وصاما ما بعده ولم يقضيا ما مضى\n\nومن أغمي عليه في رمضان لم يقض اليوم الذي حدث فيه الإغماء وقضى ما بعده وإذا أفاق المجنون في بعض رمضان قضى ما مضى منه وإذا حاضت المرأة أفطرت وقضت وإذا قدم السافر أو طهرت الحائض في بعض النهار أمسكا عن الطعام والشراب بقية يومهما\n\nومن تسحر وهو يظن أن الفجر لم يطلع أو أفطر وهو يرى\n\nأن الشمس قد غربت ثم تبين أن الفجر كان قد طلع أو أن الشمس لم تغرب قضى ذلك اليوم ولا كفارة عليه\n\nومن رأى هلال الفطر وحده لم يفطر\n\nوإذا كان بالسماء علة لم تقبل في هلال الفطر إلا شهادة رجلين أو رجل وامرأتين وإن لم يكن بالسماء علة لم تقبل إلا شهادة جمع كثير يقع العام بخبرهم",
+          "sourcePage": 52,
+          "masail": [
+            {
+              "id": "masalah-sawm-intro-1-4",
+              "sectionId": "sawm-intro-1-4",
+              "kitabId": "sawm",
+              "titleAr": "مقدمة",
+              "titleEn": "Introduction",
+              "rulingAr": "ومن دخل في صوم التطوع أو صلاة التطوع ثم أفسده قضاه وإذا بلغ الصبي أو أسلم الكافر في رمضان أمسكا بقية يومهما وصاما ما بعده ولم يقضيا ما مضى\n\nومن أغمي عليه في رمضان لم يقض اليوم الذي حدث فيه الإغماء وقضى ما بعده وإذا أفاق المجنون في بعض رمضان قضى ما مضى منه وإذا حاضت المرأة أفطرت وقضت وإذا قدم السافر أو طهرت الحائض في بعض النهار أمسكا عن الطعام والشراب بقية يومهما\n\nومن تسحر وهو يظن أن الفجر لم يطلع أو أفطر وهو يرى\n\nأن الشمس قد غربت ثم تبين أن الفجر كان قد طلع أو أن الشمس لم تغرب قضى ذلك اليوم ولا كفارة عليه\n\nومن رأى هلال الفطر وحده لم يفطر\n\nوإذا كان بالسماء علة لم تقبل في هلال الفطر إلا شهادة رجلين أو رجل وامرأتين وإن لم يكن بالسماء علة لم تقبل إلا شهادة جمع كثير يقع العام بخبرهم",
+              "rulingEn": "One who enters into a voluntary fast or voluntary prayer and then invalidates it must make it up. If a child reaches puberty or a non-Muslim accepts Islam during Ramadan, they abstain for the rest of their day and fast the days that follow, but they do not make up what has passed.\n\nOne who loses consciousness during Ramadan does not make up the day on which the unconsciousness occurred, but makes up the days after it. If an insane person regains sanity during part of Ramadan, he makes up what has passed. When a woman begins menstruating, she breaks her fast and makes it up. When a traveler arrives home or a menstruating woman becomes pure during part of the day, they abstain from food and drink for the rest of their day.\n\nOne who eats the pre-dawn meal thinking that dawn had not yet risen, or breaks his fast thinking\n\nthat the sun has set, and then it becomes clear that dawn had already risen or that the sun had not set -- he makes up that day, and there is no expiation on him.\n\nOne who sees the crescent of Eid alone does not break his fast.\n\nIf there are clouds in the sky, the testimony for the crescent of Eid al-Fitr is not accepted except from two men or one man and two women. If there are no clouds in the sky, it is not accepted except from a large group whose report produces certainty.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "One who enters into a voluntary fast or voluntary prayer and then invalidates it must make it up. If a child reaches puberty or a non-Muslim accepts Islam during Ramadan, they abstain for the rest of their day and fast the days that follow, but they do not make up what has passed.\n\nOne who loses consciousness during Ramadan does not make up the day on which the unconsciousness occurred, but makes up the days after it. If an insane person regains sanity during part of Ramadan, he makes up what has passed. When a woman begins menstruating, she breaks her fast and makes it up. When a traveler arrives home or a menstruating woman becomes pure during part of the day, they abstain from food and drink for the rest of their day.\n\nOne who eats the pre-dawn meal thinking that dawn had not yet risen, or breaks his fast thinking\n\nthat the sun has set, and then it becomes clear that dawn had already risen or that the sun had not set -- he makes up that day, and there is no expiation on him.\n\nOne who sees the crescent of Eid alone does not break his fast.\n\nIf there are clouds in the sky, the testimony for the crescent of Eid al-Fitr is not accepted except from two men or one man and two women. If there are no clouds in the sky, it is not accepted except from a large group whose report produces certainty."
+        }
+      ]
+    },
+    {
+      "id": "sawm-bab-1",
+      "kitabId": "sawm",
+      "titleAr": "باب الاعتكاف",
+      "titleEn": "Spiritual Retreat (I'tikaf)",
+      "order": 1,
+      "sections": [
+        {
+          "id": "sawm-bab-1-1",
+          "babId": "sawm-bab-1",
+          "kitabId": "sawm",
+          "titleAr": "باب الاعتكاف",
+          "titleEn": "Spiritual Retreat (I'tikaf)",
+          "order": 1,
+          "textAr": "الاعتكاف مستحب وهو اللبث في المسجد مع الصوم ونية الاعتكاف\n\nويحرم على المعتكف: الوط واللمس والقبلة ولا يخرج من المسجد إلا لحاجة الإنسان أو الجمعة ولا بأس بأن يبيع ويبتاع في المسجد من غير أن يحضر السلع\n\nولا يتكام إلا بخير ويكره له الصمت فإن جامع المعتكف ليلا أو نهارا بطل اعتكافه ومن أوجب على نفسه اعتكاف أيام لزمه اعتكافها بلياليها وكانت متتابعة وإن لم يشترط التتابع",
+          "sourcePage": 52,
+          "masail": [
+            {
+              "id": "masalah-sawm-bab-1-1",
+              "sectionId": "sawm-bab-1-1",
+              "kitabId": "sawm",
+              "titleAr": "باب الاعتكاف",
+              "titleEn": "Spiritual Retreat (I'tikaf)",
+              "rulingAr": "الاعتكاف مستحب وهو اللبث في المسجد مع الصوم ونية الاعتكاف\n\nويحرم على المعتكف: الوط واللمس والقبلة ولا يخرج من المسجد إلا لحاجة الإنسان أو الجمعة ولا بأس بأن يبيع ويبتاع في المسجد من غير أن يحضر السلع\n\nولا يتكام إلا بخير ويكره له الصمت فإن جامع المعتكف ليلا أو نهارا بطل اعتكافه ومن أوجب على نفسه اعتكاف أيام لزمه اعتكافها بلياليها وكانت متتابعة وإن لم يشترط التتابع",
+              "rulingEn": "Spiritual retreat (i'tikaf) is recommended. It is remaining in the mosque accompanied by fasting and the intention of i'tikaf.\n\nIt is forbidden for the one in i'tikaf to have sexual intercourse, to touch with desire, or to kiss. He does not leave the mosque except for human necessities or for the Friday prayer. There is no harm in his buying and selling in the mosque as long as the goods are not brought there.\n\nHe should only speak what is good, and silence (as a form of worship) is disliked for him. If the one in i'tikaf has sexual intercourse, whether by night or by day, his i'tikaf is invalidated. One who makes i'tikaf for a specified number of days obligatory upon himself must observe i'tikaf for those days and their nights, and they must be consecutive even if he did not stipulate consecutiveness.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "Spiritual retreat (i'tikaf) is recommended. It is remaining in the mosque accompanied by fasting and the intention of i'tikaf.\n\nIt is forbidden for the one in i'tikaf to have sexual intercourse, to touch with desire, or to kiss. He does not leave the mosque except for human necessities or for the Friday prayer. There is no harm in his buying and selling in the mosque as long as the goods are not brought there.\n\nHe should only speak what is good, and silence (as a form of worship) is disliked for him. If the one in i'tikaf has sexual intercourse, whether by night or by day, his i'tikaf is invalidated. One who makes i'tikaf for a specified number of days obligatory upon himself must observe i'tikaf for those days and their nights, and they must be consecutive even if he did not stipulate consecutiveness."
+        }
+      ]
+    }
+  ]
+}

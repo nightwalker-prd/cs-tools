@@ -1,0 +1,44 @@
+========================================
+=== Processing: 108911-30-32 ===
+=== Started: Mon Feb 23 17:24:04 GMT 2026 ===
+=== PDF: /Users/miftah/projects/alqalam-tools/data/stories/108911-30-32.pdf ===
+=== Working dir: /Users/miftah/projects/alqalam-tools/data/stories/108911-27-29 ===
+========================================
+
+[OK] PDF file exists
+[INFO] PDF size: 34K
+
+[INFO] Changed to directory: /Users/miftah/projects/alqalam-tools/data/stories/108911-27-29
+[INFO] Launching Claude...
+
+--- CLAUDE OUTPUT START ---
+The file has been written to `108911-30-32-train-journey.md`. Here's a summary of what's included:
+
+**Full Arabic text with English translation** — 15 paragraphs covering the complete story "سَفَرُ الْقِطَارِ" (The Train Journey), about a boy's first train journey with his mother, siblings, and uncle.
+
+**Vocabulary** — 45+ words organized into 4 categories:
+- Travel & Transport (قِطَار، مَحَطَّة، رَصِيف, etc.)
+- People & Roles (حَمَّال، بَاعَة، خَادِم, etc.)
+- Actions & Verbs with verb forms identified (Forms I, II, IV, V, VIII, X)
+- Nouns & Objects (زَاد، فِرَاش، هَدَايَا, etc.)
+
+**Grammatical Analysis** covering:
+1. **Verb forms** (6 forms used: I, II, IV, V, VIII, X)
+2. **Noun patterns** (مَفْعَلَة، فَعَّال، فَاعِل, etc.)
+3. **Key structures**: لَا + مضارع, إِنَّ + accusative, لَوْ...لَـ conditional, لَمْ يَزَلْ, جَعَلَ as inceptive verb, فَـ sequential, حَتَّى, dual forms, حال clauses, لِـ + subjunctive purpose clauses
+4. **Iḍāfa constructions** — 12 examples analyzed
+5. **Cultural & Islamic notes** — traveller's prayer (qaṣr), wudu, the rupee indicating Indian subcontinent setting
+--- CLAUDE OUTPUT END ---
+
+========================================
+=== Exit code: 0 ===
+=== Finished: Mon Feb 23 17:26:56 GMT 2026 ===
+=== Files in directory: ===
+total 56
+drwxr-xr-x@  4 miftah  staff    128 Feb 23 17:26 .
+drwxr-xr-x@ 44 miftah  staff   1408 Feb 23 17:24 ..
+-rw-r--r--@  1 miftah  staff  21081 Feb 23 17:26 108911-30-32-train-journey.md
+-rw-r--r--@  1 miftah  staff   2172 Feb 23 17:24 claude_log.txt
+
+=== Created 1 markdown files ===
+========================================

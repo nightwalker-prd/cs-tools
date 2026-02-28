@@ -1,0 +1,387 @@
+{
+  "id": "zakah",
+  "titleAr": "كتاب الزكاة",
+  "titleEn": "Zakat",
+  "order": 3,
+  "categoryId": "ibadat",
+  "pageRange": [
+    41,
+    51
+  ],
+  "abwab": [
+    {
+      "id": "zakah-intro",
+      "kitabId": "zakah",
+      "titleAr": "مقدمة كتاب الزكاة",
+      "titleEn": "Introduction to Zakat",
+      "order": 0,
+      "sections": [
+        {
+          "id": "zakah-intro-1",
+          "babId": "zakah-intro",
+          "kitabId": "zakah",
+          "titleAr": "مقدمة",
+          "titleEn": "Introduction",
+          "order": 1,
+          "textAr": "الزكاة: واجبة على الحر المسلم البالغ العاقل إذا ملك نصابا ملكا تاما وحال عليه الحول وليس على صبي ولا مجنون وال مكاتب زكاة\n\nومن كان عليه دين يحيط فلا زكاة عليه\n\nوإن كان ماله أكثر من الدين زكى الفاضل إذا بلغ نصابا وليس في دور السكنى وثياب البدن وأثاث المنازل ودواب الركوب وعبيد الخدمة وسلاح الاستعمال زكاة\n\nولا يجوز أداء الزكاة إلا بينة مقارنة للأداء أو مقارنة لعزل مقدار الواجب\n\nومن تصدق بجميع ماله ولم ينو الزكاة سقط فرضها عنه",
+          "sourcePage": 41,
+          "masail": [
+            {
+              "id": "masalah-zakah-intro-1",
+              "sectionId": "zakah-intro-1",
+              "kitabId": "zakah",
+              "titleAr": "مقدمة",
+              "titleEn": "Introduction",
+              "rulingAr": "الزكاة: واجبة على الحر المسلم البالغ العاقل إذا ملك نصابا ملكا تاما وحال عليه الحول وليس على صبي ولا مجنون وال مكاتب زكاة\n\nومن كان عليه دين يحيط فلا زكاة عليه\n\nوإن كان ماله أكثر من الدين زكى الفاضل إذا بلغ نصابا وليس في دور السكنى وثياب البدن وأثاث المنازل ودواب الركوب وعبيد الخدمة وسلاح الاستعمال زكاة\n\nولا يجوز أداء الزكاة إلا بينة مقارنة للأداء أو مقارنة لعزل مقدار الواجب\n\nومن تصدق بجميع ماله ولم ينو الزكاة سقط فرضها عنه",
+              "rulingEn": "Zakat is obligatory upon the free, Muslim, adult, sane person when he possesses the minimum taxable amount (nisab) in complete ownership and a full lunar year has passed over it. There is no zakat upon a child, an insane person, or a slave under a contract of emancipation (mukatab).\n\nOne who has a debt that encompasses his wealth owes no zakat.\n\nIf his wealth exceeds the debt, he pays zakat on the surplus if it reaches the nisab. There is no zakat on one's dwelling, personal clothing, household furnishings, riding animals, service slaves, or weapons for personal use.\n\nThe payment of zakat is not valid except with an intention accompanying the payment or accompanying the setting aside of the obligatory amount.\n\nOne who gives away all his wealth in charity without intending zakat -- the obligation of zakat is lifted from him.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "Zakat is obligatory upon the free, Muslim, adult, sane person when he possesses the minimum taxable amount (nisab) in complete ownership and a full lunar year has passed over it. There is no zakat upon a child, an insane person, or a slave under a contract of emancipation (mukatab).\n\nOne who has a debt that encompasses his wealth owes no zakat.\n\nIf his wealth exceeds the debt, he pays zakat on the surplus if it reaches the nisab. There is no zakat on one's dwelling, personal clothing, household furnishings, riding animals, service slaves, or weapons for personal use.\n\nThe payment of zakat is not valid except with an intention accompanying the payment or accompanying the setting aside of the obligatory amount.\n\nOne who gives away all his wealth in charity without intending zakat -- the obligation of zakat is lifted from him."
+        }
+      ]
+    },
+    {
+      "id": "zakah-bab-1",
+      "kitabId": "zakah",
+      "titleAr": "باب زكاة الإبل",
+      "titleEn": "Zakat on Camels",
+      "order": 1,
+      "sections": [
+        {
+          "id": "zakah-bab-1-1",
+          "babId": "zakah-bab-1",
+          "kitabId": "zakah",
+          "titleAr": "باب زكاة الإبل",
+          "titleEn": "Zakat on Camels",
+          "order": 1,
+          "textAr": "ليس في أقل من خمس ذود من الإبل صدقة فإذا بلغت خمسا سائمة\n\nوحال عليها الحول ففيها شاة إلى تسع فإذا كانت عشرا ففيها شاتان إلى أربع عشرة فإذا كانت خمس عشرة ففيها ثلاث شياه إلى تسع عشرة فإذا كانت عشرين ففيها أربع شياه إلى أربع وعشرين فإذا كانت خمسا وعشرين ففيها بنت مخاض إلى خمس وثلاثين فإذا كانت ستا وثلاثين ففيها بنت لبون إلى خمس وأربعين فإذا كانت ستا وأربعين ففيها حقة إلى ستين فإذا كانت إحدى وستين ففيها جذعة إلى خمس وسبعين فإذا كانت ستا وسبعين ففيها بنتا لبون إلى تسعين فإذا كانت إحدى وتسعين ففيها حقتان إلى مائة وعشرين\n\nثم تستأنف الفريضة فيكون في الخمس شاة مع الحقتين وفي العشر شاتان وفي خمس عشرة ثلاث شياه وفي عشرين أربع شياه وفي خمس وعشرين بنت مخاض إلى مائة وخمسين فيكون فيها\n\nثلاث حقاق: ثم تستأنف الفريضة فيكنون في الخمس شاة وفي العشر شاتان وفي خمس عشرة ثلاث شياه وفي عشرين أربع شياه وفي خمس وعشرين بنت مخاض وفي ست وثلاثين بنت لبون فإذا بلغت مائة وستا وتسعين ففيها أربع حقاق إلى مائتين ثم تستأنف الفريضة أبدا كما استؤنفت في الخمسين التي بعد المائة والخميسين\n\nوالبخت والعراب سواء",
+          "sourcePage": 41,
+          "masail": [
+            {
+              "id": "masalah-zakah-bab-1-1",
+              "sectionId": "zakah-bab-1-1",
+              "kitabId": "zakah",
+              "titleAr": "باب زكاة الإبل",
+              "titleEn": "Zakat on Camels",
+              "rulingAr": "ليس في أقل من خمس ذود من الإبل صدقة فإذا بلغت خمسا سائمة\n\nوحال عليها الحول ففيها شاة إلى تسع فإذا كانت عشرا ففيها شاتان إلى أربع عشرة فإذا كانت خمس عشرة ففيها ثلاث شياه إلى تسع عشرة فإذا كانت عشرين ففيها أربع شياه إلى أربع وعشرين فإذا كانت خمسا وعشرين ففيها بنت مخاض إلى خمس وثلاثين فإذا كانت ستا وثلاثين ففيها بنت لبون إلى خمس وأربعين فإذا كانت ستا وأربعين ففيها حقة إلى ستين فإذا كانت إحدى وستين ففيها جذعة إلى خمس وسبعين فإذا كانت ستا وسبعين ففيها بنتا لبون إلى تسعين فإذا كانت إحدى وتسعين ففيها حقتان إلى مائة وعشرين\n\nثم تستأنف الفريضة فيكون في الخمس شاة مع الحقتين وفي العشر شاتان وفي خمس عشرة ثلاث شياه وفي عشرين أربع شياه وفي خمس وعشرين بنت مخاض إلى مائة وخمسين فيكون فيها\n\nثلاث حقاق: ثم تستأنف الفريضة فيكنون في الخمس شاة وفي العشر شاتان وفي خمس عشرة ثلاث شياه وفي عشرين أربع شياه وفي خمس وعشرين بنت مخاض وفي ست وثلاثين بنت لبون فإذا بلغت مائة وستا وتسعين ففيها أربع حقاق إلى مائتين ثم تستأنف الفريضة أبدا كما استؤنفت في الخمسين التي بعد المائة والخميسين\n\nوالبخت والعراب سواء",
+              "rulingEn": "There is no charity (zakat) on fewer than five head of camels. When they reach five pasturing camels\n\nand a full year has passed over them, the zakat on them is one sheep -- up to nine. When they are ten, the zakat is two sheep -- up to fourteen. When they are fifteen, the zakat is three sheep -- up to nineteen. When they are twenty, the zakat is four sheep -- up to twenty-four. When they are twenty-five, the zakat is one bint makhad (a one-year-old female camel) -- up to thirty-five. When they are thirty-six, the zakat is one bint labun (a two-year-old female camel) -- up to forty-five. When they are forty-six, the zakat is one hiqqah (a three-year-old female camel) -- up to sixty. When they are sixty-one, the zakat is one jadha'ah (a four-year-old female camel) -- up to seventy-five. When they are seventy-six, the zakat is two bint labun -- up to ninety. When they are ninety-one, the zakat is two hiqqah -- up to one hundred and twenty.\n\nThen the calculation restarts: on five there is one sheep along with the two hiqqah, on ten there are two sheep, on fifteen there are three sheep, on twenty there are four sheep, on twenty-five there is one bint makhad -- up to one hundred and fifty, in which there are\n\nthree hiqqah. Then the calculation restarts: on five there is one sheep, on ten two sheep, on fifteen three sheep, on twenty four sheep, on twenty-five one bint makhad, on thirty-six one bint labun. When they reach one hundred and ninety-six, the zakat is four hiqqah -- up to two hundred. Then the calculation restarts perpetually as it restarted in the fifty after the one hundred and fifty.\n\nBactrian and Arabian camels are treated equally.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "There is no charity (zakat) on fewer than five head of camels. When they reach five pasturing camels\n\nand a full year has passed over them, the zakat on them is one sheep -- up to nine. When they are ten, the zakat is two sheep -- up to fourteen. When they are fifteen, the zakat is three sheep -- up to nineteen. When they are twenty, the zakat is four sheep -- up to twenty-four. When they are twenty-five, the zakat is one bint makhad (a one-year-old female camel) -- up to thirty-five. When they are thirty-six, the zakat is one bint labun (a two-year-old female camel) -- up to forty-five. When they are forty-six, the zakat is one hiqqah (a three-year-old female camel) -- up to sixty. When they are sixty-one, the zakat is one jadha'ah (a four-year-old female camel) -- up to seventy-five. When they are seventy-six, the zakat is two bint labun -- up to ninety. When they are ninety-one, the zakat is two hiqqah -- up to one hundred and twenty.\n\nThen the calculation restarts: on five there is one sheep along with the two hiqqah, on ten there are two sheep, on fifteen there are three sheep, on twenty there are four sheep, on twenty-five there is one bint makhad -- up to one hundred and fifty, in which there are\n\nthree hiqqah. Then the calculation restarts: on five there is one sheep, on ten two sheep, on fifteen three sheep, on twenty four sheep, on twenty-five one bint makhad, on thirty-six one bint labun. When they reach one hundred and ninety-six, the zakat is four hiqqah -- up to two hundred. Then the calculation restarts perpetually as it restarted in the fifty after the one hundred and fifty.\n\nBactrian and Arabian camels are treated equally."
+        }
+      ]
+    },
+    {
+      "id": "zakah-bab-2",
+      "kitabId": "zakah",
+      "titleAr": "باب صدقة البقر",
+      "titleEn": "Zakat on Cattle",
+      "order": 2,
+      "sections": [
+        {
+          "id": "zakah-bab-2-1",
+          "babId": "zakah-bab-2",
+          "kitabId": "zakah",
+          "titleAr": "باب صدقة البقر",
+          "titleEn": "Zakat on Cattle",
+          "order": 1,
+          "textAr": "ليس في أقل من ثلاثين من البقر صدقة فإذا كانت ثلاثين سائمة وحال عليها الحول ففيها تبيع أو تبيعة وفي أربعين مسنة أو مسن فإذا زادت على الأربعين وجب في الزيادة بقدر ذلك إلى ستين عند أبي حنيفة ففي الواحدة ربع عشر مسنة وفي الاثنين نصف عشر مسنة وفي الثلاثة ثلاثة أرباع عشر مسنة وفي الأربع عشر\n\nوقال أبو يوسف ومحمد: لا شيء في الزيادة حتى تبلغ ستين فيكون فيها تبيعان أو تبيعتان وفي سبعين مسنة وتبيع وفي ثمانين مسنتان وفي تسعين ثلاثة أتبعة وفي مائة تبيعان ومسنة والجوامس والبقر سواء",
+          "sourcePage": 41,
+          "masail": [
+            {
+              "id": "masalah-zakah-bab-2-1",
+              "sectionId": "zakah-bab-2-1",
+              "kitabId": "zakah",
+              "titleAr": "باب صدقة البقر",
+              "titleEn": "Zakat on Cattle",
+              "rulingAr": "ليس في أقل من ثلاثين من البقر صدقة فإذا كانت ثلاثين سائمة وحال عليها الحول ففيها تبيع أو تبيعة وفي أربعين مسنة أو مسن فإذا زادت على الأربعين وجب في الزيادة بقدر ذلك إلى ستين عند أبي حنيفة ففي الواحدة ربع عشر مسنة وفي الاثنين نصف عشر مسنة وفي الثلاثة ثلاثة أرباع عشر مسنة وفي الأربع عشر\n\nوقال أبو يوسف ومحمد: لا شيء في الزيادة حتى تبلغ ستين فيكون فيها تبيعان أو تبيعتان وفي سبعين مسنة وتبيع وفي ثمانين مسنتان وفي تسعين ثلاثة أتبعة وفي مائة تبيعان ومسنة والجوامس والبقر سواء",
+              "rulingEn": "There is no charity (zakat) on fewer than thirty head of cattle. When they are thirty pasturing cattle and a full year has passed over them, the zakat on them is one tabi' or tabi'ah (a one-year-old calf). On forty, the zakat is one musinnah or musinn (a two-year-old cow or bull). When they exceed forty, the zakat on the excess is proportional up to sixty according to Abu Hanifah: on one extra there is one-fortieth of a musinnah, on two extra there is one-twentieth of a musinnah, on three extra there is three-fortieths of a musinnah, on four extra there is one-tenth.\n\nAbu Yusuf and Muhammad said: There is nothing on the excess until they reach sixty, in which case there are two tabi' or tabi'ah. On seventy there is one musinnah and one tabi'. On eighty there are two musinnah. On ninety there are three tabi'. On one hundred there are two tabi' and one musinnah. Water buffalo and domestic cattle are treated equally.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "There is no charity (zakat) on fewer than thirty head of cattle. When they are thirty pasturing cattle and a full year has passed over them, the zakat on them is one tabi' or tabi'ah (a one-year-old calf). On forty, the zakat is one musinnah or musinn (a two-year-old cow or bull). When they exceed forty, the zakat on the excess is proportional up to sixty according to Abu Hanifah: on one extra there is one-fortieth of a musinnah, on two extra there is one-twentieth of a musinnah, on three extra there is three-fortieths of a musinnah, on four extra there is one-tenth.\n\nAbu Yusuf and Muhammad said: There is nothing on the excess until they reach sixty, in which case there are two tabi' or tabi'ah. On seventy there is one musinnah and one tabi'. On eighty there are two musinnah. On ninety there are three tabi'. On one hundred there are two tabi' and one musinnah. Water buffalo and domestic cattle are treated equally."
+        }
+      ]
+    },
+    {
+      "id": "zakah-bab-3",
+      "kitabId": "zakah",
+      "titleAr": "باب صدقة الغنم",
+      "titleEn": "Zakat on Sheep",
+      "order": 3,
+      "sections": [
+        {
+          "id": "zakah-bab-3-1",
+          "babId": "zakah-bab-3",
+          "kitabId": "zakah",
+          "titleAr": "باب صدقة الغنم",
+          "titleEn": "Zakat on Sheep",
+          "order": 1,
+          "textAr": "ليس في أقل من أربعين شاة صدقة فإذا كانت أربعين سائمة وحال عليها الحول ففيها شاة إلى مائة وعشرين فإذا زادت واحدة ففيها شاتان إلى مائتين فإذا زادت واحدة ففيها ثلاث شياه فإذا بلغت أربعمائة ففيها أربع شياه ثم في كل مائة شاة والضأن والمعز سواء",
+          "sourcePage": 42,
+          "masail": [
+            {
+              "id": "masalah-zakah-bab-3-1",
+              "sectionId": "zakah-bab-3-1",
+              "kitabId": "zakah",
+              "titleAr": "باب صدقة الغنم",
+              "titleEn": "Zakat on Sheep",
+              "rulingAr": "ليس في أقل من أربعين شاة صدقة فإذا كانت أربعين سائمة وحال عليها الحول ففيها شاة إلى مائة وعشرين فإذا زادت واحدة ففيها شاتان إلى مائتين فإذا زادت واحدة ففيها ثلاث شياه فإذا بلغت أربعمائة ففيها أربع شياه ثم في كل مائة شاة والضأن والمعز سواء",
+              "rulingEn": "There is no charity (zakat) on fewer than forty sheep. When they are forty pasturing sheep and a full year has passed over them, the zakat on them is one sheep -- up to one hundred and twenty. When they exceed by one, the zakat is two sheep -- up to two hundred. When they exceed by one, the zakat is three sheep. When they reach four hundred, the zakat is four sheep, then one sheep for every hundred. Woolly sheep (da'n) and goats (ma'z) are treated equally.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "There is no charity (zakat) on fewer than forty sheep. When they are forty pasturing sheep and a full year has passed over them, the zakat on them is one sheep -- up to one hundred and twenty. When they exceed by one, the zakat is two sheep -- up to two hundred. When they exceed by one, the zakat is three sheep. When they reach four hundred, the zakat is four sheep, then one sheep for every hundred. Woolly sheep (da'n) and goats (ma'z) are treated equally."
+        }
+      ]
+    },
+    {
+      "id": "zakah-bab-4",
+      "kitabId": "zakah",
+      "titleAr": "باب زكاة الخيل",
+      "titleEn": "Zakat on Horses",
+      "order": 4,
+      "sections": [
+        {
+          "id": "zakah-bab-4-1",
+          "babId": "zakah-bab-4",
+          "kitabId": "zakah",
+          "titleAr": "باب زكاة الخيل",
+          "titleEn": "Zakat on Horses",
+          "order": 1,
+          "textAr": "إذا كانت الخيل سائمة ذكورا وإناثا فصاحبها بالخيار: إن شاء أعطى عن كل فرس دينارا وإن شاء قومها وأعطى عن كل مائتي درهم خمسة دراهم وليس في ذكورها منفردة زكاة\n\nوقال أبو يوسف ومحمد: لا زكاة في الخيل\n\nولا في شيء من البغال والحمير إلا أن تكون للتجارة\n\nوليس في الفصلان والحملان والعجاجيل صدقة عند أبي حنيفة\n\nومحمد إلا أن يكون معها كبار وقال أبو يوسف فيها واحدة منها\n\nومن وجب عليه سن فلم توجد عنده أخذ المصدق أعلى منها ورد الفضل أو أخذ دونها وأخذ الفضل\n\nويجوز دفع القيم في الزكاة وليس في العوامل والعلوفة صدقة\n\nولا يأخذ المصدق خيار المال ولا رذالته ويأخذ الوسط منه ومن كان له نصاب فاستفاد في أثناء الحول من جنسه\n\nضمه إلى ماله وزكاه به\n\nوالسائمة هي: التي تكتفي بالرعي في أكثر حولها فإن علفها نصف الحول أو أكثر فلا زكاة فيها\n\nوالزكاة عند أبي حنيفة وأبي يوسف في النصاب دون العفو وقال محمد: فيهما وإذا هلك المال بعد وجوب الزكاة سقطت فإن قدم الزكاة على الحول وهو مالك للنصاب جاز",
+          "sourcePage": 42,
+          "masail": [
+            {
+              "id": "masalah-zakah-bab-4-1",
+              "sectionId": "zakah-bab-4-1",
+              "kitabId": "zakah",
+              "titleAr": "باب زكاة الخيل",
+              "titleEn": "Zakat on Horses",
+              "rulingAr": "إذا كانت الخيل سائمة ذكورا وإناثا فصاحبها بالخيار: إن شاء أعطى عن كل فرس دينارا وإن شاء قومها وأعطى عن كل مائتي درهم خمسة دراهم وليس في ذكورها منفردة زكاة\n\nوقال أبو يوسف ومحمد: لا زكاة في الخيل\n\nولا في شيء من البغال والحمير إلا أن تكون للتجارة\n\nوليس في الفصلان والحملان والعجاجيل صدقة عند أبي حنيفة\n\nومحمد إلا أن يكون معها كبار وقال أبو يوسف فيها واحدة منها\n\nومن وجب عليه سن فلم توجد عنده أخذ المصدق أعلى منها ورد الفضل أو أخذ دونها وأخذ الفضل\n\nويجوز دفع القيم في الزكاة وليس في العوامل والعلوفة صدقة\n\nولا يأخذ المصدق خيار المال ولا رذالته ويأخذ الوسط منه ومن كان له نصاب فاستفاد في أثناء الحول من جنسه\n\nضمه إلى ماله وزكاه به\n\nوالسائمة هي: التي تكتفي بالرعي في أكثر حولها فإن علفها نصف الحول أو أكثر فلا زكاة فيها\n\nوالزكاة عند أبي حنيفة وأبي يوسف في النصاب دون العفو وقال محمد: فيهما وإذا هلك المال بعد وجوب الزكاة سقطت فإن قدم الزكاة على الحول وهو مالك للنصاب جاز",
+              "rulingEn": "If horses are pasturing, both males and females, their owner has a choice: if he wishes, he gives one dinar per horse; if he wishes, he assesses their value and gives five dirhams for every two hundred dirhams. There is no zakat on males alone.\n\nAbu Yusuf and Muhammad said: There is no zakat on horses.\n\nNor on mules and donkeys, unless they are held for trade.\n\nThere is no charity on young camels, young lambs, and young calves according to Abu Hanifah\n\nand Muhammad, unless there are adult animals with them. Abu Yusuf said: One young animal of their kind is due.\n\nIf the age required is not found among one's animals, the collector takes a higher age and returns the difference, or takes a lower age and collects the difference.\n\nIt is permissible to pay the monetary value in zakat. There is no charity on working animals or animals that are fed (i.e., not pasturing).\n\nThe collector does not take the best of the wealth nor the worst; he takes the middle quality. One who has a nisab and acquires more of the same type during the year\n\nadds it to his wealth and pays zakat on it together.\n\nPasturing animals (sa'imah) are those that subsist on grazing for most of their year. If they are fed for half the year or more, there is no zakat on them.\n\nZakat, according to Abu Hanifah and Abu Yusuf, is due on the nisab amount only, not on the excess. Muhammad said: It is due on both. If the wealth is destroyed after zakat has become obligatory, the zakat obligation lapses. If one pays zakat in advance of the year while possessing the nisab, it is valid.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "If horses are pasturing, both males and females, their owner has a choice: if he wishes, he gives one dinar per horse; if he wishes, he assesses their value and gives five dirhams for every two hundred dirhams. There is no zakat on males alone.\n\nAbu Yusuf and Muhammad said: There is no zakat on horses.\n\nNor on mules and donkeys, unless they are held for trade.\n\nThere is no charity on young camels, young lambs, and young calves according to Abu Hanifah\n\nand Muhammad, unless there are adult animals with them. Abu Yusuf said: One young animal of their kind is due.\n\nIf the age required is not found among one's animals, the collector takes a higher age and returns the difference, or takes a lower age and collects the difference.\n\nIt is permissible to pay the monetary value in zakat. There is no charity on working animals or animals that are fed (i.e., not pasturing).\n\nThe collector does not take the best of the wealth nor the worst; he takes the middle quality. One who has a nisab and acquires more of the same type during the year\n\nadds it to his wealth and pays zakat on it together.\n\nPasturing animals (sa'imah) are those that subsist on grazing for most of their year. If they are fed for half the year or more, there is no zakat on them.\n\nZakat, according to Abu Hanifah and Abu Yusuf, is due on the nisab amount only, not on the excess. Muhammad said: It is due on both. If the wealth is destroyed after zakat has become obligatory, the zakat obligation lapses. If one pays zakat in advance of the year while possessing the nisab, it is valid."
+        }
+      ]
+    },
+    {
+      "id": "zakah-bab-5",
+      "kitabId": "zakah",
+      "titleAr": "باب زكاة الفضة",
+      "titleEn": "Zakat on Silver",
+      "order": 5,
+      "sections": [
+        {
+          "id": "zakah-bab-5-1",
+          "babId": "zakah-bab-5",
+          "kitabId": "zakah",
+          "titleAr": "باب زكاة الفضة",
+          "titleEn": "Zakat on Silver",
+          "order": 1,
+          "textAr": "ليس فيما دون مائتي درهم صدقة فإذا كانت مائتي درهم وحال عليها الحول ففيها خمسة دراهم ولا شيء في الزيادة حتى تبلغ أربعين درهما فيكون فيها درهم ثم في كل أربعين درهما درهم وقال أبو يوسف ومحمد: ما زاد على المائتين فزكاته بحسابه\n\nوإذا كان الغالب على الورق الفضة فهي في حكم الفضة وإن كان الغالب عليها الغش فهي في حكم العروض ويعتبر أن تبلغ فيمتها نصابا",
+          "sourcePage": 42,
+          "masail": [
+            {
+              "id": "masalah-zakah-bab-5-1",
+              "sectionId": "zakah-bab-5-1",
+              "kitabId": "zakah",
+              "titleAr": "باب زكاة الفضة",
+              "titleEn": "Zakat on Silver",
+              "rulingAr": "ليس فيما دون مائتي درهم صدقة فإذا كانت مائتي درهم وحال عليها الحول ففيها خمسة دراهم ولا شيء في الزيادة حتى تبلغ أربعين درهما فيكون فيها درهم ثم في كل أربعين درهما درهم وقال أبو يوسف ومحمد: ما زاد على المائتين فزكاته بحسابه\n\nوإذا كان الغالب على الورق الفضة فهي في حكم الفضة وإن كان الغالب عليها الغش فهي في حكم العروض ويعتبر أن تبلغ فيمتها نصابا",
+              "rulingEn": "There is no charity on less than two hundred dirhams. When it is two hundred dirhams and a full year has passed over it, the zakat on it is five dirhams. There is nothing on the excess until it reaches forty dirhams, in which case one dirham is due, then one dirham for every forty dirhams. Abu Yusuf and Muhammad said: Whatever exceeds two hundred, its zakat is proportional.\n\nIf the predominant metal in the coins is silver, they are treated as silver. If the predominant metal is base alloy, they are treated as trade goods, and their value must reach a nisab.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "There is no charity on less than two hundred dirhams. When it is two hundred dirhams and a full year has passed over it, the zakat on it is five dirhams. There is nothing on the excess until it reaches forty dirhams, in which case one dirham is due, then one dirham for every forty dirhams. Abu Yusuf and Muhammad said: Whatever exceeds two hundred, its zakat is proportional.\n\nIf the predominant metal in the coins is silver, they are treated as silver. If the predominant metal is base alloy, they are treated as trade goods, and their value must reach a nisab."
+        }
+      ]
+    },
+    {
+      "id": "zakah-bab-6",
+      "kitabId": "zakah",
+      "titleAr": "باب زكاة الذهب",
+      "titleEn": "Zakat on Gold",
+      "order": 6,
+      "sections": [
+        {
+          "id": "zakah-bab-6-1",
+          "babId": "zakah-bab-6",
+          "kitabId": "zakah",
+          "titleAr": "باب زكاة الذهب",
+          "titleEn": "Zakat on Gold",
+          "order": 1,
+          "textAr": "ليس فيما دون عشرين مثفالا من الذهب صدقة فإذا كانت عشرين مثقالا وحال عليها الحول ففيها نصف مثقال ثم في كل أربعة مثاقيل قيراطان وليس فيما دون أربعة مثاقيل صدقة عند أبي حنيفة\n\nوفي تبر الذهب والفضة وحليهما والآنية منهما الزكاة",
+          "sourcePage": 43,
+          "masail": [
+            {
+              "id": "masalah-zakah-bab-6-1",
+              "sectionId": "zakah-bab-6-1",
+              "kitabId": "zakah",
+              "titleAr": "باب زكاة الذهب",
+              "titleEn": "Zakat on Gold",
+              "rulingAr": "ليس فيما دون عشرين مثفالا من الذهب صدقة فإذا كانت عشرين مثقالا وحال عليها الحول ففيها نصف مثقال ثم في كل أربعة مثاقيل قيراطان وليس فيما دون أربعة مثاقيل صدقة عند أبي حنيفة\n\nوفي تبر الذهب والفضة وحليهما والآنية منهما الزكاة",
+              "rulingEn": "There is no charity on less than twenty mithqals of gold. When it is twenty mithqals and a full year has passed over it, the zakat on it is half a mithqal. Then for every four mithqals, the zakat is two qirats. There is nothing on less than four mithqals according to Abu Hanifah.\n\nZakat is due on gold and silver in their raw form, their ornamental form, and vessels made from them.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "There is no charity on less than twenty mithqals of gold. When it is twenty mithqals and a full year has passed over it, the zakat on it is half a mithqal. Then for every four mithqals, the zakat is two qirats. There is nothing on less than four mithqals according to Abu Hanifah.\n\nZakat is due on gold and silver in their raw form, their ornamental form, and vessels made from them."
+        }
+      ]
+    },
+    {
+      "id": "zakah-bab-7",
+      "kitabId": "zakah",
+      "titleAr": "باب زكاة العروض",
+      "titleEn": "Zakat on Trade Goods",
+      "order": 7,
+      "sections": [
+        {
+          "id": "zakah-bab-7-1",
+          "babId": "zakah-bab-7",
+          "kitabId": "zakah",
+          "titleAr": "باب زكاة العروض",
+          "titleEn": "Zakat on Trade Goods",
+          "order": 1,
+          "textAr": "الزكاة واجبة في عروض التجارة كائنة ما كانت إذا بلغت قميتها نصابا من الذهب أو الورق يقومها بما هو أنفع للفقراء والمساكين منهما\n\nوإذا كان النصاب كاملا في طرفي الحول فنقصانه فيما بين ذلك لا يسقط الزكاة\n\nوتضم قيمة العروض إلى الذهب والفضة وكذلك يضم الذهب إلى الفضة بالقيمة حتى يتم النصاب عند أبي حنيفة وقال أبو يوسف ومحمد: لا يضم الذهب إلى الفضة بالقيمة ويضم بالأجزاء",
+          "sourcePage": 43,
+          "masail": [
+            {
+              "id": "masalah-zakah-bab-7-1",
+              "sectionId": "zakah-bab-7-1",
+              "kitabId": "zakah",
+              "titleAr": "باب زكاة العروض",
+              "titleEn": "Zakat on Trade Goods",
+              "rulingAr": "الزكاة واجبة في عروض التجارة كائنة ما كانت إذا بلغت قميتها نصابا من الذهب أو الورق يقومها بما هو أنفع للفقراء والمساكين منهما\n\nوإذا كان النصاب كاملا في طرفي الحول فنقصانه فيما بين ذلك لا يسقط الزكاة\n\nوتضم قيمة العروض إلى الذهب والفضة وكذلك يضم الذهب إلى الفضة بالقيمة حتى يتم النصاب عند أبي حنيفة وقال أبو يوسف ومحمد: لا يضم الذهب إلى الفضة بالقيمة ويضم بالأجزاء",
+              "rulingEn": "Zakat is obligatory on trade goods of whatever kind, when their value reaches a nisab of gold or silver. They are assessed according to whichever is more beneficial for the poor and needy.\n\nIf the nisab is complete at both ends of the year, its decrease in between does not cause the zakat to lapse.\n\nThe value of trade goods is added to gold and silver. Likewise, gold is added to silver by value to complete the nisab, according to Abu Hanifah. Abu Yusuf and Muhammad said: Gold is not added to silver by value; rather, they are added by proportion.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "Zakat is obligatory on trade goods of whatever kind, when their value reaches a nisab of gold or silver. They are assessed according to whichever is more beneficial for the poor and needy.\n\nIf the nisab is complete at both ends of the year, its decrease in between does not cause the zakat to lapse.\n\nThe value of trade goods is added to gold and silver. Likewise, gold is added to silver by value to complete the nisab, according to Abu Hanifah. Abu Yusuf and Muhammad said: Gold is not added to silver by value; rather, they are added by proportion."
+        }
+      ]
+    },
+    {
+      "id": "zakah-bab-8",
+      "kitabId": "zakah",
+      "titleAr": "باب زكاة الزروع والثمار",
+      "titleEn": "Zakat on Crops and Fruits",
+      "order": 8,
+      "sections": [
+        {
+          "id": "zakah-bab-8-1",
+          "babId": "zakah-bab-8",
+          "kitabId": "zakah",
+          "titleAr": "باب زكاة الزروع والثمار",
+          "titleEn": "Zakat on Crops and Fruits",
+          "order": 1,
+          "textAr": "قال أبو حنيفة رحمه الله تعالى: في قليل ما أخرجته الأرض وكثير العشر سواء سقي سيحا أو سقته السماء إلا الحطب والقصب الحشيش\n\nوقال أبو يوسف ومحمد: لا يجب العشر إلا فيما له ثمرة باقية إذا بلغ خمسة أوسق\n\nوالوسق: ستون صاعا بصاع النبي ﷺ وليس في الخضروات عندهما عشر\n\nوما سقي بغرب أو دالية أو سانية\n\nففيه نصف العشر في القولين وقال أبو يوسف فيما لا يوسق كالزعفران والقطن يجب فيه العشر إذا بلغت قيمته خمسة أوسق من أدنى ما يدخل تحت الوسق\n\nوقال محمد: يجب العشر إذا بلغ الخارج خمسة أمثال من أعلى ما يقدر به نوعه فاعتبر في القطن خمسة أحمال وفي الزعفران خمسة أمناء وفي العسل العشر إذا أخذ من أرض العشر قل أو أكثر وقال أبو يوسف: لا شيء فيه حتى يبلغ عشرة أزقاق وقال محمد: خمسة أفراق\n\nوليس في الخارج من أرض الخراج عشر",
+          "sourcePage": 43,
+          "masail": [
+            {
+              "id": "masalah-zakah-bab-8-1",
+              "sectionId": "zakah-bab-8-1",
+              "kitabId": "zakah",
+              "titleAr": "باب زكاة الزروع والثمار",
+              "titleEn": "Zakat on Crops and Fruits",
+              "rulingAr": "قال أبو حنيفة رحمه الله تعالى: في قليل ما أخرجته الأرض وكثير العشر سواء سقي سيحا أو سقته السماء إلا الحطب والقصب الحشيش\n\nوقال أبو يوسف ومحمد: لا يجب العشر إلا فيما له ثمرة باقية إذا بلغ خمسة أوسق\n\nوالوسق: ستون صاعا بصاع النبي ﷺ وليس في الخضروات عندهما عشر\n\nوما سقي بغرب أو دالية أو سانية\n\nففيه نصف العشر في القولين وقال أبو يوسف فيما لا يوسق كالزعفران والقطن يجب فيه العشر إذا بلغت قيمته خمسة أوسق من أدنى ما يدخل تحت الوسق\n\nوقال محمد: يجب العشر إذا بلغ الخارج خمسة أمثال من أعلى ما يقدر به نوعه فاعتبر في القطن خمسة أحمال وفي الزعفران خمسة أمناء وفي العسل العشر إذا أخذ من أرض العشر قل أو أكثر وقال أبو يوسف: لا شيء فيه حتى يبلغ عشرة أزقاق وقال محمد: خمسة أفراق\n\nوليس في الخارج من أرض الخراج عشر",
+              "rulingEn": "Abu Hanifah, may Allah the Exalted have mercy on him, said: On whatever the earth produces, whether small or large, one-tenth is due equally, whether irrigated by flowing water or by rain, except for firewood, reeds, and grass.\n\nAbu Yusuf and Muhammad said: The one-tenth is not required except on produce that has lasting fruit, when it reaches five wasqs.\n\nA wasq is sixty sa's by the measure of the Prophet, peace be upon him. There is no one-tenth on vegetables according to them.\n\nWhat is irrigated by a bucket, a water-wheel, or a camel-drawn water device,\n\non that there is one-twentieth, according to both opinions. Abu Yusuf said: On produce that is not measured by the wasq, such as saffron and cotton, the one-tenth is due when its value reaches five wasqs of the lowest produce that falls under the wasq measure.\n\nMuhammad said: The one-tenth is due when the produce reaches five times the highest unit by which its type is measured. So for cotton he considered five loads, and for saffron five manns. On honey, one-tenth is due when it is taken from land of the one-tenth, whether small or large. Abu Yusuf said: Nothing is due until it reaches ten vessels (azqaq). Muhammad said: Five farqs.\n\nThere is no one-tenth on produce from land subject to the kharaj tax.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "Abu Hanifah, may Allah the Exalted have mercy on him, said: On whatever the earth produces, whether small or large, one-tenth is due equally, whether irrigated by flowing water or by rain, except for firewood, reeds, and grass.\n\nAbu Yusuf and Muhammad said: The one-tenth is not required except on produce that has lasting fruit, when it reaches five wasqs.\n\nA wasq is sixty sa's by the measure of the Prophet, peace be upon him. There is no one-tenth on vegetables according to them.\n\nWhat is irrigated by a bucket, a water-wheel, or a camel-drawn water device,\n\non that there is one-twentieth, according to both opinions. Abu Yusuf said: On produce that is not measured by the wasq, such as saffron and cotton, the one-tenth is due when its value reaches five wasqs of the lowest produce that falls under the wasq measure.\n\nMuhammad said: The one-tenth is due when the produce reaches five times the highest unit by which its type is measured. So for cotton he considered five loads, and for saffron five manns. On honey, one-tenth is due when it is taken from land of the one-tenth, whether small or large. Abu Yusuf said: Nothing is due until it reaches ten vessels (azqaq). Muhammad said: Five farqs.\n\nThere is no one-tenth on produce from land subject to the kharaj tax."
+        }
+      ]
+    },
+    {
+      "id": "zakah-bab-9",
+      "kitabId": "zakah",
+      "titleAr": "باب من يجوز دفع الصدقة إليه ومن لا يجوز",
+      "titleEn": "Recipients of Zakat",
+      "order": 9,
+      "sections": [
+        {
+          "id": "zakah-bab-9-1",
+          "babId": "zakah-bab-9",
+          "kitabId": "zakah",
+          "titleAr": "باب من يجوز دفع الصدقة إليه ومن لا يجوز",
+          "titleEn": "Recipients of Zakat",
+          "order": 1,
+          "textAr": "قال الله تعالى: ﴿إنما الصدقات للفقراء والمساكين﴾ الآية فهذه ثمانية أصناف قد سقطت منها المؤلفة قلوبهم لأن الله تعالى أعز الإسلام وأغنى عنهم\n\nوالفقير: من له أدنى شيء والمسكين: من لا شيء له والعامل: يدفع إليه الإمام بقدر عمله إن عمل وفي الرقاب: يعان المكاتبون في فك رقابهم والغارم: من لزمه دين وفي سبيل الله: منقطع الغزاة وابن السبيل: من كان له مال في وطنه وهو في مكان لا شيء له فيه فهذه جهات الزكاة\n\nوللمالك أن يدفع إلى كل واحد منهم وله أن يقتصر على صنف واحد\n\nولا يجوز أن يدفع الزكاة إلى ذمي\n\nولا يبنى بها مسجد ولا يكفن بها ميت ولا يشترى بها رقبة تعتق ولا تدفع إلى غني ولا يدفع المزكي زكاته إلى أبيه وجده وإن علا ولا إلى ولده وولد ولده وإن سفل ولا إلى امرأته ولا تدفع المرأة إلى زوجها عند أبي حنيفة وقال أبو يوسف ومحمد: تدفع إليه\n\nولا يدفع إلى مكاتبه ولا\n\nمملوكه ولا مملوك غني ولا ولد غني إذا كان صغيرا ولا تدفع إلى بني هاشم وهم: آل علي وآل عباس وآل جعفر وآل عقيل وآل حارث بن عبد المطلب ومواليهم\n\nوقال أبو حنيفة ومحمد: إذا دفع الزكاة إلى رجل يظنه فقيرا ثم بان أنه غني أو هاشمي أو كافر أو دفع في ظلمة إلى فقير ثم بان أنه أبوه أو ابنه فلا إعادة عليه\n\nوقال أبو يوسف عليه الإعادة\n\nولو دفع إلى شخص ثم علم أنه عنده أو مكاتبه لم يجز في قولهم جميعا\n\nولا يجوز دفع الزكاة إلى من يملك نصابا من أي مال كان ويجوز دفعها إلى من يملك أقل من ذلك وإن كان صحيحا مكتسبا\n\nويكره نقل الزكاة من بلد إلى بلد آخر وإنما تفرق صدقة كل قوم فيهم إلا أن ينقلها الإنسان إلى قرابته أو إلى ثوم هم أحوج من أهل بلده",
+          "sourcePage": 44,
+          "masail": [
+            {
+              "id": "masalah-zakah-bab-9-1",
+              "sectionId": "zakah-bab-9-1",
+              "kitabId": "zakah",
+              "titleAr": "باب من يجوز دفع الصدقة إليه ومن لا يجوز",
+              "titleEn": "Recipients of Zakat",
+              "rulingAr": "قال الله تعالى: ﴿إنما الصدقات للفقراء والمساكين﴾ الآية فهذه ثمانية أصناف قد سقطت منها المؤلفة قلوبهم لأن الله تعالى أعز الإسلام وأغنى عنهم\n\nوالفقير: من له أدنى شيء والمسكين: من لا شيء له والعامل: يدفع إليه الإمام بقدر عمله إن عمل وفي الرقاب: يعان المكاتبون في فك رقابهم والغارم: من لزمه دين وفي سبيل الله: منقطع الغزاة وابن السبيل: من كان له مال في وطنه وهو في مكان لا شيء له فيه فهذه جهات الزكاة\n\nوللمالك أن يدفع إلى كل واحد منهم وله أن يقتصر على صنف واحد\n\nولا يجوز أن يدفع الزكاة إلى ذمي\n\nولا يبنى بها مسجد ولا يكفن بها ميت ولا يشترى بها رقبة تعتق ولا تدفع إلى غني ولا يدفع المزكي زكاته إلى أبيه وجده وإن علا ولا إلى ولده وولد ولده وإن سفل ولا إلى امرأته ولا تدفع المرأة إلى زوجها عند أبي حنيفة وقال أبو يوسف ومحمد: تدفع إليه\n\nولا يدفع إلى مكاتبه ولا\n\nمملوكه ولا مملوك غني ولا ولد غني إذا كان صغيرا ولا تدفع إلى بني هاشم وهم: آل علي وآل عباس وآل جعفر وآل عقيل وآل حارث بن عبد المطلب ومواليهم\n\nوقال أبو حنيفة ومحمد: إذا دفع الزكاة إلى رجل يظنه فقيرا ثم بان أنه غني أو هاشمي أو كافر أو دفع في ظلمة إلى فقير ثم بان أنه أبوه أو ابنه فلا إعادة عليه\n\nوقال أبو يوسف عليه الإعادة\n\nولو دفع إلى شخص ثم علم أنه عنده أو مكاتبه لم يجز في قولهم جميعا\n\nولا يجوز دفع الزكاة إلى من يملك نصابا من أي مال كان ويجوز دفعها إلى من يملك أقل من ذلك وإن كان صحيحا مكتسبا\n\nويكره نقل الزكاة من بلد إلى بلد آخر وإنما تفرق صدقة كل قوم فيهم إلا أن ينقلها الإنسان إلى قرابته أو إلى ثوم هم أحوج من أهل بلده",
+              "rulingEn": "Allah, the Exalted, said: \"Indeed, charitable offerings are only for the poor, the needy...\" -- the verse. These are eight categories. The category of those whose hearts are to be reconciled (mu'allafat al-qulub) has been dropped, because Allah, the Exalted, has strengthened Islam and made them unnecessary.\n\nThe poor person (faqir) is one who has some meager possessions. The destitute (miskin) is one who has nothing. The collector ('amil) is given by the ruler according to his work, if he works. Regarding freeing of slaves (fi al-riqab): those under a contract of emancipation (mukatab) are assisted in gaining their freedom. The debtor (gharim) is one burdened with debt. In the cause of Allah (fi sabil Allah): stranded warriors. The wayfarer (ibn al-sabil) is one who has wealth in his homeland but is in a place where he has nothing. These are the categories of zakat.\n\nThe owner of wealth may distribute to each of them, and he may also restrict it to a single category.\n\nIt is not permissible to give zakat to a dhimmi (non-Muslim under protection).\n\nZakat may not be used to build a mosque, nor to shroud the dead, nor to purchase a slave for emancipation. It may not be given to a wealthy person. The one paying zakat does not give it to his father, grandfather, or anyone above them; nor to his child, grandchild, or anyone below them; nor to his wife. A woman does not give her zakat to her husband, according to Abu Hanifah. Abu Yusuf and Muhammad said: She may give it to him.\n\nHe may not give it to his own mukatab (slave under emancipation contract),\n\nhis own slave, the slave of a wealthy person, the young child of a wealthy person, nor to the Banu Hashim -- who are: the family of Ali, the family of Abbas, the family of Ja'far, the family of Aqil, and the family of al-Harith ibn Abd al-Muttalib -- and their freed slaves.\n\nAbu Hanifah and Muhammad said: If one gives zakat to a person thinking him poor, and it then becomes apparent that he is wealthy, or a Hashimi, or a non-Muslim, or if one gives in darkness to a poor person and it then becomes apparent that it was one's father or son -- there is no obligation to repeat it.\n\nAbu Yusuf said: He must repeat it.\n\nIf one gives to a person and then discovers it was one's own slave or mukatab, it is not valid in the view of all of them.\n\nIt is not permissible to give zakat to one who possesses a nisab of any type of wealth. It is permissible to give it to one who possesses less than that, even if he is healthy and able to earn.\n\nIt is disliked to transfer zakat from one town to another. Rather, the charity of each people should be distributed among them, unless a person transfers it to his relatives or to people who are more in need than the people of his town.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "Allah, the Exalted, said: \"Indeed, charitable offerings are only for the poor, the needy...\" -- the verse. These are eight categories. The category of those whose hearts are to be reconciled (mu'allafat al-qulub) has been dropped, because Allah, the Exalted, has strengthened Islam and made them unnecessary.\n\nThe poor person (faqir) is one who has some meager possessions. The destitute (miskin) is one who has nothing. The collector ('amil) is given by the ruler according to his work, if he works. Regarding freeing of slaves (fi al-riqab): those under a contract of emancipation (mukatab) are assisted in gaining their freedom. The debtor (gharim) is one burdened with debt. In the cause of Allah (fi sabil Allah): stranded warriors. The wayfarer (ibn al-sabil) is one who has wealth in his homeland but is in a place where he has nothing. These are the categories of zakat.\n\nThe owner of wealth may distribute to each of them, and he may also restrict it to a single category.\n\nIt is not permissible to give zakat to a dhimmi (non-Muslim under protection).\n\nZakat may not be used to build a mosque, nor to shroud the dead, nor to purchase a slave for emancipation. It may not be given to a wealthy person. The one paying zakat does not give it to his father, grandfather, or anyone above them; nor to his child, grandchild, or anyone below them; nor to his wife. A woman does not give her zakat to her husband, according to Abu Hanifah. Abu Yusuf and Muhammad said: She may give it to him.\n\nHe may not give it to his own mukatab (slave under emancipation contract),\n\nhis own slave, the slave of a wealthy person, the young child of a wealthy person, nor to the Banu Hashim -- who are: the family of Ali, the family of Abbas, the family of Ja'far, the family of Aqil, and the family of al-Harith ibn Abd al-Muttalib -- and their freed slaves.\n\nAbu Hanifah and Muhammad said: If one gives zakat to a person thinking him poor, and it then becomes apparent that he is wealthy, or a Hashimi, or a non-Muslim, or if one gives in darkness to a poor person and it then becomes apparent that it was one's father or son -- there is no obligation to repeat it.\n\nAbu Yusuf said: He must repeat it.\n\nIf one gives to a person and then discovers it was one's own slave or mukatab, it is not valid in the view of all of them.\n\nIt is not permissible to give zakat to one who possesses a nisab of any type of wealth. It is permissible to give it to one who possesses less than that, even if he is healthy and able to earn.\n\nIt is disliked to transfer zakat from one town to another. Rather, the charity of each people should be distributed among them, unless a person transfers it to his relatives or to people who are more in need than the people of his town."
+        }
+      ]
+    },
+    {
+      "id": "zakah-bab-10",
+      "kitabId": "zakah",
+      "titleAr": "باب صدقة الفطر",
+      "titleEn": "Zakat al-Fitr",
+      "order": 10,
+      "sections": [
+        {
+          "id": "zakah-bab-10-1",
+          "babId": "zakah-bab-10",
+          "kitabId": "zakah",
+          "titleAr": "باب صدقة الفطر",
+          "titleEn": "Zakat al-Fitr",
+          "order": 1,
+          "textAr": "صدقة الفطر واجبة على الحر المسلم إذا كان مالكا لمقدار النصاب فاضلا عن مسكنه وثيابه وأثاثه وفرسه وسلاحه وعبيده للخدمة يخرج ذلك عن نفسه وعن أولاده الصغار وعن مماليكه ولا يؤدي عن زوجته ولا عن أولاده الكبار وإن كانوا في عياله\n\nولا يخرج عن مكاتبه ولاعن مماليكه للتجارة والعبد بين شريكين لا فطرة على واحد منهما ويؤدي المولى المسلم الفطرة عن عبده الكافر\n\nوالفطرة: نصف صاع من بر أو صاع من تمر أو زبيب أو شعير\n\nوالصاع عند أبي حنيفه ومحمد ثمانية أرطال بالعراقي\n\nوقال أبو يوسف: خمسة أرطال وثلث رطل\n\nووجوب الفطرة يتعلق بطلوع الفجر من يوم الفطر فمن مات قبل ذلك لم تجب فطرته ومن أسلم أو ولد بعد طلوع الفجر لم تجب فطرته\n\nويستحب للناس أن يخرجوا الفطرة يوم الفطر قبل الخروج إلى المصلى فإن قدموها قبل يوم الفطر جاز وإن أخروها عن يوم الفطر لم تسقط وكان عليهم إخراجها",
+          "sourcePage": 44,
+          "masail": [
+            {
+              "id": "masalah-zakah-bab-10-1",
+              "sectionId": "zakah-bab-10-1",
+              "kitabId": "zakah",
+              "titleAr": "باب صدقة الفطر",
+              "titleEn": "Zakat al-Fitr",
+              "rulingAr": "صدقة الفطر واجبة على الحر المسلم إذا كان مالكا لمقدار النصاب فاضلا عن مسكنه وثيابه وأثاثه وفرسه وسلاحه وعبيده للخدمة يخرج ذلك عن نفسه وعن أولاده الصغار وعن مماليكه ولا يؤدي عن زوجته ولا عن أولاده الكبار وإن كانوا في عياله\n\nولا يخرج عن مكاتبه ولاعن مماليكه للتجارة والعبد بين شريكين لا فطرة على واحد منهما ويؤدي المولى المسلم الفطرة عن عبده الكافر\n\nوالفطرة: نصف صاع من بر أو صاع من تمر أو زبيب أو شعير\n\nوالصاع عند أبي حنيفه ومحمد ثمانية أرطال بالعراقي\n\nوقال أبو يوسف: خمسة أرطال وثلث رطل\n\nووجوب الفطرة يتعلق بطلوع الفجر من يوم الفطر فمن مات قبل ذلك لم تجب فطرته ومن أسلم أو ولد بعد طلوع الفجر لم تجب فطرته\n\nويستحب للناس أن يخرجوا الفطرة يوم الفطر قبل الخروج إلى المصلى فإن قدموها قبل يوم الفطر جاز وإن أخروها عن يوم الفطر لم تسقط وكان عليهم إخراجها",
+              "rulingEn": "The charity of Fitr (zakat al-fitr) is obligatory upon the free Muslim who possesses the equivalent of the nisab in excess of his dwelling, clothing, household furnishings, horse, weapons, and service slaves. He pays it on behalf of himself, his minor children, and his owned slaves. He does not pay on behalf of his wife or his adult children, even if they are in his household.\n\nHe does not pay on behalf of his mukatab, nor on behalf of slaves held for trade. A slave owned jointly by two partners -- neither of them owes fitr for him. A Muslim master pays the fitr charity on behalf of his non-Muslim slave.\n\nThe fitr amount is: half a sa' of wheat, or a full sa' of dates, raisins, or barley.\n\nThe sa' according to Abu Hanifah and Muhammad is eight Iraqi ratls.\n\nAbu Yusuf said: Five and one-third ratls.\n\nThe obligation of fitr is connected to the rising of dawn on the day of Eid al-Fitr. One who dies before that -- his fitr is not obligatory. One who accepts Islam or is born after the rising of dawn -- his fitr is not obligatory.\n\nIt is recommended that the people pay the fitr charity on the day of Eid before going out to the prayer grounds. If they pay it before the day of Eid, it is valid. If they delay it past the day of Eid, it does not lapse and they remain obligated to pay it.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "The charity of Fitr (zakat al-fitr) is obligatory upon the free Muslim who possesses the equivalent of the nisab in excess of his dwelling, clothing, household furnishings, horse, weapons, and service slaves. He pays it on behalf of himself, his minor children, and his owned slaves. He does not pay on behalf of his wife or his adult children, even if they are in his household.\n\nHe does not pay on behalf of his mukatab, nor on behalf of slaves held for trade. A slave owned jointly by two partners -- neither of them owes fitr for him. A Muslim master pays the fitr charity on behalf of his non-Muslim slave.\n\nThe fitr amount is: half a sa' of wheat, or a full sa' of dates, raisins, or barley.\n\nThe sa' according to Abu Hanifah and Muhammad is eight Iraqi ratls.\n\nAbu Yusuf said: Five and one-third ratls.\n\nThe obligation of fitr is connected to the rising of dawn on the day of Eid al-Fitr. One who dies before that -- his fitr is not obligatory. One who accepts Islam or is born after the rising of dawn -- his fitr is not obligatory.\n\nIt is recommended that the people pay the fitr charity on the day of Eid before going out to the prayer grounds. If they pay it before the day of Eid, it is valid. If they delay it past the day of Eid, it does not lapse and they remain obligated to pay it."
+        }
+      ]
+    }
+  ]
+}

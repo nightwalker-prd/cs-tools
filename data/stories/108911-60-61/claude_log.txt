@@ -1,0 +1,44 @@
+========================================
+=== Processing: 108911-60-61 ===
+=== Started: Mon Feb 23 17:57:48 GMT 2026 ===
+=== PDF: /Users/miftah/projects/alqalam-tools/data/stories/108911-60-61.pdf ===
+=== Working dir: /Users/miftah/projects/alqalam-tools/data/stories/108911-58-59 ===
+========================================
+
+[OK] PDF file exists
+[INFO] PDF size: 24K
+
+[INFO] Changed to directory: /Users/miftah/projects/alqalam-tools/data/stories/108911-58-59
+[INFO] Launching Claude...
+
+--- CLAUDE OUTPUT START ---
+The file has been written to `108911-60-61.md`. Here's a summary of what it contains:
+
+**Story 20: قَرْيَتِي (My Village)** — A narrator describes his beautiful green village surrounded by fields and orchards, with a pure river flowing beneath it. The villagers learned to swim as children, unlike fearful townspeople. A town friend is taught to swim through encouragement and daily practice. During heavy rains, the village becomes a peninsula; one catastrophic flood forced evacuation for a month. The village is famous for its scholars and an ancient 300-year-old mosque that survives every flood.
+
+The markdown file includes:
+- **9 paragraphs** of Arabic text with paragraph-by-paragraph English translation
+- **31 nouns**, **11 adjectives**, and **27 verbs** with root letters, patterns, and meanings
+- **14 grammatical topics** analyzed in detail, including:
+  - Iḍāfah (possessive constructions)
+  - Verb form derivations (Forms I through VIII with semantic shifts)
+  - Hollow verbs (أجوف)
+  - Restriction with لا...إلا
+  - Conditional with إذا
+  - Circumstantial clauses (حال)
+  - Passive voice, كان and sisters, broken plurals, and more
+- **4 rhetorical features** (simile, repetition, gradation, contrast)
+--- CLAUDE OUTPUT END ---
+
+========================================
+=== Exit code: 0 ===
+=== Finished: Mon Feb 23 18:00:58 GMT 2026 ===
+=== Files in directory: ===
+total 56
+drwxr-xr-x@  4 miftah  staff    128 Feb 23 18:00 .
+drwxr-xr-x@ 56 miftah  staff   1792 Feb 23 17:57 ..
+-rw-r--r--@  1 miftah  staff  22348 Feb 23 18:00 108911-60-61.md
+-rw-r--r--@  1 miftah  staff   2525 Feb 23 17:57 claude_log.txt
+
+=== Created 1 markdown files ===
+========================================

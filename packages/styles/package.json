@@ -1,0 +1,17 @@
+{
+  "name": "@arabtools/styles",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "main": "./tailwind.preset.js",
+  "exports": {
+    ".": "./tailwind.preset.js",
+    "./globals.css": "./globals.css"
+  },
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "tailwindcss": "^4.0.0"
+  }
+}

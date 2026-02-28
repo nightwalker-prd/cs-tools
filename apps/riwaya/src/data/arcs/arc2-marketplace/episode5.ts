@@ -1,0 +1,77 @@
+import type { StoryEpisode } from '../../../types';
+
+export const episode: StoryEpisode = {
+  id: 'arc2-ep5',
+  arcId: 'arc2-marketplace',
+  number: 5,
+  titleAr: 'العَوْدَةُ',
+  titleEn: 'The Return',
+  setting: 'Ahmad and Yusuf wrap up their marketplace trip. They encounter two friends and practice dual and plural forms while summarizing their purchases and reflecting on the day.',
+  characters: [
+    { id: 'ahmad', nameAr: 'أَحْمَدُ', nameEn: 'Ahmad', role: 'protagonist' },
+    { id: 'yusuf', nameAr: 'يُوسُفُ', nameEn: 'Yusuf', role: 'supporting' },
+    { id: 'ibrahim', nameAr: 'إِبْرَاهِيمُ', nameEn: 'Ibrahim', role: 'supporting' },
+    { id: 'khalid', nameAr: 'خَالِدٌ', nameEn: 'Khalid', role: 'supporting' },
+  ],
+  dialogueLines: [
+    { speaker: 'yusuf', textAr: 'اشْتَرَيْنَا أَشْيَاءَ كَثِيرَةً اليَوْمَ!', textEn: 'We bought many things today!' },
+    { speaker: 'ahmad', textAr: 'نَعَمْ! اشْتَرَيْتُ ثَوْبًا وَشِمَاغًا وَعِطْرًا وَعُلْبَةَ أَقْلَامٍ وَدَفْتَرًا.', textEn: 'Yes! I bought a thobe, a shimagh, perfume, a pen box, and a notebook.' },
+    { speaker: 'ibrahim', textAr: 'السَّلَامُ عَلَيْكُمْ يَا أَحْمَدُ وَيُوسُفُ! مِنْ أَيْنَ أَنْتُمَا؟', textEn: 'Peace be upon you, Ahmad and Yusuf! Where are you (two) coming from?' },
+    { speaker: 'ahmad', textAr: 'وَعَلَيْكُمُ السَّلَامُ! نَحْنُ مِنَ السُّوقِ القَدِيمِ.', textEn: 'And upon you peace! We are from the old marketplace.' },
+    { speaker: 'khalid', textAr: 'أَنَا وَإِبْرَاهِيمُ ذَهَبْنَا إِلَى السُّوقِ أَيْضًا أَمْسِ. اشْتَرَيْنَا كِتَابَيْنِ وَثَلَاثَةَ أَقْلَامٍ.', textEn: 'Ibrahim and I went to the market too yesterday. We bought two books and three pens.' },
+    { speaker: 'yusuf', textAr: 'كِتَابَيْنِ؟ مَا هُمَا؟', textEn: 'Two books? What are they?' },
+    { speaker: 'khalid', textAr: 'كِتَابُ النَّحْوِ وَكِتَابُ الصَّرْفِ. هُمَا كِتَابَانِ مُهِمَّانِ لِلطُّلَّابِ.', textEn: 'The grammar book and the morphology book. They are two important books for students.' },
+    { speaker: 'ibrahim', textAr: 'وَأَنَا اشْتَرَيْتُ هَدَايَا لِأَصْدِقَائِي فِي تُرْكِيَّا. ثَلَاثُ عُلَبٍ مِنَ التَّمْرِ.', textEn: 'And I bought gifts for my friends in Turkey. Three boxes of dates.' },
+    { speaker: 'ahmad', textAr: 'التَّمْرُ السُّعُودِيُّ لَذِيذٌ جِدًّا! هُمْ سَيُحِبُّونَهُ.', textEn: 'Saudi dates are very delicious! They will love them.' },
+    { speaker: 'yusuf', textAr: 'هَيَّا نَرْجِعْ إِلَى الجَامِعَةِ. الطُّلَّابُ يَنْتَظِرُونَنَا لِلعَشَاءِ.', textEn: 'Let us go back to the university. The students are waiting for us for dinner.' },
+    { speaker: 'ahmad', textAr: 'حَسَنًا. كَانَ يَوْمًا رَائِعًا! تَعَلَّمْتُ كَلِمَاتٍ جَدِيدَةً كَثِيرَةً فِي السُّوقِ.', textEn: 'Alright. It was a wonderful day! I learned many new words in the marketplace.' },
+    { speaker: 'khalid', textAr: 'السُّوقُ أَحْسَنُ مَدْرَسَةٍ لِتَعَلُّمِ العَرَبِيَّةِ!', textEn: 'The marketplace is the best school for learning Arabic!' },
+  ],
+  vocabulary: [
+    { arabic: 'اشْتَرَيْنَا', transliteration: 'ishtaraynā', english: 'we bought', root: 'ش-ر-ي' },
+    { arabic: 'كِتَابَانِ', transliteration: 'kitābāni', english: 'two books (dual)', root: 'ك-ت-ب' },
+    { arabic: 'كِتَابَيْنِ', transliteration: 'kitābayni', english: 'two books (dual, acc./gen.)', root: 'ك-ت-ب' },
+    { arabic: 'هَدَايَا', transliteration: 'hadāyā', english: 'gifts (plural)', root: 'ه-د-ي' },
+    { arabic: 'أَصْدِقَاءٌ', transliteration: 'aṣdiqāʾ', english: 'friends (plural)', root: 'ص-د-ق' },
+    { arabic: 'تَمْرٌ', transliteration: 'tamr', english: 'dates (fruit)', root: 'ت-م-ر' },
+    { arabic: 'عُلَبٌ', transliteration: 'ʿulab', english: 'boxes (plural)', root: 'ع-ل-ب' },
+    { arabic: 'رَجَعَ', transliteration: 'rajaʿa', english: 'he returned', root: 'ر-ج-ع' },
+    { arabic: 'تَعَلَّمَ', transliteration: 'taʿallama', english: 'he learned', root: 'ع-ل-م' },
+    { arabic: 'كَلِمَاتٌ', transliteration: 'kalimāt', english: 'words (plural)', root: 'ك-ل-م' },
+  ],
+  grammarPoint: {
+    titleAr: 'المُثَنَّى وَالجَمْعُ',
+    titleEn: 'The Dual and Plural',
+    explanation: 'Arabic has three number forms: singular (مُفْرَد), dual (مُثَنَّى), and plural (جَمْع). The dual is formed by adding ـَانِ (nominative) or ـَيْنِ (accusative/genitive) to the noun. Sound masculine plurals add ـُونَ/ـِينَ, and sound feminine plurals add ـَاتٌ. Many nouns have broken plurals with internal vowel changes.',
+    examples: [
+      'كِتَابٌ / كِتَابَانِ / كُتُبٌ — book / two books / books',
+      'طَالِبٌ / طَالِبَانِ / طُلَّابٌ — student / two students / students',
+      'كَلِمَةٌ / كَلِمَتَانِ / كَلِمَاتٌ — word / two words / words',
+      'هَدِيَّةٌ / هَدِيَّتَانِ / هَدَايَا — gift / two gifts / gifts',
+    ],
+  },
+  comprehensionQuestions: [
+    {
+      questionAr: 'مَاذَا اشْتَرَى إِبْرَاهِيمُ؟',
+      questionEn: 'What did Ibrahim buy?',
+      options: ['كُتُبًا', 'عُلَبَ تَمْرٍ', 'أَقْلَامًا', 'عِطْرًا'],
+      correctIndex: 1,
+    },
+    {
+      questionAr: 'كَمْ كِتَابًا اشْتَرَى خَالِدٌ؟',
+      questionEn: 'How many books did Khalid buy?',
+      options: ['كِتَابًا وَاحِدًا', 'كِتَابَيْنِ', 'ثَلَاثَةَ كُتُبٍ', 'أَرْبَعَةَ كُتُبٍ'],
+      correctIndex: 1,
+    },
+    {
+      questionAr: 'أَيْنَ يَذْهَبُ الطُّلَّابُ الآنَ؟',
+      questionEn: 'Where are the students going now?',
+      options: ['إِلَى السُّوقِ', 'إِلَى المَسْجِدِ', 'إِلَى الجَامِعَةِ', 'إِلَى المَطْعَمِ'],
+      correctIndex: 2,
+    },
+  ],
+  culturalNotes: [
+    'Saudi dates (التَّمْرُ السُّعُودِيُّ) are world-renowned. The most famous varieties include عَجْوَة المَدِينَة (Ajwa dates from Medina), which are mentioned in the Prophetic traditions, and are a prized gift for visitors.',
+    'The phrase كَانَ يَوْمًا رَائِعًا uses كَانَ (was), one of the "sisters of كَانَ" — verbs that enter upon the nominal sentence and put the predicate in the accusative case.',
+  ],
+};

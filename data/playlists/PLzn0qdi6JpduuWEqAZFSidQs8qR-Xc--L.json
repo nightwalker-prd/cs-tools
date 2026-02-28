@@ -1,0 +1,30 @@
+{
+  "playlistId": "PLzn0qdi6JpduuWEqAZFSidQs8qR-Xc--L",
+  "playlistTitle": "Introduction to al-Balagah by Hashim Mohamed",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PLzn0qdi6JpduuWEqAZFSidQs8qR-Xc--L",
+  "extractedAt": "2026-02-15T19:20:32Z",
+  "videoCount": 3,
+  "videos": [
+    {
+      "index": 1,
+      "videoId": "GkBfup7VDCw",
+      "title": "Introduction to al-Balagah 1",
+      "url": "https://www.youtube.com/watch?v=GkBfup7VDCw",
+      "duration": 698
+    },
+    {
+      "index": 2,
+      "videoId": "g81PdqXhiG0",
+      "title": "Introduction to al-Balagah 2",
+      "url": "https://www.youtube.com/watch?v=g81PdqXhiG0",
+      "duration": 980
+    },
+    {
+      "index": 3,
+      "videoId": "z2rpnXWXEIE",
+      "title": "Introduction to al-Balagah 3 | Major Works",
+      "url": "https://www.youtube.com/watch?v=z2rpnXWXEIE",
+      "duration": 1558
+    }
+  ]
+}

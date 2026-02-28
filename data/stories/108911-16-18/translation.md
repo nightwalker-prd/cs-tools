@@ -1,0 +1,259 @@
+# (٢) لمّا بلغتُ السابعةَ من عُمُري
+# Chapter 2: When I Reached Seven Years Old
+
+---
+
+## Text & Translation
+
+### Paragraph 1
+
+> **Arabic:**
+> لَمّا بَلَغْتُ السّابِعَةَ مِنْ عُمُرِيْ أَمَرَنِيْ أَبِيْ بِالصَّلاةِ ، وَكُنْتُ تَعَلَّمْتُ كَثِيراً مِنَ الأَدْعِيَةِ وَحَفِظْتُ سُوَراً مِنَ القُرآنِ الكَرِيمِ مِنْ أُمِّيْ ، وَكَانَتْ أُمِّيْ تَتَكَلَّمُ مَعِيْ كُلَّ لَيْلَةٍ عِنْدَ المَنَامِ فَتَقُصُّ عَلَيَّ قِصَصَ الأَنْبِيَاءِ ، وَكُنْتُ أَسْمَعُ هَذِهِ القِصَصَ بِنَشَاطٍ وَرَغْبَةٍ .
+
+**Translation:**
+When I reached seven years of age, my father commanded me to pray. I had already learned many supplications and memorized surahs from the Noble Quran from my mother. My mother used to talk with me every night at bedtime, telling me the stories of the Prophets, and I used to listen to these stories with enthusiasm and eagerness.
+
+---
+
+### Paragraph 2
+
+> **Arabic:**
+> وَبَدَأْتُ أَذْهَبُ مَعَ أَبِيْ إلَى المَسْجِدِ ، وَأَقُوْمُ فِيْ صَفِّ الأَطْفَالِ خَلْفَ صَفِّ الرِّجَالِ ، وَلَمّا بَلَغْتُ العَاشِرَةَ مِنْ عُمُرِيْ قَالَ لِيْ مَرَّةً: قَدْ أَكْمَلْتَ الآنَ مِنْ عُمُرِكَ تِسْعَ سِنِينَ ، وَأَنْتَ ابْنُ عَشْرِ سِنِينَ فَإذَا تَرَكْتَ صَلاةً ضَرَبْتُكَ ، لأَنَّ النَّبِيَّ ﷺ قَالَ: مُرُوا أَوْلادَكُمْ بِالصَّلاةِ وَهُمْ أَبْنَاءُ سَبْعِ سِنِينَ ، وَاضْرِبُوهُمْ عَلَيْهَا وَهُمْ أَبْنَاءُ عَشْرٍ .
+
+**Translation:**
+I began going with my father to the mosque and standing in the children's row behind the men's row. When I reached ten years of age, he said to me once: "You have now completed nine years of your life, and you are a ten-year-old. So if you miss a prayer, I will discipline you, because the Prophet ﷺ said: *'Command your children to pray when they are seven years old, and discipline them for it when they are ten.'*"
+
+---
+
+### Paragraph 3
+
+> **Arabic:**
+> قُلْتُ: يَا أَبِيْ! إنَّكَ لا تَحْتَاجُ إلَى أَنْ تَضْرِبَنِيْ وَسَأُحَافِظُ عَلَى الصَّلَوَاتِ ، وَكَذلِكَ فَعَلْتُ ، فَقَدْ كُنْتُ أُصَلِّيْ أَيْنَمَا كُنْتُ ، كُنْتُ إذَا ذَهَبْتُ إلَى السُّوقِ أَوْ كُنْتُ فِيْ شُغْلٍ وَأَدْرَكَتْنِي الصَّلاةُ فِيْ مَكَانٍ صَلَّيْتُ ، لأنِّيْ أَرَى النَّاسَ لا يَخْجَلُونَ مِنَ الأَكْلِ إذَا جَاعُوا ، وَاللَّعِبِ إذَا أَرَادُوا ، فَلَمَاذَا أَخْجَلُ مِنَ الصَّلاةِ؟ وَإنَّ الصَّلاةَ لَفَرِيضَةٌ ، وَإنَّ الصَّلاةَ لَشَرَفٌ لِلْمُسْلِمِ .
+
+**Translation:**
+I said: "O my father! You will not need to hit me. I will maintain the prayers." And so I did. I used to pray wherever I was — if I went to the market or was busy with something and the prayer time caught me in a place, I prayed. Because I see that people are not embarrassed to eat when they are hungry, or to play when they want to, so why should I be embarrassed about praying? Indeed, prayer is an obligation, and indeed prayer is an honor for the Muslim.
+
+---
+
+### Paragraph 4
+
+> **Arabic:**
+> وَقَصَّ عَلَيَّ أَبِيْ قِصَصَ الأَطْفَالِ الَّذِينَ حَافَظُوا عَلَى الصَّلاةِ فِي الصِّغَرِ ، وَكَانَ لَهُمْ شَأْنٌ فِي الكِبَرِ .
+
+**Translation:**
+My father told me the stories of children who maintained their prayers in childhood, and who went on to have great standing in adulthood.
+
+---
+
+### Paragraph 5
+
+> **Arabic:**
+> وَخَرَجْتُ مَرَّةً إلَى مُبَارَاةٍ وَكَانَ الزِّحَامُ شَدِيداً ، وَأَدْرَكَتْنِيْ صَلاةُ العَصْرِ وَكُنْتُ عَلَى وُضُوءٍ ، فَقُمْتُ أُصَلِّيْ وَجَعَلَ النَّاسُ يَنْظُرُونَ إلَيَّ وَيَتَعَجَّبُونَ ، وَأَكْمَلْتُ صَلاتِيْ بِسَكِيْنَةٍ وَاعْتِدَالٍ وَرَجَعْتُ إلَى المُبَارَاةِ .
+
+**Translation:**
+Once I went out to a [sports] match and the crowd was intense. The Asr prayer time caught me and I was in a state of wudu (ablution), so I stood up to pray. People began looking at me in amazement. I completed my prayer with tranquility and composure, then returned to the match.
+
+---
+
+### Paragraph 6
+
+> **Arabic:**
+> وَلَمَّا انْتَهَتِ المُبَارَاةُ جَاءَ إلَيَّ رَجُلٌ وَسَأَلَنِيْ عَنِ اسْمِيْ وَاسْمِ وَالِدِيْ ، وَسَأَلَنِيْ عَنْ سِنِّيْ فَأَخْبَرْتُهُ ، فَأَثْنَى عَلَى أَبِيْ خَيْراً ، وَدَعَا لِيْ بِالبَرَكَةِ ، وَقَالَ: مَا رَأَيْتُ وَلَداً يُصَلِّيْ فِي المُبَارَاةِ وَيَتْرُكُ كَثِيرٌ مِنَ النَّاسِ الصَّلاةَ فِيْ هَذَا الوَقْتِ ، فَحَمِدْتُ اللهَ وَشَكَرْتُ أَبِيْ .
+
+**Translation:**
+When the match ended, a man came to me and asked me about my name and my father's name. He asked me about my age and I told him. He praised my father highly and made du'a (supplication) for me with blessings. He said: "I have never seen a boy pray during a match while many people abandon the prayer at such a time." So I praised Allah and thanked my father.
+
+---
+
+### Paragraph 7
+
+> **Arabic:**
+> وَلا أَتْرُكُ الصَّلاةَ إذَا كُنْتُ مُسَافِراً وَأَرَى كَثِيراً مِنَ النَّاسِ يُصَلُّونَ فِي الحَضَرِ وَيَتْرُكُونَ الصَّلاةَ فِي السَّفَرِ ، وَيُصَلُّونَ فِي الصِّحَّةِ وَلا يُصَلُّونَ فِي المَرَضِ ، مَعَ أَنَّ الصَّلاةَ لا تَسْقُطُ عَنْ أَحَدٍ .
+
+**Translation:**
+I do not abandon the prayer when I am traveling. I see many people who pray when they are at home but abandon the prayer when traveling, and who pray in health but do not pray in illness — even though prayer is never waived for anyone.
+
+---
+
+### Paragraph 8
+
+> **Arabic:**
+> وَأَرَى كَثِيراً مِنَ النَّاسِ لا يُصَلُّونَ بِاعْتِدَالٍ وَسَكِيْنَةٍ وَيُسْرِعُونَ كَثِيراً ، وَلا أَذْكُرُ أَنِّيْ تَرَكْتُ صَلاةً فِيْ هَذِهِ السَّنَوَاتِ الأَرْبَعِ ، وَإذَا نِمْتُ عَنْهَا أَوْ نَسِيْتُهَا صَلَّيْتُهَا إذَا تَذَكَّرْتُ .
+> وَإنِّيْ أَسْأَلُ اللهَ تَعَالَى التَّوْفِيقَ وَالثَّبَاتَ .
+
+**Translation:**
+I see many people who do not pray with composure and tranquility and rush greatly. I do not recall having missed a single prayer in these four years. If I slept through one or forgot it, I prayed it as soon as I remembered. And I ask Allah the Most High for success and steadfastness.
+
+---
+
+## Vocabulary List
+
+| Arabic | Transliteration | Root | English |
+|--------|----------------|------|---------|
+| بَلَغَ | balagha | ب ل غ | to reach, attain |
+| السّابِعَة | as-sābi'a | س ب ع | the seventh (f.) |
+| عُمُر | 'umur | ع م ر | age, life |
+| أَمَرَ | amara | أ م ر | to command, order |
+| الصَّلاة | aṣ-ṣalāh | ص ل و | prayer |
+| الأَدْعِيَة | al-ad'iya | د ع و | supplications (pl. of دُعَاء) |
+| حَفِظَ | ḥafiẓa | ح ف ظ | to memorize, preserve |
+| سُوَر | suwar | س و ر | surahs (pl. of سُورَة) |
+| المَنَام | al-manām | ن و م | sleep, bedtime |
+| قَصَّ | qaṣṣa | ق ص ص | to narrate, tell stories |
+| الأَنْبِيَاء | al-anbiyā' | ن ب أ | prophets (pl. of نَبِيّ) |
+| نَشَاط | nashāṭ | ن ش ط | enthusiasm, energy |
+| رَغْبَة | raghba | ر غ ب | desire, eagerness |
+| المَسْجِد | al-masjid | س ج د | mosque |
+| صَفّ | ṣaff | ص ف ف | row, line |
+| خَلْفَ | khalfa | خ ل ف | behind |
+| ضَرَبَ | ḍaraba | ض ر ب | to hit, discipline |
+| اضْرِبُوا | iḍribū | ض ر ب | hit/discipline them! (imperative pl.) |
+| حَافَظَ عَلَى | ḥāfaẓa 'alā | ح ف ظ | to maintain, guard |
+| الصِّغَر | aṣ-ṣighar | ص غ ر | childhood, youth |
+| الكِبَر | al-kibar | ك ب ر | adulthood, old age |
+| شَأْن | sha'n | ش أ ن | status, importance |
+| السُّوق | as-sūq | س و ق | market |
+| شُغْل | shughl | ش غ ل | work, occupation |
+| أَدْرَكَ | adraka | د ر ك | to catch up with, reach |
+| يَخْجَل | yakhjal | خ ج ل | to be embarrassed |
+| فَرِيضَة | farīḍa | ف ر ض | obligation, duty |
+| شَرَف | sharaf | ش ر ف | honor, nobility |
+| مُبَارَاة | mubārāh | ب ر ي | match, competition |
+| الزِّحَام | az-ziḥām | ز ح م | crowd, congestion |
+| وُضُوء | wuḍū' | و ض أ | ablution |
+| سَكِينَة | sakīna | س ك ن | tranquility, calm |
+| اعْتِدَال | i'tidāl | ع د ل | moderation, composure |
+| أَثْنَى عَلَى | athnā 'alā | ث ن ي | to praise |
+| البَرَكَة | al-baraka | ب ر ك | blessing |
+| الحَضَر | al-ḥaḍar | ح ض ر | being at home/settled |
+| السَّفَر | as-safar | س ف ر | travel, journey |
+| الصِّحَّة | aṣ-ṣiḥḥa | ص ح ح | health |
+| المَرَض | al-maraḍ | م ر ض | illness |
+| تَسْقُط | tasquṭ | س ق ط | to fall, be waived |
+| التَّوْفِيق | at-tawfīq | و ف ق | success, divine guidance |
+| الثَّبَات | ath-thabāt | ث ب ت | steadfastness, firmness |
+
+---
+
+## Grammatical Analysis
+
+### 1. لَمَّا (Temporal Conjunction — "When")
+
+**Usage:** لَمّا بَلَغْتُ السّابِعَةَ — "When I reached the seventh..."
+
+- **لَمَّا** is a temporal particle (ظرف زمان) that triggers the **past tense** (ماضٍ) in both its clause and its answer.
+- Structure: **لَمَّا + فعل ماضٍ ... فعل ماضٍ** (when X happened, Y happened).
+- Appears twice: once for age 7, once for age 10 (لَمَّا بَلَغْتُ العَاشِرَةَ).
+
+---
+
+### 2. كَانَ + Past Tense (Pluperfect / Past Perfect)
+
+**Usage:** كُنْتُ تَعَلَّمْتُ — "I had [already] learned"
+
+- **كَانَ** + **فعل ماضٍ** creates the **pluperfect** (past before past), indicating an action completed before another past event.
+- Also: كَانَتْ أُمِّي تَتَكَلَّمُ (كان + مضارع = habitual past: "my mother **used to** speak").
+
+---
+
+### 3. كُنْتُ أُصَلِّي أَيْنَمَا كُنْتُ (Habitual Past + Conditional)
+
+- **كُنْتُ + مضارع** = past habitual ("I used to pray").
+- **أَيْنَمَا** = "wherever" — a conditional adverb of place (اسم شرط).
+- Structure: **أَيْنَمَا كُنْتُ** = "wherever I was" (conditional clause with كان).
+
+---
+
+### 4. إذَا (Conditional Particle — Repeated Pattern)
+
+**Usage:** إذَا ذَهَبْتُ إلَى السُّوقِ ... صَلَّيْتُ
+
+- **إذَا + ماضٍ ... ماضٍ** = "Whenever I went to the market... I prayed"
+- Used for **repeated/habitual** conditions in past narration.
+- Contrasts with **فَإذَا تَرَكْتَ صَلاةً ضَرَبْتُكَ** = future conditional with فاء (فَإذَا): "If you miss a prayer, I will hit you."
+
+---
+
+### 5. إنَّ with لام التأكيد (Emphatic Construction)
+
+**Usage:** إنَّ الصَّلاةَ **لَـ**ـفَرِيضَةٌ — "Indeed prayer is **truly** an obligation"
+
+- **إنَّ** + noun (اسم إنّ منصوب) + **لَـ** + predicate (خبر إنّ مرفوع).
+- The **لام المزحلقة** (sliding lam) adds extra emphasis. This is a hallmark of eloquent Arabic prose.
+- Repeated: وَإنَّ الصَّلاةَ **لَـ**شَرَفٌ — "and indeed prayer is **truly** an honor."
+
+---
+
+### 6. فَعَلَ / يَفْعَلُ Pattern Contrasts
+
+The text skillfully contrasts verb tenses:
+
+| Pattern | Example | Function |
+|---------|---------|----------|
+| **ماضٍ** (past) | بَلَغْتُ، أَمَرَنِي، حَفِظْتُ | Completed past events |
+| **كان + مضارع** | كَانَتْ تَتَكَلَّمُ، كُنْتُ أَسْمَعُ | Habitual past ("used to") |
+| **مضارع** (present) | أَرَى، لا يَخْجَلُونَ، لا أَتْرُكُ | General truths / current state |
+
+---
+
+### 7. جَعَلَ + مضارع (Inceptive — "began to")
+
+**Usage:** جَعَلَ النَّاسُ يَنْظُرُونَ إلَيَّ وَيَتَعَجَّبُونَ
+
+- **جَعَلَ** + **مضارع** = "began to" / "started" (أفعال الشروع).
+- "The people **began** looking at me and wondering."
+
+---
+
+### 8. الَّذِينَ (Relative Pronoun Clause)
+
+**Usage:** قِصَصَ الأَطْفَالِ **الَّذِينَ** حَافَظُوا عَلَى الصَّلاةِ
+
+- **الَّذِينَ** = "who" (masculine plural relative pronoun).
+- Introduces a **صِلَة الموصول** (relative clause): "children **who** maintained their prayers."
+
+---
+
+### 9. مَعَ أَنَّ (Concessive — "Even though")
+
+**Usage:** مَعَ أَنَّ الصَّلاةَ لا تَسْقُطُ عَنْ أَحَدٍ
+
+- **مَعَ أَنَّ** = "despite the fact that" / "even though."
+- أَنَّ takes a noun in the accusative (الصَّلاةَ) + a verbal sentence as its predicate.
+
+---
+
+### 10. Morphological Patterns (أوزان)
+
+| Word | Pattern (وزن) | Type |
+|------|--------------|------|
+| تَعَلَّمَ | تَفَعَّلَ (V) | Reflexive of عَلَّمَ — "to learn" |
+| تَتَكَلَّمُ | تَتَفَعَّلُ (V) | "to speak" (reflexive of كَلَّمَ) |
+| يَتَعَجَّبُونَ | يَتَفَعَّلُونَ (V) | "to be amazed" (reflexive of عَجَّبَ) |
+| أَدْرَكَ | أَفْعَلَ (IV) | "to reach/catch" (causative) |
+| حَافَظَ | فَاعَلَ (III) | "to maintain/guard" (mutual/intensive) |
+| انْتَهَى | اِفْتَعَلَ (VIII) | "to end, finish" |
+| اعْتِدَال | اِفْتِعَال (VIII maṣdar) | "moderation, composure" |
+| مُبَارَاة | مُفَاعَلَة (III maṣdar) | "competition, match" |
+| تَوْفِيق | تَفْعِيل (II maṣdar) | "success, guidance" |
+
+---
+
+### 11. Key Rhetorical Device: فَلَمَاذَا أَخْجَلُ مِنَ الصَّلاةِ؟
+
+This is a **rhetorical question** (استفهام إنكاري) — the boy argues: if people aren't embarrassed to eat or play in public, why should he be embarrassed to pray? The expected answer is: "There is no reason." This demonstrates mature reasoning presented through the voice of a child narrator.
+
+---
+
+### 12. Contrasting Pairs (طِبَاق)
+
+The text uses several **antithetical pairs**, a classical Arabic rhetorical device:
+
+| Pair | Meaning |
+|------|---------|
+| الصِّغَر / الكِبَر | childhood / adulthood |
+| الحَضَر / السَّفَر | home / travel |
+| الصِّحَّة / المَرَض | health / illness |
+| نِمْتُ / تَذَكَّرْتُ | slept through / remembered |
+
+This **ṭibāq** (antithesis) reinforces the theme that prayer should be constant across all circumstances.

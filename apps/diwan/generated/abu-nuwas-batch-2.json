@@ -1,0 +1,1248 @@
+[
+  {
+    "id": "abu-nuwas-36",
+    "poetId": "abu-nuwas",
+    "titleAr": "يا بني النقص والعبر",
+    "titleEn": "O Children of Weakness and Folly",
+    "genre": "zuhd",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "يا بني النقص والعبر ،",
+        "ajuz": "وبني الضعف والخور"
+      },
+      {
+        "sadr": "وبني البعد في الطباع على القرب في الصور",
+        "ajuz": "والشكول التي تباين في الطول والقصر"
+      },
+      {
+        "sadr": "أحتساء من الحرام وختما على الصرر",
+        "ajuz": "أين من كان قبلكم من ذوي البأس والخطر"
+      },
+      {
+        "sadr": "سائلوا عنهم المدائن ، واستبحثوا الخبر",
+        "ajuz": "سبقونا إلى الرحيل ، وإنا على الأثر"
+      },
+      {
+        "sadr": "من مضى عبرة لنا ،",
+        "ajuz": "وغدا نحن معتبر"
+      },
+      {
+        "sadr": "إن للموت أخذة ،",
+        "ajuz": "تسبق اللمح بالبصر"
+      },
+      {
+        "sadr": "فكأني بكم غدا",
+        "ajuz": "في ثياب من المدر"
+      },
+      {
+        "sadr": "قد نقلتم من القصور إلى ظلمة الحفر",
+        "ajuz": "حيث لا نضرب القباب عليكم ، ولا الحجر"
+      },
+      {
+        "sadr": "حيث لا تظهرون في",
+        "ajuz": "ها للهو ، ولا سمر"
+      },
+      {
+        "sadr": "رحم الله مسلما",
+        "ajuz": "ذكر الله ، فازدجر"
+      },
+      {
+        "sadr": "غفر الله ذنب من",
+        "ajuz": "خاف فاستشعر الحذر"
+      }
+    ],
+    "translationEn": "O you children of deficiency and moral lessons, children of weakness and frailty — you who are distant in nature though near in appearance. Where are those who came before you, the mighty and the daring? Ask the cities about them and seek out their news. They departed before us on that final journey, and we follow in their footsteps. Death strikes faster than the blink of an eye. You will be moved to tombs of earth, from palaces to the darkness of the grave. May God have mercy on the Muslim who remembered God and restrained himself, and may God forgive the one who feared and clothed himself in caution.",
+    "vocabularyHighlights": [
+      { "word": "العبر", "meaning": "lessons, moral warnings drawn from events" },
+      { "word": "الخور", "meaning": "weakness, feebleness, lack of resolution" },
+      { "word": "الشكول", "meaning": "kinds, types, varying forms" },
+      { "word": "الصرر", "meaning": "bundles of money, purses tied with cord" },
+      { "word": "الأثر", "meaning": "the trace, the footstep left behind" },
+      { "word": "المدر", "meaning": "clods of earth, clay (burial imagery)" },
+      { "word": "ازدجر", "meaning": "restrained himself, was deterred" },
+      { "word": "استشعر الحذر", "meaning": "felt caution inwardly, internalized wariness" }
+    ],
+    "context": "A rare ascetic poem (zuhd) from Abu Nuwas, admonishing contemporaries about the transience of life and the certainty of death. Despite his fame for wine poetry, Abu Nuwas also composed serious devotional and moral verse."
+  },
+  {
+    "id": "abu-nuwas-37",
+    "poetId": "abu-nuwas",
+    "titleAr": "يا نواسي توقر",
+    "titleEn": "Counsel to Oneself on Patience",
+    "genre": "zuhd",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "يا نواسي توقر ،",
+        "ajuz": "وتجمل ، وتصبر"
+      },
+      {
+        "sadr": "ساءك الدهر بشيء ،",
+        "ajuz": "وبما سرك أكثر"
+      },
+      {
+        "sadr": "يا كبير الذنب ، عفو اللـ",
+        "ajuz": "له من ذنبك أكبر"
+      },
+      {
+        "sadr": "أكبر الأشياء عن أصغر عفو الله أصغر",
+        "ajuz": "ليس للإنسان ، إلا ما قضى الله وقدر"
+      },
+      {
+        "sadr": "ليس للمخلوق تدبير",
+        "ajuz": "بل الله المدبر"
+      }
+    ],
+    "translationEn": "The poet addresses himself by name — 'O Nuwas, show gravity and composure, and be patient.' Time has harmed you in some things, but what has pleased you is far greater. O you of great sin, God's forgiveness exceeds even your greatest transgression — for even the smallest of God's pardons surpasses the greatest of all worldly things. There is nothing for man except what God has decreed and ordained, and no creature has true governance of affairs — God alone is the Disposer of all things.",
+    "vocabularyHighlights": [
+      { "word": "توقر", "meaning": "show gravity and dignity, carry yourself with gravitas" },
+      { "word": "تجمل", "meaning": "show composure, act with beautiful conduct" },
+      { "word": "الدهر", "meaning": "time, fate, the course of the ages" },
+      { "word": "العفو", "meaning": "pardon, forgiveness, clemency" },
+      { "word": "قضى وقدر", "meaning": "decreed and ordained (divine predestination)" },
+      { "word": "المدبر", "meaning": "the Disposer, the One who manages and arranges all affairs" }
+    ],
+    "context": "A self-admonishing poem in which Abu Nuwas addresses his own soul by name, urging patience and reliance on God's vast forgiveness. The theological emphasis on divine predestination and the immensity of God's pardon gives the poem a distinctly devotional character."
+  },
+  {
+    "id": "abu-nuwas-38",
+    "poetId": "abu-nuwas",
+    "titleAr": "يا سائل الله فزت بالظفر",
+    "titleEn": "The Seeker of God Shall Triumph",
+    "genre": "zuhd",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "يا سائل الله فزت بالظفر ،",
+        "ajuz": "وبالنوال الهني لا الكدر"
+      },
+      {
+        "sadr": "فارغب إلى الله ، لا إلى بشر",
+        "ajuz": "منتقل في البلى ، وفي الغير"
+      },
+      {
+        "sadr": "وارغب إلى الله ، لا إلى جسد",
+        "ajuz": "منتقل من صبا إلى كبر"
+      },
+      {
+        "sadr": "إن الذي لا يخيب سائله",
+        "ajuz": "جوهره غير جوهر البشر"
+      },
+      {
+        "sadr": "تمالك بالترهات متشغلا",
+        "ajuz": "أفي يديك الأمان من سقر ؟"
+      }
+    ],
+    "translationEn": "O seeker of God, you have attained victory and a wholesome, untainted gift. Turn your desire toward God, not toward a mortal who is ever-changing and decaying; not toward a body that passes from youth to old age. He whose petitioners are never disappointed is of a nature unlike that of mortal men — His essence is unlike human essence. Do you busy yourself with trivialities while the guarantee of safety from hellfire rests in your very hands?",
+    "vocabularyHighlights": [
+      { "word": "الظفر", "meaning": "victory, success, triumph" },
+      { "word": "النوال", "meaning": "gift, bounty, gracious bestowal" },
+      { "word": "الهني", "meaning": "wholesome, pleasant, untroubled" },
+      { "word": "الكدر", "meaning": "turbidity, bitterness, trouble" },
+      { "word": "البلى", "meaning": "decay, deterioration, wearing away" },
+      { "word": "الترهات", "meaning": "nonsense, idle trivialities, worthless occupations" },
+      { "word": "سقر", "meaning": "hellfire (a Quranic name for hell)" }
+    ],
+    "context": "A devotional poem contrasting the transience of human wealth and body with the permanence of divine generosity. The final verse — challenging the reader directly about hellfire — is a sharp homiletic turn characteristic of Abu Nuwas's zuhd poetry."
+  },
+  {
+    "id": "abu-nuwas-39",
+    "poetId": "abu-nuwas",
+    "titleAr": "قد أغتدي بزرق جراز",
+    "titleEn": "Going Out with Keen Grey Falcons",
+    "genre": "madih",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "قد أغتدي بزرق جراز ،",
+        "ajuz": "محض ، رقيق الزف والطراز"
+      },
+      {
+        "sadr": "دبق من نعمان سهرداز ،",
+        "ajuz": "تصيدنا رزقا ودستخاز"
+      },
+      {
+        "sadr": "زين يد الحامل والقفاز ،",
+        "ajuz": "فكم وكم من طول جماز"
+      },
+      {
+        "sadr": "مغامر يكنى أبا كزاز ،",
+        "ajuz": "جم الوقاع ، موجز الإيجاز"
+      },
+      {
+        "sadr": "قد طالما أوطن بالأحراز ،",
+        "ajuz": "علقه بالجدجد البراز"
+      },
+      {
+        "sadr": "مشقا يقد ثبج الأجواز ،",
+        "ajuz": "بحجنات صدقة التوخاز"
+      },
+      {
+        "sadr": "مثل أشافي الصنيع الخراز ،",
+        "ajuz": "يعتامها فردا بلا جلواز"
+      },
+      {
+        "sadr": "قد ابن باز وصنيع باز ،",
+        "ajuz": "نعم الخليل ساعة الإعواز"
+      }
+    ],
+    "translationEn": "The poet sets out at dawn with keen, grey-blue falcons — pure-bred, with fine feathers and markings — trained in the open grounds of Nu'man, hunting for provisions and reward. They adorn the falconer's hand and glove through many a long and swift pursuit. One falcon, dubbed Abu Kazzaz, is bold and experienced, abundantly skilled, having been trained in fortified grounds and tuned by the open-field cricket's call. He cleaves through the middle of the skies with curved, accurate talons like the awls of a skillful cobbler, hunting alone without an escort. Indeed, the well-bred falcon trained by trainers of hawks is the finest companion in times of need.",
+    "vocabularyHighlights": [
+      { "word": "زرق", "meaning": "grey-blue (describing the falcon's color)" },
+      { "word": "جراز", "meaning": "sharp, keen, cutting (of hunting birds)" },
+      { "word": "الزف", "meaning": "downy feathers, fine plumage" },
+      { "word": "الطراز", "meaning": "distinguishing mark, embroidery, fine pattern" },
+      { "word": "القفاز", "meaning": "the falconer's glove or gauntlet" },
+      { "word": "جم الوقاع", "meaning": "abundant in strikes, prolific at hunting" },
+      { "word": "الإعواز", "meaning": "need, want, a moment of poverty or difficulty" }
+    ],
+    "context": "A poem in praise of the art of falconry (الصيد بالجوارح), which was a prestige pursuit in Abbasid court culture. Abu Nuwas deploys highly technical hunting vocabulary to describe the falcon's qualities, demonstrating his mastery of the genre beyond wine poetry."
+  },
+  {
+    "id": "abu-nuwas-40",
+    "poetId": "abu-nuwas",
+    "titleAr": "لا بأس باليؤيؤ لكنما",
+    "titleEn": "The Falcon Surpasses the Sparrowhawk",
+    "genre": "madih",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "لا بأس باليؤيؤ لكنما",
+        "ajuz": "تجتمع الناس على البازي"
+      },
+      {
+        "sadr": "يصيد ذا الكركي لا ينثني",
+        "ajuz": "وجهد هذا فرخ نقاز"
+      }
+    ],
+    "translationEn": "The sparrowhawk is not without merit, but people unanimously prefer the falcon — the falcon hunts the great crane without hesitation, while the sparrowhawk's greatest effort amounts to no more than a chirping chick. This brief epigram uses the two hunting birds as a metaphor for comparing levels of excellence.",
+    "vocabularyHighlights": [
+      { "word": "اليؤيؤ", "meaning": "sparrowhawk, a small hawk" },
+      { "word": "البازي", "meaning": "falcon, the prized hunting bird of the Abbasid courts" },
+      { "word": "الكركي", "meaning": "crane, a large and difficult bird to hunt" },
+      { "word": "لا ينثني", "meaning": "does not waver, does not turn back" },
+      { "word": "نقاز", "meaning": "a chirping or jumping young chick" }
+    ],
+    "context": "A witty two-verse epigram (نتفة) contrasting two hunting birds to illustrate degrees of excellence. The compressed comparison is characteristic of Abu Nuwas's mastery of concise satirical and observational verse."
+  },
+  {
+    "id": "abu-nuwas-41",
+    "poetId": "abu-nuwas",
+    "titleAr": "ودار ندامى عطلوها وأدلجوا",
+    "titleEn": "The Abandoned Tavern of Wine Companions",
+    "genre": "khamriyyat",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "ودار ندامى عطلوها ، وأدلجوا ،",
+        "ajuz": "بها أثر منهم جديد ودارس"
+      },
+      {
+        "sadr": "مساحب من جر الزقاق على الثرى ،",
+        "ajuz": "وأضغاث ريحان جني ويابس"
+      },
+      {
+        "sadr": "حبست بها صحبي فجددت عهدهم",
+        "ajuz": "وإني على أمثال تلك لحابس"
+      },
+      {
+        "sadr": "لم أدر من هم ؟ غير ما شهدت به",
+        "ajuz": "بشرقي ساباط الديار البسابس"
+      },
+      {
+        "sadr": "قمنا بها يوما ، ويوما ، وثالثا ،",
+        "ajuz": "ويوما له يوم الترحل خامس"
+      },
+      {
+        "sadr": "تدار علينا الراح في عسجدية ،",
+        "ajuz": "حبتها بألوان التصاوير فارس"
+      },
+      {
+        "sadr": "وارثها كسرى ، وفي جنباتها",
+        "ajuz": "مها تدريها بالقسي الفوارس"
+      },
+      {
+        "sadr": "للخمر ما زرت عليه جيوبها ،",
+        "ajuz": "وللماء ما دارت عليه القلانس"
+      }
+    ],
+    "translationEn": "The poet pauses before an abandoned gathering-place of wine companions who have departed at nightfall, leaving fresh and faded traces — drag marks from wine skins hauled across the soil, and scattered bundles of basil both fresh and dry. He held his own companions there, renewing their bonds, and he is inclined to linger at such places again. He dwelt there four days, wine circling in a golden Persian cup adorned with paintings inherited from Khosrow, its sides depicting white antelopes chased by mounted archers. The wine fills whatever opens in their collars, and water fills what turns in their caps.",
+    "vocabularyHighlights": [
+      { "word": "ندامى", "meaning": "wine companions, drinking friends (plural of نديم)" },
+      { "word": "أدلجوا", "meaning": "they departed at night, traveled through the darkness" },
+      { "word": "مساحب", "meaning": "drag marks, traces left by dragging" },
+      { "word": "الزقاق", "meaning": "wine skins, leather wine flasks" },
+      { "word": "الريحان", "meaning": "basil, sweet-scented herb" },
+      { "word": "العسجدية", "meaning": "a golden cup or vessel" },
+      { "word": "التصاوير", "meaning": "paintings, pictorial designs" },
+      { "word": "المها", "meaning": "white antelopes, gazelles (a classical beauty metaphor)" }
+    ],
+    "context": "A khamriyyah that opens with the classical elegiac motif of the abandoned campsite (أطلال), here transformed into a deserted wine companions' tavern. The Persian cup bearing Khosrow's painted imagery reflects the cosmopolitan Abbasid cultural setting."
+  },
+  {
+    "id": "abu-nuwas-42",
+    "poetId": "abu-nuwas",
+    "titleAr": "أفناني الدهر نهسا",
+    "titleEn": "Time Gnawed Me and Love Struck Me Down",
+    "genre": "ghazal",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "أفناني الدهر نهسا ،",
+        "ajuz": "وزادني الحب نكسا"
+      },
+      {
+        "sadr": "وصار حب حبيبي ،",
+        "ajuz": "للقلب إلفا وحلسا"
+      },
+      {
+        "sadr": "وخالط النفس حبي ،",
+        "ajuz": "قد صار للنفس نفسا"
+      },
+      {
+        "sadr": "أضلني بعدما كنت في العبادة قسا",
+        "ajuz": "لا أستفيق صلاة ، ولا أفتر درسا"
+      },
+      {
+        "sadr": "فطار عقلي ، فما إن",
+        "ajuz": "أحس للعقل خلسا"
+      },
+      {
+        "sadr": "وكل ذا ذنب طرفي ،",
+        "ajuz": "طمست يا طرف طمسا"
+      },
+      {
+        "sadr": "هلا طرقت ، ولم تلق في القراطق شمسا",
+        "ajuz": "فقلت : يا نور عيني ، خلست عقلي خلسا"
+      },
+      {
+        "sadr": "فاردد علي حياتي ،",
+        "ajuz": "عضا بفيك ولحسا"
+      },
+      {
+        "sadr": "فما تمالك حتى افترى علي وخسا",
+        "ajuz": "فاسود وجهي منه ، حتى تحول نقسا"
+      },
+      {
+        "sadr": "وليس في ذاك يعدو",
+        "ajuz": "سبي صباحا ، وممسى"
+      },
+      {
+        "sadr": "فقلت : ويلي ممن",
+        "ajuz": "لمثل ذا ليس ينسى"
+      },
+      {
+        "sadr": "لا يحسن الدهر إلا",
+        "ajuz": "شتيمة لي وبخسا"
+      },
+      {
+        "sadr": "فما رأيت كحبي ،",
+        "ajuz": "أفظ قلبا وأقسى"
+      }
+    ],
+    "translationEn": "Time has consumed the poet bit by bit, and love has struck him down further into weakness. His beloved's love has attached itself to his heart like a saddle-cloth to a beast, mixing with his soul until it became his very breath. Love led him astray after he had been devout — never missing a prayer, never ceasing to study. His reason flew away, leaving no trace; he blames his own glancing eye. He pleads to his beloved: 'Light of my eyes, you have stolen my mind — return my life with a bite of your mouth and a lick.' The beloved rejects him, lying about him and cursing; the poet's face darkens with shame as dark as ink. Time, he laments, brings him nothing but insults and diminishment, and no beloved he has known is harder-hearted or crueler.",
+    "vocabularyHighlights": [
+      { "word": "نهسا", "meaning": "nibbling, gnawing bit by bit (as a predator gnaws)" },
+      { "word": "نكسا", "meaning": "relapse, collapse, being struck down again" },
+      { "word": "حلسا", "meaning": "a saddlecloth; metaphor for something always attached" },
+      { "word": "قسا", "meaning": "a bishop or Christian monk; used for an intensely devout person" },
+      { "word": "خلسا", "meaning": "by theft, stealthily, surreptitiously" },
+      { "word": "القراطق", "meaning": "garments, tunics (collar area near the throat)" },
+      { "word": "نقسا", "meaning": "ink, pitch-black (turning as dark as ink with shame)" },
+      { "word": "البخس", "meaning": "diminishment, undervaluing, treating someone as worthless" }
+    ],
+    "context": "An intense ghazal in which Abu Nuwas charts the progression from devout ascetic life to complete mental dissolution through love. The ironic self-portrait as a fallen devout scholar (قس) is a recurring autobiographical motif in his poetry, playing on the tension between piety and passion."
+  },
+  {
+    "id": "abu-nuwas-43",
+    "poetId": "abu-nuwas",
+    "titleAr": "عليك باليأس من الناس",
+    "titleEn": "Despair of People's Loyalty",
+    "genre": "hija",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "عليك باليأس من الناس ،",
+        "ajuz": "إن الغنى ، ويحك ، في الياس"
+      },
+      {
+        "sadr": "كم صاحب قد كان لي وامقا",
+        "ajuz": "إذ كان في حالات إفلاس"
+      },
+      {
+        "sadr": "أقول لو قد نال هذا الغنى ،",
+        "ajuz": "أقعدني حبا على الراس"
+      },
+      {
+        "sadr": "حتى إذا صار إلى ما اشتهى ،",
+        "ajuz": "وعده الناس من الناس"
+      },
+      {
+        "sadr": "قطع بالقنطير حبل الصفا",
+        "ajuz": "مني ، ولما يرض بالفاس"
+      }
+    ],
+    "translationEn": "The poet counsels himself and the listener to despair of people's loyalty — for true wealth lies in that very despair. He recalls a companion who was devoted to him when that companion was bankrupt, and the poet thought: if this man ever gains wealth, he will honor me above all. But once the man attained his desires and was counted among the prosperous, he severed every bond of friendship with heaps of gold coins, not even content with a mere axe-blow's worth of severance.",
+    "vocabularyHighlights": [
+      { "word": "اليأس", "meaning": "despair, hopelessness (positively: liberation from dependence on others)" },
+      { "word": "الغنى", "meaning": "wealth, richness, self-sufficiency" },
+      { "word": "وامقا", "meaning": "deeply loving, affectionately devoted" },
+      { "word": "الإفلاس", "meaning": "bankruptcy, poverty, having nothing" },
+      { "word": "القنطير", "meaning": "a great sum of gold, a large talent of money" },
+      { "word": "حبل الصفا", "meaning": "the rope of friendship and purity" },
+      { "word": "الفاس", "meaning": "axe; here metaphor for a sharp, decisive break" }
+    ],
+    "context": "A satirical poem about fair-weather friendship and the corrupting effect of wealth on loyalty. Abu Nuwas uses the personal experience of betrayal by a newly prosperous friend to make a universal observation about how prosperity changes people's relationships."
+  },
+  {
+    "id": "abu-nuwas-44",
+    "poetId": "abu-nuwas",
+    "titleAr": "ألا ليت شعري هكذا أنت للناس",
+    "titleEn": "Are You Like This with Everyone?",
+    "genre": "ghazal",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "ألا ليت شعري هكذا أنت للناس ،",
+        "ajuz": "فأقدع عنك القلب يا صاح بالياس"
+      },
+      {
+        "sadr": "فقد كنت دهرا لا تروق لمعجب ،",
+        "ajuz": "سواي ، ولا تنمي إخائي إلى باس"
+      },
+      {
+        "sadr": "ولكنني لما بدا منك ما بدا ،",
+        "ajuz": "وقست أموري عند ذاك بمقياس"
+      },
+      {
+        "sadr": "إذن ليس تزري بي لديك مودتي ،",
+        "ajuz": "ولكنما يزري بوديك إفلاسي"
+      }
+    ],
+    "translationEn": "The poet cries out wishing he knew whether his beloved treated everyone the same way — for if so, he could restrain his heart through despair. For ages, the beloved seemed to please no admirer but him, and his fraternal affection seemed to lead nowhere troubling. But when the beloved's true nature revealed itself and he weighed his situation by a measuring scale, he understood: it is not his affection that diminishes him in the beloved's eyes, but rather his poverty that diminishes the beloved's love for him.",
+    "vocabularyHighlights": [
+      { "word": "ليت شعري", "meaning": "would that I knew, I wish I could know" },
+      { "word": "أقدع", "meaning": "to restrain, curb, hold back from" },
+      { "word": "تروق", "meaning": "to please, delight, appeal to someone" },
+      { "word": "الإخاء", "meaning": "brotherhood, fraternal friendship" },
+      { "word": "مقياس", "meaning": "a standard of measure, a scale or gauge" },
+      { "word": "تزري", "meaning": "to belittle, diminish, bring shame upon" }
+    ],
+    "context": "A compact ghazal blending romantic longing with bitter social observation, as Abu Nuwas realizes that his poverty — not his character — is the reason for the beloved's coldness toward him."
+  },
+  {
+    "id": "abu-nuwas-45",
+    "poetId": "abu-nuwas",
+    "titleAr": "أريد قطعة قرطاس فتعجزني",
+    "titleEn": "Paper Merchants Who Cannot Spare a Sheet",
+    "genre": "hija",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "أريد قطعة قرطاس ، فتعجزني ،",
+        "ajuz": "وجل صحبي أصحاب القراطيس"
+      },
+      {
+        "sadr": "لحاهم الله من ود ومعرفة ،",
+        "ajuz": "إن المياسير منهم كالمفاليس"
+      }
+    ],
+    "translationEn": "The poet requests a mere scrap of paper, yet his companions — most of whom are paper merchants by trade — cannot spare him one. May God curse their friendship and acquaintance, for their wealthy men are no different from their paupers when it comes to stinginess.",
+    "vocabularyHighlights": [
+      { "word": "قرطاس", "meaning": "a piece of paper, a writing sheet" },
+      { "word": "القراطيس", "meaning": "papers, sheets; also paper merchants or dealers" },
+      { "word": "لحاهم", "meaning": "may God curse them (imprecation of disgrace)" },
+      { "word": "المياسير", "meaning": "the wealthy, those of comfortable means" },
+      { "word": "المفاليس", "meaning": "the penniless, the utterly bankrupt" }
+    ],
+    "context": "A sharp two-verse satirical epigram (نتفة) lamenting the stinginess of friends. The irony of paper merchants refusing to spare a scrap of paper is a biting piece of social comedy typical of Abu Nuwas's concise wit."
+  },
+  {
+    "id": "abu-nuwas-46",
+    "poetId": "abu-nuwas",
+    "titleAr": "ذهب الناس فاستقلوا وصرنا",
+    "titleEn": "The Good Men Are Gone, Leaving Wretches",
+    "genre": "hija",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "ذهب الناس فاستقلوا وصرنا",
+        "ajuz": "خلفا في أراذل النسناس"
+      },
+      {
+        "sadr": "كلما جئت أبتغي النيل منهم ،",
+        "ajuz": "بدروني قبل السؤال بياس"
+      },
+      {
+        "sadr": "وبكوا لي حتى تمنيت أني",
+        "ajuz": "مفلت عند ذاك رأسا براس"
+      },
+      {
+        "sadr": "في أناس تعدهم من عديد ،",
+        "ajuz": "فإذا فتشوا ، فليسوا بناس"
+      }
+    ],
+    "translationEn": "The true men have departed and risen high; we are left behind among the vilest of sub-human wretches. Every time the poet comes seeking benefit from them, they preempt his request with despair before he even asks. They weep before him until he wishes he could escape by bashing his head against theirs. You count them among the many, but when you examine them closely, they are not true men at all.",
+    "vocabularyHighlights": [
+      { "word": "استقلوا", "meaning": "rose, departed, became fully independent and elevated" },
+      { "word": "النسناس", "meaning": "mythical sub-human creatures; used for vile or worthless beings" },
+      { "word": "النيل", "meaning": "attainment, getting benefit or favor from someone" },
+      { "word": "بدروني", "meaning": "they rushed ahead of me, preempted me, got there first" },
+      { "word": "بالياس", "meaning": "with hopelessness, with despair as their answer" },
+      { "word": "عديد", "meaning": "a multitude, a large enumerable number" }
+    ],
+    "context": "A satirical poem (هجاء) lamenting the degeneracy of contemporary society, contrasting the noble men of the past with the contemptible ones who remain. The closing verse — 'they are not men at all' — delivers a devastating punch line."
+  },
+  {
+    "id": "abu-nuwas-47",
+    "poetId": "abu-nuwas",
+    "titleAr": "أنعت كلبا لقن النحاس",
+    "titleEn": "Describing a Keen Hunting Hound",
+    "genre": "madih",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "أنعت كلبا لقن النحاس",
+        "ajuz": "محسور أقطار شؤون الراس"
+      },
+      {
+        "sadr": "يدير في وقبين ، ذا حماس ،",
+        "ajuz": "طماحتين كلظى المقباس"
+      },
+      {
+        "sadr": "مثل احورار الشادن المياس ،",
+        "ajuz": "مسلك الخلق كغصن الآس"
+      },
+      {
+        "sadr": "نعم الخليل ، والأخ المواسي !",
+        "ajuz": "من غير ما بيع ولا مكاس"
+      },
+      {
+        "sadr": "كم تيس رمل لاح في الكناس ،",
+        "ajuz": "عفره بجانبي أوطاس"
+      },
+      {
+        "sadr": "لم يعط إلا مثله النواسي !",
+        "ajuz": "لم يعط إلا مثله النواسي !"
+      }
+    ],
+    "translationEn": "The poet describes a hunting dog trained on the drill — with the sunken temples of its skull exposed, rolling two eager, fiery eyes like glowing embers. Its eyes glow like the doe-eyed gazelle's, and its sleek body is like a branch of myrtle. What a fine companion and consoling brother it is — without price or bargaining. How many a desert mountain goat, glimpsed in the thicket, has it wrestled into the dust at the sides of the encampments. No one but Abu Nuwas has been given a dog like this.",
+    "vocabularyHighlights": [
+      { "word": "أنعت", "meaning": "I describe, I praise by detailed description" },
+      { "word": "لقن النحاس", "meaning": "trained by beating on brass/copper (a training method)" },
+      { "word": "شؤون الراس", "meaning": "the skull sutures, the bones of the head" },
+      { "word": "الوقبان", "meaning": "the two eye sockets, the orbital hollows" },
+      { "word": "الشادن المياس", "meaning": "the graceful, swaying gazelle fawn" },
+      { "word": "الآس", "meaning": "myrtle tree, known for its slender branches" },
+      { "word": "المواسي", "meaning": "the one who consoles, who gives comfort in hardship" }
+    ],
+    "context": "A poem of the hunting dog genre (وصف الكلب) within broader nature poetry. Abu Nuwas praises the hound's physical and hunting qualities with technical vocabulary, ending with a self-compliment that no one else was worthy of such a dog."
+  },
+  {
+    "id": "abu-nuwas-48",
+    "poetId": "abu-nuwas",
+    "titleAr": "كيف أصبحت لا عدمت صباحا",
+    "titleEn": "How Are You, O Muhammad ibn Quraysh?",
+    "genre": "khamriyyat",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "كيف أصبحت ، لا عدمت صباحا",
+        "ajuz": "صالحا ، يا محمد بن قريش"
+      },
+      {
+        "sadr": "أنس نفسي كيف استجزت اطراحي ،",
+        "ajuz": "فيم ذا بل علام ذا أم لأيش ؟"
+      },
+      {
+        "sadr": "نحن في حان تاجر عندنا اللـه",
+        "ajuz": "و بحلم لم نمتزجه بطيش"
+      },
+      {
+        "sadr": "والشراب الذي يجاء به من",
+        "ajuz": "طيزناباذ منتهى كل عيش"
+      },
+      {
+        "sadr": "فأتنا الآن تصطبح معنا ، لا",
+        "ajuz": "مت ، حتى أراك قائد جيش"
+      },
+      {
+        "sadr": "أصبح البخل منك يا أحسن",
+        "ajuz": "لأمة يحكي سماحة ابن حبيش !"
+      }
+    ],
+    "translationEn": "The poet greets his friend Muhammad ibn Quraysh, asking how his morning is, and playfully lamenting how his friend could justify abandoning him. They are in a merchant's tavern, sober in mind and measured in reason, not reckless. The wine brought from Tayzinabaadh is the pinnacle of all life's pleasures. He invites the friend to come drink with them at this early hour, expressing hope to one day see him commanding an army. He closes with a backhanded compliment: the friend's stinginess rivals the generosity of Ibn Hubaysh — a comic inversion.",
+    "vocabularyHighlights": [
+      { "word": "لا عدمت", "meaning": "may you never lose (a blessing formula)" },
+      { "word": "اطراحي", "meaning": "my abandonment, throwing me aside, neglecting me" },
+      { "word": "الحان", "meaning": "a tavern, a wine-house" },
+      { "word": "الطيش", "meaning": "recklessness, impulsivity, rashness" },
+      { "word": "تصطبح", "meaning": "to drink the morning cup, to have a morning drink" },
+      { "word": "السماحة", "meaning": "generosity, open-handedness, magnanimity" }
+    ],
+    "context": "A convivial poem (مجون) inviting a friend to join a wine session in a tavern, blending warm greeting, gentle reproach, and comic flattery. The reference to Tayzinabaadh (a district near Baghdad) grounds the poem in the Abbasid urban setting."
+  },
+  {
+    "id": "abu-nuwas-49",
+    "poetId": "abu-nuwas",
+    "titleAr": "غزال به فتر وفيه تأنث",
+    "titleEn": "A Languid Beloved Who Reproaches the Poet",
+    "genre": "ghazal",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "غزال به فتر ، وفيه تأنث",
+        "ajuz": "وأحسن مخلوق ، وأجمل من مشى"
+      },
+      {
+        "sadr": "أقول له يوما ، وقد شفني الهوى :",
+        "ajuz": "أطلت عذابي فيك يا خير من نشا"
+      },
+      {
+        "sadr": "فقال : ألما يأن أن تترك الصبا",
+        "ajuz": "ومالك يا هذا ! وما لي ! وما تشا !"
+      }
+    ],
+    "translationEn": "A gazelle of a youth — languid and soft, effeminate in manner, the most beautiful of creatures and the most graceful of walkers. The poet tells him one day, his passion having worn him through: 'You have prolonged my torment, O finest of those who ever grew up.' The beloved replies sharply: 'Is it not yet time for you to abandon youthful folly? What is wrong with you? What do you want from me? Do whatever you wish!'",
+    "vocabularyHighlights": [
+      { "word": "غزال", "meaning": "gazelle; used as a term of beauty for a beloved" },
+      { "word": "فتر", "meaning": "languor, softness, a languid quality in the eyes" },
+      { "word": "تأنث", "meaning": "effeminacy, feminine softness of manner" },
+      { "word": "شفني", "meaning": "wore me through, consumed me, weakened me entirely" },
+      { "word": "الهوى", "meaning": "passion, desire, love" },
+      { "word": "الصبا", "meaning": "youthful folly, the frivolity of youth" }
+    ],
+    "context": "A brief ghazal in which the beloved's withering reply — scolding the poet for not outgrowing his passion — turns the romantic plea into an unexpectedly comic and sharp exchange. The three-verse form captures a complete dramatic encounter."
+  },
+  {
+    "id": "abu-nuwas-50",
+    "poetId": "abu-nuwas",
+    "titleAr": "أهدي الثناء إلى الأمين محمد",
+    "titleEn": "True Praise for the Caliph al-Amin",
+    "genre": "madih",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "أهدي الثناء إلى الأمين محمد ،",
+        "ajuz": "ما بعده لتجارة متربص"
+      },
+      {
+        "sadr": "صدق الثناء على الأمين محمد ،",
+        "ajuz": "ومن الثناء تكذب وتخرص"
+      },
+      {
+        "sadr": "قد ينقص القمر المنير ، إذا استوى",
+        "ajuz": "وبهاء وجه محمد لا ينقص"
+      },
+      {
+        "sadr": "وإذا بنو العباس عد حصاهم ،",
+        "ajuz": "فمحمد ياقوتها المستخلص"
+      }
+    ],
+    "translationEn": "The poet offers praise to Caliph al-Amin Muhammad — praise given without any expectation of commercial return. His praise of al-Amin is truthful, while other panegyrics are mere fabrications and empty invention. The full moon wanes when it reaches its peak, but the radiance of Muhammad's face does not diminish. And when the Abbasids are counted bead by bead, Muhammad is their refined and extracted ruby.",
+    "vocabularyHighlights": [
+      { "word": "الثناء", "meaning": "praise, laudation, commendation" },
+      { "word": "الأمين", "meaning": "the Trustworthy (title of Caliph Muhammad al-Amin)" },
+      { "word": "متربص", "meaning": "waiting in anticipation, watching for an opportunity (here: seeking reward)" },
+      { "word": "تخرص", "meaning": "fabrication, making things up, baseless invention" },
+      { "word": "البهاء", "meaning": "radiance, splendor, magnificent beauty" },
+      { "word": "الياقوت المستخلص", "meaning": "the refined ruby, the purified gemstone" }
+    ],
+    "context": "A panegyric addressed to the Abbasid Caliph Muhammad al-Amin (r. 809-813 CE), one of Abu Nuwas's key patrons. The poet distinguishes his sincere praise from the flattery of court poets who seek reward, positioning himself as offering genuine admiration."
+  },
+  {
+    "id": "abu-nuwas-51",
+    "poetId": "abu-nuwas",
+    "titleAr": "قولا لحمدان وما شيمتي",
+    "titleEn": "A Message of Harsh Reproach for Hamdan",
+    "genre": "hija",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "قولا لحمدان ، وما شيمتي",
+        "ajuz": "أن أهدي النصح له مخلصا :"
+      },
+      {
+        "sadr": "ما أنت بالحر ، فتلحى ، ولا",
+        "ajuz": "بالعبد أستعتبه بالعصا"
+      },
+      {
+        "sadr": "فرحمة الله على آدم ،",
+        "ajuz": "رحمة من عم ومن خصصا"
+      },
+      {
+        "sadr": "لو كان يدري أنه خارج",
+        "ajuz": "مثلك في أبنائه لاختصى"
+      }
+    ],
+    "translationEn": "Tell Hamdan — though sincere counsel is not in my nature — that he is neither a free man to be blamed and corrected, nor a slave to be disciplined with the rod. May God's mercy be upon Adam — a mercy both universal and particular — for had Adam known that someone like Hamdan would descend among his children, he would have castrated himself to prevent his lineage.",
+    "vocabularyHighlights": [
+      { "word": "شيمتي", "meaning": "my nature, my customary character" },
+      { "word": "تلحى", "meaning": "to be blamed, reproached, held accountable" },
+      { "word": "أستعتبه", "meaning": "I seek to appease or discipline him" },
+      { "word": "عم", "meaning": "encompassed all, was general and universal" },
+      { "word": "خصصا", "meaning": "particularized, showed special favor to individuals" },
+      { "word": "اختصى", "meaning": "castrated himself (a strong satirical hyperbole)" }
+    ],
+    "context": "A devastating satirical poem (هجاء) addressed to a person named Hamdan. The closing verse — wishing Adam had castrated himself to prevent Hamdan's birth — is among the most extreme examples of Abu Nuwas's caustic satirical wit."
+  },
+  {
+    "id": "abu-nuwas-52",
+    "poetId": "abu-nuwas",
+    "titleAr": "وفي الديوان غزلان",
+    "titleEn": "Gazelles of the Royal Court",
+    "genre": "ghazal",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "وفي الديوان غزلان",
+        "ajuz": "رمت أعينها مرضى"
+      },
+      {
+        "sadr": "ربيبات قصور الخلد ،",
+        "ajuz": "ما إن تعرف الغمضا"
+      },
+      {
+        "sadr": "ولا اعتدن ، لعمر اللـ",
+        "ajuz": "ه ، في الدوية الربضا"
+      },
+      {
+        "sadr": "ولا جانبن ، مذ كن ،",
+        "ajuz": "نعيم العيش ، والخفضا"
+      },
+      {
+        "sadr": "ويرددن عرى الأمر",
+        "ajuz": "إلى أحور مستقضى"
+      },
+      {
+        "sadr": "إمام ، ظالم ، فظ ،",
+        "ajuz": "فما قال به يرضى"
+      },
+      {
+        "sadr": "إذا ما أوتر الموتر منهم عجل النبضا",
+        "ajuz": "وإن أقرض ذا هذا نوالا عجل النبضا"
+      },
+      {
+        "sadr": "ولولا كانت الحيتان",
+        "ajuz": "يأكل بعضها بعضا"
+      },
+      {
+        "sadr": "إذن قد ملأت بالكثر ،",
+        "ajuz": "يا ملمة ، الأرضا"
+      }
+    ],
+    "translationEn": "In the royal chancery are gazelles — their eyes languid with a sickly beauty — bred in the palaces of eternity, knowing no sleeplessness, never accustomed to crouching in the open wastelands, never having left the comforts and ease of life since they came to be. They refer all matters to a glittering-eyed master who has already resolved them — an imam who is tyrannical, harsh, and whose word becomes the accepted ruling. When one of them is agitated, his pulse races; when one lends another a gift, the pulse races as well. Were it not that fish devour each other, O calamity, they would have filled the whole earth with their teeming numbers.",
+    "vocabularyHighlights": [
+      { "word": "الديوان", "meaning": "the royal chancery, administrative court" },
+      { "word": "غزلان", "meaning": "gazelles; used metaphorically for beautiful courtiers" },
+      { "word": "ربيبات", "meaning": "those raised under protection, foster-daughters of palaces" },
+      { "word": "الخلد", "meaning": "eternity, paradise; here used for permanent palace residence" },
+      { "word": "الغمضا", "meaning": "sleeplessness, the inability to close one's eyes" },
+      { "word": "الدوية الربضا", "meaning": "the open desolate wasteland, flat featureless desert" },
+      { "word": "أحور", "meaning": "one with strikingly beautiful eyes, with intensely dark irises" }
+    ],
+    "context": "A complex satirical ghazal targeting effete courtiers at the royal chancery, using the gazelle metaphor ironically. The poem blends erotic imagery, political satire, and a wry observation about the natural order — all fish eat each other — as a commentary on court survival."
+  },
+  {
+    "id": "abu-nuwas-53",
+    "poetId": "abu-nuwas",
+    "titleAr": "يا معرضا نفسي الفداء",
+    "titleEn": "O You Who Turn Away, My Soul Is Your Ransom",
+    "genre": "ghazal",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "يا معرضا نفسي الفداء",
+        "ajuz": "وقل ذلك معرضا"
+      },
+      {
+        "sadr": "أكذا سريعا صار حب",
+        "ajuz": "لك سيدي متنقضا"
+      },
+      {
+        "sadr": "أبغضتني يا سيدي ،",
+        "ajuz": "أفديك حبا مبغضا"
+      },
+      {
+        "sadr": "لا زلت صائم سخطكم",
+        "ajuz": "حتى يفطرني الرضا"
+      },
+      {
+        "sadr": "عجبا لمن لام المحب ،",
+        "ajuz": "أما أحب وأبغضا"
+      },
+      {
+        "sadr": "فيرى سبيلهما لدي",
+        "ajuz": "سبيله ، فيما مضى"
+      },
+      {
+        "sadr": "أو كان خلوا ليس يدري",
+        "ajuz": "ذا وذلك فانقضى ؟ !"
+      },
+      {
+        "sadr": "لي صبوة وله السلو ،",
+        "ajuz": "إذا سهرت وغمضا"
+      }
+    ],
+    "translationEn": "O you who turn away — my soul is your ransom, say that to one who turns away from you in return. Has my love for you, my master, dissolved so quickly? You hate me, my lord, yet I ransom you with a love that is itself hated. I remain as one fasting through your anger, waiting for your contentment to break my fast. How strange is the one who blames the lover — has he not himself both loved and hated? Does he see the path of these two emotions as one already traveled? Or was he simply indifferent, knowing neither, and thus finished? I have yearning while he has forgetfulness — while I stay awake, he sleeps.",
+    "vocabularyHighlights": [
+      { "word": "معرضا", "meaning": "one who turns away, averts his face" },
+      { "word": "نفسي الفداء", "meaning": "my soul is your ransom (expression of extreme devotion)" },
+      { "word": "متنقضا", "meaning": "dissolved, broken apart, unraveled" },
+      { "word": "صائم سخطكم", "meaning": "fasting through your anger (metaphor of patient endurance)" },
+      { "word": "يفطرني الرضا", "meaning": "your contentment will break my fast (beautiful metaphor)" },
+      { "word": "الصبوة", "meaning": "yearning, passionate longing, youthful love-sickness" },
+      { "word": "السلو", "meaning": "forgetfulness, consolation, moving on from grief" }
+    ],
+    "context": "A tender ghazal in which the poet addresses a beloved who has turned away, using the extended metaphor of fasting and breaking fast to describe the pain of estrangement and the hope of reconciliation."
+  },
+  {
+    "id": "abu-nuwas-54",
+    "poetId": "abu-nuwas",
+    "titleAr": "هلا وأنت بماء وجهك تشتهى",
+    "titleEn": "When You Were Beardless Your Beauty Shone",
+    "genre": "ghazal",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "هلا وأنت بماء وجهك تشتهى",
+        "ajuz": "رود الشباب ، قليل شعر العارض"
+      },
+      {
+        "sadr": "فاليوم ، إذ نبتت بوجهك لحية ،",
+        "ajuz": "ذهبت بملحك ، ملء كف القابض"
+      },
+      {
+        "sadr": "مثل السلافة عاد خمر عصيرها ،",
+        "ajuz": "بعد اللذاذة ، خل خمر حامض"
+      }
+    ],
+    "translationEn": "Why did you not yield then, when your face was radiant in the freshness of youth, with barely a hair on your cheeks? Now that a beard has grown upon your face, it has taken away your charm — enough to fill a grasping hand. You are like fine wine that has been left: after all the sweetness, the pressed grape has turned into sharp vinegar.",
+    "vocabularyHighlights": [
+      { "word": "ماء الوجه", "meaning": "the water of the face; its radiance and luster" },
+      { "word": "رود الشباب", "meaning": "the first budding of youth, the onset of adolescence" },
+      { "word": "العارض", "meaning": "the cheek, the side of the face where facial hair first grows" },
+      { "word": "الملح", "meaning": "charm, wit, attractiveness (literally 'salt')" },
+      { "word": "السلافة", "meaning": "the finest first-pressed wine" },
+      { "word": "خل خمر", "meaning": "wine vinegar, sour vinegar made from wine" }
+    ],
+    "context": "A brief ghazal lamenting the end of youthful beauty with the growth of the beard. The wine-turned-vinegar simile is a classic literary image that Abu Nuwas deploys with characteristic economy and precision."
+  },
+  {
+    "id": "abu-nuwas-55",
+    "poetId": "abu-nuwas",
+    "titleAr": "ذهب المح وأبقى الدهر غرقيئا",
+    "titleEn": "The Yolk Is Gone and Only the Membrane Remains",
+    "genre": "ghazal",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "ذهب المح ، وأبقى ال",
+        "ajuz": "دهر غرقيئا وقيضا"
+      },
+      {
+        "sadr": "لن يعود العرف ، أو تر",
+        "ajuz": "خم تحت الفيل بيضا"
+      },
+      {
+        "sadr": "فلعل الله أن يف",
+        "ajuz": "جر للمعروف حوضا"
+      }
+    ],
+    "translationEn": "The yolk has gone, and time has left nothing but the membrane and the empty shell. Goodness and kindness will not return until a chick hatches from under an elephant's egg — a thing that cannot be. Yet perhaps God will open up a basin of generosity and good deeds anew.",
+    "vocabularyHighlights": [
+      { "word": "المح", "meaning": "the egg yolk; metaphor for the best and richest part" },
+      { "word": "الغرقيء", "meaning": "the thin membrane inside an eggshell" },
+      { "word": "القيض", "meaning": "the empty eggshell after the chick has hatched" },
+      { "word": "العرف", "meaning": "goodness, kindness, generosity" },
+      { "word": "ترخم", "meaning": "hatches, emerges (from the egg)" },
+      { "word": "حوضا", "meaning": "a basin, a reservoir (of generosity)" }
+    ],
+    "context": "A three-verse poem of resigned despair about the disappearance of generosity and goodness in the poet's world, expressed through a striking egg metaphor. The final verse pivots to a quiet hope in God's ability to restore what has been lost."
+  },
+  {
+    "id": "abu-nuwas-56",
+    "poetId": "abu-nuwas",
+    "titleAr": "يا مريضا زاد قلبي مرضا",
+    "titleEn": "O Beloved Whose Illness Worsened My Heart",
+    "genre": "ghazal",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "يا مريضا زاد قلبي مرضا ،",
+        "ajuz": "وبرغمي كان ذا لا بالرضا"
+      },
+      {
+        "sadr": "صرف الرحمن لي عنك الأذى ،",
+        "ajuz": "وبنفسي قيد أسواء القضا"
+      },
+      {
+        "sadr": "ما يريد الدهر مني ويحه !",
+        "ajuz": "ما أمنت الدهر حتى اعترضا"
+      }
+    ],
+    "translationEn": "O beloved who is ill — your illness has increased the sickness of my heart, and this was done against my will, not by my consent. May the Most Merciful turn harm away from you and onto me; let my own soul be the captive that bears the worst of fate's decrees. What does relentless time want from me, curse it — I had barely stopped fearing time before it rose to intercept me again.",
+    "vocabularyHighlights": [
+      { "word": "برغمي", "meaning": "against my will, in spite of me" },
+      { "word": "صرف", "meaning": "turned away, deflected, averted" },
+      { "word": "بنفسي قيد", "meaning": "with my soul as a hostage or shackle" },
+      { "word": "أسواء القضا", "meaning": "the worst of what fate decrees" },
+      { "word": "ويحه", "meaning": "curse it, woe to it (exclamation of distress)" },
+      { "word": "اعترضا", "meaning": "stood in the way, intercepted, rose against" }
+    ],
+    "context": "A brief but emotionally dense ghazal addressed to a sick beloved, where the poet offers himself as a substitute for the beloved's suffering. The final verse widens the lens to a lament about the cruelty of fate in general."
+  },
+  {
+    "id": "abu-nuwas-57",
+    "poetId": "abu-nuwas",
+    "titleAr": "يا من حوى الحسن محضا",
+    "titleEn": "O You Who Embody Pure Beauty",
+    "genre": "ghazal",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "يا من حوى الحسن محضا",
+        "ajuz": "واهتز كالغصن غضا"
+      },
+      {
+        "sadr": "لو أسخطتك حياتي",
+        "ajuz": "قتلت نفسي ، لترضى"
+      }
+    ],
+    "translationEn": "O you who embody pure and unmixed beauty, who sway like a fresh and supple branch — if my life were to make you angry, I would kill myself just to earn your contentment.",
+    "vocabularyHighlights": [
+      { "word": "حوى", "meaning": "gathered, contained, embodied in full" },
+      { "word": "محضا", "meaning": "purely, unmixed, unadulterated" },
+      { "word": "اهتز", "meaning": "swayed, quivered, moved gracefully" },
+      { "word": "غضا", "meaning": "fresh and supple, newly grown (of a branch)" },
+      { "word": "أسخطتك", "meaning": "made you angry, provoked your wrath" },
+      { "word": "لترضى", "meaning": "so that you might be pleased, to earn your contentment" }
+    ],
+    "context": "A two-verse love epigram of extreme devotion. The hyperbolic willingness to die for the beloved's contentment is a conventional ghazal motif, expressed here with characteristic Abu Nuwas economy — all meaning compressed into two verses."
+  },
+  {
+    "id": "abu-nuwas-58",
+    "poetId": "abu-nuwas",
+    "titleAr": "اترك التقصير في الشرب",
+    "titleEn": "Drink Without Restraint, God Forgives",
+    "genre": "khamriyyat",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "اترك التقصير في الشر",
+        "ajuz": "ب ، وخذها بنشاط"
+      },
+      {
+        "sadr": "من كميت ككسنى البر",
+        "ajuz": "ق ، أضاءت في البواطي"
+      },
+      {
+        "sadr": "لم ، وعفو الله مبذو",
+        "ajuz": "ل غدا عند الصراط"
+      },
+      {
+        "sadr": "خلق الغفران إلا",
+        "ajuz": "لامرئ في الناس خاطي"
+      }
+    ],
+    "translationEn": "Abandon restraint in drinking, and take the cup with eagerness — drink from the chestnut-brown wine that flashes like a Persian lightning bolt, glowing inside the large drinking vessels. Do not hold back, for God's forgiveness will be freely dispensed tomorrow at the Bridge of the Straight Path. Forgiveness was created for none other than the sinning human being.",
+    "vocabularyHighlights": [
+      { "word": "التقصير", "meaning": "falling short, holding back, restraining oneself" },
+      { "word": "كميت", "meaning": "chestnut-brown, dark reddish-brown (of wine)" },
+      { "word": "كسنى", "meaning": "like the lightning of Persia (poetic expression for brilliant flash)" },
+      { "word": "البواطي", "meaning": "large drinking bowls, wide wine cups" },
+      { "word": "الصراط", "meaning": "the Bridge (on the Day of Judgment in Islamic eschatology)" },
+      { "word": "خاطي", "meaning": "a sinner, one who transgresses" }
+    ],
+    "context": "A characteristic Abu Nuwas khamriyyah that audaciously uses Islamic eschatological concepts — God's forgiveness at the Sirat bridge — to justify drinking. This theological playfulness is one of his most controversial and distinctive rhetorical moves."
+  },
+  {
+    "id": "abu-nuwas-59",
+    "poetId": "abu-nuwas",
+    "titleAr": "كسر الحب نشاطي",
+    "titleEn": "Love Broke My Vitality",
+    "genre": "ghazal",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "كسر الحب نشاطي ،",
+        "ajuz": "ولقد كنت نشيطا"
+      },
+      {
+        "sadr": "جاءني عنه كلام",
+        "ajuz": "زادني فيه قنوطا"
+      },
+      {
+        "sadr": "واضياعاه ! أمثلي",
+        "ajuz": "يرتجى منه خليطا"
+      },
+      {
+        "sadr": "قلت لا أقرب إلا",
+        "ajuz": "آل عمرو أو لقيطا"
+      },
+      {
+        "sadr": "كم رأينا عربيا",
+        "ajuz": "ت يواصلن نبيطا"
+      },
+      {
+        "sadr": "لو أردت الوصل لم تج",
+        "ajuz": "لب من الخفر شروطا"
+      }
+    ],
+    "translationEn": "Love has broken the poet's vitality — and he had been full of energy. A message reached him about the beloved that increased his despair. He cries out in loss: is someone like him expected to find a companion among mixed company? He resolves to associate only with the family of Amr or with Luqayt. He observes how many Arab women have maintained intimate relationships with Nabataean men. Had the beloved wanted union, the poet says, they would not have extracted such conditions of modesty.",
+    "vocabularyHighlights": [
+      { "word": "نشاط", "meaning": "vitality, energy, enthusiasm" },
+      { "word": "قنوطا", "meaning": "despair, hopelessness, despondency" },
+      { "word": "خليطا", "meaning": "a mixed companion, one of mixed origin" },
+      { "word": "النبيط", "meaning": "the Nabataeans, non-Arab rural inhabitants of Iraq" },
+      { "word": "الوصل", "meaning": "union, connection, intimacy with the beloved" },
+      { "word": "الخفر", "meaning": "shyness, bashfulness, modest reserve" }
+    ],
+    "context": "A ghazal of frustrated love that takes an unexpected turn into social commentary on inter-ethnic relationships in Abbasid Iraq, using the Nabataeans as a foil to argue that tribal and ethnic pride is no obstacle to love when the desire is genuine."
+  },
+  {
+    "id": "abu-nuwas-60",
+    "poetId": "abu-nuwas",
+    "titleAr": "بديع الخلق موفور الخطوط",
+    "titleEn": "A Beautiful Youth by the Nile",
+    "genre": "khamriyyat",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "بديع الخلق ، موفور الخطوط ،",
+        "ajuz": "لطيف الخصر كالفرس الربيط"
+      },
+      {
+        "sadr": "أبوه من أكابر قبط مصر ،",
+        "ajuz": "تسامى عن مناسبة النبيط"
+      },
+      {
+        "sadr": "سقاني صفو ماء النيل وهنا ،",
+        "ajuz": "براح من كروم قرى سيوط"
+      },
+      {
+        "sadr": "لها حالان من طعم وريح ،",
+        "ajuz": "ولون في الزجاجة كالسليط"
+      },
+      {
+        "sadr": "خلوت به أنازعه شمولا ،",
+        "ajuz": "وأنشده من البحر البسيط"
+      }
+    ],
+    "translationEn": "A youth of wondrous creation, full in his features, slender at the waist like a tethered mare — his father is from the great Copts of Egypt, a lineage far above the Nabataeans. He gave the poet the clear water of the Nile to drink at ease, along with an expansive wine from the vineyards of the villages of Asyut — wine with two qualities of taste and scent, and a color in the glass like sesame oil. They were alone together: the poet contending with him over the wine cup and reciting to him poems in the Basit meter.",
+    "vocabularyHighlights": [
+      { "word": "بديع الخلق", "meaning": "of wondrous creation, marvelously formed" },
+      { "word": "موفور الخطوط", "meaning": "full in his facial lines and features" },
+      { "word": "الربيط", "meaning": "tethered, a tethered horse (implying slender, controlled grace)" },
+      { "word": "القبط", "meaning": "Copts, the indigenous Christian inhabitants of Egypt" },
+      { "word": "براح", "meaning": "a wide, expansive wine; also pure wine" },
+      { "word": "السليط", "meaning": "sesame oil (used to describe the wine's golden color)" },
+      { "word": "شمولا", "meaning": "wine (specifically wine drunk communally, a type)" }
+    ],
+    "context": "A khamriyyah set in Egypt, combining the poet's praise of a Coptic youth with a description of Egyptian wine from the vineyards of Asyut. The poem reflects Abu Nuwas's travels and his characteristic interweaving of erotic admiration with wine description."
+  },
+  {
+    "id": "abu-nuwas-61",
+    "poetId": "abu-nuwas",
+    "titleAr": "تبدلت انكسار بالنشاط",
+    "titleEn": "I Traded Vitality for Brokenness Through Love",
+    "genre": "ghazal",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "تبدلت انكسار بالنشاط ،",
+        "ajuz": "وشد الحب بالبلوى رباطي"
+      },
+      {
+        "sadr": "ولولا أنني أسطو بصبر",
+        "ajuz": "على قلبي لبان من النياط"
+      },
+      {
+        "sadr": "وأنوك قال : لو أقصرت عنه !",
+        "ajuz": "فقلت له : اللقاء على الصراط"
+      },
+      {
+        "sadr": "فلولا أنه ، إذ لام فيه ،",
+        "ajuz": "تحرم بالجلوس على بساطي"
+      },
+      {
+        "sadr": "فعلت له بما آتيه عقلا ،",
+        "ajuz": "ليعذر في هوى الحور العواطي"
+      },
+      {
+        "sadr": "لعيبك لي ؛ وقولك خل عنه ،",
+        "ajuz": "أشد علي من وقع السياط"
+      }
+    ],
+    "translationEn": "The poet has exchanged vitality for brokenness, and love has bound him with affliction's ropes. Were it not that he wields patience over his heart, it would burst from its sinews. A fool told him: 'If only you would stop!' The poet replied: 'Our meeting will be on the Bridge of Judgment.' Had the fool not made himself a guest on his carpet when he rebuked him, the poet would have shown him reason enough to excuse those who fall for the passion of full-figured houris. Your blame of me, and your saying 'leave him' — these fall harder on me than the lash of whips.",
+    "vocabularyHighlights": [
+      { "word": "انكسار", "meaning": "brokenness, a fracturing of spirit and vitality" },
+      { "word": "النياط", "meaning": "the sinews attaching the heart, the pericardium" },
+      { "word": "أنوك", "meaning": "a fool, a stupid person (strong insult)" },
+      { "word": "الصراط", "meaning": "the Bridge over Hell (on the Day of Judgment)" },
+      { "word": "الحور العواطي", "meaning": "the full-figured houris, the women of paradise with full shapes" },
+      { "word": "السياط", "meaning": "whips, lashes (plural of سوط)" }
+    ],
+    "context": "A ghazal of stubborn passion, where Abu Nuwas dismisses the reproacher's counsel with characteristic defiance, using an eschatological metaphor — 'we'll meet on the Bridge of Judgment' — to underscore his unyielding attachment to his beloved."
+  },
+  {
+    "id": "abu-nuwas-62",
+    "poetId": "abu-nuwas",
+    "titleAr": "تفري إذا كان الجراء عبطا",
+    "titleEn": "The Hunting Dog Tears Through Fresh Prey",
+    "genre": "madih",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "تفري ، إذا كان الجراء عبطا ،",
+        "ajuz": "براثنا سحم الأثافي ملطا"
+      },
+      {
+        "sadr": "ينشط أذنيه به نشطا ،",
+        "ajuz": "تخال مأزمين منه شرطا"
+      },
+      {
+        "sadr": "كانما يعجلن شيئا لقطا ،",
+        "ajuz": "أسرع من قول قطاة قطا"
+      },
+      {
+        "sadr": "يكتال خزان الصحاري الرقطا",
+        "ajuz": "يلقين منه حاكما مشتطا"
+      },
+      {
+        "sadr": "للعظم حطما ، والأديم عبطا",
+        "ajuz": "فري الصناع سابرا وقبطا"
+      },
+      {
+        "sadr": "إذا النجيع بالغبار اشمطا",
+        "ajuz": "فالحمد لله على ما أعطى !"
+      }
+    ],
+    "translationEn": "The hunting dog tears through the prey when the quarry is fresh — with claws dark as the soot of cooking stones smeared with grease. It pricks up its ears in alertness, so that the two hollows of its skull resemble parallel slits. The hounds rush like something snatched up instantly, faster than a sandgrouse can cry its name. They prey upon the spotted desert gazelles, meeting from this dog an inescapably harsh judge — shattering bones and tearing fresh hides like craftsmen cutting fine cloth, when blood mingled with dust turns grey-white. Praise be to God for what He has bestowed!",
+    "vocabularyHighlights": [
+      { "word": "تفري", "meaning": "tears apart, rips through" },
+      { "word": "عبطا", "meaning": "fresh, recently slaughtered; untouched prey" },
+      { "word": "براثنا", "meaning": "with its claws (plural of برثن)" },
+      { "word": "الأثافي", "meaning": "the three cooking stones of a hearth" },
+      { "word": "ملطا", "meaning": "smeared, covered in grease or soot" },
+      { "word": "قطاة قطا", "meaning": "the sandgrouse's cry of its own name (قطا); a proverbial expression of speed)" },
+      { "word": "النجيع", "meaning": "blood, especially fresh blood of game" }
+    ],
+    "context": "A hunting poem (طرد) describing a dog's ferocious hunting prowess in vivid, technical detail. Abu Nuwas closes with a pious praise of God for the gift of such a hunting companion, a conventional closing move that frames the secular hunt within a devotional frame."
+  },
+  {
+    "id": "abu-nuwas-63",
+    "poetId": "abu-nuwas",
+    "titleAr": "أعددت كلبا للطراد فظا",
+    "titleEn": "A Fierce Dog Prepared for the Hunt",
+    "genre": "madih",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "أعددت كلبا للطراد فظا ،",
+        "ajuz": "إذا غدا من نهم تلظا !"
+      },
+      {
+        "sadr": "وجاذب المقود واستلظا ،",
+        "ajuz": "كأن شيطانا له ألظا"
+      },
+      {
+        "sadr": "يكظ أسراب الظباء كظا ،",
+        "ajuz": "حتى تراها فرقا تشظى"
+      },
+      {
+        "sadr": "يحوز منه كل يوم حظا",
+        "ajuz": "حتى ترى نجيعها مفتظا"
+      }
+    ],
+    "translationEn": "The poet has prepared a fierce dog for the chase — when it sets out in the morning from hunger it blazes with intensity. It pulls at the leash and insists stubbornly, as though a devil has been set upon it to urge it on. It presses flock after flock of gazelles relentlessly until you see them shattering apart in terror. Every day it wins its share of the hunt until you see the blood of the prey pooling and spreading.",
+    "vocabularyHighlights": [
+      { "word": "الطراد", "meaning": "the pursuit hunt, chasing game on horseback or by dogs" },
+      { "word": "فظا", "meaning": "fierce, harsh, rough in temperament" },
+      { "word": "نهم", "meaning": "gluttony, intense hunger, greed for food" },
+      { "word": "تلظا", "meaning": "blazed, burned, flamed (with intensity or hunger)" },
+      { "word": "استلظا", "meaning": "persisted stubbornly, clung tenaciously" },
+      { "word": "يكظ", "meaning": "presses hard upon, pursues relentlessly" },
+      { "word": "مفتظا", "meaning": "spread out, pooled, pressed onto the ground" }
+    ],
+    "context": "A compact six-verse hunting poem (طرد) describing a hunting dog's ferocious energy from the moment it is unleashed through its successful daily hunt. The demonic simile — 'as though a devil has been set upon it' — vividly captures the dog's uncontrollable drive."
+  },
+  {
+    "id": "abu-nuwas-64",
+    "poetId": "abu-nuwas",
+    "titleAr": "ما مثل هذا اليوم في طيبه",
+    "titleEn": "No Day Finer Than This for Wine",
+    "genre": "khamriyyat",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "ما مثل هذا اليوم في طيبه",
+        "ajuz": "عطل من لهو ، ولا ضيعا"
+      },
+      {
+        "sadr": "فما ترى فيه ؟ وماذا الذي",
+        "ajuz": "تحب في ذا اليوم أن نصنعا ؟ !"
+      },
+      {
+        "sadr": "هل لك أن تغدو على قهوة",
+        "ajuz": "تسرع في المرء ، إذا أسرعا"
+      },
+      {
+        "sadr": "ما وجد الناس ، ولا جربوا ،",
+        "ajuz": "للهم شيئا مثلها مدفعا"
+      }
+    ],
+    "translationEn": "No day is as fine as this in its sweetness — it has not been wasted without amusement nor spent idly. What do you think of it? What would you like us to do on this day? How about starting the morning with a cup of coffee-like wine that courses quickly through a man when he downs it quickly? People have never found, nor have they ever experienced, anything that drives away sorrow as effectively as it does.",
+    "vocabularyHighlights": [
+      { "word": "طيبه", "meaning": "its goodness, its pleasantness, its fine quality" },
+      { "word": "عطل", "meaning": "spent without use, left idle, wasted" },
+      { "word": "قهوة", "meaning": "wine (an early meaning of قهوة before it came to mean coffee)" },
+      { "word": "تسرع", "meaning": "moves quickly through, acts swiftly within" },
+      { "word": "الهم", "meaning": "grief, worry, sorrow" },
+      { "word": "مدفعا", "meaning": "that which drives away, a repellent of sorrow" }
+    ],
+    "context": "A convivial invitation poem that captures a perfect day and invites a companion to spend it drinking. Notable for its use of قهوة in its original sense of wine — long before the word came to denote coffee in Arabic."
+  },
+  {
+    "id": "abu-nuwas-65",
+    "poetId": "abu-nuwas",
+    "titleAr": "أعاذل بعت الجهل حيث يباع",
+    "titleEn": "I Have Abandoned Folly on the Caliph's Command",
+    "genre": "khamriyyat",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "أعاذل ! بعت الجهل حيث يباع ،",
+        "ajuz": "وأبرزت راسي ما عليه قناع"
+      },
+      {
+        "sadr": "نهاني أمير المؤمنين عن الصبا ،",
+        "ajuz": "وأمر أمير المؤمنين مطاع"
+      },
+      {
+        "sadr": "ولهو لتأنيب الإمام تركته ،",
+        "ajuz": "وفيه للاه منظر وسماع"
+      },
+      {
+        "sadr": "وريان من ماء الشباب كأنما",
+        "ajuz": "يظمأ من ضمر الحشا ، ويجاع"
+      },
+      {
+        "sadr": "قصرت عليه النفس دون مدامة ،",
+        "ajuz": "هي اليوم حرب ، وهي أمس شياع"
+      }
+    ],
+    "translationEn": "O reproacher, I have sold off my foolishness in the market where it is traded, and bared my head with nothing left to veil it. The Commander of the Faithful has forbidden me from youthful abandon, and the Commander of the Faithful's command is to be obeyed. A pleasure I have abandoned out of the Imam's reproof — though it held for the pleasure-seeker both spectacle and sound. He who is saturated with the water of youth seems to thirst and hunger from the tightening of his belly. I have restricted my soul from wine — which today is forbidden, though yesterday it was freely shared.",
+    "vocabularyHighlights": [
+      { "word": "العاذل", "meaning": "the reproacher, the one who blames and rebukes" },
+      { "word": "الصبا", "meaning": "youthful folly, the frivolity of youth" },
+      { "word": "مطاع", "meaning": "one whose command is obeyed, a followed authority" },
+      { "word": "تأنيب الإمام", "meaning": "the rebuke of the Imam/Caliph" },
+      { "word": "ضمر الحشا", "meaning": "the tightening and thinning of the belly (from abstinence)" },
+      { "word": "المدامة", "meaning": "wine, especially wine drunk continuously" },
+      { "word": "شياع", "meaning": "freely shared, spread widely, open to all" }
+    ],
+    "context": "A poem of ostensible repentance and compliance with the Caliph's prohibition on the poet's wine-drinking and youthful behavior. The ambiguous, almost ironic tone — describing the pleasures he 'gave up' in loving detail — leaves open whether Abu Nuwas is sincere or merely performing compliance."
+  }
+]

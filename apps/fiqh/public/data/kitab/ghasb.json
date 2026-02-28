@@ -1,0 +1,97 @@
+{
+  "id": "ghasb",
+  "titleAr": "كتاب الغصب",
+  "titleEn": "Usurpation",
+  "order": 20,
+  "categoryId": "muamalat",
+  "pageRange": [
+    119,
+    120
+  ],
+  "abwab": [
+    {
+      "id": "ghasb-main",
+      "kitabId": "ghasb",
+      "titleAr": "كتاب الغصب",
+      "titleEn": "Usurpation",
+      "order": 1,
+      "sections": [
+        {
+          "id": "ghasb-main-1-1",
+          "babId": "ghasb-main",
+          "kitabId": "ghasb",
+          "titleAr": "كتاب الغصب",
+          "titleEn": "Usurpation",
+          "order": 1,
+          "textAr": "ومن غصب شيئا مما له مثل فهلك في يده فعليه ضمان مثله وإن كان مما لا مثل له فعليه قيمته يوم الغصب\n\nوعلى الغاصب رد العين المغصوبة فإن ادعى هلاكها حبسه الحاكم حتى يعلم أنها لو كانت باقية لأظهرها ثم قضى عليه ببدلها\n\nوالغصب فيما ينقل ويحول وإذا غصب عقارا فهلك في يده لم يضمنه عند أبي حنيفة وأبي يوسف وقال محمد: يضمنه كهدمه وما نقص منه بفعله وسكناه ضمنه في قولهم جميعا\n\nوإذا هلك المغصوب في يد الغاصب بفعله أو بغير فعله فعليه ضمانه\n\nوإن نقص في يده فعليه ضمان النقصان\n\nومن ذبح شاة غيره فمالكها بالخيار: إن شاء ضمنه قيمتها وسلمها إليه وإن شاء ضمنه نقصانها ومن خرق ثوب غيره خرقا يسيرا ضمن نقصانه وإن خرقه خرقا كثيرا يبطل عامة منفعته فلمالكه أن يضمنه جميع قيمته\n\nوإذا تغيرت العين المغصوبة بفعل الغاصب",
+          "sourcePage": 119,
+          "masail": [
+            {
+              "id": "masalah-ghasb-main-1-1",
+              "sectionId": "ghasb-main-1-1",
+              "kitabId": "ghasb",
+              "titleAr": "كتاب الغصب",
+              "titleEn": "Usurpation",
+              "rulingAr": "ومن غصب شيئا مما له مثل فهلك في يده فعليه ضمان مثله وإن كان مما لا مثل له فعليه قيمته يوم الغصب\n\nوعلى الغاصب رد العين المغصوبة فإن ادعى هلاكها حبسه الحاكم حتى يعلم أنها لو كانت باقية لأظهرها ثم قضى عليه ببدلها\n\nوالغصب فيما ينقل ويحول وإذا غصب عقارا فهلك في يده لم يضمنه عند أبي حنيفة وأبي يوسف وقال محمد: يضمنه كهدمه وما نقص منه بفعله وسكناه ضمنه في قولهم جميعا\n\nوإذا هلك المغصوب في يد الغاصب بفعله أو بغير فعله فعليه ضمانه\n\nوإن نقص في يده فعليه ضمان النقصان\n\nومن ذبح شاة غيره فمالكها بالخيار: إن شاء ضمنه قيمتها وسلمها إليه وإن شاء ضمنه نقصانها ومن خرق ثوب غيره خرقا يسيرا ضمن نقصانه وإن خرقه خرقا كثيرا يبطل عامة منفعته فلمالكه أن يضمنه جميع قيمته\n\nوإذا تغيرت العين المغصوبة بفعل الغاصب",
+              "rulingEn": "Whoever usurps something that has a like (fungible) and it perishes in his hands, he is liable for its like. If it is something without a like, he is liable for its value on the day of usurpation.\n\nThe usurper must return the usurped item. If he claims it has perished, the judge imprisons him until it becomes apparent that if it were still extant, he would have produced it. Then the judge rules against him for its substitute.\n\nUsurpation applies to what is movable. If someone usurps real property and it perishes in his hands, he is not liable for it according to Abu Hanifa and Abu Yusuf. Muhammad said: he is liable. As for its demolition, what decreases from it by his action, and his residing in it -- he is liable for all of this according to all of them.\n\nIf the usurped item perishes in the usurper's hands by his act or without his act, he is liable for it.\n\nIf it decreases in his hands, he is liable for the decrease.\n\nIf someone slaughters another's sheep, the owner has the option: if he wishes, he may hold the usurper liable for its value and surrender it to him; and if he wishes, he may hold him liable for the decrease. If someone tears another's cloth with a small tear, he is liable for the decrease. If he tears it with a large tear that destroys most of its utility, the owner may hold him liable for the full value.\n\nIf the usurped item is altered by the usurper's act,",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "Whoever usurps something that has a like (fungible) and it perishes in his hands, he is liable for its like. If it is something without a like, he is liable for its value on the day of usurpation.\n\nThe usurper must return the usurped item. If he claims it has perished, the judge imprisons him until it becomes apparent that if it were still extant, he would have produced it. Then the judge rules against him for its substitute.\n\nUsurpation applies to what is movable. If someone usurps real property and it perishes in his hands, he is not liable for it according to Abu Hanifa and Abu Yusuf. Muhammad said: he is liable. As for its demolition, what decreases from it by his action, and his residing in it -- he is liable for all of this according to all of them.\n\nIf the usurped item perishes in the usurper's hands by his act or without his act, he is liable for it.\n\nIf it decreases in his hands, he is liable for the decrease.\n\nIf someone slaughters another's sheep, the owner has the option: if he wishes, he may hold the usurper liable for its value and surrender it to him; and if he wishes, he may hold him liable for the decrease. If someone tears another's cloth with a small tear, he is liable for the decrease. If he tears it with a large tear that destroys most of its utility, the owner may hold him liable for the full value.\n\nIf the usurped item is altered by the usurper's act,"
+        },
+        {
+          "id": "ghasb-main-1-2",
+          "babId": "ghasb-main",
+          "kitabId": "ghasb",
+          "titleAr": "كتاب الغصب",
+          "titleEn": "Usurpation",
+          "order": 2,
+          "textAr": "حتى زال اسمها وأعظم منافعها زال ملك المغصوب منه عنها وملكها الغاصب وضمنها ولم يحل له الانتفاع بها حتى يؤدي بدلها وهذا كمن غصب شاة فذبحها وشواها أو طبخها أو غصب حنطة فطحنها أو حديدا فاتخذه سيفا أو صفرا فعلمه آنية\n\nوإن غصب فضة أو ذهبا فضربها دنانير أو دراهم أو\n\nدنانير أو آنية لم يزل ملك مالكها عنها عند أبي حنيفة ومن غصب ساجة فبنى عليها زال ملك مالكها عنها ولزم الغاصب قيمتها\n\nومن غصب أرضا فغرس فيها أو بنى قيل له: اقلع الغرس والبناء وردها فارغة فإن كانت الأرض تنقص بقلع ذلك فللمالك أن يضمن له قيمة البناء والغرس مقلوعا فيكون له\n\nومن غصب ثوبا فصبغه أحمر أو سويقا فلته بسمن فصاحبه بالخيار: إن شاء ضمنه قيمة ثوبه أبيض ومثل السويق وسلمها للغاصب وإن شاء أخذهما وضمن ما زاد الصبغ والسمن فيهما",
+          "sourcePage": 119,
+          "masail": [
+            {
+              "id": "masalah-ghasb-main-1-2",
+              "sectionId": "ghasb-main-1-2",
+              "kitabId": "ghasb",
+              "titleAr": "كتاب الغصب",
+              "titleEn": "Usurpation",
+              "rulingAr": "حتى زال اسمها وأعظم منافعها زال ملك المغصوب منه عنها وملكها الغاصب وضمنها ولم يحل له الانتفاع بها حتى يؤدي بدلها وهذا كمن غصب شاة فذبحها وشواها أو طبخها أو غصب حنطة فطحنها أو حديدا فاتخذه سيفا أو صفرا فعلمه آنية\n\nوإن غصب فضة أو ذهبا فضربها دنانير أو دراهم أو\n\nدنانير أو آنية لم يزل ملك مالكها عنها عند أبي حنيفة ومن غصب ساجة فبنى عليها زال ملك مالكها عنها ولزم الغاصب قيمتها\n\nومن غصب أرضا فغرس فيها أو بنى قيل له: اقلع الغرس والبناء وردها فارغة فإن كانت الأرض تنقص بقلع ذلك فللمالك أن يضمن له قيمة البناء والغرس مقلوعا فيكون له\n\nومن غصب ثوبا فصبغه أحمر أو سويقا فلته بسمن فصاحبه بالخيار: إن شاء ضمنه قيمة ثوبه أبيض ومثل السويق وسلمها للغاصب وإن شاء أخذهما وضمن ما زاد الصبغ والسمن فيهما",
+              "rulingEn": "such that its name and most of its benefits have changed, the owner's ownership ceases and the usurper acquires ownership and is liable for its value. However, the usurper may not benefit from it until he pays its substitute. This applies to one who usurps a sheep and slaughters, roasts, or cooks it; or usurps wheat and grinds it; or usurps iron and fashions it into a sword; or usurps copper and fashions it into a vessel.\n\nIf someone usurps silver or gold and mints it into dinars, dirhams,\n\nor vessels, the owner's ownership does not cease according to Abu Hanifa. If someone usurps a beam and builds upon it, the owner's ownership ceases and the usurper owes its value.\n\nIf someone usurps land and plants or builds on it, he is told: uproot the planting and the building and return the land vacant. If the land would be damaged by the uprooting, the owner may pay him the value of the building and planting uprooted, and then own them.\n\nIf someone usurps a cloth and dyes it red, or meal and mixes it with ghee, the owner has the option: if he wishes, he may hold the usurper liable for the value of his cloth undyed and the like of the meal, and surrender them to the usurper. If he wishes, he may take them and compensate the usurper for the increase added by the dye and ghee.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "such that its name and most of its benefits have changed, the owner's ownership ceases and the usurper acquires ownership and is liable for its value. However, the usurper may not benefit from it until he pays its substitute. This applies to one who usurps a sheep and slaughters, roasts, or cooks it; or usurps wheat and grinds it; or usurps iron and fashions it into a sword; or usurps copper and fashions it into a vessel.\n\nIf someone usurps silver or gold and mints it into dinars, dirhams,\n\nor vessels, the owner's ownership does not cease according to Abu Hanifa. If someone usurps a beam and builds upon it, the owner's ownership ceases and the usurper owes its value.\n\nIf someone usurps land and plants or builds on it, he is told: uproot the planting and the building and return the land vacant. If the land would be damaged by the uprooting, the owner may pay him the value of the building and planting uprooted, and then own them.\n\nIf someone usurps a cloth and dyes it red, or meal and mixes it with ghee, the owner has the option: if he wishes, he may hold the usurper liable for the value of his cloth undyed and the like of the meal, and surrender them to the usurper. If he wishes, he may take them and compensate the usurper for the increase added by the dye and ghee."
+        },
+        {
+          "id": "ghasb-main-1-3",
+          "babId": "ghasb-main",
+          "kitabId": "ghasb",
+          "titleAr": "كتاب الغصب",
+          "titleEn": "Usurpation",
+          "order": 3,
+          "textAr": "ومن غصب عينا فغيبها فضمنه المالك قيمتها ملكها الغاصب والقول في القيمة قول الغاصب مع يمينه إلا أن يقيم المالك البينة بأكثر من ذلك فإن ظهرت العين وقيمتها أكثر مما ضمن وقد ضمنها بقول المالك أو ببينة أقامها أو بنكول الغاصب عن اليمين فلا خيار للمالك وإن كان ضمنها بقول الغاصب مع يمينه فالمالك بالخيار: إن شاء أمضى الضمان وإن شاء أخذ العين ورد العوض\n\nوولد المغصوبة ونماؤها وثمرة البستان المغصوب أمانة في يد الغاصب فإن هلك فلا ضمان عليه إلا أن يتعدى فيها أو يطلبها مالكها فيمنعها إياه\n\nوما نقصت الجارية بالولادة في ضمان الغاصب فإن كان في قيمة الولد وفاء به خير النقصان بالولد وسقط ضمانه عن الغاصب ولا يضمن الغاصب منافع ما غصبه إلا أن بنقص باستعماله فيغرم النقصان\n\nوإذا استهلك المسلم خمر الذمي أو خنزيره ضمن قيمتهما وإن استهلكهما المسلم على المسلم لم يضمن",
+          "sourcePage": 119,
+          "masail": [
+            {
+              "id": "masalah-ghasb-main-1-3",
+              "sectionId": "ghasb-main-1-3",
+              "kitabId": "ghasb",
+              "titleAr": "كتاب الغصب",
+              "titleEn": "Usurpation",
+              "rulingAr": "ومن غصب عينا فغيبها فضمنه المالك قيمتها ملكها الغاصب والقول في القيمة قول الغاصب مع يمينه إلا أن يقيم المالك البينة بأكثر من ذلك فإن ظهرت العين وقيمتها أكثر مما ضمن وقد ضمنها بقول المالك أو ببينة أقامها أو بنكول الغاصب عن اليمين فلا خيار للمالك وإن كان ضمنها بقول الغاصب مع يمينه فالمالك بالخيار: إن شاء أمضى الضمان وإن شاء أخذ العين ورد العوض\n\nوولد المغصوبة ونماؤها وثمرة البستان المغصوب أمانة في يد الغاصب فإن هلك فلا ضمان عليه إلا أن يتعدى فيها أو يطلبها مالكها فيمنعها إياه\n\nوما نقصت الجارية بالولادة في ضمان الغاصب فإن كان في قيمة الولد وفاء به خير النقصان بالولد وسقط ضمانه عن الغاصب ولا يضمن الغاصب منافع ما غصبه إلا أن بنقص باستعماله فيغرم النقصان\n\nوإذا استهلك المسلم خمر الذمي أو خنزيره ضمن قيمتهما وإن استهلكهما المسلم على المسلم لم يضمن",
+              "rulingEn": "If someone usurps an item and conceals it, and the owner holds him liable for its value, the usurper acquires ownership of it. The determination of value is upon the usurper's word with his oath, unless the owner establishes evidence of a greater amount. If the item reappears and its value is greater than the compensation paid: if the compensation was determined by the owner's statement, or by evidence he produced, or by the usurper's refusal to swear, the owner has no option. If the compensation was determined by the usurper's statement with his oath, the owner has the option: if he wishes, he may affirm the compensation; and if he wishes, he may take back the item and return the compensation.\n\nThe offspring of the usurped item, its growth, and the fruit of a usurped garden are a trust in the usurper's hands. If they perish, there is no liability upon him unless he transgresses with them or the owner demands them and the usurper withholds them.\n\nWhat the slave-girl loses in value due to childbirth is the usurper's liability. If the value of the child suffices to cover the decrease, the decrease is offset by the child and the usurper is discharged. The usurper is not liable for the benefits of what he usurps, unless its value decreases by use, in which case he pays for the decrease.\n\nIf a Muslim destroys a dhimmi's wine or his pig, he is liable for their value. If a Muslim destroys them for another Muslim, he is not liable.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "If someone usurps an item and conceals it, and the owner holds him liable for its value, the usurper acquires ownership of it. The determination of value is upon the usurper's word with his oath, unless the owner establishes evidence of a greater amount. If the item reappears and its value is greater than the compensation paid: if the compensation was determined by the owner's statement, or by evidence he produced, or by the usurper's refusal to swear, the owner has no option. If the compensation was determined by the usurper's statement with his oath, the owner has the option: if he wishes, he may affirm the compensation; and if he wishes, he may take back the item and return the compensation.\n\nThe offspring of the usurped item, its growth, and the fruit of a usurped garden are a trust in the usurper's hands. If they perish, there is no liability upon him unless he transgresses with them or the owner demands them and the usurper withholds them.\n\nWhat the slave-girl loses in value due to childbirth is the usurper's liability. If the value of the child suffices to cover the decrease, the decrease is offset by the child and the usurper is discharged. The usurper is not liable for the benefits of what he usurps, unless its value decreases by use, in which case he pays for the decrease.\n\nIf a Muslim destroys a dhimmi's wine or his pig, he is liable for their value. If a Muslim destroys them for another Muslim, he is not liable."
+        }
+      ]
+    }
+  ]
+}

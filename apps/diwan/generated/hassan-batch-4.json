@@ -1,0 +1,1428 @@
+[
+  {
+    "id": "hassan-96",
+    "poetId": "hassan",
+    "titleAr": "تسائل عن قرم هجان سميذع ،",
+    "titleEn": "She Asks about a Noble Champion",
+    "genre": "ritha",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "تسائل عن قرم هجان سميذع ،",
+        "ajuz": "لدى البأس ، مغوار الصباح ، جسور"
+      },
+      {
+        "sadr": "أخي ثقة يهتز للعرف والندى ،",
+        "ajuz": "بعيد المدى ، في النائبات صبور"
+      },
+      {
+        "sadr": "فقلت لها إن الشهادة راحة ،",
+        "ajuz": "ورضوان رب ، يأمام ، غفور"
+      },
+      {
+        "sadr": "فإن أباك الخير حمزة ، فاعلمي ،",
+        "ajuz": "وزير رسول الله خير وزير"
+      },
+      {
+        "sadr": "دعاه إله الخلق ذو العرش دعوة",
+        "ajuz": "إلى جنة يرضى بها وسرور"
+      },
+      {
+        "sadr": "فذلك ما كنا نرجي ونرتجي ،",
+        "ajuz": "لحمزة يوم الحشر ، خير مصير"
+      },
+      {
+        "sadr": "فوالله لا أنساك ما هبت الصبا ،",
+        "ajuz": "ولأبكين في محضري ومسيري"
+      },
+      {
+        "sadr": "على أسد الله الذي كان مدرها ،",
+        "ajuz": "يذود عن الإسلام كل كفور"
+      },
+      {
+        "sadr": "ألا ليت شلوي ، يوم ذاك ، وأعظمي",
+        "ajuz": "إلأى أضبع ينتبنني ونسور"
+      },
+      {
+        "sadr": "أقول ، وقد أعلى النعي بهلكه :",
+        "ajuz": "جزى الله خيرا من أخ ونصير"
+      }
+    ],
+    "translationEn": "She asks about a noble, pure-blooded champion — bold in battle, a raider at dawn, courageous. A trusted brother who stirs with generosity and kindness, far-reaching in resolve, patient in calamities. I said to her: martyrdom is a repose and the pleasure of a forgiving Lord. For your father, the virtuous Hamza — know this — was the minister of the Messenger of God, the best of ministers. The Creator of all, Lord of the Throne, called him to a Garden in which He is pleased, and to joy. That is what we had hoped and wished for Hamza on the Day of Gathering — the finest destination. By God, I shall never forget you as long as the east wind blows, and I shall weep for you in my presence and on my journeys — for the Lion of God who was their champion, warding off from Islam every disbeliever. Would that my remains and my bones on that day had been scattered to hyenas and vultures. I say, as the herald of death proclaimed his passing: may God reward him well — a brother and a supporter.",
+    "vocabularyHighlights": [
+      { "word": "قرم", "meaning": "noble chief, stallion" },
+      { "word": "سميذع", "meaning": "bold, courageous leader" },
+      { "word": "مغوار", "meaning": "raider, one who attacks at dawn" },
+      { "word": "الشهادة", "meaning": "martyrdom" },
+      { "word": "رضوان", "meaning": "divine pleasure, satisfaction" },
+      { "word": "وزير", "meaning": "minister, supporter" },
+      { "word": "يذود", "meaning": "he wards off, defends" },
+      { "word": "النعي", "meaning": "obituary announcement, death herald" }
+    ],
+    "context": "An elegy for Hamza ibn Abd al-Muttalib, the Prophet's uncle, who was martyred at the Battle of Uhud (625 CE). Hassan addresses a woman inquiring about Hamza's fate, consoles her with the promise of paradise, and vows never to forget the 'Lion of God' who defended Islam. This is one of the most celebrated elegies from the early Islamic period."
+  },
+  {
+    "id": "hassan-97",
+    "poetId": "hassan",
+    "titleAr": "ألا ليت شعري هل اتى أهل مكة",
+    "titleEn": "Has the News Reached the People of Mecca",
+    "genre": "fakhr",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "ألا ليت شعري هل اتى أهل مكة",
+        "ajuz": "إبارتنا الكفار في ساعة العسر"
+      },
+      {
+        "sadr": "قتلنا سراة القوم ، عند رحالهم ،",
+        "ajuz": "فلم يرجعوا إلا بقاصمة الظهر"
+      },
+      {
+        "sadr": "قتلنا أبا جهل وعتبة قبله ،",
+        "ajuz": "وشيبة يكبو لليدين وللنحر"
+      },
+      {
+        "sadr": "وكم قد قتلنا من كريم مرزإ ،",
+        "ajuz": "له حسب في قومه نابه الذكر"
+      },
+      {
+        "sadr": "تركناهم للخامعات تنوبهم ،",
+        "ajuz": "ويصلون نارا بعد حامية القعر"
+      },
+      {
+        "sadr": "بكفرهم بالله ، والدين قائم ،",
+        "ajuz": "وما طلبوا فينا بطائلة الوتر"
+      },
+      {
+        "sadr": "لعمرك ما خامت فوارس مالك",
+        "ajuz": "وأشياعهم يوم التقينا على بدر"
+      }
+    ],
+    "translationEn": "Would that I knew whether the news has reached the people of Mecca — our annihilation of the disbelievers in the hour of hardship. We slew the chieftains of the people at their very camps, and they returned with nothing but a back-breaking blow. We killed Abu Jahl and Utba before him, and Shayba who fell upon his hands and chest. How many a noble, grievously mourned man we slew, one of high standing and illustrious fame among his people. We left them to the prowling beasts that visit them, and they burn in a fire whose depths blaze fiercely — on account of their disbelief in God while the religion stands firm, and they gained no advantage in their blood-feud against us. By your life, the horsemen of Malik and their partisans did not falter on the day we met at Badr.",
+    "vocabularyHighlights": [
+      { "word": "إبارتنا", "meaning": "our annihilation, our destruction of" },
+      { "word": "سراة", "meaning": "chiefs, nobles" },
+      { "word": "قاصمة الظهر", "meaning": "back-breaking blow" },
+      { "word": "مرزإ", "meaning": "one whose loss is grievous" },
+      { "word": "الخامعات", "meaning": "prowling hyenas" },
+      { "word": "بطائلة", "meaning": "gain, advantage" },
+      { "word": "خامت", "meaning": "faltered, showed cowardice" }
+    ],
+    "context": "A boastful poem celebrating the Muslim victory at the Battle of Badr (624 CE), the first major military triumph of Islam. Hassan names the slain Qurayshi leaders — Abu Jahl, Utba, and Shayba — and challenges Mecca to acknowledge the defeat. The poem served as propaganda directed at the Quraysh to demoralize them after their devastating loss."
+  },
+  {
+    "id": "hassan-98",
+    "poetId": "hassan",
+    "titleAr": "على قتلى معونة ، فاستهلي",
+    "titleEn": "Weep for the Slain of Ma'una",
+    "genre": "ritha",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "على قتلى معونة ، فاستهلي",
+        "ajuz": "بدمع العين سحا غير نزر"
+      },
+      {
+        "sadr": "على خيل الرسول ، غداة لاقوا",
+        "ajuz": "مناياهم ، ولاقتهم بقدر"
+      },
+      {
+        "sadr": "أصابهم الفناء ، بحبل قوم ،",
+        "ajuz": "تخون عقد حبلهم بغدر"
+      },
+      {
+        "sadr": "فيا لهفي لمنذر إذ تولى ،",
+        "ajuz": "وأعنق في منيته بصبر"
+      },
+      {
+        "sadr": "فكائن قد أصيب غداة ذاكم ،",
+        "ajuz": "من أبيض ماجد من سر عمرو"
+      }
+    ],
+    "translationEn": "Weep for the slain of Ma'una — let your tears pour forth freely, not sparingly. Weep for the horsemen of the Messenger on the morning they met their fates, and destiny met them by decree. Annihilation struck them through the treachery of a people whose covenant they broke with betrayal. Alas for Mundhir when he turned away and rushed to his death with patience. How many a shining, glorious man from the clan of Amr was struck down that morning.",
+    "vocabularyHighlights": [
+      { "word": "استهلي", "meaning": "let (your tears) pour forth" },
+      { "word": "سحا", "meaning": "pouring abundantly" },
+      { "word": "نزر", "meaning": "scant, meager" },
+      { "word": "مناياهم", "meaning": "their fates, their deaths" },
+      { "word": "أعنق", "meaning": "he rushed headlong" },
+      { "word": "منيته", "meaning": "his death, his fate" }
+    ],
+    "context": "An elegy for the companions martyred at Bi'r Ma'una (625 CE), when a delegation of around seventy Muslim missionaries was treacherously ambushed. Hassan mourns the betrayal and singles out al-Mundhir ibn Amr for his courageous acceptance of death. The incident deeply affected the early Muslim community."
+  },
+  {
+    "id": "hassan-99",
+    "poetId": "hassan",
+    "titleAr": "أمسى الفتى بن ود ثاويا",
+    "titleEn": "The Son of Wudd Lies Fallen",
+    "genre": "hija",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "أمسى الفتى بن ود ثاويا",
+        "ajuz": "بجنوب سلع ، ثاره لم ينظر"
+      },
+      {
+        "sadr": "ولقد وجدت سيوفنا مشهورة ،",
+        "ajuz": "ولقد وجدت جيادنا لم تقصر"
+      },
+      {
+        "sadr": "ولقد لقيت غداة بدر عصبة",
+        "ajuz": "ضربوك ضربا غير ضرب الحسر"
+      },
+      {
+        "sadr": "أصبحت لا تدعى ليوم عظيمة ،",
+        "ajuz": "يا عمرو ، أو لجسيم أمر منكر"
+      }
+    ],
+    "translationEn": "The young warrior son of Wudd now lies fallen on the southern slope of Sal', his blood unavenged. You found our swords drawn and famous, and you found our steeds did not fall short. At Badr you met a band that struck you with blows unlike the strikes of the weary. Now you are no longer called upon for any great occasion, O Amr, nor for any grave and terrible affair.",
+    "vocabularyHighlights": [
+      { "word": "ثاويا", "meaning": "lying dead, fallen" },
+      { "word": "سلع", "meaning": "Sal' — a mountain near Medina" },
+      { "word": "مشهورة", "meaning": "drawn (swords), famous" },
+      { "word": "جيادنا", "meaning": "our steeds, our horses" },
+      { "word": "عصبة", "meaning": "a group, a band" },
+      { "word": "عظيمة", "meaning": "great calamity, momentous event" }
+    ],
+    "context": "A satirical poem mocking Amr ibn Abd Wudd, the famed Qurayshi champion who was slain by Ali ibn Abi Talib during the Battle of the Trench (627 CE). Hassan taunts the fallen warrior, reminding him that his swords and horses proved no match for the Muslims, and that he will never again be summoned for battle."
+  },
+  {
+    "id": "hassan-100",
+    "poetId": "hassan",
+    "titleAr": "لست إلى عمرو ، ولا المرء منذر ،",
+    "titleEn": "I Am Not Beholden to Amr Nor to Mundhir",
+    "genre": "fakhr",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "لست إلى عمرو ، ولا المرء منذر ،",
+        "ajuz": "إذا ما مطايا القوم أصبحن ضمرا"
+      },
+      {
+        "sadr": "فلولا أبو وهب لمرت قصائد ،",
+        "ajuz": "على شرف البرقاء ، يهوين حسرا"
+      },
+      {
+        "sadr": "فإنا ومن يهدي القصائد نحونا ،",
+        "ajuz": "كمستبضع تمرا إلى أهل خيبرا"
+      },
+      {
+        "sadr": "فلا تكن كالوسنان يحلم أنه",
+        "ajuz": "بقرية كسرى ، أو بقرية قيصر"
+      },
+      {
+        "sadr": "ولا تك كالشاة التي كان حتفها",
+        "ajuz": "بحفر ذراعيها ، فلم ترض محفرا"
+      },
+      {
+        "sadr": "ولا تك كالعاوي ، فأقبل نحره ،",
+        "ajuz": "ولم يخشه ، سهما من النبل مضمرا"
+      },
+      {
+        "sadr": "أتفخر بالكتان لما لبسته ،",
+        "ajuz": "وقد يلبس الأنباط ريطا مقصرا"
+      }
+    ],
+    "translationEn": "I owe nothing to Amr nor to Mundhir when the riding camels of the people grow lean from travel. Were it not for Abu Wahb, poems would have passed over the heights of al-Barqa', spent and exhausted. Whoever directs poems against us is like one who sends dates as merchandise to the people of Khaybar. Do not be like the drowsy man who dreams he is in the city of Chosroes or the city of Caesar. And do not be like the ewe whose death came from digging with her own forelegs, unsatisfied with her burrow. Nor be like the howling one who bared his chest, not fearing a concealed arrow among the shafts. Do you boast of wearing linen, when even the Nabataeans wear fine cloaks, though short?",
+    "vocabularyHighlights": [
+      { "word": "مطايا", "meaning": "riding camels, mounts" },
+      { "word": "ضمرا", "meaning": "lean, emaciated" },
+      { "word": "مستبضع", "meaning": "one who sends merchandise" },
+      { "word": "الوسنان", "meaning": "the drowsy, sleepy one" },
+      { "word": "كسرى", "meaning": "Chosroes (Persian emperor)" },
+      { "word": "قيصر", "meaning": "Caesar (Roman emperor)" },
+      { "word": "الأنباط", "meaning": "the Nabataeans" }
+    ],
+    "context": "A boastful poem with satirical elements, in which Hassan asserts his poetic independence and warns an adversary against challenging him. The famous proverb-like verse about sending dates to Khaybar (a date-producing region) means attempting something futile. The poem weaves together animal parables and cultural references to Persian and Roman courts."
+  },
+  {
+    "id": "hassan-101",
+    "poetId": "hassan",
+    "titleAr": "لعن الله منزلا بطن كوثى ،",
+    "titleEn": "God Curse the Dwelling of Kawtha",
+    "genre": "hija",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "لعن الله منزلا بطن كوثى ،",
+        "ajuz": "ورماه بالفقر والإمعار"
+      },
+      {
+        "sadr": "لست أعني كوثى العراق ولكن",
+        "ajuz": "شرة الدور ، دار عبد الدار"
+      },
+      {
+        "sadr": "حوت اللؤم والسفاه جميعا ،",
+        "ajuz": "فاحتوت ذاك كله في قرار"
+      },
+      {
+        "sadr": "وإذا ما سمت قريش لمجد ،",
+        "ajuz": "خلفتها في دارها بصغار"
+      }
+    ],
+    "translationEn": "May God curse the dwelling in the belly of Kawtha and strike it with poverty and destitution. I do not mean the Kawtha of Iraq, but rather the worst of quarters — the quarter of Abd al-Dar. It has gathered baseness and folly together and contained all of that settled within it. And whenever Quraysh aspires to glory, it leaves that clan behind in their abode in humiliation.",
+    "vocabularyHighlights": [
+      { "word": "لعن", "meaning": "cursed" },
+      { "word": "الإمعار", "meaning": "destitution, impoverishment" },
+      { "word": "اللؤم", "meaning": "baseness, vileness" },
+      { "word": "السفاه", "meaning": "folly, frivolity" },
+      { "word": "سمت", "meaning": "aspired, rose to" },
+      { "word": "صغار", "meaning": "humiliation, degradation" }
+    ],
+    "context": "A satirical poem targeting the Banu Abd al-Dar, a clan of the Quraysh. Hassan deliberately plays on the name Kawtha, clarifying he means not the place in Iraq but the neighborhood of this particular clan, which he accuses of embodying all of Quraysh's worst qualities. This kind of clan-targeted satire was a powerful weapon in tribal Arab society."
+  },
+  {
+    "id": "hassan-102",
+    "poetId": "hassan",
+    "titleAr": "سألت قريشا فلم يكذبوا ،",
+    "titleEn": "I Asked Quraysh and They Did Not Lie",
+    "genre": "fakhr",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "سألت قريشا فلم يكذبوا ،",
+        "ajuz": "فسل وحوحا ، وأبا عامر"
+      },
+      {
+        "sadr": "ما أصل حسان في قومه ،",
+        "ajuz": "وليس المسائل كالحابر"
+      },
+      {
+        "sadr": "فلو يصدقون لأنبوكم",
+        "ajuz": "بأنا ذوو الحسب القاهر"
+      },
+      {
+        "sadr": "وأنا مساعير ، عند الوغى ،",
+        "ajuz": "نرد شبا الأبلخ الفاجر"
+      },
+      {
+        "sadr": "ورثت الفعال ، وبذل التلا",
+        "ajuz": "د ، والمجد عن كابر كابر"
+      },
+      {
+        "sadr": "وحمل الديات ، وفك العنا",
+        "ajuz": "ة ، والعز في الحسب الفاخر"
+      },
+      {
+        "sadr": "بكل متين أصم الكعوب ،",
+        "ajuz": "وأبيض ذي رونق باتر"
+      },
+      {
+        "sadr": "وبيضاء كالنهر فضفاضة ،",
+        "ajuz": "تثنى بطول على الناشر"
+      },
+      {
+        "sadr": "بها نختلي مهج الدارعين ،",
+        "ajuz": "إذا نور الصبح للناظر"
+      },
+      {
+        "sadr": "إذا استبق الناس غاياتهم",
+        "ajuz": "وجدت الزبعرى مع الآخر"
+      },
+      {
+        "sadr": "وما يجعل العي وسط الندي",
+        "ajuz": "كالمحرب المصقع الشاعر"
+      },
+      {
+        "sadr": "وكيف يناصبني مفحم ،",
+        "ajuz": "ينص إلى ملصق بائر"
+      }
+    ],
+    "translationEn": "I asked Quraysh and they did not lie — so ask Wahwah and Abu Amir: what is Hassan's standing among his people? The questioner is not like the one who already knows. If they spoke truly, they would tell you that we are the possessors of overwhelming nobility. We are firebrands in battle, turning back the edge of every arrogant transgressor. I inherited noble deeds and the giving of wealth, and glory from generation to generation — the bearing of blood-money, the freeing of captives, and honor rooted in illustrious lineage. With every sturdy lance of solid joints, and every gleaming, sharp white blade, and a coat of mail white as a river, ample, that folds with its length over the one who spreads it — with these we pluck out the souls of armored men when dawn lights up for the beholder. When people race toward their goals, you will find al-Zibari trailing at the rear. The tongue-tied man in the assembly cannot be compared to the seasoned, eloquent poet. How can a silenced mute oppose me, one who traces his lineage to an obscure, ruined stock?",
+    "vocabularyHighlights": [
+      { "word": "مساعير", "meaning": "firebrands, fierce warriors" },
+      { "word": "الوغى", "meaning": "battle, war" },
+      { "word": "الديات", "meaning": "blood-money, compensation for killing" },
+      { "word": "فضفاضة", "meaning": "ample, loose (coat of mail)" },
+      { "word": "الدارعين", "meaning": "armored warriors" },
+      { "word": "مفحم", "meaning": "silenced, rendered speechless" },
+      { "word": "كابر", "meaning": "generation, elder" }
+    ],
+    "context": "A boastful poem (fakhriyya) in which Hassan defends his tribal honor and poetic prowess. He challenges the Quraysh to confirm his noble lineage among the Khazraj, listing inherited virtues — generosity, ransoming captives, and martial valor. The poem ends with a direct taunt at Ibn al-Zibari, his Qurayshi poetic rival, whom he dismisses as tongue-tied and obscure."
+  },
+  {
+    "id": "hassan-103",
+    "poetId": "hassan",
+    "titleAr": "زادت هموم ، فماء العين ينحدر",
+    "titleEn": "Sorrows Have Increased and Tears Flow",
+    "genre": "madih",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "زادت هموم ، فماء العين ينحدر",
+        "ajuz": "سحا إذا أغرقته عبرة درر"
+      },
+      {
+        "sadr": "وجدا بشعثاء ، إذ شعثاء بهكنة",
+        "ajuz": "هيفاء ، لا دنس فيها ولا خور"
+      },
+      {
+        "sadr": "دع عنك شعثاء ، إذ كانت مودتها",
+        "ajuz": "نزرا ، وشر وصال الواصل النزر"
+      },
+      {
+        "sadr": "وأت الرسول فقل يا خير مؤتمن",
+        "ajuz": "لمؤمنين ، إذا ما عدل البشر"
+      },
+      {
+        "sadr": "علام تدعى سليم ، وهي نازحة ،",
+        "ajuz": "أمام قوم هم آووا ، وهم نصروا"
+      },
+      {
+        "sadr": "سماهم الله أنصارا لنصرهم",
+        "ajuz": "دين الهدى ، وعوان الحرب تستعر"
+      },
+      {
+        "sadr": "وجاهدوا في سبيل الله ، واعترفوا",
+        "ajuz": "للنائبات فما خاموا ولا ضجروا"
+      },
+      {
+        "sadr": "والناس ألب علينا ، ثم ليس لنا ،",
+        "ajuz": "إلا السيوف وأطراف القنا ، وزر"
+      },
+      {
+        "sadr": "ولا يهر جناب الحرب مجلسنا ،",
+        "ajuz": "ونحن حين تلظى نارها سعر"
+      },
+      {
+        "sadr": "وكم رددنا ببدر ، دون ما طلبوا ،",
+        "ajuz": "أهل النفاق ، وفينا أنزل الظفر"
+      },
+      {
+        "sadr": "ونحن جندك يوم النعف من أحد ،",
+        "ajuz": "إذ حزبت بطرا أشياعها مضر"
+      },
+      {
+        "sadr": "فما ونينا ، وما خمنا ، وما خبروا",
+        "ajuz": "منا عثارا ، وجل القوم قد عثروا"
+      }
+    ],
+    "translationEn": "Sorrows have increased, and the water of my eye pours down — streaming when a tear overwhelms it like pearls. Longing for Sha'tha', when Sha'tha' was plump and slender-waisted, free of any taint or weakness. Leave Sha'tha' behind, for her affection was scant, and the worst bond is one that is meager. Come instead to the Messenger and say: O best of trustees for the believers when mankind is judged. Why is Sulaym summoned, being distant, ahead of a people who gave shelter and who gave victory? God named them the Ansar for their support of the religion of guidance while the blaze of war raged on. They fought in the path of God and bore calamities without faltering or growing weary. All people were united against us, and we had nothing but swords and the tips of spears as armor. The proximity of war does not make our assembly cower; when its fire blazes, we are its kindling. How many times at Badr did we repel what the hypocrites sought, and upon us victory was sent down. We were your soldiers on the ridge of Uhud, when the confederates of Mudar rallied in arrogance. We neither weakened nor faltered, nor did they ever find a stumble in us, though most of the people had stumbled.",
+    "vocabularyHighlights": [
+      { "word": "عبرة", "meaning": "tear, teardrop" },
+      { "word": "بهكنة", "meaning": "plump, full-figured" },
+      { "word": "الأنصار", "meaning": "the Helpers (of Medina)" },
+      { "word": "جاهدوا", "meaning": "they fought, strove" },
+      { "word": "ألب", "meaning": "united against, allied" },
+      { "word": "القنا", "meaning": "spears, lances" },
+      { "word": "عثارا", "meaning": "a stumble, a slip" }
+    ],
+    "context": "A praise poem addressed to the Prophet Muhammad, advocating for the rights of the Ansar (the Medinan supporters of Islam). Hassan opens with a conventional love prelude about Sha'tha' before pivoting to protest the precedence given to the tribe of Sulaym over the Ansar, who were first to shelter the Prophet. He recounts their sacrifices at Badr and Uhud as proof of their primacy."
+  },
+  {
+    "id": "hassan-104",
+    "poetId": "hassan",
+    "titleAr": "على حين أن قالتا لأيمن أمه :",
+    "titleEn": "When His Mother Said to Ayman",
+    "genre": "madih",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "على حين أن قالتا لأيمن أمه :",
+        "ajuz": "جبنت ولم تشهد فوارس خيبر"
+      },
+      {
+        "sadr": "وأيمن لم يجبن ، ولكن مهره",
+        "ajuz": "أضر به شرب المديد المخمر"
+      },
+      {
+        "sadr": "فلولا الذي قد كان من شأن مهره ،",
+        "ajuz": "لقاتل فيها فارسا ، غير أعسر"
+      },
+      {
+        "sadr": "ولكنه قد صده فعل مهره ،",
+        "ajuz": "وما كان منه عنده غير أيسر"
+      }
+    ],
+    "translationEn": "At the time when his mother said to Ayman: you were a coward and did not join the horsemen of Khaybar — but Ayman was not a coward; rather, his colt was harmed by drinking fermented bran-mash. Were it not for what befell his colt, he would have fought there as a horseman, not left-handed in valor. But the condition of his colt held him back, and what happened was beyond his easy control.",
+    "vocabularyHighlights": [
+      { "word": "جبنت", "meaning": "you showed cowardice" },
+      { "word": "فوارس", "meaning": "horsemen, knights" },
+      { "word": "خيبر", "meaning": "Khaybar — a Jewish stronghold near Medina" },
+      { "word": "مهره", "meaning": "his colt, his young horse" },
+      { "word": "المديد", "meaning": "bran-mash (animal feed)" },
+      { "word": "المخمر", "meaning": "fermented" }
+    ],
+    "context": "A short defense poem for Ayman, whose mother had accused him of cowardice for missing the Battle of Khaybar (628 CE). Hassan explains that Ayman's horse had fallen ill from drinking fermented mash, preventing him from riding to battle — thus exonerating him from the charge of cowardice. Such poetic defenses were important for maintaining tribal honor."
+  },
+  {
+    "id": "hassan-105",
+    "poetId": "hassan",
+    "titleAr": "كانت قريش بيضة ، فتفلقت ،",
+    "titleEn": "Quraysh Was an Egg That Cracked Open",
+    "genre": "madih",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "كانت قريش بيضة ، فتفلقت ،",
+        "ajuz": "فالمح خالصه لعبد الدار"
+      },
+      {
+        "sadr": "ومناة ربي خصهم بكرامة ،",
+        "ajuz": "حجاب بيت الله ذي الأستار"
+      },
+      {
+        "sadr": "أهل المكارم والعلاء وندوة ال",
+        "ajuz": "نادي وأهل لطيمة الجبار"
+      },
+      {
+        "sadr": "ولوا قريش في المشاهد كلها ،",
+        "ajuz": "وبنجدة عند القنا الخطار"
+      }
+    ],
+    "translationEn": "Quraysh was an egg that cracked open, and the pure yolk belongs to Abd al-Dar. My Lord's decree singled them out with the honor of veiling the House of God with its curtains. They are the people of noble deeds and eminence, of the assembly-hall, and the keepers of the mighty caravan. They led Quraysh in every gathering and with valor when the long spears sway.",
+    "vocabularyHighlights": [
+      { "word": "بيضة", "meaning": "egg (metaphor for the tribe's unity)" },
+      { "word": "تفلقت", "meaning": "cracked open, split" },
+      { "word": "المح", "meaning": "yolk (metaphor for the best part)" },
+      { "word": "حجاب", "meaning": "veiling, custodianship (of the Kaaba)" },
+      { "word": "الأستار", "meaning": "curtains, coverings" },
+      { "word": "لطيمة", "meaning": "trade caravan" }
+    ],
+    "context": "A praise poem for the Banu Abd al-Dar, the Qurayshi clan entrusted with the custodianship (hijaba) of the Kaaba, including the privilege of draping it with curtains. Hassan employs the metaphor of an egg cracking to reveal its pure yolk — the best of Quraysh. This poem likely dates from before or during the early Islamic period when tribal alliances were being cultivated."
+  },
+  {
+    "id": "hassan-106",
+    "poetId": "hassan",
+    "titleAr": "إني لأعجب من قول غررت به ،",
+    "titleEn": "I Marvel at a Speech That Deceived You",
+    "genre": "hija",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "إني لأعجب من قول غررت به ،",
+        "ajuz": "حلو ، يمد إليه السمع والبصر"
+      },
+      {
+        "sadr": "لو تسمع العصم ، من صم الجبال ، به ،",
+        "ajuz": "ظلت من الراسيات العصم تنحدر"
+      },
+      {
+        "sadr": "كالخمر والشهد يجري فوق ظاهره ،",
+        "ajuz": "وما لباطنه طعم ولا خبر"
+      },
+      {
+        "sadr": "وكالسراب شبيها بالغدير ، وإن",
+        "ajuz": "تبغ السراب ، فلا عين ولا أثر"
+      },
+      {
+        "sadr": "لا ينبت العشب عن برق وراعدة",
+        "ajuz": "غراء ، ليس لها سيل ولا مطر"
+      }
+    ],
+    "translationEn": "I marvel at a speech that deceived you — sweet, drawing both ear and eye toward it. Were the mountain goats on the deaf peaks to hear it, even those sure-footed ones would slide down from the towering heights. Like wine and honey flowing on its surface, yet its depths have neither taste nor substance. Like a mirage resembling a pool, but if you seek that mirage, there is neither spring nor trace. Grass does not sprout from lightning and a dazzling thundercloud that brings neither torrent nor rain.",
+    "vocabularyHighlights": [
+      { "word": "غررت", "meaning": "you were deceived" },
+      { "word": "العصم", "meaning": "mountain goats (ibex)" },
+      { "word": "الراسيات", "meaning": "towering, firm (mountains)" },
+      { "word": "السراب", "meaning": "mirage" },
+      { "word": "الغدير", "meaning": "pool, pond" },
+      { "word": "راعدة", "meaning": "thundercloud" },
+      { "word": "سيل", "meaning": "torrent, flood" }
+    ],
+    "context": "A satirical poem exposing the emptiness behind an adversary's eloquent but hollow speech. Hassan constructs a series of vivid similes — honey without substance, a mirage without water, thunder without rain — to dismantle the pretensions of a rival poet or orator. The poem is a masterclass in the Arabic poetic tradition of using natural imagery for satirical purposes."
+  },
+  {
+    "id": "hassan-107",
+    "poetId": "hassan",
+    "titleAr": "لقد غضبت جهلا سليم سفاهة ،",
+    "titleEn": "Sulaym Has Raged in Ignorant Folly",
+    "genre": "hija",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "لقد غضبت جهلا سليم سفاهة ،",
+        "ajuz": "وطاشت بأحلام كثير عثورها"
+      },
+      {
+        "sadr": "لئام مساعيها ، كذوب حديثها ،",
+        "ajuz": "قليل غناها حين ينعى صقورها"
+      },
+      {
+        "sadr": "لها عقل نسوان ، وشر شريعة ،",
+        "ajuz": "نزور نداها حين تبغى بحورها"
+      },
+      {
+        "sadr": "إذا ضفتهم ألفيت حول بيوتهم",
+        "ajuz": "كلابا لها في الدار ، عال هريرها"
+      }
+    ],
+    "translationEn": "Sulaym has raged in ignorant folly, and their loose minds have gone astray with many a stumble. Their endeavors are base, their talk is lies, and their wealth is scant when their hawks are mourned. They have the sense of women and the worst of customs, their generosity meager when their seas are sought. If you visit them as a guest, you will find around their tents dogs whose growling fills the dwelling.",
+    "vocabularyHighlights": [
+      { "word": "طاشت", "meaning": "went astray, became reckless" },
+      { "word": "أحلام", "meaning": "minds, sense (lit. dreams)" },
+      { "word": "لئام", "meaning": "base, ignoble" },
+      { "word": "مساعيها", "meaning": "their endeavors, their pursuits" },
+      { "word": "نداها", "meaning": "their generosity" },
+      { "word": "هريرها", "meaning": "their growling" }
+    ],
+    "context": "A sharp satirical poem attacking the tribe of Sulaym, with whom the Ansar of Medina had ongoing rivalries. Hassan attacks them on every front — their foolishness, dishonesty, stinginess, and the inhospitality symbolized by barking dogs around their tents. In Arab culture, dogs guarding a tent (rather than being kept at a distance) signified poverty and unwillingness to receive guests."
+  },
+  {
+    "id": "hassan-108",
+    "poetId": "hassan",
+    "titleAr": "أجمعت عمرة صرما فابتكر ،",
+    "titleEn": "Amra Has Resolved to Sever, So Set Forth at Dawn",
+    "genre": "fakhr",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "أجمعت عمرة صرما فابتكر ،",
+        "ajuz": "إنما يدهن للقلب الحصر"
+      },
+      {
+        "sadr": "لا يكن حبك حبا ظاهرا ،",
+        "ajuz": "ليس هذا منك يا عمر بسر"
+      },
+      {
+        "sadr": "سألت حسان من أخواله ؟",
+        "ajuz": "إنما يسأل بالشيء الغمر"
+      },
+      {
+        "sadr": "قلت أخوالي بنو كعب ، إذا",
+        "ajuz": "أسلم الأبطال عورات الدبر"
+      },
+      {
+        "sadr": "رب خال لي لو أبصرته",
+        "ajuz": "سبط الكفين في اليوم الخصر"
+      },
+      {
+        "sadr": "عند هذا الباب ، إذ ساكنه",
+        "ajuz": "كل وجه حسن النقبة حر"
+      },
+      {
+        "sadr": "يوقد النار ، إذا ما أطفئت ،",
+        "ajuz": "يعمل القدر بأثباج الجزر"
+      },
+      {
+        "sadr": "من يغر الدهر ، أو يأمنه ،",
+        "ajuz": "من قبيل بعد عمرو وحجر"
+      },
+      {
+        "sadr": "ملكا من جبل الثلج إلى",
+        "ajuz": "جانبي أيلة ، من عبد وحر"
+      },
+      {
+        "sadr": "ثم كانا خير من نال الندى ،",
+        "ajuz": "سبقا الناس بإقساط وبر"
+      },
+      {
+        "sadr": "فارسي خيل ، إذا ما أمسكت",
+        "ajuz": "ربة الخدر بأطراف الستر"
+      },
+      {
+        "sadr": "أتيا فارس في دارهم ،",
+        "ajuz": "فتناهوا بعد إعصام بقر"
+      },
+      {
+        "sadr": "ثم صاحا : يال غسان اصبروا ،",
+        "ajuz": "إنه يوم مصاليت صبر"
+      },
+      {
+        "sadr": "اجعلوا معقلها أيمانكم ،",
+        "ajuz": "بالصفيح المصطفى ، غير الفطر"
+      },
+      {
+        "sadr": "بضراب تأذن الجن له ،",
+        "ajuz": "وطعان مثل أفواه الفقر"
+      },
+      {
+        "sadr": "ولقد يعلم من حاربنا",
+        "ajuz": "أننا ننفع قدما ونضر"
+      },
+      {
+        "sadr": "صبر للموت ، إن حل بنا ، م",
+        "ajuz": "صادقو البأس ، غطاريف فخر"
+      },
+      {
+        "sadr": "وأقام العز فينا والغنى ،",
+        "ajuz": "فلنا منه على الناس الكبر"
+      },
+      {
+        "sadr": "منهم أصلي ، فمن يفخر به",
+        "ajuz": "يعرف الناس بفخر المفتخر"
+      },
+      {
+        "sadr": "نحن أهل العز والمجد معا ،",
+        "ajuz": "غير أنكاس ، ولا ميل عسر"
+      },
+      {
+        "sadr": "فسلوا عنا ، وعن أفعالنا ،",
+        "ajuz": "كل قوم عندهم علم الخبر"
+      }
+    ],
+    "translationEn": "Amra has resolved to sever the bond, so set forth at dawn — only the distressed heart seeks soothing. Let not your love be a love shown openly; this is no secret from you, O Amr. They asked Hassan: who are his maternal uncles? Only the ignorant asks about such things. I said: my maternal uncles are the Banu Ka'b — when heroes expose their unguarded backs, they stand firm. Many a maternal uncle of mine, had you seen him, was open-handed on the cold, harsh day, at this very gate, where every free-born man of handsome countenance dwells. He kindles the fire when it is extinguished and fills the pot with the humps of slaughtered camels. Who can be deceived by fate or feel safe from it after the line of Amr and Hujr — two kings who ruled from the Snow Mountain to the flanks of Ayla, over slave and free? They were the best who attained generosity, surpassing all people in justice and righteousness — two horsemen of the cavalry, even when the veiled woman clutched the edges of her curtain. They came upon the Persians in their very homeland, and those Persians finally yielded after clinging fast. Then the two cried out: O people of Ghassan, be steadfast! For this is a day of brave, patient warriors. Make your right hands the refuge of your swords, with chosen steel, uncracked. With blows that make the jinn take notice, and thrusts like the mouths of wells. Those who have fought us know well that we have long brought benefit and harm. We are patient before death when it comes upon us — sincere in valor, noble champions. Honor and wealth have made their abode among us, and from that we hold supremacy over all people. My root is from them, and whoever boasts of such lineage, people will recognize the boaster's boast. We are the people of honor and glory together, neither craven nor crooked nor perverse. So ask about us and about our deeds — every people has knowledge of the report.",
+    "vocabularyHighlights": [
+      { "word": "صرما", "meaning": "severance, cutting of ties" },
+      { "word": "أخوالي", "meaning": "my maternal uncles" },
+      { "word": "مصاليت", "meaning": "brave warriors, champions" },
+      { "word": "الصفيح", "meaning": "swords, broad blades" },
+      { "word": "غطاريف", "meaning": "noble chiefs, generous lords" },
+      { "word": "أنكاس", "meaning": "craven, cowardly (plural)" },
+      { "word": "أيلة", "meaning": "Ayla (ancient Aqaba)" },
+      { "word": "غسان", "meaning": "Ghassan (Arab kingdom allied with Byzantium)" }
+    ],
+    "context": "A major fakhr (boasting) poem tracing Hassan's Ghassanid maternal lineage. After a brief nasib (love prelude) about Amra, he celebrates his maternal uncles from the Banu Ka'b and the Ghassanid kings Amr and Hujr, who ruled from Mount Hermon to Aqaba. The poem recounts their campaigns against Persia and portrays the Ghassanids as the paragon of Arab nobility, valor, and generosity — a heritage Hassan claims as his own."
+  },
+  {
+    "id": "hassan-109",
+    "poetId": "hassan",
+    "titleAr": "قد أصبح القلب عنها كاد يصرفه",
+    "titleEn": "The Heart Has Nearly Turned Away from Her",
+    "genre": "madih",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "قد أصبح القلب عنها كاد يصرفه",
+        "ajuz": "عنها تترع قول غير الشعرا"
+      },
+      {
+        "sadr": "يا زيد ، يا سيد النجار ، إن لما",
+        "ajuz": "أحدث قومك في عثمان لي خبرا"
+      },
+      {
+        "sadr": "وإن لي حاجة ، يا زيد ، أذكرها ،",
+        "ajuz": "لم أقض منها إلى ما قومنا وطرا"
+      },
+      {
+        "sadr": "إني أرى لهم زيا سيهلكهم ،",
+        "ajuz": "وفتية لم يصيبوا فيهم البصرا"
+      },
+      {
+        "sadr": "يا زيد ! هل لك فيهم قبل موبقة",
+        "ajuz": "تسعر النار في أفنائهم سعرا"
+      },
+      {
+        "sadr": "يا زيد ! أهد لهم رأيا يعاش به ؛",
+        "ajuz": "يا زيد زيد بني النجار ، مقتصرا"
+      },
+      {
+        "sadr": "يا زيد ! أخرج بني النجار إذ عميت ،",
+        "ajuz": "وارفض طوائف غسان لها الأخرا"
+      }
+    ],
+    "translationEn": "The heart has nearly turned away from her, distracted by speech other than poetry. O Zayd, O chief of al-Najjar — what your people have wrought against Uthman has given me grave concern. I have a need, O Zayd, that I must mention; I have not fulfilled my desire since our people acted thus. I see in them a course that will destroy them, and young men who have lost their sight regarding them. O Zayd, will you intervene before a catastrophe that kindles fire among their courtyards? O Zayd, guide them with counsel they can live by — O Zayd, Zayd of the Banu al-Najjar, with restraint. O Zayd, lead the Banu al-Najjar out from this blindness, and abandon the factions of Ghassan to their consequences.",
+    "vocabularyHighlights": [
+      { "word": "النجار", "meaning": "al-Najjar — a major Khazraj clan" },
+      { "word": "عثمان", "meaning": "Uthman (the third Caliph)" },
+      { "word": "موبقة", "meaning": "catastrophe, destruction" },
+      { "word": "تسعر", "meaning": "kindles, ignites" },
+      { "word": "أفنائهم", "meaning": "their courtyards, their spaces" },
+      { "word": "عميت", "meaning": "became blind, lost its way" }
+    ],
+    "context": "A political poem addressed to Zayd, chief of the Banu al-Najjar (a Khazraj clan), urging him to intervene during the political crisis surrounding the Caliph Uthman ibn Affan's rule. Hassan, who supported Uthman, warns of impending destruction if the tribal leaders do not restrain their factions. This poem is a rare window into the political tensions that preceded the First Fitna (civil war)."
+  },
+  {
+    "id": "hassan-110",
+    "poetId": "hassan",
+    "titleAr": "رميت بها أهل المضيق ، فلم تكد",
+    "titleEn": "I Aimed at the People of the Narrow Pass",
+    "genre": "wasf",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "رميت بها أهل المضيق ، فلم تكد",
+        "ajuz": "تخلص من حمارة وأباعر"
+      },
+      {
+        "sadr": "ومرت على الأنصار وسط رحالهم ،",
+        "ajuz": "فقلت لهم من صادر مع صادر"
+      },
+      {
+        "sadr": "وطوفت بالبيت العتيق ، وسامحت",
+        "ajuz": "طريق كداء في لحوب سوائر"
+      },
+      {
+        "sadr": "ذكرت بها التعريس لما بدا لنا",
+        "ajuz": "خيام بها من بين باد وحاضر"
+      },
+      {
+        "sadr": "وأعرض ذو دوران ، تحسب أنه",
+        "ajuz": "من الجدب أعناق النساء الحواسر"
+      },
+      {
+        "sadr": "فعجت وألقت للجبان رجيلة",
+        "ajuz": "لأنظر ما زاد الكريم المسافر"
+      },
+      {
+        "sadr": "إذا فضلة من بطن زق ونطفة",
+        "ajuz": "وقعب صغير فوق عوجاء ضامر"
+      },
+      {
+        "sadr": "فقمت بكأس قهوة ، فشننتها",
+        "ajuz": "يدي رونق من ماء زمزم فاتر"
+      },
+      {
+        "sadr": "فلما هبطنا بطن مر تخزعت",
+        "ajuz": "خزاعة عنا في حلول كراكر"
+      }
+    ],
+    "translationEn": "I launched her toward the people of the narrow pass, and she barely escaped from among donkeys and camels. She passed by the Ansar amid their saddles, and I said to them: one departing joins another. I circumambulated the Ancient House and took the road of Kada' along well-worn, traveled paths. I recalled the night halt when tents appeared to us, some of nomads and some of settled folk. And Dhu Dawran loomed before us — you would think from the drought that its slopes were the bared necks of unveiled women. She halted and set down a small foot on the slope, so I could see what provisions the noble traveler carried — only the remnant from a waterskin's belly, a drop of water, and a small bowl atop a lean, crooked she-camel. I stood with a cup of wine and poured it out, my hands glistening with the lukewarm water of Zamzam. When we descended into the belly of Marr, the Khuza'a branched off from us into encampments in the wadis.",
+    "vocabularyHighlights": [
+      { "word": "المضيق", "meaning": "narrow pass, gorge" },
+      { "word": "أباعر", "meaning": "camels" },
+      { "word": "البيت العتيق", "meaning": "the Ancient House (the Kaaba)" },
+      { "word": "كداء", "meaning": "Kada' — a mountain pass entering Mecca" },
+      { "word": "الحواسر", "meaning": "unveiled women (with heads uncovered)" },
+      { "word": "زمزم", "meaning": "Zamzam — the sacred well in Mecca" },
+      { "word": "تخزعت", "meaning": "branched off, separated (said of Khuza'a)" }
+    ],
+    "context": "A descriptive poem (wasf) narrating a journey to Mecca. Hassan describes the approach through narrow passes crowded with animals, passing the Ansar's camps, circumambulating the Kaaba, and the austere provisions of travel. The poem is rich in topographical detail — the pass of Kada', the mountain Dhu Dawran, the valley of Marr — and captures the pilgrim's experience of the Meccan landscape."
+  },
+  {
+    "id": "hassan-111",
+    "poetId": "hassan",
+    "titleAr": "أروني سعودا كالسعود التي سمت",
+    "titleEn": "Show Me Fortunes Like the Fortunes That Rose",
+    "genre": "madih",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "أروني سعودا كالسعود التي سمت",
+        "ajuz": "بمكة من أولاد عمرو بن عامر"
+      },
+      {
+        "sadr": "أقاموا عمود الدين ، حتى تمكنت",
+        "ajuz": "قواعده ، بالمرهفت البواتر"
+      },
+      {
+        "sadr": "وكم عقدوا لله ، ثم وفوا به ،",
+        "ajuz": "بما ضاق عنه كل باد وحاضر"
+      }
+    ],
+    "translationEn": "Show me fortunes like those that rose in Mecca from the sons of Amr ibn Amir. They raised the pillar of the religion until its foundations were firmly established with keen, cutting blades. How many a covenant did they make with God and then fulfill it — achieving what every nomad and settled man found too vast to accomplish.",
+    "vocabularyHighlights": [
+      { "word": "سعودا", "meaning": "good fortunes, auspicious stars" },
+      { "word": "سمت", "meaning": "rose, ascended" },
+      { "word": "عمود الدين", "meaning": "pillar of the religion" },
+      { "word": "قواعده", "meaning": "its foundations, its bases" },
+      { "word": "المرهفت", "meaning": "keen (swords), sharpened" },
+      { "word": "البواتر", "meaning": "cutting, severing (swords)" }
+    ],
+    "context": "A concise praise poem celebrating the Ansar as descendants of Amr ibn Amir, the legendary ancestor of the Yemeni Arab tribes. Hassan credits them with establishing the foundations of Islam through both covenant and sword, challenging anyone to produce a people of comparable fortune and achievement."
+  },
+  {
+    "id": "hassan-112",
+    "poetId": "hassan",
+    "titleAr": "ما البكر إلا كالفصيل وقد ترى",
+    "titleEn": "The Young Camel Is Like the Weaned Calf",
+    "genre": "fakhr",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "ما البكر إلا كالفصيل وقد ترى",
+        "ajuz": "أن الفصيل عليه ليس بعار"
+      },
+      {
+        "sadr": "إنا وما حج الحجيج لبيته ،",
+        "ajuz": "ركبان مكة معشر الأنصار"
+      },
+      {
+        "sadr": "نفري جماجمكم بكل مهند ،",
+        "ajuz": "ضرب القدار مبادي الأيسار"
+      },
+      {
+        "sadr": "حتى تكنوه بفحل هنيدة ،",
+        "ajuz": "يحمي الطروقة ، بازل ، هدار"
+      }
+    ],
+    "translationEn": "The young camel is no different from the weaned calf, and you may see that being a weaned calf is no disgrace upon it. By Him to whose House the pilgrims make pilgrimage, we riders of Mecca are the company of the Ansar. We split your skulls with every Indian blade, like the butcher striking the first portions of the slaughtered shares — until you call him by the name of the stallion of Hunayda, who guards his mares, mature and bellowing.",
+    "vocabularyHighlights": [
+      { "word": "البكر", "meaning": "young camel" },
+      { "word": "الفصيل", "meaning": "weaned calf" },
+      { "word": "مهند", "meaning": "Indian sword" },
+      { "word": "القدار", "meaning": "butcher, slaughterer" },
+      { "word": "الأيسار", "meaning": "portions of slaughtered meat" },
+      { "word": "بازل", "meaning": "mature (camel, nine years old)" }
+    ],
+    "context": "A boastful poem combining proverbial wisdom with martial threat. Hassan opens with the folk saying that a young camel is like a weaned calf — appearances can be deceiving — before declaring the prowess of the Ansar. The butchery metaphor graphically depicts the violence of battle, and the poem closes with the image of a powerful stallion as the embodiment of Ansar strength."
+  },
+  {
+    "id": "hassan-113",
+    "poetId": "hassan",
+    "titleAr": "وأمانة المري ، حيث لقيته ، يا حار من يغدر بذمة جاره",
+    "titleEn": "The Trustworthiness of the Murri",
+    "genre": "hija",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "وأمانة المري ، حيث لقيته ، يا حار من يغدر بذمة جاره",
+        "ajuz": "منكم ، فإن محمدا لم يغدر"
+      },
+      {
+        "sadr": "إن تغدروا فالغدر منكم شيمة ،",
+        "ajuz": "والغدر ينبت في أصول السخبر"
+      },
+      {
+        "sadr": "وأمانة المري ، حيث لقيته ،",
+        "ajuz": "مثل الزجاجة صدعها لم يجبر"
+      }
+    ],
+    "translationEn": "As for the trustworthiness of the Murri — wherever you meet him — O Harith, whoever among you betrays his neighbor's covenant, know that Muhammad never betrayed. If you betray, then treachery is your inborn trait, and treachery grows in the roots of the sakhbar bush. The trustworthiness of the Murri, wherever you meet him, is like glass — once cracked, it cannot be mended.",
+    "vocabularyHighlights": [
+      { "word": "أمانة", "meaning": "trustworthiness, honesty" },
+      { "word": "المري", "meaning": "the Murri (man from the tribe of Murra)" },
+      { "word": "يغدر", "meaning": "betrays, acts treacherously" },
+      { "word": "ذمة", "meaning": "covenant, protection" },
+      { "word": "شيمة", "meaning": "inborn trait, nature" },
+      { "word": "السخبر", "meaning": "sakhbar — a wild, bitter bush" },
+      { "word": "الزجاجة", "meaning": "glass (vessel)" }
+    ],
+    "context": "A satirical poem attacking the tribe of Murra for their treachery, contrasting their broken covenants with the Prophet Muhammad's faithfulness. The proverb that treachery grows in the roots of the sakhbar bush suggests it is innate to them. The simile of cracked glass — impossible to repair — became proverbial in Arabic literature for irreversible betrayal."
+  },
+  {
+    "id": "hassan-114",
+    "poetId": "hassan",
+    "titleAr": "ما ولدتكم قروم من بني أسد ،",
+    "titleEn": "No Noble Stallions of Banu Asad Sired You",
+    "genre": "hija",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "ما ولدتكم قروم من بني أسد ،",
+        "ajuz": "ولا هصيص ، ولا تيم ، ولا عمر"
+      },
+      {
+        "sadr": "ولا عدي بن كعب ، إن صيغتها",
+        "ajuz": "كالهندواني ، ولا رث ، ولا دثر"
+      },
+      {
+        "sadr": "وأنت عبد لقين ، لا فؤاد له ،",
+        "ajuz": "من آل شجع ، هناك اللؤم والخور"
+      },
+      {
+        "sadr": "وقد تبين في شجع ولادتكم ،",
+        "ajuz": "كما تبين أنى يطلع القمر"
+      }
+    ],
+    "translationEn": "No noble stallions of the Banu Asad sired you, nor Husays, nor Taym, nor Umar, nor Adi ibn Ka'b — whose forging is like Indian steel, neither worn out nor faded. You are but a slave of a base man with no heart, from the clan of Shuja' — there lies baseness and weakness. Your birth among the Shuja' is plainly evident, as plainly as the direction from which the moon rises.",
+    "vocabularyHighlights": [
+      { "word": "قروم", "meaning": "noble stallions, chieftains" },
+      { "word": "صيغتها", "meaning": "their forging, their making" },
+      { "word": "الهندواني", "meaning": "Indian (steel), of fine make" },
+      { "word": "رث", "meaning": "worn out, shabby" },
+      { "word": "دثر", "meaning": "faded, obliterated" },
+      { "word": "اللؤم", "meaning": "baseness, vileness" },
+      { "word": "الخور", "meaning": "weakness, feebleness" }
+    ],
+    "context": "A genealogical satire in which Hassan denies his target any noble lineage among the respected Qurayshi clans — Banu Asad, Taym, Umar, and Adi ibn Ka'b. He instead assigns the target to the obscure Shuja' clan, equating their origin with baseness and cowardice. The comparison of fine Qurayshi lineage to Indian steel emphasizes the contrast with the target's ignoble birth."
+  },
+  {
+    "id": "hassan-115",
+    "poetId": "hassan",
+    "titleAr": "أظن عيينة ، إذ زارها ،",
+    "titleEn": "Uyayna Thought When He Raided Her",
+    "genre": "hija",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "أظن عيينة ، إذ زارها ،",
+        "ajuz": "بأن سوف يهدم فيها قصورا"
+      },
+      {
+        "sadr": "ومنيت جمعك ما لم يكن ،",
+        "ajuz": "فقلت سنغنم شيئا كثيرا"
+      },
+      {
+        "sadr": "فعفت المدينة إذ جئتها ،",
+        "ajuz": "وألفيت للأسد فيها زئيرا"
+      },
+      {
+        "sadr": "فولوا سراعا كوخد النعا",
+        "ajuz": "م ، لم يكشفوا عن ملط حصيرا"
+      },
+      {
+        "sadr": "أمير علينا ، رسول الملي",
+        "ajuz": "ك ، أحبب بذاك إلينا أميرا"
+      },
+      {
+        "sadr": "رسول نصدق ما جاءه",
+        "ajuz": "من الوحي ، كان سراجا منيرا"
+      }
+    ],
+    "translationEn": "Uyayna thought, when he raided her, that he would demolish her palaces. You promised your host what would never be, saying: we shall seize great spoils. But you found Medina, when you came to her, and you found the roar of lions within her. They turned back swiftly like the pace of ostriches, without having uncovered a single wall from its mat. Our commander over us is the Messenger of the Sovereign — how beloved a commander he is to us! A Messenger whose revelation we believe — he was a shining lamp.",
+    "vocabularyHighlights": [
+      { "word": "عيينة", "meaning": "Uyayna ibn Hisn — a Ghatafan chief" },
+      { "word": "قصورا", "meaning": "palaces, fortresses" },
+      { "word": "سنغنم", "meaning": "we shall seize as spoils" },
+      { "word": "زئيرا", "meaning": "roaring (of lions)" },
+      { "word": "وخد", "meaning": "fast pace (of ostriches or camels)" },
+      { "word": "سراجا منيرا", "meaning": "a shining lamp" }
+    ],
+    "context": "A satirical poem mocking Uyayna ibn Hisn al-Fazari, the Ghatafan chieftain who raided the outskirts of Medina but fled when he encountered Muslim resistance. Hassan contrasts Uyayna's boastful expectations with his humiliating retreat, comparing the fleeing raiders to ostriches. The poem closes with a declaration of faith in the Prophet as the community's true leader and a 'shining lamp' — echoing Quranic imagery (33:46)."
+  },
+  {
+    "id": "hassan-116",
+    "poetId": "hassan",
+    "titleAr": "حار بن كعب ألا الأحلام تزجركم",
+    "titleEn": "O Harith ibn Ka'b, Do Your Minds Not Restrain You",
+    "genre": "hija",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "حار بن كعب ألا الأحلام تزجركم",
+        "ajuz": "عنا ، وأنتم من الجوف الجماخير"
+      },
+      {
+        "sadr": "لا بأس بالقوم من طول ومن عظم ،",
+        "ajuz": "جسم البغال وأحلام العصافير"
+      },
+      {
+        "sadr": "ذروا التخاجؤ وامشوا مشية سجحا ،",
+        "ajuz": "إن الرجال ذوو عصب وتذكير"
+      },
+      {
+        "sadr": "كأنكم خشب جوف أسافله",
+        "ajuz": "مثقب فيه أرواح الأعاصير"
+      },
+      {
+        "sadr": "ألا طعان ، ألا فرسان عادية ،",
+        "ajuz": "إلا تجشوكم حول التنانير"
+      },
+      {
+        "sadr": "لا ينفع الطول من نوك الرجال ، ولا",
+        "ajuz": "يهدي الإله سبيل المعشر البور"
+      },
+      {
+        "sadr": "إني سأقصر عرضي عن شراركم ،",
+        "ajuz": "إن النجاشي لشيء غير مذكور"
+      },
+      {
+        "sadr": "ألفى أباه ، وألفى جده حبسا",
+        "ajuz": "بمعزل من معالي المجد والخير"
+      }
+    ],
+    "translationEn": "O Harith ibn Ka'b, do your minds not restrain you from us? You who are from the hollowed-out Jawf, those who strut. There is nothing wrong with these people in height and bulk — the bodies of mules and the minds of sparrows. Stop your swaggering and walk with an even gait, for true men are those of sinew and remembrance. You are like hollow logs, bored through at their bases, in which the winds of storms howl. No lancing, no charging horsemen — just your belching around the ovens. Height is of no use when men are fools, and God does not guide the path of a barren people. I shall keep my honor away from the worst of you, for the Najashi is a thing not worth mentioning. He found his father and his grandfather confined, set apart from the heights of glory and goodness.",
+    "vocabularyHighlights": [
+      { "word": "الأحلام", "meaning": "minds, intellects" },
+      { "word": "البغال", "meaning": "mules" },
+      { "word": "العصافير", "meaning": "sparrows" },
+      { "word": "التخاجؤ", "meaning": "swaggering, strutting" },
+      { "word": "خشب", "meaning": "logs, timber (hollow)" },
+      { "word": "الأعاصير", "meaning": "whirlwinds, storms" },
+      { "word": "التنانير", "meaning": "ovens, furnaces" },
+      { "word": "البور", "meaning": "barren, worthless" }
+    ],
+    "context": "One of Hassan's most famous satirical poems, targeting the tribe of Harith ibn Ka'b. The iconic verse 'bodies of mules and minds of sparrows' became one of the most quoted lines in Arabic poetry for describing people who are physically imposing but intellectually vacuous. The image of hollow logs howling with wind reinforces the theme of emptiness behind appearances. Hassan also targets al-Najashi, a rival poet."
+  },
+  {
+    "id": "hassan-117",
+    "poetId": "hassan",
+    "titleAr": "لعمرك بالبطحاء ، بين معرف ،",
+    "titleEn": "By Your Life, in the Valley between Ma'rif",
+    "genre": "wasf",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "لعمرك بالبطحاء ، بين معرف ،",
+        "ajuz": "وبين نطاة ، مسكن ومحاضر"
+      },
+      {
+        "sadr": "لعمري لحي ، بين دار مزاحم ،",
+        "ajuz": "وبين الجثى ، لا يجشم السير ، حاضر"
+      },
+      {
+        "sadr": "وحي حلال لا يكمش سربهم ،",
+        "ajuz": "لهم من وراء القاصيات زوافر"
+      },
+      {
+        "sadr": "إذا قيل يوما إظعنوا قد أتيتم ،",
+        "ajuz": "أقاموا ، ولم تجلب إليهم أباعر"
+      },
+      {
+        "sadr": "أحق بها من فتية وركائب",
+        "ajuz": "يقطع عنها الليل عوج ضوامر"
+      },
+      {
+        "sadr": "تقول وتذري الدمع عن حر وجهها :",
+        "ajuz": "لعلك ، نفسي قبل نفسك ، باكر"
+      },
+      {
+        "sadr": "أباح لها بطريق غسان غائطا",
+        "ajuz": "له من ذرى الجولان بقل وزاهر"
+      },
+      {
+        "sadr": "تربع في غسان أكفاف محبل",
+        "ajuz": "إلى حارث الجولان فالني ظاهر"
+      },
+      {
+        "sadr": "فقربتها للرحل ، وهي كأنها",
+        "ajuz": "ظليم نعام بالسماوة نافر"
+      },
+      {
+        "sadr": "فأوردتها ماء فما شربت به ،",
+        "ajuz": "سوى أنها قد بل منها المشافر"
+      },
+      {
+        "sadr": "فأصدرتها عن ماء ثهمل غدوة ،",
+        "ajuz": "من الغاب ذو طمرين ، فالبز آطر"
+      },
+      {
+        "sadr": "فباتت ، وبات الماء تحت جرانها",
+        "ajuz": "لدى نحرها من جمة الماء عاذر"
+      },
+      {
+        "sadr": "فدابت سراها ليلة ثم عرست",
+        "ajuz": "بيثرب ، والأعراب باد وحاضر"
+      }
+    ],
+    "translationEn": "By your life, in the valley between Ma'rif and Nata'a there are dwellings and settled camps. By my life, a clan between the house of Muzahim and the hillocks — settled, not burdened with travel. A lawful clan whose herds are not driven in haste, having abundant provisions from behind the distant pastures. When told one day 'Move on, you have been overtaken,' they stood fast, and no camels were driven to them. More deserving of her are young men and riding camels whose lean, crooked forms cut through the night. She speaks and sheds tears from her noble face: perhaps, my soul, you will depart before your own soul departs. The patriarch of Ghassan opened for her a valley that has from the peaks of the Golan herbs and blossoms. She pastured in Ghassan on the slopes of Mahbal to Harith of the Golan, where the heights are visible. I brought her close for the saddle, and she was like a male ostrich in the Samawa, startled and fleeing. I led her to water, but she barely drank — only her lips were moistened. I drove her from the water of Thahmal at dawn — from the thicket came a man in rags, his garments sparse. She spent the night, and the water settled beneath her throat, a surplus at her breast from the abundance of water. She traveled through the night, then halted at Yathrib, among both nomads and settled folk.",
+    "vocabularyHighlights": [
+      { "word": "البطحاء", "meaning": "wide valley, riverbed" },
+      { "word": "ظليم", "meaning": "male ostrich" },
+      { "word": "السماوة", "meaning": "al-Samawa — a desert region" },
+      { "word": "المشافر", "meaning": "lips (of a camel)" },
+      { "word": "جرانها", "meaning": "her throat (of a camel)" },
+      { "word": "الجولان", "meaning": "the Golan — highland region" },
+      { "word": "يثرب", "meaning": "Yathrib — the pre-Islamic name of Medina" }
+    ],
+    "context": "A descriptive journey poem (rahil) tracing a route from the Khaybar region through the Golan Heights to Yathrib (Medina). Hassan describes settled clans, pastures, and the stages of a night journey on a lean she-camel. The topographical references — Nata'a, the Golan, al-Samawa, Thahmal — provide a geographic map of the poet's world. The poem blends the traditional journey motif with Ghassanid territorial pride."
+  },
+  {
+    "id": "hassan-118",
+    "poetId": "hassan",
+    "titleAr": "صابت شعائره بصرى ، وفي رمح",
+    "titleEn": "His Lightning Struck Busra",
+    "genre": "madih",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "صابت شعائره بصرى ، وفي رمح",
+        "ajuz": "منه دخان حريق كالأعاصير"
+      },
+      {
+        "sadr": "أفنى بذي بعل حتى باد ساكنها ،",
+        "ajuz": "وكل قصر من الخمان معمور"
+      },
+      {
+        "sadr": "فأعجل القوم عن حاجاتهم شغل ،",
+        "ajuz": "من وخز جن بأرض الروم مذكور"
+      }
+    ],
+    "translationEn": "His bolts struck Busra, and from his spear there rose smoke of fire like whirlwinds. He annihilated the people of Dhu Ba'l until its inhabitants vanished, and every palace of rough timber was left desolate. The people were hurried from their needs by a calamity — a piercing affliction by jinn in the land of the Romans, well remembered.",
+    "vocabularyHighlights": [
+      { "word": "شعائره", "meaning": "his lightning bolts, his signs" },
+      { "word": "بصرى", "meaning": "Busra — a city in southern Syria" },
+      { "word": "حريق", "meaning": "fire, conflagration" },
+      { "word": "الأعاصير", "meaning": "whirlwinds, storms" },
+      { "word": "أفنى", "meaning": "he annihilated, exterminated" },
+      { "word": "وخز", "meaning": "piercing, pricking" }
+    ],
+    "context": "A short praise poem celebrating a military campaign against Busra (Bosra) in the Byzantine Levant. The imagery of fire and whirlwinds evokes the devastation wrought by Arab raiders on Roman frontier towns. The reference to 'jinn piercing' in the land of the Romans may allude to plague or supernatural dread associated with these raids."
+  },
+  {
+    "id": "hassan-119",
+    "poetId": "hassan",
+    "titleAr": "سلامة دمية في لوح باب",
+    "titleEn": "Salama Is a Doll in a Door's Panel",
+    "genre": "ghazal",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "سلامة دمية في لوح باب",
+        "ajuz": "هبلت ألا تعز كما تجير"
+      },
+      {
+        "sadr": "ولا ينفك ما عاش ابن روح",
+        "ajuz": "جذامي بذمته ختور"
+      }
+    ],
+    "translationEn": "Salama is a doll in a door's panel — woe to you, do you not honor as you give refuge? As long as Ibn Rawh lives, a Judhami man, he will never cease to be treacherous in his covenant.",
+    "vocabularyHighlights": [
+      { "word": "دمية", "meaning": "doll, effigy, image" },
+      { "word": "لوح", "meaning": "panel, plank" },
+      { "word": "هبلت", "meaning": "woe to you, may you be bereft" },
+      { "word": "تعز", "meaning": "you honor, you protect" },
+      { "word": "ختور", "meaning": "treacherous, perfidious" }
+    ],
+    "context": "A brief, biting poem combining a love image with political satire. Salama is compared to a decorative doll painted on a door panel — beautiful but inert and useless. The second verse attacks Ibn Rawh of the Judham tribe as constitutionally treacherous. The juxtaposition of the ornamental beloved with tribal betrayal is characteristic of Hassan's compressed satirical style."
+  },
+  {
+    "id": "hassan-120",
+    "poetId": "hassan",
+    "titleAr": "يا ابني رفاعة ، ما بالي وبالكما ،",
+    "titleEn": "O Two Sons of Rifa'a, What Is Between Me and You",
+    "genre": "hija",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "يا ابني رفاعة ، ما بالي وبالكما ،",
+        "ajuz": "هل تقصران ، ولم تمسسكما ناري"
+      },
+      {
+        "sadr": "ما كان منتهيا حتى يقاذفني",
+        "ajuz": "كلب وجأت على فيه بأحجار"
+      },
+      {
+        "sadr": "يكسو الثلاثة نصف الثوب بينهم ،",
+        "ajuz": "بمئزر ، ورداء غير أطهار"
+      },
+      {
+        "sadr": "قد خاب قوم نيار من سراتهم",
+        "ajuz": "رجلا مجوعة شبت بمسعار"
+      },
+      {
+        "sadr": "لولا ابن هيشة ، إن المرء ذو رحم ،",
+        "ajuz": "إذا لأنشبت بالبزواء أظفاري"
+      }
+    ],
+    "translationEn": "O two sons of Rifa'a, what is between me and you? Do you hold back, though my fire has not touched you? He would not stop until a dog hurls insults at me — I struck him on his mouth with stones. The three of them share half a garment among themselves — a loincloth and a cloak, neither of them clean. Wretched are the people whose chief, Niyyar, is a man from a starving household kindled by a fire-poker. Were it not for Ibn Haysha — for a man has ties of kinship — I would have sunk my claws into them at al-Bazwa'.",
+    "vocabularyHighlights": [
+      { "word": "تقصران", "meaning": "you two hold back, restrain yourselves" },
+      { "word": "يقاذفني", "meaning": "he hurls insults at me" },
+      { "word": "مئزر", "meaning": "loincloth, waist-wrap" },
+      { "word": "رداء", "meaning": "cloak, upper garment" },
+      { "word": "مجوعة", "meaning": "starving household" },
+      { "word": "أنشبت", "meaning": "I would have sunk, embedded" }
+    ],
+    "context": "A satirical poem attacking the sons of Rifa'a and their ally Niyyar, mocking their poverty — three men sharing a single set of unclean garments — and their aggression. Hassan restrains himself only because of kinship ties through Ibn Haysha. The image of striking a barking dog on the mouth with stones conveys his contempt for those who provoke him without cause."
+  },
+  {
+    "id": "hassan-121",
+    "poetId": "hassan",
+    "titleAr": "أبلغ معاوية بن حرب مألكا ، أبلغ معاوية بن حرب مألكا ،",
+    "titleEn": "Convey a Message to Mu'awiya ibn Harb",
+    "genre": "hija",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "أبلغ معاوية بن حرب مألكا ، أبلغ معاوية بن حرب مألكا ،",
+        "ajuz": "ولكل أمر يستراد قرار"
+      },
+      {
+        "sadr": "لا تقبلن دنية أعطيتها",
+        "ajuz": "أبدا ، ولما تألم الأنصار"
+      },
+      {
+        "sadr": "حتى تبار قبيلة بقبيلة",
+        "ajuz": "قودا وتخرب بالديار ديار"
+      },
+      {
+        "sadr": "وتجيء من نقب الحجاز كتيبة ،",
+        "ajuz": "وتسيل بالمستلئمين صرار"
+      }
+    ],
+    "translationEn": "Convey a message to Mu'awiya ibn Harb — and for every affair that is sought, there is a reckoning. Never accept a humiliation offered to you while the Ansar have not yet been harmed — not until tribe destroys tribe in retaliation, and dwelling destroys dwelling, and a battalion comes through the passes of the Hijaz, and Sarar overflows with armored men.",
+    "vocabularyHighlights": [
+      { "word": "مألكا", "meaning": "a message, a communication" },
+      { "word": "دنية", "meaning": "humiliation, base offer" },
+      { "word": "تبار", "meaning": "is destroyed, perishes" },
+      { "word": "قودا", "meaning": "in retaliation, as retribution" },
+      { "word": "كتيبة", "meaning": "battalion, military unit" },
+      { "word": "المستلئمين", "meaning": "armored warriors" },
+      { "word": "صرار", "meaning": "Sarar — a valley near Medina" }
+    ],
+    "context": "A political warning poem addressed to Mu'awiya ibn Abi Sufyan (here called ibn Harb after his grandfather), urging him not to accept any humiliating terms from enemies while the Ansar remain undefeated. Hassan promises that the Ansar will fight to the last, sending battalions through the mountain passes of the Hijaz. This poem reflects the tense political dynamics of the early caliphate period."
+  },
+  {
+    "id": "hassan-122",
+    "poetId": "hassan",
+    "titleAr": "وقوم من البغضاء زور ، كأنما",
+    "titleEn": "A People Whose Hatred Is Crooked",
+    "genre": "fakhr",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "وقوم من البغضاء زور ، كأنما",
+        "ajuz": "بأجوافهم ، مما تجن لنا ، الجمر"
+      },
+      {
+        "sadr": "يجيش بما فيه لنا الصدر مثل ما",
+        "ajuz": "تجيش بما فيها من اللهب القدر"
+      },
+      {
+        "sadr": "تصد ، إذا ما واجهتني ، خدودهم",
+        "ajuz": "لدى محفل عني كأنهم صعر"
+      },
+      {
+        "sadr": "تصيخ إذا يثنى بخير لديهم ،",
+        "ajuz": "رؤوسهم عني ، وما بهم وقر"
+      },
+      {
+        "sadr": "وإن سمعوا سوءا بدا في وجوههم ،",
+        "ajuz": "لما سمعوا ، مما يقال لنا البشر"
+      },
+      {
+        "sadr": "أجدي لا ينفك غس يسبني ،",
+        "ajuz": "فجورا بظهر الغيب أو ملحم قحر"
+      },
+      {
+        "sadr": "ولو سئلت بدر بحسن بلائنا ،",
+        "ajuz": "فأثنت بما فينا ، إذا حمدت بدر"
+      },
+      {
+        "sadr": "حفاظا على أحسابنا بنفوسنا ،",
+        "ajuz": "إذا لم يكن غير السيوف لنا ستر"
+      },
+      {
+        "sadr": "وأبدت معاريها النساء ، وأبرزت ،",
+        "ajuz": "من الروع ، كاب حسن ألوانها ، الزهر"
+      }
+    ],
+    "translationEn": "A people whose hatred is crooked — as though within their bellies, from what they conceal against us, there are live coals. Their chests seethe against us, just as a pot seethes with the flames within it. Their cheeks turn away when they face me in any gathering, as though they are afflicted with a twisted neck. Their heads incline away from me when good is mentioned of us in their presence, though they are not deaf. But when they hear something evil, joy appears on their faces at what is said against us. A treacherous wretch from Jud ceaselessly insults me — wickedly behind my back, or a stubborn brawler. Yet if Badr were asked about our fine valor and spoke of what is in us, Badr would praise us — guarding our honor with our very lives when nothing but swords served as our shield, and the women bared their arms and revealed from fright their bright faces, faded in complexion.",
+    "vocabularyHighlights": [
+      { "word": "البغضاء", "meaning": "hatred, enmity" },
+      { "word": "الجمر", "meaning": "live coals, embers" },
+      { "word": "يجيش", "meaning": "seethes, boils over" },
+      { "word": "صعر", "meaning": "twisted neck, wry-necked" },
+      { "word": "تصيخ", "meaning": "they incline, lean (their heads)" },
+      { "word": "غس", "meaning": "treacherous, vile person" },
+      { "word": "حفاظا", "meaning": "in protection, guarding" }
+    ],
+    "context": "A poem combining satire of envious enemies with boasting about the Ansar's valor at Badr. Hassan vividly depicts the hypocrites who seethe with concealed hatred, turning away when good is mentioned of the Muslims and rejoicing at bad news. He then contrasts their treachery with the Ansar's proven courage, where women bared their arms and faces paled from fear as the men fought with swords as their only defense."
+  },
+  {
+    "id": "hassan-123",
+    "poetId": "hassan",
+    "titleAr": "لقد لقيت قريظة ما سآها ،",
+    "titleEn": "Qurayza Has Met What Grieves Them",
+    "genre": "madih",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "لقد لقيت قريظة ما سآها ،",
+        "ajuz": "وما وجدت لذل من نصير"
+      },
+      {
+        "sadr": "أصابهم بلاء كان فيهم ،",
+        "ajuz": "سوى ما قد أصاب بني النضير"
+      },
+      {
+        "sadr": "غداة أتاهم يهوي إليهم",
+        "ajuz": "رسول الله كالقمر المنير"
+      },
+      {
+        "sadr": "له خيل مجنبة تعادى",
+        "ajuz": "بفرسان عليها كالصقور"
+      },
+      {
+        "sadr": "تركناهم وما ظفروا بشيء",
+        "ajuz": "دماؤهم عليهم كالعبير"
+      },
+      {
+        "sadr": "فهم صرعى تحوم الطير فيهم ،",
+        "ajuz": "كذاك يدان ذو الفند الفخور"
+      },
+      {
+        "sadr": "فأردف مثلها نصحا قريشا ،",
+        "ajuz": "من الرحمن ، إن قبلت نذيري"
+      }
+    ],
+    "translationEn": "Qurayza has met what grieves them, and they found no helper against humiliation. A calamity struck them that was within them, beyond what had already befallen the Banu al-Nadir. On the morning the Messenger of God came sweeping down upon them like the luminous moon, with led horses galloping, carrying horsemen upon them like falcons. We left them having gained nothing — their blood upon them like perfume. They lay slain, with birds circling over them; thus is repaid the boaster with his false claims. So let the like of this follow as counsel to Quraysh, from the Most Merciful, if you accept my warning.",
+    "vocabularyHighlights": [
+      { "word": "سآها", "meaning": "grieved them, distressed them" },
+      { "word": "بلاء", "meaning": "calamity, trial" },
+      { "word": "مجنبة", "meaning": "led alongside (horses)" },
+      { "word": "كالصقور", "meaning": "like falcons" },
+      { "word": "العبير", "meaning": "perfume, musk" },
+      { "word": "صرعى", "meaning": "fallen, slain" },
+      { "word": "نذيري", "meaning": "my warning" }
+    ],
+    "context": "A poem about the siege and punishment of the Jewish tribe of Banu Qurayza (627 CE), who were accused of treachery during the Battle of the Trench. Hassan describes the Prophet descending upon them like the moon, with cavalrymen like falcons. The poem serves as both a record of the event and a warning to the Quraysh, urging them to accept Islam before meeting a similar fate. The reference to the Banu al-Nadir recalls their earlier expulsion from Medina."
+  },
+  {
+    "id": "hassan-124",
+    "poetId": "hassan",
+    "titleAr": "لاطت قريش حياض المجد فافترطت",
+    "titleEn": "Quraysh Plastered the Basins of Glory",
+    "genre": "hija",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "لاطت قريش حياض المجد فافترطت",
+        "ajuz": "سهم ، فأصبح منه حوضها صفرا"
+      },
+      {
+        "sadr": "وأوردوا ، وحياض المجد طامية ،",
+        "ajuz": "فدل حوضهم الوراد فانهدرا"
+      },
+      {
+        "sadr": "والله ما في قريش كلها نفر",
+        "ajuz": "أكثر شيخا جبانا فاحشا غمرا"
+      },
+      {
+        "sadr": "أذب أصلع سفسيرا له ذأب",
+        "ajuz": "كالقرد يعجم وسط المجلس الحمرا"
+      },
+      {
+        "sadr": "هذر مشائيم محروم ثويهم ،",
+        "ajuz": "إذا تروح منهم زود القمرا"
+      },
+      {
+        "sadr": "أما ابن نابغة العبد الهجين ، فقد",
+        "ajuz": "أنحي عليه لسانا صارما ذكرا"
+      },
+      {
+        "sadr": "ما بال أمك زاغت عند ذي شرف",
+        "ajuz": "إلى جذيمة ، لما عفت الأثرا"
+      },
+      {
+        "sadr": "ظلت ثلاثا ، وملحان معانقها ،",
+        "ajuz": "عند الحجون ، فما ملا وما فترا"
+      },
+      {
+        "sadr": "يا آل سهم ، فإني قد نصحت لكم ،",
+        "ajuz": "لا أبعثن على الأحياء من قبرا"
+      },
+      {
+        "sadr": "ألا ترون بأني قد ظلمت ، إذا",
+        "ajuz": "كان الزبعرى لنعلي ثابت خطرا"
+      },
+      {
+        "sadr": "كم من كريم يعض الكلب مئزره",
+        "ajuz": "ثم يفر إذا ألقمته الحجرا"
+      },
+      {
+        "sadr": "قولي لكم ، آل شجع ، سم مطرقة",
+        "ajuz": "صماء تطحر عن أنيابها القذرا"
+      },
+      {
+        "sadr": "لولا النبي ، وقول الحق مغضبة ،",
+        "ajuz": "لما تركت لكم أنثى ولا ذكرا"
+      }
+    ],
+    "translationEn": "Quraysh plastered the basins of glory, but the clan of Sahm rushed in and their basin was left empty. They brought their herds to drink, and the brimming basins of glory — their pool misled the drinkers and collapsed. By God, in all of Quraysh there is no clan with more old men who are cowardly, foul-mouthed, and ignorant — repulsive, bald, petty brokers with wolfish cunning, like monkeys chewing date-pits in the middle of the assembly. They are babbling, ill-omened, deprived — their guest when he departs is given the moon as provision. As for Ibn Nabigha, that base-born slave, I have unleashed upon him a tongue sharp and keen. What ailed your mother that she strayed to Judhayma at a man of rank, when she had effaced the traces? She lingered three days, with Milhan embracing her at al-Hujun, neither tiring nor slowing. O clan of Sahm, I have given you sincere counsel — I shall not raise from the graves against the living. Do you not see that I have been wronged, if al-Zibari were the equal of Thabit's sandal? How many a noble man's waistcloth does the dog bite, then flees when you throw a stone at him. My words to you, O clan of Shuja', are the venom of a solid hammer that knocks the filth from its teeth. Were it not for the Prophet and the obligation of truth even in anger, I would not have left you a single female or male.",
+    "vocabularyHighlights": [
+      { "word": "لاطت", "meaning": "plastered, sealed (with clay)" },
+      { "word": "حياض", "meaning": "basins, watering troughs" },
+      { "word": "سفسيرا", "meaning": "petty broker, middleman" },
+      { "word": "مشائيم", "meaning": "ill-omened, unlucky" },
+      { "word": "الزبعرى", "meaning": "al-Zibari — Ibn al-Zibari, rival poet" },
+      { "word": "مطرقة", "meaning": "hammer" },
+      { "word": "أنحى", "meaning": "I unleashed, directed (an attack)" }
+    ],
+    "context": "A devastating satirical poem targeting the Banu Sahm clan of Quraysh and Hassan's rival poet Ibn al-Zibari. Hassan attacks their lineage, character, and hospitality with a barrage of animal imagery — monkeys, dogs, wolves. The poem escalates to a scandalous accusation about the target's mother before concluding that only the Prophet's command for truthfulness restrains him from total annihilation. This is among the most aggressive examples of hija (invective) in the Diwan."
+  },
+  {
+    "id": "hassan-125",
+    "poetId": "hassan",
+    "titleAr": "قوم لئام أقلض الله خيرهم ،",
+    "titleEn": "A Base People Whose Goodness God Has Curtailed",
+    "genre": "hija",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "قوم لئام أقلض الله خيرهم ،",
+        "ajuz": "كما تناثر ، خلف الراكب ، البعر"
+      },
+      {
+        "sadr": "كأن ريحهم في الناس ، إذ خرجوا ،",
+        "ajuz": "ريح الحشاش إذا ما بلها المطر"
+      },
+      {
+        "sadr": "قد ابرز الله قولا ، فوق قولهم ،",
+        "ajuz": "كما النجوم تعالى فوقها القمر"
+      }
+    ],
+    "translationEn": "A base people whose goodness God has curtailed, scattering like dung falls behind the rider. Their scent among people, when they emerged, was like the smell of dry grass when rain soaks it. God has brought forth a word above their words, just as the moon rises high above the stars.",
+    "vocabularyHighlights": [
+      { "word": "لئام", "meaning": "base, ignoble" },
+      { "word": "أقلض", "meaning": "curtailed, diminished" },
+      { "word": "تناثر", "meaning": "scattered, fell apart" },
+      { "word": "البعر", "meaning": "dung, droppings" },
+      { "word": "الحشاش", "meaning": "dry grass, hay" },
+      { "word": "النجوم", "meaning": "stars" }
+    ],
+    "context": "A concise satirical poem in three verses, employing earthy, visceral imagery to degrade the targets. Their goodness scatters like camel dung on the road, and their presence reeks like wet grass. The final verse pivots to declare the supremacy of God's word over their empty speech — the moon outshining the stars. This closing theological affirmation elevates the poem beyond mere personal invective into a statement of divine vindication."
+  }
+]

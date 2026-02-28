@@ -1,0 +1,97 @@
+{
+  "id": "hibah",
+  "titleAr": "كتاب الهبة",
+  "titleEn": "Gift",
+  "order": 18,
+  "categoryId": "muamalat",
+  "pageRange": [
+    114,
+    116
+  ],
+  "abwab": [
+    {
+      "id": "hibah-main",
+      "kitabId": "hibah",
+      "titleAr": "كتاب الهبة",
+      "titleEn": "Gift",
+      "order": 1,
+      "sections": [
+        {
+          "id": "hibah-main-1-1",
+          "babId": "hibah-main",
+          "kitabId": "hibah",
+          "titleAr": "كتاب الهبة",
+          "titleEn": "Gift",
+          "order": 1,
+          "textAr": "الهبة: تصح بالإيجاب والقبول وتتم القبض فإذا قبض الموهوب له في المجلس بغير أمر الواهب جاز\n\nوإن قبض بعد الافتراق لم تصح إلا أن يأذن له الواهب في القبض\n\nوتنعقد الهبة بقوله: وهبت ونحلت وأعطيت وأطعمتك هذا الطعام وجعلت هذا الثوب لك وأعمرتك هذا الشيء وحملتك على هذه الدابة إذا نوى بالحملان الهبة\n\nولا تجوز الهبة فيما يقسم إلا محوزة مقسومة\n\nوهبة المشاع فيما لا يقسم جائزة\n\nومن وهب شقصا مشاعا فالهبة فاسدة\n\nفإن قسمه وسلمه جاز\n\nولو وهب دقيقا في حنطة أو دهنا في سمسم فالهبة فاسدة فأن طحن وسلم لم يجز\n\nوإذا كانت العين في يد الموهوب ملكها بالهبة وإن لم يجددفيها قبضا وإذا وهب الأب لابنه الصغير هبة ملكها الابن بالعقد فإن وهب له أجنبي هبة تمت بقبض الأب\n\nوإذا وهب لليتيم هبة فقبضها له وليه جاز فأن كان في حجر أمه فقبضها له جائز وكذلك إن كان في حجر أجنبي يربيه فقبضه له جائز\n\nوإن قبض الصبي الهبة بنفسه له جاز",
+          "sourcePage": 114,
+          "masail": [
+            {
+              "id": "masalah-hibah-main-1-1",
+              "sectionId": "hibah-main-1-1",
+              "kitabId": "hibah",
+              "titleAr": "كتاب الهبة",
+              "titleEn": "Gift",
+              "rulingAr": "الهبة: تصح بالإيجاب والقبول وتتم القبض فإذا قبض الموهوب له في المجلس بغير أمر الواهب جاز\n\nوإن قبض بعد الافتراق لم تصح إلا أن يأذن له الواهب في القبض\n\nوتنعقد الهبة بقوله: وهبت ونحلت وأعطيت وأطعمتك هذا الطعام وجعلت هذا الثوب لك وأعمرتك هذا الشيء وحملتك على هذه الدابة إذا نوى بالحملان الهبة\n\nولا تجوز الهبة فيما يقسم إلا محوزة مقسومة\n\nوهبة المشاع فيما لا يقسم جائزة\n\nومن وهب شقصا مشاعا فالهبة فاسدة\n\nفإن قسمه وسلمه جاز\n\nولو وهب دقيقا في حنطة أو دهنا في سمسم فالهبة فاسدة فأن طحن وسلم لم يجز\n\nوإذا كانت العين في يد الموهوب ملكها بالهبة وإن لم يجددفيها قبضا وإذا وهب الأب لابنه الصغير هبة ملكها الابن بالعقد فإن وهب له أجنبي هبة تمت بقبض الأب\n\nوإذا وهب لليتيم هبة فقبضها له وليه جاز فأن كان في حجر أمه فقبضها له جائز وكذلك إن كان في حجر أجنبي يربيه فقبضه له جائز\n\nوإن قبض الصبي الهبة بنفسه له جاز",
+              "rulingEn": "A gift (hibah) is valid by offer and acceptance and is completed by taking possession. If the recipient takes possession in the contractual session without the donor's instruction, it is valid.\n\nIf he takes possession after separation, it is not valid unless the donor authorizes him to take possession.\n\nA gift is concluded by the donor's saying: \"I have gifted,\" \"I have granted,\" \"I have given,\" \"I have fed you this food,\" \"I have made this garment yours,\" \"I have given you lifetime use of this thing,\" or \"I have mounted you on this riding animal\" -- if by \"mounting\" he intends a gift.\n\nGifting what is divisible is not valid unless it is possessed exclusively and divided.\n\nGifting an undivided share in what is indivisible is valid.\n\nIf someone gifts an undivided fractional share, the gift is defective.\n\nIf he divides it and delivers it, it becomes valid.\n\nIf someone gifts flour mixed in wheat or oil in sesame, the gift is defective. If he grinds and delivers it, it is still not valid.\n\nIf the gifted item is already in the recipient's possession, he owns it by the gift without needing a new act of taking possession. If a father gifts something to his minor child, the child owns it by the contract. If a stranger gifts something to the child, it is completed by the father's taking possession.\n\nIf someone gifts something to an orphan, his guardian's taking possession on his behalf is valid. If the orphan is in the care of his mother, her taking possession for him is valid. Likewise if he is in the care of a stranger who raises him, that person's taking possession for him is valid.\n\nIf the child takes possession of the gift himself, it is valid.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "A gift (hibah) is valid by offer and acceptance and is completed by taking possession. If the recipient takes possession in the contractual session without the donor's instruction, it is valid.\n\nIf he takes possession after separation, it is not valid unless the donor authorizes him to take possession.\n\nA gift is concluded by the donor's saying: \"I have gifted,\" \"I have granted,\" \"I have given,\" \"I have fed you this food,\" \"I have made this garment yours,\" \"I have given you lifetime use of this thing,\" or \"I have mounted you on this riding animal\" -- if by \"mounting\" he intends a gift.\n\nGifting what is divisible is not valid unless it is possessed exclusively and divided.\n\nGifting an undivided share in what is indivisible is valid.\n\nIf someone gifts an undivided fractional share, the gift is defective.\n\nIf he divides it and delivers it, it becomes valid.\n\nIf someone gifts flour mixed in wheat or oil in sesame, the gift is defective. If he grinds and delivers it, it is still not valid.\n\nIf the gifted item is already in the recipient's possession, he owns it by the gift without needing a new act of taking possession. If a father gifts something to his minor child, the child owns it by the contract. If a stranger gifts something to the child, it is completed by the father's taking possession.\n\nIf someone gifts something to an orphan, his guardian's taking possession on his behalf is valid. If the orphan is in the care of his mother, her taking possession for him is valid. Likewise if he is in the care of a stranger who raises him, that person's taking possession for him is valid.\n\nIf the child takes possession of the gift himself, it is valid."
+        },
+        {
+          "id": "hibah-main-1-2",
+          "babId": "hibah-main",
+          "kitabId": "hibah",
+          "titleAr": "كتاب الهبة",
+          "titleEn": "Gift",
+          "order": 2,
+          "textAr": "وإن وهب اثنان من واحد دارا جاز وإن وهب واحد من اثنين دارا لم يصح عند أبي حنيفة وقال أبو يوسف ومحمد: يصح\n\nوإذا وهب هبة لأجنبي فله الرجوع فيها\n\nإلا أن يعوضه عنها أو تزيد زيادة متصلة أو يموت أحد المتعاقدين أو\n\nتخرج الهبة من ملك الموهوب له\n\nوإن وهب هبة لذي رحم محرم منه فلا رجوع فيها\n\nوكذلك ما وهب أحد الزوجين لآخر\n\nوإذا قال الموهوب له للواهب: خذ هذا عوضا عن هبتك أو بدلا عنها أو في مقابلتها فقبضه الواهب سقط الرجوع وإن عوضه أجنبي عن الموهوب له متبرعا فقبض الواهب العوض سقط الرجوع\n\nوإذا استحق نصف الهبة رجع بنصف العوض وإن استحق نصف العوض لم يرجع في الهبة إلا أن يرد ما بقي من العوض ثم يرجع\n\nولا يصح الرجوع إلا بتراضيهما أو بحكم الحاكم\n\nوإذا تلفت العين الموهوبة فاستحقها مستحق فضمن\n\nالموهوب له لم يرجع على الواهب بشي",
+          "sourcePage": 114,
+          "masail": [
+            {
+              "id": "masalah-hibah-main-1-2",
+              "sectionId": "hibah-main-1-2",
+              "kitabId": "hibah",
+              "titleAr": "كتاب الهبة",
+              "titleEn": "Gift",
+              "rulingAr": "وإن وهب اثنان من واحد دارا جاز وإن وهب واحد من اثنين دارا لم يصح عند أبي حنيفة وقال أبو يوسف ومحمد: يصح\n\nوإذا وهب هبة لأجنبي فله الرجوع فيها\n\nإلا أن يعوضه عنها أو تزيد زيادة متصلة أو يموت أحد المتعاقدين أو\n\nتخرج الهبة من ملك الموهوب له\n\nوإن وهب هبة لذي رحم محرم منه فلا رجوع فيها\n\nوكذلك ما وهب أحد الزوجين لآخر\n\nوإذا قال الموهوب له للواهب: خذ هذا عوضا عن هبتك أو بدلا عنها أو في مقابلتها فقبضه الواهب سقط الرجوع وإن عوضه أجنبي عن الموهوب له متبرعا فقبض الواهب العوض سقط الرجوع\n\nوإذا استحق نصف الهبة رجع بنصف العوض وإن استحق نصف العوض لم يرجع في الهبة إلا أن يرد ما بقي من العوض ثم يرجع\n\nولا يصح الرجوع إلا بتراضيهما أو بحكم الحاكم\n\nوإذا تلفت العين الموهوبة فاستحقها مستحق فضمن\n\nالموهوب له لم يرجع على الواهب بشي",
+              "rulingEn": "If two persons gift a house to one person, it is valid. If one person gifts a house to two persons, it is not valid according to Abu Hanifa. Abu Yusuf and Muhammad said: it is valid.\n\nIf someone gifts something to a stranger, he may retract it,\n\nunless he compensates him for it, or it increases with an inseparable increase, or one of the contracting parties dies, or\n\nthe gift exits the recipient's ownership.\n\nIf someone gifts something to a close relative who is a mahram, he may not retract it.\n\nLikewise, whatever one spouse gifts to the other.\n\nIf the recipient says to the donor: \"Take this as compensation for your gift,\" or \"as a substitute for it,\" or \"in exchange for it,\" and the donor takes possession, the right of retraction lapses. If a stranger compensates on behalf of the recipient voluntarily and the donor takes possession of the compensation, the right of retraction lapses.\n\nIf half the gift is claimed by a third party, the donor recovers half the compensation. If half the compensation is claimed, the donor may not retract the gift unless he returns what remains of the compensation and then retracts.\n\nRetraction is not valid except by mutual consent or by judicial decree.\n\nIf the gifted item is destroyed and a claimant recovers it (istihqaq) and the\n\nrecipient is held liable, he has no recourse against the donor.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "If two persons gift a house to one person, it is valid. If one person gifts a house to two persons, it is not valid according to Abu Hanifa. Abu Yusuf and Muhammad said: it is valid.\n\nIf someone gifts something to a stranger, he may retract it,\n\nunless he compensates him for it, or it increases with an inseparable increase, or one of the contracting parties dies, or\n\nthe gift exits the recipient's ownership.\n\nIf someone gifts something to a close relative who is a mahram, he may not retract it.\n\nLikewise, whatever one spouse gifts to the other.\n\nIf the recipient says to the donor: \"Take this as compensation for your gift,\" or \"as a substitute for it,\" or \"in exchange for it,\" and the donor takes possession, the right of retraction lapses. If a stranger compensates on behalf of the recipient voluntarily and the donor takes possession of the compensation, the right of retraction lapses.\n\nIf half the gift is claimed by a third party, the donor recovers half the compensation. If half the compensation is claimed, the donor may not retract the gift unless he returns what remains of the compensation and then retracts.\n\nRetraction is not valid except by mutual consent or by judicial decree.\n\nIf the gifted item is destroyed and a claimant recovers it (istihqaq) and the\n\nrecipient is held liable, he has no recourse against the donor."
+        },
+        {
+          "id": "hibah-main-1-3",
+          "babId": "hibah-main",
+          "kitabId": "hibah",
+          "titleAr": "كتاب الهبة",
+          "titleEn": "Gift",
+          "order": 3,
+          "textAr": "وإذا وهب بشرط العوض اعتبر التقابض في العوضين وإذا تقابضا صح العقد وصار في حكم البيع: يرد بالعيب وخيار الرؤية وتجيب فيه الشفعة\n\nوالعمرى جائزة للمعمر في حال حياته ولورثته من بعده\n\nوالرقبى باطلة عند أبي حنيفة ومحمد وقال أبو يوسف: جائزة\n\nومن وهب جارية إلا حملها صحت الهبة وبطل الاستثناء\n\nوالصدقة كالهبة: لا تصح إلا بالقبض ولا تجوز في مشاع يحتمل القسمة وإذا تصدق على فقيرين بشي جاز ولا يجوز الرجوع في الصدقة بعد القبض\n\nومن نذر أن يتصدق بماله لزمه أن يتصدق\n\nبجنس ما تجب فيه الزكاة ومن نذر أن يتصدق بجنس ما تجب في الزكاة ومن نذر أن يتصدق بملكه لزمه أن يتصدق بالجميع ويقال له: أمسك منه مقدار ما تنفقه على نفسك وعيالك إلى أن تكسب مالا فإذا اكتسبت مالا تصدق بمثل ما أمسكت لنفسك",
+          "sourcePage": 114,
+          "masail": [
+            {
+              "id": "masalah-hibah-main-1-3",
+              "sectionId": "hibah-main-1-3",
+              "kitabId": "hibah",
+              "titleAr": "كتاب الهبة",
+              "titleEn": "Gift",
+              "rulingAr": "وإذا وهب بشرط العوض اعتبر التقابض في العوضين وإذا تقابضا صح العقد وصار في حكم البيع: يرد بالعيب وخيار الرؤية وتجيب فيه الشفعة\n\nوالعمرى جائزة للمعمر في حال حياته ولورثته من بعده\n\nوالرقبى باطلة عند أبي حنيفة ومحمد وقال أبو يوسف: جائزة\n\nومن وهب جارية إلا حملها صحت الهبة وبطل الاستثناء\n\nوالصدقة كالهبة: لا تصح إلا بالقبض ولا تجوز في مشاع يحتمل القسمة وإذا تصدق على فقيرين بشي جاز ولا يجوز الرجوع في الصدقة بعد القبض\n\nومن نذر أن يتصدق بماله لزمه أن يتصدق\n\nبجنس ما تجب فيه الزكاة ومن نذر أن يتصدق بجنس ما تجب في الزكاة ومن نذر أن يتصدق بملكه لزمه أن يتصدق بالجميع ويقال له: أمسك منه مقدار ما تنفقه على نفسك وعيالك إلى أن تكسب مالا فإذا اكتسبت مالا تصدق بمثل ما أمسكت لنفسك",
+              "rulingEn": "If a gift is given with a stipulated consideration, mutual taking of possession of both items is required. Once both take possession, the contract becomes valid and assumes the ruling of a sale: it may be returned for defect or by the option of inspection, and pre-emption arises in it.\n\nLifetime use ('umra) is valid for the recipient during his lifetime and for his heirs after him.\n\nRuqba is void according to Abu Hanifa and Muhammad. Abu Yusuf said: it is valid.\n\nIf someone gifts a slave-girl excluding her pregnancy, the gift is valid and the exclusion is void.\n\nCharity (sadaqah) is like a gift: it is not valid except by taking possession, and it is not valid in an undivided share of what is divisible. If someone gives charity to two poor persons, it is valid. Retracting a charity after taking possession is not permissible.\n\nWhoever vows to give his wealth in charity is obligated to give charity\n\nfrom the type of property on which zakat is due. Whoever vows to give charity from the type on which zakat is due -- and whoever vows to give charity of his property -- is obligated to give charity of all of it. He is told: keep for yourself an amount to spend on yourself and your dependents until you earn wealth. Once you earn wealth, give in charity the equivalent of what you kept for yourself.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "If a gift is given with a stipulated consideration, mutual taking of possession of both items is required. Once both take possession, the contract becomes valid and assumes the ruling of a sale: it may be returned for defect or by the option of inspection, and pre-emption arises in it.\n\nLifetime use ('umra) is valid for the recipient during his lifetime and for his heirs after him.\n\nRuqba is void according to Abu Hanifa and Muhammad. Abu Yusuf said: it is valid.\n\nIf someone gifts a slave-girl excluding her pregnancy, the gift is valid and the exclusion is void.\n\nCharity (sadaqah) is like a gift: it is not valid except by taking possession, and it is not valid in an undivided share of what is divisible. If someone gives charity to two poor persons, it is valid. Retracting a charity after taking possession is not permissible.\n\nWhoever vows to give his wealth in charity is obligated to give charity\n\nfrom the type of property on which zakat is due. Whoever vows to give charity from the type on which zakat is due -- and whoever vows to give charity of his property -- is obligated to give charity of all of it. He is told: keep for yourself an amount to spend on yourself and your dependents until you earn wealth. Once you earn wealth, give in charity the equivalent of what you kept for yourself."
+        }
+      ]
+    }
+  ]
+}

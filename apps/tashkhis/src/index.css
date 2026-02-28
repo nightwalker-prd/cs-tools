@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500;600;700&family=Open+Sans:wght@300;400;500;600;700&family=Amiri:wght@400;700&display=swap');
+
+@import "tailwindcss";
+
+@theme {
+  --color-background: #f8f9fa;
+  --color-foreground: #222222;
+  --color-card: #ffffff;
+  --color-card-foreground: #222222;
+  --color-popover: #ffffff;
+  --color-popover-foreground: #222222;
+  --color-primary: #1a3150;
+  --color-primary-foreground: #ffffff;
+  --color-secondary: #f5f5f5;
+  --color-secondary-foreground: #1a3150;
+  --color-muted: #ececf0;
+  --color-muted-foreground: #717182;
+  --color-accent: #c5a253;
+  --color-accent-foreground: #1a3150;
+  --color-destructive: #d4183d;
+  --color-destructive-foreground: #ffffff;
+  --color-success: #22c55e;
+  --color-success-foreground: #ffffff;
+  --color-border: rgba(26, 49, 80, 0.1);
+  --color-input: transparent;
+  --color-ring: #9ca3af;
+  --radius: 1rem;
+
+  --font-arabic: 'Amiri', serif;
+  --font-serif: 'EB Garamond', serif;
+  --font-sans: 'Open Sans', sans-serif;
+}
+
+* {
+  border-color: var(--color-border);
+}
+
+body {
+  background-color: var(--color-background);
+  color: var(--color-foreground);
+  font-family: var(--font-sans);
+  overflow-x: hidden;
+}
+
+h1, h2, h3, h4 {
+  font-family: var(--font-serif);
+}
+
+.font-arabic {
+  font-family: var(--font-arabic);
+  font-feature-settings: 'liga', 'dlig';
+}
+
+/* Progress bar */
+.progress-bar {
+  height: 8px;
+  border-radius: 4px;
+  background-color: var(--color-muted);
+  overflow: hidden;
+}
+
+.progress-bar-fill {
+  height: 100%;
+  border-radius: 4px;
+  background-color: var(--color-primary);
+  transition: width 0.3s ease;
+}
+
+/* Option buttons */
+.option-btn {
+  transition: all 0.2s ease;
+  cursor: pointer;
+}
+
+.option-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(26, 49, 80, 0.15);
+}
+
+.option-btn.correct {
+  border-color: var(--color-success);
+  background-color: rgba(34, 197, 94, 0.1);
+}
+
+.option-btn.incorrect {
+  border-color: var(--color-destructive);
+  background-color: rgba(212, 24, 61, 0.1);
+}
+
+/* Fade-in-up animation */
+@keyframes fade-in-up {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in-up {
+  animation: fade-in-up 0.35s ease-out both;
+}
+
+/* Scorecard mini progress bar */
+.mini-bar {
+  height: 6px;
+  border-radius: 3px;
+  background-color: var(--color-muted);
+  overflow: hidden;
+}
+
+.mini-bar-fill {
+  height: 100%;
+  border-radius: 3px;
+  transition: width 0.5s ease;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(26, 49, 80, 0.2);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(26, 49, 80, 0.3);
+}
+
+/* Mobile touch targets */
+@media (max-width: 640px) {
+  button, .touch-target {
+    min-height: 44px;
+  }
+}
+
+/* iPad touch targets */
+@media (min-width: 768px) and (max-width: 1024px) {
+  button, .touch-target {
+    min-height: 48px;
+  }
+}

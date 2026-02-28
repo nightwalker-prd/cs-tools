@@ -1,0 +1,48 @@
+========================================
+=== Processing: 108911-86-88 ===
+=== Started: Mon Feb 23 18:25:56 GMT 2026 ===
+=== PDF: /Users/miftah/projects/alqalam-tools/data/stories/108911-86-88.pdf ===
+=== Working dir: /Users/miftah/projects/alqalam-tools/data/stories/108911-84-85 ===
+========================================
+
+[OK] PDF file exists
+[INFO] PDF size: 28K
+
+[INFO] Changed to directory: /Users/miftah/projects/alqalam-tools/data/stories/108911-84-85
+[INFO] Launching Claude...
+
+--- CLAUDE OUTPUT START ---
+The file has been written to `108911-86-88-yawm-al-eid.md` in the current directory. Here's a summary of what it contains:
+
+**Story:** (31) يَوْمُ الْعِيدِ — *The Day of Eid* (pages 86–88)
+
+**Contents of the file:**
+- Full Arabic text with English translation (9 paragraphs)
+- **Vocabulary section** — 30+ nouns, 30 verbs, adjectives/participles, and key cultural phrases
+- **Grammatical analysis** covering 11 topics:
+  1. كان and its sisters (with 6 examples from the text)
+  2. لمّا temporal clauses
+  3. Verb forms I through X with examples showing how each form adds meaning
+  4. 13 broken plural patterns
+  5. فاء (fa) as cause-and-effect connector vs. واو
+  6. Hal (circumstantial) clauses with وَقَدْ
+  7. كان + imperfect for past continuous
+  8. Idafa (possessive) chains
+  9. Negation with لا and ليس
+  10. Reciprocal بعضهم بعضاً construction
+  11. كأنّ (as if) with إنّ وأخواتها
+- **Thematic notes** on cultural/religious context (moon sighting, charity, Eid prayer traditions, Ramadan nostalgia)
+--- CLAUDE OUTPUT END ---
+
+========================================
+=== Exit code: 0 ===
+=== Finished: Mon Feb 23 18:29:05 GMT 2026 ===
+=== Files in directory: ===
+total 56
+drwxr-xr-x@  4 miftah  staff    128 Feb 23 18:28 .
+drwxr-xr-x@ 66 miftah  staff   2112 Feb 23 18:23 ..
+-rw-r--r--@  1 miftah  staff  21718 Feb 23 18:28 108911-86-88-yawm-al-eid.md
+-rw-r--r--@  1 miftah  staff   2272 Feb 23 18:25 claude_log.txt
+
+=== Created 1 markdown files ===
+========================================

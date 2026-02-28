@@ -1,0 +1,77 @@
+import type { StoryEpisode } from '../../../types';
+
+export const episode: StoryEpisode = {
+  id: 'arc3-ep1',
+  arcId: 'arc3-scholar',
+  number: 1,
+  titleAr: 'الحَلْقَةُ',
+  titleEn: 'The Study Circle',
+  setting: 'Ahmad, now more advanced in his studies, attends a traditional study circle (halqa) at the Prophetic Mosque. He meets Sheikh Abdullah, a classical Arabic teacher, and begins studying grammar more deeply.',
+  characters: [
+    { id: 'ahmad', nameAr: 'أَحْمَدُ', nameEn: 'Ahmad', role: 'protagonist' },
+    { id: 'sheikh', nameAr: 'الشَّيْخُ عَبْدُ اللهِ', nameEn: 'Sheikh Abdullah', role: 'supporting' },
+    { id: 'tariq', nameAr: 'طَارِقٌ', nameEn: 'Tariq', role: 'supporting' },
+  ],
+  dialogueLines: [
+    { speaker: 'ahmad', textAr: 'السَّلَامُ عَلَيْكُمْ يَا شَيْخُ. أَنَا أُرِيدُ أَنْ أَحْضُرَ حَلْقَتَكُمْ فِي النَّحْوِ.', textEn: 'Peace be upon you, Sheikh. I would like to attend your study circle in grammar.' },
+    { speaker: 'sheikh', textAr: 'وَعَلَيْكُمُ السَّلَامُ وَرَحْمَةُ اللهِ. أَهْلًا بِكَ يَا بُنَيَّ. مَا مُسْتَوَاكَ فِي العَرَبِيَّةِ؟', textEn: 'And upon you peace and the mercy of Allah. Welcome, my son. What is your level in Arabic?' },
+    { speaker: 'ahmad', textAr: 'أَنَا أَدْرُسُ فِي المُسْتَوَى الثَّالِثِ. دَرَسْتُ المُبْتَدَأَ وَالخَبَرَ وَالفِعْلَ وَالفَاعِلَ.', textEn: 'I study in the third level. I have studied the subject, predicate, verb, and agent.' },
+    { speaker: 'sheikh', textAr: 'الحَمْدُ لِلَّهِ. اِجْلِسْ مَعَنَا. نَحْنُ نَدْرُسُ كِتَابَ "الآجُرُّومِيَّةَ" الآنَ.', textEn: 'Praise be to Allah. Sit with us. We are studying the book "Al-Ajurrumiyyah" now.' },
+    { speaker: 'tariq', textAr: 'أَهْلًا! أَنَا طَارِقٌ. أَنَا مِنَ المَغْرِبِ. أَدْرُسُ هُنَا مُنْذُ سَنَتَيْنِ.', textEn: 'Welcome! I am Tariq. I am from Morocco. I have been studying here for two years.' },
+    { speaker: 'ahmad', textAr: 'تَشَرَّفْتُ يَا طَارِقُ. كَيْفَ الحَلْقَةُ؟ هَلْ هِيَ صَعْبَةٌ؟', textEn: 'Pleased to meet you, Tariq. How is the study circle? Is it difficult?' },
+    { speaker: 'tariq', textAr: 'فِي البِدَايَةِ كَانَتْ صَعْبَةً، لَكِنَّ الشَّيْخَ يُعَلِّمُ بِطَرِيقَةٍ سَهْلَةٍ. الصَّبْرُ مِفْتَاحُ العِلْمِ!', textEn: 'In the beginning it was difficult, but the Sheikh teaches in an easy way. Patience is the key to knowledge!' },
+    { speaker: 'sheikh', textAr: 'بِسْمِ اللهِ. لِنَبْدَأْ. قَالَ ابْنُ آجُرُّومَ رَحِمَهُ اللهُ: الكَلَامُ هُوَ اللَّفْظُ المُرَكَّبُ المُفِيدُ بِالوَضْعِ.', textEn: 'In the name of Allah. Let us begin. Ibn Ajurrum, may Allah have mercy on him, said: Speech is the composed, meaningful utterance by convention.' },
+    { speaker: 'sheikh', textAr: 'وَأَقْسَامُهُ ثَلَاثَةٌ: اسْمٌ وَفِعْلٌ وَحَرْفٌ. مَنْ يُعْطِينِي مِثَالًا لِلاسْمِ؟', textEn: 'And its categories are three: noun, verb, and particle. Who can give me an example of a noun?' },
+    { speaker: 'ahmad', textAr: 'الاسْمُ مِثْلُ: رَجُلٌ، كِتَابٌ، عِلْمٌ.', textEn: 'A noun is like: man, book, knowledge.' },
+    { speaker: 'sheikh', textAr: 'أَحْسَنْتَ يَا أَحْمَدُ! وَالفِعْلُ؟', textEn: 'Excellent, Ahmad! And the verb?' },
+    { speaker: 'tariq', textAr: 'الفِعْلُ مِثْلُ: كَتَبَ، يَكْتُبُ، اُكْتُبْ.', textEn: 'A verb is like: he wrote, he writes, write!' },
+    { speaker: 'sheikh', textAr: 'بَارَكَ اللهُ فِيكُمْ! طَلَبَةُ عِلْمٍ مُجْتَهِدُونَ.', textEn: 'May Allah bless you! Diligent students of knowledge.' },
+  ],
+  vocabulary: [
+    { arabic: 'حَلْقَةٌ', transliteration: 'ḥalqa', english: 'study circle / ring', root: 'ح-ل-ق' },
+    { arabic: 'شَيْخٌ', transliteration: 'shaykh', english: 'sheikh / teacher', root: 'ش-ي-خ' },
+    { arabic: 'مُسْتَوًى', transliteration: 'mustawā', english: 'level', root: 'س-و-ي' },
+    { arabic: 'المُبْتَدَأُ', transliteration: 'al-mubtadaʾ', english: 'subject (grammar)', root: 'ب-د-أ' },
+    { arabic: 'الخَبَرُ', transliteration: 'al-khabar', english: 'predicate', root: 'خ-ب-ر' },
+    { arabic: 'الفِعْلُ', transliteration: 'al-fiʿl', english: 'verb', root: 'ف-ع-ل' },
+    { arabic: 'الفَاعِلُ', transliteration: 'al-fāʿil', english: 'agent / doer', root: 'ف-ع-ل' },
+    { arabic: 'الكَلَامُ', transliteration: 'al-kalām', english: 'speech', root: 'ك-ل-م' },
+    { arabic: 'حَرْفٌ', transliteration: 'ḥarf', english: 'particle / letter', root: 'ح-ر-ف' },
+    { arabic: 'صَبْرٌ', transliteration: 'ṣabr', english: 'patience', root: 'ص-ب-ر' },
+    { arabic: 'عِلْمٌ', transliteration: 'ʿilm', english: 'knowledge', root: 'ع-ل-م' },
+  ],
+  grammarPoint: {
+    titleAr: 'أَقْسَامُ الكَلَامِ الثَّلَاثَةُ',
+    titleEn: 'The Three Parts of Speech',
+    explanation: 'Arabic grammar recognizes exactly three parts of speech: الاسْمُ (noun — includes nouns, adjectives, pronouns), الفِعْلُ (verb — past, present, imperative), and الحَرْفُ (particle — prepositions, conjunctions, etc.). Every Arabic word belongs to exactly one category. This classification from الآجُرُّومِيَّة is the foundation of Arabic grammar.',
+    examples: [
+      'اسْمٌ: رَجُلٌ، كِتَابٌ، جَمِيلٌ، هُوَ — Nouns: man, book, beautiful, he',
+      'فِعْلٌ: كَتَبَ، يَكْتُبُ، اُكْتُبْ — Verbs: he wrote, he writes, write!',
+      'حَرْفٌ: فِي، مِنْ، إِلَى، وَ، لَمْ — Particles: in, from, to, and, not',
+    ],
+  },
+  comprehensionQuestions: [
+    {
+      questionAr: 'أَيَّ كِتَابٍ يَدْرُسُونَ فِي الحَلْقَةِ؟',
+      questionEn: 'Which book are they studying in the circle?',
+      options: ['كِتَابُ سِيبَوَيْهِ', 'الآجُرُّومِيَّةُ', 'أَلْفِيَّةُ ابْنِ مَالِكٍ', 'قَطْرُ النَّدَى'],
+      correctIndex: 1,
+    },
+    {
+      questionAr: 'مِنْ أَيْنَ طَارِقٌ؟',
+      questionEn: 'Where is Tariq from?',
+      options: ['مِنْ مِصْرَ', 'مِنْ تُرْكِيَّا', 'مِنَ المَغْرِبِ', 'مِنْ إِنْدُونِيسِيَا'],
+      correctIndex: 2,
+    },
+    {
+      questionAr: 'كَمْ أَقْسَامِ الكَلَامِ؟',
+      questionEn: 'How many parts of speech are there?',
+      options: ['قِسْمَانِ', 'ثَلَاثَةٌ', 'أَرْبَعَةٌ', 'خَمْسَةٌ'],
+      correctIndex: 1,
+    },
+  ],
+  culturalNotes: [
+    'The حَلْقَة (study circle) is the traditional method of Islamic learning, dating back to the time of the Prophet Muhammad. Students sit in a circle around the teacher, often in a mosque.',
+    'الآجُرُّومِيَّة is a foundational Arabic grammar text written by Ibn Ajurrum (d. 1323 CE) in Fez, Morocco. It remains one of the most widely studied grammar primers in the Islamic world.',
+  ],
+};

@@ -1,0 +1,78 @@
+import type { StoryEpisode } from '../../../types';
+
+export const episode: StoryEpisode = {
+  id: 'arc3-ep3',
+  arcId: 'arc3-scholar',
+  number: 3,
+  titleAr: 'السُّؤَالُ',
+  titleEn: 'The Question',
+  setting: 'The study circle explores conditional sentences. Ahmad struggles with a difficult concept and learns to ask questions properly, discovering that asking the right question is itself an act of scholarship.',
+  characters: [
+    { id: 'ahmad', nameAr: 'أَحْمَدُ', nameEn: 'Ahmad', role: 'protagonist' },
+    { id: 'sheikh', nameAr: 'الشَّيْخُ عَبْدُ اللهِ', nameEn: 'Sheikh Abdullah', role: 'supporting' },
+    { id: 'tariq', nameAr: 'طَارِقٌ', nameEn: 'Tariq', role: 'supporting' },
+  ],
+  dialogueLines: [
+    { speaker: 'sheikh', textAr: 'اليَوْمَ نَدْرُسُ أَدَوَاتِ الشَّرْطِ. مَنْ يَعْرِفُ مَعْنَى "الشَّرْط"؟', textEn: 'Today we study conditional particles. Who knows the meaning of "condition"?' },
+    { speaker: 'tariq', textAr: 'الشَّرْطُ هُوَ رَبْطُ جُمْلَتَيْنِ: إِذَا حَصَلَ الأَوَّلُ حَصَلَ الثَّانِي.', textEn: 'The condition is linking two sentences: if the first happens, the second happens.' },
+    { speaker: 'sheikh', textAr: 'أَحْسَنْتَ! الجُمْلَةُ الأُولَى هِيَ "جُمْلَةُ الشَّرْطِ" وَالثَّانِيَةُ "جَوَابُ الشَّرْطِ."', textEn: 'Excellent! The first sentence is the "condition clause" and the second is the "result clause."' },
+    { speaker: 'sheikh', textAr: 'إِنْ تَدْرُسْ تَنْجَحْ. "إِنْ" أَدَاةُ شَرْطٍ جَازِمَةٌ. تَجْزِمُ فِعْلَيْنِ.', textEn: 'If you study, you will succeed. "in" is a jussive conditional particle. It puts two verbs in jussive.' },
+    { speaker: 'ahmad', textAr: 'يَا شَيْخُ، لَمْ أَفْهَمْ. لِمَاذَا "تَدْرُسْ" بِالسُّكُونِ وَلَيْسَ "تَدْرُسُ" بِالضَّمَّةِ؟', textEn: 'Sheikh, I did not understand. Why is it "tadrus" with sukun and not "tadrusu" with dammah?' },
+    { speaker: 'sheikh', textAr: 'سُؤَالٌ جَيِّدٌ جِدًّا يَا أَحْمَدُ! حُسْنُ السُّؤَالِ نِصْفُ العِلْمِ.', textEn: 'A very good question, Ahmad! Asking a good question is half of knowledge.' },
+    { speaker: 'sheikh', textAr: 'أَدَاةُ الشَّرْطِ "إِنْ" تَجْزِمُ الفِعْلَ المُضَارِعَ. عَلَامَةُ الجَزْمِ السُّكُونُ. لِذَلِكَ: إِنْ تَدْرُسْ — بِالسُّكُونِ.', textEn: 'The conditional particle "in" puts the imperfect verb in jussive. The sign of jussive is sukun. Therefore: in tadrus — with sukun.' },
+    { speaker: 'ahmad', textAr: 'فَهِمْتُ! وَمَا الفَرْقُ بَيْنَ "إِنْ" وَ"إِذَا"؟', textEn: 'I understand! And what is the difference between "in" and "idha"?' },
+    { speaker: 'sheikh', textAr: '"إِنْ" لِلأَمْرِ المُحْتَمَلِ أَوِ المَشْكُوكِ فِيهِ. وَ"إِذَا" لِلأَمْرِ المُتَوَقَّعِ أَوِ المُتَحَقِّقِ.', textEn: '"In" is for uncertain or doubtful matters. "Idha" is for expected or certain matters.' },
+    { speaker: 'tariq', textAr: 'مِثْلَ: إِذَا جَاءَ الشِّتَاءُ بَرَدَ الجَوُّ — لِأَنَّ البَرْدَ مُتَوَقَّعٌ!', textEn: 'Like: When winter comes, the weather gets cold — because cold is expected!' },
+    { speaker: 'sheikh', textAr: 'مُمْتَازٌ يَا طَارِقُ. وَمِنْ أَدَوَاتِ الشَّرْطِ أَيْضًا: مَنْ، مَا، مَهْمَا، أَيْنَمَا، مَتَى.', textEn: 'Excellent, Tariq. And among the conditional particles also: whoever, whatever, whatever (emphatic), wherever, whenever.' },
+    { speaker: 'ahmad', textAr: 'مَنْ يَصْبِرْ يَنْجَحْ — هَلْ هَذَا صَحِيحٌ يَا شَيْخُ؟', textEn: 'Whoever is patient succeeds — is this correct, Sheikh?' },
+    { speaker: 'sheikh', textAr: 'صَحِيحٌ تَمَامًا! أَنْتَ تَتَقَدَّمُ يَا أَحْمَدُ. العِلْمُ بِالتَّعَلُّمِ!', textEn: 'Completely correct! You are progressing, Ahmad. Knowledge comes through learning!' },
+  ],
+  vocabulary: [
+    { arabic: 'شَرْطٌ', transliteration: 'sharṭ', english: 'condition', root: 'ش-ر-ط' },
+    { arabic: 'أَدَاةٌ', transliteration: 'adāh', english: 'tool / particle', root: 'أ-د-و' },
+    { arabic: 'إِنْ', transliteration: 'in', english: 'if (conditional)' },
+    { arabic: 'إِذَا', transliteration: 'idhā', english: 'when / if (temporal conditional)' },
+    { arabic: 'جَوَابٌ', transliteration: 'jawāb', english: 'answer / result clause', root: 'ج-و-ب' },
+    { arabic: 'جَزْمٌ', transliteration: 'jazm', english: 'jussive (mood)', root: 'ج-ز-م' },
+    { arabic: 'سُكُونٌ', transliteration: 'sukūn', english: 'sukun (vowelless marker)', root: 'س-ك-ن' },
+    { arabic: 'ضَمَّةٌ', transliteration: 'ḍamma', english: 'dammah (u-vowel)', root: 'ض-م-م' },
+    { arabic: 'نَجَحَ', transliteration: 'najaḥa', english: 'he succeeded', root: 'ن-ج-ح' },
+    { arabic: 'صَبَرَ', transliteration: 'ṣabara', english: 'he was patient', root: 'ص-ب-ر' },
+    { arabic: 'تَقَدَّمَ', transliteration: 'taqaddama', english: 'he progressed', root: 'ق-د-م' },
+  ],
+  grammarPoint: {
+    titleAr: 'أُسْلُوبُ الشَّرْطِ',
+    titleEn: 'The Conditional Construction',
+    explanation: 'Conditional sentences in Arabic have three parts: the conditional particle (أَدَاة الشَّرْط), the condition clause (جُمْلَة الشَّرْط), and the result clause (جَوَاب الشَّرْط). Jussive particles like إِنْ put both verbs in the jussive mood (مَجْزُوم). The particle إِذَا does not affect the verb grammatically but is used for expected/certain conditions.',
+    examples: [
+      'إِنْ تَدْرُسْ تَنْجَحْ — If you study, you will succeed (uncertain)',
+      'إِذَا جَاءَ الشِّتَاءُ بَرَدَ الجَوُّ — When winter comes, the weather gets cold (certain)',
+      'مَنْ يَصْبِرْ يَنْجَحْ — Whoever is patient succeeds',
+      'مَهْمَا تَفْعَلْ أَفْعَلْ — Whatever you do, I will do',
+    ],
+  },
+  comprehensionQuestions: [
+    {
+      questionAr: 'مَا الفَرْقُ بَيْنَ "إِنْ" وَ"إِذَا"؟',
+      questionEn: 'What is the difference between "in" and "idha"?',
+      options: ['"إِنْ" لِلمَاضِي وَ"إِذَا" لِلمُسْتَقْبَلِ', '"إِنْ" لِلمُحْتَمَلِ وَ"إِذَا" لِلمُتَوَقَّعِ', '"إِنْ" لِلإِثْبَاتِ وَ"إِذَا" لِلنَّفْيِ', 'لَا فَرْقَ بَيْنَهُمَا'],
+      correctIndex: 1,
+    },
+    {
+      questionAr: 'مَا عَلَامَةُ الجَزْمِ فِي الفِعْلِ المُضَارِعِ؟',
+      questionEn: 'What is the sign of jussive in the imperfect verb?',
+      options: ['الضَّمَّةُ', 'الفَتْحَةُ', 'الكَسْرَةُ', 'السُّكُونُ'],
+      correctIndex: 3,
+    },
+    {
+      questionAr: 'مَاذَا قَالَ الشَّيْخُ عَنِ السُّؤَالِ الجَيِّدِ؟',
+      questionEn: 'What did the Sheikh say about a good question?',
+      options: ['السُّؤَالُ ضَعْفٌ', 'حُسْنُ السُّؤَالِ نِصْفُ العِلْمِ', 'لَا تَسْأَلْ كَثِيرًا', 'السُّؤَالُ لِلمُبْتَدِئِينَ فَقَطْ'],
+      correctIndex: 1,
+    },
+  ],
+  culturalNotes: [
+    'The saying حُسْنُ السُّؤَالِ نِصْفُ العِلْمِ (A good question is half of knowledge) is attributed to early Muslim scholars and reflects the emphasis on critical thinking in Islamic intellectual tradition.',
+    'Arabic grammatical terms like جَزْم (jussive), رَفْع (nominative), نَصْب (accusative), and جَرّ (genitive) are essential vocabulary for any serious student of Arabic grammar.',
+  ],
+};

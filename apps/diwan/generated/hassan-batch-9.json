@@ -1,0 +1,210 @@
+[
+  {
+    "id": "hassan-246",
+    "poetId": "hassan",
+    "titleAr": "يا راكبا إما عرضت فبلغن",
+    "titleEn": "O Rider, Deliver My Message",
+    "genre": "hija",
+    "level": "intermediate",
+    "verses": [
+      { "sadr": "يا راكبا إما عرضت فبلغن", "ajuz": "عبد المدان ، وجل آل قيان" },
+      { "sadr": "قد كنت أحسب أن أصلي أصلكم ،", "ajuz": "حتى أمرتم عبدكم ، فهجاني" },
+      { "sadr": "فتوقعوا سبل العذاب عليكم ،", "ajuz": "مما يمر على الروي لساني" },
+      { "sadr": "فلأذكرن بني رميمة كلهم", "ajuz": "وبني الحصين بخزية وهوان" },
+      { "sadr": "ولتعرفن قلائدي برقابكم ،", "ajuz": "كالوشم لا تبلى على الحدثان" },
+      { "sadr": "أبني الحماس ، فما أقول لثلة ،", "ajuz": "ترعى البقاع ، خبيثة الأوطان" },
+      { "sadr": "أين المال ، بني الحماس ، إذا ذكت", "ajuz": "بهجائكم ، متشنعا ، نيراني" }
+    ],
+    "translationEn": "O rider, whenever you come upon Abd al-Madan, deliver my message — and all the clan of Qiyan. I used to think my lineage was your lineage, until you commanded your slave to lampoon me. So await the paths of punishment upon you — whatever my tongue rolls across its rhyme-letter. I will surely mention Banu Rumayma all of them, and Banu al-Husayn, with shame and humiliation. You will surely recognize my necklaces around your necks — like a tattoo that does not fade with passing days. O sons of Hammas, what shall I say about a herd that grazes the lands, vile in its haunts? Where is your wealth, O sons of Hammas, when my fire blazes, clad in anger, fueled by your lampoon?",
+    "vocabularyHighlights": [
+      { "word": "راكبا", "meaning": "a rider, a mounted messenger" },
+      { "word": "مغلغلة", "meaning": "an urgent, quickly conveyed message" },
+      { "word": "الروي", "meaning": "the rhyme-letter; the main repeated consonant of a poem" },
+      { "word": "قلائدي", "meaning": "my necklaces — metaphor for enduring satirical verses" },
+      { "word": "الحدثان", "meaning": "the passing of time, vicissitudes of fate" },
+      { "word": "ثلة", "meaning": "a herd of sheep; used contemptuously for a base group" },
+      { "word": "متشنعا", "meaning": "clad in ugliness, assuming a frightful guise" },
+      { "word": "نيراني", "meaning": "my fire, my blazing flame of satire" }
+    ],
+    "context": "A hija poem addressed to Abd al-Madan and the clan of Qiyan, warning them that his verses of satire will endure around their necks like indelible tattoos. Hassan uses the messenger-rider motif to dispatch his invective, invoking Banu Rumayma and Banu al-Husayn as objects of forthcoming shame."
+  },
+  {
+    "id": "hassan-247",
+    "poetId": "hassan",
+    "titleAr": "ألا أبلغ بني الديان عني",
+    "titleEn": "Convey From Me to Banu al-Dayyan",
+    "genre": "hija",
+    "level": "beginner",
+    "verses": [
+      { "sadr": "ألا أبلغ بني الديان عني", "ajuz": "مغلغلة ، ورهط بني قيان" },
+      { "sadr": "وأبلغ كل منتخب هواء ،", "ajuz": "رحيب الجوف ، من عبد المدان" },
+      { "sadr": "ميامس غزة ، ورماح غاب ،", "ajuz": "خفاف ، لا تقوم بها اليدان" },
+      { "sadr": "تفاقدتم ! علام هجوتموني ،", "ajuz": "ولم أظلم ، ولم أخلس بياني" }
+    ],
+    "translationEn": "Convey from me an urgent message to Banu al-Dayyan, and to the clan of Banu Qiyan. And convey it to every hollow, empty-headed man of wide belly, from Abd al-Madan's kin. They wield massive battle-clubs and spears of marshland reed — so light that two hands cannot grip them. May you be bereft of each other! Why did you lampoon me when I did not wrong you, and did not adulterate the clarity of my speech?",
+    "vocabularyHighlights": [
+      { "word": "مغلغلة", "meaning": "an urgent, swiftly relayed message" },
+      { "word": "منتخب هواء", "meaning": "hollow, empty-headed; one whose inside is filled with air" },
+      { "word": "رحيب الجوف", "meaning": "wide-bellied, capacious inside — used contemptuously" },
+      { "word": "ميامس", "meaning": "large battle-clubs, heavy maces" },
+      { "word": "غاب", "meaning": "a thicket, marshland reeds — used for spear shafts" },
+      { "word": "تفاقدتم", "meaning": "may you lose each other! an imprecation of mutual bereavement" },
+      { "word": "أخلس", "meaning": "to adulterate, to mix with falsehood, to snatch dishonestly" }
+    ],
+    "context": "A short hija poem addressed to Banu al-Dayyan and their allies, demanding why they attacked Hassan's reputation when he had done them no wrong. The poem employs the standard satirical attack on lineage and intellect, mocking his opponents as hollow and empty while defending the purity of his own speech."
+  },
+  {
+    "id": "hassan-248",
+    "poetId": "hassan",
+    "titleAr": "إذا ما ترعرع فينا الغلام ،",
+    "titleEn": "When the Youth Among Us Grows Up",
+    "genre": "fakhr",
+    "level": "beginner",
+    "verses": [
+      { "sadr": "إذا ما ترعرع فينا الغلام ،", "ajuz": "فما إن يقال له من هوه" },
+      { "sadr": "فقالت ثنه : فقال : إذا لم يسد قبل شد الإزار ،", "ajuz": "فذلك فينا الذي لا هوه" },
+      { "sadr": "ولي صاحب من بني الشيصبان ،", "ajuz": "فطورا أقول ، وطورا هوه" }
+    ],
+    "translationEn": "When a youth grows up among us, it is not asked of him: who is he? She said, 'Restrain him,' and he replied: if he does not achieve leadership before he tightens his waist-wrap, then he is the one among us who is nothing. And I have a companion from Banu al-Shaysaban — sometimes I speak and sometimes he does.",
+    "vocabularyHighlights": [
+      { "word": "ترعرع", "meaning": "to grow up, to come of age" },
+      { "word": "الغلام", "meaning": "a youth, a young man" },
+      { "word": "ثنه", "meaning": "restrain him, hold him back — here a woman's exclamation" },
+      { "word": "يسد", "meaning": "to become a leader, to achieve chieftainship" },
+      { "word": "شد الإزار", "meaning": "tightening the waist-wrap — a coming-of-age marker" },
+      { "word": "الشيصبان", "meaning": "a clan name; also a poetic reference" },
+      { "word": "هوه", "meaning": "he (colloquial/poetic form) — the rhyme-word throughout" }
+    ],
+    "context": "A brief fakhr poem playing on the tribal expectation that a boy must prove his leadership before manhood, otherwise he is counted as nothing. The repeated rhyme-word هوه creates a sardonic, rhythmically insistent effect. The final verse introducing a companion from Banu al-Shaysaban adds a note of solidarity and mutual support."
+  },
+  {
+    "id": "hassan-249",
+    "poetId": "hassan",
+    "titleAr": "سقتم كنانة جهلا من عداوتكم ،",
+    "titleEn": "You Led Kinana to Their Ruin",
+    "genre": "madih",
+    "level": "beginner",
+    "verses": [
+      { "sadr": "سقتم كنانة جهلا من عداوتكم ،", "ajuz": "إلى الرسول ، فجند الله مخزيها" },
+      { "sadr": "أوردتموها حياض الموت ضاحية ،", "ajuz": "فالنار موعدها ، والقتل لاقيها" },
+      { "sadr": "أنتم أحابيش ، جمعتم بلا نسب ،", "ajuz": "أئمة الكفر ، غرتكم طواغيها" },
+      { "sadr": "هلا اعتبرتم بخيل الله ، إذ لقيت", "ajuz": "أهل القليب ، ومن أردينه فيها" },
+      { "sadr": "كم من أسير فككناه بلا ثمن ،", "ajuz": "وجز ناصية ، كنا مواليها" }
+    ],
+    "translationEn": "You drove Kinana in ignorance by your enmity toward the Messenger — and God's army is the one that will disgrace them. You led them to the watering holes of death in broad daylight — the Fire is their appointment and killing their fate. You are the Ahabish — gathered without true lineage — leaders of disbelief, deceived by your own tyrants. Why did you not take heed from the cavalry of God when it met the people of the pit and those it cast into it? How many a prisoner did we ransom without any price, and how many a forelock did we shear — we were their masters.",
+    "vocabularyHighlights": [
+      { "word": "سقتم", "meaning": "you drove, you led (like driving cattle to water)" },
+      { "word": "كنانة", "meaning": "the tribe of Kinana, allies of Quraysh" },
+      { "word": "مخزيها", "meaning": "who disgraces them, brings them to shame" },
+      { "word": "أحابيش", "meaning": "the Ahabish — tribal confederates of Quraysh of mixed origin" },
+      { "word": "القليب", "meaning": "the pit at Badr into which the slain Quraysh leaders were thrown" },
+      { "word": "أردينه", "meaning": "caused them to perish, cast them to their destruction" },
+      { "word": "جز ناصية", "meaning": "shearing of the forelock — a mark of humiliation and submission" }
+    ],
+    "context": "A madih-inflected battle poem recalling the Muslim victory at Badr and the fate of the Quraysh. Hassan attacks the Ahabish — mixed tribal confederates who fought against the Prophet — and cites the pit of Badr (القليب) into which slain Qurayshi chiefs were cast. The poem closes with the Ansar's acts of generosity in ransoming prisoners."
+  },
+  {
+    "id": "hassan-250",
+    "poetId": "hassan",
+    "titleAr": "لو خلق اللؤم إنسانا يكلمهم ،",
+    "titleEn": "If Baseness Were Made Flesh",
+    "genre": "hija",
+    "level": "beginner",
+    "verses": [
+      { "sadr": "لو خلق اللؤم إنسانا يكلمهم ،", "ajuz": "لكان خير هذيل حين يأتيها" },
+      { "sadr": "ترى من اللؤم رقما بين أعينهم ،", "ajuz": "كما كوى أذرع العانات كاويها" },
+      { "sadr": "تبكي القبور ، إذا ما مات ميتهم ،", "ajuz": "حتى يصيح بمن في الأرض داعيها" },
+      { "sadr": "مثل القنافذ تخزى أن تفاجئها ،", "ajuz": "شد النهار ، ويلقى الليل ساريها" }
+    ],
+    "translationEn": "If baseness were created as a man to speak to them, he would be the best of Hudhayl when he came to them. You see on their faces a brand of baseness between their eyes — like the brands burned into the arms of she-donkeys by the one who brands them. The graves weep when one of their dead dies, until the caller cries out to those in the earth. They are like hedgehogs — shamed to be startled in the full heat of the day — yet their wanderer roams at night.",
+    "vocabularyHighlights": [
+      { "word": "اللؤم", "meaning": "baseness, vileness, ignoble character" },
+      { "word": "رقما", "meaning": "a brand mark, a patterned imprint burned into skin" },
+      { "word": "كوى", "meaning": "to brand with fire, to cauterize" },
+      { "word": "العانات", "meaning": "she-donkeys; female wild asses" },
+      { "word": "القنافذ", "meaning": "hedgehogs — used as a symbol of cowardice and nocturnal hiding" },
+      { "word": "تخزى", "meaning": "to be shamed, to feel humiliated" },
+      { "word": "ساريها", "meaning": "her night-wanderer; the one who creeps out in darkness" }
+    ],
+    "context": "A concise but stinging hija against the tribe of Hudhayl, attacking them as the living embodiment of baseness. The poem uses three vivid images: the brand of vileness on their faces, graves that weep for the dead among them, and the hedgehog — a creature that hides by day and wanders by night — to portray the tribe's cowardice."
+  },
+  {
+    "id": "hassan-251",
+    "poetId": "hassan",
+    "titleAr": "أبلغ هوازن أعلاها وأسفلها ،",
+    "titleEn": "Convey to Hawazin High and Low",
+    "genre": "hija",
+    "level": "beginner",
+    "verses": [
+      { "sadr": "أبلغ هوازن أعلاها وأسفلها ،", "ajuz": "أن لست هاجيها ، إلا بما فيها" },
+      { "sadr": "قبيلة ألأم الأحياء أكرمها ،", "ajuz": "وأغدر الناس ، بالجيران ، وافيها" },
+      { "sadr": "وشر من يحضر الأمصار حاضرها ،", "ajuz": "وشر بادية الأعراب باديها" },
+      { "sadr": "تبلى عظامهم إما هم دفنوا", "ajuz": "تحت التراب ، ولا تبلى مخازيها" },
+      { "sadr": "كأن أسنانهم ، من خبث طعمتهم ،", "ajuz": "أظفار خاتنة كلت مواسيها" }
+    ],
+    "translationEn": "Convey to Hawazin — its high and its low — that I do not lampoon it except with what is truly in it. A tribe whose most honored members are the basest of all clans, and whose most faithful are the most treacherous toward neighbors. The worst of those who enter cities is their settled folk, and the worst of desert Arabs are those who dwell in their desert. Their bones will decay once they are buried under the earth, while their shames will never decay. Their teeth — from the filth of what they eat — are like the nails of a circumciser whose blades have gone dull.",
+    "vocabularyHighlights": [
+      { "word": "هوازن", "meaning": "the tribe of Hawazin, a major Arab tribal confederation" },
+      { "word": "ألأم", "meaning": "the most base, most vile (superlative of لئيم)" },
+      { "word": "وافيها", "meaning": "its most loyal, most faithful member — used ironically" },
+      { "word": "الأمصار", "meaning": "the settled cities, the urban centers" },
+      { "word": "مخازيها", "meaning": "its shames, its disgraces — that which causes scandal" },
+      { "word": "طعمتهم", "meaning": "their food, their sustenance — here implying filth" },
+      { "word": "خاتنة", "meaning": "a female circumciser; the one who performs the operation" },
+      { "word": "مواسيها", "meaning": "her razors, her blades — dulled from use" }
+    ],
+    "context": "A comprehensive hija against the tribe of Hawazin, notable for its systematic attack on every dimension of tribal life — their settled members, their desert dwellers, their honor, and their hygiene. The closing image comparing their teeth to a worn circumciser's blades is among the most grotesque in the Diwan. Hawazin were a major enemy of the early Muslim community, having fought at the Battle of Hunayn."
+  },
+  {
+    "id": "hassan-252",
+    "poetId": "hassan",
+    "titleAr": "ثوى في قريش ، بضع عشرة حجة ،",
+    "titleEn": "He Dwelt Among Quraysh for Years",
+    "genre": "madih",
+    "level": "intermediate",
+    "verses": [
+      { "sadr": "ثوى في قريش ، بضع عشرة حجة ،", "ajuz": "يذكر ، لو يلقى خليلا مؤاتيا" },
+      { "sadr": "ويعرض في أهل المواسم نفسه ،", "ajuz": "فلم ير من يؤوي ، ولم ير داعيا" },
+      { "sadr": "فلما أتانا ، واطمأنت به النوى ،", "ajuz": "فأصبح مسرورا ، بطيبة ، راضيا" },
+      { "sadr": "بذلنا له الأموال من جل مالنا ،", "ajuz": "وأنفسنا ، عند الوغى ، والتآسيا" },
+      { "sadr": "نحارب من عادى من الناس كلهم ،", "ajuz": "جميعا ، وإن كان الحبيب المصافيا" },
+      { "sadr": "ونعلم أن الله لا رب غيره ،", "ajuz": "وإن كتاب الله أصبح هاديا" }
+    ],
+    "translationEn": "He dwelt among Quraysh for more than ten years, proclaiming — if only he could find a sympathetic companion. He presented himself to the people of the pilgrimage seasons, yet found none to shelter him, none to invite him in. But when he came to us, and his journey settled and grew tranquil, he woke gladdened, in Tayyiba, at peace. We gave him our wealth from the choicest of what we owned, and our very selves at the battle, and our mutual comfort. We fight against whoever among all the people becomes his enemy — every one of them, even if he were a beloved friend. And we know that God has no lord other than Him, and that the Book of God has become the guide.",
+    "vocabularyHighlights": [
+      { "word": "ثوى", "meaning": "he dwelt, he resided for a long time" },
+      { "word": "حجة", "meaning": "a year; also a pilgrimage season" },
+      { "word": "مؤاتيا", "meaning": "one who is accommodating, supportive, agreeable" },
+      { "word": "المواسم", "meaning": "the pilgrimage seasons and their annual fairs" },
+      { "word": "النوى", "meaning": "the journey, the distance traveled; the intention of travel" },
+      { "word": "طيبة", "meaning": "Tayyiba, one of the honorific names of Medina" },
+      { "word": "التآسيا", "meaning": "mutual consolation, comforting one another in hardship" },
+      { "word": "المصافيا", "meaning": "a sincere, pure-hearted friend; one who is loyal" }
+    ],
+    "context": "One of the most celebrated madih poems in the Diwan, commemorating the Prophet's years of rejection in Mecca and his welcome by the Ansar in Medina. Hassan recounts how the Prophet presented himself at the pilgrimage fairs without response for over a decade, until the Ansar of Medina sheltered him. The poem concludes with an affirmation of monotheism and the Quran, making it a complete statement of the Ansari covenant with Islam."
+  },
+  {
+    "id": "hassan-253",
+    "poetId": "hassan",
+    "titleAr": "أوصى أبونا مالك بوصاية",
+    "titleEn": "Our Father Malik Left His Counsel",
+    "genre": "fakhr",
+    "level": "beginner",
+    "verses": [
+      { "sadr": "أوصى أبونا مالك بوصاية", "ajuz": "عمرا وعوفا ، إذ تجهز غاديا" },
+      { "sadr": "بأن اجعلوا أموالكم وسيوفكم", "ajuz": "لأعراضكم ما سلم الله واقيا" },
+      { "sadr": "فقلنا له إذ قال ما قال : مرحبا ،", "ajuz": "أمرت بمعروف وأوصيت كافيا" }
+    ],
+    "translationEn": "Our father Malik left a testament to Amr and Awf as he set out at dawn. He said: make your wealth and your swords the defenders of your honor for as long as God preserves a guardian. And we said to him when he spoke what he spoke: Welcome! You have commanded what is good and counseled with sufficiency.",
+    "vocabularyHighlights": [
+      { "word": "أوصى", "meaning": "he bequeathed a testament, he made a final counsel" },
+      { "word": "وصاية", "meaning": "a testament, a bequest, a departing counsel" },
+      { "word": "تجهز غاديا", "meaning": "he prepared himself to set out at dawn; readied for a journey" },
+      { "word": "الأعراض", "meaning": "honor, reputation — that which must be defended" },
+      { "word": "واقيا", "meaning": "a guardian, a protector, one who shields" },
+      { "word": "مرحبا", "meaning": "welcome! well said! an expression of glad acceptance" },
+      { "word": "كافيا", "meaning": "sufficient, adequate, complete in its guidance" }
+    ],
+    "context": "A short fakhr poem presenting the ancestral counsel of Malik — a tribal patriarch addressing his sons Amr and Awf — who commands them to dedicate their wealth and swords to the defense of family honor. The sons' response is an enthusiastic acceptance, turning the poem into a terse scene of tribal covenant-making that valorizes the Ansari ethos of self-sacrifice for communal honor."
+  }
+]

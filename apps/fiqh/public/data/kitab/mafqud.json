@@ -1,0 +1,47 @@
+{
+  "id": "mafqud",
+  "titleAr": "كتاب المفقود",
+  "titleEn": "Missing Person",
+  "order": 25,
+  "categoryId": "mutafarriqat",
+  "pageRange": [
+    128,
+    128
+  ],
+  "abwab": [
+    {
+      "id": "mafqud-main",
+      "kitabId": "mafqud",
+      "titleAr": "كتاب المفقود",
+      "titleEn": "Missing Person",
+      "order": 1,
+      "sections": [
+        {
+          "id": "mafqud-main-1",
+          "babId": "mafqud-main",
+          "kitabId": "mafqud",
+          "titleAr": "كتاب المفقود",
+          "titleEn": "Missing Person",
+          "order": 1,
+          "textAr": "إذا غاب الرجل ولم يعرف له موضع ولا يعلم أحي هو أم ميت نصب القاضي من يحفظ ماله ويقوم عليه ويستوفي حقوقه وينفق على زوجته وأولاده من ماله\n\nولا يفرق بينه وبين امرأته\n\nفإذا تم له مائة وعشرون سنة من يوم ولد حكمنا بموته واعتدت امرأته وقسم ماله بين ورثته الموجودين في ذلك الوقت ومن مات منهم قبل ذلك لم يرث منه ولا يرث المفقود من أحد مات في حال فقده",
+          "sourcePage": 128,
+          "masail": [
+            {
+              "id": "masalah-mafqud-main-1",
+              "sectionId": "mafqud-main-1",
+              "kitabId": "mafqud",
+              "titleAr": "كتاب المفقود",
+              "titleEn": "Missing Person",
+              "rulingAr": "إذا غاب الرجل ولم يعرف له موضع ولا يعلم أحي هو أم ميت نصب القاضي من يحفظ ماله ويقوم عليه ويستوفي حقوقه وينفق على زوجته وأولاده من ماله\n\nولا يفرق بينه وبين امرأته\n\nفإذا تم له مائة وعشرون سنة من يوم ولد حكمنا بموته واعتدت امرأته وقسم ماله بين ورثته الموجودين في ذلك الوقت ومن مات منهم قبل ذلك لم يرث منه ولا يرث المفقود من أحد مات في حال فقده",
+              "rulingEn": "If a man disappears and his whereabouts are unknown, and it is not known whether he is alive or dead, the judge appoints someone to preserve his property, manage it, collect his rights, and spend on his wife and children from his property.\n\nHis wife is not separated from him.\n\nWhen one hundred and twenty years have passed from the date of his birth, he is declared dead. His wife then observes the waiting period ('iddah), and his property is divided among his heirs who are alive at that time. Whoever among them died before that does not inherit from him. The missing person does not inherit from anyone who dies during the period of his disappearance.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "If a man disappears and his whereabouts are unknown, and it is not known whether he is alive or dead, the judge appoints someone to preserve his property, manage it, collect his rights, and spend on his wife and children from his property.\n\nHis wife is not separated from him.\n\nWhen one hundred and twenty years have passed from the date of his birth, he is declared dead. His wife then observes the waiting period ('iddah), and his property is divided among his heirs who are alive at that time. Whoever among them died before that does not inherit from him. The missing person does not inherit from anyone who dies during the period of his disappearance."
+        }
+      ]
+    }
+  ]
+}

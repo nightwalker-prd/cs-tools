@@ -1,0 +1,23 @@
+{
+  "playlistId": "PLzn0qdi6JpdvrQvC5v3XjLJK4YpVA2haI",
+  "playlistTitle": "First Steps To Writing Arabic Lesson 1",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PLzn0qdi6JpdvrQvC5v3XjLJK4YpVA2haI",
+  "extractedAt": "2026-02-15T19:20:22Z",
+  "videoCount": 2,
+  "videos": [
+    {
+      "index": 1,
+      "videoId": "RR8MafLQryA",
+      "title": "First Steps To Writing Arabic Lesson 1",
+      "url": "https://www.youtube.com/watch?v=RR8MafLQryA",
+      "duration": 358
+    },
+    {
+      "index": 2,
+      "videoId": "5GqJqX65kq0",
+      "title": "First Steps To Writing Arabic Lesson 2",
+      "url": "https://www.youtube.com/watch?v=5GqJqX65kq0",
+      "duration": 303
+    }
+  ]
+}

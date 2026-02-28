@@ -1,0 +1,75 @@
+import type { StoryEpisode } from '../../../types';
+
+export const episode: StoryEpisode = {
+  id: 'arc2-ep1',
+  arcId: 'arc2-marketplace',
+  number: 1,
+  titleAr: 'الدُّكَّانُ الأَوَّلُ',
+  titleEn: 'The First Shop',
+  setting: 'Ahmad visits a traditional marketplace (suq) in the old city for the first time. He enters a small shop selling household items and learns basic shopping vocabulary.',
+  characters: [
+    { id: 'ahmad', nameAr: 'أَحْمَدُ', nameEn: 'Ahmad', role: 'protagonist' },
+    { id: 'shopkeeper', nameAr: 'أَبُو سَعِيدٍ', nameEn: 'Abu Said', role: 'supporting' },
+    { id: 'yusuf', nameAr: 'يُوسُفُ', nameEn: 'Yusuf', role: 'supporting' },
+  ],
+  dialogueLines: [
+    { speaker: 'yusuf', textAr: 'هَذَا هُوَ السُّوقُ القَدِيمُ. فِيهِ دَكَاكِينُ كَثِيرَةٌ.', textEn: 'This is the old marketplace. It has many shops.' },
+    { speaker: 'ahmad', textAr: 'مَا شَاءَ اللهُ! السُّوقُ كَبِيرٌ جِدًّا. أُرِيدُ أَنْ أَشْتَرِيَ أَشْيَاءَ لِلْغُرْفَةِ.', textEn: 'Ma sha Allah! The market is very big. I want to buy things for my room.' },
+    { speaker: 'shopkeeper', textAr: 'أَهْلًا وَسَهْلًا! تَفَضَّلَا. عِنْدِي كُلُّ شَيْءٍ. مَاذَا تُرِيدَانِ؟', textEn: 'Welcome! Come in. I have everything. What would you (two) like?' },
+    { speaker: 'ahmad', textAr: 'أُرِيدُ وِسَادَةً وَبِطَانِيَّةً مِنْ فَضْلِكَ.', textEn: 'I want a pillow and a blanket, please.' },
+    { speaker: 'shopkeeper', textAr: 'تَفَضَّلْ. هَذِهِ وِسَادَةٌ كَبِيرَةٌ، وَتِلْكَ وِسَادَةٌ صَغِيرَةٌ. أَيُّهُمَا تُرِيدُ؟', textEn: 'Here you go. This is a big pillow, and that is a small pillow. Which one do you want?' },
+    { speaker: 'ahmad', textAr: 'أُرِيدُ الوِسَادَةَ الكَبِيرَةَ. كَمْ ثَمَنُهَا؟', textEn: 'I want the big pillow. How much is it?' },
+    { speaker: 'shopkeeper', textAr: 'ثَمَنُهَا ثَلَاثُونَ رِيَالًا. وَالبِطَانِيَّةُ بِأَرْبَعِينَ رِيَالًا.', textEn: 'It costs thirty riyals. And the blanket is forty riyals.' },
+    { speaker: 'yusuf', textAr: 'يَا أَبَا سَعِيدٍ، هَلْ عِنْدَكَ مِصْبَاحٌ لِلمَكْتَبِ؟', textEn: 'Abu Said, do you have a desk lamp?' },
+    { speaker: 'shopkeeper', textAr: 'نَعَمْ! عِنْدِي مَصَابِيحُ جَمِيلَةٌ. اُنْظُرْ، هَذَا المِصْبَاحُ بِخَمْسَةٍ وَعِشْرِينَ رِيَالًا.', textEn: 'Yes! I have beautiful lamps. Look, this lamp is twenty-five riyals.' },
+    { speaker: 'ahmad', textAr: 'جَيِّدٌ. آخُذُ الوِسَادَةَ وَالبِطَانِيَّةَ وَالمِصْبَاحَ.', textEn: 'Good. I will take the pillow, the blanket, and the lamp.' },
+    { speaker: 'shopkeeper', textAr: 'المَجْمُوعُ خَمْسَةٌ وَتِسْعُونَ رِيَالًا. بَارَكَ اللهُ فِيكَ!', textEn: 'The total is ninety-five riyals. May Allah bless you!' },
+  ],
+  vocabulary: [
+    { arabic: 'سُوقٌ', transliteration: 'sūq', english: 'marketplace', root: 'س-و-ق' },
+    { arabic: 'دُكَّانٌ', transliteration: 'dukkān', english: 'shop' },
+    { arabic: 'اشْتَرَى', transliteration: 'ishtarā', english: 'he bought', root: 'ش-ر-ي' },
+    { arabic: 'وِسَادَةٌ', transliteration: 'wisāda', english: 'pillow', root: 'و-س-د' },
+    { arabic: 'بِطَانِيَّةٌ', transliteration: 'biṭāniyya', english: 'blanket' },
+    { arabic: 'مِصْبَاحٌ', transliteration: 'miṣbāḥ', english: 'lamp', root: 'ص-ب-ح' },
+    { arabic: 'ثَمَنٌ', transliteration: 'thaman', english: 'price', root: 'ث-م-ن' },
+    { arabic: 'كَمْ', transliteration: 'kam', english: 'how much / how many' },
+    { arabic: 'غُرْفَةٌ', transliteration: 'ghurfa', english: 'room' },
+    { arabic: 'صَغِيرٌ', transliteration: 'ṣaghīr', english: 'small', root: 'ص-غ-ر' },
+  ],
+  grammarPoint: {
+    titleAr: 'عِنْدَ لِلمُلْكِيَّةِ',
+    titleEn: 'Using عِنْدَ for Possession',
+    explanation: 'Arabic expresses "to have" using عِنْدَ (at/with) + pronoun suffix. عِنْدِي means "I have" (literally: at me), عِنْدَكَ means "you have" (literally: at you), عِنْدَهُ means "he has." The thing possessed is the subject (مُبْتَدَأ مُؤَخَّر) and عِنْدَ is the predicate (خَبَر مُقَدَّم).',
+    examples: [
+      'عِنْدِي كِتَابٌ — I have a book',
+      'عِنْدَكَ مِصْبَاحٌ — You have a lamp',
+      'عِنْدَهُ دَكَاكِينُ كَثِيرَةٌ — He has many shops',
+      'هَلْ عِنْدَكَ وِسَادَةٌ؟ — Do you have a pillow?',
+    ],
+  },
+  comprehensionQuestions: [
+    {
+      questionAr: 'مَاذَا يُرِيدُ أَحْمَدُ أَنْ يَشْتَرِيَ؟',
+      questionEn: 'What does Ahmad want to buy?',
+      options: ['كِتَابًا وَقَلَمًا', 'وِسَادَةً وَبِطَانِيَّةً', 'طَعَامًا وَشَرَابًا', 'مَلَابِسَ'],
+      correctIndex: 1,
+    },
+    {
+      questionAr: 'كَمْ ثَمَنُ الوِسَادَةِ الكَبِيرَةِ؟',
+      questionEn: 'How much is the big pillow?',
+      options: ['عِشْرُونَ رِيَالًا', 'خَمْسَةٌ وَعِشْرُونَ رِيَالًا', 'ثَلَاثُونَ رِيَالًا', 'أَرْبَعُونَ رِيَالًا'],
+      correctIndex: 2,
+    },
+    {
+      questionAr: 'كَمِ المَجْمُوعُ؟',
+      questionEn: 'What is the total?',
+      options: ['سَبْعُونَ رِيَالًا', 'ثَمَانُونَ رِيَالًا', 'تِسْعُونَ رِيَالًا', 'خَمْسَةٌ وَتِسْعُونَ رِيَالًا'],
+      correctIndex: 3,
+    },
+  ],
+  culturalNotes: [
+    'Traditional marketplaces (أَسْوَاق) in the Arab world are vibrant centers of commerce and culture. Shopkeepers often greet customers warmly and offer tea, creating a social atmosphere.',
+    'The name أَبُو سَعِيدٍ follows the Arabic naming tradition of كُنْيَة (patronymic), where a parent is called by their eldest child\'s name: أَبُو (father of) + child\'s name.',
+  ],
+};

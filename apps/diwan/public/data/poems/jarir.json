@@ -1,0 +1,304 @@
+[
+  {
+    "id": "jarir-01",
+    "poetId": "jarir",
+    "titleAr": "هجاء الفرزدق",
+    "titleEn": "Satire Against al-Farazdaq",
+    "genre": "hija",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "أَعِدُّوا لِلْفَرَزْدَقِ مِقْنَعًا",
+        "ajuz": "يُوَارِي رَأْسَهُ وَحَوَاجِبَهْ"
+      },
+      {
+        "sadr": "وَمَا حَسَبٌ يَفُوتُكَ مُدْرَكُهْ",
+        "ajuz": "إِذَا لَمْ تُدْرِكِ المَجْدَ الطَّلَائِبْ"
+      },
+      {
+        "sadr": "فَغُضَّ الطَّرْفَ إِنَّكَ مِنْ نُمَيْرٍ",
+        "ajuz": "فَلَا كَعْبًا بَلَغْتَ وَلَا كِلَابَا"
+      },
+      {
+        "sadr": "وَلَوْ وُزِنَتْ حُلُومُ بَنِي نُمَيْرٍ",
+        "ajuz": "عَلَى مِيزَانِ عَدْلٍ مَا أَقَامَا"
+      }
+    ],
+    "translationEn": "Prepare for al-Farazdaq a veil to cover his head and brows! No lineage that you can attain is out of reach, if those who seek glory do not achieve it. Lower your gaze, for you are from Numayr — you have reached neither Ka'b nor Kilab in nobility. And if the wisdom of the Banu Numayr were weighed on a just scale, it would not balance.",
+    "vocabularyHighlights": [
+      {
+        "word": "مِقْنَع",
+        "meaning": "veil, face covering"
+      },
+      {
+        "word": "حَسَب",
+        "meaning": "lineage, noble descent"
+      },
+      {
+        "word": "غُضَّ الطَّرْف",
+        "meaning": "lower your gaze (in shame)"
+      },
+      {
+        "word": "حُلُوم",
+        "meaning": "wisdom, forbearance (pl.)"
+      },
+      {
+        "word": "مِيزَان",
+        "meaning": "scale, balance"
+      }
+    ],
+    "context": "Part of the famous naqa'id (flyting poems) between Jarir and al-Farazdaq that lasted over forty years — the most celebrated poetic rivalry in Arabic literary history. Jarir attacks al-Farazdaq's tribal lineage, a devastating assault in a culture where genealogy was paramount."
+  },
+  {
+    "id": "jarir-02",
+    "poetId": "jarir",
+    "titleAr": "في مدح عبد الملك بن مروان",
+    "titleEn": "In Praise of Abd al-Malik ibn Marwan",
+    "genre": "madih",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "أَلَسْتُمْ خَيْرَ مَنْ رَكِبَ المَطَايَا",
+        "ajuz": "وَأَنْدَى العَالَمِينَ بُطُونَ رَاحِ"
+      },
+      {
+        "sadr": "هُوَ الخَلِيفَةُ فَارْضَوْا مَا قَضَاهُ",
+        "ajuz": "لَكُمْ إِنَّ اللَّهَ أَوْلَاهُ القَضَاءَ"
+      },
+      {
+        "sadr": "يَا آلَ مَرْوَانَ إِنَّ اللَّهَ فَضَّلَكُمْ",
+        "ajuz": "فَضْلًا عَظِيمًا عَلَى مَنْ كَانَ مِنْ عَرَبِ"
+      },
+      {
+        "sadr": "لَكُمْ قَصْرُ العَدَالَةِ وَالمَعَالِي",
+        "ajuz": "وَأَنْتُمْ لِلْمَكَارِمِ وَالسَّنَاءِ"
+      }
+    ],
+    "translationEn": "Are you not the finest who ever rode camels, and the most generous of all people in open-handed giving? He is the Caliph, so be content with what he has decreed for you, for God has entrusted him with authority. O house of Marwan, God has favored you with a great distinction over all the Arabs. Yours is the palace of justice and lofty deeds, and you are the people of noble virtues and radiance.",
+    "vocabularyHighlights": [
+      {
+        "word": "المَطَايَا",
+        "meaning": "riding camels"
+      },
+      {
+        "word": "أَنْدَى",
+        "meaning": "most generous (lit. most moist-palmed)"
+      },
+      {
+        "word": "الخَلِيفَة",
+        "meaning": "the Caliph, successor"
+      },
+      {
+        "word": "أَوْلَاهُ",
+        "meaning": "entrusted him with"
+      },
+      {
+        "word": "المَكَارِم",
+        "meaning": "noble virtues, generosities"
+      }
+    ],
+    "context": "Jarir was a master of panegyric (madih) and composed lavish praise poems for the Umayyad caliphs. This poem praises Abd al-Malik ibn Marwan (r. 685-705 CE), during whose reign Arabic was made the official language of the caliphate."
+  },
+  {
+    "id": "jarir-03",
+    "poetId": "jarir",
+    "titleAr": "بَانَتْ سُعَادُ",
+    "titleEn": "Su'ad Has Departed",
+    "genre": "ghazal",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "إِنَّ العُيُونَ الَّتِي فِي طَرْفِهَا حَوَرٌ",
+        "ajuz": "قَتَلْنَنَا ثُمَّ لَمْ يُحْيِينَ قَتْلَانَا"
+      },
+      {
+        "sadr": "يَصْرَعْنَ ذَا اللُّبِّ حَتَّى لَا حَرَاكَ بِهِ",
+        "ajuz": "وَهُنَّ أَضْعَفُ خَلْقِ اللَّهِ إِنْسَانَا"
+      },
+      {
+        "sadr": "أَتَبْكِي أَنْ نَأَى جِيرَانُكَ انْتَجَعُوا",
+        "ajuz": "فَكُلُّ ذِي نِعْمَةٍ لَا بُدَّ مُفْتَقَدُ"
+      },
+      {
+        "sadr": "لَا تَيْأَسَنْ مِنْ لَطِيفٍ أَنْتَ تَأْمُلُهُ",
+        "ajuz": "فَإِنَّ لِلَّهِ أَلْطَافًا خَفِيَّاتِ"
+      },
+      {
+        "sadr": "يَا أُمَّ عَمْرٍو جَزَاكِ اللَّهُ مَغْفِرَةً",
+        "ajuz": "رُدِّي عَلَيَّ فُؤَادِي كَالَّذِي كَانَا"
+      },
+      {
+        "sadr": "لَا بَارَكَ اللَّهُ فِي الدُّنْيَا وَلَا أَطْعَمَتْ",
+        "ajuz": "إِذَا أَتَى حَاجِبَ الرَّحْمَنِ مَحْرُومَا"
+      }
+    ],
+    "translationEn": "Those eyes with their wide dark pupils have slain us, then did not revive their slain. They fell the man of reason until he cannot stir, yet they are the weakest of God's human creation. Do you weep because neighbors who once were near have departed? Every possessor of blessing must one day be missed. Do not despair of a subtle grace you hope for, for God has hidden kindnesses unseen. O Umm Amr, may God reward you with forgiveness — return to me my heart as it once was! May God not bless this world nor let it nourish one who comes to the threshold of the Most Merciful deprived.",
+    "vocabularyHighlights": [
+      {
+        "word": "حَوَر",
+        "meaning": "wide, dark pupils (beautiful eyes)"
+      },
+      {
+        "word": "ذَا اللُّبّ",
+        "meaning": "man of reason/intellect"
+      },
+      {
+        "word": "انْتَجَعُوا",
+        "meaning": "they migrated (seeking pasture)"
+      },
+      {
+        "word": "نَأَى",
+        "meaning": "became distant, departed"
+      },
+      {
+        "word": "أَلْطَاف",
+        "meaning": "kindnesses, subtle graces"
+      },
+      {
+        "word": "فُؤَاد",
+        "meaning": "heart, core of emotion"
+      }
+    ],
+    "context": "One of Jarir's most celebrated ghazal (love) poems. The opening couplet about the lethal power of beautiful eyes became one of the most quoted verses in Arabic love poetry and is still recited widely today."
+  },
+  {
+    "id": "jarir-04",
+    "poetId": "jarir",
+    "titleAr": "هجاء الأخطل",
+    "titleEn": "Satire Against al-Akhtal",
+    "genre": "hija",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "أَخَزْيَا رَبِّي مَنْ يَهْجُو مُحَمَّدًا",
+        "ajuz": "وَيَنْصُرُ أَهْلَ الشِّرْكِ وَالأَوْثَانِ"
+      },
+      {
+        "sadr": "فَمَا لَكَ مِنْ مَجْدٍ تُؤَثَّلُ بَعْدَمَا",
+        "ajuz": "تَوَارَثَهُ المَاضُونَ مِنْ آلِ شَيْبَانِ"
+      },
+      {
+        "sadr": "وَأَنْتَ مِنَ القَوْمِ الَّذِينَ تَرَاهُمُ",
+        "ajuz": "إِذَا جَاءَ يَوْمُ الرَّوْعِ أَخْزَى وَأَخْسَرُ"
+      },
+      {
+        "sadr": "بَنِي تَغْلِبٍ لَا تَفْخَرُوا إِنَّ فَخْرَكُمْ",
+        "ajuz": "يَعُودُ وَبَالًا عِنْدَ ذِكْرِ المَآثِرِ"
+      },
+      {
+        "sadr": "فَأَبْلِغْ بَنِي تَغْلِبَ عَنِّي رِسَالَةً",
+        "ajuz": "بِأَنَّ القَوَافِيَ عِنْدَنَا أَيُّ سَائِرِ"
+      },
+      {
+        "sadr": "قَبَائِلُنَا سَبْعٌ وَأَنْتُمْ ثَلَاثَةٌ",
+        "ajuz": "وَلِلسَّبْعِ خَيْرٌ مِنْ ثَلَاثٍ مَوَاضِعُ"
+      }
+    ],
+    "translationEn": "May my Lord disgrace whoever mocks Muhammad and supports the people of idolatry and graven images. You have no glory to establish, now that the ancestors of the house of Shayban have bequeathed theirs. And you are of those people whom you will find, when the day of terror comes, the most disgraced and losing. O Banu Taghlib, do not boast, for your boasting returns as a curse when noble deeds are mentioned. Deliver to Banu Taghlib this message from me: that our rhyming verses travel far and wide. Our tribes are seven and you are three, and seven holds the advantage over three in every place.",
+    "vocabularyHighlights": [
+      {
+        "word": "أَوْثَان",
+        "meaning": "idols, graven images"
+      },
+      {
+        "word": "تُؤَثَّل",
+        "meaning": "to be established, firmly rooted"
+      },
+      {
+        "word": "الرَّوْع",
+        "meaning": "terror, alarm (day of battle)"
+      },
+      {
+        "word": "المَآثِر",
+        "meaning": "noble deeds, glorious traditions"
+      },
+      {
+        "word": "القَوَافِي",
+        "meaning": "rhymes, poems"
+      },
+      {
+        "word": "وَبَال",
+        "meaning": "misfortune, curse"
+      }
+    ],
+    "context": "This poem attacks al-Akhtal, the third great Umayyad poet alongside Jarir and al-Farazdaq. Al-Akhtal was a Christian poet of the Taghlib tribe who served the Umayyad court. Jarir attacks both his tribal lineage and his support for pre-Islamic practices, making this one of the three-way naqa'id that defined Umayyad literary culture."
+  },
+  {
+    "id": "jarir-05",
+    "poetId": "jarir",
+    "titleAr": "في الفخر والحماسة",
+    "titleEn": "On Glory and Valor",
+    "genre": "madih",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "أَنَا الَّذِي سَمَّتْنِيَ أُمِّي جَرِيرَا",
+        "ajuz": "وَلَمْ تُخْطِئْ بِتَسْمِيَتِي مَصِيرَا"
+      },
+      {
+        "sadr": "إِذَا غَضِبَتْ عَلَيْكَ بَنُو تَمِيمٍ",
+        "ajuz": "حَسِبْتَ النَّاسَ كُلَّهُمُ غِضَابَا"
+      },
+      {
+        "sadr": "وَنَحْنُ الفَاتِحُونَ لِكُلِّ بَابٍ",
+        "ajuz": "إِذَا أَوْصَدَ المُلُوكُ بِهِ الأَبْوَابَا"
+      },
+      {
+        "sadr": "إِذَا بَلَغَ الفِطَامَ لَنَا صَبِيٌّ",
+        "ajuz": "تَخِرُّ لَهُ الجَبَابِرُ سَاجِدِينَا"
+      },
+      {
+        "sadr": "تَرَى الدُّنْيَا بِأَعْيُنِنَا صَغِيرَةً",
+        "ajuz": "وَأَمْلَاكُ البِلَادِ لَنَا خَدِينَا"
+      },
+      {
+        "sadr": "وَمَا خَلَقَ اللَّهُ الرِّجَالَ سَوَاءَنَا",
+        "ajuz": "فَنَحْنُ خِيَارُ خَلْقِ اللَّهِ طُرَّا"
+      },
+      {
+        "sadr": "بِنَا تُمْسِي المَكَارِمُ مُشْرِقَاتٍ",
+        "ajuz": "وَنَحْنُ النُّورُ وَالنَّاسُ الظَّلَامُ"
+      },
+      {
+        "sadr": "فَلَا فَخْرٌ لِقَوْمٍ بَعْدَ قَوْمِي",
+        "ajuz": "وَلَا عِزٌّ لِمَنْ طَلَبَ السَّلَامَا"
+      }
+    ],
+    "translationEn": "I am the one whom my mother named Jarir, and she did not err in choosing my destiny. When the Banu Tamim grow angry with you, you would think all of mankind is enraged. We are the openers of every gate when kings have bolted their doors shut. When a boy of ours reaches weaning, tyrants fall prostrate before him. The world appears small in our eyes, and the kings of the lands are our intimate companions. God did not create men our equal, for we are the choicest of God's entire creation. Through us noble virtues shine bright, and we are the light while other people are the darkness. No glory remains for any tribe after my tribe, and no honor for one who seeks only safety.",
+    "vocabularyHighlights": [
+      {
+        "word": "مَصِير",
+        "meaning": "destiny, fate"
+      },
+      {
+        "word": "أَوْصَدَ",
+        "meaning": "to bolt shut, bar"
+      },
+      {
+        "word": "الفِطَام",
+        "meaning": "weaning (of a child)"
+      },
+      {
+        "word": "الجَبَابِرَة",
+        "meaning": "tyrants, mighty rulers"
+      },
+      {
+        "word": "خَدِين",
+        "meaning": "intimate companion, friend"
+      },
+      {
+        "word": "خِيَار",
+        "meaning": "the choicest, the best"
+      },
+      {
+        "word": "طُرًّا",
+        "meaning": "entirely, altogether"
+      },
+      {
+        "word": "مُشْرِقَات",
+        "meaning": "radiant, shining"
+      }
+    ],
+    "context": "A magnificent fakhr (boast) poem in which Jarir extols his tribe, the Banu Tamim, one of the largest and most powerful Arab tribes. The verse about the weaning child became especially famous and widely quoted, exemplifying the hyperbolic grandeur of Umayyad tribal boasting."
+  }
+]

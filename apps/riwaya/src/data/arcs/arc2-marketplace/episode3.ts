@@ -1,0 +1,77 @@
+import type { StoryEpisode } from '../../../types';
+
+export const episode: StoryEpisode = {
+  id: 'arc2-ep3',
+  arcId: 'arc2-marketplace',
+  number: 3,
+  titleAr: 'المُسَاوَمَةُ',
+  titleEn: 'Bargaining',
+  setting: 'Ahmad learns the art of bargaining in the marketplace. He negotiates prices for gifts, using comparatives and numbers while a seasoned shopkeeper tests his Arabic skills.',
+  characters: [
+    { id: 'ahmad', nameAr: 'أَحْمَدُ', nameEn: 'Ahmad', role: 'protagonist' },
+    { id: 'merchant', nameAr: 'أَبُو خَالِدٍ', nameEn: 'Abu Khalid', role: 'supporting' },
+    { id: 'yusuf', nameAr: 'يُوسُفُ', nameEn: 'Yusuf', role: 'supporting' },
+  ],
+  dialogueLines: [
+    { speaker: 'ahmad', textAr: 'يَا يُوسُفُ، أُرِيدُ أَنْ أَشْتَرِيَ هَدِيَّةً لِأُمِّي. مَاذَا تَنْصَحُنِي؟', textEn: 'Yusuf, I want to buy a gift for my mother. What do you advise me?' },
+    { speaker: 'yusuf', textAr: 'اِذْهَبْ إِلَى دُكَّانِ أَبِي خَالِدٍ. عِنْدَهُ عُطُورٌ وَأَقْمِشَةٌ جَمِيلَةٌ. لَكِنِ انْتَبِهْ، لَا بُدَّ أَنْ تُسَاوِمَ!', textEn: 'Go to Abu Khalid\'s shop. He has perfumes and beautiful fabrics. But be careful, you must bargain!' },
+    { speaker: 'merchant', textAr: 'أَهْلًا وَسَهْلًا يَا شَبَابُ! اُدْخُلَا وَاشْرَبَا شَايًا.', textEn: 'Welcome, young men! Come in and drink tea.' },
+    { speaker: 'ahmad', textAr: 'شُكْرًا يَا أَبَا خَالِدٍ. أُرِيدُ عِطْرًا لِأُمِّي. مَا أَحْسَنُ عِطْرٍ عِنْدَكَ؟', textEn: 'Thank you, Abu Khalid. I want a perfume for my mother. What is your best perfume?' },
+    { speaker: 'merchant', textAr: 'هَذَا عِطْرُ العُودِ. هُوَ أَغْلَى عِطْرٍ وَأَجْمَلُهُ. ثَمَنُهُ مِئَتَانِ وَخَمْسُونَ رِيَالًا.', textEn: 'This is oud perfume. It is the most expensive and most beautiful perfume. It costs two hundred and fifty riyals.' },
+    { speaker: 'ahmad', textAr: 'مِئَتَانِ وَخَمْسُونَ! هَذَا غَالٍ جِدًّا. هَلْ عِنْدَكَ شَيْءٌ أَرْخَصُ؟', textEn: 'Two hundred and fifty! That is very expensive. Do you have something cheaper?' },
+    { speaker: 'merchant', textAr: 'هَذَا العِطْرُ أَرْخَصُ. ثَمَنُهُ مِئَةٌ وَخَمْسُونَ رِيَالًا. لَكِنَّ الأَوَّلَ أَحْسَنُ.', textEn: 'This perfume is cheaper. It costs one hundred and fifty riyals. But the first one is better.' },
+    { speaker: 'ahmad', textAr: 'أُعْطِيكَ مِئَةً وَعِشْرِينَ رِيَالًا لِلثَّانِي.', textEn: 'I will give you one hundred and twenty riyals for the second one.' },
+    { speaker: 'merchant', textAr: 'لَا، لَا! هَذَا قَلِيلٌ جِدًّا. مِئَةٌ وَأَرْبَعُونَ، وَهَذَا آخِرُ سِعْرٍ.', textEn: 'No, no! That is too little. One hundred and forty, and that is the final price.' },
+    { speaker: 'yusuf', textAr: 'يَا أَبَا خَالِدٍ، هُوَ طَالِبٌ. أَعْطِهِ سِعْرًا أَفْضَلَ!', textEn: 'Abu Khalid, he is a student. Give him a better price!' },
+    { speaker: 'merchant', textAr: 'حَسَنًا، مِئَةٌ وَثَلَاثُونَ رِيَالًا. لِأَنَّكَ طَالِبُ عِلْمٍ!', textEn: 'Alright, one hundred and thirty riyals. Because you are a student of knowledge!' },
+    { speaker: 'ahmad', textAr: 'قَبِلْتُ! شُكْرًا يَا أَبَا خَالِدٍ.', textEn: 'I accept! Thank you, Abu Khalid.' },
+  ],
+  vocabulary: [
+    { arabic: 'مُسَاوَمَةٌ', transliteration: 'musāwama', english: 'bargaining', root: 'س-و-م' },
+    { arabic: 'هَدِيَّةٌ', transliteration: 'hadiyya', english: 'gift', root: 'ه-د-ي' },
+    { arabic: 'عِطْرٌ', transliteration: 'ʿiṭr', english: 'perfume', root: 'ع-ط-ر' },
+    { arabic: 'عُودٌ', transliteration: 'ʿūd', english: 'oud (fragrant wood)', root: 'ع-و-د' },
+    { arabic: 'غَالٍ', transliteration: 'ghālin', english: 'expensive', root: 'غ-ل-و' },
+    { arabic: 'أَرْخَصُ', transliteration: 'arkhaṣ', english: 'cheaper', root: 'ر-خ-ص' },
+    { arabic: 'أَحْسَنُ', transliteration: 'aḥsan', english: 'better / best', root: 'ح-س-ن' },
+    { arabic: 'أَغْلَى', transliteration: 'aghlā', english: 'more expensive', root: 'غ-ل-و' },
+    { arabic: 'أَفْضَلُ', transliteration: 'afḍal', english: 'better / best', root: 'ف-ض-ل' },
+    { arabic: 'سِعْرٌ', transliteration: 'siʿr', english: 'price', root: 'س-ع-ر' },
+    { arabic: 'قَبِلَ', transliteration: 'qabila', english: 'he accepted', root: 'ق-ب-ل' },
+  ],
+  grammarPoint: {
+    titleAr: 'اسْمُ التَّفْضِيلِ (أَفْعَلُ)',
+    titleEn: 'The Comparative/Superlative (afʿal pattern)',
+    explanation: 'The comparative and superlative in Arabic use the أَفْعَل pattern. When followed by مِنْ, it means "more...than." When preceded by a definite noun or followed by a noun in the genitive, it means "the most..." Example: أَكْبَرُ (bigger), أَصْغَرُ (smaller), أَحْسَنُ (better/best).',
+    examples: [
+      'هَذَا أَرْخَصُ مِنْ ذَلِكَ — This is cheaper than that',
+      'هُوَ أَغْلَى عِطْرٍ — It is the most expensive perfume',
+      'أَحْسَنُ سِعْرٍ — the best price',
+      'أُرِيدُ شَيْئًا أَفْضَلَ — I want something better',
+    ],
+  },
+  comprehensionQuestions: [
+    {
+      questionAr: 'كَمْ ثَمَنُ عِطْرِ العُودِ؟',
+      questionEn: 'How much is the oud perfume?',
+      options: ['مِئَةٌ وَخَمْسُونَ', 'مِئَتَانِ', 'مِئَتَانِ وَخَمْسُونَ', 'ثَلَاثُمِئَةٍ'],
+      correctIndex: 2,
+    },
+    {
+      questionAr: 'كَمْ دَفَعَ أَحْمَدُ فِي النِّهَايَةِ؟',
+      questionEn: 'How much did Ahmad pay in the end?',
+      options: ['مِئَةً وَعِشْرِينَ', 'مِئَةً وَثَلَاثِينَ', 'مِئَةً وَأَرْبَعِينَ', 'مِئَةً وَخَمْسِينَ'],
+      correctIndex: 1,
+    },
+    {
+      questionAr: 'لِمَنِ الهَدِيَّةُ؟',
+      questionEn: 'Who is the gift for?',
+      options: ['لِيُوسُفَ', 'لِلأُسْتَاذِ', 'لِأُمِّهِ', 'لِأَبِيهِ'],
+      correctIndex: 2,
+    },
+  ],
+  culturalNotes: [
+    'Bargaining (المُسَاوَمَة) is an essential part of traditional marketplace culture in the Arab world. It is considered a social interaction, not confrontation. Starting at about half the asking price is common.',
+    'Oud (العُود) is a precious aromatic wood, highly valued in Arab culture. Burning oud chips or wearing oud-based perfume is associated with hospitality, celebrations, and religious occasions.',
+  ],
+};

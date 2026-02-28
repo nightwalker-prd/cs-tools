@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Noto+Sans+Arabic:wght@400;500;600;700&family=Amiri:wght@400;700&display=swap');
+
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #1D729B;
+  --color-primary-light: #DAF2F6;
+  --color-primary-dark: #247CA0;
+  --color-accent: #E37730;
+  --color-accent-light: #FFF3EC;
+  --color-background: #FFFFFF;
+  --color-card: #F5F7FA;
+  --color-card-hover: #EEF1F5;
+  --color-text: #1A1A2E;
+  --color-text-secondary: #6B7280;
+  --color-border: #E5E7EB;
+  --color-grammar-root: #2D8C3C;
+  --color-grammar-vowel: #E8751A;
+  --color-grammar-meaning: #1D729B;
+  --color-success: #10B981;
+  --color-danger: #EF4444;
+
+  --font-sans: 'Poppins', sans-serif;
+  --font-arabic: 'Noto Sans Arabic', 'Amiri', serif;
+  --font-quran: 'Amiri', serif;
+
+  --radius: 0.75rem;
+}
+
+* {
+  border-color: var(--color-border);
+}
+
+body {
+  background-color: var(--color-background);
+  color: var(--color-text);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+.font-arabic {
+  font-family: var(--font-arabic);
+  direction: rtl;
+}
+
+.font-quran {
+  font-family: var(--font-quran);
+  direction: rtl;
+  font-feature-settings: 'liga', 'dlig';
+}
+
+/* Desktop: off-white sides, white center column */
+@media (min-width: 480px) {
+  .desktop-bg {
+    background-color: #f3f4f6;
+  }
+
+  .desktop-center {
+    background-color: var(--color-background);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.05);
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "id": "wasaya",
+  "titleAr": "كتاب الوصايا",
+  "titleEn": "Bequests",
+  "order": 56,
+  "categoryId": "mutafarriqat",
+  "pageRange": [
+    232,
+    234
+  ],
+  "abwab": [
+    {
+      "id": "wasaya-main",
+      "kitabId": "wasaya",
+      "titleAr": "كتاب الوصايا",
+      "titleEn": "Bequests",
+      "order": 1,
+      "sections": [
+        {
+          "id": "wasaya-main-1-1",
+          "babId": "wasaya-main",
+          "kitabId": "wasaya",
+          "titleAr": "كتاب الوصايا",
+          "titleEn": "Bequests",
+          "order": 1,
+          "textAr": "الوصية غير واجبة وهي مستحبة ولا تجوز الوصية لوارث\n\nإلا أن يجيزها الورثة ولا يجوز الوصية بما زاد على الثلث ولا للقاتل\n\nويجوز أن يوصي المسلم للكافر والكافر للمسلم\n\nوقبول الوصية بعد الموت فإن قبلها الموصى له في حال الحياة أو ردها فذلك باطل\n\nويستحب أن يوصي الإنسان بدون الثلث\n\nوإذا أوصى إلى رجل فقبل الوصي في وجه الموصي فردها في غير وجهه فليس برد وإن ردها في وجهه فهو رد\n\nوالموصى به يملك بالقبول إلا في مسألة وهي: أن يموت الموصي ثم يموت الموصى له قبل القبول فيدخل الموصى به في ملك ورثته\n\nومن أوصى إلى عبد أو كافر أو فاسق أخرجهم القاضي من الوصية ونثب غيرهم\n\nومن أوصى إلى عبد نفسه وفي الورثة كبار لم تصح الوصية\n\nومن أوصى إلى من يعجز عن القيام بالوصية صم إليه القاضي غيره",
+          "sourcePage": 232,
+          "masail": [
+            {
+              "id": "masalah-wasaya-main-1-1",
+              "sectionId": "wasaya-main-1-1",
+              "kitabId": "wasaya",
+              "titleAr": "كتاب الوصايا",
+              "titleEn": "Bequests",
+              "rulingAr": "الوصية غير واجبة وهي مستحبة ولا تجوز الوصية لوارث\n\nإلا أن يجيزها الورثة ولا يجوز الوصية بما زاد على الثلث ولا للقاتل\n\nويجوز أن يوصي المسلم للكافر والكافر للمسلم\n\nوقبول الوصية بعد الموت فإن قبلها الموصى له في حال الحياة أو ردها فذلك باطل\n\nويستحب أن يوصي الإنسان بدون الثلث\n\nوإذا أوصى إلى رجل فقبل الوصي في وجه الموصي فردها في غير وجهه فليس برد وإن ردها في وجهه فهو رد\n\nوالموصى به يملك بالقبول إلا في مسألة وهي: أن يموت الموصي ثم يموت الموصى له قبل القبول فيدخل الموصى به في ملك ورثته\n\nومن أوصى إلى عبد أو كافر أو فاسق أخرجهم القاضي من الوصية ونثب غيرهم\n\nومن أوصى إلى عبد نفسه وفي الورثة كبار لم تصح الوصية\n\nومن أوصى إلى من يعجز عن القيام بالوصية صم إليه القاضي غيره",
+              "rulingEn": "A bequest is not obligatory, but it is recommended. A bequest to an heir is not valid unless the other heirs approve it. A bequest of more than one-third is not valid, nor is a bequest to the killer.\n\nA Muslim may make a bequest to a non-Muslim, and a non-Muslim may make a bequest to a Muslim.\n\nAcceptance of a bequest is after death. If the beneficiary accepts it during the testator's lifetime or rejects it, that is void.\n\nIt is recommended that a person bequeath less than one-third.\n\nIf a person appoints an executor and the executor accepts in the testator's presence but rejects in his absence, it is not a valid rejection. If he rejects in the testator's presence, it is a valid rejection.\n\nThe bequeathed item is owned upon acceptance, except in one case: if the testator dies and then the beneficiary dies before accepting, the bequeathed item enters the possession of the beneficiary's heirs.\n\nIf a person appoints a slave, a non-Muslim, or a corrupt person as executor, the judge removes them from the executorship and appoints others.\n\nIf a person appoints his own slave as executor and among the heirs there are adults, the appointment is not valid.\n\nIf a person appoints someone who is unable to fulfill the executorship, the judge appoints someone to assist him.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "A bequest is not obligatory, but it is recommended. A bequest to an heir is not valid unless the other heirs approve it. A bequest of more than one-third is not valid, nor is a bequest to the killer.\n\nA Muslim may make a bequest to a non-Muslim, and a non-Muslim may make a bequest to a Muslim.\n\nAcceptance of a bequest is after death. If the beneficiary accepts it during the testator's lifetime or rejects it, that is void.\n\nIt is recommended that a person bequeath less than one-third.\n\nIf a person appoints an executor and the executor accepts in the testator's presence but rejects in his absence, it is not a valid rejection. If he rejects in the testator's presence, it is a valid rejection.\n\nThe bequeathed item is owned upon acceptance, except in one case: if the testator dies and then the beneficiary dies before accepting, the bequeathed item enters the possession of the beneficiary's heirs.\n\nIf a person appoints a slave, a non-Muslim, or a corrupt person as executor, the judge removes them from the executorship and appoints others.\n\nIf a person appoints his own slave as executor and among the heirs there are adults, the appointment is not valid.\n\nIf a person appoints someone who is unable to fulfill the executorship, the judge appoints someone to assist him."
+        },
+        {
+          "id": "wasaya-main-1-2",
+          "babId": "wasaya-main",
+          "kitabId": "wasaya",
+          "titleAr": "كتاب الوصايا",
+          "titleEn": "Bequests",
+          "order": 2,
+          "textAr": "ومن أوصى إلى اثنين لم يجز لأحدهما أن يتصرف عند أبي حنيفة ومحمد دون صاحبه إلا من شراء كفن الميت وتجهيزه وطعام الصغار وكسوتهم ورد وديعة بعينها وقضاء دين وتنفيذ وصية بعينها وعتق عبد بتعينه والخصومة في حقوق الميت\n\nومن أوصى لرجل بثلث ماله ولآخر بثلث ماله فلم تجز الورثة فالثلث بينهما نصفان وإن أوصى لأحدهما بالثلث وللآخر بالسدس فالثلث بينهما أثلاثا وإن أوصى لأحدهما بجميع ماله وللآخر بثلث ماله فلم تجز الورثة فالثلث بينهما على أربعة أسهم عند أبي يوسف ومحمد وقال أبو حنيفة: الثلث بينهما نصفان ولا يضرب أبو حنيفة للموصى له بما زاد على الثلث إلا في المحاباة والسعاية والدراهم المرسلة\n\nومن أوصى وعليه دين يحيط بماله لم تجز الوصية إلا أن يبرئ الغرماء الدين\n\nومن أوصى بنصيب ابنه فالوصية باطلة وإن أوصى بمثل\n\nنصيب ابنه جازت فإن كان له ابنان فللموصى له الثلث",
+          "sourcePage": 232,
+          "masail": [
+            {
+              "id": "masalah-wasaya-main-1-2",
+              "sectionId": "wasaya-main-1-2",
+              "kitabId": "wasaya",
+              "titleAr": "كتاب الوصايا",
+              "titleEn": "Bequests",
+              "rulingAr": "ومن أوصى إلى اثنين لم يجز لأحدهما أن يتصرف عند أبي حنيفة ومحمد دون صاحبه إلا من شراء كفن الميت وتجهيزه وطعام الصغار وكسوتهم ورد وديعة بعينها وقضاء دين وتنفيذ وصية بعينها وعتق عبد بتعينه والخصومة في حقوق الميت\n\nومن أوصى لرجل بثلث ماله ولآخر بثلث ماله فلم تجز الورثة فالثلث بينهما نصفان وإن أوصى لأحدهما بالثلث وللآخر بالسدس فالثلث بينهما أثلاثا وإن أوصى لأحدهما بجميع ماله وللآخر بثلث ماله فلم تجز الورثة فالثلث بينهما على أربعة أسهم عند أبي يوسف ومحمد وقال أبو حنيفة: الثلث بينهما نصفان ولا يضرب أبو حنيفة للموصى له بما زاد على الثلث إلا في المحاباة والسعاية والدراهم المرسلة\n\nومن أوصى وعليه دين يحيط بماله لم تجز الوصية إلا أن يبرئ الغرماء الدين\n\nومن أوصى بنصيب ابنه فالوصية باطلة وإن أوصى بمثل\n\nنصيب ابنه جازت فإن كان له ابنان فللموصى له الثلث",
+              "rulingEn": "If a person appoints two executors, one may not act without the other according to Abu Hanifah and Muhammad -- except for purchasing the deceased's shroud and preparing him for burial, feeding and clothing the minors, returning a specific deposit, paying a debt, executing a specific bequest, freeing a specifically designated slave, and litigating regarding the deceased's rights.\n\nIf a person bequeaths one-third of his wealth to one person and one-third to another, and the heirs do not approve, the third is divided between them equally. If he bequeaths one-third to one and one-sixth to another, the third is divided between them in thirds. If he bequeaths all his wealth to one and one-third to another, and the heirs do not approve, the third is divided between them into four shares according to Abu Yusuf and Muhammad. Abu Hanifah said: The third is divided between them equally. Abu Hanifah does not count the beneficiary who was bequeathed more than one-third as competing for the excess, except in the case of a preferential sale, the working off of value (si'ayah), and unrestricted dirhams.\n\nIf a person makes a bequest while he has debts that encompass all his wealth, the bequest is not valid unless the creditors release the debt.\n\nIf a person bequeaths \"the share of his son,\" the bequest is void. If he bequeaths \"the equivalent of the share of his son,\" it is valid. If he has two sons, the beneficiary receives one-third.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "If a person appoints two executors, one may not act without the other according to Abu Hanifah and Muhammad -- except for purchasing the deceased's shroud and preparing him for burial, feeding and clothing the minors, returning a specific deposit, paying a debt, executing a specific bequest, freeing a specifically designated slave, and litigating regarding the deceased's rights.\n\nIf a person bequeaths one-third of his wealth to one person and one-third to another, and the heirs do not approve, the third is divided between them equally. If he bequeaths one-third to one and one-sixth to another, the third is divided between them in thirds. If he bequeaths all his wealth to one and one-third to another, and the heirs do not approve, the third is divided between them into four shares according to Abu Yusuf and Muhammad. Abu Hanifah said: The third is divided between them equally. Abu Hanifah does not count the beneficiary who was bequeathed more than one-third as competing for the excess, except in the case of a preferential sale, the working off of value (si'ayah), and unrestricted dirhams.\n\nIf a person makes a bequest while he has debts that encompass all his wealth, the bequest is not valid unless the creditors release the debt.\n\nIf a person bequeaths \"the share of his son,\" the bequest is void. If he bequeaths \"the equivalent of the share of his son,\" it is valid. If he has two sons, the beneficiary receives one-third."
+        },
+        {
+          "id": "wasaya-main-1-3",
+          "babId": "wasaya-main",
+          "kitabId": "wasaya",
+          "titleAr": "كتاب الوصايا",
+          "titleEn": "Bequests",
+          "order": 3,
+          "textAr": "ومن أعتق عبدا في مرضه أو باع وحابى أو وهب فذلك كله جائز يعتبر من الثلث ويضرب به مع أصحاب الوصايا\n\nفإن حابى ثم أعتق بالمحاباة أولى عند أبي حنيفة وإن أعتق ثم حابى فهما سواء وقال أ [ويوسف ومحمد: العتق أولى في المسألتين\n\nومن أوصى بسهم من ماله فله أخس سهام الورثة إلا أن ينقص من السدس فيتم له السدس\n\nوإن أوصى بجزء من ماله قيل للورثة: أعطوه ما شئتم\n\nومن أوصى بوصايا من حقوق الله تعالى قدمت الفرائض منها قدمها الموصي أو آخرها\n\nمثل الحج والزكاة والكفارات وما ليس بواجب قدم منه ما قدمه الموصي\n\nومن أوصى بحجة الإسلام أحجوا عنه رجلا من بلده يحج عنه راكبا فإن لم تبلغ الوصية النفقة أحجوا عنه من حيث تبلغ\n\nومن خرج من بلده حاجا فمات في الطريق وأوصى أن يحج عنه حج عنه من بلده عند أبي حنيفة\n\nولا تصح وصية الصبي والمكاتب وإن ترك وفاء\n\nويجوز للموصي الرجوع عن الوصية",
+          "sourcePage": 232,
+          "masail": [
+            {
+              "id": "masalah-wasaya-main-1-3",
+              "sectionId": "wasaya-main-1-3",
+              "kitabId": "wasaya",
+              "titleAr": "كتاب الوصايا",
+              "titleEn": "Bequests",
+              "rulingAr": "ومن أعتق عبدا في مرضه أو باع وحابى أو وهب فذلك كله جائز يعتبر من الثلث ويضرب به مع أصحاب الوصايا\n\nفإن حابى ثم أعتق بالمحاباة أولى عند أبي حنيفة وإن أعتق ثم حابى فهما سواء وقال أ [ويوسف ومحمد: العتق أولى في المسألتين\n\nومن أوصى بسهم من ماله فله أخس سهام الورثة إلا أن ينقص من السدس فيتم له السدس\n\nوإن أوصى بجزء من ماله قيل للورثة: أعطوه ما شئتم\n\nومن أوصى بوصايا من حقوق الله تعالى قدمت الفرائض منها قدمها الموصي أو آخرها\n\nمثل الحج والزكاة والكفارات وما ليس بواجب قدم منه ما قدمه الموصي\n\nومن أوصى بحجة الإسلام أحجوا عنه رجلا من بلده يحج عنه راكبا فإن لم تبلغ الوصية النفقة أحجوا عنه من حيث تبلغ\n\nومن خرج من بلده حاجا فمات في الطريق وأوصى أن يحج عنه حج عنه من بلده عند أبي حنيفة\n\nولا تصح وصية الصبي والمكاتب وإن ترك وفاء\n\nويجوز للموصي الرجوع عن الوصية",
+              "rulingEn": "Whoever manumits a slave during his illness, or sells at a preferential price, or gives a gift -- all of that is valid and is calculated from one-third, and the beneficiary competes with other bequest recipients.\n\nIf the preferential sale comes first and then manumission, the preferential sale takes priority according to Abu Hanifah. If manumission comes first and then the preferential sale, they are equal. Abu Yusuf and Muhammad said: Manumission takes priority in both cases.\n\nWhoever bequeaths \"a share\" (sahm) of his wealth, the beneficiary receives the smallest share among the heirs, unless it is less than one-sixth, in which case it is completed to one-sixth.\n\nIf he bequeaths \"a portion\" (juz') of his wealth, the heirs are told: \"Give him whatever you wish.\"\n\nWhoever makes bequests consisting of obligations to Allah Most High, the obligatory ones are given priority whether the testator mentioned them first or last -- such as Hajj, zakat, and expiations. As for non-obligatory ones, whichever the testator mentioned first takes priority.\n\nWhoever bequeaths that the obligatory Hajj be performed on his behalf, a man from his city is sent to perform Hajj on his behalf, riding. If the bequest does not cover the expenses, Hajj is performed on his behalf from wherever the funds suffice.\n\nWhoever leaves his city intending Hajj and dies on the way and bequeaths that Hajj be performed on his behalf, it is performed from his city according to Abu Hanifah.\n\nThe bequest of a minor and a mukatab -- even if the mukatab leaves enough to pay -- is not valid.\n\nThe testator may retract his bequest.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "Whoever manumits a slave during his illness, or sells at a preferential price, or gives a gift -- all of that is valid and is calculated from one-third, and the beneficiary competes with other bequest recipients.\n\nIf the preferential sale comes first and then manumission, the preferential sale takes priority according to Abu Hanifah. If manumission comes first and then the preferential sale, they are equal. Abu Yusuf and Muhammad said: Manumission takes priority in both cases.\n\nWhoever bequeaths \"a share\" (sahm) of his wealth, the beneficiary receives the smallest share among the heirs, unless it is less than one-sixth, in which case it is completed to one-sixth.\n\nIf he bequeaths \"a portion\" (juz') of his wealth, the heirs are told: \"Give him whatever you wish.\"\n\nWhoever makes bequests consisting of obligations to Allah Most High, the obligatory ones are given priority whether the testator mentioned them first or last -- such as Hajj, zakat, and expiations. As for non-obligatory ones, whichever the testator mentioned first takes priority.\n\nWhoever bequeaths that the obligatory Hajj be performed on his behalf, a man from his city is sent to perform Hajj on his behalf, riding. If the bequest does not cover the expenses, Hajj is performed on his behalf from wherever the funds suffice.\n\nWhoever leaves his city intending Hajj and dies on the way and bequeaths that Hajj be performed on his behalf, it is performed from his city according to Abu Hanifah.\n\nThe bequest of a minor and a mukatab -- even if the mukatab leaves enough to pay -- is not valid.\n\nThe testator may retract his bequest."
+        },
+        {
+          "id": "wasaya-main-1-4",
+          "babId": "wasaya-main",
+          "kitabId": "wasaya",
+          "titleAr": "كتاب الوصايا",
+          "titleEn": "Bequests",
+          "order": 4,
+          "textAr": "فإن صرح بالرجوع أو فعل ما يدل على الرجوع كان رجوعا ومن جحد الوصية لم يكن رجوعا\n\nومن أوصى لجيرانه فهم الملاصقون عند أبي حنيفة\n\nومن أوصى لأصهاره فالوصية لكل ذي رحم محرم من امرأته ومن أوصى لأختانه فالختن كل ذات رحم محرم منه\n\nومن أوصى لأقربائه فالوصية للأقرب فالأقرب من كل ذي\n\nرحمه محرم منه ولا يدخل فيهم الوالدان والولد\n\nويكون للإثنين فصاعدا وإذا أوصى بذلك وله عمان وخالان فالوصية لعميه عند أبي حنيفة وإن كان له عم وخالان فللعم النصف وللخالين النصف وقال أبو يوسف ومحمد: الوصية لكل من ينسب إلى أقصى أب له في الإسلام\n\nومن أوصى لرجل بثلث دراهمه أو ثلث غنمه فهلك ثلثا ذلك وبقي ثلثه وهو يخرج من ثلث ما بقي من ماله فله جميع ما بقي وإن أوصى بثلث ثيابه فهلك ثلثاها وبقي ثلثها وهو يخرج من ثلث ما بقي من ماله لم يستحق إلا ثلث ما بقي من الثياب",
+          "sourcePage": 232,
+          "masail": [
+            {
+              "id": "masalah-wasaya-main-1-4",
+              "sectionId": "wasaya-main-1-4",
+              "kitabId": "wasaya",
+              "titleAr": "كتاب الوصايا",
+              "titleEn": "Bequests",
+              "rulingAr": "فإن صرح بالرجوع أو فعل ما يدل على الرجوع كان رجوعا ومن جحد الوصية لم يكن رجوعا\n\nومن أوصى لجيرانه فهم الملاصقون عند أبي حنيفة\n\nومن أوصى لأصهاره فالوصية لكل ذي رحم محرم من امرأته ومن أوصى لأختانه فالختن كل ذات رحم محرم منه\n\nومن أوصى لأقربائه فالوصية للأقرب فالأقرب من كل ذي\n\nرحمه محرم منه ولا يدخل فيهم الوالدان والولد\n\nويكون للإثنين فصاعدا وإذا أوصى بذلك وله عمان وخالان فالوصية لعميه عند أبي حنيفة وإن كان له عم وخالان فللعم النصف وللخالين النصف وقال أبو يوسف ومحمد: الوصية لكل من ينسب إلى أقصى أب له في الإسلام\n\nومن أوصى لرجل بثلث دراهمه أو ثلث غنمه فهلك ثلثا ذلك وبقي ثلثه وهو يخرج من ثلث ما بقي من ماله فله جميع ما بقي وإن أوصى بثلث ثيابه فهلك ثلثاها وبقي ثلثها وهو يخرج من ثلث ما بقي من ماله لم يستحق إلا ثلث ما بقي من الثياب",
+              "rulingEn": "If he explicitly states the retraction, or performs an act indicating retraction, it is a retraction. Denying the bequest is not a retraction.\n\nIf a person bequeaths to his neighbors, they are the immediately adjacent ones according to Abu Hanifah.\n\nIf a person bequeaths to his in-laws (ashhar), the bequest goes to every relative of unmarriageable kinship of his wife. If he bequeaths to his in-laws (akhtan), the in-law is every female relative of unmarriageable kinship of his.\n\nIf a person bequeaths to his relatives, the bequest goes to the nearest then the next nearest among every relative of unmarriageable kinship. Parents and children are not included.\n\nIt goes to two persons or more. If he makes such a bequest and has two paternal uncles and two maternal uncles, the bequest goes to the two paternal uncles according to Abu Hanifah. If he has one paternal uncle and two maternal uncles, the paternal uncle gets half and the two maternal uncles get half. Abu Yusuf and Muhammad said: The bequest goes to everyone who can be traced to the furthest ancestor in Islam.\n\nIf a person bequeaths to someone one-third of his dirhams or one-third of his sheep, and two-thirds are destroyed and one-third remains, and that amount falls within one-third of the remaining estate, the beneficiary receives all of what remains. If he bequeaths one-third of his garments and two-thirds are destroyed and one-third remains, and that falls within one-third of the remaining estate, the beneficiary is only entitled to one-third of the remaining garments.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "If he explicitly states the retraction, or performs an act indicating retraction, it is a retraction. Denying the bequest is not a retraction.\n\nIf a person bequeaths to his neighbors, they are the immediately adjacent ones according to Abu Hanifah.\n\nIf a person bequeaths to his in-laws (ashhar), the bequest goes to every relative of unmarriageable kinship of his wife. If he bequeaths to his in-laws (akhtan), the in-law is every female relative of unmarriageable kinship of his.\n\nIf a person bequeaths to his relatives, the bequest goes to the nearest then the next nearest among every relative of unmarriageable kinship. Parents and children are not included.\n\nIt goes to two persons or more. If he makes such a bequest and has two paternal uncles and two maternal uncles, the bequest goes to the two paternal uncles according to Abu Hanifah. If he has one paternal uncle and two maternal uncles, the paternal uncle gets half and the two maternal uncles get half. Abu Yusuf and Muhammad said: The bequest goes to everyone who can be traced to the furthest ancestor in Islam.\n\nIf a person bequeaths to someone one-third of his dirhams or one-third of his sheep, and two-thirds are destroyed and one-third remains, and that amount falls within one-third of the remaining estate, the beneficiary receives all of what remains. If he bequeaths one-third of his garments and two-thirds are destroyed and one-third remains, and that falls within one-third of the remaining estate, the beneficiary is only entitled to one-third of the remaining garments."
+        },
+        {
+          "id": "wasaya-main-1-5",
+          "babId": "wasaya-main",
+          "kitabId": "wasaya",
+          "titleAr": "كتاب الوصايا",
+          "titleEn": "Bequests",
+          "order": 5,
+          "textAr": "ومن أوصى لرجل بألف درهم وله مال عين ودين فإن خرجت الألف من ثلث العين دفعت إلى الموصى له وإن لم تخرج دفع إليه ثلث العين وكلما خرج شيء من الدين أخذ ثلثه حتى يستوفي الألف\n\nوتجوز الوصية للحمل وبالحمل إذا وضع لأقل من ستة أشهر من يوم الوصية\n\nومن أوصى لرجل بجارية إلا حملها صحت الوصية والاستثناء\n\nومن أوصى لرجل بجارية فولدت بعد موت الموصي قبل أن يقبل الموصى له ولدا ثم قبل وهما يخرجان من الثلث فهما للموصى له وإن لم يخرجا من الثلث ضرب بالثلث وأخذ ما يخصه منهما جميعا في قول أبو يوسف ومحمد\n\nوقال أبو حنيفة: يأخذ ذلك من الأم فإن فضل شيء أخذه من الولد\n\nوتجوز الوصية بخدمة عبده وسكنى داره سنين معلومة وتجوز بذلك أبدا فإن خرجت رقبة العبد من الثلث سلم إليه للخدمة وإن كان لا مال له غيره خدم الورثة يومين والموصى له يوما فإن مات الموصى له عاد إلى الورثة وإن مات الموصى له في حياة الموصى بطلت الوصية",
+          "sourcePage": 232,
+          "masail": [
+            {
+              "id": "masalah-wasaya-main-1-5",
+              "sectionId": "wasaya-main-1-5",
+              "kitabId": "wasaya",
+              "titleAr": "كتاب الوصايا",
+              "titleEn": "Bequests",
+              "rulingAr": "ومن أوصى لرجل بألف درهم وله مال عين ودين فإن خرجت الألف من ثلث العين دفعت إلى الموصى له وإن لم تخرج دفع إليه ثلث العين وكلما خرج شيء من الدين أخذ ثلثه حتى يستوفي الألف\n\nوتجوز الوصية للحمل وبالحمل إذا وضع لأقل من ستة أشهر من يوم الوصية\n\nومن أوصى لرجل بجارية إلا حملها صحت الوصية والاستثناء\n\nومن أوصى لرجل بجارية فولدت بعد موت الموصي قبل أن يقبل الموصى له ولدا ثم قبل وهما يخرجان من الثلث فهما للموصى له وإن لم يخرجا من الثلث ضرب بالثلث وأخذ ما يخصه منهما جميعا في قول أبو يوسف ومحمد\n\nوقال أبو حنيفة: يأخذ ذلك من الأم فإن فضل شيء أخذه من الولد\n\nوتجوز الوصية بخدمة عبده وسكنى داره سنين معلومة وتجوز بذلك أبدا فإن خرجت رقبة العبد من الثلث سلم إليه للخدمة وإن كان لا مال له غيره خدم الورثة يومين والموصى له يوما فإن مات الموصى له عاد إلى الورثة وإن مات الموصى له في حياة الموصى بطلت الوصية",
+              "rulingEn": "If a person bequeaths one thousand dirhams to someone and he has both liquid assets and debts, if the thousand can come from one-third of the liquid assets, it is given to the beneficiary. If it cannot, one-third of the liquid assets is given to him, and whenever any of the debts are collected, he takes one-third of what is collected until he has received the full thousand.\n\nA bequest to an unborn child and of an unborn child is valid if the child is born within less than six months from the date of the bequest.\n\nIf a person bequeaths a slave-woman to someone except for her unborn child, the bequest and the exception are both valid.\n\nIf a person bequeaths a slave-woman to someone and she gives birth after the testator's death but before the beneficiary accepts, and then the beneficiary accepts, and both the mother and child can come from the third, both belong to the beneficiary. If they cannot come from the third, the beneficiary competes for the third and takes his share from both of them, according to Abu Yusuf and Muhammad.\n\nAbu Hanifah said: He takes his share from the mother first, and if anything remains, he takes from the child.\n\nA bequest of the service of a slave and the right to reside in a house for a specified number of years is valid, and a bequest of that in perpetuity is also valid. If the slave's full value can come from the third, the slave is handed over for service. If the testator has no other property, the slave serves the heirs for two days and the beneficiary for one day. If the beneficiary dies, the slave returns to the heirs. If the beneficiary dies during the testator's lifetime, the bequest is voided.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "If a person bequeaths one thousand dirhams to someone and he has both liquid assets and debts, if the thousand can come from one-third of the liquid assets, it is given to the beneficiary. If it cannot, one-third of the liquid assets is given to him, and whenever any of the debts are collected, he takes one-third of what is collected until he has received the full thousand.\n\nA bequest to an unborn child and of an unborn child is valid if the child is born within less than six months from the date of the bequest.\n\nIf a person bequeaths a slave-woman to someone except for her unborn child, the bequest and the exception are both valid.\n\nIf a person bequeaths a slave-woman to someone and she gives birth after the testator's death but before the beneficiary accepts, and then the beneficiary accepts, and both the mother and child can come from the third, both belong to the beneficiary. If they cannot come from the third, the beneficiary competes for the third and takes his share from both of them, according to Abu Yusuf and Muhammad.\n\nAbu Hanifah said: He takes his share from the mother first, and if anything remains, he takes from the child.\n\nA bequest of the service of a slave and the right to reside in a house for a specified number of years is valid, and a bequest of that in perpetuity is also valid. If the slave's full value can come from the third, the slave is handed over for service. If the testator has no other property, the slave serves the heirs for two days and the beneficiary for one day. If the beneficiary dies, the slave returns to the heirs. If the beneficiary dies during the testator's lifetime, the bequest is voided."
+        },
+        {
+          "id": "wasaya-main-1-6",
+          "babId": "wasaya-main",
+          "kitabId": "wasaya",
+          "titleAr": "كتاب الوصايا",
+          "titleEn": "Bequests",
+          "order": 6,
+          "textAr": "وإذا أوصى لولد فلان فالوصية بينهم: الذكر والأنثى فيه سواء\n\nومن أوصى لورثة فلان فالوصية بينهم: للذكر مثل حظ الأنثيين\n\nومن أوصى لزيد وعمرو بثلث ماله فإذا عمرو ميت فالثلث كله لزيد\n\nوإن قال: ثلث مالي بين زيد وعمرو وزيد ميت كان لعمرو نصف الثلث\n\nومن أوصى بثلث ماله له ثم اكتسب مالا استحق الموصى له ثلث ما يملكه عند الموت والله أعلم",
+          "sourcePage": 232,
+          "masail": [
+            {
+              "id": "masalah-wasaya-main-1-6",
+              "sectionId": "wasaya-main-1-6",
+              "kitabId": "wasaya",
+              "titleAr": "كتاب الوصايا",
+              "titleEn": "Bequests",
+              "rulingAr": "وإذا أوصى لولد فلان فالوصية بينهم: الذكر والأنثى فيه سواء\n\nومن أوصى لورثة فلان فالوصية بينهم: للذكر مثل حظ الأنثيين\n\nومن أوصى لزيد وعمرو بثلث ماله فإذا عمرو ميت فالثلث كله لزيد\n\nوإن قال: ثلث مالي بين زيد وعمرو وزيد ميت كان لعمرو نصف الثلث\n\nومن أوصى بثلث ماله له ثم اكتسب مالا استحق الموصى له ثلث ما يملكه عند الموت والله أعلم",
+              "rulingEn": "If a person bequeaths to the children of so-and-so, the bequest is divided among them equally: males and females share alike.\n\nIf a person bequeaths to the heirs of so-and-so, the bequest is divided among them: the male receives the share of two females.\n\nIf a person bequeaths one-third of his wealth to Zayd and Amr, and Amr is already deceased, the entire third goes to Zayd.\n\nIf he says: \"One-third of my wealth is between Zayd and Amr,\" and Zayd is deceased, Amr receives half of the third.\n\nIf a person bequeaths one-third of his wealth and then acquires more wealth, the beneficiary is entitled to one-third of what the testator owns at the time of death. And Allah knows best.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "If a person bequeaths to the children of so-and-so, the bequest is divided among them equally: males and females share alike.\n\nIf a person bequeaths to the heirs of so-and-so, the bequest is divided among them: the male receives the share of two females.\n\nIf a person bequeaths one-third of his wealth to Zayd and Amr, and Amr is already deceased, the entire third goes to Zayd.\n\nIf he says: \"One-third of my wealth is between Zayd and Amr,\" and Zayd is deceased, Amr receives half of the third.\n\nIf a person bequeaths one-third of his wealth and then acquires more wealth, the beneficiary is entitled to one-third of what the testator owns at the time of death. And Allah knows best."
+        }
+      ]
+    }
+  ]
+}

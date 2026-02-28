@@ -1,0 +1,223 @@
+========================================
+=== Processing: 108911-14-15 ===
+=== Started: Mon Feb 23 17:00:40 GMT 2026 ===
+=== PDF: /Users/miftah/projects/alqalam-tools/data/stories/108911-14-15.pdf ===
+=== Working dir: /Users/miftah/projects/alqalam-tools/data/stories/108911-14-15 ===
+========================================
+
+[OK] PDF file exists
+[INFO] PDF size: 22K
+
+[INFO] Changed to directory: /Users/miftah/projects/alqalam-tools/data/stories/108911-14-15
+[INFO] Launching Claude...
+
+--- CLAUDE OUTPUT START ---
+# كيف أقضي يومي — How I Spend My Day
+
+---
+
+## Text & Translation
+
+### Paragraph 1
+
+> أَنَامُ مُبَكِّراً فِي اللَّيْلِ وَأَقُومُ مُبَكِّراً فِي الصَّبَاحِ ، أَسْتَيْقِظُ عَلَى اسْمِ اللهِ وَذِكْرِهِ ، أَسْتَعِدُّ لِلصَّلَاةِ ثُمَّ أَذْهَبُ مَعَ وَالِدِي إِلَى الْمَسْجِدِ ، وَالْمَسْجِدُ قَرِيبٌ مِنْ بَيْتِي ، فَأَتَوَضَّأُ وَأُصَلِّي مَعَ الْجَمَاعَةِ ، وَأَرْجِعُ إِلَى الْبَيْتِ وَأَتْلُو شَيْئاً مِنَ الْقُرْآنِ الْكَرِيمِ ، ثُمَّ أَخْرُجُ إِلَى الْبُسْتَانِ وَأَجْرِي ، ثُمَّ أَرْجِعُ إِلَى الْبَيْتِ فَأَشْرَبُ اللَّبَنَ وَأَسْتَعِدُّ لِلذَّهَابِ إِلَى الْمَدْرَسَةِ ، وَأُفْطِرُ إِذَا كَانَتْ أَيَّامُ الصَّيْفِ ، وَأَتَغَدَّى إِذَا كَانَتْ أَيَّامُ الشِّتَاءِ ، وَأَصِلُ إِلَى الْمَدْرَسَةِ فِي الْمِيعَادِ.
+
+**I sleep early at night and wake up early in the morning. I wake up with the name of Allah and His remembrance. I prepare for prayer, then I go with my father to the mosque — and the mosque is close to my house — so I perform wudu and pray with the congregation. I return home and recite something from the Noble Quran. Then I go out to the garden and run. Then I return home and drink milk, and prepare to go to school. I have breakfast if it is summer, and I have lunch if it is winter, and I arrive at school on time.**
+
+---
+
+### Paragraph 2
+
+> وَأَمْكُثُ فِي الْمَدْرَسَةِ سِتَّ سَاعَاتٍ ، وَأَسْمَعُ الدُّرُوسَ بِنَشَاطٍ وَرَغْبَةٍ ، وَأَجْلِسُ بِأَدَبٍ وَسَكِينَةٍ ، حَتَّى إِذَا انْتَهَى الْوَقْتُ وَضُرِبَ الْجَرَسُ خَرَجْتُ مِنَ الْمَدْرَسَةِ وَرَجَعْتُ إِلَى الْبَيْتِ.
+
+**I stay at the school for six hours. I listen to the lessons with energy and enthusiasm, and I sit with good manners and composure, until the time ends and the bell is rung, then I leave the school and return home.**
+
+---
+
+### Paragraph 3 (Page 15, top)
+
+> وَلَا أَقْرَأُ بَعْدَ صَلَاةِ الْعَصْرِ إِلَى الْمَغْرِبِ ، وَفِي بَعْضِ الْأَيَّامِ أَذْهَبُ إِلَى السُّوقِ وَأَشْتَرِي أَمْكُثُ فِي الْبَيْتِ ، وَفِي بَعْضِ الْأَيَّامِ أَذْهَبُ إِلَى السُّوقِ وَأَشْتَرِي حَوَائِجَ الْبَيْتِ ، وَفِي بَعْضِ الْأَيَّامِ أَخْرُجُ مَعَ أَبِي أَوْ أَخِي إِلَى بَعْضِ الْأَقَارِبِ ، أَوْ أَلْعَبُ مَعَ إِخْوَتِي وَأَصْدِقَائِي.
+
+**I do not study after Asr prayer until Maghrib. On some days I stay at home, and on some days I go to the market and buy household needs. On some days I go out with my father or my brother to visit some relatives, or I play with my brothers and my friends.**
+
+---
+
+### Paragraph 4
+
+> وَأَتَعَشَّى مَعَ وَالِدِي وَإِخْوَتِي وَأَحْفَظُ دُرُوسِي ، وَأُطَالِعُ لِلْغَدِ وَأَسْتَعِدُّ لِلدَّرْسِ ، وَأَكْتُبُ مَا يَأْمُرُ بِهِ الْمُعَلِّمُ ، وَأُصَلِّي الْعِشَاءَ وَأَقْرَأُ قَلِيلاً ، ثُمَّ أَنَامُ عَلَى اسْمِ اللهِ وَذِكْرِهِ.
+
+**I have dinner with my parents and siblings, and I memorize my lessons. I review for the next day and prepare for class. I write what the teacher has assigned. I pray Isha and read a little, then I sleep with the name of Allah and His remembrance.**
+
+---
+
+### Paragraph 5
+
+> تِلْكَ عَادَتِي كُلَّ يَوْمٍ لَا أُخَالِفُهَا ، وَأَقُومُ مُبَكِّراً يَوْمَ الْعُطْلَةِ أَيْضاً ، وَأُصَلِّي مَعَ الْجَمَاعَةِ وَأَتْلُو الْقُرْآنَ ، وَأَقْضِي الْيَوْمَ فِي مُطَالَعَةِ كِتَابٍ وَمُحَادَثَةٍ مَعَ أَبِي وَأُمِّي وَإِخْوَتِي ، وَفِي زِيَارَةِ قَرِيبٍ أَوْ عِيَادَةِ مَرِيضٍ ، وَأَمْكُثُ أَحْيَاناً فِي الْبَيْتِ ، وَأَخْرُجُ أَحْيَاناً إِلَى الْخَارِجِ.
+
+**That is my routine every day — I never break it. I also wake up early on holidays. I pray with the congregation and recite the Quran. I spend the day reading a book and conversing with my father, my mother, and my siblings, and in visiting a relative or visiting a sick person. Sometimes I stay at home, and sometimes I go outside.**
+
+---
+
+## Vocabulary List
+
+| Arabic | Transliteration | English | Root |
+|--------|----------------|---------|------|
+| أَنَامُ | anāmu | I sleep | ن و م |
+| مُبَكِّراً | mubakkiran | early | ب ك ر |
+| أَسْتَيْقِظُ | astayqiẓu | I wake up | ي ق ظ |
+| أَسْتَعِدُّ | asta'iddu | I prepare | ع د د |
+| الصَّلَاة | aṣ-ṣalāh | prayer | ص ل و |
+| وَالِدِي | wālidī | my father | و ل د |
+| الْمَسْجِد | al-masjid | mosque | س ج د |
+| أَتَوَضَّأُ | atawadda'u | I perform wudu | و ض أ |
+| الْجَمَاعَة | al-jamā'ah | congregation | ج م ع |
+| أَتْلُو | atlū | I recite | ت ل و |
+| الْقُرْآن | al-Qur'ān | the Quran | ق ر أ |
+| الْبُسْتَان | al-bustān | garden/orchard | ب س ت ن |
+| أَجْرِي | ajrī | I run | ج ر ي |
+| اللَّبَن | al-laban | milk | ل ب ن |
+| أُفْطِرُ | ufṭiru | I have breakfast | ف ط ر |
+| الصَّيْف | aṣ-ṣayf | summer | ص ي ف |
+| أَتَغَدَّى | ataghaddā | I have lunch | غ د و |
+| الشِّتَاء | ash-shitā' | winter | ش ت و |
+| الْمِيعَاد | al-mī'ād | appointed time | و ع د |
+| أَمْكُثُ | amkuthu | I stay/remain | م ك ث |
+| الدُّرُوس | ad-durūs | lessons | د ر س |
+| نَشَاط | nashāṭ | energy/enthusiasm | ن ش ط |
+| رَغْبَة | raghbah | desire/eagerness | ر غ ب |
+| سَكِينَة | sakīnah | composure/tranquility | س ك ن |
+| الْجَرَس | al-jaras | bell | ج ر س |
+| الْعَصْر | al-'aṣr | Asr (afternoon) | ع ص ر |
+| الْمَغْرِب | al-maghrib | Maghrib (sunset) | غ ر ب |
+| السُّوق | as-sūq | market | س و ق |
+| حَوَائِج | ḥawā'ij | needs/necessities | ح و ج |
+| الْأَقَارِب | al-aqārib | relatives | ق ر ب |
+| أَتَعَشَّى | ata'ashshā | I have dinner | ع ش و |
+| أُطَالِعُ | uṭāli'u | I review/study | ط ل ع |
+| الْغَد | al-ghad | tomorrow/next day | غ د و |
+| يَأْمُرُ | ya'muru | he orders/assigns | أ م ر |
+| الْمُعَلِّم | al-mu'allim | teacher | ع ل م |
+| الْعُطْلَة | al-'uṭlah | holiday/vacation | ع ط ل |
+| أُخَالِفُهَا | ukhālifuhā | I break/violate it | خ ل ف |
+| مُطَالَعَة | muṭāla'ah | reading/study | ط ل ع |
+| مُحَادَثَة | muḥādathah | conversation | ح د ث |
+| عِيَادَة | 'iyādah | visiting (the sick) | ع و د |
+| مَرِيض | marīḍ | sick person | م ر ض |
+
+---
+
+## Grammatical Analysis
+
+### 1. Verb Forms (أوزان الأفعال)
+
+| Verb | Form | Pattern | Notes |
+|------|------|---------|-------|
+| أَنَامُ | I (فعل ثلاثي) | يَفْعَلُ / نَامَ | Hollow verb (أجوف), root ن و م |
+| أَسْتَيْقِظُ | X (اِسْتَفْعَلَ) | اِسْتَيْقَظَ | Seeking/requesting wakefulness |
+| أَسْتَعِدُّ | X (اِسْتَفْعَلَ) | اِسْتَعَدَّ | Doubled root (مضعّف): ع د د |
+| أَتَوَضَّأُ | V (تَفَعَّلَ) | تَوَضَّأَ | Reflexive of وَضَّأَ |
+| أُصَلِّي | II (فَعَّلَ) | صَلَّى | Defective verb (ناقص), root ص ل و |
+| أَتْلُو | I (فَعَلَ) | تَلَا / يَتْلُو | Defective verb (ناقص), root ت ل و |
+| أُفْطِرُ | IV (أَفْعَلَ) | أَفْطَرَ | Causative — "to break one's fast" |
+| أَتَغَدَّى | V (تَفَعَّلَ) | تَغَدَّى | Defective (ناقص), "to eat lunch" |
+| أَتَعَشَّى | V (تَفَعَّلَ) | تَعَشَّى | Defective (ناقص), "to eat dinner" |
+| أُطَالِعُ | III (فَاعَلَ) | طَالَعَ | "to study/review" |
+| أُخَالِفُ | III (فَاعَلَ) | خَالَفَ | "to oppose/violate" |
+| اِنْتَهَى | VIII (اِفْتَعَلَ) | اِنْتَهَى | Defective (ناقص), "to come to an end" |
+| ضُرِبَ | I (فُعِلَ) | Passive | **Passive voice** — "was struck/rung" |
+
+### 2. Nominal Sentence (جملة اسمية)
+
+> **وَالْمَسْجِدُ قَرِيبٌ مِنْ بَيْتِي**
+> "And the mosque is close to my house"
+
+- **المسجدُ** — مبتدأ (subject), marfū' with ḍammah
+- **قريبٌ** — خبر (predicate), marfū' with tanwīn
+- **مِنْ بَيْتِي** — جار ومجرور (prepositional phrase) attached to the predicate
+
+### 3. Conditional Sentences (إذا الشرطية)
+
+> **وَأُفْطِرُ إِذَا كَانَتْ أَيَّامُ الصَّيْفِ**
+> "I have breakfast if it is summer"
+
+> **وَأَتَغَدَّى إِذَا كَانَتْ أَيَّامُ الشِّتَاءِ**
+> "I have lunch if it is winter"
+
+- **إذا** — temporal/conditional particle (ظرف لما يُستقبل من الزمان)
+- **كانت** — كان الناقصة (deficient verb), past tense in the condition clause
+- **أيامُ** — اسم كان (subject of kāna), marfū'
+- **الصيفِ / الشتاءِ** — مضاف إليه, majrūr
+
+### 4. Passive Voice (المبني للمجهول)
+
+> **ضُرِبَ الْجَرَسُ**
+> "The bell was rung"
+
+- **ضُرِبَ** — فعل ماض مبني للمجهول (passive past tense), vowel pattern changed from ضَرَبَ to ضُرِبَ
+- **الجرسُ** — نائب الفاعل (deputy agent / grammatical subject), marfū'
+
+### 5. Ḥāl (الحال — Adverbial State)
+
+> **أَنَامُ مُبَكِّراً** — "I sleep early"
+> **وَأَجْلِسُ بِأَدَبٍ وَسَكِينَةٍ** — "I sit with manners and composure"
+
+- **مُبَكِّراً** — حال منصوب (accusative adverbial), tanwīn fatḥah
+- **بِأَدَبٍ وَسَكِينَةٍ** — حال expressed as a prepositional phrase (جار ومجرور في محل نصب حال)
+
+### 6. Iḍāfah Constructions (الإضافة)
+
+| Iḍāfah | Meaning |
+|---------|---------|
+| اسْمِ اللهِ | the name of Allah |
+| صَلَاةِ الْعَصْرِ | Asr prayer |
+| أَيَّامُ الصَّيْفِ | days of summer |
+| أَيَّامُ الشِّتَاءِ | days of winter |
+| حَوَائِجَ الْبَيْتِ | needs of the house |
+| مُطَالَعَةِ كِتَابٍ | reading of a book |
+| عِيَادَةِ مَرِيضٍ | visiting a sick person |
+| يَوْمَ الْعُطْلَةِ | the day of the holiday |
+
+In each case, the first word (مضاف) loses its tanwīn and the second (مضاف إليه) takes kasrah (majrūr).
+
+### 7. Key Connectors & Discourse Structure
+
+| Particle | Function | Example |
+|----------|----------|---------|
+| **ثُمَّ** | then (sequential, with delay) | ثم أذهب مع والدي |
+| **فَـ** | so/then (immediate sequence) | فأتوضأ وأصلي |
+| **حَتَّى** | until | حتى إذا انتهى الوقت |
+| **وَ** | and (conjunction) | Used throughout to chain actions |
+| **أَوْ** | or | أبي أو أخي |
+| **لَا** | negation (present tense) | لا أُخالفها |
+
+### 8. Temporal Expressions (ظروف الزمان)
+
+| Expression | Meaning | Grammar |
+|------------|---------|---------|
+| فِي اللَّيْلِ | at night | جار ومجرور |
+| فِي الصَّبَاحِ | in the morning | جار ومجرور |
+| بَعْدَ صَلَاةِ الْعَصْرِ | after Asr prayer | ظرف زمان + إضافة |
+| كُلَّ يَوْمٍ | every day | ظرف زمان منصوب |
+| أَحْيَاناً | sometimes | ظرف زمان منصوب |
+| فِي بَعْضِ الْأَيَّامِ | on some days | جار ومجرور |
+
+### 9. Notable Points
+
+- **First-person narration**: The entire text uses أَفْعَلُ (mudāri' first-person singular), giving it a diary-like quality. This is a standard pattern in Arabic language textbooks for practising verb conjugation.
+- **Shift from mudāri' to māḍī**: In the sentence حتى إذا انتهى الوقت وضُرِب الجرس **خرجتُ** من المدرسة **ورجعتُ** — the narrator switches to past tense (خرجتُ / رجعتُ) inside the إذا clause, which is standard: إذا takes a past-tense verb for its condition and response.
+- **Meals vocabulary**: The text neatly covers all three meals — أُفْطِرُ (breakfast, Form IV), أَتَغَدَّى (lunch, Form V), أَتَعَشَّى (dinner, Form V).
+- **Five daily prayers** referenced: الفجر (implied by early morning), العصر, المغرب, العشاء — with الجماعة (congregational prayer) mentioned twice.
+--- CLAUDE OUTPUT END ---
+
+========================================
+=== Exit code: 0 ===
+=== Finished: Mon Feb 23 17:02:24 GMT 2026 ===
+=== Files in directory: ===
+total 32
+drwxr-xr-x@  3 miftah  staff     96 Feb 23 17:00 .
+drwxr-xr-x@ 40 miftah  staff   1280 Feb 23 17:00 ..
+-rw-r--r--@  1 miftah  staff  14579 Feb 23 17:02 claude_log.txt
+
+=== Created 0 markdown files ===
+[WARNING] No markdown files were created
+========================================

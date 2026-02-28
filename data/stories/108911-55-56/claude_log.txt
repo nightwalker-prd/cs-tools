@@ -1,0 +1,41 @@
+========================================
+=== Processing: 108911-55-56 ===
+=== Started: Mon Feb 23 17:51:00 GMT 2026 ===
+=== PDF: /Users/miftah/projects/alqalam-tools/data/stories/108911-55-56.pdf ===
+=== Working dir: /Users/miftah/projects/alqalam-tools/data/stories/108911-52-54 ===
+========================================
+
+[OK] PDF file exists
+[INFO] PDF size: 16K
+
+[INFO] Changed to directory: /Users/miftah/projects/alqalam-tools/data/stories/108911-52-54
+[INFO] Launching Claude...
+
+--- CLAUDE OUTPUT START ---
+The file has been written to `108911-55-56-analysis.md` in your current directory. Here's a summary of what's included:
+
+**Story #17 — فَضِيْلَةُ الشُّغْلِ (The Virtue of Work)**
+
+A hadith where a poor Ansari man comes to the Prophet ﷺ asking for charity. Instead of giving a handout, the Prophet auctions the man's two possessions (a cloth and a bowl) for 2 dirhams, instructs him to buy food for his family and an axe, personally fixes the axe handle, then sends him to gather and sell firewood for 15 days. The man returns having earned 10 dirhams. The Prophet tells him this is better than begging coming as a mark of shame on his face on the Day of Judgment.
+
+The markdown file contains:
+- **Full Arabic text** with diacritics
+- **Complete English translation**
+- **35+ vocabulary entries** with root letters, transliterations, and meanings
+- **13 detailed grammatical analyses** covering every sentence
+- **Summary table** of key grammatical patterns (dual pronouns, بَاء الثَّمَن, ditransitive verbs, حال clauses, compound numbers, diptotes, مصدر مؤوّل, Form VIII verbs)
+- **Thematic notes** on the prophetic model of economic empowerment
+--- CLAUDE OUTPUT END ---
+
+========================================
+=== Exit code: 0 ===
+=== Finished: Mon Feb 23 17:53:17 GMT 2026 ===
+=== Files in directory: ===
+total 40
+drwxr-xr-x@  4 miftah  staff    128 Feb 23 17:53 .
+drwxr-xr-x@ 53 miftah  staff   1696 Feb 23 17:51 ..
+-rw-r--r--@  1 miftah  staff  16148 Feb 23 17:53 108911-55-56-analysis.md
+-rw-r--r--@  1 miftah  staff   2466 Feb 23 17:50 claude_log.txt
+
+=== Created 1 markdown files ===
+========================================

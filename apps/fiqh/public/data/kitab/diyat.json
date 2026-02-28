@@ -1,0 +1,265 @@
+{
+  "id": "diyat",
+  "titleAr": "كتاب الديات",
+  "titleEn": "Blood Money",
+  "order": 41,
+  "categoryId": "jinayaat",
+  "pageRange": [
+    177,
+    184
+  ],
+  "abwab": [
+    {
+      "id": "diyat-intro",
+      "kitabId": "diyat",
+      "titleAr": "مقدمة كتاب الديات",
+      "titleEn": "Introduction to Blood Money",
+      "order": 0,
+      "sections": [
+        {
+          "id": "diyat-intro-1-1",
+          "babId": "diyat-intro",
+          "kitabId": "diyat",
+          "titleAr": "مقدمة",
+          "titleEn": "Introduction",
+          "order": 1,
+          "textAr": "إذا قتل رجل رجلا عمد فعلى عاقلته دية مغلظة وعليه كفارة ودية شبه العمد عند أبي حنيفة وأبي يوسف مائة من الإبل أرباعا: خمس وعشرون بنت مخاض وخمس وعشرون بنت لبون وخمس وعشرون حقة وخمس وعشرون جذعة ولا يثبت\n\nالتغليظ إلا في الإبل خاصة فإن قضي بالدية من غير الإبل لم تتغلظ\n\nوقتل الخطإ جب به الدية على العاقلة والكفارة على القاتل\n\nوالدية في الخطأ مائة من الإبل أخماسا: عشرون بنت مخاض وعشرون ابن مخاض وعشرون بنت لبون وعشرون حقة ولا تثبت الدية إلا من هذه الأنواع الثلاثة عند أبي حنيفة وقال أبو يوسف ومحمد: من البقر مائتا بقرة ومن الغنم ألفا شاة ومن الحلل مائتا حلة كل حلة ثوبان ودية المسلم والذمي سواء",
+          "sourcePage": 177,
+          "masail": [
+            {
+              "id": "masalah-diyat-intro-1-1",
+              "sectionId": "diyat-intro-1-1",
+              "kitabId": "diyat",
+              "titleAr": "مقدمة",
+              "titleEn": "Introduction",
+              "rulingAr": "إذا قتل رجل رجلا عمد فعلى عاقلته دية مغلظة وعليه كفارة ودية شبه العمد عند أبي حنيفة وأبي يوسف مائة من الإبل أرباعا: خمس وعشرون بنت مخاض وخمس وعشرون بنت لبون وخمس وعشرون حقة وخمس وعشرون جذعة ولا يثبت\n\nالتغليظ إلا في الإبل خاصة فإن قضي بالدية من غير الإبل لم تتغلظ\n\nوقتل الخطإ جب به الدية على العاقلة والكفارة على القاتل\n\nوالدية في الخطأ مائة من الإبل أخماسا: عشرون بنت مخاض وعشرون ابن مخاض وعشرون بنت لبون وعشرون حقة ولا تثبت الدية إلا من هذه الأنواع الثلاثة عند أبي حنيفة وقال أبو يوسف ومحمد: من البقر مائتا بقرة ومن الغنم ألفا شاة ومن الحلل مائتا حلة كل حلة ثوبان ودية المسلم والذمي سواء",
+              "rulingEn": "If a man kills another in a quasi-intentional manner, the aggravated blood money is upon his paternal relatives (aqilah), and expiation is upon him. The blood money for quasi-intentional killing according to Abu Hanifah and Abu Yusuf is one hundred camels in four categories: twenty-five bint makhad (one-year-old female camels), twenty-five bint labun (two-year-old female camels), twenty-five hiqqah (three-year-old female camels), and twenty-five jadh'ah (four-year-old female camels). Aggravation\n\nis established only in camels specifically. If the blood money is assessed in something other than camels, it is not aggravated.\n\nAccidental killing obligates blood money upon the paternal relatives and expiation upon the killer.\n\nThe blood money for accidental killing is one hundred camels in five categories: twenty bint makhad, twenty ibn makhad (one-year-old male camels), twenty bint labun, twenty hiqqah, and twenty jadh'ah. According to Abu Hanifah, blood money is established only from these three types. Abu Yusuf and Muhammad said: from cattle, two hundred head of cattle; from sheep, two thousand sheep; from garments, two hundred sets of garments, each set consisting of two pieces. The blood money of a Muslim and a dhimmi is the same.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "If a man kills another in a quasi-intentional manner, the aggravated blood money is upon his paternal relatives (aqilah), and expiation is upon him. The blood money for quasi-intentional killing according to Abu Hanifah and Abu Yusuf is one hundred camels in four categories: twenty-five bint makhad (one-year-old female camels), twenty-five bint labun (two-year-old female camels), twenty-five hiqqah (three-year-old female camels), and twenty-five jadh'ah (four-year-old female camels). Aggravation\n\nis established only in camels specifically. If the blood money is assessed in something other than camels, it is not aggravated.\n\nAccidental killing obligates blood money upon the paternal relatives and expiation upon the killer.\n\nThe blood money for accidental killing is one hundred camels in five categories: twenty bint makhad, twenty ibn makhad (one-year-old male camels), twenty bint labun, twenty hiqqah, and twenty jadh'ah. According to Abu Hanifah, blood money is established only from these three types. Abu Yusuf and Muhammad said: from cattle, two hundred head of cattle; from sheep, two thousand sheep; from garments, two hundred sets of garments, each set consisting of two pieces. The blood money of a Muslim and a dhimmi is the same."
+        },
+        {
+          "id": "diyat-intro-1-2",
+          "babId": "diyat-intro",
+          "kitabId": "diyat",
+          "titleAr": "مقدمة",
+          "titleEn": "Introduction",
+          "order": 2,
+          "textAr": "وفي النفس الدية وفي المارن الدية وفي اللسان الدية وفي الذكر الدية وفي العقل إذا ضرب رأسه فذهب عقله الدية وفي اللحية إذا حلقت فلم تنبت الدية وفي شعر الرأس الدية وفي الحاجبين الدية وفي العينين الدية وفي اليدين الدية وفي الرجلين الدية وفي الأذنين الدية وفي الشفتين الدية وفي الأنثيين الدية وفي ثديي\n\nالمرأة الدية\n\nوفي كل واحد من هذه الأشياء نصف الدية وفي أشفار العينين الدية وفي أحدهما ربع الدية وفي كل إصبع من أصابع اليدين والرجلين عشر الدية والأصابع كلها سواء وكل إصبع فيها ثلاثة مفاصل ففي أحدهما ثلث دية الإصبع وما فيها مفصلان ففي أحدهما نصف دية الإصبع وفي كل سن خمس من الإبل والأسنان والأضراس كلها سواء\n\nومن ضرب عضوا فأذهب منفعة ففيه دية كاملة\n\nكما لو قطعه كاليد إذا شلت والعين إذا ذهب ضوءها\n\nوالشجاج عشرة: الحارصة والدامعة والدامية والباضعة والمتلاحمة والسمحاق والموضحه والهاشمة والمنقلة والأمة",
+          "sourcePage": 177,
+          "masail": [
+            {
+              "id": "masalah-diyat-intro-1-2",
+              "sectionId": "diyat-intro-1-2",
+              "kitabId": "diyat",
+              "titleAr": "مقدمة",
+              "titleEn": "Introduction",
+              "rulingAr": "وفي النفس الدية وفي المارن الدية وفي اللسان الدية وفي الذكر الدية وفي العقل إذا ضرب رأسه فذهب عقله الدية وفي اللحية إذا حلقت فلم تنبت الدية وفي شعر الرأس الدية وفي الحاجبين الدية وفي العينين الدية وفي اليدين الدية وفي الرجلين الدية وفي الأذنين الدية وفي الشفتين الدية وفي الأنثيين الدية وفي ثديي\n\nالمرأة الدية\n\nوفي كل واحد من هذه الأشياء نصف الدية وفي أشفار العينين الدية وفي أحدهما ربع الدية وفي كل إصبع من أصابع اليدين والرجلين عشر الدية والأصابع كلها سواء وكل إصبع فيها ثلاثة مفاصل ففي أحدهما ثلث دية الإصبع وما فيها مفصلان ففي أحدهما نصف دية الإصبع وفي كل سن خمس من الإبل والأسنان والأضراس كلها سواء\n\nومن ضرب عضوا فأذهب منفعة ففيه دية كاملة\n\nكما لو قطعه كاليد إذا شلت والعين إذا ذهب ضوءها\n\nوالشجاج عشرة: الحارصة والدامعة والدامية والباضعة والمتلاحمة والسمحاق والموضحه والهاشمة والمنقلة والأمة",
+              "rulingEn": "For the life, the full blood money is due. For the soft part of the nose, the full blood money. For the tongue, the full blood money. For the male organ, the full blood money. For the intellect — if one strikes his head and his intellect is lost — the full blood money. For the beard, if it is shaved and does not grow back, the full blood money. For the hair of the head, the full blood money. For the two eyebrows, the full blood money. For the two eyes, the full blood money. For the two hands, the full blood money. For the two feet, the full blood money. For the two ears, the full blood money. For the two lips, the full blood money. For the two testicles, the full blood money. For the two breasts\n\nof a woman, the full blood money.\n\nFor each one of these paired organs, half the blood money. For the four eyelids, the full blood money. For one eyelid, one quarter of the blood money. For each finger of the hands and feet, one-tenth of the blood money. All fingers are equal. Every finger has three joints, so for one joint, one-third of the blood money of the finger. What has two joints — for one of them, half the blood money of the finger. For each tooth, five camels. All teeth and molars are equal.\n\nWhoever strikes a limb and destroys its function, the full blood money is due,\n\nas if he had cut it off — such as a hand that becomes paralyzed, or an eye that loses its sight.\n\nHead wounds are ten types: al-harisah (scratch), al-dami'ah (weeping), al-damiyah (bleeding), al-badi'ah (flesh-exposing), al-mutalahimah (deep flesh wound), al-simhaq (membrane-exposing), al-mudihah (bone-exposing), al-hashimah (bone-fracturing), al-munaqilah (bone-displacing), and al-ammah (brain-membrane reaching).",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "For the life, the full blood money is due. For the soft part of the nose, the full blood money. For the tongue, the full blood money. For the male organ, the full blood money. For the intellect — if one strikes his head and his intellect is lost — the full blood money. For the beard, if it is shaved and does not grow back, the full blood money. For the hair of the head, the full blood money. For the two eyebrows, the full blood money. For the two eyes, the full blood money. For the two hands, the full blood money. For the two feet, the full blood money. For the two ears, the full blood money. For the two lips, the full blood money. For the two testicles, the full blood money. For the two breasts\n\nof a woman, the full blood money.\n\nFor each one of these paired organs, half the blood money. For the four eyelids, the full blood money. For one eyelid, one quarter of the blood money. For each finger of the hands and feet, one-tenth of the blood money. All fingers are equal. Every finger has three joints, so for one joint, one-third of the blood money of the finger. What has two joints — for one of them, half the blood money of the finger. For each tooth, five camels. All teeth and molars are equal.\n\nWhoever strikes a limb and destroys its function, the full blood money is due,\n\nas if he had cut it off — such as a hand that becomes paralyzed, or an eye that loses its sight.\n\nHead wounds are ten types: al-harisah (scratch), al-dami'ah (weeping), al-damiyah (bleeding), al-badi'ah (flesh-exposing), al-mutalahimah (deep flesh wound), al-simhaq (membrane-exposing), al-mudihah (bone-exposing), al-hashimah (bone-fracturing), al-munaqilah (bone-displacing), and al-ammah (brain-membrane reaching)."
+        },
+        {
+          "id": "diyat-intro-1-3",
+          "babId": "diyat-intro",
+          "kitabId": "diyat",
+          "titleAr": "مقدمة",
+          "titleEn": "Introduction",
+          "order": 3,
+          "textAr": "ففي الموضحه القصاص إن كانت عمدا ولا قصاص في بقية الشجاج وما دون الموضحة ففيه حكومة عدل\n\nوفي الموضحة إن كانت خطأ نصف عشر الدية وفي الهاشمية عشر الدية وفي المنقلة عشر ونصف عشر الدية وفي الأمة ثلث الدية وفي الجائفة ثلث الدية\n\nفإن نفذت فهي جائفتان ففيها ثلثا الدية وفي أصابع اليد نصف الدية\n\nوإن قطعها مع الكف ففيها الدية وإن قطعها مع نصف الساعد ففي الكف نصف الدية وفي الزيادة حكومة عدل وفي الإصبع الزائدة حكومة عدل\n\nوفي عين الصبي وذكره ولسانه إذا لم تعلم صحته حكومة عدل ومن شج رجلا موضحة فذهب عقله أو شعر رأسه دخل أرش الموضحة في الدية\n\nوإن ذهب سمعة أو بصره أو كلامه فعليه أرش الموضحة مع الدية ومن قطع إصبع رجل فشلت أخرى إلى جنبها ففيهما الأرش ولا قصاص فيه عند أبي حنيفة\n\nومن قلع سن رجل فنبتت أخرى سقط الأرش ومن شج رجلا",
+          "sourcePage": 177,
+          "masail": [
+            {
+              "id": "masalah-diyat-intro-1-3",
+              "sectionId": "diyat-intro-1-3",
+              "kitabId": "diyat",
+              "titleAr": "مقدمة",
+              "titleEn": "Introduction",
+              "rulingAr": "ففي الموضحه القصاص إن كانت عمدا ولا قصاص في بقية الشجاج وما دون الموضحة ففيه حكومة عدل\n\nوفي الموضحة إن كانت خطأ نصف عشر الدية وفي الهاشمية عشر الدية وفي المنقلة عشر ونصف عشر الدية وفي الأمة ثلث الدية وفي الجائفة ثلث الدية\n\nفإن نفذت فهي جائفتان ففيها ثلثا الدية وفي أصابع اليد نصف الدية\n\nوإن قطعها مع الكف ففيها الدية وإن قطعها مع نصف الساعد ففي الكف نصف الدية وفي الزيادة حكومة عدل وفي الإصبع الزائدة حكومة عدل\n\nوفي عين الصبي وذكره ولسانه إذا لم تعلم صحته حكومة عدل ومن شج رجلا موضحة فذهب عقله أو شعر رأسه دخل أرش الموضحة في الدية\n\nوإن ذهب سمعة أو بصره أو كلامه فعليه أرش الموضحة مع الدية ومن قطع إصبع رجل فشلت أخرى إلى جنبها ففيهما الأرش ولا قصاص فيه عند أبي حنيفة\n\nومن قلع سن رجل فنبتت أخرى سقط الأرش ومن شج رجلا",
+              "rulingEn": "For the bone-exposing wound (mudihah), retribution applies if it was intentional. There is no retribution for the remaining types of head wounds. For what is less than a mudihah, an equitable assessment (hukumat adl) applies.\n\nFor the mudihah, if it was accidental: half of one-tenth of the blood money. For the hashimah (bone-fracturing): one-tenth of the blood money. For the munaqilah (bone-displacing): one-tenth plus half of one-tenth of the blood money. For the ammah (brain-membrane reaching): one-third of the blood money. For the ja'ifah (deep abdominal wound): one-third of the blood money.\n\nIf it penetrates through, then it constitutes two deep wounds, and two-thirds of the blood money is due. For the fingers of one hand: half the blood money.\n\nIf he cuts them off along with the palm, the full blood money is due. If he cuts them from the middle of the forearm, half the blood money is due for the palm, and an equitable assessment for the excess. For an extra finger, an equitable assessment applies.\n\nFor the eye of an infant, his male organ, or his tongue — when their soundness is not established — an equitable assessment applies. Whoever inflicts a mudihah upon a man and thereby causes him to lose his intellect or the hair of his head — the compensation for the mudihah is subsumed within the blood money.\n\nIf his hearing, sight, or speech is lost, the compensation for the mudihah is due in addition to the blood money. Whoever cuts off a man's finger and a neighboring finger becomes paralyzed as a result — compensation is due for both, and there is no retribution according to Abu Hanifah.\n\nWhoever knocks out a man's tooth and another grows in its place — the compensation is extinguished. Whoever inflicts a head wound upon a man",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "For the bone-exposing wound (mudihah), retribution applies if it was intentional. There is no retribution for the remaining types of head wounds. For what is less than a mudihah, an equitable assessment (hukumat adl) applies.\n\nFor the mudihah, if it was accidental: half of one-tenth of the blood money. For the hashimah (bone-fracturing): one-tenth of the blood money. For the munaqilah (bone-displacing): one-tenth plus half of one-tenth of the blood money. For the ammah (brain-membrane reaching): one-third of the blood money. For the ja'ifah (deep abdominal wound): one-third of the blood money.\n\nIf it penetrates through, then it constitutes two deep wounds, and two-thirds of the blood money is due. For the fingers of one hand: half the blood money.\n\nIf he cuts them off along with the palm, the full blood money is due. If he cuts them from the middle of the forearm, half the blood money is due for the palm, and an equitable assessment for the excess. For an extra finger, an equitable assessment applies.\n\nFor the eye of an infant, his male organ, or his tongue — when their soundness is not established — an equitable assessment applies. Whoever inflicts a mudihah upon a man and thereby causes him to lose his intellect or the hair of his head — the compensation for the mudihah is subsumed within the blood money.\n\nIf his hearing, sight, or speech is lost, the compensation for the mudihah is due in addition to the blood money. Whoever cuts off a man's finger and a neighboring finger becomes paralyzed as a result — compensation is due for both, and there is no retribution according to Abu Hanifah.\n\nWhoever knocks out a man's tooth and another grows in its place — the compensation is extinguished. Whoever inflicts a head wound upon a man"
+        },
+        {
+          "id": "diyat-intro-1-4",
+          "babId": "diyat-intro",
+          "kitabId": "diyat",
+          "titleAr": "مقدمة",
+          "titleEn": "Introduction",
+          "order": 4,
+          "textAr": "فالتحمت الجراحة ولم يبق لها أثر ونبت الشعر سقط الأرش عند أبي حنيفة وقال أبو يوسف: عليه أرش الألم وقال محمد: عليه أجرة الطبيب ومن جرح رجلا جراحة لم يقتض منه حتى يبرأ\n\nومن قطع يد رجل خطأ ثم قتله قبل البرء فعليه الدية وسقط\n\nأرش اليد\n\nوكل عمد سقط فيه القصاص بشبهة فالدية في مال القاتل وكل أرش وجب بالصلح فهو في مال القاتل\n\nوإذا قتل الأب ابنه عمدا فالدية في ماله في ثلاث سنين وكل جناية اعترف بها الجاني فهي في ماله ولا يصدق على عاقلته\n\nوعمد الصبي والمجنون خطأ وفيه الدية على العاقلة\n\nومن حفر بئرا في طريق المسلمين أو وضع حجرا فتلف بذلك إنسان فديته على عاقلته وإن تلف فيه بهيمة فضمانها في ماله وإن أشرع في الطريق ورشنا أو ميزابا فسقط على إنسان فعطب فالدية على عاقلته ولا كفارة على حافر البئر وواضع الحجر",
+          "sourcePage": 177,
+          "masail": [
+            {
+              "id": "masalah-diyat-intro-1-4",
+              "sectionId": "diyat-intro-1-4",
+              "kitabId": "diyat",
+              "titleAr": "مقدمة",
+              "titleEn": "Introduction",
+              "rulingAr": "فالتحمت الجراحة ولم يبق لها أثر ونبت الشعر سقط الأرش عند أبي حنيفة وقال أبو يوسف: عليه أرش الألم وقال محمد: عليه أجرة الطبيب ومن جرح رجلا جراحة لم يقتض منه حتى يبرأ\n\nومن قطع يد رجل خطأ ثم قتله قبل البرء فعليه الدية وسقط\n\nأرش اليد\n\nوكل عمد سقط فيه القصاص بشبهة فالدية في مال القاتل وكل أرش وجب بالصلح فهو في مال القاتل\n\nوإذا قتل الأب ابنه عمدا فالدية في ماله في ثلاث سنين وكل جناية اعترف بها الجاني فهي في ماله ولا يصدق على عاقلته\n\nوعمد الصبي والمجنون خطأ وفيه الدية على العاقلة\n\nومن حفر بئرا في طريق المسلمين أو وضع حجرا فتلف بذلك إنسان فديته على عاقلته وإن تلف فيه بهيمة فضمانها في ماله وإن أشرع في الطريق ورشنا أو ميزابا فسقط على إنسان فعطب فالدية على عاقلته ولا كفارة على حافر البئر وواضع الحجر",
+              "rulingEn": "and the wound heals, leaving no trace, and the hair grows back — the compensation is extinguished according to Abu Hanifah. Abu Yusuf said: the compensation for pain is due. Muhammad said: the doctor's fee is due. Whoever wounds a man — retribution is not exacted from him until the wound heals.\n\nWhoever cuts off a man's hand accidentally and then kills him before the wound heals — the full blood money is due and\n\nthe compensation for the hand is extinguished.\n\nEvery intentional offense in which retribution is waived due to a legal doubt (shubhah) — the blood money is upon the killer's own wealth. Every compensation established through settlement — it is upon the killer's own wealth.\n\nIf a father kills his son intentionally, the blood money is payable from his own wealth over three years. Every offense to which the offender confesses — it is upon his own wealth, and his testimony is not accepted against his paternal relatives.\n\nThe intentional act of a child or an insane person is treated as accidental, and the blood money is upon the paternal relatives.\n\nWhoever digs a well in the Muslims' public road or places a stone, and a person perishes thereby — the blood money is upon his paternal relatives. If an animal perishes thereby, the liability is upon his own wealth. If one extends a projecting structure, a gutter, or a drainpipe over the road, and it falls upon a person causing death — the blood money is upon his paternal relatives. There is no expiation upon the digger of a well or the placer of a stone.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "and the wound heals, leaving no trace, and the hair grows back — the compensation is extinguished according to Abu Hanifah. Abu Yusuf said: the compensation for pain is due. Muhammad said: the doctor's fee is due. Whoever wounds a man — retribution is not exacted from him until the wound heals.\n\nWhoever cuts off a man's hand accidentally and then kills him before the wound heals — the full blood money is due and\n\nthe compensation for the hand is extinguished.\n\nEvery intentional offense in which retribution is waived due to a legal doubt (shubhah) — the blood money is upon the killer's own wealth. Every compensation established through settlement — it is upon the killer's own wealth.\n\nIf a father kills his son intentionally, the blood money is payable from his own wealth over three years. Every offense to which the offender confesses — it is upon his own wealth, and his testimony is not accepted against his paternal relatives.\n\nThe intentional act of a child or an insane person is treated as accidental, and the blood money is upon the paternal relatives.\n\nWhoever digs a well in the Muslims' public road or places a stone, and a person perishes thereby — the blood money is upon his paternal relatives. If an animal perishes thereby, the liability is upon his own wealth. If one extends a projecting structure, a gutter, or a drainpipe over the road, and it falls upon a person causing death — the blood money is upon his paternal relatives. There is no expiation upon the digger of a well or the placer of a stone."
+        },
+        {
+          "id": "diyat-intro-1-5",
+          "babId": "diyat-intro",
+          "kitabId": "diyat",
+          "titleAr": "مقدمة",
+          "titleEn": "Introduction",
+          "order": 5,
+          "textAr": "ومن حفر بئرا في ملكه فعطب به إنسان لم يضمن والراكب ضامن لما وطئت الدابة وما أصابت بيدها أو كدمت ولا يضمن ما نفخت برجلها أو ذنبها\n\nفإن راثت أو بالت في الطريق فعطب به إنسان لم يضمن والسائق ضامن لما أصابت بيدها أو رجلها والقائد ضامن لما أصابت بيدها دون رجلها\n\nومن قاد قطارا فهو ضامن لما وطئ فإن كان معه سائق\n\nفالضمان عليهما وإذا جنى البعد جناية خطإ قيل لمولاه: إما أن تدفعه بها أو تفديه\n\nفإن دفعه ملكه ولي الجناية وإن فداه بأرشها فإن عاد فجنى كان حكم الجناية الثانية حكم الألى فإن جنى قيل للمولى: إما أن تدفعه إلى ولي الجنايتين يقتسمان على قدر حقيهما وإما أن تفديه بأرش كل واحدة منهما وإن أعتقه المولى وهو لا يعلم بالجناية ضمن الأقل من قيمته ومن أرشها وإن باعه المولى أو أعتقه بعد العلم بالجناية وجب عليه الأرش",
+          "sourcePage": 177,
+          "masail": [
+            {
+              "id": "masalah-diyat-intro-1-5",
+              "sectionId": "diyat-intro-1-5",
+              "kitabId": "diyat",
+              "titleAr": "مقدمة",
+              "titleEn": "Introduction",
+              "rulingAr": "ومن حفر بئرا في ملكه فعطب به إنسان لم يضمن والراكب ضامن لما وطئت الدابة وما أصابت بيدها أو كدمت ولا يضمن ما نفخت برجلها أو ذنبها\n\nفإن راثت أو بالت في الطريق فعطب به إنسان لم يضمن والسائق ضامن لما أصابت بيدها أو رجلها والقائد ضامن لما أصابت بيدها دون رجلها\n\nومن قاد قطارا فهو ضامن لما وطئ فإن كان معه سائق\n\nفالضمان عليهما وإذا جنى البعد جناية خطإ قيل لمولاه: إما أن تدفعه بها أو تفديه\n\nفإن دفعه ملكه ولي الجناية وإن فداه بأرشها فإن عاد فجنى كان حكم الجناية الثانية حكم الألى فإن جنى قيل للمولى: إما أن تدفعه إلى ولي الجنايتين يقتسمان على قدر حقيهما وإما أن تفديه بأرش كل واحدة منهما وإن أعتقه المولى وهو لا يعلم بالجناية ضمن الأقل من قيمته ومن أرشها وإن باعه المولى أو أعتقه بعد العلم بالجناية وجب عليه الأرش",
+              "rulingEn": "Whoever digs a well on his own property and a person perishes thereby — he is not liable. The rider is liable for what the riding animal tramples with its hooves, and for what it strikes with its forelegs, or bites. He is not liable for what it kicks with its hind legs or strikes with its tail.\n\nIf the animal defecates or urinates on the road and a person slips and is harmed thereby — he is not liable. The driver is liable for what the animal strikes with its forelegs or hind legs. The one leading the animal is liable for what it strikes with its forelegs only, not its hind legs.\n\nWhoever leads a string of camels is liable for what they trample. If there is also a driver with him,\n\nthen liability falls upon both of them. When a slave commits an accidental offense, his master is told: either surrender him on account of it, or ransom him.\n\nIf he surrenders him, the claimant of the offense takes ownership of him. If he ransoms him with the compensation — then if the slave offends again, the ruling on the second offense is the same as the first. If he offends again, the master is told: either surrender him to the claimants of both offenses, who divide him in proportion to their claims, or ransom him with the compensation for each of them. If the master frees him without knowledge of the offense, he is liable for the lesser of the slave's value or the compensation. If the master sells him or frees him after learning of the offense, the full compensation becomes due upon him.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "Whoever digs a well on his own property and a person perishes thereby — he is not liable. The rider is liable for what the riding animal tramples with its hooves, and for what it strikes with its forelegs, or bites. He is not liable for what it kicks with its hind legs or strikes with its tail.\n\nIf the animal defecates or urinates on the road and a person slips and is harmed thereby — he is not liable. The driver is liable for what the animal strikes with its forelegs or hind legs. The one leading the animal is liable for what it strikes with its forelegs only, not its hind legs.\n\nWhoever leads a string of camels is liable for what they trample. If there is also a driver with him,\n\nthen liability falls upon both of them. When a slave commits an accidental offense, his master is told: either surrender him on account of it, or ransom him.\n\nIf he surrenders him, the claimant of the offense takes ownership of him. If he ransoms him with the compensation — then if the slave offends again, the ruling on the second offense is the same as the first. If he offends again, the master is told: either surrender him to the claimants of both offenses, who divide him in proportion to their claims, or ransom him with the compensation for each of them. If the master frees him without knowledge of the offense, he is liable for the lesser of the slave's value or the compensation. If the master sells him or frees him after learning of the offense, the full compensation becomes due upon him."
+        },
+        {
+          "id": "diyat-intro-1-6",
+          "babId": "diyat-intro",
+          "kitabId": "diyat",
+          "titleAr": "مقدمة",
+          "titleEn": "Introduction",
+          "order": 6,
+          "textAr": "وإذا جنى المدبر أو أم الولد جناية خطأ ضمن المولى الأقل من قيمته ومن أرشها فإن جنى أخرى وقد دفع المولى القيمة إلى ولي الأولى بقضاء فلا شيء عليه ويتبع ولي الجناية الثانية ولي الجناية الأولى فيشاركه فيما أخذ وإن كان المولى دفع القيمة بغير قضاء فالولي بالخيار: إن شاء اتبع المولى وإن شاء اتبع ولي الجناية الأولى\n\nوإذا مال الحائط إلى طريق المسلمين فطولب صاحبه بنقضه وأشهد عليه فلم ينقض في مدة يقدر على نقضه حتى سقط ضمن ما تلف به من نفس أو مال\n\nويستوي أن يطالبه بنقضه مسلم أو ذمي وإن مال إلى دار رجل فالمطالبة إلى مالك الدار خاصة وإذا اصطدم فارسان فماتا فعلى عاقلة كل واحد منهما دية الآخر\n\nوإذا قتل رجل عبدا خطأ فعليه قيمته لا يزاد على عشرة آلاف درهم فإن كانت قيمته عشرة آلاف أو أكثر قضي عليه بعشرة آلاف إلا عشرة\n\nوفي الأمة إذا زادت قيمتها على الدية خمسة آلاف إلا عشرة",
+          "sourcePage": 177,
+          "masail": [
+            {
+              "id": "masalah-diyat-intro-1-6",
+              "sectionId": "diyat-intro-1-6",
+              "kitabId": "diyat",
+              "titleAr": "مقدمة",
+              "titleEn": "Introduction",
+              "rulingAr": "وإذا جنى المدبر أو أم الولد جناية خطأ ضمن المولى الأقل من قيمته ومن أرشها فإن جنى أخرى وقد دفع المولى القيمة إلى ولي الأولى بقضاء فلا شيء عليه ويتبع ولي الجناية الثانية ولي الجناية الأولى فيشاركه فيما أخذ وإن كان المولى دفع القيمة بغير قضاء فالولي بالخيار: إن شاء اتبع المولى وإن شاء اتبع ولي الجناية الأولى\n\nوإذا مال الحائط إلى طريق المسلمين فطولب صاحبه بنقضه وأشهد عليه فلم ينقض في مدة يقدر على نقضه حتى سقط ضمن ما تلف به من نفس أو مال\n\nويستوي أن يطالبه بنقضه مسلم أو ذمي وإن مال إلى دار رجل فالمطالبة إلى مالك الدار خاصة وإذا اصطدم فارسان فماتا فعلى عاقلة كل واحد منهما دية الآخر\n\nوإذا قتل رجل عبدا خطأ فعليه قيمته لا يزاد على عشرة آلاف درهم فإن كانت قيمته عشرة آلاف أو أكثر قضي عليه بعشرة آلاف إلا عشرة\n\nوفي الأمة إذا زادت قيمتها على الدية خمسة آلاف إلا عشرة",
+              "rulingEn": "If a mudabbar (slave promised freedom upon death) or an umm walad (mother of the master's child) commits an accidental offense, the master is liable for the lesser of the slave's value or the compensation. If the slave commits another offense and the master has already paid the value to the claimant of the first offense by court order, then nothing further is due upon him, and the claimant of the second offense pursues the claimant of the first offense to share in what was taken. If the master paid the value without court order, the second claimant has a choice: he may pursue either the master or the claimant of the first offense.\n\nIf a wall leans toward the Muslims' public road and its owner is demanded to demolish it, and witnesses are called against him, and he fails to demolish it within a time in which he could have done so, until it collapses — he is liable for whatever is destroyed by it, whether life or property.\n\nIt makes no difference whether the demand for demolition is made by a Muslim or a dhimmi. If the wall leans toward a man's house, the right to demand demolition belongs exclusively to the house owner. If two riders collide and both die, the paternal relatives of each are liable for the blood money of the other.\n\nIf a man kills a slave accidentally, he owes its value, not exceeding ten thousand dirhams. If its value is ten thousand or more, he is assessed ten thousand minus ten dirhams.\n\nFor a female slave whose value exceeds the blood money: five thousand minus ten dirhams.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "If a mudabbar (slave promised freedom upon death) or an umm walad (mother of the master's child) commits an accidental offense, the master is liable for the lesser of the slave's value or the compensation. If the slave commits another offense and the master has already paid the value to the claimant of the first offense by court order, then nothing further is due upon him, and the claimant of the second offense pursues the claimant of the first offense to share in what was taken. If the master paid the value without court order, the second claimant has a choice: he may pursue either the master or the claimant of the first offense.\n\nIf a wall leans toward the Muslims' public road and its owner is demanded to demolish it, and witnesses are called against him, and he fails to demolish it within a time in which he could have done so, until it collapses — he is liable for whatever is destroyed by it, whether life or property.\n\nIt makes no difference whether the demand for demolition is made by a Muslim or a dhimmi. If the wall leans toward a man's house, the right to demand demolition belongs exclusively to the house owner. If two riders collide and both die, the paternal relatives of each are liable for the blood money of the other.\n\nIf a man kills a slave accidentally, he owes its value, not exceeding ten thousand dirhams. If its value is ten thousand or more, he is assessed ten thousand minus ten dirhams.\n\nFor a female slave whose value exceeds the blood money: five thousand minus ten dirhams."
+        },
+        {
+          "id": "diyat-intro-1-7",
+          "babId": "diyat-intro",
+          "kitabId": "diyat",
+          "titleAr": "مقدمة",
+          "titleEn": "Introduction",
+          "order": 7,
+          "textAr": "وفي يد العبد نصف القيمة لا يزاد على خمسة آلاف إلا خمسة وكل ما يقدر من دية الحر فهو مقدر من قيمة العبد\n\nوإذا ضرب بطن امرأة فألقت جنينا ميتا فعليه غرة\n\nوالغرة نصف عشر الدية فإن ألقته حيا ثم مات فعليه دية كاملة وإن ألقته ميتا ثم ماتت الأم فعليه دية وغرة وإن ماتت الأم ثم ألقته ميتا فعليه دية في الأم ولا شيء في الجنين\n\nوما يجب في الجنين موروث عنه وفي جنين الأمة إذا كان ذكرا نصف عشر قيمته لو كان حيا وعشر قيمته إن كان أنثى ولا كفارة في الجنين\n\nوالكفارة في شبه العمد والخطإ: عتق رقبة مؤمنة فإن لم يجد فصيام شهرين متتابعين ولا يجزئ فيها الإطعام",
+          "sourcePage": 177,
+          "masail": [
+            {
+              "id": "masalah-diyat-intro-1-7",
+              "sectionId": "diyat-intro-1-7",
+              "kitabId": "diyat",
+              "titleAr": "مقدمة",
+              "titleEn": "Introduction",
+              "rulingAr": "وفي يد العبد نصف القيمة لا يزاد على خمسة آلاف إلا خمسة وكل ما يقدر من دية الحر فهو مقدر من قيمة العبد\n\nوإذا ضرب بطن امرأة فألقت جنينا ميتا فعليه غرة\n\nوالغرة نصف عشر الدية فإن ألقته حيا ثم مات فعليه دية كاملة وإن ألقته ميتا ثم ماتت الأم فعليه دية وغرة وإن ماتت الأم ثم ألقته ميتا فعليه دية في الأم ولا شيء في الجنين\n\nوما يجب في الجنين موروث عنه وفي جنين الأمة إذا كان ذكرا نصف عشر قيمته لو كان حيا وعشر قيمته إن كان أنثى ولا كفارة في الجنين\n\nوالكفارة في شبه العمد والخطإ: عتق رقبة مؤمنة فإن لم يجد فصيام شهرين متتابعين ولا يجزئ فيها الإطعام",
+              "rulingEn": "For the hand of a slave: half his value, not exceeding five thousand minus five dirhams. Everything that is proportionally fixed in the blood money of a free person is proportionally fixed in the value of a slave.\n\nIf someone strikes the belly of a woman and she miscarries a dead fetus, he owes a ghurrah.\n\nThe ghurrah is half of one-tenth of the blood money. If the fetus is delivered alive and then dies, the full blood money is due. If the fetus is delivered dead and then the mother dies, the blood money and a ghurrah are both due. If the mother dies and then the fetus is delivered dead, the blood money is due for the mother and nothing for the fetus.\n\nWhat is due for the fetus is inherited from the fetus. For the fetus of a female slave, if it is male: half of one-tenth of its value had it been alive; and one-tenth of its value if female. There is no expiation for the fetus.\n\nThe expiation for quasi-intentional and accidental killing is: freeing a believing slave. If one cannot find a slave, then fasting two consecutive months. Feeding does not suffice for this expiation.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "For the hand of a slave: half his value, not exceeding five thousand minus five dirhams. Everything that is proportionally fixed in the blood money of a free person is proportionally fixed in the value of a slave.\n\nIf someone strikes the belly of a woman and she miscarries a dead fetus, he owes a ghurrah.\n\nThe ghurrah is half of one-tenth of the blood money. If the fetus is delivered alive and then dies, the full blood money is due. If the fetus is delivered dead and then the mother dies, the blood money and a ghurrah are both due. If the mother dies and then the fetus is delivered dead, the blood money is due for the mother and nothing for the fetus.\n\nWhat is due for the fetus is inherited from the fetus. For the fetus of a female slave, if it is male: half of one-tenth of its value had it been alive; and one-tenth of its value if female. There is no expiation for the fetus.\n\nThe expiation for quasi-intentional and accidental killing is: freeing a believing slave. If one cannot find a slave, then fasting two consecutive months. Feeding does not suffice for this expiation."
+        }
+      ]
+    },
+    {
+      "id": "diyat-bab-1",
+      "kitabId": "diyat",
+      "titleAr": "باب القسامة",
+      "titleEn": "Compurgation (Qasamah)",
+      "order": 1,
+      "sections": [
+        {
+          "id": "diyat-bab-1-1",
+          "babId": "diyat-bab-1",
+          "kitabId": "diyat",
+          "titleAr": "باب القسامة",
+          "titleEn": "Compurgation (Qasamah)",
+          "order": 1,
+          "textAr": "وإذا وجد القتيل في محلة ولا يعلم من قتله استحلف خمسون رجلا منهم\n\nيتخيرهم الولي: بالله ما قتلناه ولا علمنا له قاتلا فإذا حلفوا قضي على أهل المحلة بالدية ولا يستحلف الولي ولا يقضي له بالجناية وإن لم يكمل أهل المحلة كررت الأيمان عليهم حتى يتم خمسون\n\nولا يدخل في القسامة صبي ولا مجنون\n\nولا امرأة ولا عبد وإن وجد ميت لا أثر به فلا قسامة ولا دية وكذلك إن كان الدم يسيل من أنفه أو من دبره أو من فمه فإن كان يخرج من عينيه أو من أذنه فهو قتيل\n\nوإذا وجد القتيل على دابة يسوقها رجل فالدية على عاقلته دون أهل المحلة وإن وجد القتيل في دار إنسان فالقسامة عليه والدية على عاقلته\n\nولا يدخل السكان في القسامة مع الملاك عند أبي حنيفة وهي على أهل الخطة\n\nدون المشترين ولو بقي منهم واحد وإن وجد القتيل في سفينة فالقسامة على من فيها من الركاب والملاحين وإن وجد القتيل في مسجد محلة فالقسامة على أهلها وإن وجد في الجامع أو الشارع الأعظم فلا قسامة فيه والدية على بيت المال وإن وجد في برية ليس بقربها عمارة فهو هدر وإن وجد بين قريتين كان على أقربهما وإن وجد في وسط الفرات بمر به الماء فهو هدر\n\nفإن كان محتسبا بالشاطئ فهو على أقرب القرى من ذلك\n\nالمكان\n\nوإن ادعى الولي على واحد من أهل المحلة بعينه لم تسقط القسامة عنهم وإن ادعى على واحد من غيرهم سقطت عنهم القسامة\n\nوإذا قال المستحلف: قتله فلان استحلف بالله ما قتلت ولا عرفت له قاتلا غير فلان\n\nوإذا شهد اثنان من أهل المحلة على رجل من غيرهم أنه قتله لم تقبل شهادتهما",
+          "sourcePage": 177,
+          "masail": [
+            {
+              "id": "masalah-diyat-bab-1-1",
+              "sectionId": "diyat-bab-1-1",
+              "kitabId": "diyat",
+              "titleAr": "باب القسامة",
+              "titleEn": "Compurgation (Qasamah)",
+              "rulingAr": "وإذا وجد القتيل في محلة ولا يعلم من قتله استحلف خمسون رجلا منهم\n\nيتخيرهم الولي: بالله ما قتلناه ولا علمنا له قاتلا فإذا حلفوا قضي على أهل المحلة بالدية ولا يستحلف الولي ولا يقضي له بالجناية وإن لم يكمل أهل المحلة كررت الأيمان عليهم حتى يتم خمسون\n\nولا يدخل في القسامة صبي ولا مجنون\n\nولا امرأة ولا عبد وإن وجد ميت لا أثر به فلا قسامة ولا دية وكذلك إن كان الدم يسيل من أنفه أو من دبره أو من فمه فإن كان يخرج من عينيه أو من أذنه فهو قتيل\n\nوإذا وجد القتيل على دابة يسوقها رجل فالدية على عاقلته دون أهل المحلة وإن وجد القتيل في دار إنسان فالقسامة عليه والدية على عاقلته\n\nولا يدخل السكان في القسامة مع الملاك عند أبي حنيفة وهي على أهل الخطة\n\nدون المشترين ولو بقي منهم واحد وإن وجد القتيل في سفينة فالقسامة على من فيها من الركاب والملاحين وإن وجد القتيل في مسجد محلة فالقسامة على أهلها وإن وجد في الجامع أو الشارع الأعظم فلا قسامة فيه والدية على بيت المال وإن وجد في برية ليس بقربها عمارة فهو هدر وإن وجد بين قريتين كان على أقربهما وإن وجد في وسط الفرات بمر به الماء فهو هدر\n\nفإن كان محتسبا بالشاطئ فهو على أقرب القرى من ذلك\n\nالمكان\n\nوإن ادعى الولي على واحد من أهل المحلة بعينه لم تسقط القسامة عنهم وإن ادعى على واحد من غيرهم سقطت عنهم القسامة\n\nوإذا قال المستحلف: قتله فلان استحلف بالله ما قتلت ولا عرفت له قاتلا غير فلان\n\nوإذا شهد اثنان من أهل المحلة على رجل من غيرهم أنه قتله لم تقبل شهادتهما",
+              "rulingEn": "If a slain person is found in a neighborhood and it is not known who killed him, fifty men from among them are made to swear —\n\nchosen by the claimant — by Allah that they did not kill him and do not know his killer. Once they have sworn, the blood money is assessed upon the people of the neighborhood. The claimant is not made to swear, nor is the offense attributed to him. If the people of the neighborhood do not reach fifty, the oaths are repeated among them until fifty oaths are completed.\n\nNeither a minor, nor an insane person,\n\nnor a woman, nor a slave is included in the compurgation. If a dead person is found with no marks of violence upon him, there is no compurgation and no blood money. Likewise, if blood is flowing from his nose, his backside, or his mouth. But if blood is coming from his eyes or his ears, he is considered a homicide victim.\n\nIf the slain person is found on an animal being driven by a man, the blood money is upon that man's paternal relatives, not the people of the neighborhood. If the slain person is found in someone's house, the compurgation is upon that person and the blood money upon his paternal relatives.\n\nTenants are not included in the compurgation along with property owners according to Abu Hanifah, and it falls upon the original settlers,\n\nnot subsequent purchasers, even if only one of them remains. If the slain person is found on a ship, the compurgation is upon those aboard — both passengers and crew. If the slain person is found in the mosque of a neighborhood, the compurgation is upon its people. If found in the congregational mosque or the main thoroughfare, there is no compurgation, and the blood money is upon the public treasury. If found in open land with no habitation nearby, it is uncompensated (hadr). If found between two villages, it is upon the nearer of the two. If found in the middle of the Euphrates where the current carries him, it is uncompensated.\n\nIf the body is retained on the riverbank, then it falls upon the nearest villages from that\n\nlocation.\n\nIf the claimant accuses a specific person from the neighborhood, the compurgation is not lifted from them. If he accuses someone from outside the neighborhood, the compurgation is lifted from them.\n\nIf the person being sworn says: \"So-and-so killed him,\" he is made to swear by Allah that he did not kill him and does not know any killer other than the named person.\n\nIf two witnesses from the neighborhood testify against a man from outside it that he killed the victim, their testimony is not accepted.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "If a slain person is found in a neighborhood and it is not known who killed him, fifty men from among them are made to swear —\n\nchosen by the claimant — by Allah that they did not kill him and do not know his killer. Once they have sworn, the blood money is assessed upon the people of the neighborhood. The claimant is not made to swear, nor is the offense attributed to him. If the people of the neighborhood do not reach fifty, the oaths are repeated among them until fifty oaths are completed.\n\nNeither a minor, nor an insane person,\n\nnor a woman, nor a slave is included in the compurgation. If a dead person is found with no marks of violence upon him, there is no compurgation and no blood money. Likewise, if blood is flowing from his nose, his backside, or his mouth. But if blood is coming from his eyes or his ears, he is considered a homicide victim.\n\nIf the slain person is found on an animal being driven by a man, the blood money is upon that man's paternal relatives, not the people of the neighborhood. If the slain person is found in someone's house, the compurgation is upon that person and the blood money upon his paternal relatives.\n\nTenants are not included in the compurgation along with property owners according to Abu Hanifah, and it falls upon the original settlers,\n\nnot subsequent purchasers, even if only one of them remains. If the slain person is found on a ship, the compurgation is upon those aboard — both passengers and crew. If the slain person is found in the mosque of a neighborhood, the compurgation is upon its people. If found in the congregational mosque or the main thoroughfare, there is no compurgation, and the blood money is upon the public treasury. If found in open land with no habitation nearby, it is uncompensated (hadr). If found between two villages, it is upon the nearer of the two. If found in the middle of the Euphrates where the current carries him, it is uncompensated.\n\nIf the body is retained on the riverbank, then it falls upon the nearest villages from that\n\nlocation.\n\nIf the claimant accuses a specific person from the neighborhood, the compurgation is not lifted from them. If he accuses someone from outside the neighborhood, the compurgation is lifted from them.\n\nIf the person being sworn says: \"So-and-so killed him,\" he is made to swear by Allah that he did not kill him and does not know any killer other than the named person.\n\nIf two witnesses from the neighborhood testify against a man from outside it that he killed the victim, their testimony is not accepted."
+        }
+      ]
+    },
+    {
+      "id": "diyat-bab-2",
+      "kitabId": "diyat",
+      "titleAr": "باب المعاقل",
+      "titleEn": "Blood-Money Contributions",
+      "order": 2,
+      "sections": [
+        {
+          "id": "diyat-bab-2-1",
+          "babId": "diyat-bab-2",
+          "kitabId": "diyat",
+          "titleAr": "باب المعاقل",
+          "titleEn": "Blood-Money Contributions",
+          "order": 1,
+          "textAr": "الدية في شبه العمد والخطإ وكل دية وجبت بنفس القتل على العاقلة\n\nوالعاقلة: أهل الديوان\n\nإن كان القاتل من أهل الديوان يؤخذ من عطاياهم في ثلاث سنين فإن خرجت العطايا في أكثر من ثلاث سنين أو أقل أخذت منها ومن لم يكن من أهل الديوان فعاقلته قبيلته تقسط عليهم في ثلاث سنين لا يزاد الواحد على أربعة دراهم في كل سنة وينقض منها فإن لم تتسع القبيلة لذلك ضم إليهم أقرب القبائل من غيرهم\n\nويدخل القاتل مع العاقلة فيكون فيما يؤدي مثل أحدهم\n\nوعاقلة المعتق قبيلة مولاه ومولى الموالاة يعقل عنه مولاه وقبيلته ولا تتحمل العاقلة أقل من نصف عشر الدية وتتحمل نصف العشر فصاعدا وما ينقص من ذلك فهو في مال الجاني\n\nولا تعتقل العاقلة جناية العبد ولا تعقل الجناية التي اعترف بها الجاني إلا أن يصدقوه ولا تعقل ما لزم بالصلح\n\nوإذا جنى الحر على العبد جناية خطأ كانت على عاقلته",
+          "sourcePage": 177,
+          "masail": [
+            {
+              "id": "masalah-diyat-bab-2-1",
+              "sectionId": "diyat-bab-2-1",
+              "kitabId": "diyat",
+              "titleAr": "باب المعاقل",
+              "titleEn": "Blood-Money Contributions",
+              "rulingAr": "الدية في شبه العمد والخطإ وكل دية وجبت بنفس القتل على العاقلة\n\nوالعاقلة: أهل الديوان\n\nإن كان القاتل من أهل الديوان يؤخذ من عطاياهم في ثلاث سنين فإن خرجت العطايا في أكثر من ثلاث سنين أو أقل أخذت منها ومن لم يكن من أهل الديوان فعاقلته قبيلته تقسط عليهم في ثلاث سنين لا يزاد الواحد على أربعة دراهم في كل سنة وينقض منها فإن لم تتسع القبيلة لذلك ضم إليهم أقرب القبائل من غيرهم\n\nويدخل القاتل مع العاقلة فيكون فيما يؤدي مثل أحدهم\n\nوعاقلة المعتق قبيلة مولاه ومولى الموالاة يعقل عنه مولاه وقبيلته ولا تتحمل العاقلة أقل من نصف عشر الدية وتتحمل نصف العشر فصاعدا وما ينقص من ذلك فهو في مال الجاني\n\nولا تعتقل العاقلة جناية العبد ولا تعقل الجناية التي اعترف بها الجاني إلا أن يصدقوه ولا تعقل ما لزم بالصلح\n\nوإذا جنى الحر على العبد جناية خطأ كانت على عاقلته",
+              "rulingEn": "The blood money in quasi-intentional and accidental killing, and every blood money arising from the act of killing itself, is upon the paternal relatives (aqilah).\n\nThe aqilah consists of those registered in the military rolls (diwan).\n\nIf the killer is from the people of the diwan, the blood money is taken from their stipends over three years. If the stipends are distributed in more or less than three years, they are collected from whatever is distributed. Whoever is not from the people of the diwan — his aqilah is his tribe, and it is apportioned among them over three years. No individual is assessed more than four dirhams per year, though it may be less. If the tribe is insufficient for this, the nearest related tribes are added to them.\n\nThe killer is included among the aqilah and pays the same share as each of them.\n\nThe aqilah of a freed slave is the tribe of his former master. The patron by contract of clientage (mawla al-muwalat) — his patron and his patron's tribe bear his blood money obligations. The aqilah does not bear less than half of one-tenth of the blood money, but they bear half of one-tenth and above. What falls below that is upon the offender's own wealth.\n\nThe aqilah does not bear the offense of a slave, nor an offense to which the offender confesses — unless they confirm it — nor what is established through settlement.\n\nIf a free person commits an accidental offense against a slave, it is upon his paternal relatives.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "The blood money in quasi-intentional and accidental killing, and every blood money arising from the act of killing itself, is upon the paternal relatives (aqilah).\n\nThe aqilah consists of those registered in the military rolls (diwan).\n\nIf the killer is from the people of the diwan, the blood money is taken from their stipends over three years. If the stipends are distributed in more or less than three years, they are collected from whatever is distributed. Whoever is not from the people of the diwan — his aqilah is his tribe, and it is apportioned among them over three years. No individual is assessed more than four dirhams per year, though it may be less. If the tribe is insufficient for this, the nearest related tribes are added to them.\n\nThe killer is included among the aqilah and pays the same share as each of them.\n\nThe aqilah of a freed slave is the tribe of his former master. The patron by contract of clientage (mawla al-muwalat) — his patron and his patron's tribe bear his blood money obligations. The aqilah does not bear less than half of one-tenth of the blood money, but they bear half of one-tenth and above. What falls below that is upon the offender's own wealth.\n\nThe aqilah does not bear the offense of a slave, nor an offense to which the offender confesses — unless they confirm it — nor what is established through settlement.\n\nIf a free person commits an accidental offense against a slave, it is upon his paternal relatives."
+        }
+      ]
+    }
+  ]
+}

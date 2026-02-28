@@ -1,0 +1,50 @@
+========================================
+=== Processing: 108911-81-83 ===
+=== Started: Mon Feb 23 18:21:10 GMT 2026 ===
+=== PDF: /Users/miftah/projects/alqalam-tools/data/stories/108911-81-83.pdf ===
+=== Working dir: /Users/miftah/projects/alqalam-tools/data/stories/108911-78-80 ===
+========================================
+
+[OK] PDF file exists
+[INFO] PDF size: 35K
+
+[INFO] Changed to directory: /Users/miftah/projects/alqalam-tools/data/stories/108911-78-80
+[INFO] Launching Claude...
+
+--- CLAUDE OUTPUT START ---
+The file has been written to `story-29-who-will-place-the-stone.md` in the current directory. Here's a summary of what's included:
+
+**Translation** — Full Arabic text with paragraph-by-paragraph English translation of all 3 pages (Story 29: "Who Will Place the Stone?" — مَنْ يَضَعُ الْحَجَرَ؟)
+
+**Vocabulary** — 42 key words with transliteration, meaning, and Arabic root
+
+**Grammatical Analysis** — 12 sections covering:
+1. **إنّ and its sisters** — 7 instances analyzed with اسم/خبر
+2. **Verb forms** — 11 verbs mapped to Forms I–VIII (heavy use of VI and VIII for reciprocal actions)
+3. **Passive voice** — وُضِعَ, يُقْتَلُونَ
+4. **لَمَّا temporal clause**
+5. **أَنْ + subjunctive** — 4 instances with mood markers
+6. **كُلّ in iḍāfah** constructions
+7. **Broken plurals** — 5 patterns
+8. **Passive participles** — مَمْلُوءَة, مَشْؤُومَة
+9. **لا يزالون** (continuity verb from أخوات كان)
+10. **Rhetorical questions** — 2 examples
+11. **Adverbial accusatives** — حال, ظرف زمان, تمييز
+12. **Key sentence connectors** — فاء السببية, فاء الفصيحة, oath formula
+
+The story is Part 1 of how the tribes of Quraysh nearly went to war over who would place the Black Stone back in the Ka'bah after its reconstruction — the famous dispute later resolved by the Prophet ﷺ.
+--- CLAUDE OUTPUT END ---
+
+========================================
+=== Exit code: 0 ===
+=== Finished: Mon Feb 23 18:23:43 GMT 2026 ===
+=== Files in directory: ===
+total 88
+drwxr-xr-x@  5 miftah  staff    160 Feb 23 18:23 .
+drwxr-xr-x@ 65 miftah  staff   2080 Feb 23 18:21 ..
+-rw-r--r--@  1 miftah  staff  17937 Feb 23 18:20 108911-78-80-analysis.md
+-rw-r--r--@  1 miftah  staff   2272 Feb 23 18:21 claude_log.txt
+-rw-r--r--@  1 miftah  staff  16458 Feb 23 18:23 story-29-who-will-place-the-stone.md
+
+=== Created 2 markdown files ===
+========================================

@@ -1,0 +1,47 @@
+{
+  "id": "nafaqat",
+  "titleAr": "كتاب النفقات",
+  "titleEn": "Maintenance",
+  "order": 35,
+  "categoryId": "munakahaat",
+  "pageRange": [
+    162,
+    162
+  ],
+  "abwab": [
+    {
+      "id": "nafaqat-main",
+      "kitabId": "nafaqat",
+      "titleAr": "كتاب النفقات",
+      "titleEn": "Maintenance",
+      "order": 1,
+      "sections": [
+        {
+          "id": "nafaqat-main-1",
+          "babId": "nafaqat-main",
+          "kitabId": "nafaqat",
+          "titleAr": "كتاب النفقات",
+          "titleEn": "Maintenance",
+          "order": 1,
+          "textAr": "النفقة واجبة على زوجها مسلمة كانت أو كافرة إذا سملت نفسها في منزله فعليه نفقتها وكسوتها وسكناها\n\nيعتبر ذلك لحالهما جميعا موسرا كان الزوج أو معسرا\n\nفإن امتنعت من تسليم نفسها حتى يعطيها مهرها فلها النفقة\n\nوإن نشزت فالا نفقة لها حتى تعود إلى منزله\n\nوإن كانت صغيرة لا يستمتع بها فلا نفقة لها وإن سلمت نفسها إليه\n\nوإن كان الزوج صغيرا لا يقدر على الوطء والمرأة كبيرة فلها النفقة من ماله\n\nوإذا طلق الرجل امرأته فلها النفقة والسكنى في عدتها رجعيا كان أو بائنا\n\nولا نفقة للمتوفى عنها زوجها وكل فرقة جاءت من قبل المرأة بمعصية فلا نفقة لها وإن طلقها ثم ارتدت سقطت نفقتها\n\nوإن أمكنت ابن زوجها من نفسها إن كان بعد الطلاق فلها النفقة وإن كان قبل الطلاق فلا نفقة لها\n\nوإذا حبست المرأة في دين أو غصبها رجل كرها فذهب بها أو حجت مع محرم فلا نفقة لها\n\nوإن مرضت في منزل الزوج فلها النفقة\n\nوتفرض على الزوج نفقة خادمها إذا كان موسرا ولا تفرض لأكثر من خادم واحد\n\nوعليه أن يسكنها في دار منفردة ليس فيها أحد من أهله إلا أن تختار ذلك وإن كان له ولد من غيرها فليس له أن يسكنه معها\n\nللزوج أن يمنع والديها وولدها من غيره وأهلها من الدخول",
+          "sourcePage": 162,
+          "masail": [
+            {
+              "id": "masalah-nafaqat-main-1",
+              "sectionId": "nafaqat-main-1",
+              "kitabId": "nafaqat",
+              "titleAr": "كتاب النفقات",
+              "titleEn": "Maintenance",
+              "rulingAr": "النفقة واجبة على زوجها مسلمة كانت أو كافرة إذا سملت نفسها في منزله فعليه نفقتها وكسوتها وسكناها\n\nيعتبر ذلك لحالهما جميعا موسرا كان الزوج أو معسرا\n\nفإن امتنعت من تسليم نفسها حتى يعطيها مهرها فلها النفقة\n\nوإن نشزت فالا نفقة لها حتى تعود إلى منزله\n\nوإن كانت صغيرة لا يستمتع بها فلا نفقة لها وإن سلمت نفسها إليه\n\nوإن كان الزوج صغيرا لا يقدر على الوطء والمرأة كبيرة فلها النفقة من ماله\n\nوإذا طلق الرجل امرأته فلها النفقة والسكنى في عدتها رجعيا كان أو بائنا\n\nولا نفقة للمتوفى عنها زوجها وكل فرقة جاءت من قبل المرأة بمعصية فلا نفقة لها وإن طلقها ثم ارتدت سقطت نفقتها\n\nوإن أمكنت ابن زوجها من نفسها إن كان بعد الطلاق فلها النفقة وإن كان قبل الطلاق فلا نفقة لها\n\nوإذا حبست المرأة في دين أو غصبها رجل كرها فذهب بها أو حجت مع محرم فلا نفقة لها\n\nوإن مرضت في منزل الزوج فلها النفقة\n\nوتفرض على الزوج نفقة خادمها إذا كان موسرا ولا تفرض لأكثر من خادم واحد\n\nوعليه أن يسكنها في دار منفردة ليس فيها أحد من أهله إلا أن تختار ذلك وإن كان له ولد من غيرها فليس له أن يسكنه معها\n\nللزوج أن يمنع والديها وولدها من غيره وأهلها من الدخول",
+              "rulingEn": "Maintenance is obligatory upon the husband, whether his wife is Muslim or non-Muslim. If she surrenders herself in his home, he is responsible for her food, clothing, and housing.\n\nThis is determined by the condition of both of them together, whether the husband is well-off or in hardship.\n\nIf she withholds herself until he gives her her dower, she is still entitled to maintenance.\n\nIf she is disobedient (nashizah), she has no maintenance until she returns to his home.\n\nIf she is a minor from whom no benefit can be derived, she has no maintenance even if she surrenders herself to him.\n\nIf the husband is a minor who is not capable of intercourse and the wife is an adult, she is entitled to maintenance from his wealth.\n\nIf a man divorces his wife, she is entitled to maintenance and housing during her waiting period, whether the divorce is revocable or irrevocable.\n\nThe woman whose husband has died has no maintenance. Every separation that comes from the woman's side through disobedience carries no maintenance. If he divorces her and then she apostasizes, her maintenance lapses.\n\nIf she allows the husband's son to have relations with her: if it was after the divorce, she is entitled to maintenance; if it was before the divorce, she has no maintenance.\n\nIf the wife is imprisoned for a debt, or a man forcibly takes her away, or she goes on Hajj with a male relative, she has no maintenance.\n\nIf she falls ill in the husband's home, she is entitled to maintenance.\n\nThe husband is required to pay the maintenance of her servant if he is well-off, but no maintenance is assessed for more than one servant.\n\nHe must provide her with a separate dwelling in which there is none of his family, unless she chooses otherwise. If he has children from another wife, he may not have them live with her.\n\nThe husband may prevent her parents, her children from another marriage, and her family from entering upon her.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "Maintenance is obligatory upon the husband, whether his wife is Muslim or non-Muslim. If she surrenders herself in his home, he is responsible for her food, clothing, and housing.\n\nThis is determined by the condition of both of them together, whether the husband is well-off or in hardship.\n\nIf she withholds herself until he gives her her dower, she is still entitled to maintenance.\n\nIf she is disobedient (nashizah), she has no maintenance until she returns to his home.\n\nIf she is a minor from whom no benefit can be derived, she has no maintenance even if she surrenders herself to him.\n\nIf the husband is a minor who is not capable of intercourse and the wife is an adult, she is entitled to maintenance from his wealth.\n\nIf a man divorces his wife, she is entitled to maintenance and housing during her waiting period, whether the divorce is revocable or irrevocable.\n\nThe woman whose husband has died has no maintenance. Every separation that comes from the woman's side through disobedience carries no maintenance. If he divorces her and then she apostasizes, her maintenance lapses.\n\nIf she allows the husband's son to have relations with her: if it was after the divorce, she is entitled to maintenance; if it was before the divorce, she has no maintenance.\n\nIf the wife is imprisoned for a debt, or a man forcibly takes her away, or she goes on Hajj with a male relative, she has no maintenance.\n\nIf she falls ill in the husband's home, she is entitled to maintenance.\n\nThe husband is required to pay the maintenance of her servant if he is well-off, but no maintenance is assessed for more than one servant.\n\nHe must provide her with a separate dwelling in which there is none of his family, unless she chooses otherwise. If he has children from another wife, he may not have them live with her.\n\nThe husband may prevent her parents, her children from another marriage, and her family from entering upon her."
+        }
+      ]
+    }
+  ]
+}

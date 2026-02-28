@@ -1,0 +1,26 @@
+{
+  "name": "arabtools",
+  "private": true,
+  "packageManager": "npm@10.9.4",
+  "workspaces": [
+    "packages/*",
+    "apps/*"
+  ],
+  "scripts": {
+    "build": "turbo build",
+    "dev": "turbo dev",
+    "lint": "turbo lint",
+    "clean": "turbo clean",
+    "typecheck": "turbo typecheck",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "deploy": "bash scripts/deploy.sh",
+    "deploy:all": "turbo build && bash scripts/deploy.sh"
+  },
+  "devDependencies": {
+    "better-sqlite3": "^12.6.2",
+    "turbo": "^2.3.0",
+    "typescript": "^5.7.0",
+    "vitest": "^4.0.18"
+  }
+}

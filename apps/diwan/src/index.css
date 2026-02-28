@@ -1,0 +1,1821 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500;600;700&family=Open+Sans:wght@300;400;500;600;700&family=Amiri:wght@400;700&display=swap');
+
+@import "tailwindcss";
+
+@theme {
+  --color-background: #f8f9fa;
+  --color-foreground: #222222;
+  --color-card: #ffffff;
+  --color-card-foreground: #222222;
+  --color-popover: #ffffff;
+  --color-popover-foreground: #222222;
+  --color-primary: #1a3150;
+  --color-primary-foreground: #ffffff;
+  --color-secondary: #f5f5f5;
+  --color-secondary-foreground: #1a3150;
+  --color-muted: #ececf0;
+  --color-muted-foreground: #717182;
+  --color-accent: #c5a253;
+  --color-accent-foreground: #1a3150;
+  --color-destructive: #d4183d;
+  --color-destructive-foreground: #ffffff;
+  --color-border: rgba(26, 49, 80, 0.1);
+  --color-input: transparent;
+  --color-ring: #9ca3af;
+  --radius: 1rem;
+
+  --font-arabic: 'Amiri', serif;
+  --font-serif: 'EB Garamond', serif;
+  --font-sans: 'Open Sans', sans-serif;
+}
+
+* {
+  border-color: var(--color-border);
+}
+
+body {
+  background-color: var(--color-background);
+  color: var(--color-foreground);
+  font-family: var(--font-sans);
+  overflow-x: hidden;
+}
+
+h1, h2, h3, h4 {
+  font-family: var(--font-serif);
+}
+
+.font-arabic {
+  font-family: var(--font-arabic);
+  font-feature-settings: 'liga', 'dlig';
+}
+
+/* ─── App Layout ─── */
+.app-layout {
+  display: grid;
+  grid-template-columns: 300px 1fr;
+  min-height: 100vh;
+}
+
+/* ─── Sidebar ─── */
+.sidebar {
+  background: var(--color-card);
+  border-right: 1px solid var(--color-border);
+  height: 100vh;
+  overflow-y: auto;
+  position: sticky;
+  top: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.sidebar::-webkit-scrollbar {
+  width: 6px;
+}
+
+.sidebar::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.sidebar::-webkit-scrollbar-thumb {
+  background: rgba(26, 49, 80, 0.15);
+  border-radius: 3px;
+}
+
+.sidebar-header {
+  text-align: center;
+  padding: 1.5rem 1.25rem 1.25rem;
+  border-bottom: 1px solid var(--color-border);
+  flex-shrink: 0;
+}
+
+.sidebar-header-top {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+
+.sidebar-collapse-btn {
+  background: none;
+  border: none;
+  color: var(--color-muted-foreground);
+  cursor: pointer;
+  padding: 0.35rem;
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+}
+
+.sidebar-collapse-btn:hover {
+  background: rgba(26, 49, 80, 0.06);
+  color: var(--color-primary);
+}
+
+.sidebar-close-btn {
+  background: none;
+  border: none;
+  color: var(--color-muted-foreground);
+  cursor: pointer;
+  padding: 0.25rem;
+}
+
+.sidebar-brand {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  color: inherit;
+  width: 100%;
+}
+
+.brand-icon {
+  width: 44px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--color-primary);
+  color: var(--color-primary-foreground);
+  border-radius: 12px;
+  font-family: var(--font-arabic);
+  font-size: 1.1rem;
+  font-weight: 700;
+  flex-shrink: 0;
+}
+
+.sidebar-brand h1 {
+  font-size: 1.35rem;
+  color: var(--color-primary);
+  letter-spacing: 0.02em;
+  margin: 0;
+  text-align: left;
+}
+
+.sidebar-brand .subtitle {
+  font-size: 0.8rem;
+  color: var(--color-accent);
+  font-family: var(--font-arabic);
+  text-align: left;
+}
+
+.sidebar-stats {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin-top: 1rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid var(--color-border);
+}
+
+.stat {
+  text-align: center;
+}
+
+.stat-value {
+  font-size: 1.25rem;
+  color: var(--color-primary);
+  font-weight: 600;
+  font-family: var(--font-serif);
+}
+
+.stat-label {
+  font-size: 0.65rem;
+  color: var(--color-muted-foreground);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-family: var(--font-sans);
+}
+
+/* ─── Sidebar Search ─── */
+.sidebar-search {
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid var(--color-border);
+  flex-shrink: 0;
+}
+
+.search-input-container {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: var(--color-background);
+  border: 1px solid var(--color-border);
+  border-radius: 8px;
+  padding: 0.4rem 0.75rem;
+  transition: border-color 0.2s ease;
+}
+
+.search-input-container:focus-within {
+  border-color: var(--color-primary);
+}
+
+.search-icon {
+  color: var(--color-muted-foreground);
+  flex-shrink: 0;
+}
+
+.search-input {
+  flex: 1;
+  border: none;
+  background: transparent;
+  font-size: 0.8rem;
+  font-family: var(--font-sans);
+  color: var(--color-foreground);
+  outline: none;
+  min-width: 0;
+}
+
+.search-input::placeholder {
+  color: var(--color-muted-foreground);
+  opacity: 0.6;
+}
+
+.search-clear {
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: var(--color-muted-foreground);
+  padding: 2px;
+  display: flex;
+  align-items: center;
+}
+
+.search-clear:hover {
+  color: var(--color-foreground);
+}
+
+/* ─── Navigation ─── */
+.sidebar-nav {
+  flex: 1;
+  overflow-y: auto;
+  padding: 0.5rem 0;
+}
+
+.era-group {
+  margin-bottom: 0.125rem;
+}
+
+.era-header {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1.25rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  border-left: 3px solid transparent;
+  font-family: var(--font-sans);
+  background: none;
+  border-top: none;
+  border-bottom: none;
+  border-right: none;
+  width: 100%;
+  text-align: left;
+  color: inherit;
+}
+
+.era-header:hover {
+  background: rgba(26, 49, 80, 0.04);
+  border-left-color: rgba(197, 162, 83, 0.3);
+}
+
+.era-header.active {
+  background: rgba(26, 49, 80, 0.06);
+  border-left-color: var(--color-accent);
+}
+
+.chevron-icon {
+  color: var(--color-primary);
+  transition: transform 0.2s ease;
+  flex-shrink: 0;
+}
+
+.chevron-icon.expanded {
+  transform: rotate(90deg);
+}
+
+.era-name {
+  font-size: 0.85rem;
+  color: var(--color-foreground);
+  font-weight: 600;
+  flex: 1;
+}
+
+.era-name-ar {
+  font-family: var(--font-arabic);
+  font-size: 0.85rem;
+  color: var(--color-muted-foreground);
+  direction: rtl;
+}
+
+.era-count {
+  font-size: 0.7rem;
+  color: var(--color-muted-foreground);
+  background: rgba(26, 49, 80, 0.06);
+  padding: 0.1rem 0.45rem;
+  border-radius: 10px;
+  font-family: var(--font-sans);
+  flex-shrink: 0;
+}
+
+.era-children {
+  background: rgba(26, 49, 80, 0.02);
+}
+
+.poet-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 1.25rem 0.5rem 2.25rem;
+  cursor: pointer;
+  font-size: 0.8rem;
+  font-family: var(--font-sans);
+  color: var(--color-muted-foreground);
+  transition: all 0.2s ease;
+  border-left: 2px solid transparent;
+  background: none;
+  border-top: none;
+  border-bottom: none;
+  border-right: none;
+  width: 100%;
+  text-align: left;
+}
+
+.poet-item:hover {
+  color: var(--color-foreground);
+  background: rgba(26, 49, 80, 0.04);
+}
+
+.poet-item.active {
+  color: var(--color-primary);
+  border-left-color: var(--color-primary);
+  background: rgba(26, 49, 80, 0.06);
+  font-weight: 500;
+}
+
+.nav-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--color-muted-foreground);
+  opacity: 0.2;
+  flex-shrink: 0;
+}
+
+.nav-dot.has-read {
+  background: var(--color-accent);
+  opacity: 1;
+}
+
+.poet-name {
+  flex: 1;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.poet-name-ar {
+  font-family: var(--font-arabic);
+  font-size: 0.82rem;
+  color: var(--color-accent);
+  opacity: 0.7;
+  direction: rtl;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 90px;
+}
+
+.sidebar-footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 0.75rem;
+  border-top: 1px solid var(--color-border);
+  font-size: 0.7rem;
+  color: var(--color-muted-foreground);
+  font-family: var(--font-sans);
+}
+
+/* ─── Main Content ─── */
+.main-content {
+  padding: 2.5rem 3rem;
+  overflow-y: auto;
+  height: 100vh;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.main-content-center {
+  width: 100%;
+  max-width: 800px;
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+}
+
+/* ─── Breadcrumb ─── */
+.breadcrumb {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+  font-size: 0.82rem;
+  font-family: var(--font-sans);
+}
+
+.breadcrumb-link {
+  color: var(--color-muted-foreground);
+  cursor: pointer;
+  background: none;
+  border: none;
+  padding: 0;
+  font-family: inherit;
+  font-size: inherit;
+  transition: color 0.2s ease;
+}
+
+.breadcrumb-link:hover {
+  color: var(--color-primary);
+}
+
+.breadcrumb-sep {
+  color: var(--color-muted-foreground);
+  opacity: 0.4;
+}
+
+.breadcrumb-current {
+  color: var(--color-foreground);
+  font-weight: 500;
+}
+
+/* ─── Home Page Hero ─── */
+.hero {
+  text-align: center;
+  padding: 2rem 0 3rem;
+}
+
+.hero-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 72px;
+  height: 72px;
+  margin: 0 auto 1.25rem;
+  background: var(--color-primary);
+  color: var(--color-primary-foreground);
+  border-radius: 20px;
+}
+
+.hero-title {
+  font-size: 2.75rem;
+  color: var(--color-primary);
+  margin: 0;
+  line-height: 1.2;
+}
+
+.hero-subtitle {
+  font-size: 2rem;
+  color: var(--color-accent);
+  margin: 0.25rem 0 1rem;
+  font-family: var(--font-arabic);
+}
+
+.hero-description {
+  font-size: 1.05rem;
+  color: var(--color-muted-foreground);
+  max-width: 560px;
+  margin: 0 auto;
+  line-height: 1.6;
+}
+
+.home-stats {
+  display: flex;
+  justify-content: center;
+  gap: 3rem;
+  margin: 2rem 0;
+  padding: 1.5rem 0;
+  border-top: 1px solid var(--color-border);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.home-stat {
+  text-align: center;
+}
+
+.home-stat-value {
+  font-size: 2rem;
+  color: var(--color-primary);
+  font-weight: 600;
+  font-family: var(--font-serif);
+}
+
+.home-stat-label {
+  font-size: 0.8rem;
+  color: var(--color-muted-foreground);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-family: var(--font-sans);
+}
+
+/* ─── Section Headings ─── */
+.section-heading {
+  font-size: 1.25rem;
+  color: var(--color-primary);
+  margin: 2rem 0 1.25rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--color-border);
+}
+
+/* ─── Nav Cards (Poet Grid) ─── */
+.nav-cards {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+  margin-bottom: 3rem;
+}
+
+.nav-card {
+  background: var(--color-card);
+  border: 1px solid var(--color-border);
+  border-radius: 12px;
+  padding: 1.25rem;
+  cursor: pointer;
+  text-align: left;
+  transition: all 0.2s ease;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.nav-card:hover {
+  border-color: var(--color-accent);
+  box-shadow: 0 4px 20px rgba(26, 49, 80, 0.08);
+  transform: translateY(-2px);
+}
+
+.nav-card-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.5rem;
+}
+
+.nav-card-name-ar {
+  font-family: var(--font-arabic);
+  font-size: 1.25rem;
+  color: var(--color-primary);
+  direction: rtl;
+  line-height: 1.6;
+}
+
+.nav-card-name-en {
+  font-size: 0.95rem;
+  color: var(--color-foreground);
+  font-weight: 500;
+  margin: 0;
+  font-family: var(--font-serif);
+}
+
+.nav-card-dates {
+  font-size: 0.75rem;
+  color: var(--color-muted-foreground);
+  margin-top: 0.15rem;
+}
+
+.nav-card-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin-top: 0.25rem;
+}
+
+.nav-card-count {
+  font-size: 0.75rem;
+  color: var(--color-accent);
+  font-weight: 600;
+  margin-top: auto;
+  padding-top: 0.5rem;
+}
+
+/* ─── Poet Profile Header ─── */
+.poet-header {
+  margin-bottom: 2rem;
+  animation: fadeIn 0.3s ease both;
+}
+
+.poet-name-ar-large {
+  font-family: var(--font-arabic);
+  font-size: 2.5rem;
+  color: var(--color-primary);
+  direction: rtl;
+  line-height: 1.4;
+  margin: 0 0 0.25rem;
+}
+
+.poet-name-en-large {
+  font-size: 1.5rem;
+  color: var(--color-foreground);
+  margin: 0 0 0.5rem;
+}
+
+.poet-meta {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  margin-bottom: 1rem;
+}
+
+.poet-dates {
+  font-size: 0.85rem;
+  color: var(--color-muted-foreground);
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.poet-bio {
+  font-size: 0.95rem;
+  line-height: 1.7;
+  color: var(--color-muted-foreground);
+  margin-top: 1rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--color-border);
+}
+
+/* ─── Poem Cards (single column list) ─── */
+.poem-cards {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.poem-card {
+  background: var(--color-card);
+  border: 1px solid var(--color-border);
+  border-radius: 12px;
+  padding: 1.25rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  text-align: left;
+  width: 100%;
+}
+
+.poem-card:hover {
+  border-color: var(--color-accent);
+  box-shadow: 0 4px 20px rgba(26, 49, 80, 0.08);
+  transform: translateY(-2px);
+}
+
+.poem-card-title-ar {
+  font-family: var(--font-arabic);
+  font-size: 1.2rem;
+  color: var(--color-primary);
+  direction: rtl;
+  line-height: 1.6;
+}
+
+.poem-card-title-en {
+  font-size: 0.9rem;
+  color: var(--color-foreground);
+  font-weight: 500;
+  font-family: var(--font-serif);
+}
+
+.poem-card-badges {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.poem-card-preview {
+  font-family: var(--font-arabic);
+  font-size: 1rem;
+  color: var(--color-muted-foreground);
+  direction: rtl;
+  line-height: 1.8;
+  opacity: 0.7;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* ─── Verse Display ─── */
+.verse-container {
+  background: var(--color-card);
+  border: 1px solid var(--color-border);
+  border-radius: 12px;
+  padding: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+.verse-line {
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+  gap: 2rem;
+  padding: 0.75rem 0;
+  border-bottom: 1px solid rgba(26, 49, 80, 0.05);
+  direction: rtl;
+}
+
+.verse-line:last-child {
+  border-bottom: none;
+}
+
+.verse-number {
+  font-size: 0.75rem;
+  color: var(--color-muted-foreground);
+  min-width: 1.5rem;
+  text-align: center;
+  font-family: var(--font-sans);
+  direction: ltr;
+}
+
+.verse-sadr,
+.verse-ajuz {
+  font-family: var(--font-arabic);
+  font-size: 1.5rem;
+  line-height: 2;
+  color: var(--color-primary);
+  flex: 1;
+  text-align: center;
+}
+
+.verse-separator {
+  width: 12px;
+  height: 12px;
+  color: var(--color-accent);
+  opacity: 0.4;
+  flex-shrink: 0;
+}
+
+/* Free verse (modern poetry - no ajuz) */
+.verse-line.free-verse {
+  justify-content: center;
+}
+
+.verse-line.free-verse .verse-sadr {
+  text-align: center;
+  flex: unset;
+  max-width: 80%;
+}
+
+/* ─── Poem Header ─── */
+.poem-header {
+  margin-bottom: 1.5rem;
+  animation: fadeIn 0.3s ease both;
+}
+
+.poem-title-ar {
+  font-family: var(--font-arabic);
+  font-size: 2rem;
+  color: var(--color-primary);
+  direction: rtl;
+  line-height: 1.4;
+  margin: 0 0 0.25rem;
+}
+
+.poem-title-en {
+  font-size: 1.35rem;
+  color: var(--color-foreground);
+  margin: 0 0 0.5rem;
+  font-family: var(--font-serif);
+}
+
+.poem-meta {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.poem-poet-link {
+  font-size: 0.85rem;
+  color: var(--color-muted-foreground);
+  cursor: pointer;
+  background: none;
+  border: none;
+  padding: 0;
+  font-family: var(--font-sans);
+  transition: color 0.2s ease;
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.poem-poet-link:hover {
+  color: var(--color-primary);
+}
+
+/* ─── Text Toolbar ─── */
+.text-toolbar {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1rem;
+  background: var(--color-card);
+  border: 1px solid var(--color-border);
+  border-radius: 10px;
+  margin-bottom: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.toolbar-btn {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.45rem 0.85rem;
+  border: 1px solid var(--color-border);
+  border-radius: 6px;
+  background: transparent;
+  font-size: 0.8rem;
+  font-family: var(--font-sans);
+  color: var(--color-foreground);
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.toolbar-btn:hover {
+  background: rgba(26, 49, 80, 0.04);
+  border-color: var(--color-primary);
+  color: var(--color-primary);
+}
+
+.toolbar-btn.active {
+  background: var(--color-primary);
+  border-color: var(--color-primary);
+  color: var(--color-primary-foreground);
+}
+
+.toolbar-spacer {
+  flex: 1;
+}
+
+.toolbar-verse-count {
+  font-size: 0.78rem;
+  color: var(--color-muted-foreground);
+}
+
+/* ─── Translation Block ─── */
+.translation-block {
+  background: rgba(197, 162, 83, 0.06);
+  border: 1px solid rgba(197, 162, 83, 0.15);
+  border-radius: 10px;
+  padding: 1.25rem 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.translation-label {
+  font-size: 0.8rem;
+  color: var(--color-accent);
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.translation-text {
+  font-size: 1rem;
+  line-height: 1.7;
+  color: var(--color-foreground);
+}
+
+/* ─── Vocabulary Panel ─── */
+.panel-collapsible {
+  background: var(--color-card);
+  border: 1px solid var(--color-border);
+  border-radius: 10px;
+  overflow: hidden;
+  margin-bottom: 1rem;
+}
+
+.panel-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.85rem 1.25rem;
+  cursor: pointer;
+  background: none;
+  border: none;
+  width: 100%;
+  text-align: left;
+  color: inherit;
+  transition: background 0.2s ease;
+}
+
+.panel-header:hover {
+  background: rgba(26, 49, 80, 0.03);
+}
+
+.panel-header-left {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.panel-icon {
+  color: var(--color-accent);
+}
+
+.panel-title {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--color-primary);
+  font-family: var(--font-sans);
+}
+
+.panel-count {
+  font-size: 0.72rem;
+  color: var(--color-muted-foreground);
+}
+
+.panel-chevron {
+  color: var(--color-accent);
+  transition: transform 0.3s ease;
+  flex-shrink: 0;
+}
+
+.panel-chevron.expanded {
+  transform: rotate(180deg);
+}
+
+.panel-body {
+  padding: 0.75rem 1.25rem 1rem;
+  border-top: 1px solid var(--color-border);
+  animation: fadeIn 0.2s ease both;
+}
+
+.vocab-item {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.5rem 0;
+  border-bottom: 1px solid rgba(26, 49, 80, 0.05);
+}
+
+.vocab-item:last-child {
+  border-bottom: none;
+}
+
+.vocab-word {
+  font-family: var(--font-arabic);
+  font-size: 1.2rem;
+  color: var(--color-primary);
+  direction: rtl;
+}
+
+.vocab-meaning {
+  font-size: 0.85rem;
+  color: var(--color-muted-foreground);
+  text-align: right;
+}
+
+/* ─── Inline Vocab Highlights & Tooltips ─── */
+.vocab-word-highlight {
+  position: relative;
+  border-bottom: 2px dotted rgba(197, 162, 83, 0.5);
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+  transition: border-bottom-color 0.2s ease;
+}
+
+.vocab-word-highlight:hover {
+  border-bottom-color: var(--color-accent);
+}
+
+/* Dictionary fallback words — subtle, no underline */
+.vocab-word-dict {
+  position: relative;
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+  border-radius: 2px;
+  transition: background-color 0.2s ease;
+}
+
+.vocab-word-dict:hover {
+  background-color: rgba(197, 162, 83, 0.08);
+}
+
+.vocab-word-dict:hover .vocab-tooltip,
+.vocab-word-dict.active .vocab-tooltip {
+  opacity: 1;
+  visibility: visible;
+  transform: translateX(-50%) translateY(0);
+  pointer-events: auto;
+}
+
+.vocab-tooltip {
+  position: absolute;
+  bottom: calc(100% + 8px);
+  left: 50%;
+  transform: translateX(-50%) translateY(4px);
+  background: #FDFBF7;
+  border: 1px solid rgba(26, 49, 80, 0.1);
+  border-top: 3px solid var(--color-accent);
+  border-radius: 8px;
+  padding: 0.5rem 0.75rem;
+  box-shadow: 0 4px 16px rgba(26, 49, 80, 0.1);
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+  transition: opacity 0.2s ease, visibility 0.2s ease, transform 0.2s ease;
+  white-space: nowrap;
+  z-index: 50;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.2rem;
+}
+
+.vocab-tooltip::after {
+  content: '';
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  border: 6px solid transparent;
+  border-top-color: #FDFBF7;
+}
+
+.vocab-tooltip::before {
+  content: '';
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  border: 7px solid transparent;
+  border-top-color: rgba(26, 49, 80, 0.1);
+}
+
+.vocab-word-highlight:hover .vocab-tooltip,
+.vocab-word-highlight.active .vocab-tooltip {
+  opacity: 1;
+  visibility: visible;
+  transform: translateX(-50%) translateY(0);
+  pointer-events: auto;
+}
+
+.vocab-tooltip-ar {
+  font-family: var(--font-arabic);
+  font-size: 1rem;
+  color: var(--color-primary);
+  direction: rtl;
+}
+
+.vocab-tooltip-en {
+  font-size: 0.78rem;
+  color: var(--color-muted-foreground);
+  font-family: var(--font-sans);
+}
+
+/* ─── Context Block ─── */
+.context-block {
+  background: rgba(26, 49, 80, 0.03);
+  border: 1px solid var(--color-border);
+  border-radius: 10px;
+  padding: 1.25rem 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.context-label {
+  font-size: 0.8rem;
+  color: var(--color-primary);
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.context-text {
+  font-size: 0.95rem;
+  line-height: 1.7;
+  color: var(--color-muted-foreground);
+}
+
+/* ─── Prev/Next Navigation ─── */
+.text-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--color-border);
+}
+
+.text-nav-btn {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.55rem 1rem;
+  border: 1px solid var(--color-border);
+  border-radius: 8px;
+  background: transparent;
+  font-size: 0.82rem;
+  font-family: var(--font-sans);
+  color: var(--color-foreground);
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.text-nav-btn:hover:not(:disabled) {
+  background: var(--color-primary);
+  border-color: var(--color-primary);
+  color: var(--color-primary-foreground);
+}
+
+.text-nav-btn:disabled {
+  opacity: 0.35;
+  cursor: not-allowed;
+}
+
+.text-nav-position {
+  font-size: 0.8rem;
+  color: var(--color-muted-foreground);
+}
+
+/* ─── Level Badges ─── */
+.level-badge {
+  font-size: 0.75rem;
+  padding: 0.2rem 0.65rem;
+  border-radius: 20px;
+  font-weight: 600;
+  font-family: var(--font-sans);
+}
+
+.level-badge.beginner {
+  background: rgba(34, 197, 94, 0.12);
+  color: #16a34a;
+}
+
+.level-badge.intermediate {
+  background: rgba(59, 130, 246, 0.12);
+  color: #2563eb;
+}
+
+.level-badge.advanced {
+  background: rgba(168, 85, 247, 0.12);
+  color: #9333ea;
+}
+
+/* ─── Genre Badges ─── */
+.genre-badge {
+  font-size: 0.7rem;
+  padding: 0.15rem 0.55rem;
+  border-radius: 20px;
+  font-weight: 500;
+  font-family: var(--font-sans);
+  background: rgba(197, 162, 83, 0.12);
+  color: var(--color-accent);
+}
+
+/* ─── Era Badges ─── */
+.era-badge {
+  font-size: 0.7rem;
+  padding: 0.15rem 0.55rem;
+  border-radius: 20px;
+  font-weight: 500;
+  font-family: var(--font-sans);
+  background: rgba(26, 49, 80, 0.08);
+  color: var(--color-primary);
+}
+
+/* ─── Empty State ─── */
+.empty-state {
+  text-align: center;
+  padding: 4rem 2rem;
+}
+
+.empty-state h2 {
+  font-size: 1.5rem;
+  color: var(--color-muted-foreground);
+  margin-bottom: 0.5rem;
+}
+
+.empty-state p {
+  color: var(--color-muted-foreground);
+  font-size: 1rem;
+}
+
+/* ─── Loading State ─── */
+.loading-state {
+  text-align: center;
+  padding: 4rem 2rem;
+  color: var(--color-muted-foreground);
+}
+
+.loading-spinner {
+  width: 32px;
+  height: 32px;
+  border: 3px solid var(--color-border);
+  border-top-color: var(--color-accent);
+  border-radius: 50%;
+  margin: 0 auto 1rem;
+  animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+.loading-state p {
+  font-size: 0.95rem;
+}
+
+.poet-poem-count {
+  margin-left: auto;
+  font-size: 0.72rem;
+  color: var(--color-muted-foreground);
+  background: var(--color-surface);
+  padding: 0.1rem 0.45rem;
+  border-radius: 8px;
+  font-weight: 500;
+}
+
+/* ─── Buttons ─── */
+.btn {
+  padding: 0.6rem 1.25rem;
+  border: 1px solid var(--color-border);
+  background: transparent;
+  color: var(--color-foreground);
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  border-radius: 6px;
+}
+
+.btn:hover {
+  background: var(--color-primary);
+  border-color: var(--color-primary);
+  color: var(--color-primary-foreground);
+}
+
+.btn-primary {
+  background: var(--color-primary);
+  border-color: var(--color-primary);
+  color: var(--color-primary-foreground);
+}
+
+.btn-primary:hover {
+  background: transparent;
+  color: var(--color-primary);
+}
+
+/* ─── Hamburger Button (mobile) ─── */
+.hamburger-btn {
+  display: none;
+  position: fixed;
+  top: 1rem;
+  left: 1rem;
+  z-index: 90;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  background: var(--color-card);
+  border: 1px solid var(--color-border);
+  color: var(--color-primary);
+  cursor: pointer;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.sidebar-overlay {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.4);
+  z-index: 98;
+}
+
+/* ─── Scrollbar ─── */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(26, 49, 80, 0.15);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(26, 49, 80, 0.25);
+}
+
+/* ─── Animations ─── */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(12px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes slideInLeft {
+  from { transform: translateX(-100%); }
+  to { transform: translateX(0); }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.3s ease both;
+}
+
+.animate-fade-in-up {
+  animation: fadeInUp 0.4s ease both;
+}
+
+/* ─── Desktop Collapsed State ─── */
+.app-layout.sidebar-collapsed {
+  grid-template-columns: 1fr;
+}
+
+.app-layout.sidebar-collapsed .sidebar {
+  position: fixed;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 300px;
+  max-width: 85vw;
+  z-index: 99;
+  transform: translateX(-100%);
+  transition: transform 0.3s ease;
+  box-shadow: none;
+}
+
+.app-layout.sidebar-collapsed .sidebar.open {
+  transform: translateX(0);
+  box-shadow: 4px 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.app-layout.sidebar-collapsed .sidebar-header-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.app-layout.sidebar-collapsed .sidebar-overlay.visible {
+  display: block;
+  animation: fadeIn 0.2s ease;
+}
+
+.app-layout.sidebar-collapsed .hamburger-btn {
+  display: flex;
+}
+
+.app-layout.sidebar-collapsed .main-content {
+  padding-top: 4rem;
+}
+
+/* ─── Responsive ─── */
+@media (max-width: 900px) {
+  .app-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .sidebar {
+    position: fixed;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 300px;
+    max-width: 85vw;
+    z-index: 99;
+    transform: translateX(-100%);
+    transition: transform 0.3s ease;
+    box-shadow: none;
+  }
+
+  .sidebar.open {
+    transform: translateX(0);
+    box-shadow: 4px 0 20px rgba(0, 0, 0, 0.1);
+  }
+
+  .sidebar-header-top {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 0.5rem;
+  }
+
+  .sidebar-overlay.visible {
+    display: block;
+    animation: fadeIn 0.2s ease;
+  }
+
+  .hamburger-btn {
+    display: flex;
+  }
+
+  .main-content {
+    padding: 1.5rem;
+    padding-top: 4rem;
+  }
+
+  .hero-title {
+    font-size: 2rem;
+  }
+
+  .hero-subtitle {
+    font-size: 1.5rem;
+  }
+
+  .nav-cards {
+    grid-template-columns: 1fr;
+  }
+
+  .home-stats {
+    gap: 1.5rem;
+  }
+
+  .poet-name-ar-large {
+    font-size: 2rem;
+  }
+
+  .poet-name-en-large {
+    font-size: 1.25rem;
+  }
+
+  .poem-title-ar {
+    font-size: 1.5rem;
+  }
+
+  .poem-title-en {
+    font-size: 1.1rem;
+  }
+
+  .verse-sadr,
+  .verse-ajuz {
+    font-size: 1.25rem;
+  }
+
+  .verse-line {
+    gap: 1rem;
+  }
+
+  .verse-container {
+    padding: 1.25rem;
+  }
+}
+
+/* iPad-specific (768px-1024px) */
+@media (min-width: 768px) and (max-width: 1024px) {
+  button, select, input, .touch-target {
+    min-height: 48px;
+  }
+
+  .poet-item {
+    min-height: 44px;
+    display: flex;
+    align-items: center;
+  }
+
+  .era-header {
+    min-height: 48px;
+  }
+}
+
+/* Mobile touch targets */
+@media (max-width: 640px) {
+  button, select, input, .touch-target {
+    min-height: 44px;
+  }
+
+  .verse-line {
+    flex-direction: column;
+    gap: 0.25rem;
+    align-items: center;
+  }
+
+  .verse-separator {
+    display: none;
+  }
+
+  .verse-sadr,
+  .verse-ajuz {
+    font-size: 1.15rem;
+  }
+
+  .verse-number {
+    align-self: flex-end;
+  }
+
+  .vocab-word-highlight.active .vocab-tooltip,
+  .vocab-word-highlight:hover .vocab-tooltip,
+  .vocab-word-dict.active .vocab-tooltip,
+  .vocab-word-dict:hover .vocab-tooltip {
+    position: fixed;
+    bottom: 1rem;
+    left: 50%;
+    transform: translateX(-50%);
+    max-width: 80vw;
+    white-space: normal;
+    text-align: center;
+  }
+
+  .vocab-word-highlight.active .vocab-tooltip::before,
+  .vocab-word-highlight.active .vocab-tooltip::after,
+  .vocab-word-highlight:hover .vocab-tooltip::before,
+  .vocab-word-highlight:hover .vocab-tooltip::after,
+  .vocab-word-dict.active .vocab-tooltip::before,
+  .vocab-word-dict.active .vocab-tooltip::after,
+  .vocab-word-dict:hover .vocab-tooltip::before,
+  .vocab-word-dict:hover .vocab-tooltip::after {
+    display: none;
+  }
+}
+
+/* ─── I'rab (Grammatical Analysis) ─── */
+.irab-word-stack {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  vertical-align: top;
+  position: relative;
+}
+
+.irab-word-text {
+  display: inline;
+}
+
+.verse-sadr.irab-active,
+.verse-ajuz.irab-active {
+  display: inline-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.15rem 0.4rem;
+  line-height: 1.4;
+  padding-bottom: 0.5rem;
+}
+
+.verse-line.irab-verse {
+  align-items: flex-start;
+  padding: 1rem 0;
+}
+
+.irab-badge {
+  display: block;
+  font-family: var(--font-arabic);
+  font-size: 0.6rem;
+  line-height: 1.3;
+  padding: 0.1rem 0.4rem;
+  border-radius: 10px;
+  cursor: pointer;
+  white-space: nowrap;
+  margin-top: 0.15rem;
+  transition: opacity 0.2s ease, transform 0.15s ease;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.irab-badge:hover {
+  opacity: 0.85;
+  transform: scale(1.05);
+}
+
+.irab-nominal {
+  background: rgba(59, 130, 246, 0.12);
+  color: #2563eb;
+}
+
+.irab-verbal {
+  background: rgba(168, 85, 247, 0.12);
+  color: #9333ea;
+}
+
+.irab-particle {
+  background: rgba(197, 162, 83, 0.15);
+  color: #92751d;
+}
+
+.irab-modifier {
+  background: rgba(34, 197, 94, 0.12);
+  color: #16a34a;
+}
+
+/* I'rab color dots (used in legend and detail panel) */
+.irab-dot {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.irab-dot.irab-nominal {
+  background: #3b82f6;
+}
+
+.irab-dot.irab-verbal {
+  background: #a855f7;
+}
+
+.irab-dot.irab-particle {
+  background: var(--color-accent);
+}
+
+.irab-dot.irab-modifier {
+  background: #22c55e;
+}
+
+/* I'rab Legend */
+.irab-legend {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1.25rem;
+  padding: 0.5rem 1rem;
+  margin-bottom: 0.75rem;
+  font-size: 0.75rem;
+  color: var(--color-muted-foreground);
+  font-family: var(--font-sans);
+}
+
+.irab-legend-item {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+/* I'rab Detail Panel */
+.irab-detail {
+  background: var(--color-card);
+  border: 1px solid var(--color-border);
+  border-top: 3px solid var(--color-accent);
+  border-radius: 10px;
+  padding: 1.25rem 1.5rem;
+  margin-bottom: 1.5rem;
+  animation: fadeInUp 0.2s ease both;
+}
+
+.irab-detail-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.irab-detail-word {
+  font-size: 1.75rem;
+  color: var(--color-primary);
+  font-weight: 700;
+}
+
+.irab-detail-close {
+  background: none;
+  border: 1px solid var(--color-border);
+  border-radius: 6px;
+  padding: 0.3rem;
+  cursor: pointer;
+  color: var(--color-muted-foreground);
+  transition: all 0.2s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.irab-detail-close:hover {
+  background: rgba(26, 49, 80, 0.06);
+  color: var(--color-foreground);
+}
+
+.irab-detail-body {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+.irab-detail-row {
+  display: flex;
+  align-items: baseline;
+  gap: 0.75rem;
+}
+
+.irab-detail-label {
+  font-size: 0.78rem;
+  color: var(--color-muted-foreground);
+  min-width: 120px;
+  font-family: var(--font-sans);
+  flex-shrink: 0;
+}
+
+.irab-detail-value {
+  font-size: 0.9rem;
+  color: var(--color-foreground);
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.irab-detail-ar {
+  font-size: 1rem;
+  color: var(--color-primary);
+  direction: rtl;
+}
+
+.irab-detail-notes {
+  font-size: 0.82rem;
+  color: var(--color-muted-foreground);
+  background: rgba(26, 49, 80, 0.03);
+  border-radius: 6px;
+  padding: 0.6rem 0.85rem;
+  margin-top: 0.25rem;
+  line-height: 1.5;
+  font-style: italic;
+}
+
+/* Toolbar loading state */
+.toolbar-btn.loading {
+  opacity: 0.6;
+  cursor: wait;
+}
+
+/* ─── I'rab Mobile Responsive ─── */
+@media (max-width: 640px) {
+  .irab-badge {
+    font-size: 0.55rem;
+    padding: 0.05rem 0.3rem;
+  }
+
+  .irab-legend {
+    gap: 0.75rem;
+    font-size: 0.68rem;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .irab-detail {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 60;
+    border-radius: 16px 16px 0 0;
+    border-bottom: none;
+    box-shadow: 0 -4px 24px rgba(0, 0, 0, 0.12);
+    max-height: 45vh;
+    overflow-y: auto;
+    margin-bottom: 0;
+  }
+
+  .irab-detail-label {
+    min-width: 90px;
+    font-size: 0.72rem;
+  }
+
+  .irab-detail-word {
+    font-size: 1.4rem;
+  }
+
+  .verse-sadr.irab-active,
+  .verse-ajuz.irab-active {
+    gap: 0.1rem 0.25rem;
+  }
+}
+
+/* PWA standalone mode: safe area insets */
+@media (display-mode: standalone) {
+  body {
+    padding-top: env(safe-area-inset-top);
+    padding-bottom: env(safe-area-inset-bottom);
+    padding-left: env(safe-area-inset-left);
+    padding-right: env(safe-area-inset-right);
+  }
+}
+
+/* iOS Safari-specific fixes */
+@supports (-webkit-touch-callout: none) {
+  button, [role="button"] {
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  .overflow-auto, .overflow-y-auto, .sidebar, .main-content {
+    -webkit-overflow-scrolling: touch;
+  }
+}

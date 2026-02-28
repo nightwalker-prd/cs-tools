@@ -1,0 +1,77 @@
+import type { StoryEpisode } from '../../../types';
+
+export const episode: StoryEpisode = {
+  id: 'arc1-ep4',
+  arcId: 'arc1-ahmad',
+  number: 4,
+  titleAr: 'المَطْعَمُ',
+  titleEn: 'The Restaurant',
+  setting: 'Ahmad and Yusuf go to the university cafeteria for lunch. They order food, practice numbers, and learn food vocabulary while interacting with the server.',
+  characters: [
+    { id: 'ahmad', nameAr: 'أَحْمَدُ', nameEn: 'Ahmad', role: 'protagonist' },
+    { id: 'yusuf', nameAr: 'يُوسُفُ', nameEn: 'Yusuf', role: 'supporting' },
+    { id: 'waiter', nameAr: 'النَّادِلُ', nameEn: 'Waiter', role: 'supporting' },
+  ],
+  dialogueLines: [
+    { speaker: 'ahmad', textAr: 'أَنَا جَائِعٌ جِدًّا! أَيْنَ المَطْعَمُ؟', textEn: 'I am very hungry! Where is the restaurant?' },
+    { speaker: 'yusuf', textAr: 'المَطْعَمُ قَرِيبٌ. هُوَ هُنَاكَ. تَعَالَ نَأْكُلْ!', textEn: 'The restaurant is close. It is there. Come, let us eat!' },
+    { speaker: 'waiter', textAr: 'أَهْلًا بِكُمَا! تَفَضَّلَا. مَاذَا تُرِيدَانِ؟', textEn: 'Welcome (to you both)! Please, sit down. What would you (two) like?' },
+    { speaker: 'yusuf', textAr: 'أُرِيدُ أَرُزًّا وَدَجَاجًا مِنْ فَضْلِكَ.', textEn: 'I would like rice and chicken, please.' },
+    { speaker: 'ahmad', textAr: 'وَأَنَا أُرِيدُ لَحْمًا مَعَ خُبْزٍ وَسَلَطَةً.', textEn: 'And I would like meat with bread and a salad.' },
+    { speaker: 'waiter', textAr: 'هَلْ تُرِيدَانِ مَاءً أَوْ عَصِيرًا؟', textEn: 'Would you (two) like water or juice?' },
+    { speaker: 'ahmad', textAr: 'مَاءً مِنْ فَضْلِكَ.', textEn: 'Water, please.' },
+    { speaker: 'yusuf', textAr: 'وَأَنَا أُرِيدُ شَايًا.', textEn: 'And I would like tea.' },
+    { speaker: 'waiter', textAr: 'حَاضِرٌ. الأَرُزُّ بِعَشَرَةِ رِيَالَاتٍ، وَاللَّحْمُ بِخَمْسَةَ عَشَرَ رِيَالًا.', textEn: 'Right away. The rice is ten riyals, and the meat is fifteen riyals.' },
+    { speaker: 'ahmad', textAr: 'كَمِ المَجْمُوعُ؟', textEn: 'What is the total?' },
+    { speaker: 'waiter', textAr: 'المَجْمُوعُ خَمْسَةٌ وَعِشْرُونَ رِيَالًا.', textEn: 'The total is twenty-five riyals.' },
+    { speaker: 'ahmad', textAr: 'تَفَضَّلْ. الطَّعَامُ لَذِيذٌ! شُكْرًا.', textEn: 'Here you go. The food is delicious! Thank you.' },
+    { speaker: 'waiter', textAr: 'عَفْوًا! بِالعَافِيَةِ!', textEn: 'You are welcome! Bon appetit!' },
+  ],
+  vocabulary: [
+    { arabic: 'جَائِعٌ', transliteration: 'jāʾiʿ', english: 'hungry', root: 'ج-و-ع' },
+    { arabic: 'مَطْعَمٌ', transliteration: 'maṭʿam', english: 'restaurant', root: 'ط-ع-م' },
+    { arabic: 'أَرُزٌّ', transliteration: 'aruzz', english: 'rice' },
+    { arabic: 'دَجَاجٌ', transliteration: 'dajāj', english: 'chicken', root: 'د-ج-ج' },
+    { arabic: 'لَحْمٌ', transliteration: 'laḥm', english: 'meat', root: 'ل-ح-م' },
+    { arabic: 'خُبْزٌ', transliteration: 'khubz', english: 'bread', root: 'خ-ب-ز' },
+    { arabic: 'سَلَطَةٌ', transliteration: 'salaṭa', english: 'salad' },
+    { arabic: 'مَاءٌ', transliteration: 'māʾ', english: 'water', root: 'م-و-ه' },
+    { arabic: 'شَايٌ', transliteration: 'shāy', english: 'tea' },
+    { arabic: 'عَصِيرٌ', transliteration: 'ʿaṣīr', english: 'juice', root: 'ع-ص-ر' },
+    { arabic: 'لَذِيذٌ', transliteration: 'ladhīdh', english: 'delicious', root: 'ل-ذ-ذ' },
+  ],
+  grammarPoint: {
+    titleAr: 'الأَعْدَادُ وَالتَّمْيِيزُ',
+    titleEn: 'Numbers and Counted Nouns',
+    explanation: 'Arabic numbers 3-10 take a counted noun in the genitive plural (مَجْرُور جَمْع). Uniquely, the number disagrees in gender with the counted noun: masculine nouns use feminine numbers and vice versa. Numbers 11-19 take a singular accusative noun (مَنْصُوب مُفْرَد).',
+    examples: [
+      'عَشَرَةُ رِيَالَاتٍ — ten riyals',
+      'خَمْسَةَ عَشَرَ رِيَالًا — fifteen riyals',
+      'خَمْسَةٌ وَعِشْرُونَ رِيَالًا — twenty-five riyals',
+    ],
+  },
+  comprehensionQuestions: [
+    {
+      questionAr: 'مَاذَا يُرِيدُ يُوسُفُ؟',
+      questionEn: 'What does Yusuf want?',
+      options: ['لَحْمًا وَخُبْزًا', 'أَرُزًّا وَدَجَاجًا', 'سَلَطَةً وَعَصِيرًا', 'خُبْزًا وَمَاءً'],
+      correctIndex: 1,
+    },
+    {
+      questionAr: 'كَمِ المَجْمُوعُ؟',
+      questionEn: 'What is the total?',
+      options: ['عَشَرَةُ رِيَالَاتٍ', 'خَمْسَةَ عَشَرَ رِيَالًا', 'عِشْرُونَ رِيَالًا', 'خَمْسَةٌ وَعِشْرُونَ رِيَالًا'],
+      correctIndex: 3,
+    },
+    {
+      questionAr: 'مَاذَا يَشْرَبُ أَحْمَدُ؟',
+      questionEn: 'What does Ahmad drink?',
+      options: ['شَايًا', 'عَصِيرًا', 'مَاءً', 'قَهْوَةً'],
+      correctIndex: 2,
+    },
+  ],
+  culturalNotes: [
+    'بِالعَافِيَةِ is the Arabic equivalent of "bon appetit" and is said both before and after eating. The response is اللهُ يُعَافِيكَ (May Allah give you health).',
+    'The dual form (المُثَنَّى) is frequently used in Arabic. The waiter addresses Ahmad and Yusuf with تُرِيدَانِ and بِكُمَا, specific dual forms for "you two."',
+  ],
+};

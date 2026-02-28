@@ -1,0 +1,122 @@
+{
+  "id": "jinayat",
+  "titleAr": "كتاب الجنايات",
+  "titleEn": "Criminal Offenses",
+  "order": 40,
+  "categoryId": "jinayaat",
+  "pageRange": [
+    174,
+    176
+  ],
+  "abwab": [
+    {
+      "id": "jinayat-main",
+      "kitabId": "jinayat",
+      "titleAr": "كتاب الجنايات",
+      "titleEn": "Criminal Offenses",
+      "order": 1,
+      "sections": [
+        {
+          "id": "jinayat-main-1-1",
+          "babId": "jinayat-main",
+          "kitabId": "jinayat",
+          "titleAr": "كتاب الجنايات",
+          "titleEn": "Criminal Offenses",
+          "order": 1,
+          "textAr": "القتل على خمسة أوجه: عمد وشبه عمد وخطإ وما أجزي مجرى الخطإ والقتل بسبب\n\nفالعمد: ما تعمد ضربه بسلاح أو ما أجزي مجرى السلاح في تفريق الأجزاء كالمحدد من الخشب والحجر والنار وموجب ذلك\n\nالمأثم والقرد إلا أن يعفو الأولياء ولا كفار فيه\n\nوشبه العمد عند أبي حنيفة: أن يتعمد الضرب بما ليس بسلاح ولا ما أجري مجرى السلاح وقال أبو يوسف ومحمد: إذا ضربه بحجر عظيم أو خشبة عظيمة فهو عمد وشبه العمد: أن يتعمد ضربه بما لا يقتل غالبا وموجب ذلك على القولين والمأثم والكفارة ولا قود وفيه دية مغلظة على العاقلة\n\nوالخطأ على وجهين: خطأ في القصد وهو: أن يرمي شخصا يظنه صيدا فإذا هو آدمي وخطأ في الفعل وهو: أن يرمي غرضا فيصيب آدميا وموجب ذلك: الكفارة والدية على العاقلة ولا مأثم فيه\n\nوما أجري مجرى الخطإ: مثل النائم ينقلب على رجل فيقتله فحكمه حكم الخطإ",
+          "sourcePage": 174,
+          "masail": [
+            {
+              "id": "masalah-jinayat-main-1-1",
+              "sectionId": "jinayat-main-1-1",
+              "kitabId": "jinayat",
+              "titleAr": "كتاب الجنايات",
+              "titleEn": "Criminal Offenses",
+              "rulingAr": "القتل على خمسة أوجه: عمد وشبه عمد وخطإ وما أجزي مجرى الخطإ والقتل بسبب\n\nفالعمد: ما تعمد ضربه بسلاح أو ما أجزي مجرى السلاح في تفريق الأجزاء كالمحدد من الخشب والحجر والنار وموجب ذلك\n\nالمأثم والقرد إلا أن يعفو الأولياء ولا كفار فيه\n\nوشبه العمد عند أبي حنيفة: أن يتعمد الضرب بما ليس بسلاح ولا ما أجري مجرى السلاح وقال أبو يوسف ومحمد: إذا ضربه بحجر عظيم أو خشبة عظيمة فهو عمد وشبه العمد: أن يتعمد ضربه بما لا يقتل غالبا وموجب ذلك على القولين والمأثم والكفارة ولا قود وفيه دية مغلظة على العاقلة\n\nوالخطأ على وجهين: خطأ في القصد وهو: أن يرمي شخصا يظنه صيدا فإذا هو آدمي وخطأ في الفعل وهو: أن يرمي غرضا فيصيب آدميا وموجب ذلك: الكفارة والدية على العاقلة ولا مأثم فيه\n\nوما أجري مجرى الخطإ: مثل النائم ينقلب على رجل فيقتله فحكمه حكم الخطإ",
+              "rulingEn": "Homicide is of five types: intentional, quasi-intentional, accidental, what is treated as accidental, and killing by indirect cause.\n\nIntentional homicide is when one deliberately strikes with a weapon or what functions as a weapon in severing body parts, such as a sharpened piece of wood, stone, or fire. Its legal consequence is:\n\nSin and retribution (qisas), unless the heirs pardon. There is no expiation (kaffarah) for it.\n\nQuasi-intentional homicide, according to Abu Hanifah, is when one deliberately strikes with what is neither a weapon nor what functions as a weapon. Abu Yusuf and Muhammad said: If he strikes with a large stone or a large piece of wood, it is intentional. Quasi-intentional is when one deliberately strikes with what does not typically kill. The legal consequence according to both opinions is: sin, expiation, no retribution, and an aggravated blood money (diyah) payable by the paternal relatives (aqilah).\n\nAccidental killing is of two types: mistake in intent, which is when one shoots at a person thinking it is game, and it turns out to be a human being; and mistake in action, which is when one shoots at a target and hits a human being. Its legal consequence is: expiation and blood money payable by the paternal relatives, and there is no sin in it.\n\nWhat is treated as accidental: such as a sleeping person who rolls over onto someone and kills them — its ruling is the same as accidental killing.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "Homicide is of five types: intentional, quasi-intentional, accidental, what is treated as accidental, and killing by indirect cause.\n\nIntentional homicide is when one deliberately strikes with a weapon or what functions as a weapon in severing body parts, such as a sharpened piece of wood, stone, or fire. Its legal consequence is:\n\nSin and retribution (qisas), unless the heirs pardon. There is no expiation (kaffarah) for it.\n\nQuasi-intentional homicide, according to Abu Hanifah, is when one deliberately strikes with what is neither a weapon nor what functions as a weapon. Abu Yusuf and Muhammad said: If he strikes with a large stone or a large piece of wood, it is intentional. Quasi-intentional is when one deliberately strikes with what does not typically kill. The legal consequence according to both opinions is: sin, expiation, no retribution, and an aggravated blood money (diyah) payable by the paternal relatives (aqilah).\n\nAccidental killing is of two types: mistake in intent, which is when one shoots at a person thinking it is game, and it turns out to be a human being; and mistake in action, which is when one shoots at a target and hits a human being. Its legal consequence is: expiation and blood money payable by the paternal relatives, and there is no sin in it.\n\nWhat is treated as accidental: such as a sleeping person who rolls over onto someone and kills them — its ruling is the same as accidental killing."
+        },
+        {
+          "id": "jinayat-main-1-2",
+          "babId": "jinayat-main",
+          "kitabId": "jinayat",
+          "titleAr": "كتاب الجنايات",
+          "titleEn": "Criminal Offenses",
+          "order": 2,
+          "textAr": "وأما القتل بسبب: كحافر البئر وواضع الحجر في غير ملكه وموجبه إذا تلف فيه آدمي: الدية على العاقلة ولا كفارة فيه\n\nوالقصاص واجب بقتل كل محقون الدم على التأبيد إذا قتل عمدا\n\nويقتل الحر بالحر والحر بالعبد والمسلم بالذمي ولا يقتل والمسلم بالمستأمن ويقتل الرجل بالمرأة والكبير بالصغير والصحيح بالأعمى والزمن ولا يقتل الرجل بابنه ولا بعبده ولا مدبره ولا مكاتبه ولا بعبد ولده ومن ورث قصاصا على أبيه سقط ولا يستوفى\n\nالقصاص إلا بالسيف\n\nوإذا قتل المكاتب عمدا وليس له وارث إلا المولى وترك وفاء فله القصاص فإن ترك وفاء ووارثه غير المولى فلا قصاص لهم وإن اجتمعوا مع المولى\n\nوإذا قتل عبد الرهن لم يجب القصاص حتى يجتمع الراهن والمرتهن\n\nومن جرح رجلا عمدا فلم يزل صاحب فراش حتى مات فعليه القصاص ومن قطع يد غيره عمدا من المفصل قطعت يده وكذلك الرجل ومارن الأنف والأذن",
+          "sourcePage": 174,
+          "masail": [
+            {
+              "id": "masalah-jinayat-main-1-2",
+              "sectionId": "jinayat-main-1-2",
+              "kitabId": "jinayat",
+              "titleAr": "كتاب الجنايات",
+              "titleEn": "Criminal Offenses",
+              "rulingAr": "وأما القتل بسبب: كحافر البئر وواضع الحجر في غير ملكه وموجبه إذا تلف فيه آدمي: الدية على العاقلة ولا كفارة فيه\n\nوالقصاص واجب بقتل كل محقون الدم على التأبيد إذا قتل عمدا\n\nويقتل الحر بالحر والحر بالعبد والمسلم بالذمي ولا يقتل والمسلم بالمستأمن ويقتل الرجل بالمرأة والكبير بالصغير والصحيح بالأعمى والزمن ولا يقتل الرجل بابنه ولا بعبده ولا مدبره ولا مكاتبه ولا بعبد ولده ومن ورث قصاصا على أبيه سقط ولا يستوفى\n\nالقصاص إلا بالسيف\n\nوإذا قتل المكاتب عمدا وليس له وارث إلا المولى وترك وفاء فله القصاص فإن ترك وفاء ووارثه غير المولى فلا قصاص لهم وإن اجتمعوا مع المولى\n\nوإذا قتل عبد الرهن لم يجب القصاص حتى يجتمع الراهن والمرتهن\n\nومن جرح رجلا عمدا فلم يزل صاحب فراش حتى مات فعليه القصاص ومن قطع يد غيره عمدا من المفصل قطعت يده وكذلك الرجل ومارن الأنف والأذن",
+              "rulingEn": "As for killing by indirect cause: such as one who digs a well or places a stone on property not his own — its consequence, when a human being perishes thereby, is: blood money payable by the paternal relatives, and there is no expiation for it.\n\nRetribution (qisas) is obligatory for the killing of every person whose blood is permanently inviolable, when killed intentionally.\n\nA free person is killed for a free person, a free person for a slave, and a Muslim for a dhimmi (protected non-Muslim). A Muslim is not killed for a person granted safe-conduct (musta'man). A man is killed for a woman, an adult for a child, and a healthy person for a blind or disabled person. A man is not killed for his son, nor for his slave, nor his mudabbar (slave promised freedom upon death), nor his mukatab (slave in a manumission contract), nor for his son's slave. Whoever inherits a right of retribution against his father — that right is extinguished.\n\nRetribution is carried out only by the sword.\n\nIf the mukatab is killed intentionally and he has no heir except the master, and he left behind enough wealth to fulfill his contract, then the master has the right of retribution. If he left wealth and his heir is other than the master, there is no retribution for them, even if they join with the master.\n\nIf a pledged slave is killed, retribution is not carried out until the pledgor and the pledgee agree.\n\nWhoever wounds a man intentionally, and the victim remains bedridden until he dies, then retribution is due. Whoever cuts off another's hand intentionally from the joint — his hand is cut off. Likewise for the foot, the soft part of the nose, and the ear.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "As for killing by indirect cause: such as one who digs a well or places a stone on property not his own — its consequence, when a human being perishes thereby, is: blood money payable by the paternal relatives, and there is no expiation for it.\n\nRetribution (qisas) is obligatory for the killing of every person whose blood is permanently inviolable, when killed intentionally.\n\nA free person is killed for a free person, a free person for a slave, and a Muslim for a dhimmi (protected non-Muslim). A Muslim is not killed for a person granted safe-conduct (musta'man). A man is killed for a woman, an adult for a child, and a healthy person for a blind or disabled person. A man is not killed for his son, nor for his slave, nor his mudabbar (slave promised freedom upon death), nor his mukatab (slave in a manumission contract), nor for his son's slave. Whoever inherits a right of retribution against his father — that right is extinguished.\n\nRetribution is carried out only by the sword.\n\nIf the mukatab is killed intentionally and he has no heir except the master, and he left behind enough wealth to fulfill his contract, then the master has the right of retribution. If he left wealth and his heir is other than the master, there is no retribution for them, even if they join with the master.\n\nIf a pledged slave is killed, retribution is not carried out until the pledgor and the pledgee agree.\n\nWhoever wounds a man intentionally, and the victim remains bedridden until he dies, then retribution is due. Whoever cuts off another's hand intentionally from the joint — his hand is cut off. Likewise for the foot, the soft part of the nose, and the ear."
+        },
+        {
+          "id": "jinayat-main-1-3",
+          "babId": "jinayat-main",
+          "kitabId": "jinayat",
+          "titleAr": "كتاب الجنايات",
+          "titleEn": "Criminal Offenses",
+          "order": 3,
+          "textAr": "ومن ضرب عين رجل فقلعها فلا قصاص عليه وإن كانت قائمة فذهب ضوؤها فعليه القصاص تحمى له المرآة ويجعل على وجهه قطن رطب وتقابل عينه بالمرآة حتى يذهب ضوءها\n\nوفي السن القصاص وفي كل شجة يمكن فيها المماثلة القصاص ولا قصاص في عظم إلا في السن وليس فيما دون النفس شبه عمد إنما هو عمد أو خطأ\n\nولا قصاص بين الرجل والمرأة فيما دون النفس ولا بين الحر والعبد ولا بين العبدين\n\nويجب القصاص في الأطراف بين المسلم والكافر ومن قطع يد رجل من نصف الساعد أو جرحه جائفة فبرأ منها فلا قصاص عليه\n\nوإذا كانت يد المقطوع ويد القاطع شلاء أو ناقصه الأصابع فالمقطوع بالخيار: إن شاء قطع اليد المعيبة ولا شيء له غيرها وإن شاء آخذ الأرض كاملا\n\nومن شج رجلا فاستوعب الشجة ما بين قرنية وهي لا تستوعب ما بين قرني الشاج فالمشجوج بالخيار: إن شاء اقتض بمقدار شجته يبتدئ من أي الجانبين شاء وإن شاء أخذ الأرش",
+          "sourcePage": 174,
+          "masail": [
+            {
+              "id": "masalah-jinayat-main-1-3",
+              "sectionId": "jinayat-main-1-3",
+              "kitabId": "jinayat",
+              "titleAr": "كتاب الجنايات",
+              "titleEn": "Criminal Offenses",
+              "rulingAr": "ومن ضرب عين رجل فقلعها فلا قصاص عليه وإن كانت قائمة فذهب ضوؤها فعليه القصاص تحمى له المرآة ويجعل على وجهه قطن رطب وتقابل عينه بالمرآة حتى يذهب ضوءها\n\nوفي السن القصاص وفي كل شجة يمكن فيها المماثلة القصاص ولا قصاص في عظم إلا في السن وليس فيما دون النفس شبه عمد إنما هو عمد أو خطأ\n\nولا قصاص بين الرجل والمرأة فيما دون النفس ولا بين الحر والعبد ولا بين العبدين\n\nويجب القصاص في الأطراف بين المسلم والكافر ومن قطع يد رجل من نصف الساعد أو جرحه جائفة فبرأ منها فلا قصاص عليه\n\nوإذا كانت يد المقطوع ويد القاطع شلاء أو ناقصه الأصابع فالمقطوع بالخيار: إن شاء قطع اليد المعيبة ولا شيء له غيرها وإن شاء آخذ الأرض كاملا\n\nومن شج رجلا فاستوعب الشجة ما بين قرنية وهي لا تستوعب ما بين قرني الشاج فالمشجوج بالخيار: إن شاء اقتض بمقدار شجته يبتدئ من أي الجانبين شاء وإن شاء أخذ الأرش",
+              "rulingEn": "Whoever strikes a man's eye and gouges it out — there is no retribution upon him. But if the eye remained intact and its sight was lost, then retribution is due: a mirror is heated for him, wet cotton is placed on his face, and his eye is exposed to the mirror until its sight is destroyed.\n\nRetribution applies to the tooth, and to every head wound in which equivalence is possible. There is no retribution for any bone except the tooth. In offenses short of taking life, there is no quasi-intentional category — it is either intentional or accidental.\n\nThere is no retribution between a man and a woman in offenses short of taking life, nor between a free person and a slave, nor between two slaves.\n\nRetribution in the limbs applies between a Muslim and a non-Muslim. Whoever cuts a man's hand from the middle of the forearm, or inflicts a deep abdominal wound (ja'ifah) upon him, and he recovers from it — there is no retribution upon the offender.\n\nIf the hand of the victim and the hand of the offender are both paralyzed, or missing fingers, the victim has a choice: if he wishes, he may have the defective hand cut off with nothing further due to him; and if he wishes, he may take the full compensation (arsh).\n\nWhoever inflicts a head wound upon a man that covers the entire area between his temples, while the wound would not cover the space between the offender's temples — the victim has a choice: if he wishes, he may claim retribution to the extent of his wound, starting from whichever side he chooses; and if he wishes, he may take the monetary compensation (arsh).",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "Whoever strikes a man's eye and gouges it out — there is no retribution upon him. But if the eye remained intact and its sight was lost, then retribution is due: a mirror is heated for him, wet cotton is placed on his face, and his eye is exposed to the mirror until its sight is destroyed.\n\nRetribution applies to the tooth, and to every head wound in which equivalence is possible. There is no retribution for any bone except the tooth. In offenses short of taking life, there is no quasi-intentional category — it is either intentional or accidental.\n\nThere is no retribution between a man and a woman in offenses short of taking life, nor between a free person and a slave, nor between two slaves.\n\nRetribution in the limbs applies between a Muslim and a non-Muslim. Whoever cuts a man's hand from the middle of the forearm, or inflicts a deep abdominal wound (ja'ifah) upon him, and he recovers from it — there is no retribution upon the offender.\n\nIf the hand of the victim and the hand of the offender are both paralyzed, or missing fingers, the victim has a choice: if he wishes, he may have the defective hand cut off with nothing further due to him; and if he wishes, he may take the full compensation (arsh).\n\nWhoever inflicts a head wound upon a man that covers the entire area between his temples, while the wound would not cover the space between the offender's temples — the victim has a choice: if he wishes, he may claim retribution to the extent of his wound, starting from whichever side he chooses; and if he wishes, he may take the monetary compensation (arsh)."
+        },
+        {
+          "id": "jinayat-main-1-4",
+          "babId": "jinayat-main",
+          "kitabId": "jinayat",
+          "titleAr": "كتاب الجنايات",
+          "titleEn": "Criminal Offenses",
+          "order": 4,
+          "textAr": "ولا قصاص في اللسان ولا في الذكر إلا أن تقطع الحشفة\n\nوإذا اصطلح القاتل وأولياء المقتول على مال سقط القصاص ووجب المال قليلا كان أو كثيرا فإن عفا أحد الشركاء أو صالح من نصيبه على عوض سقط حق الباقين من القصاص وكان لهم نصيبهم من الدية وإذا قتل جماعة واحدا عمدا اقتض من جميعهم\n\nوإذا قتل واحد جماعة فحضر أولياء المقتولين قتل بجماعتهم ولا شيء لهم غير ذلك فإن حضر واحد قتل له وسقط حق الباقين ومن وجب عليه القصاص فمات\n\nسقط عنه القصاص وإذا قطع رجلان يد رجل فلا قصاص على واحد منهما وعليهما نصف الدية وإن قطع واحد يميني رجلين فحضرا فلهما أن يقطعا يده ويأخذا منه نصف الدية ويقتسمانه نصفين وإن حضر واحد منهما فقطع يده فللآخر عليه نصف الدية\n\nوإذا أقر العبد بقتل العمد لزمه القود\n\nومن رمى رجلا عمدا فنفذ السهم منه إلى آخر فماتا فعليه القصاص للأول والدية الثاني على عاقلته",
+          "sourcePage": 174,
+          "masail": [
+            {
+              "id": "masalah-jinayat-main-1-4",
+              "sectionId": "jinayat-main-1-4",
+              "kitabId": "jinayat",
+              "titleAr": "كتاب الجنايات",
+              "titleEn": "Criminal Offenses",
+              "rulingAr": "ولا قصاص في اللسان ولا في الذكر إلا أن تقطع الحشفة\n\nوإذا اصطلح القاتل وأولياء المقتول على مال سقط القصاص ووجب المال قليلا كان أو كثيرا فإن عفا أحد الشركاء أو صالح من نصيبه على عوض سقط حق الباقين من القصاص وكان لهم نصيبهم من الدية وإذا قتل جماعة واحدا عمدا اقتض من جميعهم\n\nوإذا قتل واحد جماعة فحضر أولياء المقتولين قتل بجماعتهم ولا شيء لهم غير ذلك فإن حضر واحد قتل له وسقط حق الباقين ومن وجب عليه القصاص فمات\n\nسقط عنه القصاص وإذا قطع رجلان يد رجل فلا قصاص على واحد منهما وعليهما نصف الدية وإن قطع واحد يميني رجلين فحضرا فلهما أن يقطعا يده ويأخذا منه نصف الدية ويقتسمانه نصفين وإن حضر واحد منهما فقطع يده فللآخر عليه نصف الدية\n\nوإذا أقر العبد بقتل العمد لزمه القود\n\nومن رمى رجلا عمدا فنفذ السهم منه إلى آخر فماتا فعليه القصاص للأول والدية الثاني على عاقلته",
+              "rulingEn": "There is no retribution for the tongue, nor for the male organ, unless the glans is cut off.\n\nIf the killer and the heirs of the victim settle upon a sum of money, retribution is extinguished and the money becomes due, whether it be little or much. If one of the partners pardons or settles his share for compensation, the right of the rest to retribution is extinguished, and they are entitled to their share of the blood money. If a group kills one person intentionally, retribution is exacted from all of them.\n\nIf one person kills a group, and the heirs of all the victims are present, he is killed for all of them and they are entitled to nothing further. If only one heir is present, the killer is executed for that victim and the rights of the rest are extinguished. If a person upon whom retribution is obligatory dies,\n\nthe retribution is extinguished. If two men cut off a man's hand, there is no retribution upon either of them, and they owe half the blood money. If one person cuts off the right hands of two men, and both are present, they may cut off his hand and take from him half the blood money, dividing it equally between them. If only one of them is present and cuts off his hand, the other is entitled to half the blood money from him.\n\nIf a slave confesses to intentional killing, retribution is due upon him.\n\nWhoever shoots a man intentionally and the arrow passes through him into another, and both die — retribution is due for the first victim, and the blood money for the second is upon the shooter's paternal relatives.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "There is no retribution for the tongue, nor for the male organ, unless the glans is cut off.\n\nIf the killer and the heirs of the victim settle upon a sum of money, retribution is extinguished and the money becomes due, whether it be little or much. If one of the partners pardons or settles his share for compensation, the right of the rest to retribution is extinguished, and they are entitled to their share of the blood money. If a group kills one person intentionally, retribution is exacted from all of them.\n\nIf one person kills a group, and the heirs of all the victims are present, he is killed for all of them and they are entitled to nothing further. If only one heir is present, the killer is executed for that victim and the rights of the rest are extinguished. If a person upon whom retribution is obligatory dies,\n\nthe retribution is extinguished. If two men cut off a man's hand, there is no retribution upon either of them, and they owe half the blood money. If one person cuts off the right hands of two men, and both are present, they may cut off his hand and take from him half the blood money, dividing it equally between them. If only one of them is present and cuts off his hand, the other is entitled to half the blood money from him.\n\nIf a slave confesses to intentional killing, retribution is due upon him.\n\nWhoever shoots a man intentionally and the arrow passes through him into another, and both die — retribution is due for the first victim, and the blood money for the second is upon the shooter's paternal relatives."
+        }
+      ]
+    }
+  ]
+}

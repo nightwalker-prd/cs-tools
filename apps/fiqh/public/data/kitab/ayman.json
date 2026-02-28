@@ -1,0 +1,222 @@
+{
+  "id": "ayman",
+  "titleAr": "كتاب الأيمان",
+  "titleEn": "Oaths",
+  "order": 47,
+  "categoryId": "mutafarriqat",
+  "pageRange": [
+    199,
+    203
+  ],
+  "abwab": [
+    {
+      "id": "ayman-main",
+      "kitabId": "ayman",
+      "titleAr": "كتاب الأيمان",
+      "titleEn": "Oaths",
+      "order": 1,
+      "sections": [
+        {
+          "id": "ayman-main-1-1",
+          "babId": "ayman-main",
+          "kitabId": "ayman",
+          "titleAr": "كتاب الأيمان",
+          "titleEn": "Oaths",
+          "order": 1,
+          "textAr": "الأيمان على ثلاثة أضرب: يمين غموس ويمين منعقدة ويمين لغو فاليمين الغموس هي: الحلف على أمر ماض يتعمد الكذب فيه\n\nفهذه اليمين يأثم بها صاحبها ولا كفارة فيها إلا الاستغفار\n\nواليمين المنعقدة: هي الحلف على الأمر المستقبل أن يفعله أو لا يفعله فإذا حنث في ذلك لزمته الكفارةز\n\nواليمين اللغو: أن يحلف على أمر ماض وهو يظن أنه كمال قال والأمر بخلافه فهذه نرجو أن لا يؤاخذ الله بها صاحبها\n\nوالقاصد في اليمين والمكره والناسي سواء\n\nومن فعل المحلوف عليه مكرها أو ناسيا سواء\n\nواليمين بالله تعالى أو باسم من أسمائه كالرحمن والرحيم\n\nأو بصفة من صفات ذاته كعزة الله وجلالته وكبريائه إلا قوله: وعلم الله فإنه لا يكون يمينا وإن حلف بصفة من صفات الفعل كغضب الله وسخطه لم يكن حالفا\n\nومن حلف بغير الله لم يكن حالفا كالنبي والقرآن والكعبة",
+          "sourcePage": 199,
+          "masail": [
+            {
+              "id": "masalah-ayman-main-1-1",
+              "sectionId": "ayman-main-1-1",
+              "kitabId": "ayman",
+              "titleAr": "كتاب الأيمان",
+              "titleEn": "Oaths",
+              "rulingAr": "الأيمان على ثلاثة أضرب: يمين غموس ويمين منعقدة ويمين لغو فاليمين الغموس هي: الحلف على أمر ماض يتعمد الكذب فيه\n\nفهذه اليمين يأثم بها صاحبها ولا كفارة فيها إلا الاستغفار\n\nواليمين المنعقدة: هي الحلف على الأمر المستقبل أن يفعله أو لا يفعله فإذا حنث في ذلك لزمته الكفارةز\n\nواليمين اللغو: أن يحلف على أمر ماض وهو يظن أنه كمال قال والأمر بخلافه فهذه نرجو أن لا يؤاخذ الله بها صاحبها\n\nوالقاصد في اليمين والمكره والناسي سواء\n\nومن فعل المحلوف عليه مكرها أو ناسيا سواء\n\nواليمين بالله تعالى أو باسم من أسمائه كالرحمن والرحيم\n\nأو بصفة من صفات ذاته كعزة الله وجلالته وكبريائه إلا قوله: وعلم الله فإنه لا يكون يمينا وإن حلف بصفة من صفات الفعل كغضب الله وسخطه لم يكن حالفا\n\nومن حلف بغير الله لم يكن حالفا كالنبي والقرآن والكعبة",
+              "rulingEn": "Oaths are of three types: a submerging oath (yamin ghamus), a binding oath (yamin mun'aqidah), and an idle oath (yamin laghw). The submerging oath is: swearing about a past matter while deliberately lying.\n\nThe one who takes this oath is sinful, and there is no expiation for it except seeking forgiveness (istighfar).\n\nThe binding oath is: swearing about a future matter -- that one will do something or will not do something. If one breaks this oath, the expiation becomes obligatory.\n\nThe idle oath is: swearing about a past matter believing it to be as he said, while the reality is otherwise. We hope that Allah will not hold a person accountable for this.\n\nThe intentional swearer, the coerced, and the forgetful are equal in this regard.\n\nWhoever does the sworn act under coercion or forgetfulness is treated the same.\n\nAn oath by Allah Most High or by one of His names -- such as al-Rahman (the Most Merciful) and al-Rahim (the Most Compassionate) -- or by an attribute of His essence -- such as the might of Allah, His majesty, and His grandeur -- constitutes a valid oath. However, saying \"by the knowledge of Allah\" does not constitute an oath. If one swears by an attribute of action, such as the anger of Allah or His displeasure, it does not constitute an oath.\n\nWhoever swears by other than Allah does not constitute an oath -- such as swearing by the Prophet, the Quran, or the Ka'bah.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "Oaths are of three types: a submerging oath (yamin ghamus), a binding oath (yamin mun'aqidah), and an idle oath (yamin laghw). The submerging oath is: swearing about a past matter while deliberately lying.\n\nThe one who takes this oath is sinful, and there is no expiation for it except seeking forgiveness (istighfar).\n\nThe binding oath is: swearing about a future matter -- that one will do something or will not do something. If one breaks this oath, the expiation becomes obligatory.\n\nThe idle oath is: swearing about a past matter believing it to be as he said, while the reality is otherwise. We hope that Allah will not hold a person accountable for this.\n\nThe intentional swearer, the coerced, and the forgetful are equal in this regard.\n\nWhoever does the sworn act under coercion or forgetfulness is treated the same.\n\nAn oath by Allah Most High or by one of His names -- such as al-Rahman (the Most Merciful) and al-Rahim (the Most Compassionate) -- or by an attribute of His essence -- such as the might of Allah, His majesty, and His grandeur -- constitutes a valid oath. However, saying \"by the knowledge of Allah\" does not constitute an oath. If one swears by an attribute of action, such as the anger of Allah or His displeasure, it does not constitute an oath.\n\nWhoever swears by other than Allah does not constitute an oath -- such as swearing by the Prophet, the Quran, or the Ka'bah."
+        },
+        {
+          "id": "ayman-main-1-2",
+          "babId": "ayman-main",
+          "kitabId": "ayman",
+          "titleAr": "كتاب الأيمان",
+          "titleEn": "Oaths",
+          "order": 2,
+          "textAr": "والحلف بحروف القسم وحروف القسم: الواو كقوله: والله والباء كقوله: بالله والتاء كقوله: تالله وقد تضمر الحروف فيكون حالفا كقوله: الله لا أفعل كذا وقال أبو حنيفة: إذا قال: وحق الله فليس بحالف\n\nوإذا قال: أقسم أو أقسم بالله أو أحلف بالله أو أشهد أو أشهد بالله فهو حالف وكذلك قوله: وعهد الله وميثاقه وعلي نذر أو نذر الله وإن فعلت كذا فأنا يهودي أو نصراني أو كافر فهو يمين\n\nوإن قال: علي غضب الله أو سخطه أو أنا زان أو شارب خمر أو آكل ربا فليس بحالف\n\nوكفارة اليمين: عتق رقبة يجزئ فيها ما يجزئ في الطهار\n\nوإن شاء كسا عشرة مساكين كل واحد ثوبا فما زاد وأذناه ما تجزئ فيه الصلاة وإن شاء أطعم عشرة مساكين كالإطعام في كفارة الظهار فإن لم يقدر على أحد الأشياء الثلاثة صام ثلاثة أيام متتابعات فإن قدم الكفارة على الحنث لم يجزه",
+          "sourcePage": 199,
+          "masail": [
+            {
+              "id": "masalah-ayman-main-1-2",
+              "sectionId": "ayman-main-1-2",
+              "kitabId": "ayman",
+              "titleAr": "كتاب الأيمان",
+              "titleEn": "Oaths",
+              "rulingAr": "والحلف بحروف القسم وحروف القسم: الواو كقوله: والله والباء كقوله: بالله والتاء كقوله: تالله وقد تضمر الحروف فيكون حالفا كقوله: الله لا أفعل كذا وقال أبو حنيفة: إذا قال: وحق الله فليس بحالف\n\nوإذا قال: أقسم أو أقسم بالله أو أحلف بالله أو أشهد أو أشهد بالله فهو حالف وكذلك قوله: وعهد الله وميثاقه وعلي نذر أو نذر الله وإن فعلت كذا فأنا يهودي أو نصراني أو كافر فهو يمين\n\nوإن قال: علي غضب الله أو سخطه أو أنا زان أو شارب خمر أو آكل ربا فليس بحالف\n\nوكفارة اليمين: عتق رقبة يجزئ فيها ما يجزئ في الطهار\n\nوإن شاء كسا عشرة مساكين كل واحد ثوبا فما زاد وأذناه ما تجزئ فيه الصلاة وإن شاء أطعم عشرة مساكين كالإطعام في كفارة الظهار فإن لم يقدر على أحد الأشياء الثلاثة صام ثلاثة أيام متتابعات فإن قدم الكفارة على الحنث لم يجزه",
+              "rulingEn": "Swearing is done using the particles of oath. The particles of oath are: the waw (wa) as in \"wallahi\" (by Allah), the ba' as in \"billahi\" (by Allah), and the ta' as in \"tallahi\" (by Allah). The particles may be elided and one is still considered to have sworn, as when one says: \"Allahi, I will not do such-and-such.\" Abu Hanifah said: If one says \"wa haqqi-llah\" (by the right of Allah), it is not an oath.\n\nIf one says: \"I swear\" (uqsimu), or \"I swear by Allah\" (uqsimu billahi), or \"I take an oath by Allah\" (ahlifu billahi), or \"I testify\" (ashhadu), or \"I testify by Allah\" (ashhadu billahi), he is considered to have sworn. Likewise, saying: \"By the covenant of Allah and His compact,\" and \"I have a vow\" (alayya nadhrun) or \"a vow to Allah,\" and \"If I do such-and-such, I am a Jew, a Christian, or a disbeliever\" -- all constitute oaths.\n\nIf one says: \"May the anger of Allah be upon me\" or \"His displeasure,\" or \"I am a fornicator, a wine-drinker, or a consumer of usury\" -- these do not constitute oaths.\n\nThe expiation for an oath is: freeing a slave -- what suffices for dhihar suffices here.\n\nAlternatively, one may clothe ten poor persons, each with one garment or more, the minimum being a garment in which prayer would be valid. Alternatively, one may feed ten poor persons in the same manner as the feeding in the expiation for dhihar. If one is unable to do any of these three, one must fast three consecutive days. If the expiation is given before the oath is broken, it does not suffice.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "Swearing is done using the particles of oath. The particles of oath are: the waw (wa) as in \"wallahi\" (by Allah), the ba' as in \"billahi\" (by Allah), and the ta' as in \"tallahi\" (by Allah). The particles may be elided and one is still considered to have sworn, as when one says: \"Allahi, I will not do such-and-such.\" Abu Hanifah said: If one says \"wa haqqi-llah\" (by the right of Allah), it is not an oath.\n\nIf one says: \"I swear\" (uqsimu), or \"I swear by Allah\" (uqsimu billahi), or \"I take an oath by Allah\" (ahlifu billahi), or \"I testify\" (ashhadu), or \"I testify by Allah\" (ashhadu billahi), he is considered to have sworn. Likewise, saying: \"By the covenant of Allah and His compact,\" and \"I have a vow\" (alayya nadhrun) or \"a vow to Allah,\" and \"If I do such-and-such, I am a Jew, a Christian, or a disbeliever\" -- all constitute oaths.\n\nIf one says: \"May the anger of Allah be upon me\" or \"His displeasure,\" or \"I am a fornicator, a wine-drinker, or a consumer of usury\" -- these do not constitute oaths.\n\nThe expiation for an oath is: freeing a slave -- what suffices for dhihar suffices here.\n\nAlternatively, one may clothe ten poor persons, each with one garment or more, the minimum being a garment in which prayer would be valid. Alternatively, one may feed ten poor persons in the same manner as the feeding in the expiation for dhihar. If one is unable to do any of these three, one must fast three consecutive days. If the expiation is given before the oath is broken, it does not suffice."
+        },
+        {
+          "id": "ayman-main-1-3",
+          "babId": "ayman-main",
+          "kitabId": "ayman",
+          "titleAr": "كتاب الأيمان",
+          "titleEn": "Oaths",
+          "order": 3,
+          "textAr": "ومن حلف على معصية مثل أن لا يصلي أو لا يكلم أباه أو ليقتلن فلانا فينبغي أن يحنث ويكفر عن يمينه\n\nوإذا حلف الكافر ثم حنث في حال الكفر أو بعد إسلامه فلا حنث عليه\n\nومن حرم على نفسه شيئا مما يملكه لم يصر محرما لعينه وعليه أن استباحه كفارة يمين فإن قال: كل حلال علي حرام فهو على الطعام والشراب إلا أن ينوي غير ذلك\n\nومن نذر نذرا مطلقا فعليه الوفاء به\n\nوإن علق نذره بشرط فوجد الشرط فعليه الوفاء بنفس النذر وروي أن أبا حنيفة رجع عن ذلك وقال: إذا قال: إن\n\nفعلت كذا فعلي حجة أو صوم سنة أو صدقة ما أملكه أجزأه من ذلك كفارة يمين وهو قول محمد\n\nومن خلف لا يدخل بيتا فدخل الكعبة أو المسجد أو البيعة أو الكنيسة لم يحنث\n\nومن حلف لا يتكلم فقرأ في الصلاة لم يحنث\n\nومن حلف لا يلبس ثوبا وهو لابسه فنزعه في الحال لم",
+          "sourcePage": 199,
+          "masail": [
+            {
+              "id": "masalah-ayman-main-1-3",
+              "sectionId": "ayman-main-1-3",
+              "kitabId": "ayman",
+              "titleAr": "كتاب الأيمان",
+              "titleEn": "Oaths",
+              "rulingAr": "ومن حلف على معصية مثل أن لا يصلي أو لا يكلم أباه أو ليقتلن فلانا فينبغي أن يحنث ويكفر عن يمينه\n\nوإذا حلف الكافر ثم حنث في حال الكفر أو بعد إسلامه فلا حنث عليه\n\nومن حرم على نفسه شيئا مما يملكه لم يصر محرما لعينه وعليه أن استباحه كفارة يمين فإن قال: كل حلال علي حرام فهو على الطعام والشراب إلا أن ينوي غير ذلك\n\nومن نذر نذرا مطلقا فعليه الوفاء به\n\nوإن علق نذره بشرط فوجد الشرط فعليه الوفاء بنفس النذر وروي أن أبا حنيفة رجع عن ذلك وقال: إذا قال: إن\n\nفعلت كذا فعلي حجة أو صوم سنة أو صدقة ما أملكه أجزأه من ذلك كفارة يمين وهو قول محمد\n\nومن خلف لا يدخل بيتا فدخل الكعبة أو المسجد أو البيعة أو الكنيسة لم يحنث\n\nومن حلف لا يتكلم فقرأ في الصلاة لم يحنث\n\nومن حلف لا يلبس ثوبا وهو لابسه فنزعه في الحال لم",
+              "rulingEn": "Whoever swears to commit a sin -- such as not praying, not speaking to his father, or killing someone -- should break his oath and make expiation.\n\nIf a disbeliever takes an oath and then breaks it while still a disbeliever or after accepting Islam, there is no penalty upon him.\n\nWhoever declares something he owns as forbidden to himself, it does not actually become forbidden. If he then partakes of it, he owes the expiation of an oath. If one says: \"Everything lawful to me is forbidden,\" it applies to food and drink unless he intends otherwise.\n\nWhoever makes an unconditional vow (nadhr) must fulfill it.\n\nIf one attaches the vow to a condition and the condition is fulfilled, one must fulfill the vow itself. It is narrated that Abu Hanifah retracted this position and said: If one says \"If I do such-and-such, then I owe a Hajj, or a year's fasting, or charity of all I own,\" the expiation of an oath suffices instead. This is also the position of Muhammad.\n\nWhoever swears not to enter a house: if he enters the Ka'bah, a mosque, a synagogue, or a church, he has not broken his oath.\n\nWhoever swears not to speak: if he recites Quran in prayer, he has not broken his oath.\n\nWhoever swears not to wear a garment while he is wearing it, and removes it immediately, has not",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "Whoever swears to commit a sin -- such as not praying, not speaking to his father, or killing someone -- should break his oath and make expiation.\n\nIf a disbeliever takes an oath and then breaks it while still a disbeliever or after accepting Islam, there is no penalty upon him.\n\nWhoever declares something he owns as forbidden to himself, it does not actually become forbidden. If he then partakes of it, he owes the expiation of an oath. If one says: \"Everything lawful to me is forbidden,\" it applies to food and drink unless he intends otherwise.\n\nWhoever makes an unconditional vow (nadhr) must fulfill it.\n\nIf one attaches the vow to a condition and the condition is fulfilled, one must fulfill the vow itself. It is narrated that Abu Hanifah retracted this position and said: If one says \"If I do such-and-such, then I owe a Hajj, or a year's fasting, or charity of all I own,\" the expiation of an oath suffices instead. This is also the position of Muhammad.\n\nWhoever swears not to enter a house: if he enters the Ka'bah, a mosque, a synagogue, or a church, he has not broken his oath.\n\nWhoever swears not to speak: if he recites Quran in prayer, he has not broken his oath.\n\nWhoever swears not to wear a garment while he is wearing it, and removes it immediately, has not"
+        },
+        {
+          "id": "ayman-main-1-4",
+          "babId": "ayman-main",
+          "kitabId": "ayman",
+          "titleAr": "كتاب الأيمان",
+          "titleEn": "Oaths",
+          "order": 4,
+          "textAr": "يحنث وكذا إذا حلف لا يركب هذه الدابة وهو راكبها فنزل في الحال وإن لبث ساعة حنث وإن حلف لا يدخل هذه الدار وهو فيها لم يحنث بالقعود حتى يخرج ثم يدخل\n\nومن حلف لا يدخل دارا فدخل دارا خرابا لم يحنث\n\nومن حلف لا يدخل هذه الدار فدخلها بعد ما انهدمت وصارت صحراء حنث ولو حلف لا يدخل هذا البيت فدخله بعد ما انهدم لم يحنث\n\nومن حلف لا يكلم زوجة فلان فطلقها فلان ثم كلمها حنث\n\nولو حلف لا يكلم عبد فلان أو لا يدخل دار فلان فباع عبده وداره ثم كلم العبد ودخل الدار لم يحنث وإن حلف لا يكلم صاحب هذا الطيلسان فباعه ثم كلمه حنث وكذلك إن حلف لا يكلم هذا الشاب فكلمه بعد ما صار شيخا حنث أو لا يأكل لحم هذا الحمل فصار كبشا فأكله حنث وإن حلف لا يأكل من هذه النخلة فهو على ثمرها وإن حلف لا يأكل من هذا البسر فصار رطبا فأكله لم يحنث وإن حلف لا يأكل بسرا فأكل رطبا لم يحنث\n\nومن حلف لا يأكل رطبا فأكل بسرا مذنبا حنث عند أبي حنيفة",
+          "sourcePage": 199,
+          "masail": [
+            {
+              "id": "masalah-ayman-main-1-4",
+              "sectionId": "ayman-main-1-4",
+              "kitabId": "ayman",
+              "titleAr": "كتاب الأيمان",
+              "titleEn": "Oaths",
+              "rulingAr": "يحنث وكذا إذا حلف لا يركب هذه الدابة وهو راكبها فنزل في الحال وإن لبث ساعة حنث وإن حلف لا يدخل هذه الدار وهو فيها لم يحنث بالقعود حتى يخرج ثم يدخل\n\nومن حلف لا يدخل دارا فدخل دارا خرابا لم يحنث\n\nومن حلف لا يدخل هذه الدار فدخلها بعد ما انهدمت وصارت صحراء حنث ولو حلف لا يدخل هذا البيت فدخله بعد ما انهدم لم يحنث\n\nومن حلف لا يكلم زوجة فلان فطلقها فلان ثم كلمها حنث\n\nولو حلف لا يكلم عبد فلان أو لا يدخل دار فلان فباع عبده وداره ثم كلم العبد ودخل الدار لم يحنث وإن حلف لا يكلم صاحب هذا الطيلسان فباعه ثم كلمه حنث وكذلك إن حلف لا يكلم هذا الشاب فكلمه بعد ما صار شيخا حنث أو لا يأكل لحم هذا الحمل فصار كبشا فأكله حنث وإن حلف لا يأكل من هذه النخلة فهو على ثمرها وإن حلف لا يأكل من هذا البسر فصار رطبا فأكله لم يحنث وإن حلف لا يأكل بسرا فأكل رطبا لم يحنث\n\nومن حلف لا يأكل رطبا فأكل بسرا مذنبا حنث عند أبي حنيفة",
+              "rulingEn": "broken his oath. Likewise if he swears not to ride this animal while he is riding it and dismounts immediately. If he remains for a while, he has broken his oath. If he swears not to enter this house while he is inside it, he has not broken his oath by staying until he leaves and then enters again.\n\nWhoever swears not to enter a house and enters a ruined house has not broken his oath.\n\nWhoever swears not to enter this house and enters it after it is demolished and becomes open land has broken his oath. If he swears not to enter this room and enters it after it is demolished, he has not broken his oath.\n\nWhoever swears not to speak to so-and-so's wife, and so-and-so divorces her, and then he speaks to her, he has broken his oath.\n\nIf he swears not to speak to so-and-so's slave or not to enter so-and-so's house, and the owner sells his slave and house, and then he speaks to the slave and enters the house, he has not broken his oath. If he swears not to speak to the owner of this cloak and the owner sells it and he then speaks to the former owner, he has broken his oath. Likewise if he swears not to speak to this young man and speaks to him after he becomes an old man, he has broken his oath. Or if he swears not to eat the meat of this lamb and it becomes a ram and he eats it, he has broken his oath. If he swears not to eat from this palm tree, it applies to its fruit. If he swears not to eat from these unripe dates and they ripen and he eats them, he has not broken his oath. If he swears not to eat unripe dates and eats ripe dates, he has not broken his oath.\n\nWhoever swears not to eat ripe dates and eats unripe dates that have partially ripened, he has broken his oath according to Abu Hanifah.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "broken his oath. Likewise if he swears not to ride this animal while he is riding it and dismounts immediately. If he remains for a while, he has broken his oath. If he swears not to enter this house while he is inside it, he has not broken his oath by staying until he leaves and then enters again.\n\nWhoever swears not to enter a house and enters a ruined house has not broken his oath.\n\nWhoever swears not to enter this house and enters it after it is demolished and becomes open land has broken his oath. If he swears not to enter this room and enters it after it is demolished, he has not broken his oath.\n\nWhoever swears not to speak to so-and-so's wife, and so-and-so divorces her, and then he speaks to her, he has broken his oath.\n\nIf he swears not to speak to so-and-so's slave or not to enter so-and-so's house, and the owner sells his slave and house, and then he speaks to the slave and enters the house, he has not broken his oath. If he swears not to speak to the owner of this cloak and the owner sells it and he then speaks to the former owner, he has broken his oath. Likewise if he swears not to speak to this young man and speaks to him after he becomes an old man, he has broken his oath. Or if he swears not to eat the meat of this lamb and it becomes a ram and he eats it, he has broken his oath. If he swears not to eat from this palm tree, it applies to its fruit. If he swears not to eat from these unripe dates and they ripen and he eats them, he has not broken his oath. If he swears not to eat unripe dates and eats ripe dates, he has not broken his oath.\n\nWhoever swears not to eat ripe dates and eats unripe dates that have partially ripened, he has broken his oath according to Abu Hanifah."
+        },
+        {
+          "id": "ayman-main-1-5",
+          "babId": "ayman-main",
+          "kitabId": "ayman",
+          "titleAr": "كتاب الأيمان",
+          "titleEn": "Oaths",
+          "order": 5,
+          "textAr": "ومن حلف لا يأكل لحما فأكل السمك لم يحنث\n\nومن حلف لا يشرب من دجله فشرب منها بإناء لم يحنث حتى يكرع منها كرعا في قول أبي حنيفة ومن حلف لا يشرب من ماء دجلة فشرب منها بإناء حنث\n\nومن حلف لا يأكل من هذه الحنطة فأكل من خبزها لم يحنث\n\nولو حلف لا يأكل من هذا الدقيق بأكل من خبزه حنث ولو استفه كما هو لم يحنث ولو حلف لا يكلم فلانا فكلمه وهو بحيث يسمع إلا أنه نائم حنث وإن حلف لا يكلمه إلا بإذنه فأذن له ولم يعلم بالأذن حتى كلمه حنث\n\nوإذا استحلف الوالي رجلا ليعلمه بكل داعر دخل البلد فهذا على حال ولايته خاصة\n\nومن حلف لا يركب دابة فلان فركب دابة عبده لم يحنث\n\nومن حلف لا يدخل هذه الدار فوقف على سطحها أو دخل دهليزها حنث\n\nوإن وقف في طاق الباب يحيث إذا أغلق الباب كان خارجا لم يحنث\n\nومن حلف لا يأكل الشواء فهو على اللحم دون الباذنجان والجزر\n\nومن حلف لا يأكل الطبيخ فهو على ما يطبخ من اللحم",
+          "sourcePage": 199,
+          "masail": [
+            {
+              "id": "masalah-ayman-main-1-5",
+              "sectionId": "ayman-main-1-5",
+              "kitabId": "ayman",
+              "titleAr": "كتاب الأيمان",
+              "titleEn": "Oaths",
+              "rulingAr": "ومن حلف لا يأكل لحما فأكل السمك لم يحنث\n\nومن حلف لا يشرب من دجله فشرب منها بإناء لم يحنث حتى يكرع منها كرعا في قول أبي حنيفة ومن حلف لا يشرب من ماء دجلة فشرب منها بإناء حنث\n\nومن حلف لا يأكل من هذه الحنطة فأكل من خبزها لم يحنث\n\nولو حلف لا يأكل من هذا الدقيق بأكل من خبزه حنث ولو استفه كما هو لم يحنث ولو حلف لا يكلم فلانا فكلمه وهو بحيث يسمع إلا أنه نائم حنث وإن حلف لا يكلمه إلا بإذنه فأذن له ولم يعلم بالأذن حتى كلمه حنث\n\nوإذا استحلف الوالي رجلا ليعلمه بكل داعر دخل البلد فهذا على حال ولايته خاصة\n\nومن حلف لا يركب دابة فلان فركب دابة عبده لم يحنث\n\nومن حلف لا يدخل هذه الدار فوقف على سطحها أو دخل دهليزها حنث\n\nوإن وقف في طاق الباب يحيث إذا أغلق الباب كان خارجا لم يحنث\n\nومن حلف لا يأكل الشواء فهو على اللحم دون الباذنجان والجزر\n\nومن حلف لا يأكل الطبيخ فهو على ما يطبخ من اللحم",
+              "rulingEn": "Whoever swears not to eat meat and eats fish has not broken his oath.\n\nWhoever swears not to drink from the Tigris and drinks from it using a vessel has not broken his oath -- until he drinks directly from it by bending down, according to Abu Hanifah. Whoever swears not to drink from the water of the Tigris and drinks from it using a vessel has broken his oath.\n\nWhoever swears not to eat from this wheat and eats bread made from it has not broken his oath.\n\nIf he swears not to eat from this flour and eats bread made from it, he has broken his oath. If he eats the flour in its raw state, he has not broken his oath. If he swears not to speak to someone and speaks to him in a place where the person can hear but is asleep, he has broken his oath. If he swears not to speak to him except with his permission, and the person gives permission but the swearer does not know of it and speaks to him, he has broken his oath.\n\nIf the governor makes a man swear to inform him of every troublemaker who enters the city, this oath applies only during the governor's term of office.\n\nWhoever swears not to ride so-and-so's animal and rides the animal of so-and-so's slave has not broken his oath.\n\nWhoever swears not to enter this house and stands on its roof or enters its vestibule has broken his oath.\n\nIf he stands in the doorway such that when the door is closed he would be outside, he has not broken his oath.\n\nWhoever swears not to eat roasted food -- it applies to meat, not to eggplant and carrots.\n\nWhoever swears not to eat cooked food -- it applies to what is cooked from meat.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "Whoever swears not to eat meat and eats fish has not broken his oath.\n\nWhoever swears not to drink from the Tigris and drinks from it using a vessel has not broken his oath -- until he drinks directly from it by bending down, according to Abu Hanifah. Whoever swears not to drink from the water of the Tigris and drinks from it using a vessel has broken his oath.\n\nWhoever swears not to eat from this wheat and eats bread made from it has not broken his oath.\n\nIf he swears not to eat from this flour and eats bread made from it, he has broken his oath. If he eats the flour in its raw state, he has not broken his oath. If he swears not to speak to someone and speaks to him in a place where the person can hear but is asleep, he has broken his oath. If he swears not to speak to him except with his permission, and the person gives permission but the swearer does not know of it and speaks to him, he has broken his oath.\n\nIf the governor makes a man swear to inform him of every troublemaker who enters the city, this oath applies only during the governor's term of office.\n\nWhoever swears not to ride so-and-so's animal and rides the animal of so-and-so's slave has not broken his oath.\n\nWhoever swears not to enter this house and stands on its roof or enters its vestibule has broken his oath.\n\nIf he stands in the doorway such that when the door is closed he would be outside, he has not broken his oath.\n\nWhoever swears not to eat roasted food -- it applies to meat, not to eggplant and carrots.\n\nWhoever swears not to eat cooked food -- it applies to what is cooked from meat."
+        },
+        {
+          "id": "ayman-main-1-6",
+          "babId": "ayman-main",
+          "kitabId": "ayman",
+          "titleAr": "كتاب الأيمان",
+          "titleEn": "Oaths",
+          "order": 6,
+          "textAr": "ومن حلف لا يأكل الرؤوس فيمتنه على ما يكبس في التنانير ويباع في المصر\n\nومن حلف لا يأكل الخبز فيمتنه على ما يعتاد أهل البلد أكله خبزا فإن أكل خبز القطائف أو خبز الأرز بالعراق لم يحنث\n\nومن حلف لا يبيع أو لا يشتري أولا يؤاجر فوكل بذلك لم يحنث\n\nومن حلف لا يتزوج أو لا يطلق أو لا يعلق لوكل بذلك حنث\n\nومن حلف لا يجلس على الأرض فجلس على بساط أو حصير لم يحنث\n\nومن حلف لا يجلس على سرير فجلس على سرير فوقه بساط حنث وإن جعل\n\nفوقه سريرا فجلس عليه لم يحنث\n\nوإن حلف لا ينام على فراش فنام عليه وفوقه قوام حنث وإن جعل فوقه فراشا آخر لم يحنث\n\nومن حلف بيمين وقال: إن شاء الله متصلا بيمينه فلا حنث عليه وإن حلف ليأتينه إن استطاع فهذا على استطاعة الصحة دون القدرة\n\nوإن حلف لا يكلم فلانا حينا أو زمانا أو الحين أو الزمان فهو على ستة أشهر وكذلك الدهر عند أبي يوسف ومحمد",
+          "sourcePage": 199,
+          "masail": [
+            {
+              "id": "masalah-ayman-main-1-6",
+              "sectionId": "ayman-main-1-6",
+              "kitabId": "ayman",
+              "titleAr": "كتاب الأيمان",
+              "titleEn": "Oaths",
+              "rulingAr": "ومن حلف لا يأكل الرؤوس فيمتنه على ما يكبس في التنانير ويباع في المصر\n\nومن حلف لا يأكل الخبز فيمتنه على ما يعتاد أهل البلد أكله خبزا فإن أكل خبز القطائف أو خبز الأرز بالعراق لم يحنث\n\nومن حلف لا يبيع أو لا يشتري أولا يؤاجر فوكل بذلك لم يحنث\n\nومن حلف لا يتزوج أو لا يطلق أو لا يعلق لوكل بذلك حنث\n\nومن حلف لا يجلس على الأرض فجلس على بساط أو حصير لم يحنث\n\nومن حلف لا يجلس على سرير فجلس على سرير فوقه بساط حنث وإن جعل\n\nفوقه سريرا فجلس عليه لم يحنث\n\nوإن حلف لا ينام على فراش فنام عليه وفوقه قوام حنث وإن جعل فوقه فراشا آخر لم يحنث\n\nومن حلف بيمين وقال: إن شاء الله متصلا بيمينه فلا حنث عليه وإن حلف ليأتينه إن استطاع فهذا على استطاعة الصحة دون القدرة\n\nوإن حلف لا يكلم فلانا حينا أو زمانا أو الحين أو الزمان فهو على ستة أشهر وكذلك الدهر عند أبي يوسف ومحمد",
+              "rulingEn": "Whoever swears not to eat heads -- the oath applies to what is roasted in ovens and sold in the market.\n\nWhoever swears not to eat bread -- the oath applies to what the people of the land customarily eat as bread. If he eats pastry bread or rice bread in Iraq, he has not broken his oath.\n\nWhoever swears not to sell, buy, or hire out, and then appoints an agent for that, has not broken his oath.\n\nWhoever swears not to marry, divorce, or manumit, and then appoints an agent for that, has broken his oath.\n\nWhoever swears not to sit on the ground and sits on a carpet or mat has not broken his oath.\n\nWhoever swears not to sit on a bed and sits on a bed that has a carpet on it has broken his oath. If another bed is placed on top of the bed and he sits on the upper one, he has not broken his oath.\n\nIf he swears not to sleep on a mattress and sleeps on it with a covering over it, he has broken his oath. If another mattress is placed on top of it, he has not broken his oath.\n\nWhoever takes an oath and says \"God willing\" (in sha' Allah) connected to his oath, he is not bound by the oath. If he swears to visit someone \"if I am able,\" this refers to the ability of health, not absolute capability.\n\nIf he swears not to speak to someone \"for a while\" (hinan) or \"for a time\" (zamanan), or \"the while,\" or \"the time,\" it means six months. Likewise \"an age\" (dahr) according to Abu Yusuf and Muhammad.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "Whoever swears not to eat heads -- the oath applies to what is roasted in ovens and sold in the market.\n\nWhoever swears not to eat bread -- the oath applies to what the people of the land customarily eat as bread. If he eats pastry bread or rice bread in Iraq, he has not broken his oath.\n\nWhoever swears not to sell, buy, or hire out, and then appoints an agent for that, has not broken his oath.\n\nWhoever swears not to marry, divorce, or manumit, and then appoints an agent for that, has broken his oath.\n\nWhoever swears not to sit on the ground and sits on a carpet or mat has not broken his oath.\n\nWhoever swears not to sit on a bed and sits on a bed that has a carpet on it has broken his oath. If another bed is placed on top of the bed and he sits on the upper one, he has not broken his oath.\n\nIf he swears not to sleep on a mattress and sleeps on it with a covering over it, he has broken his oath. If another mattress is placed on top of it, he has not broken his oath.\n\nWhoever takes an oath and says \"God willing\" (in sha' Allah) connected to his oath, he is not bound by the oath. If he swears to visit someone \"if I am able,\" this refers to the ability of health, not absolute capability.\n\nIf he swears not to speak to someone \"for a while\" (hinan) or \"for a time\" (zamanan), or \"the while,\" or \"the time,\" it means six months. Likewise \"an age\" (dahr) according to Abu Yusuf and Muhammad."
+        },
+        {
+          "id": "ayman-main-1-7",
+          "babId": "ayman-main",
+          "kitabId": "ayman",
+          "titleAr": "كتاب الأيمان",
+          "titleEn": "Oaths",
+          "order": 7,
+          "textAr": "ولو حلف لا يكلمه أياما على ثلاثة أيام ولو حلف لا يكلمه الأيام فهو على عشرة أيام عند أبي حنيفة وقال أبو يوسف ومحمد: على أيام الأسبوع ولو حلف لا يكلمه الشهور فهو على عشرة أشهر عند أبي حنيفة وقال أبو يوسف ومحمد: على اثني عشر شهرا\n\nوإذا حلف لا يفعل كذا تركه أبدا وإن حلف ليفعلن كذا ففعله مرة واحدة بر في يمينه\n\nومن حلف لا تخرج امرأته إلا بإذنه فأذن لها مرة\n\nفخرجت ثم خرجت مرة أخرى بغير إذنه حنث ولا بد من إذن في كل خروج وإن قال: إلا أن آذن لك فأذن لها مرة ثم خرجت بعدها بغير إذنه لم يحنث\n\nوإذا حلف لا يتغدى فالغداء الأكل من طلوع الفجر إلى الظهر والعشاء من صلاة الظهر إلى نصف الليل والسحور من نصف الليل إلى طلوع الفجر\n\nوإن حلف ليقضين دينه إلى قريب فهو ما دون الشهر وإن قال: إلى بعيد فهو أكثر من الشهر\n\nومن حلف لا يسكن هذه الدار فخرج منها نفسه وترك فيها\n\nأهله ومتاعه حنث",
+          "sourcePage": 199,
+          "masail": [
+            {
+              "id": "masalah-ayman-main-1-7",
+              "sectionId": "ayman-main-1-7",
+              "kitabId": "ayman",
+              "titleAr": "كتاب الأيمان",
+              "titleEn": "Oaths",
+              "rulingAr": "ولو حلف لا يكلمه أياما على ثلاثة أيام ولو حلف لا يكلمه الأيام فهو على عشرة أيام عند أبي حنيفة وقال أبو يوسف ومحمد: على أيام الأسبوع ولو حلف لا يكلمه الشهور فهو على عشرة أشهر عند أبي حنيفة وقال أبو يوسف ومحمد: على اثني عشر شهرا\n\nوإذا حلف لا يفعل كذا تركه أبدا وإن حلف ليفعلن كذا ففعله مرة واحدة بر في يمينه\n\nومن حلف لا تخرج امرأته إلا بإذنه فأذن لها مرة\n\nفخرجت ثم خرجت مرة أخرى بغير إذنه حنث ولا بد من إذن في كل خروج وإن قال: إلا أن آذن لك فأذن لها مرة ثم خرجت بعدها بغير إذنه لم يحنث\n\nوإذا حلف لا يتغدى فالغداء الأكل من طلوع الفجر إلى الظهر والعشاء من صلاة الظهر إلى نصف الليل والسحور من نصف الليل إلى طلوع الفجر\n\nوإن حلف ليقضين دينه إلى قريب فهو ما دون الشهر وإن قال: إلى بعيد فهو أكثر من الشهر\n\nومن حلف لا يسكن هذه الدار فخرج منها نفسه وترك فيها\n\nأهله ومتاعه حنث",
+              "rulingEn": "If he swears not to speak to him \"for days\" (ayyaman), it means three days. If he swears not to speak to him \"the days\" (al-ayyam), it means ten days according to Abu Hanifah. Abu Yusuf and Muhammad said: It means the days of the week. If he swears not to speak to him \"the months\" (al-shuhur), it means ten months according to Abu Hanifah. Abu Yusuf and Muhammad said: Twelve months.\n\nIf one swears not to do something, one must abandon it forever. If one swears to do something, doing it once fulfills the oath.\n\nWhoever swears that his wife shall not go out except with his permission: if he grants permission once and she goes out, then goes out again without permission, he has broken his oath. Permission is required for each outing. If he says: \"Unless I give you permission\" and gives her permission once, and she goes out again without permission, he has not broken his oath.\n\nIf one swears not to have lunch: lunch is eating from dawn to noon. Dinner is from the noon prayer to midnight. The pre-dawn meal (suhur) is from midnight to dawn.\n\nIf one swears to repay a debt \"soon,\" it means within a month. If he says \"in a long time,\" it means more than a month.\n\nWhoever swears not to reside in this house and leaves it himself but leaves his family and belongings there has broken his oath.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "If he swears not to speak to him \"for days\" (ayyaman), it means three days. If he swears not to speak to him \"the days\" (al-ayyam), it means ten days according to Abu Hanifah. Abu Yusuf and Muhammad said: It means the days of the week. If he swears not to speak to him \"the months\" (al-shuhur), it means ten months according to Abu Hanifah. Abu Yusuf and Muhammad said: Twelve months.\n\nIf one swears not to do something, one must abandon it forever. If one swears to do something, doing it once fulfills the oath.\n\nWhoever swears that his wife shall not go out except with his permission: if he grants permission once and she goes out, then goes out again without permission, he has broken his oath. Permission is required for each outing. If he says: \"Unless I give you permission\" and gives her permission once, and she goes out again without permission, he has not broken his oath.\n\nIf one swears not to have lunch: lunch is eating from dawn to noon. Dinner is from the noon prayer to midnight. The pre-dawn meal (suhur) is from midnight to dawn.\n\nIf one swears to repay a debt \"soon,\" it means within a month. If he says \"in a long time,\" it means more than a month.\n\nWhoever swears not to reside in this house and leaves it himself but leaves his family and belongings there has broken his oath."
+        },
+        {
+          "id": "ayman-main-1-8",
+          "babId": "ayman-main",
+          "kitabId": "ayman",
+          "titleAr": "كتاب الأيمان",
+          "titleEn": "Oaths",
+          "order": 8,
+          "textAr": "ومن حلف ليصعد السماء أوليقلبن هذا الحجر ذهبا انعقدت يمينه وحنث عقيبها\n\nومن حلف ليقضين فلانا دينه اليوم فقضاه ثم وجد فلان بعضه زيوفا أو نبهرجة أو مستحقة لم يحنث وإن وجدها رصاصا أو ستوقة حنث\n\nومن حلف لا يقبض دينه درهما دون درهم فقبض بعضه لم يحنث\n\nحتى يقبض متفرقا وإن قبض دينه في وزنتين لم يتشاغل بينهما إلا بعمل الوزن لم يحنث وليس ذلك بتفريق\n\nومن حلف ليأتين البصرة فلم يأتها حتى مات حنث في آخر جزء من أجزاء حياته",
+          "sourcePage": 199,
+          "masail": [
+            {
+              "id": "masalah-ayman-main-1-8",
+              "sectionId": "ayman-main-1-8",
+              "kitabId": "ayman",
+              "titleAr": "كتاب الأيمان",
+              "titleEn": "Oaths",
+              "rulingAr": "ومن حلف ليصعد السماء أوليقلبن هذا الحجر ذهبا انعقدت يمينه وحنث عقيبها\n\nومن حلف ليقضين فلانا دينه اليوم فقضاه ثم وجد فلان بعضه زيوفا أو نبهرجة أو مستحقة لم يحنث وإن وجدها رصاصا أو ستوقة حنث\n\nومن حلف لا يقبض دينه درهما دون درهم فقبض بعضه لم يحنث\n\nحتى يقبض متفرقا وإن قبض دينه في وزنتين لم يتشاغل بينهما إلا بعمل الوزن لم يحنث وليس ذلك بتفريق\n\nومن حلف ليأتين البصرة فلم يأتها حتى مات حنث في آخر جزء من أجزاء حياته",
+              "rulingEn": "Whoever swears to ascend to the sky or to turn this stone into gold, his oath is binding and he immediately breaks it.\n\nWhoever swears to repay someone's debt today and pays it, then the creditor finds some of the coins to be of inferior quality (zuyuf), or substandard (nabirajah), or subject to another's claim, the oath is not broken. If the coins turn out to be lead or counterfeit (stuqah), the oath is broken.\n\nWhoever swears not to collect his debt \"dirham by dirham\" -- if he collects part of it, he has not broken his oath until he collects it in separate installments. If he collects his debt in two weighings without any activity between them other than the work of weighing, he has not broken his oath, and that is not considered separation.\n\nWhoever swears to visit Basra and does not visit it until he dies, he breaks his oath in the last moment of his life.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "Whoever swears to ascend to the sky or to turn this stone into gold, his oath is binding and he immediately breaks it.\n\nWhoever swears to repay someone's debt today and pays it, then the creditor finds some of the coins to be of inferior quality (zuyuf), or substandard (nabirajah), or subject to another's claim, the oath is not broken. If the coins turn out to be lead or counterfeit (stuqah), the oath is broken.\n\nWhoever swears not to collect his debt \"dirham by dirham\" -- if he collects part of it, he has not broken his oath until he collects it in separate installments. If he collects his debt in two weighings without any activity between them other than the work of weighing, he has not broken his oath, and that is not considered separation.\n\nWhoever swears to visit Basra and does not visit it until he dies, he breaks his oath in the last moment of his life."
+        }
+      ]
+    }
+  ]
+}

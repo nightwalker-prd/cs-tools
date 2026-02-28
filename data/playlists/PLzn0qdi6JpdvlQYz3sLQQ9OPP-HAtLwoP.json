@@ -1,0 +1,44 @@
+{
+  "playlistId": "PLzn0qdi6JpdvlQYz3sLQQ9OPP-HAtLwoP",
+  "playlistTitle": "Advanced Arabic Class",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PLzn0qdi6JpdvlQYz3sLQQ9OPP-HAtLwoP",
+  "extractedAt": "2026-02-15T19:20:37Z",
+  "videoCount": 5,
+  "videos": [
+    {
+      "index": 1,
+      "videoId": "ly24oXM0y-I",
+      "title": "Advanced Arabic Class: Understanding The شبه الجملة",
+      "url": "https://www.youtube.com/watch?v=ly24oXM0y-I",
+      "duration": 2183
+    },
+    {
+      "index": 2,
+      "videoId": "FJkxiuGL55E",
+      "title": "Advanced Arabic: Tarkib of Bismillah",
+      "url": "https://www.youtube.com/watch?v=FJkxiuGL55E",
+      "duration": 268
+    },
+    {
+      "index": 3,
+      "videoId": "SxZKtrZteSM",
+      "title": "Advanced Arabic: المصدر",
+      "url": "https://www.youtube.com/watch?v=SxZKtrZteSM",
+      "duration": 710
+    },
+    {
+      "index": 4,
+      "videoId": "V9Gy1Q3GoUE",
+      "title": "Advanced Arabic: The Phrase شيء من",
+      "url": "https://www.youtube.com/watch?v=V9Gy1Q3GoUE",
+      "duration": 875
+    },
+    {
+      "index": 5,
+      "videoId": "l_RalBIrIlg",
+      "title": "Basics Terminologies of Arabic Poetry",
+      "url": "https://www.youtube.com/watch?v=l_RalBIrIlg",
+      "duration": 165
+    }
+  ]
+}

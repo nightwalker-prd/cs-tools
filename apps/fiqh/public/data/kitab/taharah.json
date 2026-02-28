@@ -1,0 +1,358 @@
+{
+  "id": "taharah",
+  "titleAr": "كتاب الطهارة",
+  "titleEn": "Purification",
+  "order": 1,
+  "categoryId": "ibadat",
+  "pageRange": [
+    1,
+    12
+  ],
+  "abwab": [
+    {
+      "id": "taharah-intro",
+      "kitabId": "taharah",
+      "titleAr": "مقدمة كتاب الطهارة",
+      "titleEn": "Introduction to Purification",
+      "order": 0,
+      "sections": [
+        {
+          "id": "taharah-intro-1-1",
+          "babId": "taharah-intro",
+          "kitabId": "taharah",
+          "titleAr": "مقدمة",
+          "titleEn": "Introduction",
+          "order": 1,
+          "textAr": "بسم الله الرحمن الرحيم\n\nقال الله تعالى: ﴿يا أيها الذين آمنوا إذا قمتم إلى الصلاة فاغسلوا وجوهكم وأيديكم إلى المرافق وامسحوا برؤوسكم وأرجلكم إلى الكعبين﴾\n\nففرض الطهارة:\n\nغسل الأعضاء الثلاثة ومسح الرأس والمرفقان والكعبان يدخلان في الغسل والمفروض في مسح الرأس مقدار الناصية لما روى المغيرة بن شعبة [أن النبي ﷺ أتى سباطة قوم فبال وتوضأ ومسح على ناصيته وخفيه]\n\nوسنن الطهارة:\n\nوغسل اليدين قبل إدخالها إذا استيقظ المتوضئ من نومه وتسمية الله تعالى في ابتداء الوضوء\n\nوالسواك والمضمضة والأستنشاق ومسح الأذنين وتخليل اللحية والأصابع وتكرار الغسل إلى الثلاث\n\nويستحب للمتوضئ أن ينوي الطهارة ويستوعب رأسه بالمسح ويرتب الوضوء فيبدأ بما بدأ الله تعالى بذكره وبالميامن\n\nوالمعاني الناقضة للوضوء:",
+          "sourcePage": 1,
+          "masail": [
+            {
+              "id": "masalah-taharah-intro-1-1",
+              "sectionId": "taharah-intro-1-1",
+              "kitabId": "taharah",
+              "titleAr": "مقدمة",
+              "titleEn": "Introduction",
+              "rulingAr": "بسم الله الرحمن الرحيم\n\nقال الله تعالى: ﴿يا أيها الذين آمنوا إذا قمتم إلى الصلاة فاغسلوا وجوهكم وأيديكم إلى المرافق وامسحوا برؤوسكم وأرجلكم إلى الكعبين﴾\n\nففرض الطهارة:\n\nغسل الأعضاء الثلاثة ومسح الرأس والمرفقان والكعبان يدخلان في الغسل والمفروض في مسح الرأس مقدار الناصية لما روى المغيرة بن شعبة [أن النبي ﷺ أتى سباطة قوم فبال وتوضأ ومسح على ناصيته وخفيه]\n\nوسنن الطهارة:\n\nوغسل اليدين قبل إدخالها إذا استيقظ المتوضئ من نومه وتسمية الله تعالى في ابتداء الوضوء\n\nوالسواك والمضمضة والأستنشاق ومسح الأذنين وتخليل اللحية والأصابع وتكرار الغسل إلى الثلاث\n\nويستحب للمتوضئ أن ينوي الطهارة ويستوعب رأسه بالمسح ويرتب الوضوء فيبدأ بما بدأ الله تعالى بذكره وبالميامن\n\nوالمعاني الناقضة للوضوء:",
+              "rulingEn": "In the name of Allah, the Most Gracious, the Most Merciful.\n\nAllah, the Exalted, said: \"O you who believe, when you rise to perform prayer, wash your faces and your hands up to the elbows, wipe your heads, and wash your feet up to the ankles.\"\n\nThe obligatory acts of purification are:\n\nWashing the three limbs and wiping the head. The elbows and ankles are included in the washing. The obligatory extent of wiping the head is the area of the forelock, based on the narration of al-Mughirah ibn Shu'bah [that the Prophet, peace be upon him, came to the refuse dump of a people, urinated, performed ablution, and wiped over his forelock and his leather socks].\n\nThe sunnahs of purification are:\n\nWashing the hands before inserting them into the vessel when the one performing ablution has awoken from sleep, mentioning the name of Allah at the beginning of ablution,\n\nusing the tooth-stick (siwak), rinsing the mouth, sniffing water into the nose, wiping the ears, combing through the beard and fingers, and repeating each washing up to three times.\n\nIt is recommended for the one performing ablution to intend purification, to wipe the entire head, and to maintain the order of ablution by beginning with what Allah, the Exalted, mentioned first, and to begin with the right side.\n\nThe matters that nullify ablution are:",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "In the name of Allah, the Most Gracious, the Most Merciful.\n\nAllah, the Exalted, said: \"O you who believe, when you rise to perform prayer, wash your faces and your hands up to the elbows, wipe your heads, and wash your feet up to the ankles.\"\n\nThe obligatory acts of purification are:\n\nWashing the three limbs and wiping the head. The elbows and ankles are included in the washing. The obligatory extent of wiping the head is the area of the forelock, based on the narration of al-Mughirah ibn Shu'bah [that the Prophet, peace be upon him, came to the refuse dump of a people, urinated, performed ablution, and wiped over his forelock and his leather socks].\n\nThe sunnahs of purification are:\n\nWashing the hands before inserting them into the vessel when the one performing ablution has awoken from sleep, mentioning the name of Allah at the beginning of ablution,\n\nusing the tooth-stick (siwak), rinsing the mouth, sniffing water into the nose, wiping the ears, combing through the beard and fingers, and repeating each washing up to three times.\n\nIt is recommended for the one performing ablution to intend purification, to wipe the entire head, and to maintain the order of ablution by beginning with what Allah, the Exalted, mentioned first, and to begin with the right side.\n\nThe matters that nullify ablution are:"
+        },
+        {
+          "id": "taharah-intro-1-2",
+          "babId": "taharah-intro",
+          "kitabId": "taharah",
+          "titleAr": "مقدمة",
+          "titleEn": "Introduction",
+          "order": 2,
+          "textAr": "كل ما خرج من السبيلين والدم والقيح والصديد إذا خرج من البدن فتجاوز إلى موضع يلحقه حكم التطهير والقيء إذا كان ملء الفم والنوم مضطجعا أو متكئا أو مستندا إلى شيء لو أزيل عنه لسقط والغلبة على العقل بالإغماء\n\nوالجنون والقهقهة في كل صلاة ذات ركوع وسجود\n\nوفرض الغسل: المضمضة والاستنشاق وغسل سائر البدن\n\nوسنة الغسل:\n\nأن يبدأ المغتسل يديه وفرجه ويزيل النجاسة إن كانت على بدنه ثم يتوضأ وضوءه للصلاة إلا رجليه ثم يفيض الماء على رأسه وسائر جسده ثلاثا ثم يتنحى عن ذلك المكان فيغتسل رجليه\n\nوليس على المرأة أن تنقض ضفائرها في الغسل إذا بلغ الماء أصول الشعر\n\nوالمعاني الموجبة للغسل:\n\nإنزال المني\n\nعلى وجه الدفق والشهوة من الرجل والمرأة والتقاء الختانين من غير إنزال والحيض والنفاس\n\nوسن رسول الله ﷺ الغسل للجمعة والعيدين والإحرام\n\nوليس في المذي والودي غسل وفيهما الوضوء",
+          "sourcePage": 1,
+          "masail": [
+            {
+              "id": "masalah-taharah-intro-1-2",
+              "sectionId": "taharah-intro-1-2",
+              "kitabId": "taharah",
+              "titleAr": "مقدمة",
+              "titleEn": "Introduction",
+              "rulingAr": "كل ما خرج من السبيلين والدم والقيح والصديد إذا خرج من البدن فتجاوز إلى موضع يلحقه حكم التطهير والقيء إذا كان ملء الفم والنوم مضطجعا أو متكئا أو مستندا إلى شيء لو أزيل عنه لسقط والغلبة على العقل بالإغماء\n\nوالجنون والقهقهة في كل صلاة ذات ركوع وسجود\n\nوفرض الغسل: المضمضة والاستنشاق وغسل سائر البدن\n\nوسنة الغسل:\n\nأن يبدأ المغتسل يديه وفرجه ويزيل النجاسة إن كانت على بدنه ثم يتوضأ وضوءه للصلاة إلا رجليه ثم يفيض الماء على رأسه وسائر جسده ثلاثا ثم يتنحى عن ذلك المكان فيغتسل رجليه\n\nوليس على المرأة أن تنقض ضفائرها في الغسل إذا بلغ الماء أصول الشعر\n\nوالمعاني الموجبة للغسل:\n\nإنزال المني\n\nعلى وجه الدفق والشهوة من الرجل والمرأة والتقاء الختانين من غير إنزال والحيض والنفاس\n\nوسن رسول الله ﷺ الغسل للجمعة والعيدين والإحرام\n\nوليس في المذي والودي غسل وفيهما الوضوء",
+              "rulingEn": "Everything that exits from the two passages (front and back), and blood, pus, and serum when they exit from the body and spread to a place that requires purification; vomiting when it fills the mouth; sleep while lying down, reclining, or leaning against something such that if it were removed one would fall; and being overcome in one's mind by fainting,\n\ninsanity, and laughing out loud in any prayer that contains bowing and prostration.\n\nThe obligatory acts of the ritual bath (ghusl) are: rinsing the mouth, sniffing water into the nose, and washing the entire body.\n\nThe sunnah of the ritual bath is:\n\nThat the one bathing begins by washing his hands and private parts, and removes any impurity on his body. Then he performs ablution as he would for prayer, except for his feet. Then he pours water over his head and the rest of his body three times. Then he moves to a different spot and washes his feet.\n\nA woman is not required to undo her braids during the ritual bath if the water reaches the roots of her hair.\n\nThe matters that obligate the ritual bath are:\n\nThe emission of semen with force and desire, from both men and women; the meeting of the two circumcised parts even without emission; menstruation; and post-natal bleeding.\n\nThe Messenger of Allah, peace be upon him, prescribed the ritual bath for Friday, the two Eids, and entering the state of ihram.\n\nThere is no ritual bath required for pre-seminal fluid (madhi) or prostatic fluid (wadi), but they require ablution.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "Everything that exits from the two passages (front and back), and blood, pus, and serum when they exit from the body and spread to a place that requires purification; vomiting when it fills the mouth; sleep while lying down, reclining, or leaning against something such that if it were removed one would fall; and being overcome in one's mind by fainting,\n\ninsanity, and laughing out loud in any prayer that contains bowing and prostration.\n\nThe obligatory acts of the ritual bath (ghusl) are: rinsing the mouth, sniffing water into the nose, and washing the entire body.\n\nThe sunnah of the ritual bath is:\n\nThat the one bathing begins by washing his hands and private parts, and removes any impurity on his body. Then he performs ablution as he would for prayer, except for his feet. Then he pours water over his head and the rest of his body three times. Then he moves to a different spot and washes his feet.\n\nA woman is not required to undo her braids during the ritual bath if the water reaches the roots of her hair.\n\nThe matters that obligate the ritual bath are:\n\nThe emission of semen with force and desire, from both men and women; the meeting of the two circumcised parts even without emission; menstruation; and post-natal bleeding.\n\nThe Messenger of Allah, peace be upon him, prescribed the ritual bath for Friday, the two Eids, and entering the state of ihram.\n\nThere is no ritual bath required for pre-seminal fluid (madhi) or prostatic fluid (wadi), but they require ablution."
+        },
+        {
+          "id": "taharah-intro-1-3",
+          "babId": "taharah-intro",
+          "kitabId": "taharah",
+          "titleAr": "مقدمة",
+          "titleEn": "Introduction",
+          "order": 3,
+          "textAr": "والطهارة من الأحداث جائزة بماء السماء والأودية والعيون والآبار وماء البحار ولا تجوز بما اعتصر من الشجر والثمر ولا بماء غلب عليه غيره وأخرجه عن طبع الماء\n\nكالأشربة والخل وماء الورد وماء الباقلاء والمرق وماء الزردج\n\nوتجوز الطهارة بماء خالطة شيء طاهر فغير أحد أوصافه كماء المد والماء الذي يختلط به الأشنان والصابون والزعفران\n\nوكل ماء وقعت فيه نجاسة لم يجز اوضوء به قليلا أو كثيرا [لأن النبي ﵊ أمر بحفظ الماء من النجاسة فقال لا يبولن\n\nأحدكم في الماء الدائم ولا يغتسلن فيه من الجنابة] و[قال ﵊: إذا استيقظ أحدكم من منامه فلا يغمسن يده في الإناء حتى يغسلها ثلاثا فإنه لا يدري أين باتت يده]\n\nوأما الماء الجاري\n\nإذا وقعت فيه نجاسة جاز الوضوء منه إذا لم ير لها أثر لا تستقر مع جريان الماء والغدير العظيم الذي لا يتحرك أحد طرفيه بتحريك الطرف الآخر",
+          "sourcePage": 1,
+          "masail": [
+            {
+              "id": "masalah-taharah-intro-1-3",
+              "sectionId": "taharah-intro-1-3",
+              "kitabId": "taharah",
+              "titleAr": "مقدمة",
+              "titleEn": "Introduction",
+              "rulingAr": "والطهارة من الأحداث جائزة بماء السماء والأودية والعيون والآبار وماء البحار ولا تجوز بما اعتصر من الشجر والثمر ولا بماء غلب عليه غيره وأخرجه عن طبع الماء\n\nكالأشربة والخل وماء الورد وماء الباقلاء والمرق وماء الزردج\n\nوتجوز الطهارة بماء خالطة شيء طاهر فغير أحد أوصافه كماء المد والماء الذي يختلط به الأشنان والصابون والزعفران\n\nوكل ماء وقعت فيه نجاسة لم يجز اوضوء به قليلا أو كثيرا [لأن النبي ﵊ أمر بحفظ الماء من النجاسة فقال لا يبولن\n\nأحدكم في الماء الدائم ولا يغتسلن فيه من الجنابة] و[قال ﵊: إذا استيقظ أحدكم من منامه فلا يغمسن يده في الإناء حتى يغسلها ثلاثا فإنه لا يدري أين باتت يده]\n\nوأما الماء الجاري\n\nإذا وقعت فيه نجاسة جاز الوضوء منه إذا لم ير لها أثر لا تستقر مع جريان الماء والغدير العظيم الذي لا يتحرك أحد طرفيه بتحريك الطرف الآخر",
+              "rulingEn": "Purification from ritual impurities (hadath) is permissible with rainwater, water from rivers, springs, wells, and seawater. It is not permissible with liquid extracted from trees or fruits, nor with water that has been overwhelmed by another substance such that it is no longer in the nature of water,\n\nsuch as beverages, vinegar, rosewater, bean-water, broth, and turmeric-water.\n\nPurification is permissible with water that has been mixed with a pure substance that has changed one of its qualities, such as water from flood mud, and water mixed with potash, soap, or saffron.\n\nEvery body of water into which impurity has fallen may not be used for ablution, whether it be small or large, [because the Prophet, peace be upon him, commanded the protection of water from impurity, saying: \"Let none of you urinate in standing water, nor bathe in it from major ritual impurity.\"] And [he, peace be upon him, said: \"When one of you wakes from sleep, let him not dip his hand into the vessel until he has washed it three times, for he does not know where his hand has been.\"]\n\nAs for flowing water:\n\nIf impurity falls into it, ablution from it is permissible if no trace of the impurity is seen, since impurity does not settle in flowing water. And the large pond in which movement on one side does not cause movement on the other side",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "Purification from ritual impurities (hadath) is permissible with rainwater, water from rivers, springs, wells, and seawater. It is not permissible with liquid extracted from trees or fruits, nor with water that has been overwhelmed by another substance such that it is no longer in the nature of water,\n\nsuch as beverages, vinegar, rosewater, bean-water, broth, and turmeric-water.\n\nPurification is permissible with water that has been mixed with a pure substance that has changed one of its qualities, such as water from flood mud, and water mixed with potash, soap, or saffron.\n\nEvery body of water into which impurity has fallen may not be used for ablution, whether it be small or large, [because the Prophet, peace be upon him, commanded the protection of water from impurity, saying: \"Let none of you urinate in standing water, nor bathe in it from major ritual impurity.\"] And [he, peace be upon him, said: \"When one of you wakes from sleep, let him not dip his hand into the vessel until he has washed it three times, for he does not know where his hand has been.\"]\n\nAs for flowing water:\n\nIf impurity falls into it, ablution from it is permissible if no trace of the impurity is seen, since impurity does not settle in flowing water. And the large pond in which movement on one side does not cause movement on the other side"
+        },
+        {
+          "id": "taharah-intro-1-4",
+          "babId": "taharah-intro",
+          "kitabId": "taharah",
+          "titleAr": "مقدمة",
+          "titleEn": "Introduction",
+          "order": 4,
+          "textAr": "إذا وقعت نجاسة في أحد جانبيه جاز الوضوء من الجانب الآخر لأن الظاهر أن النجاسة لا تصل إليه\n\nوموت ما ليس له نفس سائلة في الماء لا ينجسه كالبق والذباب والزنابير والعقارب وموت ما يعيش في الماء فيه لا يفسده كالسمك والضفدع والسرطان\n\nوالماء المستعمل لا يجوز استعماله في طهارة الأحداث\n\nوالمستعمل: كل ماء أزيل به حدث أو استعمل في البدن على وجه القربة\n\nوكل إهاب دبغ فقد ظهر وجازت الصلاة فيه والوضوء منه إلا جلد الخنزير والآدمي\n\nوشعر الميتة\n\nوعظمها\n\nوعصبها وحافرها وقرنها طاهر\n\nوإذا وقعت في البئر نجاسة نزحت وكان نزح ما فيها من الماء طهارة لها\n\nفإن ماتت فيها فأرة أو عصفورة أو صعوة أو سوادنية أو سام أبرص نزح منها ما بين عشرين دلوا إلى ثلاثين دلوا\n\nبحسب كبر الحيوان وصغره\n\nوإن ماتت فيها حمامة أو دجاجة أو سنور نزح منها ما بين أربعين دلوا إلى ستين\n\nوإن مات فيها كلب أو شاة أو آدمي نزح جميع ما فيها من الماء",
+          "sourcePage": 1,
+          "masail": [
+            {
+              "id": "masalah-taharah-intro-1-4",
+              "sectionId": "taharah-intro-1-4",
+              "kitabId": "taharah",
+              "titleAr": "مقدمة",
+              "titleEn": "Introduction",
+              "rulingAr": "إذا وقعت نجاسة في أحد جانبيه جاز الوضوء من الجانب الآخر لأن الظاهر أن النجاسة لا تصل إليه\n\nوموت ما ليس له نفس سائلة في الماء لا ينجسه كالبق والذباب والزنابير والعقارب وموت ما يعيش في الماء فيه لا يفسده كالسمك والضفدع والسرطان\n\nوالماء المستعمل لا يجوز استعماله في طهارة الأحداث\n\nوالمستعمل: كل ماء أزيل به حدث أو استعمل في البدن على وجه القربة\n\nوكل إهاب دبغ فقد ظهر وجازت الصلاة فيه والوضوء منه إلا جلد الخنزير والآدمي\n\nوشعر الميتة\n\nوعظمها\n\nوعصبها وحافرها وقرنها طاهر\n\nوإذا وقعت في البئر نجاسة نزحت وكان نزح ما فيها من الماء طهارة لها\n\nفإن ماتت فيها فأرة أو عصفورة أو صعوة أو سوادنية أو سام أبرص نزح منها ما بين عشرين دلوا إلى ثلاثين دلوا\n\nبحسب كبر الحيوان وصغره\n\nوإن ماتت فيها حمامة أو دجاجة أو سنور نزح منها ما بين أربعين دلوا إلى ستين\n\nوإن مات فيها كلب أو شاة أو آدمي نزح جميع ما فيها من الماء",
+              "rulingEn": "if impurity falls into one of its sides, ablution from the other side is permissible, because the apparent assumption is that the impurity does not reach it.\n\nThe death of creatures that do not have flowing blood in water does not make it impure, such as bedbugs, flies, wasps, and scorpions. And the death of creatures that live in water does not render it impure, such as fish, frogs, and crabs.\n\nUsed water may not be used for purification from ritual impurities.\n\nUsed water is: any water with which a ritual impurity was removed, or which was used on the body as an act of worship.\n\nEvery hide that has been tanned is purified, and prayer in it and ablution from it are permissible, except the hide of a pig or a human.\n\nThe hair of a dead animal,\n\nits bones,\n\nits sinews, its hooves, and its horns are pure.\n\nWhen impurity falls into a well, it is to be drained, and draining its water constitutes its purification.\n\nIf a mouse, sparrow, swift, or gecko dies in it, between twenty and thirty buckets are to be drawn out,\n\ndepending on the size of the animal.\n\nIf a pigeon, chicken, or cat dies in it, between forty and sixty buckets are to be drawn out.\n\nIf a dog, sheep, or human dies in it, all the water in it is to be drained.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "if impurity falls into one of its sides, ablution from the other side is permissible, because the apparent assumption is that the impurity does not reach it.\n\nThe death of creatures that do not have flowing blood in water does not make it impure, such as bedbugs, flies, wasps, and scorpions. And the death of creatures that live in water does not render it impure, such as fish, frogs, and crabs.\n\nUsed water may not be used for purification from ritual impurities.\n\nUsed water is: any water with which a ritual impurity was removed, or which was used on the body as an act of worship.\n\nEvery hide that has been tanned is purified, and prayer in it and ablution from it are permissible, except the hide of a pig or a human.\n\nThe hair of a dead animal,\n\nits bones,\n\nits sinews, its hooves, and its horns are pure.\n\nWhen impurity falls into a well, it is to be drained, and draining its water constitutes its purification.\n\nIf a mouse, sparrow, swift, or gecko dies in it, between twenty and thirty buckets are to be drawn out,\n\ndepending on the size of the animal.\n\nIf a pigeon, chicken, or cat dies in it, between forty and sixty buckets are to be drawn out.\n\nIf a dog, sheep, or human dies in it, all the water in it is to be drained."
+        },
+        {
+          "id": "taharah-intro-1-5",
+          "babId": "taharah-intro",
+          "kitabId": "taharah",
+          "titleAr": "مقدمة",
+          "titleEn": "Introduction",
+          "order": 5,
+          "textAr": "وإن انتفخ الحيوان فيها أو تفسخ نزح جميع ما فيها من الماء صغر الحيوان أو كبر\n\nوعدد الدلاء يعتبر بالدلو الوسط المستعمل للآبار في البلدان فإن نزح منها بدلو عظيم قدر ما يسع عشرين دلوا من الدلو الوسط احتسب به\n\nوإن كانت البئر معينا لا تنزح ما فيها من الماء أخرجوا مقدار ما كان فيها من الماء وقد روي عن محمد بن الحسن ﵀ عليه أنه قال: ينزح منها مائتا دلو إلى ثلاثمائة دلو\n\nوإذا وجد في البئر أو غيرها ولا يدرون متى وقعت ولم تنتفخ ولم تتفسخ أعادوا صلاة يوم وليلة إذا كانوا توضئوا منها وغسلوا كل شيء أصابه ماءها\n\nوإن كانت انتفخت أو تفسخت أعادوا صلاة ثلاثة أيام ولياليها في قول أبي حنيفة ﵀ وقال أبو يوسف ومحمد رحمهما الله: ليس عليهم إعادة شيء حتى يتحققوا متى وقعت",
+          "sourcePage": 1,
+          "masail": [
+            {
+              "id": "masalah-taharah-intro-1-5",
+              "sectionId": "taharah-intro-1-5",
+              "kitabId": "taharah",
+              "titleAr": "مقدمة",
+              "titleEn": "Introduction",
+              "rulingAr": "وإن انتفخ الحيوان فيها أو تفسخ نزح جميع ما فيها من الماء صغر الحيوان أو كبر\n\nوعدد الدلاء يعتبر بالدلو الوسط المستعمل للآبار في البلدان فإن نزح منها بدلو عظيم قدر ما يسع عشرين دلوا من الدلو الوسط احتسب به\n\nوإن كانت البئر معينا لا تنزح ما فيها من الماء أخرجوا مقدار ما كان فيها من الماء وقد روي عن محمد بن الحسن ﵀ عليه أنه قال: ينزح منها مائتا دلو إلى ثلاثمائة دلو\n\nوإذا وجد في البئر أو غيرها ولا يدرون متى وقعت ولم تنتفخ ولم تتفسخ أعادوا صلاة يوم وليلة إذا كانوا توضئوا منها وغسلوا كل شيء أصابه ماءها\n\nوإن كانت انتفخت أو تفسخت أعادوا صلاة ثلاثة أيام ولياليها في قول أبي حنيفة ﵀ وقال أبو يوسف ومحمد رحمهما الله: ليس عليهم إعادة شيء حتى يتحققوا متى وقعت",
+              "rulingEn": "If the animal has swollen or decomposed in the well, all the water is to be drained, whether the animal was small or large.\n\nThe number of buckets is measured by the medium-sized bucket commonly used for wells in the locality. If a large bucket that holds the equivalent of twenty medium buckets is used, it counts accordingly.\n\nIf the well is a spring that cannot be fully drained, they should draw out the equivalent of what was in it. It has been narrated from Muhammad ibn al-Hasan, may Allah have mercy on him, that he said: Two hundred to three hundred buckets should be drawn from it.\n\nIf a dead creature is found in a well or elsewhere, and they do not know when it fell in, and it has not swollen or decomposed, they should repeat the prayers of one day and one night if they had been performing ablution from it, and wash everything that its water had touched.\n\nIf it had swollen or decomposed, they should repeat the prayers of three days and their nights according to Abu Hanifah, may Allah have mercy on him. Abu Yusuf and Muhammad, may Allah have mercy on them, said: They are not required to repeat anything until they ascertain when it fell in.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "If the animal has swollen or decomposed in the well, all the water is to be drained, whether the animal was small or large.\n\nThe number of buckets is measured by the medium-sized bucket commonly used for wells in the locality. If a large bucket that holds the equivalent of twenty medium buckets is used, it counts accordingly.\n\nIf the well is a spring that cannot be fully drained, they should draw out the equivalent of what was in it. It has been narrated from Muhammad ibn al-Hasan, may Allah have mercy on him, that he said: Two hundred to three hundred buckets should be drawn from it.\n\nIf a dead creature is found in a well or elsewhere, and they do not know when it fell in, and it has not swollen or decomposed, they should repeat the prayers of one day and one night if they had been performing ablution from it, and wash everything that its water had touched.\n\nIf it had swollen or decomposed, they should repeat the prayers of three days and their nights according to Abu Hanifah, may Allah have mercy on him. Abu Yusuf and Muhammad, may Allah have mercy on them, said: They are not required to repeat anything until they ascertain when it fell in."
+        },
+        {
+          "id": "taharah-intro-1-6",
+          "babId": "taharah-intro",
+          "kitabId": "taharah",
+          "titleAr": "مقدمة",
+          "titleEn": "Introduction",
+          "order": 6,
+          "textAr": "وسؤر الآدمي وما يؤكل لحمه طاهر وسؤر الكلب والخنزير وسباع البهائم نجس وسؤر الهرة والدجاجة المخلاة وسباع الطير وما يسكن في البيوت مثل الحية والفأرة مكروه\n\nوسؤر الحمار والبغل مشكوك فيهما فإن لم يجد غيرهما توضأ بهما وتيمم بأيهما بدأ جاز",
+          "sourcePage": 1,
+          "masail": [
+            {
+              "id": "masalah-taharah-intro-1-6",
+              "sectionId": "taharah-intro-1-6",
+              "kitabId": "taharah",
+              "titleAr": "مقدمة",
+              "titleEn": "Introduction",
+              "rulingAr": "وسؤر الآدمي وما يؤكل لحمه طاهر وسؤر الكلب والخنزير وسباع البهائم نجس وسؤر الهرة والدجاجة المخلاة وسباع الطير وما يسكن في البيوت مثل الحية والفأرة مكروه\n\nوسؤر الحمار والبغل مشكوك فيهما فإن لم يجد غيرهما توضأ بهما وتيمم بأيهما بدأ جاز",
+              "rulingEn": "The leftover water of a human and of animals whose meat is eaten is pure. The leftover water of a dog, pig, and predatory beasts is impure. The leftover water of a cat, a free-roaming chicken, predatory birds, and creatures that dwell in houses such as snakes and mice is disliked (makruh).\n\nThe leftover water of a donkey and a mule is of doubtful status. If one finds nothing else, one performs ablution with it and also performs dry ablution (tayammum); whichever one begins with is permissible.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "The leftover water of a human and of animals whose meat is eaten is pure. The leftover water of a dog, pig, and predatory beasts is impure. The leftover water of a cat, a free-roaming chicken, predatory birds, and creatures that dwell in houses such as snakes and mice is disliked (makruh).\n\nThe leftover water of a donkey and a mule is of doubtful status. If one finds nothing else, one performs ablution with it and also performs dry ablution (tayammum); whichever one begins with is permissible."
+        }
+      ]
+    },
+    {
+      "id": "taharah-bab-1",
+      "kitabId": "taharah",
+      "titleAr": "باب التيمم",
+      "titleEn": "Dry Ablution (Tayammum)",
+      "order": 1,
+      "sections": [
+        {
+          "id": "taharah-bab-1-1",
+          "babId": "taharah-bab-1",
+          "kitabId": "taharah",
+          "titleAr": "باب التيمم",
+          "titleEn": "Dry Ablution (Tayammum)",
+          "order": 1,
+          "textAr": "ومن لم يجد الماء وهو مسافر أو خارج المصر بينه وبين المصر نحو الميل أو أكثر\n\nأو كان يجد الماء إلا أنه مريض فخاف إن استعمل الماء اشتد مرضه أو خاف الجنب إن غسل بالماء أن يقتله البرد أو يمرضه فإنه يتيمم بالصعيد\n\nوالتيمم ضربتان:\n\nيمسح بإحداهما وجهه وبالأخرى يديه إلى المرفقين والتيمم من الجنابة والحدث سواء\n\nويجوز التيمم عند أبي حنيفة ومحمد بكل ما كان من جنس الأرض كالتراب والرمل والحجر والجص والنورة والكحل والزرنيخ\n\nوقال أبو يوسف ﵀: لا يجوز إلا بالتراب والرمل خاصة\n\nوالنية فرض في التيمم مستحبة في الوضوء\n\nوينقض التيمم كل شيء ينقض الوضوء وينقضه أيضا رؤية الماء إذا قدر على\n\nاستعماله ولا يجوز التيمم إلا بصعيد طاهر\n\nويستحب لمن لا يجد الماء وهو يرجو أن يجده في آخر الوقت أن يؤخر الصلاة إلى آخر الوقت فإن وجد الماء توضأ به وصلى وإلا تيمم\n\nويصلي بتيممه ما شاء من الفرائض والنوافل\n\nويجوز التيمم للصحيح في المصر إذا حضرت جنازة والولي غيره فخاف إن اشتغل بالطهارة أن تفوته الصلاة فإنه يتيمم ويصلي وكذلك من حضر العيد فخاف إن اشتغل بالطهارة أن تفوته صلاة العيدين فإنه يتيمم ويصلي وإن خاف من شهد الجمعة إن اشتغل بالطهارة أن تفوته صلاة الجمعة لم يتيمم ولكنه يتوضأ فإن أدرك الجمعة صلاها وإلا صلى الظهر أربعا وكذلك إذا ضاق الوقت فخشي إن توضأ قات الوقت لم يتيمم ولكنه يتوضأ ويصلي فائتة\n\nوالمسافر إذا نسي الماء في رحله فتيمم وصلى ثم ذكر الماء في الوقت لم يعد الصلاة عند أبي حنيفة ومحمد رحمهما الله\n\nوقال أبو يوسف: يعيدها\n\nوليس على المتيمم إذا لم يغلب على ظنه أن بقربه ماء أن يطلب الماء فإن غلب على ظنه أن هناك ماء لم يجز له أن يتيمم حتى يطلبه وإن كان مع رفيقه ماء طلبه منه قبل أن يتيمم فإن منعه منه تيمم وصلى",
+          "sourcePage": 1,
+          "masail": [
+            {
+              "id": "masalah-taharah-bab-1-1",
+              "sectionId": "taharah-bab-1-1",
+              "kitabId": "taharah",
+              "titleAr": "باب التيمم",
+              "titleEn": "Dry Ablution (Tayammum)",
+              "rulingAr": "ومن لم يجد الماء وهو مسافر أو خارج المصر بينه وبين المصر نحو الميل أو أكثر\n\nأو كان يجد الماء إلا أنه مريض فخاف إن استعمل الماء اشتد مرضه أو خاف الجنب إن غسل بالماء أن يقتله البرد أو يمرضه فإنه يتيمم بالصعيد\n\nوالتيمم ضربتان:\n\nيمسح بإحداهما وجهه وبالأخرى يديه إلى المرفقين والتيمم من الجنابة والحدث سواء\n\nويجوز التيمم عند أبي حنيفة ومحمد بكل ما كان من جنس الأرض كالتراب والرمل والحجر والجص والنورة والكحل والزرنيخ\n\nوقال أبو يوسف ﵀: لا يجوز إلا بالتراب والرمل خاصة\n\nوالنية فرض في التيمم مستحبة في الوضوء\n\nوينقض التيمم كل شيء ينقض الوضوء وينقضه أيضا رؤية الماء إذا قدر على\n\nاستعماله ولا يجوز التيمم إلا بصعيد طاهر\n\nويستحب لمن لا يجد الماء وهو يرجو أن يجده في آخر الوقت أن يؤخر الصلاة إلى آخر الوقت فإن وجد الماء توضأ به وصلى وإلا تيمم\n\nويصلي بتيممه ما شاء من الفرائض والنوافل\n\nويجوز التيمم للصحيح في المصر إذا حضرت جنازة والولي غيره فخاف إن اشتغل بالطهارة أن تفوته الصلاة فإنه يتيمم ويصلي وكذلك من حضر العيد فخاف إن اشتغل بالطهارة أن تفوته صلاة العيدين فإنه يتيمم ويصلي وإن خاف من شهد الجمعة إن اشتغل بالطهارة أن تفوته صلاة الجمعة لم يتيمم ولكنه يتوضأ فإن أدرك الجمعة صلاها وإلا صلى الظهر أربعا وكذلك إذا ضاق الوقت فخشي إن توضأ قات الوقت لم يتيمم ولكنه يتوضأ ويصلي فائتة\n\nوالمسافر إذا نسي الماء في رحله فتيمم وصلى ثم ذكر الماء في الوقت لم يعد الصلاة عند أبي حنيفة ومحمد رحمهما الله\n\nوقال أبو يوسف: يعيدها\n\nوليس على المتيمم إذا لم يغلب على ظنه أن بقربه ماء أن يطلب الماء فإن غلب على ظنه أن هناك ماء لم يجز له أن يتيمم حتى يطلبه وإن كان مع رفيقه ماء طلبه منه قبل أن يتيمم فإن منعه منه تيمم وصلى",
+              "rulingEn": "Whoever cannot find water and is a traveler, or is outside the city with approximately a mile or more between him and the city,\n\nor can find water but is ill and fears that using water will worsen his illness, or the one in a state of major ritual impurity fears that washing with water will kill him from the cold or make him ill, then he performs dry ablution (tayammum) with clean earth.\n\nTayammum consists of two strikes:\n\nWith one he wipes his face, and with the other he wipes his arms up to the elbows. Tayammum for major and minor ritual impurity is the same.\n\nTayammum is permissible, according to Abu Hanifah and Muhammad, with anything that is of the genus of earth, such as soil, sand, stone, gypsum, calciumite, antimony, and arsite.\n\nAbu Yusuf, may Allah have mercy on him, said: It is only permissible with soil and sand specifically.\n\nIntention is obligatory in tayammum but recommended in ablution.\n\nEverything that nullifies ablution also nullifies tayammum, and it is additionally nullified by seeing water when one is able to use it. Tayammum is only permissible with pure clean earth.\n\nIt is recommended for one who cannot find water but expects to find it at the end of the prayer time to delay the prayer to the end of the time. If he finds water, he performs ablution and prays; otherwise, he performs tayammum.\n\nOne may pray with a single tayammum as many obligatory and voluntary prayers as one wishes.\n\nTayammum is permissible for a healthy person within the city if a funeral is present and the guardian is someone else, and he fears that if he occupies himself with ablution the funeral prayer will pass him by -- he may perform tayammum and pray. Likewise, one who is present for the Eid prayer and fears that if he occupies himself with ablution the Eid prayer will pass him by -- he may perform tayammum and pray. However, if one attending the Friday prayer fears that occupying himself with ablution will cause him to miss the Friday prayer, he does not perform tayammum; rather he performs ablution, and if he catches the Friday prayer he prays it, otherwise he prays the Zuhr prayer as four units. Similarly, if the prayer time becomes tight and he fears that performing ablution will cause the time to expire, he does not perform tayammum; rather he performs ablution and prays it as a make-up prayer.\n\nIf a traveler forgets the water in his luggage and performs tayammum and prays, then remembers the water while still within the prayer time, he does not repeat the prayer according to Abu Hanifah and Muhammad, may Allah have mercy on them.\n\nAbu Yusuf said: He must repeat it.\n\nThe one performing tayammum, if he does not have a prevailing assumption that water is nearby, is not required to search for water. But if he has a prevailing assumption that water is nearby, he may not perform tayammum until he searches for it. If his companion has water, he should ask him for it before performing tayammum; if the companion refuses, he performs tayammum and prays.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "Whoever cannot find water and is a traveler, or is outside the city with approximately a mile or more between him and the city,\n\nor can find water but is ill and fears that using water will worsen his illness, or the one in a state of major ritual impurity fears that washing with water will kill him from the cold or make him ill, then he performs dry ablution (tayammum) with clean earth.\n\nTayammum consists of two strikes:\n\nWith one he wipes his face, and with the other he wipes his arms up to the elbows. Tayammum for major and minor ritual impurity is the same.\n\nTayammum is permissible, according to Abu Hanifah and Muhammad, with anything that is of the genus of earth, such as soil, sand, stone, gypsum, calciumite, antimony, and arsite.\n\nAbu Yusuf, may Allah have mercy on him, said: It is only permissible with soil and sand specifically.\n\nIntention is obligatory in tayammum but recommended in ablution.\n\nEverything that nullifies ablution also nullifies tayammum, and it is additionally nullified by seeing water when one is able to use it. Tayammum is only permissible with pure clean earth.\n\nIt is recommended for one who cannot find water but expects to find it at the end of the prayer time to delay the prayer to the end of the time. If he finds water, he performs ablution and prays; otherwise, he performs tayammum.\n\nOne may pray with a single tayammum as many obligatory and voluntary prayers as one wishes.\n\nTayammum is permissible for a healthy person within the city if a funeral is present and the guardian is someone else, and he fears that if he occupies himself with ablution the funeral prayer will pass him by -- he may perform tayammum and pray. Likewise, one who is present for the Eid prayer and fears that if he occupies himself with ablution the Eid prayer will pass him by -- he may perform tayammum and pray. However, if one attending the Friday prayer fears that occupying himself with ablution will cause him to miss the Friday prayer, he does not perform tayammum; rather he performs ablution, and if he catches the Friday prayer he prays it, otherwise he prays the Zuhr prayer as four units. Similarly, if the prayer time becomes tight and he fears that performing ablution will cause the time to expire, he does not perform tayammum; rather he performs ablution and prays it as a make-up prayer.\n\nIf a traveler forgets the water in his luggage and performs tayammum and prays, then remembers the water while still within the prayer time, he does not repeat the prayer according to Abu Hanifah and Muhammad, may Allah have mercy on them.\n\nAbu Yusuf said: He must repeat it.\n\nThe one performing tayammum, if he does not have a prevailing assumption that water is nearby, is not required to search for water. But if he has a prevailing assumption that water is nearby, he may not perform tayammum until he searches for it. If his companion has water, he should ask him for it before performing tayammum; if the companion refuses, he performs tayammum and prays."
+        }
+      ]
+    },
+    {
+      "id": "taharah-bab-2",
+      "kitabId": "taharah",
+      "titleAr": "باب المسح على الخفين",
+      "titleEn": "Wiping Over Leather Socks",
+      "order": 2,
+      "sections": [
+        {
+          "id": "taharah-bab-2-1",
+          "babId": "taharah-bab-2",
+          "kitabId": "taharah",
+          "titleAr": "باب المسح على الخفين",
+          "titleEn": "Wiping Over Leather Socks",
+          "order": 1,
+          "textAr": "المسح على الخفين جائز بالسنة من كل حدث موجب للوضوء إذا لبس الخفين على طهارة كاملة ثم أحدث\n\nفإن كان مقيما مسح يوما وليلة وإن كان مسافرا مسح ثلاثة أيام ولياليها وابتداؤها عقيب الحدث\n\nوالمسح على الخفين على ظاهرهما خطوطا بالأصابع يبدأ من رؤوس أصابع الرجل إلى الساق\n\nوفرض ذلك مقدار ثلاث أصابع من أصغر أصابع اليد\n\nولا يجوز المسح على خف فيه خرق كبير يبين منه مقدار ثلاث أصابع من أصابع الرجل وإن كان أقل من ذلك جاز\n\nولا يجوز المسح على الخفين لمن وجب عليه الغسل\n\nونقض المسح ما ينقض الوضوء وينقضه أيضا نزع الخف ومضي المدة فإذا مضت المدة نزع خفيه وغسل رجليه وصلى وليس عيه إعادة بقيه الوضوء\n\nومن ابتدأ المسح وهو مقيم فسافر قبل تمام يوم وليلة مسح ثلاثة أيام ولياليها ومن ابتدأ المسح وهو مسافر ثم أقام فإن كان مسح يوما وليلة أو أكثر لزمه نزع خفيه وغسل رجليه وإن كان مسح أقل من يوم وليلة تمم مسح يوم وليلة\n\nومن لبس الجرموق فوق الخف مسح عليه\n\nولا يجوز المسح على الجوربين عند أبي حنيفة ﵀\n\nإلا أن يكونا منعلين أو مجلدين وقال أبو يوسف ومحمد رحمهما الله: يجوز المسح على الجوربين إذا كانا ثخينين لا يشفان الماء\n\nولا يجوز المسح على العمامة والقلنسوة والبرقع والقفازين\n\nويجوز المسح على الجبائر وإن شدها على غير وضوء فإن سقطت عن غير برء لم يبطل المسح وإن سقطت عن برء بطل المسح",
+          "sourcePage": 1,
+          "masail": [
+            {
+              "id": "masalah-taharah-bab-2-1",
+              "sectionId": "taharah-bab-2-1",
+              "kitabId": "taharah",
+              "titleAr": "باب المسح على الخفين",
+              "titleEn": "Wiping Over Leather Socks",
+              "rulingAr": "المسح على الخفين جائز بالسنة من كل حدث موجب للوضوء إذا لبس الخفين على طهارة كاملة ثم أحدث\n\nفإن كان مقيما مسح يوما وليلة وإن كان مسافرا مسح ثلاثة أيام ولياليها وابتداؤها عقيب الحدث\n\nوالمسح على الخفين على ظاهرهما خطوطا بالأصابع يبدأ من رؤوس أصابع الرجل إلى الساق\n\nوفرض ذلك مقدار ثلاث أصابع من أصغر أصابع اليد\n\nولا يجوز المسح على خف فيه خرق كبير يبين منه مقدار ثلاث أصابع من أصابع الرجل وإن كان أقل من ذلك جاز\n\nولا يجوز المسح على الخفين لمن وجب عليه الغسل\n\nونقض المسح ما ينقض الوضوء وينقضه أيضا نزع الخف ومضي المدة فإذا مضت المدة نزع خفيه وغسل رجليه وصلى وليس عيه إعادة بقيه الوضوء\n\nومن ابتدأ المسح وهو مقيم فسافر قبل تمام يوم وليلة مسح ثلاثة أيام ولياليها ومن ابتدأ المسح وهو مسافر ثم أقام فإن كان مسح يوما وليلة أو أكثر لزمه نزع خفيه وغسل رجليه وإن كان مسح أقل من يوم وليلة تمم مسح يوم وليلة\n\nومن لبس الجرموق فوق الخف مسح عليه\n\nولا يجوز المسح على الجوربين عند أبي حنيفة ﵀\n\nإلا أن يكونا منعلين أو مجلدين وقال أبو يوسف ومحمد رحمهما الله: يجوز المسح على الجوربين إذا كانا ثخينين لا يشفان الماء\n\nولا يجوز المسح على العمامة والقلنسوة والبرقع والقفازين\n\nويجوز المسح على الجبائر وإن شدها على غير وضوء فإن سقطت عن غير برء لم يبطل المسح وإن سقطت عن برء بطل المسح",
+              "rulingEn": "Wiping over the leather socks (khuffayn) is permissible according to the Sunnah for every minor ritual impurity requiring ablution, provided one put on the leather socks while in a state of complete purification and then subsequently broke one's ablution.\n\nIf one is a resident, one may wipe for one day and one night; if one is a traveler, one may wipe for three days and their nights. The period begins from the occurrence of the ritual impurity after putting them on.\n\nWiping over the leather socks is done on their upper surface in lines with the fingers, beginning from the tips of the toes up to the shins.\n\nThe obligatory minimum is the area of three fingers from the smallest fingers of the hand.\n\nWiping is not permissible on a leather sock that has a large hole exposing the equivalent of three toes. If it is less than that, it is permissible.\n\nWiping over the leather socks is not permissible for one who is obligated to perform the ritual bath (ghusl).\n\nWhat nullifies wiping is everything that nullifies ablution, and it is additionally nullified by removing the leather sock and by the expiration of the wiping period. When the period expires, one removes the leather socks, washes one's feet, and prays, without needing to repeat the rest of the ablution.\n\nOne who begins wiping as a resident and then travels before the completion of one day and one night may wipe for three days and their nights. One who begins wiping as a traveler and then becomes a resident: if he has wiped for one day and one night or more, he must remove his leather socks and wash his feet; if he has wiped for less than one day and one night, he completes the wiping of one day and one night.\n\nOne who wears an outer boot (jurmūq) over the leather sock may wipe over it.\n\nWiping over fabric socks (jawrabayn) is not permissible according to Abu Hanifah, may Allah have mercy on him,\n\nunless they are soled or leather-lined. Abu Yusuf and Muhammad, may Allah have mercy on them, said: Wiping over fabric socks is permissible if they are thick enough that water does not seep through.\n\nWiping over the turban, cap, face-veil, and gloves is not permissible.\n\nWiping over splints is permissible, even if they were applied without ablution. If the splint falls off before healing, the wiping is not invalidated. If it falls off after healing, the wiping is invalidated.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "Wiping over the leather socks (khuffayn) is permissible according to the Sunnah for every minor ritual impurity requiring ablution, provided one put on the leather socks while in a state of complete purification and then subsequently broke one's ablution.\n\nIf one is a resident, one may wipe for one day and one night; if one is a traveler, one may wipe for three days and their nights. The period begins from the occurrence of the ritual impurity after putting them on.\n\nWiping over the leather socks is done on their upper surface in lines with the fingers, beginning from the tips of the toes up to the shins.\n\nThe obligatory minimum is the area of three fingers from the smallest fingers of the hand.\n\nWiping is not permissible on a leather sock that has a large hole exposing the equivalent of three toes. If it is less than that, it is permissible.\n\nWiping over the leather socks is not permissible for one who is obligated to perform the ritual bath (ghusl).\n\nWhat nullifies wiping is everything that nullifies ablution, and it is additionally nullified by removing the leather sock and by the expiration of the wiping period. When the period expires, one removes the leather socks, washes one's feet, and prays, without needing to repeat the rest of the ablution.\n\nOne who begins wiping as a resident and then travels before the completion of one day and one night may wipe for three days and their nights. One who begins wiping as a traveler and then becomes a resident: if he has wiped for one day and one night or more, he must remove his leather socks and wash his feet; if he has wiped for less than one day and one night, he completes the wiping of one day and one night.\n\nOne who wears an outer boot (jurmūq) over the leather sock may wipe over it.\n\nWiping over fabric socks (jawrabayn) is not permissible according to Abu Hanifah, may Allah have mercy on him,\n\nunless they are soled or leather-lined. Abu Yusuf and Muhammad, may Allah have mercy on them, said: Wiping over fabric socks is permissible if they are thick enough that water does not seep through.\n\nWiping over the turban, cap, face-veil, and gloves is not permissible.\n\nWiping over splints is permissible, even if they were applied without ablution. If the splint falls off before healing, the wiping is not invalidated. If it falls off after healing, the wiping is invalidated."
+        }
+      ]
+    },
+    {
+      "id": "taharah-bab-3",
+      "kitabId": "taharah",
+      "titleAr": "باب الحيض",
+      "titleEn": "Menstruation",
+      "order": 3,
+      "sections": [
+        {
+          "id": "taharah-bab-3-1-1",
+          "babId": "taharah-bab-3",
+          "kitabId": "taharah",
+          "titleAr": "باب الحيض",
+          "titleEn": "Menstruation",
+          "order": 1,
+          "textAr": "أقل الحيض ثلاثة أيام ولياليها\n\nوما نقض عن ذلك فليس بحيض وهو استحاضة\n\nوأكثر الحيض عشرة أيام ولياليها وما زاد على ذلك فهو استحاضة\n\nوما تراه المرأة من الحمرة والصفرة والكدرة في أيام الحيض فهو حيض حتى ترى البياض الخالص\n\nوالحيض يسقط عن الحائض الصلاة ويحرم عليها الصوم وتقضي الصوم ولا تضي الصلاة ولا تدخل المسجد ولا تطوف بالبيت ولا يأتيها زوجها\n\nولا يجوز لحائض ولا جنب قراءة القرآن\n\nولا يجوز لمحدث مس المصحف إلا أن يأخذه بغلافه\n\nوإذا انقطع دم الحيض لأقل من عشرة أيام لم يجز وطؤها حتى تغتسل أو يمضي عليها وقت صلاة كامل فإن انقطع دمها لعشرة أيام جاز وطؤها قبل الغسل\n\nوالطهر إذا تخلل بين الدمين في مدة الحيض فهو كالدم الجاري\n\nوأقل الطهر خمسة عشر يوما ولا غاية لأكثره\n\nودم الإستحاضة هو ما تراه المرأة أقل من ثلاثة أيام أو أكثر من عشرة أيام فحكمه حكم الرعاف الدائم: لا يمنع الصوم ولا الصلاة ولا الوطء",
+          "sourcePage": 2,
+          "masail": [
+            {
+              "id": "masalah-taharah-bab-3-1-1",
+              "sectionId": "taharah-bab-3-1-1",
+              "kitabId": "taharah",
+              "titleAr": "باب الحيض",
+              "titleEn": "Menstruation",
+              "rulingAr": "أقل الحيض ثلاثة أيام ولياليها\n\nوما نقض عن ذلك فليس بحيض وهو استحاضة\n\nوأكثر الحيض عشرة أيام ولياليها وما زاد على ذلك فهو استحاضة\n\nوما تراه المرأة من الحمرة والصفرة والكدرة في أيام الحيض فهو حيض حتى ترى البياض الخالص\n\nوالحيض يسقط عن الحائض الصلاة ويحرم عليها الصوم وتقضي الصوم ولا تضي الصلاة ولا تدخل المسجد ولا تطوف بالبيت ولا يأتيها زوجها\n\nولا يجوز لحائض ولا جنب قراءة القرآن\n\nولا يجوز لمحدث مس المصحف إلا أن يأخذه بغلافه\n\nوإذا انقطع دم الحيض لأقل من عشرة أيام لم يجز وطؤها حتى تغتسل أو يمضي عليها وقت صلاة كامل فإن انقطع دمها لعشرة أيام جاز وطؤها قبل الغسل\n\nوالطهر إذا تخلل بين الدمين في مدة الحيض فهو كالدم الجاري\n\nوأقل الطهر خمسة عشر يوما ولا غاية لأكثره\n\nودم الإستحاضة هو ما تراه المرأة أقل من ثلاثة أيام أو أكثر من عشرة أيام فحكمه حكم الرعاف الدائم: لا يمنع الصوم ولا الصلاة ولا الوطء",
+              "rulingEn": "The minimum duration of menstruation is three days and their nights.\n\nAnything less than that is not menstruation but rather irregular bleeding (istihādah).\n\nThe maximum duration of menstruation is ten days and their nights, and anything beyond that is irregular bleeding.\n\nWhatever a woman sees of redness, yellowness, or muddiness during her menstrual days is considered menstruation, until she sees pure white discharge.\n\nMenstruation exempts the menstruating woman from prayer and forbids her from fasting. She makes up the fasts but does not make up the prayers. She may not enter the mosque, nor circumambulate the House (Ka'bah), nor may her husband have intercourse with her.\n\nNeither a menstruating woman nor one in a state of major ritual impurity (junub) may recite the Quran.\n\nOne who is in a state of minor ritual impurity may not touch the written copy of the Quran (mushaf), unless he takes it with its cover.\n\nIf menstrual bleeding stops before ten days, intercourse is not permissible until she performs the ritual bath, or until the time of one complete prayer has passed over her. If her bleeding stops at ten days, intercourse is permissible before the ritual bath.\n\nPurity that intervenes between two periods of bleeding within the menstrual duration is considered as continuous bleeding.\n\nThe minimum duration of purity between two menstrual periods is fifteen days, and there is no maximum limit.\n\nIrregular bleeding (istihādah) is blood that a woman sees for less than three days or more than ten days. Its ruling is like that of a constant nosebleed: it does not prevent fasting, prayer, or intercourse.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "The minimum duration of menstruation is three days and their nights.\n\nAnything less than that is not menstruation but rather irregular bleeding (istihādah).\n\nThe maximum duration of menstruation is ten days and their nights, and anything beyond that is irregular bleeding.\n\nWhatever a woman sees of redness, yellowness, or muddiness during her menstrual days is considered menstruation, until she sees pure white discharge.\n\nMenstruation exempts the menstruating woman from prayer and forbids her from fasting. She makes up the fasts but does not make up the prayers. She may not enter the mosque, nor circumambulate the House (Ka'bah), nor may her husband have intercourse with her.\n\nNeither a menstruating woman nor one in a state of major ritual impurity (junub) may recite the Quran.\n\nOne who is in a state of minor ritual impurity may not touch the written copy of the Quran (mushaf), unless he takes it with its cover.\n\nIf menstrual bleeding stops before ten days, intercourse is not permissible until she performs the ritual bath, or until the time of one complete prayer has passed over her. If her bleeding stops at ten days, intercourse is permissible before the ritual bath.\n\nPurity that intervenes between two periods of bleeding within the menstrual duration is considered as continuous bleeding.\n\nThe minimum duration of purity between two menstrual periods is fifteen days, and there is no maximum limit.\n\nIrregular bleeding (istihādah) is blood that a woman sees for less than three days or more than ten days. Its ruling is like that of a constant nosebleed: it does not prevent fasting, prayer, or intercourse."
+        },
+        {
+          "id": "taharah-bab-3-1-2",
+          "babId": "taharah-bab-3",
+          "kitabId": "taharah",
+          "titleAr": "باب الحيض",
+          "titleEn": "Menstruation",
+          "order": 2,
+          "textAr": "وإذا زاد الدم على عشرة أيام وللمرأة عادة\n\nمعروفة ردت إلى أيام عادتها وما زاد على ذلك فهو استحاضة وإن ابتدأت مع البلوغ مستحاضة فيحضها عشرة أيام من كل شهر والباقي استحاضة\n\nوالمستحاضة ومن به سلس البول والرعاف الدائم والجرح الذي لا يزقلأ يتوضئون لوقت كل صلاة فيصلون بذلك الوضوء في الوقت ما شاءوا من الفرائض والنوافل فإذا خرج الوقت بطل وضوءهم وكان عليهم استئناف الوضوء لصلاة أخرى\n\nوالنفاس: هو الدم الخارج عقيب الولادة والدم الذي تراه الحامل وما تره المرأة في حال ولادتها قبل خروج الولد استحاضة\n\nوأقل النفاس لا حد له وأكثره أربعون يوما وما زاد على ذلك فهو استحاضة وإذا تجاوز الدم الأربعين وقد كانت هذه المرأة ولدت قبل ذلك ولها عادة في النفاس ردت إلى أيام عادتها وإن لم لها عادة فابتدأ نفاسها أربعون يوما ومن ولدت ولدين في بطن واحد",
+          "sourcePage": 2,
+          "masail": [
+            {
+              "id": "masalah-taharah-bab-3-1-2",
+              "sectionId": "taharah-bab-3-1-2",
+              "kitabId": "taharah",
+              "titleAr": "باب الحيض",
+              "titleEn": "Menstruation",
+              "rulingAr": "وإذا زاد الدم على عشرة أيام وللمرأة عادة\n\nمعروفة ردت إلى أيام عادتها وما زاد على ذلك فهو استحاضة وإن ابتدأت مع البلوغ مستحاضة فيحضها عشرة أيام من كل شهر والباقي استحاضة\n\nوالمستحاضة ومن به سلس البول والرعاف الدائم والجرح الذي لا يزقلأ يتوضئون لوقت كل صلاة فيصلون بذلك الوضوء في الوقت ما شاءوا من الفرائض والنوافل فإذا خرج الوقت بطل وضوءهم وكان عليهم استئناف الوضوء لصلاة أخرى\n\nوالنفاس: هو الدم الخارج عقيب الولادة والدم الذي تراه الحامل وما تره المرأة في حال ولادتها قبل خروج الولد استحاضة\n\nوأقل النفاس لا حد له وأكثره أربعون يوما وما زاد على ذلك فهو استحاضة وإذا تجاوز الدم الأربعين وقد كانت هذه المرأة ولدت قبل ذلك ولها عادة في النفاس ردت إلى أيام عادتها وإن لم لها عادة فابتدأ نفاسها أربعون يوما ومن ولدت ولدين في بطن واحد",
+              "rulingEn": "If the bleeding exceeds ten days and the woman has a known regular cycle,\n\nshe is referred back to her habitual days, and what exceeds that is irregular bleeding. If she began experiencing irregular bleeding from the onset of puberty, her menstruation is ten days of each month and the rest is irregular bleeding.\n\nThe woman with irregular bleeding, the one suffering from urinary incontinence, the one with a constant nosebleed, and the one with an unceasing wound -- each of them performs ablution for the time of each prayer, and they may pray with that ablution during that time whatever they wish of obligatory and voluntary prayers. When the prayer time expires, their ablution becomes invalid, and they must perform a fresh ablution for the next prayer.\n\nPost-natal bleeding (nifas): It is the blood that exits following childbirth. The blood that a pregnant woman sees, and what a woman sees during labor before the emergence of the child, is irregular bleeding.\n\nThere is no minimum duration for post-natal bleeding, and its maximum is forty days. What exceeds that is irregular bleeding. If the blood exceeds forty days and the woman had previously given birth and had a known post-natal bleeding habit, she is referred back to her habitual days. If she had no previous habit, then the default for her post-natal bleeding is forty days. If a woman gives birth to twins in a single pregnancy,",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "If the bleeding exceeds ten days and the woman has a known regular cycle,\n\nshe is referred back to her habitual days, and what exceeds that is irregular bleeding. If she began experiencing irregular bleeding from the onset of puberty, her menstruation is ten days of each month and the rest is irregular bleeding.\n\nThe woman with irregular bleeding, the one suffering from urinary incontinence, the one with a constant nosebleed, and the one with an unceasing wound -- each of them performs ablution for the time of each prayer, and they may pray with that ablution during that time whatever they wish of obligatory and voluntary prayers. When the prayer time expires, their ablution becomes invalid, and they must perform a fresh ablution for the next prayer.\n\nPost-natal bleeding (nifas): It is the blood that exits following childbirth. The blood that a pregnant woman sees, and what a woman sees during labor before the emergence of the child, is irregular bleeding.\n\nThere is no minimum duration for post-natal bleeding, and its maximum is forty days. What exceeds that is irregular bleeding. If the blood exceeds forty days and the woman had previously given birth and had a known post-natal bleeding habit, she is referred back to her habitual days. If she had no previous habit, then the default for her post-natal bleeding is forty days. If a woman gives birth to twins in a single pregnancy,"
+        },
+        {
+          "id": "taharah-bab-3-1-3",
+          "babId": "taharah-bab-3",
+          "kitabId": "taharah",
+          "titleAr": "باب الحيض",
+          "titleEn": "Menstruation",
+          "order": 3,
+          "textAr": "فنفاسها ما خرج من الدم عقيب الولد الأول عند أبي حنيفة وأبي يوسف وقال محمد وزفر: نفاسها ما خرج من الدم عقيب الولد الثاني",
+          "sourcePage": 2,
+          "masail": [
+            {
+              "id": "masalah-taharah-bab-3-1-3",
+              "sectionId": "taharah-bab-3-1-3",
+              "kitabId": "taharah",
+              "titleAr": "باب الحيض",
+              "titleEn": "Menstruation",
+              "rulingAr": "فنفاسها ما خرج من الدم عقيب الولد الأول عند أبي حنيفة وأبي يوسف وقال محمد وزفر: نفاسها ما خرج من الدم عقيب الولد الثاني",
+              "rulingEn": "her post-natal bleeding is counted from the blood that exits after the first child, according to Abu Hanifah and Abu Yusuf. Muhammad and Zufar said: Her post-natal bleeding is counted from the blood that exits after the second child.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "her post-natal bleeding is counted from the blood that exits after the first child, according to Abu Hanifah and Abu Yusuf. Muhammad and Zufar said: Her post-natal bleeding is counted from the blood that exits after the second child."
+        }
+      ]
+    },
+    {
+      "id": "taharah-bab-4",
+      "kitabId": "taharah",
+      "titleAr": "باب الأنجاس",
+      "titleEn": "Impurities",
+      "order": 4,
+      "sections": [
+        {
+          "id": "taharah-bab-4-1",
+          "babId": "taharah-bab-4",
+          "kitabId": "taharah",
+          "titleAr": "باب الأنجاس",
+          "titleEn": "Impurities",
+          "order": 1,
+          "textAr": "تطهير النجاسة واجب من بدن المصلي وثوبه\n\nوالمكان الذي يصلي عليه\n\nويجوز تطهير النجاسة بالماء وبكل مائع طاهر يمكن إزالتها به كالخل وماء الورد\n\nوإذا أصابت الخف نجاسة ولها جرم فجفت فدلكه بالأرض جاز\n\nوالمني نجس يجب غسل رطبه فإذا جف على الثوب أجزأ فيه الفرك\n\nوالنجاسة إذا أصابت المرآة أو السيف اكتفي بمسحهما\n\nوإذا أصابت الأرض نجاسة فجفت بالشمس وذهب أثرها جازت الصلاة بمكانها ولا يجوز التيمم منها\n\nومن أصابه من النجاسة المغلظة كالدم والبول والغائط والخمر مقدار الدرهم فما دونه جازت الصلاة معه فإن زاد لم تجز وإن أصابته نجاسة مخففة كبول ما يؤكل لحمه\n\nجازت الصلاة معه ما لم يبلغ ربع الثوب\n\nوتطهير النجاسة التي يجب غسلها على وجهين:\n\nفما كان له منها مرئية زوال عينها إلا أن يبقى من أثرها ما يشق إزالته وما ليس له عني مرئية فطهارتها أن يغسل حتى يغلب على ظن الغاسل أنه قد طهر\n\nوالاستنجاء سنة يجزي فيها الحجر وما يقوم مقامه يمسحه حتى ينقه وليس فيه عدد مسنون وغسله بالماء أفضل فإن تجاوزت النجاسة مخرجها لم يجز فيه إلا الماء ولا يستنجي بعظم ولا بروث ولا بطعام ولا\n\nبيمينه إلا بعذر",
+          "sourcePage": 2,
+          "masail": [
+            {
+              "id": "masalah-taharah-bab-4-1",
+              "sectionId": "taharah-bab-4-1",
+              "kitabId": "taharah",
+              "titleAr": "باب الأنجاس",
+              "titleEn": "Impurities",
+              "rulingAr": "تطهير النجاسة واجب من بدن المصلي وثوبه\n\nوالمكان الذي يصلي عليه\n\nويجوز تطهير النجاسة بالماء وبكل مائع طاهر يمكن إزالتها به كالخل وماء الورد\n\nوإذا أصابت الخف نجاسة ولها جرم فجفت فدلكه بالأرض جاز\n\nوالمني نجس يجب غسل رطبه فإذا جف على الثوب أجزأ فيه الفرك\n\nوالنجاسة إذا أصابت المرآة أو السيف اكتفي بمسحهما\n\nوإذا أصابت الأرض نجاسة فجفت بالشمس وذهب أثرها جازت الصلاة بمكانها ولا يجوز التيمم منها\n\nومن أصابه من النجاسة المغلظة كالدم والبول والغائط والخمر مقدار الدرهم فما دونه جازت الصلاة معه فإن زاد لم تجز وإن أصابته نجاسة مخففة كبول ما يؤكل لحمه\n\nجازت الصلاة معه ما لم يبلغ ربع الثوب\n\nوتطهير النجاسة التي يجب غسلها على وجهين:\n\nفما كان له منها مرئية زوال عينها إلا أن يبقى من أثرها ما يشق إزالته وما ليس له عني مرئية فطهارتها أن يغسل حتى يغلب على ظن الغاسل أنه قد طهر\n\nوالاستنجاء سنة يجزي فيها الحجر وما يقوم مقامه يمسحه حتى ينقه وليس فيه عدد مسنون وغسله بالماء أفضل فإن تجاوزت النجاسة مخرجها لم يجز فيه إلا الماء ولا يستنجي بعظم ولا بروث ولا بطعام ولا\n\nبيمينه إلا بعذر",
+              "rulingEn": "Purifying impurity is obligatory from the body of the one praying, his garment,\n\nand the place upon which he prays.\n\nIt is permissible to purify impurity with water and with every pure liquid capable of removing it, such as vinegar and rosewater.\n\nIf impurity with a physical substance strikes a leather sock and dries, then rubbing it on the ground suffices.\n\nSemen is impure; its wet form must be washed. If it dries on a garment, scraping it off suffices.\n\nIf impurity strikes a mirror or sword, wiping them suffices.\n\nIf impurity strikes the ground and dries by the sun and its trace disappears, prayer on that spot is permissible, but tayammum from that earth is not permissible.\n\nIf a person is affected by a heavy impurity -- such as blood, urine, feces, or wine -- in an amount equal to a dirham coin or less, prayer with it is permissible. If it exceeds that, prayer is not permissible. If a light impurity affects him, such as the urine of animals whose meat is eaten,\n\nprayer with it is permissible as long as it does not reach a quarter of the garment.\n\nPurifying impurity that must be washed is of two types:\n\nAs for impurity that has a visible trace, its purification is the removal of its substance, except for a remaining trace that is difficult to remove. As for impurity that has no visible trace, its purification is to wash it until the one washing has a prevailing assumption that it has become pure.\n\nCleansing after relieving oneself (istinja) is a sunnah. Stones or their equivalent suffice for it -- one wipes until clean -- and there is no prescribed number. Washing with water is better. If the impurity has spread beyond its point of exit, only water suffices. One should not perform istinja with a bone, dung, food, or with the right hand except out of necessity.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "Purifying impurity is obligatory from the body of the one praying, his garment,\n\nand the place upon which he prays.\n\nIt is permissible to purify impurity with water and with every pure liquid capable of removing it, such as vinegar and rosewater.\n\nIf impurity with a physical substance strikes a leather sock and dries, then rubbing it on the ground suffices.\n\nSemen is impure; its wet form must be washed. If it dries on a garment, scraping it off suffices.\n\nIf impurity strikes a mirror or sword, wiping them suffices.\n\nIf impurity strikes the ground and dries by the sun and its trace disappears, prayer on that spot is permissible, but tayammum from that earth is not permissible.\n\nIf a person is affected by a heavy impurity -- such as blood, urine, feces, or wine -- in an amount equal to a dirham coin or less, prayer with it is permissible. If it exceeds that, prayer is not permissible. If a light impurity affects him, such as the urine of animals whose meat is eaten,\n\nprayer with it is permissible as long as it does not reach a quarter of the garment.\n\nPurifying impurity that must be washed is of two types:\n\nAs for impurity that has a visible trace, its purification is the removal of its substance, except for a remaining trace that is difficult to remove. As for impurity that has no visible trace, its purification is to wash it until the one washing has a prevailing assumption that it has become pure.\n\nCleansing after relieving oneself (istinja) is a sunnah. Stones or their equivalent suffice for it -- one wipes until clean -- and there is no prescribed number. Washing with water is better. If the impurity has spread beyond its point of exit, only water suffices. One should not perform istinja with a bone, dung, food, or with the right hand except out of necessity."
+        }
+      ]
+    }
+  ]
+}

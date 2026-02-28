@@ -1,0 +1,53 @@
+========================================
+=== Processing: 108911-52-54 ===
+=== Started: Mon Feb 23 17:47:26 GMT 2026 ===
+=== PDF: /Users/miftah/projects/alqalam-tools/data/stories/108911-52-54.pdf ===
+=== Working dir: /Users/miftah/projects/alqalam-tools/data/stories/108911-50-51 ===
+========================================
+
+[OK] PDF file exists
+[INFO] PDF size: 29K
+
+[INFO] Changed to directory: /Users/miftah/projects/alqalam-tools/data/stories/108911-50-51
+[INFO] Launching Claude...
+
+--- CLAUDE OUTPUT START ---
+The file has been written to `108911-52-54-birr-al-walidayn.md` in your current directory. Here's a summary of what's included:
+
+**Story**: (16) بِرُّ الْوَالِدَيْنِ — *Honoring the Parents* (pages 52–54)
+
+It's the famous hadith of the man trapped in the cave who supplicated through his righteous deed of honoring his parents — standing all night with a bowl of milk, refusing to serve his hungry children before his sleeping parents.
+
+**The markdown contains:**
+
+1. **Full bilingual text** — 15 paragraphs, each with Arabic followed by English translation
+2. **Vocabulary** (~70 words) organized into categories: People & Family, Animals & Pastoral Life, Time, Verbs, Adjectives, Places, Religious Terms — with root letters and transliteration
+3. **Grammatical analysis** covering 13 structures:
+   - كَانَ + habitual past
+   - Dual forms (المثنى) — extensive table of dual noun/verb/pronoun patterns
+   - حال (circumstantial accusative) — both single-word and sentential
+   - Verb forms I through X with examples
+   - حَتَّى + subjunctive
+   - أَنْ + subjunctive
+   - قَدْ + past (pluperfect)
+   - لام التعليل (purpose)
+   - إِنَّ / أَنَّ emphasis
+   - Conditional إِنْ + شرط
+   - واو الحال
+   - Feminine verb agreement
+   - Rhetorical structures (rhetorical question, مفعول لأجله)
+4. **Thematic notes** on the hadith source and moral lessons
+--- CLAUDE OUTPUT END ---
+
+========================================
+=== Exit code: 0 ===
+=== Finished: Mon Feb 23 17:50:58 GMT 2026 ===
+=== Files in directory: ===
+total 56
+drwxr-xr-x@  4 miftah  staff    128 Feb 23 17:50 .
+drwxr-xr-x@ 52 miftah  staff   1664 Feb 23 17:47 ..
+-rw-r--r--@  1 miftah  staff  21808 Feb 23 17:50 108911-52-54-birr-al-walidayn.md
+-rw-r--r--@  1 miftah  staff   2333 Feb 23 17:47 claude_log.txt
+
+=== Created 1 markdown files ===
+========================================

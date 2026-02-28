@@ -1,0 +1,172 @@
+name: Deploy to Cloudflare Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  detect-changes:
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.set-matrix.outputs.matrix }}
+      has_apps: ${{ steps.set-matrix.outputs.has_apps }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Detect changed apps
+        id: set-matrix
+        run: |
+          # All deployable apps with their metadata
+          declare -A APP_META
+          APP_META[hans-wehr]='{"name":"arabtools-hans-wehr","workspace":"@arabtools/hans-wehr","output":"apps/hans-wehr/dist"}'
+          APP_META[sarf-charts]='{"name":"arabtools-sarf-charts","workspace":"@arabtools/sarf-charts","output":"apps/sarf-charts/dist"}'
+          APP_META[sarf-tool]='{"name":"arabtools-sarf-tool","workspace":"@arabtools/sarf-tool","output":"apps/sarf-tool/dist"}'
+          APP_META[tarkeeb]='{"name":"arabtools-tarkeeb","workspace":"@arabtools/tarkeeb","output":"apps/tarkeeb/dist"}'
+          APP_META[conjugation]='{"name":"arabtools-conjugation","workspace":"@arabtools/conjugation","output":"apps/conjugation/dist"}'
+          APP_META[nation-test]='{"name":"arabtools-nation-test","workspace":"@arabtools/nation-test","output":"apps/nation-test/dist"}'
+          APP_META[fstu-exercises]='{"name":"arabtools-fstu-exercises","workspace":"@arabtools/fstu-exercises","output":"apps/fstu-exercises/dist"}'
+          APP_META[reading]='{"name":"arabtools-reading","workspace":"@arabtools/reading","output":"apps/reading/dist"}'
+          APP_META[sarf-platform]='{"name":"arabtools-sarf-platform","workspace":"@arabtools/sarf-platform","output":"apps/sarf-platform/dist"}'
+          APP_META[tarkib-guide]='{"name":"arabtools-tarkib-guide","workspace":"@arabtools/tarkib-guide","output":"apps/tarkib-guide/dist"}'
+          APP_META[nahw-navigator]='{"name":"arabtools-nahw-navigator","workspace":"@arabtools/nahw-navigator","output":"apps/nahw-navigator/dist"}'
+          APP_META[masdar-trainer]='{"name":"arabtools-masdar-trainer","workspace":"@arabtools/masdar-trainer","output":"apps/masdar-trainer/dist"}'
+          APP_META[tarkib-builder]='{"name":"arabtools-tarkib-builder","workspace":"@arabtools/tarkib-builder","output":"apps/tarkib-builder/dist"}'
+          APP_META[sarf-navigator]='{"name":"arabtools-sarf-navigator","workspace":"@arabtools/sarf-navigator","output":"apps/sarf-navigator/dist"}'
+          APP_META[nahw-atlas]='{"name":"arabtools-nahw-atlas","workspace":"@arabtools/nahw-atlas","output":"apps/nahw-atlas/dist"}'
+          APP_META[insha-guide]='{"name":"arabtools-insha-guide","workspace":"@arabtools/insha-guide","output":"apps/insha-guide/dist"}'
+          APP_META[mufradat]='{"name":"arabtools-mufradat","workspace":"@arabtools/mufradat","output":"apps/mufradat/dist"}'
+          APP_META[kalimat]='{"name":"arabtools-kalimat","workspace":"@arabtools/kalimat","output":"apps/kalimat/dist"}'
+          APP_META[hub]='{"name":"arabtools-hub","workspace":"@arabtools/hub","output":"apps/hub/dist"}'
+          APP_META[durus]='{"name":"arabtools-durus","workspace":"@arabtools/durus","output":"apps/durus/dist"}'
+          APP_META[hafiz]='{"name":"arabtools-hafiz","workspace":"@arabtools/hafiz","output":"apps/hafiz/dist"}'
+          APP_META[kalaam]='{"name":"arabtools-kalaam","workspace":"@arabtools/kalaam","output":"apps/kalaam/dist"}'
+          APP_META[tarjama]='{"name":"arabtools-tarjama","workspace":"@arabtools/tarjama","output":"apps/tarjama/dist"}'
+          APP_META[insha]='{"name":"arabtools-insha","workspace":"@arabtools/insha","output":"apps/insha/dist"}'
+          APP_META[tashkhis]='{"name":"arabtools-tashkhis","workspace":"@arabtools/tashkhis","output":"apps/tashkhis/dist"}'
+          APP_META[dhakira]='{"name":"arabtools-dhakira","workspace":"@arabtools/dhakira","output":"apps/dhakira/dist"}'
+          APP_META[bina]='{"name":"arabtools-bina","workspace":"@arabtools/bina","output":"apps/bina/dist"}'
+          APP_META[sarf-exercises]='{"name":"arabtools-sarf-exercises","workspace":"@arabtools/sarf-exercises","output":"apps/sarf-exercises/dist"}'
+          APP_META[khatt]='{"name":"arabtools-khatt","workspace":"@arabtools/khatt","output":"apps/khatt/dist"}'
+          APP_META[sarf-forge]='{"name":"arabtools-sarf-forge","workspace":"@arabtools/sarf-forge","output":"apps/sarf-forge/dist"}'
+          APP_META[diwan]='{"name":"arabtools-diwan","workspace":"@arabtools/diwan","output":"apps/diwan/dist"}'
+          APP_META[fiqh]='{"name":"arabtools-fiqh","workspace":"@arabtools/fiqh","output":"apps/fiqh/dist"}'
+
+          ALL_APPS="${!APP_META[@]}"
+
+          # Apps that depend on packages/srs/
+          SRS_DEPENDENTS="hafiz kalaam mufradat tarjama insha tashkhis sarf-exercises"
+          # Apps that depend on packages/data/
+          DATA_DEPENDENTS="hafiz mufradat tashkhis"
+
+          deploy_all=false
+          declare -A apps_to_deploy
+
+          # workflow_dispatch always deploys all
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            deploy_all=true
+          fi
+
+          # Get changed files (fallback to deploying all if diff fails)
+          if ! CHANGED_FILES=$(git diff --name-only HEAD~1 HEAD 2>/dev/null); then
+            echo "Could not diff (first commit?), deploying all"
+            deploy_all=true
+          fi
+
+          if [ "$deploy_all" = "false" ]; then
+            # Check for root config or universal package changes
+            if echo "$CHANGED_FILES" | grep -qE '^(package\.json|package-lock\.json|turbo\.json|tsconfig\.json|\.github/workflows/deploy\.yml|packages/ui/|packages/core/|packages/styles/)'; then
+              deploy_all=true
+            fi
+
+            if [ "$deploy_all" = "false" ]; then
+              # Check packages/srs/ changes
+              if echo "$CHANGED_FILES" | grep -q '^packages/srs/'; then
+                for app in $SRS_DEPENDENTS; do
+                  apps_to_deploy[$app]=1
+                done
+              fi
+
+              # Check packages/data/ changes
+              if echo "$CHANGED_FILES" | grep -q '^packages/data/'; then
+                for app in $DATA_DEPENDENTS; do
+                  apps_to_deploy[$app]=1
+                done
+              fi
+
+              # Check individual app changes
+              for app in $ALL_APPS; do
+                if echo "$CHANGED_FILES" | grep -q "^apps/$app/"; then
+                  apps_to_deploy[$app]=1
+                fi
+              done
+            fi
+          fi
+
+          # Build JSON matrix
+          if [ "$deploy_all" = "true" ]; then
+            # Add all apps
+            for app in $ALL_APPS; do
+              apps_to_deploy[$app]=1
+            done
+          fi
+
+          # Convert to JSON array
+          json_array="["
+          first=true
+          for app in "${!apps_to_deploy[@]}"; do
+            if [ "$first" = "true" ]; then
+              first=false
+            else
+              json_array+=","
+            fi
+            json_array+="${APP_META[$app]}"
+          done
+          json_array+="]"
+
+          matrix="{\"app\":$json_array}"
+          has_apps="false"
+          if [ ${#apps_to_deploy[@]} -gt 0 ]; then
+            has_apps="true"
+          fi
+
+          echo "Detected ${#apps_to_deploy[@]} app(s) to deploy"
+          echo "matrix=$matrix" >> "$GITHUB_OUTPUT"
+          echo "has_apps=$has_apps" >> "$GITHUB_OUTPUT"
+
+  deploy:
+    needs: detect-changes
+    if: needs.detect-changes.outputs.has_apps == 'true'
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix: ${{ fromJson(needs.detect-changes.outputs.matrix) }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: 'npm'
+
+      - run: rm -f package-lock.json && npm install
+
+      - run: npm run build --workspace=${{ matrix.app.workspace }}
+
+      - name: Create Cloudflare Pages project (if not exists)
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages project create ${{ matrix.app.name }} --production-branch=main
+        continue-on-error: true
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy ${{ matrix.app.output }} --project-name=${{ matrix.app.name }}

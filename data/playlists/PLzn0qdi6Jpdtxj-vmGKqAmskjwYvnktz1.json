@@ -1,0 +1,30 @@
+{
+  "playlistId": "PLzn0qdi6Jpdtxj-vmGKqAmskjwYvnktz1",
+  "playlistTitle": "Study Tips",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PLzn0qdi6Jpdtxj-vmGKqAmskjwYvnktz1",
+  "extractedAt": "2026-02-15T19:19:49Z",
+  "videoCount": 3,
+  "videos": [
+    {
+      "index": 1,
+      "videoId": "OFRYUx9Cp_Q",
+      "title": "Study Tips: Stationery",
+      "url": "https://www.youtube.com/watch?v=OFRYUx9Cp_Q",
+      "duration": 212
+    },
+    {
+      "index": 2,
+      "videoId": "qxp1wOmQ_RQ",
+      "title": "Odds and Ends: Preparing a Book for Study",
+      "url": "https://www.youtube.com/watch?v=qxp1wOmQ_RQ",
+      "duration": 382
+    },
+    {
+      "index": 3,
+      "videoId": "5t9vkzXofOk",
+      "title": "Study Tips | Literature Books",
+      "url": "https://www.youtube.com/watch?v=5t9vkzXofOk",
+      "duration": 374
+    }
+  ]
+}

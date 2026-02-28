@@ -1,0 +1,1377 @@
+[
+  {
+    "id": "mutanabbi-34",
+    "poetId": "mutanabbi",
+    "titleAr": "لهذا اليوم بعد غد أريج",
+    "titleEn": "This Day After Tomorrow Bears a Fragrance",
+    "genre": "madih",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "لهذا اليوم بعد غد أريج",
+        "ajuz": "ونار في العدو لها أجيج"
+      },
+      {
+        "sadr": "تبيت بها الحواضن آمنات",
+        "ajuz": "وتسلم في مسالكها الحجيج"
+      },
+      {
+        "sadr": "فلا زالت عداتك حيث كانت",
+        "ajuz": "فرائس أيها الأسد المهيج"
+      },
+      {
+        "sadr": "عرفتك والصفوف معبآت",
+        "ajuz": "وأنت بغير سيفك لا تعيج"
+      },
+      {
+        "sadr": "ووجه البحر يعرف من بعيد",
+        "ajuz": "اذا يسجو فكيف إذا يموج"
+      },
+      {
+        "sadr": "بأرض تهلك الأشواط فيها",
+        "ajuz": "إذا ملئت من الركض الفروج"
+      },
+      {
+        "sadr": "تحاول نفس ملك الروم فيها",
+        "ajuz": "فتفديه رعيته العلوج"
+      },
+      {
+        "sadr": "أبالغمرات توعدنا النصارى",
+        "ajuz": "ونحن نجومها وهي البروج"
+      },
+      {
+        "sadr": "وفينا السيف حملته صدوق",
+        "ajuz": "اذا لاقى وغارته لجوج"
+      },
+      {
+        "sadr": "فإن يقدم فقد زرنا سمندو",
+        "ajuz": "وإن يحجم فموعدنا الخليج"
+      }
+    ],
+    "translationEn": "This coming day carries a fragrance, and a fire rages against the enemy. Under its protection, mothers sleep safely and pilgrims travel their roads unharmed. May your foes remain wherever they are as prey, O stirring lion. I knew you when the ranks were arrayed in battle, and you would not turn aside without your sword. The face of the sea is recognized from afar when it is calm — how much more so when it surges! In a land where the racing courses destroy themselves when the gaps are filled with galloping, you seek the very life of the Roman king, and his foreign subjects sacrifice themselves to ransom him. Do the Christians threaten us with catastrophes, when we are their stars and they are but the towers? Among us is a sword whose bearer is truthful when he meets the foe, and whose raid is relentless. If he advances, we have already visited Samandou, and if he holds back, our appointment is the strait.",
+    "vocabularyHighlights": [
+      { "word": "أريج", "meaning": "fragrance, sweet scent" },
+      { "word": "أجيج", "meaning": "blazing, roaring (of fire)" },
+      { "word": "الحواضن", "meaning": "nursing mothers, caretakers" },
+      { "word": "فرائس", "meaning": "prey, quarry" },
+      { "word": "المهيج", "meaning": "stirred up, provoked (lion)" },
+      { "word": "العلوج", "meaning": "foreign subjects, non-Arab soldiers" },
+      { "word": "الغمرات", "meaning": "overwhelming calamities, floods of battle" }
+    ],
+    "context": "A panegyric composed for Sayf al-Dawla celebrating a military campaign against the Byzantines. The poem references the fortress of Samandou and the threat to the Roman emperor, reflecting the ongoing Arab-Byzantine frontier wars of the 10th century."
+  },
+  {
+    "id": "mutanabbi-35",
+    "poetId": "mutanabbi",
+    "titleAr": "جارية ما لجسمها روح",
+    "titleEn": "A Maiden Whose Body Has No Soul",
+    "genre": "ghazal",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "جارية ما لجسمها روح",
+        "ajuz": "بالقلب من حبها تباريح"
+      },
+      {
+        "sadr": "في كفها طاقة تشير بها",
+        "ajuz": "لكل طيب من طيبها ريح"
+      },
+      {
+        "sadr": "سأشرب الكأس عن إشارتها",
+        "ajuz": "ودمع عيني في الخد مسفوح"
+      }
+    ],
+    "translationEn": "A maiden whose body seems to hold no soul — yet in the heart, her love stirs restless torments. In her hand she holds a bouquet and gestures with it; every fragrance carries the scent of her sweetness. I shall drink the cup at her bidding, while the tears of my eyes pour down my cheeks.",
+    "vocabularyHighlights": [
+      { "word": "جارية", "meaning": "maiden, young woman" },
+      { "word": "تباريح", "meaning": "torments, burning pains of love" },
+      { "word": "طاقة", "meaning": "bouquet, spray of flowers" },
+      { "word": "مسفوح", "meaning": "poured out, shed (tears)" },
+      { "word": "طيب", "meaning": "fragrance, perfume" }
+    ],
+    "context": "A short ghazal fragment in the munsarih meter, depicting a beautiful woman whose ethereal beauty seems soulless yet causes the poet unbearable heartache. The poem blends the imagery of wine-drinking gatherings with love's torment."
+  },
+  {
+    "id": "mutanabbi-36",
+    "poetId": "mutanabbi",
+    "titleAr": "بأدنى ابتسام منك تحيا القرائح",
+    "titleEn": "With Your Faintest Smile, Minds Come Alive",
+    "genre": "madih",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "بأدنى ابتسام منك تحيا القرائح",
+        "ajuz": "وتقوى من الجسم الضعيف الجوارح"
+      },
+      {
+        "sadr": "ومن ذا الذي يقضي حقوقك كلها",
+        "ajuz": "ومن ذا الذي يرضي سوى من تسامح"
+      },
+      {
+        "sadr": "وقد تقبل العذر الخفي تكرما",
+        "ajuz": "فما بال عذري واقفا وهو واضح"
+      },
+      {
+        "sadr": "وان محالا اذ بك العيش أن أرى",
+        "ajuz": "وجسمك معتل وجسمي صالح"
+      },
+      {
+        "sadr": "وما كان ترك الشعر إلا لأنه",
+        "ajuz": "تقصر عن وصف الأمير المدائح"
+      }
+    ],
+    "translationEn": "With your faintest smile, minds come alive, and the limbs of a weak body regain their strength. Who can fulfill all your rights upon him, and whom can you be pleased with except those you graciously forgive? You accept hidden excuses out of noble generosity — so why does my excuse stand rejected when it is plain? It is impossible, while life depends on you, that I should see your body ailing while mine is well. My abandoning poetry was only because praises fall short of describing the prince.",
+    "vocabularyHighlights": [
+      { "word": "القرائح", "meaning": "minds, natural talents" },
+      { "word": "الجوارح", "meaning": "limbs, body parts" },
+      { "word": "تسامح", "meaning": "you show clemency, forgive" },
+      { "word": "تكرما", "meaning": "out of noble generosity" },
+      { "word": "معتل", "meaning": "ailing, sick" },
+      { "word": "المدائح", "meaning": "panegyric poems, praises" }
+    ],
+    "context": "A poem of apology and praise addressed to a patron, likely composed when al-Mutanabbi had been absent from composing. The poet explains his silence was not neglect but rather the inadequacy of poetry to capture the prince's greatness."
+  },
+  {
+    "id": "mutanabbi-37",
+    "poetId": "mutanabbi",
+    "titleAr": "يقاتلني عليك الليل جدا",
+    "titleEn": "Night Battles Me Fiercely Over You",
+    "genre": "ghazal",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "يقاتلني عليك الليل جدا",
+        "ajuz": "ومنصرفي له أمضى السلاح"
+      },
+      {
+        "sadr": "لأني كلما فارقت طرفي",
+        "ajuz": "بعيد بين جفني والصباح"
+      }
+    ],
+    "translationEn": "Night battles me fiercely over you, and my departure from you is its sharpest weapon. For whenever I part from my gaze upon you, the distance between my eyelids and the morning grows vast.",
+    "vocabularyHighlights": [
+      { "word": "يقاتلني", "meaning": "fights me, battles me" },
+      { "word": "منصرفي", "meaning": "my departure, my turning away" },
+      { "word": "أمضى", "meaning": "sharpest, most cutting" },
+      { "word": "السلاح", "meaning": "weapon, arms" },
+      { "word": "طرفي", "meaning": "my gaze, my eye" }
+    ],
+    "context": "A compact two-verse ghazal in the wafir meter. Al-Mutanabbi personifies the night as an adversary that weaponizes absence. The sleepless night stretches endlessly when the beloved is out of sight."
+  },
+  {
+    "id": "mutanabbi-38",
+    "poetId": "mutanabbi",
+    "titleAr": "أباعث كل مكرمة طموح",
+    "titleEn": "O Stirrer of Every Soaring Noble Deed",
+    "genre": "fakhr",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "أباعث كل مكرمة طموح",
+        "ajuz": "وفارس كل سلهبة سبوح"
+      },
+      {
+        "sadr": "وطاعن كل نجلاء غموس",
+        "ajuz": "وعاصي كل عذال نصيح"
+      },
+      {
+        "sadr": "سقاني الله قبل الموت يوما",
+        "ajuz": "دم الأعداء من جوف الجروح"
+      }
+    ],
+    "translationEn": "O raiser of every soaring noble deed, rider of every swift and graceful mare, thrusting with every broad-bladed spear that plunges deep, defying every sincere advisor who blames you — may God give me to drink, one day before death, the blood of enemies from the depths of their wounds.",
+    "vocabularyHighlights": [
+      { "word": "مكرمة", "meaning": "noble deed, act of honor" },
+      { "word": "طموح", "meaning": "soaring, ambitious" },
+      { "word": "سلهبة", "meaning": "tall, swift mare" },
+      { "word": "سبوح", "meaning": "graceful in gait (horse)" },
+      { "word": "نجلاء", "meaning": "broad-bladed (spear)" },
+      { "word": "غموس", "meaning": "plunging deep (into the enemy)" },
+      { "word": "الجروح", "meaning": "wounds" }
+    ],
+    "context": "A short, fierce poem of self-praise (fakhr) in which al-Mutanabbi invokes his warrior identity. The final verse, with its visceral prayer to drink enemy blood from wounds, exemplifies the pre-Islamic martial spirit he frequently channeled."
+  },
+  {
+    "id": "mutanabbi-39",
+    "poetId": "mutanabbi",
+    "titleAr": "إن القوافي لم تنمك وإنما",
+    "titleEn": "The Rhymes Did Not Slander You",
+    "genre": "hija",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "إن القوافي لم تنمك وإنما",
+        "ajuz": "محقتك حتى صرت مالا يوجد"
+      },
+      {
+        "sadr": "فكأن أذنك فوك حين سمعتها",
+        "ajuz": "وكأنها مما سكرت المرقد"
+      }
+    ],
+    "translationEn": "The rhymes did not slander you — rather, they obliterated you until you became something that does not exist. It is as though your ear were your mouth when you heard them, and as though, from how intoxicated they made you, they were a sleeping potion.",
+    "vocabularyHighlights": [
+      { "word": "القوافي", "meaning": "rhymes, verses" },
+      { "word": "تنمك", "meaning": "slander you, gossip about you" },
+      { "word": "محقتك", "meaning": "obliterated you, annihilated you" },
+      { "word": "المرقد", "meaning": "sleeping potion, soporific" },
+      { "word": "سكرت", "meaning": "became intoxicated" }
+    ],
+    "context": "A satirical epigram in which al-Mutanabbi mocks a rival, claiming his poetry did not merely expose the target but erased him from existence. The image of the ear becoming a mouth suggests the victim devoured the verses greedily."
+  },
+  {
+    "id": "mutanabbi-40",
+    "poetId": "mutanabbi",
+    "titleAr": "أليوم عهدكم فأين الموعد ؟",
+    "titleEn": "Today Is Your Promise — Where Is the Appointed Time?",
+    "genre": "madih",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "أليوم عهدكم فأين الموعد ؟",
+        "ajuz": "هيهات ليس ليوم عهدكم غد"
+      },
+      {
+        "sadr": "الموت أقرب مخلبا من بينكم",
+        "ajuz": "والعيش أبعد منكم لا تبعدوا"
+      },
+      {
+        "sadr": "إن التي سفكت دمي بجفونها",
+        "ajuz": "لم تدر أن دمي الذي تتقلد"
+      },
+      {
+        "sadr": "قالت وقد رأت اصفراري من به",
+        "ajuz": "وتنهدت فأجبتها المتنهد"
+      },
+      {
+        "sadr": "فمضت وقد صبغ الحياء بياضها",
+        "ajuz": "لوني كما صبغ اللجين العسجد"
+      },
+      {
+        "sadr": "فرأيت قرن الشمس في قمر الدجى",
+        "ajuz": "متأودا غصن به يتأود"
+      },
+      {
+        "sadr": "وهواجل وصواهل ومناصل",
+        "ajuz": "وذوابل وتوعد وتهدد"
+      },
+      {
+        "sadr": "أبلت مودتها الليالي بعدنا",
+        "ajuz": "ومشى عليها الدهر وهو مقيد"
+      },
+      {
+        "sadr": "برحت يا مرض الجفون بممرض",
+        "ajuz": "مرض الطبيب له وعيد العود"
+      },
+      {
+        "sadr": "فله بنو عبد العزيز بن الرضا",
+        "ajuz": "ولكل ركب عيسهم والفدفد"
+      },
+      {
+        "sadr": "من في الأنام من الكرام ولا تقل",
+        "ajuz": "من فيك شأم سوى شجاع يقصد"
+      },
+      {
+        "sadr": "وتحيرت فيه الصفات لأنها",
+        "ajuz": "ألفت طرائقه عليها تبعد"
+      },
+      {
+        "sadr": "في شأنه ولسانه وبنانه",
+        "ajuz": "وجنانه عجب لمن يتفقد"
+      },
+      {
+        "sadr": "أسد دم الأسد الهزبر خضابه",
+        "ajuz": "موت فريص الموت منه ترعد"
+      },
+      {
+        "sadr": "فالليل حين قدمت فيها أبيض",
+        "ajuz": "يبس النجيع عليه وهو مجرد"
+      },
+      {
+        "sadr": "أرض لها شرف سواها مثلها",
+        "ajuz": "لو كان مثلك في سواها يوجد"
+      },
+      {
+        "sadr": "أبدى العداة بك السرور كأنهم",
+        "ajuz": "فرحوا وعندهم المقيم المقعد"
+      },
+      {
+        "sadr": "قطعتهم حسدا أراهم ما بهم",
+        "ajuz": "فتقطعوا حسدا لمن لا يحسد"
+      },
+      {
+        "sadr": "بقيت جموعهم كأنك كلها",
+        "ajuz": "وبقيت بينهم كأنك مفرد"
+      },
+      {
+        "sadr": "كن حيث شئت تسر إليك ركابنا",
+        "ajuz": "فالأرض واحدة وأنت الأوحد"
+      },
+      {
+        "sadr": "وصن الحسام ولا تذله فإنه",
+        "ajuz": "يشكو يمينك والجماجم تشهد"
+      },
+      {
+        "sadr": "أنى يكون أبا البرية آدم",
+        "ajuz": "وأبوك والثقلان أنت محمد"
+      }
+    ],
+    "translationEn": "Today was your promised day — so where is the appointed hour? Alas, the day of your promise has no tomorrow. Death is nearer in its claws than your parting, and life is farther from you — do not go far! She who shed my blood with her eyelids did not know that my blood is the necklace she wears. She spoke when she saw my pallor — 'What ails him?' — and she sighed, and I, the sighing one, answered her. She departed, and modesty dyed her whiteness my color, as gold overlays silver. I saw the sun's horn in the moon of darkness, a supple branch bending with another branch upon it. Then war-steeds and neighing chargers, blades and quivering lances, threats and menaces. The nights wore out her affection after us, and time marched over it in fetters. O sickness of the eyelids, you have tormented one so ill that the physician himself fell sick and the healer lost hope. To him belong the sons of Abd al-Aziz ibn al-Rida, and for every caravan there are their camels and the desert waste. Who among the noble can be found in all mankind? Do not say who in you, O Damascus, except a valiant one who is sought. Descriptions grew bewildered at him, for they found his ways growing ever beyond them. In his dignity, his tongue, his fingertips, and his mind — a wonder for all who look closely. A lion whose war-paint is the blood of the fierce lion, a death before whose terror death itself trembles. The night when you arrived there was white — dried blood upon your drawn sword. A land whose honor would equal any other, if your like could be found in any other. Your enemies showed joy at your arrival as though they rejoiced, while doom sat in their midst. You severed them with such envy that I showed them what afflicts them, and they were torn apart envying one who feels no envy. Their multitudes remained as though you were all of them, and you remained among them as though you were alone. Be wherever you wish — our mounts will hasten to you, for the earth is one and you are the one and only. Preserve the sword and do not humble it, for it complains of your right hand, and the skulls bear witness. How can Adam be the father of all creation, when your father and both worlds' lord is Muhammad?",
+    "vocabularyHighlights": [
+      { "word": "مخلبا", "meaning": "claw, talon" },
+      { "word": "اللجين", "meaning": "silver" },
+      { "word": "العسجد", "meaning": "gold" },
+      { "word": "ذوابل", "meaning": "quivering lances" },
+      { "word": "النجيع", "meaning": "fresh blood, gore" },
+      { "word": "الأوحد", "meaning": "the one and only, unique" },
+      { "word": "الثقلان", "meaning": "the two weighty things (mankind and jinn)" },
+      { "word": "الهزبر", "meaning": "fierce lion" }
+    ],
+    "context": "A major qasida of 22 verses in the kamil meter, praising the sons of Abd al-Aziz ibn al-Rida. It opens with a ghazal prelude featuring the beloved and the pain of separation, then transitions into a martial panegyric. The closing hyperbole comparing the patron to Adam and Muhammad reflects al-Mutanabbi's signature grandiose style."
+  },
+  {
+    "id": "mutanabbi-41",
+    "poetId": "mutanabbi",
+    "titleAr": "فارقتكم فإذا ما كان عندكم",
+    "titleEn": "I Parted from You",
+    "genre": "ghazal",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "فارقتكم فإذا ما كان عندكم",
+        "ajuz": "قبل الفراق أذى بعد الفراق يد"
+      },
+      {
+        "sadr": "إذا تذكرت ما بيني وبينكم",
+        "ajuz": "أعان قلبي على الشوق الذي أجد"
+      }
+    ],
+    "translationEn": "I parted from you, and if what was harm in your eyes before the parting now becomes a helping hand after it — when I remember what passed between us, it aids my heart against the longing I find within me.",
+    "vocabularyHighlights": [
+      { "word": "فارقتكم", "meaning": "I parted from you" },
+      { "word": "الفراق", "meaning": "parting, separation" },
+      { "word": "أذى", "meaning": "harm, hurt" },
+      { "word": "الشوق", "meaning": "longing, yearning" },
+      { "word": "أجد", "meaning": "I find, I experience" }
+    ],
+    "context": "A brief, tender fragment of farewell poetry. The paradox at its heart — that what was once harm becomes comfort after separation — captures the way memory transforms pain into something precious when the beloved is gone."
+  },
+  {
+    "id": "mutanabbi-42",
+    "poetId": "mutanabbi",
+    "titleAr": "عيد بأية حال عدت يا عيد",
+    "titleEn": "O Eid, in What State Have You Returned?",
+    "genre": "hija",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "عيد بأية حال عدت يا عيد",
+        "ajuz": "بما مضى أم لأمر فيك تجديد"
+      },
+      {
+        "sadr": "أما الاحبة فالبيداء دونهم",
+        "ajuz": "فليت دونك بيدا دونها بيد"
+      },
+      {
+        "sadr": "لم يترك الدهر من قلبي ولا كبدي",
+        "ajuz": "شيئا تتيمه عين ولا جيد"
+      },
+      {
+        "sadr": "يا ساقيي أخمر في كؤوسكما",
+        "ajuz": "أم في كؤوسكما هم وتسهيد ؟"
+      },
+      {
+        "sadr": "أصخرة أنا مالي لا تحكني",
+        "ajuz": "هذي المدام ولا هذي الاغاريد"
+      },
+      {
+        "sadr": "ماذا لقيت من الدنيا وأعجبه",
+        "ajuz": "أني بما أنا باك منه محسود"
+      },
+      {
+        "sadr": "إني نزلت بكذابين ضيفهم",
+        "ajuz": "عن القرى وعن الترحال محدود"
+      },
+      {
+        "sadr": "جودث الرجال من الأيدي وجودهم",
+        "ajuz": "من اللسان ، فلا كانوا ولا الجود"
+      },
+      {
+        "sadr": "ما يقبض الموت نفسا من نفوسهم",
+        "ajuz": "إلا وفي يده من نتنها عود"
+      },
+      {
+        "sadr": "صار الخصي إمام الآبقين بها",
+        "ajuz": "فالحر مستعبد والعبد معبود"
+      },
+      {
+        "sadr": "العبد ليس لحر صالح بأخ",
+        "ajuz": "لو أنه في ثياب الحر مولود"
+      },
+      {
+        "sadr": "لا تشتري العبد إلا والعصا معه",
+        "ajuz": "إن العبيد لأنجاس مناكيد"
+      },
+      {
+        "sadr": "ما كنت أحسبني أحيا إلى زمن",
+        "ajuz": "يسيء بي فيه عبد وهو محمود"
+      },
+      {
+        "sadr": "ولا توهمت أن الناس قد فقدوا",
+        "ajuz": "وأن مثل أبي البيضاء موجود"
+      },
+      {
+        "sadr": "وأن ذا الأسود المثقوب مشفره",
+        "ajuz": "تطيعه ذي العضاريط الرعاديد"
+      },
+      {
+        "sadr": "جوعان يأكل من زادي ويمسكني",
+        "ajuz": "لكي يقال عظيم القدر مقصود"
+      },
+      {
+        "sadr": "من علم الأسود المخصي مكرمة",
+        "ajuz": "أقومه البيض أم آباؤه الصيد"
+      },
+      {
+        "sadr": "أم أذنه في يد النخاس دامية",
+        "ajuz": "أم قدره وهو بالفلسين مردود"
+      },
+      {
+        "sadr": "أولى اللئام كويفير بمعذرة",
+        "ajuz": "في كل لؤم وبعض العذر تفنيد"
+      },
+      {
+        "sadr": "وذاك أن الفحول البيض عاجزة",
+        "ajuz": "عن الجميل فكيف الخصية السود ؟"
+      }
+    ],
+    "translationEn": "O Eid, in what state have you returned? With what has passed, or is there something new in you? As for loved ones, the desert lies between us — would that between you and me were desert upon desert. Time has left nothing of my heart or liver for any eye or neck to enslave. O my two cupbearers, is it wine in your cups, or is it worry and sleeplessness? Am I a rock? Why does this wine not move me, nor these melodies? What have I endured from this world — and the strangest part is that I am envied for the very thing I weep over! I have alighted among liars whose guest is denied hospitality and forbidden to depart. The generosity of real men comes from their hands, but these men's generosity comes from their tongues — so may neither they nor their generosity endure. Death does not seize a soul among them without holding a stick against the stench in its hand. The eunuch has become the leader of the runaways here — the free man is enslaved and the slave is worshipped. A slave is no fit brother for a free and righteous man, even if he were born in a free man's clothes. Do not buy a slave without a stick in hand, for slaves are filthy and ill-starred. I never thought I would live to a time when a slave could wrong me and be praised for it, nor did I imagine that real men had vanished and that the like of Abu al-Bayda' could exist — that this black man with a pierced lip could be obeyed by these cowardly riffraff. He goes hungry eating my provisions, and detains me so that people will say a great man is sought after. Who taught the black eunuch nobility? Was it his white kinfolk or his noble ancestors? Or was it his ear bleeding in the slave-dealer's hand, or his worth when he was rejected for two pennies? The vilest of the base deserve the excuse of a little wretch — in every baseness, and some excuses are themselves refutation. That is because even the white stallions are incapable of noble deeds, so what of the black castrated ones?",
+    "vocabularyHighlights": [
+      { "word": "البيداء", "meaning": "desert, wilderness" },
+      { "word": "تتيمه", "meaning": "enslaves him (through love)" },
+      { "word": "المدام", "meaning": "wine" },
+      { "word": "الأغاريد", "meaning": "melodies, songs" },
+      { "word": "الخصي", "meaning": "eunuch" },
+      { "word": "الآبقين", "meaning": "runaway slaves" },
+      { "word": "النخاس", "meaning": "slave dealer" },
+      { "word": "مناكيد", "meaning": "ill-starred, accursed" }
+    ],
+    "context": "Al-Mutanabbi's most infamous poem, a devastating satire against Kafur al-Ikhshidi, the black eunuch ruler of Egypt. Composed during the Eid festival after al-Mutanabbi's bitter disillusionment with Kafur, who had promised him a governorship but never delivered. The poem's extreme racial invective reflects the poet's personal rage and 10th-century attitudes, making it one of the most controversial works in Arabic literary history."
+  },
+  {
+    "id": "mutanabbi-43",
+    "poetId": "mutanabbi",
+    "titleAr": "يا من رأيت الحليم وغدا",
+    "titleEn": "O You Who Saw the Wise Man Betrayed",
+    "genre": "madih",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "يا من رأيت الحليم وغدا",
+        "ajuz": "به وحر الملوك عبدا"
+      },
+      {
+        "sadr": "مال علي الشراب جدا",
+        "ajuz": "وأنت للمكرمات أهدى"
+      },
+      {
+        "sadr": "فإن تفضلت بانصرافي",
+        "ajuz": "عددته من لدنك رفدا"
+      }
+    ],
+    "translationEn": "O you who saw the wise man betrayed, and saw the noblest of kings made a slave — the wine has weighed heavily upon me, while you are the most guided toward noble deeds. If you graciously grant me leave to depart, I shall count it as a gift from you.",
+    "vocabularyHighlights": [
+      { "word": "الحليم", "meaning": "the wise, forbearing one" },
+      { "word": "وغدا", "meaning": "betrayed, dealt treacherously" },
+      { "word": "المكرمات", "meaning": "noble deeds" },
+      { "word": "أهدى", "meaning": "more guided, more adept" },
+      { "word": "رفدا", "meaning": "a gift, a grant" }
+    ],
+    "context": "A short occasional poem in the mukhlaa al-basit meter, composed at a drinking gathering. Al-Mutanabbi politely asks permission to leave, turning his request into a compliment by calling the host's permission itself a generous gift."
+  },
+  {
+    "id": "mutanabbi-44",
+    "poetId": "mutanabbi",
+    "titleAr": "ما الشوق مقتنعا مني بذا الكمد",
+    "titleEn": "Longing Is Not Content with This Anguish of Mine",
+    "genre": "madih",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "ما الشوق مقتنعا مني بذا الكمد",
+        "ajuz": "حتى أكون بلا قلب ولا كبد"
+      },
+      {
+        "sadr": "ولا الديار التي كان الحبيب بها",
+        "ajuz": "تشكو إلي ولا أشكو الى أحد"
+      },
+      {
+        "sadr": "ما زال كل هزيم الودق ينحلها",
+        "ajuz": "والسقم ينحلني حتى حكت جسدي"
+      },
+      {
+        "sadr": "وكلما فاض دمعي غاض مصطبري",
+        "ajuz": "كأن ما سال من جفني من جلدي"
+      },
+      {
+        "sadr": "ما دار في خلد الأيام لي فرح",
+        "ajuz": "أبا عبادة حتى درت في خلدي"
+      },
+      {
+        "sadr": "ملك إذا امتلأت مالا خزانته",
+        "ajuz": "أذاقها طعم ثكل الأم للولد"
+      },
+      {
+        "sadr": "أي الأكف تباري الغيث ما اتفقا",
+        "ajuz": "حتى إذا افترقا عادت ولم يعد"
+      },
+      {
+        "sadr": "لم أجر غاية فكري منك في صفة",
+        "ajuz": "إلا وجدت مداها غاية الأبد"
+      }
+    ],
+    "translationEn": "Longing is not content with this anguish of mine until I am left without heart or liver. The abodes where the beloved once lived complain to me, yet I complain to no one. Every thundering rain cloud kept wearing them down, and sickness kept wasting me, until they came to resemble my body. Whenever my tears overflow, my patience ebbs, as though what flows from my eyelids flows from my very skin. No joy ever crossed the mind of the days for me, O Abu Ubada, until you crossed my mind. A king who, when his treasury fills with wealth, gives it the taste of a mother's bereavement for her child — he empties it entirely. Which hand can rival the rain when they agree? Yet when they part ways, the hand returns while the rain does not. I never stretched the limit of my thought about you in any description without finding its range to be the limit of eternity.",
+    "vocabularyHighlights": [
+      { "word": "الكمد", "meaning": "anguish, suppressed grief" },
+      { "word": "هزيم الودق", "meaning": "thundering rain cloud" },
+      { "word": "ينحلها", "meaning": "wears it down, wastes it" },
+      { "word": "مصطبري", "meaning": "my patience, my endurance" },
+      { "word": "خلد", "meaning": "mind, inner thought" },
+      { "word": "ثكل", "meaning": "bereavement, loss of a child" },
+      { "word": "الغيث", "meaning": "rain, rainfall" }
+    ],
+    "context": "A qasida praising Abu Ubada, beginning with a nasib (amatory prelude) about longing and ruined abodes. The poet's comparison of the patron's generosity to rain — with the twist that the hand keeps giving while the rain stops — is a signature al-Mutanabbi conceit."
+  },
+  {
+    "id": "mutanabbi-45",
+    "poetId": "mutanabbi",
+    "titleAr": "ماذا الوداع وداع الوامق الكمد",
+    "titleEn": "What Farewell Is This — The Farewell of a Grieving Lover",
+    "genre": "ghazal",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "ماذا الوداع وداع الوامق الكمد",
+        "ajuz": "هذا الوداع وداع الروح للجسد"
+      },
+      {
+        "sadr": "إذا السحاب زفته الريح مرتفعا",
+        "ajuz": "فلا عدا الرملة البيضاء من بلد"
+      },
+      {
+        "sadr": "ويا فراق الأمير الرحب منزله",
+        "ajuz": "إن أنت فارقتنا يوما فلا تعد"
+      }
+    ],
+    "translationEn": "What farewell is this? The farewell of a grieving lover — this is the farewell of the soul from the body. When the wind escorts the clouds upward, may they not pass beyond the white sands of that land. And O parting from the prince of spacious dwelling — if you once part from us, never return!",
+    "vocabularyHighlights": [
+      { "word": "الوداع", "meaning": "farewell, parting" },
+      { "word": "الوامق", "meaning": "the loving one, the devoted lover" },
+      { "word": "الكمد", "meaning": "anguished, grief-stricken" },
+      { "word": "زفته", "meaning": "escorted him (as a bride)" },
+      { "word": "الرملة البيضاء", "meaning": "the White Sands (a place name)" }
+    ],
+    "context": "A short farewell poem of great emotional intensity. The opening simile — comparing parting from the beloved to the soul departing the body — became a widely quoted expression in Arabic love poetry."
+  },
+  {
+    "id": "mutanabbi-46",
+    "poetId": "mutanabbi",
+    "titleAr": "كم قتيل كما قتلت شهيد",
+    "titleEn": "How Many Slain Like Me, a Martyr",
+    "genre": "ghazal",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "كم قتيل كما قتلت شهيد",
+        "ajuz": "لبياض الطلى وورد الخدود"
+      },
+      {
+        "sadr": "وعيون المها ولا كعيون",
+        "ajuz": "فتكت بالمتيم المعمود"
+      },
+      {
+        "sadr": "عمرك الله ! هل رأيت بدورا",
+        "ajuz": "طلعت في براقع وعقود"
+      },
+      {
+        "sadr": "راميات بأسهم ريشها الهد",
+        "ajuz": "ب تشق القلوب قبل الجلود"
+      },
+      {
+        "sadr": "يترشفن من فمي رشفات",
+        "ajuz": "هن فيه أحلى من التوحيد"
+      },
+      {
+        "sadr": "كل شيء من الدماء حرام",
+        "ajuz": "شربه ما خلا ابنه العنقود"
+      },
+      {
+        "sadr": "فاسقنيها فدى لعينيك نفسي",
+        "ajuz": "من غزال وطارفي وتليدي"
+      },
+      {
+        "sadr": "شيب رأسي وذلتي ونحولي",
+        "ajuz": "ودموعي على هواك شهودي"
+      },
+      {
+        "sadr": "أي يوم سررتني بوصال",
+        "ajuz": "لم ترعني ثلاثة بصدود"
+      },
+      {
+        "sadr": "ما مقامي بأرض نخلة إلا",
+        "ajuz": "م وبين الجفون والتسهيد"
+      },
+      {
+        "sadr": "فانقصي من عذابها أو فزيدي",
+        "ajuz": "ر بعيش معجل التنكيد"
+      },
+      {
+        "sadr": "أبدا أقطع البلاد ونجمي",
+        "ajuz": "في نحوس وهمتي في سعود"
+      },
+      {
+        "sadr": "ولعلي مؤمل بعض ما أب",
+        "ajuz": "لغ باللطف من عزيز حميد"
+      },
+      {
+        "sadr": "عش عزيزا أو مت وأنت كريم",
+        "ajuz": "بين طعن القنا وخفق البنود"
+      },
+      {
+        "sadr": "أنا في أمة تداركها الل",
+        "ajuz": "ه غريب كصالح في ثمود"
+      }
+    ],
+    "translationEn": "How many slain like me, a martyr to the whiteness of necks and the rose of cheeks! And the eyes of wild cows — though no eyes are like those that slew the baptized lover. By God, have you ever seen full moons that rose behind veils and necklaces, shooting arrows whose feathers are eyelashes, splitting hearts before they pierce skin? They sip from my mouth sips that are sweeter upon it than the profession of God's oneness. Every blood is forbidden to drink, save the son of the grape-cluster. So pour it for me — my soul is ransom for your eyes, O gazelle, and all I own, old and new. My gray hair, my humiliation, my emaciation, and my tears are my witnesses to your love. Every day you gladdened me with union, you frightened me with three days of rejection. My staying in the land of Nakhla is nothing but sleeplessness between my eyelids. So lessen the torment or add to it — this is a life whose bitterness comes swiftly. Forever I traverse the lands while my star is in misfortune and my ambition is in ascendancy. Perhaps I may, by the grace of the Almighty and Praiseworthy, attain some of what I hope for. Live in honor or die nobly, between the thrust of lances and the fluttering of banners. I am a stranger in a nation that God must deliver — like Salih among Thamud.",
+    "vocabularyHighlights": [
+      { "word": "الطلى", "meaning": "necks (of beautiful women)" },
+      { "word": "المها", "meaning": "wild cows (metaphor for beautiful eyes)" },
+      { "word": "المتيم", "meaning": "the one enslaved by love" },
+      { "word": "براقع", "meaning": "veils (face coverings)" },
+      { "word": "العنقود", "meaning": "grape cluster" },
+      { "word": "نحوس", "meaning": "misfortune, ill-omened stars" },
+      { "word": "القنا", "meaning": "lances, spears" },
+      { "word": "البنود", "meaning": "banners, standards" }
+    ],
+    "context": "One of al-Mutanabbi's greatest qasidas, composed during his time in Nakhla near Kufa. It opens with a lavish ghazal section before transitioning to his existential complaints about fate and his famous rallying cry: 'Live in honor or die nobly, between the thrust of lances and the fluttering of banners' — one of the most quoted verses in all Arabic poetry. The closing line comparing himself to the Prophet Salih among the doomed Thamud reflects his deep sense of alienation."
+  },
+  {
+    "id": "mutanabbi-47",
+    "poetId": "mutanabbi",
+    "titleAr": "وشادن روح من يهواه في يده",
+    "titleEn": "A Fawn Whose Lover's Soul Is in His Hand",
+    "genre": "madih",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "وشادن روح من يهواه في يده",
+        "ajuz": "سيف الصدود على أعلى مقلده"
+      },
+      {
+        "sadr": "ما اهتز منه على عضو ليبتره",
+        "ajuz": "إلا اتقاه بترس من تجلده"
+      },
+      {
+        "sadr": "ذم الزمان اليه من أحبته",
+        "ajuz": "ما ذم من بدره في حمد أحمده"
+      },
+      {
+        "sadr": "شمس إذا الشمس لاقته على فرس",
+        "ajuz": "تردد النور فيها من تردده"
+      },
+      {
+        "sadr": "إن يقبح الحسن إلا عند طلعته",
+        "ajuz": "والعبد يقبح إلا عند سيده"
+      },
+      {
+        "sadr": "قالت عن الرفد طب نفسا فقلت لها",
+        "ajuz": "لا يصدر الحر إلا بعد مورده"
+      },
+      {
+        "sadr": "لم أعرف الخير إلا مذ عرفت فتى",
+        "ajuz": "لم يولد الجود إلا عند مولده"
+      },
+      {
+        "sadr": "نفس تصغر نفس الدهر من كبر",
+        "ajuz": "لها نهى كهله في سن أمرده"
+      }
+    ],
+    "translationEn": "A fawn in whose hand lies the soul of his lover, wearing the sword of rejection at the height of his neck — whenever it quivered against a limb to sever it, the lover shielded himself with the armor of endurance. Time brought him, among those he loved, something it found faulty in its full moon, within the praise of its most praiseworthy. A sun — when the sun met him on horseback, its light wavered from his own radiance. Beauty itself turns ugly except before his countenance, as the slave is ugly except before his master. She said, 'Be content without the gift,' and I replied, 'A free man does not leave until he has drunk his fill.' I never knew goodness until I knew a youth at whose birth generosity itself was born. A soul whose greatness makes the soul of time seem small, possessing the wisdom of a mature man while still in the age of beardless youth.",
+    "vocabularyHighlights": [
+      { "word": "شادن", "meaning": "young gazelle, fawn (metaphor for beloved)" },
+      { "word": "الصدود", "meaning": "rejection, turning away" },
+      { "word": "تجلده", "meaning": "his endurance, patience" },
+      { "word": "الرفد", "meaning": "gift, bounty" },
+      { "word": "مورده", "meaning": "his watering place, his fill" },
+      { "word": "أمرده", "meaning": "beardless youth" },
+      { "word": "نهى", "meaning": "wisdom, intellect" }
+    ],
+    "context": "A qasida opening with a ghazal image of the beloved as a fawn wielding the sword of rejection, then praising a young patron whose generosity and wisdom surpass his age. The verse about the free man refusing to leave without receiving his due reflects al-Mutanabbi's proud self-image."
+  },
+  {
+    "id": "mutanabbi-48",
+    "poetId": "mutanabbi",
+    "titleAr": "أمساور أم قرن شمس هذا",
+    "titleEn": "Is This Musawir or the Sun's Horn?",
+    "genre": "madih",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "أمساور أم قرن شمس هذا",
+        "ajuz": "أم ليث غاب يقدم الأستاذا"
+      },
+      {
+        "sadr": "شم ما انتضيت فقد تركت ذبابه",
+        "ajuz": "قطعا وقد ترك العباد جذاذا"
+      },
+      {
+        "sadr": "هبك ابن يزداذ حطمت وصحبه",
+        "ajuz": "أترى الورى أضحوا بني يزداذا"
+      },
+      {
+        "sadr": "غادرت أوجههم بحيث لقيتهم",
+        "ajuz": "أقفاءهم وكبودهم أفلاذا"
+      },
+      {
+        "sadr": "في موقف وقف الحمام عليهم",
+        "ajuz": "في ضنكة واستحوذ استحواذا"
+      },
+      {
+        "sadr": "جمدت نفوسهم فلما جئتها",
+        "ajuz": "أجريتها وسقيتها الفولاذا"
+      },
+      {
+        "sadr": "ما بين كرخايا إلى كلواذا",
+        "ajuz": "في جوشن وأخا أبيك معاذا"
+      },
+      {
+        "sadr": "أعجلت ألسنهم بضرب رقابهم",
+        "ajuz": "حتى يوافق عزمه الإنفاذا"
+      },
+      {
+        "sadr": "لم يلق قبلك من اذ اختلفت القنا",
+        "ajuz": "جعل الطعان من الطعان ملاذا"
+      }
+    ],
+    "translationEn": "Is this Musawir, or the horn of the sun, or a lion of the thicket advancing ahead of the master? Smell what you have drawn — you have left its blade in pieces and left the people shattered. Suppose you crushed Ibn Yazdad and his companions — do you think all mankind have become sons of Yazdad? You left their faces where you met them turned into their backs, and their livers into fragments. In a stand where death halted over them in tight straits and seized them utterly — their souls froze, and when you came upon them, you set them flowing and gave them steel to drink. Between Karkhaya and Kalwadha, in armor, with your father's brother Muadh — you silenced their tongues by striking their necks so swiftly that your resolve matched its execution. No one before you, when the lances clashed, made the thrust of spears a refuge from spears.",
+    "vocabularyHighlights": [
+      { "word": "ذبابه", "meaning": "its blade tip, edge of the sword" },
+      { "word": "جذاذا", "meaning": "shattered, broken to pieces" },
+      { "word": "أقفاء", "meaning": "backs of necks, napes" },
+      { "word": "أفلاذا", "meaning": "fragments, torn pieces (of liver)" },
+      { "word": "الحمام", "meaning": "death, fate" },
+      { "word": "الفولاذا", "meaning": "steel (i.e., the sword)" },
+      { "word": "كرخايا", "meaning": "Karkhaya (place near Baghdad)" },
+      { "word": "كلواذا", "meaning": "Kalwadha (place near Baghdad)" }
+    ],
+    "context": "A battle panegyric praising a warrior named Musawir for his devastating victory over Ibn Yazdad. The poem references specific Iraqi locations — Karkhaya and Kalwadha near Baghdad — and celebrates the warrior's ferocity with characteristically violent imagery. The closing conceit of making spear-thrusts a refuge from other spear-thrusts is quintessentially Mutanabbi."
+  },
+  {
+    "id": "mutanabbi-49",
+    "poetId": "mutanabbi",
+    "titleAr": "برجاء جودك يطرد الفقر",
+    "titleEn": "By Hope in Your Generosity, Poverty Is Driven Away",
+    "genre": "madih",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "برجاء جودك يطرد الفقر",
+        "ajuz": "وبأن تعادى ينفد العمر"
+      },
+      {
+        "sadr": "فخر الزجاج بأن شربت به",
+        "ajuz": "وزرت على من عافها الخمر"
+      },
+      {
+        "sadr": "وسلمت منها وهي تسكرنا",
+        "ajuz": "حتى كأنك هابك السكر"
+      },
+      {
+        "sadr": "ما يرتجى أحد لمكرمة",
+        "ajuz": "إلا الإل ه وأنت يا بدر"
+      }
+    ],
+    "translationEn": "By hope in your generosity, poverty is driven away, and by your hostility, lifetimes are cut short. The glass goblet boasted that you drank from it, and the wine itself looked down upon those who refused her. You remained sober while she intoxicated us, as though drunkenness itself feared you. No one is hoped for in noble deeds except God and you, O Badr.",
+    "vocabularyHighlights": [
+      { "word": "رجاء", "meaning": "hope, expectation" },
+      { "word": "الفقر", "meaning": "poverty" },
+      { "word": "الزجاج", "meaning": "glass, goblet" },
+      { "word": "عافها", "meaning": "refused it, abstained from it" },
+      { "word": "السكر", "meaning": "intoxication, drunkenness" },
+      { "word": "مكرمة", "meaning": "noble deed" }
+    ],
+    "context": "A short panegyric addressed to a patron named Badr, composed at a wine gathering. The conceit that even drunkenness is afraid of the patron elevates a drinking-scene compliment into hyperbolic praise, a hallmark of al-Mutanabbi's wit."
+  },
+  {
+    "id": "mutanabbi-50",
+    "poetId": "mutanabbi",
+    "titleAr": "رضاك رضاي الذي أوثر",
+    "titleEn": "Your Pleasure Is the Pleasure I Prefer",
+    "genre": "madih",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "رضاك رضاي الذي أوثر",
+        "ajuz": "وسرك سري فما أظهر"
+      },
+      {
+        "sadr": "كفتك المروءة ما تتقي",
+        "ajuz": "وأمنك الود ما تحذر"
+      },
+      {
+        "sadr": "وسركم في الحشا ميت",
+        "ajuz": "اذا أنشر السر لا ينشر"
+      },
+      {
+        "sadr": "كأني عصت مقلتي فيكم",
+        "ajuz": "وكاتمت القلب ما تبصر"
+      },
+      {
+        "sadr": "وإفشاء ما أنا مستودع",
+        "ajuz": "من الغدر والحر لا يغدر"
+      },
+      {
+        "sadr": "إذا ما قدرت على تطقة",
+        "ajuz": "فإني على تركها أقدر"
+      },
+      {
+        "sadr": "أصرف نفسي كما أشتهي",
+        "ajuz": "وأملكها والقنا أحمر"
+      },
+      {
+        "sadr": "دواليك يا سيفها دولة",
+        "ajuz": "وأمرك يا خير من يأمر"
+      },
+      {
+        "sadr": "أتاني رسولك مستعجلا",
+        "ajuz": "فلباه شعري الذي أذخر"
+      },
+      {
+        "sadr": "ولو كان يوم وغى قاتما",
+        "ajuz": "للباه سيفي والأشقر"
+      },
+      {
+        "sadr": "فلا غفل الدهر عن أهله",
+        "ajuz": "فإنك عين بها ينظر"
+      }
+    ],
+    "translationEn": "Your pleasure is the pleasure I prefer, and your secret is my secret — I reveal nothing. Your manliness suffices you against what you fear, and your friendship secures you against what you dread. Your secret in my breast is dead — even if secrets are resurrected, this one shall not rise. It is as though my eyes rebelled against you and I concealed from the heart what they see. To reveal what I am entrusted with would be treachery, and a free man does not betray. When I am capable of uttering something, I am even more capable of refraining. I command my soul as I wish and master it even when the lances are reddened with blood. Turn by turn, O sword of its destiny, and yours is the command, O best of those who command. Your messenger came to me in haste, and my stored-up poetry answered his call. Had it been a dark day of battle, my sword and my chestnut steed would have answered instead. May fate never neglect its own people, for you are the eye through which it sees.",
+    "vocabularyHighlights": [
+      { "word": "أوثر", "meaning": "I prefer, I choose" },
+      { "word": "المروءة", "meaning": "manliness, chivalry, honor" },
+      { "word": "الحشا", "meaning": "the innermost part, the breast" },
+      { "word": "مستودع", "meaning": "entrusted with (a secret)" },
+      { "word": "القنا", "meaning": "lances, spears" },
+      { "word": "الأشقر", "meaning": "chestnut horse" },
+      { "word": "دواليك", "meaning": "turn by turn, alternately" }
+    ],
+    "context": "A poem of loyalty and trust addressed to a patron, in which al-Mutanabbi pledges absolute discretion about the patron's secrets. The poem interweaves themes of honor, trustworthiness, and martial readiness, reflecting the dual role of the court poet as both literary servant and potential warrior."
+  },
+  {
+    "id": "mutanabbi-51",
+    "poetId": "mutanabbi",
+    "titleAr": "إن الأمير أدام الله دولته",
+    "titleEn": "The Prince — May God Prolong His Reign",
+    "genre": "wasf",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "إن الأمير أدام الله دولته",
+        "ajuz": "لفاخر كسيت فخرا به مضر"
+      },
+      {
+        "sadr": "في الشرب جارية من تحتها خشب",
+        "ajuz": "ما كان والدها جن ولا بشر"
+      },
+      {
+        "sadr": "قامت على فرد رجل من مهابته",
+        "ajuz": "وليس تعقل ما تأتي وما تذر"
+      }
+    ],
+    "translationEn": "The prince — may God prolong his reign — is a glory that has clothed the tribe of Mudar in pride. At the drinking session there is a maiden standing upon wood, whose father was neither jinn nor human. She stands on one leg out of awe of him, and she does not comprehend what she does or leaves undone.",
+    "vocabularyHighlights": [
+      { "word": "دولته", "meaning": "his reign, his dynasty" },
+      { "word": "مضر", "meaning": "Mudar (great Arab tribal confederation)" },
+      { "word": "جارية", "meaning": "maiden; also: flowing (ship)" },
+      { "word": "مهابته", "meaning": "his awe, his majesty" },
+      { "word": "تذر", "meaning": "leaves, abandons" }
+    ],
+    "context": "A playful riddle-poem describing a wine jug or bottle at a gathering — the 'maiden standing on wood whose father was neither jinn nor human' and who 'stands on one leg' in awe. Such riddle descriptions (wasf) were a popular poetic game at Abbasid courts."
+  },
+  {
+    "id": "mutanabbi-52",
+    "poetId": "mutanabbi",
+    "titleAr": "ألصوم والفطر والأعياد والعصر",
+    "titleEn": "Fasting and Feasting, Festivals and Ages",
+    "genre": "madih",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "ألصوم والفطر والأعياد والعصر",
+        "ajuz": "منيرة بك حتى الشمس والقمر"
+      },
+      {
+        "sadr": "تري الأهلة وجها عم نائله",
+        "ajuz": "فما يخص به من دونها البشر"
+      },
+      {
+        "sadr": "ما الدهر عندك إلا روضة أنف",
+        "ajuz": "يا من شمائله في دهره زهر"
+      },
+      {
+        "sadr": "ما ينتهي لك في أيامه كرم",
+        "ajuz": "فلا انتهى لك أعوامه عمر"
+      },
+      {
+        "sadr": "فان حظك من تكرارها شرف",
+        "ajuz": "وحظ غيرك منها الشيب والكبر"
+      }
+    ],
+    "translationEn": "Fasting and feasting, festivals and ages are all illuminated by you — even the sun and the moon. The crescents see a face whose bounty is universal; what he bestows is not reserved for humans alone. Time in your presence is nothing but a fresh garden, O you whose character blooms like flowers in your era. Your generosity knows no end in its days, so may your years and life know no end. Your share of time's recurrence is honor, while others' share of it is gray hair and old age.",
+    "vocabularyHighlights": [
+      { "word": "الصوم", "meaning": "fasting (Ramadan)" },
+      { "word": "الفطر", "meaning": "breaking of fast (Eid al-Fitr)" },
+      { "word": "الأهلة", "meaning": "crescent moons" },
+      { "word": "نائله", "meaning": "his bounty, his gifts" },
+      { "word": "روضة أنف", "meaning": "a fresh, untouched garden" },
+      { "word": "شمائله", "meaning": "his character traits, noble qualities" }
+    ],
+    "context": "A festival panegyric (Eid poem) praising a patron's generosity, likely composed for Eid al-Fitr. Al-Mutanabbi contrasts the patron's eternal gain of honor from passing time with ordinary people who gain only aging and gray hair — a bittersweet meditation on mortality wrapped in praise."
+  },
+  {
+    "id": "mutanabbi-53",
+    "poetId": "mutanabbi",
+    "titleAr": "ظلم لذا اليوم وصف قبل رؤيته",
+    "titleEn": "To Describe This Day Before Seeing It Is Injustice",
+    "genre": "madih",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "ظلم لذا اليوم وصف قبل رؤيته",
+        "ajuz": "لا يصدق الوصف حتى يصدق النظر"
+      },
+      {
+        "sadr": "تزاحم الجيش حتى لم يجد سببا",
+        "ajuz": "إلى بساطك لي سمع ولا بصر"
+      },
+      {
+        "sadr": "فكنت أشهد مختصا وأغيبه",
+        "ajuz": "معاينا وعياني كله خبر"
+      },
+      {
+        "sadr": "أليوم يرفع ملك الروم ناظره",
+        "ajuz": "لأن عفوك منه عنده ظفر"
+      },
+      {
+        "sadr": "وإن أجبت بشيء عن رسائله",
+        "ajuz": "فما يزال على الأملاك يفتخر"
+      },
+      {
+        "sadr": "قد استراحت إلى وقت رقابهم",
+        "ajuz": "من السيوف وباقي القوم ينتظر"
+      },
+      {
+        "sadr": "وقد تبدلها بالقوم غيرهم",
+        "ajuz": "لكي تجم رؤوس القوم والقصر"
+      },
+      {
+        "sadr": "تشبيه جودك بالأمطار غادية",
+        "ajuz": "جود لكفك ثان ناله المطر"
+      },
+      {
+        "sadr": "تكسب الشمس منك النور طالعة",
+        "ajuz": "كما تكسب منها نوره القمر"
+      }
+    ],
+    "translationEn": "To describe this day before witnessing it is injustice — description cannot be true until the eye confirms it. The army crowded so densely that neither my hearing nor my sight could find a path to your carpet. I was present in special audience yet absent from it, an eyewitness whose witnessing was all hearsay. Today the Roman emperor lifts his gaze, for your pardon of him counts as his victory. If you reply to his letters with anything, he will forever boast of it before kings. For a time, their necks have rested from swords, and the rest of the people await their turn. Others have replaced them so that the heads and the palace may rest. To liken your generosity to morning rains is itself a second act of generosity that your hand bestows upon the rain. The sun gains its light from you as it rises, just as the moon gains its light from the sun.",
+    "vocabularyHighlights": [
+      { "word": "بساطك", "meaning": "your carpet, your royal audience" },
+      { "word": "عياني", "meaning": "my eyewitnessing" },
+      { "word": "ملك الروم", "meaning": "the Roman (Byzantine) emperor" },
+      { "word": "غادية", "meaning": "morning rain clouds" },
+      { "word": "تجم", "meaning": "to rest, recover (of heads/necks)" },
+      { "word": "الأملاك", "meaning": "the kings" }
+    ],
+    "context": "A panegyric for Sayf al-Dawla celebrating a diplomatic triumph over the Byzantine emperor. The poem captures the grandeur of a royal audience so packed that the poet himself could barely see. The final image — the sun gaining its light from the patron — inverts the cosmic order as the ultimate hyperbole."
+  },
+  {
+    "id": "mutanabbi-54",
+    "poetId": "mutanabbi",
+    "titleAr": "إني لأعلم واللبيب خبير",
+    "titleEn": "I Know Full Well — and the Wise Man Is Knowing",
+    "genre": "ritha",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "إني لأعلم واللبيب خبير",
+        "ajuz": "أن الحياة وإن حرصت غرور"
+      },
+      {
+        "sadr": "ورأيت كلا ما يعلل نفسه",
+        "ajuz": "بتعلة والى الفناء يصير"
+      },
+      {
+        "sadr": "أمجاور الديماس رهن قرارة",
+        "ajuz": "فيها الضياء بوجهه والنور"
+      },
+      {
+        "sadr": "ما كنت أحسب قبل دفنك في الثرى",
+        "ajuz": "أن الكواكب في التراب تغور"
+      },
+      {
+        "sadr": "ما كنت آمل قبل نعشك أن أرى",
+        "ajuz": "رضوى على أيدي الرجال تسير"
+      },
+      {
+        "sadr": "خرجوا به ولكل باك خلفه",
+        "ajuz": "صعقات موسى يوم دك الطور"
+      },
+      {
+        "sadr": "والشمس في كبد السماء مريضة",
+        "ajuz": "والأرض واجفة تكاد تمور"
+      },
+      {
+        "sadr": "وحفيف أجنحة الملائك حوله",
+        "ajuz": "وعيون أهل اللاذقية صور"
+      },
+      {
+        "sadr": "حتى أتوا جدثا كأن ضريحه",
+        "ajuz": "في قلب كل موحد محفور"
+      },
+      {
+        "sadr": "بمزود كفن البلى من ملكه",
+        "ajuz": "مغف وإثمد عينه الكافور"
+      },
+      {
+        "sadr": "فيه السماحة والفصاحة والتقى",
+        "ajuz": "والبأس أجمع والحجى والخير"
+      },
+      {
+        "sadr": "وكأنما عيسى بن مريم ذكره",
+        "ajuz": "وكأن عازر شخصه المقبور"
+      }
+    ],
+    "translationEn": "I know full well, and the wise man is knowing, that life, however much you cling to it, is an illusion. I have seen everyone console himself with some pretext, though all march toward annihilation. O neighbor of the dark dungeon, held in a pit where the only light and radiance are from his face — I never thought before your burial in the earth that stars could sink into the dust. I never hoped before your bier to see Mount Radwa carried upon the hands of men. They bore him out, and behind every mourner were the thunderbolts of Moses on the day the Mount was leveled. The sun hung sick in the belly of the sky, and the earth trembled as though about to heave. The rustling of angel wings surrounded him, and the eyes of the people of Latakia were frozen wide. Until they reached a grave whose tomb seemed carved in the heart of every believer. With provisions — decay has shrouded from his kingdom only a helmet, and the kohl of his eyes is camphor. In him were generosity, eloquence, piety, valor entire, wisdom, and goodness. It is as though Jesus son of Mary were his story, and as though Lazarus were his buried form.",
+    "vocabularyHighlights": [
+      { "word": "غرور", "meaning": "illusion, deception" },
+      { "word": "الديماس", "meaning": "dark dungeon, darkness" },
+      { "word": "الثرى", "meaning": "the earth, dust" },
+      { "word": "رضوى", "meaning": "Mount Radwa (famous mountain)" },
+      { "word": "صعقات", "meaning": "thunderbolts, swoons" },
+      { "word": "الطور", "meaning": "Mount Sinai (al-Tur)" },
+      { "word": "اللاذقية", "meaning": "Latakia (Syrian coastal city)" },
+      { "word": "عازر", "meaning": "Lazarus (raised from the dead)" }
+    ],
+    "context": "A powerful elegy (ritha) for a great figure buried in Latakia, opening with philosophical reflections on the illusion of life before depicting the cosmic funeral procession. The comparison of the dead man to the stars sinking into dust and his bier to Mount Radwa carried by men are among al-Mutanabbi's most striking images. The closing reference to Jesus and Lazarus implies hope for the deceased's memory to be resurrected."
+  },
+  {
+    "id": "mutanabbi-55",
+    "poetId": "mutanabbi",
+    "titleAr": "نال الذي نلت منه مني",
+    "titleEn": "He Got from Me What I Got from Him",
+    "genre": "wasf",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "نال الذي نلت منه مني",
+        "ajuz": "لله ما تصنع الخمور"
+      },
+      {
+        "sadr": "وفي انصرافي إلى محلي",
+        "ajuz": "أآذن أيها الأمير ؟"
+      }
+    ],
+    "translationEn": "He got from me what I got from him — God knows what wine does! And as for my departure to my quarters — do I have your permission, O prince?",
+    "vocabularyHighlights": [
+      { "word": "نال", "meaning": "attained, got" },
+      { "word": "الخمور", "meaning": "wines" },
+      { "word": "انصرافي", "meaning": "my departure" },
+      { "word": "محلي", "meaning": "my quarters, my place" },
+      { "word": "أآذن", "meaning": "do I have permission?" }
+    ],
+    "context": "A witty two-verse occasional poem composed at the end of a wine gathering. The mutual intoxication — 'he got from me what I got from him' — and the formal request for permission to leave create a charming snapshot of courtly etiquette."
+  },
+  {
+    "id": "mutanabbi-56",
+    "poetId": "mutanabbi",
+    "titleAr": "ترك مدحيك كالهجاء لنفسي",
+    "titleEn": "Leaving Your Praise Is Like Satire Against Myself",
+    "genre": "madih",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "ترك مدحيك كالهجاء لنفسي",
+        "ajuz": "وقليل لك المديح الكثير"
+      },
+      {
+        "sadr": "غير أني تركت مقتضب الشع",
+        "ajuz": "ر لأمر مثلي به معذور"
+      },
+      {
+        "sadr": "وسجاياك ما دحاتك لالف",
+        "ajuz": "ظي وجود على كلامي يغير"
+      },
+      {
+        "sadr": "فسقى الله من أحب بكفي",
+        "ajuz": "ك وأسقاك أيهذا الأمير"
+      }
+    ],
+    "translationEn": "Leaving off your praise is like satire against myself, and even abundant praise is too little for you. Yet I abandoned brief poetry for a reason that one like me is excused for. Your noble traits have so outstripped my words, and generosity has so altered my speech, that may God water those you love through your hands, and may He give you to drink, O prince.",
+    "vocabularyHighlights": [
+      { "word": "الهجاء", "meaning": "satire, invective" },
+      { "word": "المديح", "meaning": "praise, panegyric" },
+      { "word": "مقتضب", "meaning": "abrupt, cut short" },
+      { "word": "سجاياك", "meaning": "your innate noble qualities" },
+      { "word": "دحاتك", "meaning": "spread out (of qualities)" }
+    ],
+    "context": "A poem of apology and praise in which al-Mutanabbi explains that his silence was not neglect — rather, the patron's qualities so exceeded what words could capture that the poet was rendered speechless. The paradox of praising by apologizing for insufficient praise is a sophisticated rhetorical move."
+  },
+  {
+    "id": "mutanabbi-57",
+    "poetId": "mutanabbi",
+    "titleAr": "زعمت أنك تنفي الظن عن أدبي",
+    "titleEn": "You Claimed You Would Dispel Doubt About My Art",
+    "genre": "fakhr",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "زعمت أنك تنفي الظن عن أدبي",
+        "ajuz": "وأنت أعظم أهل الأرض مقدارا"
+      },
+      {
+        "sadr": "إني أنا الذهب المعروف مخبره",
+        "ajuz": "يزيد في السبك للدينار دينارا"
+      }
+    ],
+    "translationEn": "You claimed you would dispel doubt about my literary art, and you are the greatest person on earth in stature. I am the gold whose quality is well known — smelting only adds dinar upon dinar to its value.",
+    "vocabularyHighlights": [
+      { "word": "الظن", "meaning": "doubt, suspicion" },
+      { "word": "أدبي", "meaning": "my literary art, my refinement" },
+      { "word": "مقدارا", "meaning": "in stature, in worth" },
+      { "word": "الذهب", "meaning": "gold" },
+      { "word": "السبك", "meaning": "smelting, refining" },
+      { "word": "الدينار", "meaning": "gold dinar (coin)" }
+    ],
+    "context": "A sharp two-verse epigram of self-praise in which al-Mutanabbi compares himself to gold that only increases in value with testing. The implication is clear: no examination or challenge will diminish him, only prove his worth further."
+  },
+  {
+    "id": "mutanabbi-58",
+    "poetId": "mutanabbi",
+    "titleAr": "باد هواك صبرت أم لم تصبرا",
+    "titleEn": "Your Love Is Plain, Whether You Endured or Not",
+    "genre": "madih",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "باد هواك صبرت أم لم تصبرا",
+        "ajuz": "وبكاك ان لم يجر دمعك أو جرى"
+      },
+      {
+        "sadr": "كم غر صبرك وابتسامك صاحبا",
+        "ajuz": "لما رآه وفي الحشا ما لا يرى"
+      },
+      {
+        "sadr": "أمر الفؤاد لسانه وجفونه",
+        "ajuz": "فكتمنه وكفى بجسمك مخبرا"
+      },
+      {
+        "sadr": "أعطى الزمان فما قبلت عطاءه",
+        "ajuz": "وأراد لي فأردت أن اتخيرا"
+      },
+      {
+        "sadr": "أرجان أيتها الجياد فإنه",
+        "ajuz": "عزمي الذي يذر الوشيج مكسرا"
+      },
+      {
+        "sadr": "لو كنت أفعل ما اشتهيت فعاله",
+        "ajuz": "ما شق كوكبك العجاج الأكدرا"
+      },
+      {
+        "sadr": "أمي أبا الفضل المبر أليتي",
+        "ajuz": "لأيممن أجل بحر جوهرا"
+      },
+      {
+        "sadr": "إن لم تغثني خيله وسلاحه",
+        "ajuz": "فمتى أقود إلى الأعادي عسكرا"
+      },
+      {
+        "sadr": "يا من إذا ورد البلاد كتابه",
+        "ajuz": "قبل الجيوش ثنى الجيوش تحيرا"
+      },
+      {
+        "sadr": "أنت الوحيد إذا ركبت طريقة",
+        "ajuz": "ومن الرديف وقد ركبت غضنفرا"
+      },
+      {
+        "sadr": "خلفت صفاتك في العيون كلامه",
+        "ajuz": "كالخط يملأ مسمعي من أبصرا"
+      },
+      {
+        "sadr": "بدرت إليك يد الزمان كأنها",
+        "ajuz": "وجدته مشغول اليدين مفكرا"
+      },
+      {
+        "sadr": "من مبلغ الأعراب أني بعدها",
+        "ajuz": "جالست رسطاليس والاسكندرا"
+      },
+      {
+        "sadr": "أنا من جميع الناس أطيب منزلا",
+        "ajuz": "وأسر راحلة وأربحث متجرا"
+      },
+      {
+        "sadr": "زحل على أن الكواكب قومه",
+        "ajuz": "لو كان منك لكان أكرم معشرا"
+      }
+    ],
+    "translationEn": "Your love is plain, whether you endured or not, and it weeps for you whether your tears flowed or held back. How often your patience and smile deceived a companion who saw you while within your breast lay what cannot be seen. The heart commanded its tongue and eyelids to conceal, and your body alone was informer enough. Time offered its gifts but I did not accept them; it willed one thing for me, and I chose to be selective. Onward to Arrajan, O steeds, for this is my resolve that leaves the lances shattered. Had I done what I desired, your star would not have pierced the murky dust-cloud. I am heading toward Abu al-Fadl, the righteous — I have sworn to seek the greatest ocean for gems. If his cavalry and arms do not aid me, when shall I ever lead an army against my enemies? O you whose letter, when it reaches a land before his armies, turns those armies back in bewilderment — you are the sole rider when you take a path, and who would ride behind one mounted on a lion? Your qualities left in the eye what his speech left — like writing that fills the ears of one who sees it. Time's hand hastened toward you as though it found him preoccupied and deep in thought. Who will tell the Bedouins that after them I sat with Aristotle and Alexander? I am, of all people, the most pleasant in dwelling, the happiest in mount, and the most profitable in trade. Saturn, though the planets are his people — had he been of your stock, he would have been the most honored of company.",
+    "vocabularyHighlights": [
+      { "word": "باد", "meaning": "apparent, evident" },
+      { "word": "الحشا", "meaning": "the innermost part, breast" },
+      { "word": "الوشيج", "meaning": "lances, spears (of bamboo)" },
+      { "word": "غضنفرا", "meaning": "a lion (fierce)" },
+      { "word": "رسطاليس", "meaning": "Aristotle" },
+      { "word": "الاسكندرا", "meaning": "Alexander (the Great)" },
+      { "word": "زحل", "meaning": "Saturn (the planet)" }
+    ],
+    "context": "A major qasida composed on the road to Arrajan (in Persia), praising Abu al-Fadl. The poem is notable for its reference to sitting with Aristotle and Alexander — an allusion to the philosophical and literary culture of the Buyid courts. The closing comparison of the patron to Saturn elevates him above the celestial bodies."
+  },
+  {
+    "id": "mutanabbi-59",
+    "poetId": "mutanabbi",
+    "titleAr": "أرى ذلك القرب صار ازورارا",
+    "titleEn": "I See That Closeness Has Turned to Estrangement",
+    "genre": "madih",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "أرى ذلك القرب صار ازورارا",
+        "ajuz": "وصار طويل السلام اختصارا"
+      },
+      {
+        "sadr": "تركتني اليوم في خجلة",
+        "ajuz": "أموت مرارا وأحيا مرارا"
+      },
+      {
+        "sadr": "أسارقك اللحظ مستحييا",
+        "ajuz": "وأزجر في الخيل مهري سرارا"
+      },
+      {
+        "sadr": "وأعلم أني إذا ما اعتذرت",
+        "ajuz": "إليك أراد اعتذاري اعتذارا"
+      },
+      {
+        "sadr": "كفرت مكارمك الباهرا",
+        "ajuz": "ت إن كان ذلك مني اختيارا"
+      },
+      {
+        "sadr": "ولكن حمى الشعر إلا القلي",
+        "ajuz": "ل هم حمى النوم إلا غرارا"
+      },
+      {
+        "sadr": "وما أنا اسقمت جسمي به",
+        "ajuz": "ولا أنا أضرمت في القلب نارا"
+      },
+      {
+        "sadr": "فلا تلزمني ذنوب الزمان ،",
+        "ajuz": "إلي أساء وإياي ضارا"
+      },
+      {
+        "sadr": "وعندي لك الشرد السائرا",
+        "ajuz": "ت لا يختصصن من الأرض دارا"
+      },
+      {
+        "sadr": "قواف إذا سرن عن مقولي",
+        "ajuz": "وثبن الجبال وخضن البحارا"
+      },
+      {
+        "sadr": "ولي فيك ما لم يقل قائل",
+        "ajuz": "وما لم يسر قمر حيث سارا"
+      },
+      {
+        "sadr": "فلو خلق الناس من دهرهم",
+        "ajuz": "لكانوا الظلام وكنت النهارا"
+      },
+      {
+        "sadr": "ومن كنت بحرا له يا علي",
+        "ajuz": "لم يقبل الدر إلا كبارا"
+      }
+    ],
+    "translationEn": "I see that our closeness has turned to estrangement, and the long greeting has become brief. You have left me today in such shame that I die over and over and come alive over and over. I steal glances at you bashfully and silently rein in my horse among the cavalry. I know that when I apologize to you, my apology itself requires an apology. I would have denied your dazzling noble deeds if my absence were by choice. But worry has forbidden poetry save a little, as worry has forbidden sleep save a doze. I did not make my body ill, nor did I set fire to my heart. So do not blame me for time's sins — it wronged me and harmed none but me. I have for you verses that wander the world and favor no land over another. Rhymes that, when they depart from my tongue, leap over mountains and wade through seas. I have in you what no speaker has said, and what no moon has ever carried in its course. If people were created from their era, they would be the darkness and you the daylight. And for one whose ocean you are, O Ali, he will accept only the largest pearls.",
+    "vocabularyHighlights": [
+      { "word": "ازورارا", "meaning": "estrangement, turning away" },
+      { "word": "أسارقك", "meaning": "I steal (glances) at you" },
+      { "word": "اللحظ", "meaning": "the glance" },
+      { "word": "الشرد", "meaning": "wandering (verses), stray poems" },
+      { "word": "قوافٍ", "meaning": "rhymes, verse-endings" },
+      { "word": "الدر", "meaning": "pearls" },
+      { "word": "كبارا", "meaning": "large, great (pearls)" }
+    ],
+    "context": "A qasida addressed to Ali, combining apology for poetic silence with self-confident praise. Al-Mutanabbi blames illness and misfortune for his absence, not any lack of devotion. The imagery of verses leaping mountains and wading seas captures the poet's belief in the immortality and reach of his work."
+  },
+  {
+    "id": "mutanabbi-60",
+    "poetId": "mutanabbi",
+    "titleAr": "مرتك ابن ابراهيم صافية الخمر",
+    "titleEn": "The Clear Wine Passed to You, O Son of Ibrahim",
+    "genre": "wasf",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "مرتك ابن ابراهيم صافية الخمر",
+        "ajuz": "وهنئتها من شارب مسكر السكر"
+      },
+      {
+        "sadr": "رأيت الحميا في الزجاج بكفه",
+        "ajuz": "فشبهتها بالشمس في البدر في البحر"
+      },
+      {
+        "sadr": "إذا ما ذكرنا جوده كان حاضرا",
+        "ajuz": "نأى أودنا يسعى على قدم الخضر"
+      }
+    ],
+    "translationEn": "The clear wine passed to you, O son of Ibrahim, and I congratulated her on a drinker who intoxicates intoxication itself. I saw the wine in the glass in his hand and likened it to the sun in the full moon upon the sea. Whenever we mention his generosity, it comes running — though far away, it hastens on the feet of al-Khidr.",
+    "vocabularyHighlights": [
+      { "word": "صافية", "meaning": "clear, pure (wine)" },
+      { "word": "الحميا", "meaning": "wine, intoxicating drink" },
+      { "word": "الزجاج", "meaning": "glass, goblet" },
+      { "word": "البدر", "meaning": "full moon" },
+      { "word": "الخضر", "meaning": "al-Khidr (the immortal guide in Islamic tradition)" }
+    ],
+    "context": "A short wine-scene poem praising Ibn Ibrahim at a gathering. The layered simile — wine as the sun in the full moon upon the sea — creates a triple image of luminous beauty. The reference to al-Khidr's miraculous speed poetically describes how the patron's generosity arrives the moment it is mentioned."
+  },
+  {
+    "id": "mutanabbi-61",
+    "poetId": "mutanabbi",
+    "titleAr": "بقية قوم آذنوا ببوار",
+    "titleEn": "Remnants of a People Who Foretold Their Own Ruin",
+    "genre": "hikma",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "بقية قوم آذنوا ببوار",
+        "ajuz": "وأنضاء أسفار كشرب عقار"
+      },
+      {
+        "sadr": "نزلنا على حكم الرياح بمسجد",
+        "ajuz": "علينا لها ثوبا حصى وغبار"
+      },
+      {
+        "sadr": "خليلي ما هذا مناخا لمثلنا",
+        "ajuz": "فشدا عليها وارحلا بنهار"
+      },
+      {
+        "sadr": "ولا تنكرا عصف الرياح فإنها",
+        "ajuz": "قرى كل ضيف بات عند سوار"
+      }
+    ],
+    "translationEn": "We are the remnants of a people who foretold their own ruin, and emaciated travelers like drinkers of wine. We halted at the mercy of the winds in a mosque where pebbles and dust clothed us as their garments. My two companions, this is no resting place for the likes of us — tighten the saddles and depart by daylight! And do not be surprised at the howling winds, for they are the hospitality offered to every guest who spends the night at Suwar.",
+    "vocabularyHighlights": [
+      { "word": "بوار", "meaning": "ruin, destruction" },
+      { "word": "أنضاء", "meaning": "emaciated (camels or travelers)" },
+      { "word": "مناخا", "meaning": "resting place, campsite" },
+      { "word": "عصف", "meaning": "howling, violent blowing" },
+      { "word": "قرى", "meaning": "hospitality (offered to a guest)" },
+      { "word": "سوار", "meaning": "Suwar (a town in Iraq)" }
+    ],
+    "context": "A poem of travel and hardship composed during one of al-Mutanabbi's journeys, likely on the road between Iraq and Persia. The image of weary travelers sheltering in a mosque while the wind pelts them with sand captures the harsh realities of 10th-century desert travel. The ironic description of the wind as 'hospitality' is characteristic of his dark humor."
+  }
+]

@@ -1,0 +1,122 @@
+{
+  "id": "sulh",
+  "titleAr": "كتاب الصلح",
+  "titleEn": "Settlement",
+  "order": 17,
+  "categoryId": "muamalat",
+  "pageRange": [
+    111,
+    113
+  ],
+  "abwab": [
+    {
+      "id": "sulh-main",
+      "kitabId": "sulh",
+      "titleAr": "كتاب الصلح",
+      "titleEn": "Settlement",
+      "order": 1,
+      "sections": [
+        {
+          "id": "sulh-main-1-1",
+          "babId": "sulh-main",
+          "kitabId": "sulh",
+          "titleAr": "كتاب الصلح",
+          "titleEn": "Settlement",
+          "order": 1,
+          "textAr": "الصلح: على ثلاثة أضرب: صلح مع إقرار وصلح مع سكوت وهو أن لا يقر المدعى عليه ولا ينكره وصلح مع إنكار وكل ذلك جائز\n\nفإن وقع الصلح عن إقرار اعتبر فيه ما يعتبر في البياعات إن وقع عن مال بمال وإن وقع عن مال بمنافع فيعتبر بالإجارات\n\nوالصلح عن السكوت والإنكار في حق المدعى عليه لافتداء اليمين وقطع الخصومة وفي حق المدعي بمعنى المعاوضة\n\nوإذا صالح عن دار لم تجب فيه شفعة وإذا صالح على دار وجبت فيها الشفعة\n\nوإذا كان الصلح عن إقرار فاستحق بعض المصالح عنه رجع المدعى عليه بحصة ذلك من العوض\n\nوإن وقع الصلح عن سكوت أو إنكار فاستحق المتنازع فيه رجع المدعي بالخصومة ورد العوض وإن استحق بعض ذلك رد حصته ورجع بالخصومة فيه وإن ادعى حقا في دار لم يبينه فصولح من ذلك على شيء ثم استحق بعض الدار لم يرد شيئا من العوض لأن دعواه يجوز أن تكون فيما بقي",
+          "sourcePage": 111,
+          "masail": [
+            {
+              "id": "masalah-sulh-main-1-1",
+              "sectionId": "sulh-main-1-1",
+              "kitabId": "sulh",
+              "titleAr": "كتاب الصلح",
+              "titleEn": "Settlement",
+              "rulingAr": "الصلح: على ثلاثة أضرب: صلح مع إقرار وصلح مع سكوت وهو أن لا يقر المدعى عليه ولا ينكره وصلح مع إنكار وكل ذلك جائز\n\nفإن وقع الصلح عن إقرار اعتبر فيه ما يعتبر في البياعات إن وقع عن مال بمال وإن وقع عن مال بمنافع فيعتبر بالإجارات\n\nوالصلح عن السكوت والإنكار في حق المدعى عليه لافتداء اليمين وقطع الخصومة وفي حق المدعي بمعنى المعاوضة\n\nوإذا صالح عن دار لم تجب فيه شفعة وإذا صالح على دار وجبت فيها الشفعة\n\nوإذا كان الصلح عن إقرار فاستحق بعض المصالح عنه رجع المدعى عليه بحصة ذلك من العوض\n\nوإن وقع الصلح عن سكوت أو إنكار فاستحق المتنازع فيه رجع المدعي بالخصومة ورد العوض وإن استحق بعض ذلك رد حصته ورجع بالخصومة فيه وإن ادعى حقا في دار لم يبينه فصولح من ذلك على شيء ثم استحق بعض الدار لم يرد شيئا من العوض لأن دعواه يجوز أن تكون فيما بقي",
+              "rulingEn": "Settlement (sulh) is of three types: settlement with acknowledgment, settlement with silence -- which is when the defendant neither acknowledges nor denies -- and settlement with denial. All of these are permissible.\n\nIf the settlement occurs upon acknowledgment, what is considered in sales applies to it if it involves property for property, and what is considered in hiring applies if it involves property for benefits.\n\nSettlement upon silence and denial is, from the defendant's perspective, a ransom for his oath and a cutting off of litigation. From the claimant's perspective, it is a form of exchange.\n\nIf the settlement is from a claim on a house, pre-emption does not arise in it. If the settlement is upon a house, pre-emption arises in it.\n\nIf the settlement is upon acknowledgment and part of the settled-upon property is claimed by a third party (istihqaq), the defendant recovers the proportionate share of the consideration.\n\nIf the settlement occurs upon silence or denial and the disputed property is claimed by a third party, the claimant returns to the litigation and returns the consideration. If part of the disputed property is claimed, its share is returned and the claimant resumes litigation regarding it. If someone claims a right in a house without specifying it, and settles for something, and then part of the house is claimed by a third party, nothing of the consideration is returned because his claim might relate to what remains.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "Settlement (sulh) is of three types: settlement with acknowledgment, settlement with silence -- which is when the defendant neither acknowledges nor denies -- and settlement with denial. All of these are permissible.\n\nIf the settlement occurs upon acknowledgment, what is considered in sales applies to it if it involves property for property, and what is considered in hiring applies if it involves property for benefits.\n\nSettlement upon silence and denial is, from the defendant's perspective, a ransom for his oath and a cutting off of litigation. From the claimant's perspective, it is a form of exchange.\n\nIf the settlement is from a claim on a house, pre-emption does not arise in it. If the settlement is upon a house, pre-emption arises in it.\n\nIf the settlement is upon acknowledgment and part of the settled-upon property is claimed by a third party (istihqaq), the defendant recovers the proportionate share of the consideration.\n\nIf the settlement occurs upon silence or denial and the disputed property is claimed by a third party, the claimant returns to the litigation and returns the consideration. If part of the disputed property is claimed, its share is returned and the claimant resumes litigation regarding it. If someone claims a right in a house without specifying it, and settles for something, and then part of the house is claimed by a third party, nothing of the consideration is returned because his claim might relate to what remains."
+        },
+        {
+          "id": "sulh-main-1-2",
+          "babId": "sulh-main",
+          "kitabId": "sulh",
+          "titleAr": "كتاب الصلح",
+          "titleEn": "Settlement",
+          "order": 2,
+          "textAr": "والصلح جائز من دعوى الأموال والمنافع وجنابة العمد والخطإ ولا يجوز من دعوى حد\n\nوإذا ادعى رجل على امرأة نكاحا وهي تجحد فصالحته على مال بذلته\n\nحتى يترك الدعوى جاز وكان في معنى الخلع وإن ادعت امرأة نكاحا على رجل فصالحها على مال بذله لها لم تجز وإن ادعى على رجل أنه عبده فصالحته على مال أعطاه جاز وكان في حق المدعي في معنى العتق على مال وكل شيء وقع عليه الصلح وهو مستحق بعقد المداينة لم يحمل على المعاوضة لم يحمل على المعاوضة وإنما يحمل على أنه استوفى بعض حقه وأسقط باقية\n\nكمن له على رجل ألف دلاهم جياد فصالحه على خمسمائة زيوف جاز وصار كأنه أبرأه عن بعض حقه وأخذ باقيه ولو صالحه على ألف مؤجل جاز وصار كأنه أجل نفس الحق\n\nولو صالحه على دنانير إلى شهر لم يجز ولو كان له ألف مؤجلة فصالحه على خمسمائة حالة لم يجز ولو كان له ألف سود فصالحه على خمسمائة بيض لم يجز",
+          "sourcePage": 111,
+          "masail": [
+            {
+              "id": "masalah-sulh-main-1-2",
+              "sectionId": "sulh-main-1-2",
+              "kitabId": "sulh",
+              "titleAr": "كتاب الصلح",
+              "titleEn": "Settlement",
+              "rulingAr": "والصلح جائز من دعوى الأموال والمنافع وجنابة العمد والخطإ ولا يجوز من دعوى حد\n\nوإذا ادعى رجل على امرأة نكاحا وهي تجحد فصالحته على مال بذلته\n\nحتى يترك الدعوى جاز وكان في معنى الخلع وإن ادعت امرأة نكاحا على رجل فصالحها على مال بذله لها لم تجز وإن ادعى على رجل أنه عبده فصالحته على مال أعطاه جاز وكان في حق المدعي في معنى العتق على مال وكل شيء وقع عليه الصلح وهو مستحق بعقد المداينة لم يحمل على المعاوضة لم يحمل على المعاوضة وإنما يحمل على أنه استوفى بعض حقه وأسقط باقية\n\nكمن له على رجل ألف دلاهم جياد فصالحه على خمسمائة زيوف جاز وصار كأنه أبرأه عن بعض حقه وأخذ باقيه ولو صالحه على ألف مؤجل جاز وصار كأنه أجل نفس الحق\n\nولو صالحه على دنانير إلى شهر لم يجز ولو كان له ألف مؤجلة فصالحه على خمسمائة حالة لم يجز ولو كان له ألف سود فصالحه على خمسمائة بيض لم يجز",
+              "rulingEn": "Settlement is permissible for claims involving property, benefits, intentional homicide, and accidental killing. It is not permissible for a claim involving a hadd punishment.\n\nIf a man claims marriage against a woman and she denies it, and she settles with him by giving him property to drop the claim, it is valid and is treated as khul' divorce. If a woman claims marriage against a man and he settles with her by giving her property, it is not valid. If someone claims another person is his slave and settles with him for property given by the alleged slave, it is valid, and from the claimant's perspective, it is treated as manumission for a price. Every settlement upon something that is obligated by a debtor-creditor relationship is not treated as an exchange but rather as recovering part of his right and waiving the remainder.\n\nFor example, if someone is owed one thousand good dirhams and settles for five hundred defective dirhams, it is valid, as if he released him from part of his right and took the remainder. If he settles for one thousand deferred, it is valid, as if he deferred the right itself.\n\nIf he settles for dinars deferred for a month, it is not valid. If he is owed one thousand deferred and settles for five hundred immediate, it is not valid. If he is owed one thousand black dirhams and settles for five hundred white dirhams, it is not valid.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "Settlement is permissible for claims involving property, benefits, intentional homicide, and accidental killing. It is not permissible for a claim involving a hadd punishment.\n\nIf a man claims marriage against a woman and she denies it, and she settles with him by giving him property to drop the claim, it is valid and is treated as khul' divorce. If a woman claims marriage against a man and he settles with her by giving her property, it is not valid. If someone claims another person is his slave and settles with him for property given by the alleged slave, it is valid, and from the claimant's perspective, it is treated as manumission for a price. Every settlement upon something that is obligated by a debtor-creditor relationship is not treated as an exchange but rather as recovering part of his right and waiving the remainder.\n\nFor example, if someone is owed one thousand good dirhams and settles for five hundred defective dirhams, it is valid, as if he released him from part of his right and took the remainder. If he settles for one thousand deferred, it is valid, as if he deferred the right itself.\n\nIf he settles for dinars deferred for a month, it is not valid. If he is owed one thousand deferred and settles for five hundred immediate, it is not valid. If he is owed one thousand black dirhams and settles for five hundred white dirhams, it is not valid."
+        },
+        {
+          "id": "sulh-main-1-3",
+          "babId": "sulh-main",
+          "kitabId": "sulh",
+          "titleAr": "كتاب الصلح",
+          "titleEn": "Settlement",
+          "order": 3,
+          "textAr": "ومن وكل رجلا بالصلح عنه فصالحه لم يلزم الوكيل ما صالح عليه إلا أن يضمنه والمال لازم للموكل\n\nفإن صالح عنه على شيء بغير أمره فهو على أربعة أوجه: إن صالح بمال وضمنه تم الصلح\n\nوكذلك لو قال: صالحتك على ألفي هذه تم الصلح ولزمه تسليمها وكذلك لو قال: صالحتك على ألف وسلمها وإن قال: صالحتك على ألف ولم يسلمها فالعقد موقوف: فإن أجازه المدعى عليه جاز ولزمه الألف وإن لم يجزه بطل\n\nوإذا كان الدين بين شريكين فصالح أحدهما من نصيبه على ثوب فشريكه بالخيار: إن شاء اتبع عليه الدين بنصفه وإن شاء أخذ نصف الثوب إلا أن يضمن له شريكه ربع الدين ولو استوفى نصف نصيبه من الدين كان لشريكه أن يشركه فيما قبض\n\nثم يرجعان على الغريم بالباقي ولو اشترى أحدهما نصيبه من الدين سلعة كان لشريكه أن يضمنه ربع الدين\n\nوإذا كان السلم بين شريكين فصالح أحدهما من نصيبه على رأس المال لم يجز عند أبي حنيفة ومحمد رحمهما",
+          "sourcePage": 111,
+          "masail": [
+            {
+              "id": "masalah-sulh-main-1-3",
+              "sectionId": "sulh-main-1-3",
+              "kitabId": "sulh",
+              "titleAr": "كتاب الصلح",
+              "titleEn": "Settlement",
+              "rulingAr": "ومن وكل رجلا بالصلح عنه فصالحه لم يلزم الوكيل ما صالح عليه إلا أن يضمنه والمال لازم للموكل\n\nفإن صالح عنه على شيء بغير أمره فهو على أربعة أوجه: إن صالح بمال وضمنه تم الصلح\n\nوكذلك لو قال: صالحتك على ألفي هذه تم الصلح ولزمه تسليمها وكذلك لو قال: صالحتك على ألف وسلمها وإن قال: صالحتك على ألف ولم يسلمها فالعقد موقوف: فإن أجازه المدعى عليه جاز ولزمه الألف وإن لم يجزه بطل\n\nوإذا كان الدين بين شريكين فصالح أحدهما من نصيبه على ثوب فشريكه بالخيار: إن شاء اتبع عليه الدين بنصفه وإن شاء أخذ نصف الثوب إلا أن يضمن له شريكه ربع الدين ولو استوفى نصف نصيبه من الدين كان لشريكه أن يشركه فيما قبض\n\nثم يرجعان على الغريم بالباقي ولو اشترى أحدهما نصيبه من الدين سلعة كان لشريكه أن يضمنه ربع الدين\n\nوإذا كان السلم بين شريكين فصالح أحدهما من نصيبه على رأس المال لم يجز عند أبي حنيفة ومحمد رحمهما",
+              "rulingEn": "If someone appoints an agent for settlement and the agent settles, the agent is not bound by what he settles upon unless he guarantees it. The obligation falls upon the principal.\n\nIf someone settles on the principal's behalf without his instruction, it falls into four categories: if he settles with property and guarantees it, the settlement is completed.\n\nLikewise if he says: \"I settle with you for these one thousand of mine,\" the settlement is completed and he must deliver them. Likewise if he says: \"I settle with you for one thousand,\" and delivers them. But if he says: \"I settle with you for one thousand\" and does not deliver them, the contract is suspended: if the defendant ratifies it, it is valid and he owes the one thousand; if he does not ratify it, it is void.\n\nIf a debt is shared between two partners and one of them settles his share for a cloth, his partner has the option: if he wishes, he may pursue the debtor for half of the debt, and if he wishes, he may take half the cloth -- unless his partner guarantees him a quarter of the debt. If one partner recovers half of his share of the debt, his partner may share in what he collected.\n\nThen they both have recourse against the debtor for the remainder. If one of them purchases a commodity with his share of the debt, his partner may hold him liable for a quarter of the debt.\n\nIf a salam debt is shared between two partners and one of them settles his share for the capital, it is not valid according to Abu Hanifa and Muhammad (may Allah have mercy on them).",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "If someone appoints an agent for settlement and the agent settles, the agent is not bound by what he settles upon unless he guarantees it. The obligation falls upon the principal.\n\nIf someone settles on the principal's behalf without his instruction, it falls into four categories: if he settles with property and guarantees it, the settlement is completed.\n\nLikewise if he says: \"I settle with you for these one thousand of mine,\" the settlement is completed and he must deliver them. Likewise if he says: \"I settle with you for one thousand,\" and delivers them. But if he says: \"I settle with you for one thousand\" and does not deliver them, the contract is suspended: if the defendant ratifies it, it is valid and he owes the one thousand; if he does not ratify it, it is void.\n\nIf a debt is shared between two partners and one of them settles his share for a cloth, his partner has the option: if he wishes, he may pursue the debtor for half of the debt, and if he wishes, he may take half the cloth -- unless his partner guarantees him a quarter of the debt. If one partner recovers half of his share of the debt, his partner may share in what he collected.\n\nThen they both have recourse against the debtor for the remainder. If one of them purchases a commodity with his share of the debt, his partner may hold him liable for a quarter of the debt.\n\nIf a salam debt is shared between two partners and one of them settles his share for the capital, it is not valid according to Abu Hanifa and Muhammad (may Allah have mercy on them)."
+        },
+        {
+          "id": "sulh-main-1-4",
+          "babId": "sulh-main",
+          "kitabId": "sulh",
+          "titleAr": "كتاب الصلح",
+          "titleEn": "Settlement",
+          "order": 4,
+          "textAr": "الله وقال أبو يوسف ﵀: يجوز الصلح\n\nوإذا كانت التركة بين ورثة فأخرجوا أحدهم منها بمال أعطوه إياه والتركة عقار أو عروض جاز قليلا كان ما أعطوه أو كثيرا\n\nوإن كانت التركة فضة فأعطوه ذهبا أو كانت ذهبا فأعطوه فضة فهو كذلك\n\nوإن كانت التركة ذهبا وفضة وغير ذلك فصالحوه على فضة أو ذهب فلا بد أن يكون ما أعطوه أكثر من نصيبه من ذلك الجنس حتى يكون نصيبه بمثله والزيادة بحقه من بقية الميراث\n\nوإن كان في التركة دين على الناس فأدخلوه في الصلح على أن يخرجوا المصالح عنه ويكون الدين لهم فالصلح باطل فإن شرطوا أن يبرئ الغرماء منه ولا يرجع عليهم بنصيب المصالح فالصلح جائز",
+          "sourcePage": 111,
+          "masail": [
+            {
+              "id": "masalah-sulh-main-1-4",
+              "sectionId": "sulh-main-1-4",
+              "kitabId": "sulh",
+              "titleAr": "كتاب الصلح",
+              "titleEn": "Settlement",
+              "rulingAr": "الله وقال أبو يوسف ﵀: يجوز الصلح\n\nوإذا كانت التركة بين ورثة فأخرجوا أحدهم منها بمال أعطوه إياه والتركة عقار أو عروض جاز قليلا كان ما أعطوه أو كثيرا\n\nوإن كانت التركة فضة فأعطوه ذهبا أو كانت ذهبا فأعطوه فضة فهو كذلك\n\nوإن كانت التركة ذهبا وفضة وغير ذلك فصالحوه على فضة أو ذهب فلا بد أن يكون ما أعطوه أكثر من نصيبه من ذلك الجنس حتى يكون نصيبه بمثله والزيادة بحقه من بقية الميراث\n\nوإن كان في التركة دين على الناس فأدخلوه في الصلح على أن يخرجوا المصالح عنه ويكون الدين لهم فالصلح باطل فإن شرطوا أن يبرئ الغرماء منه ولا يرجع عليهم بنصيب المصالح فالصلح جائز",
+              "rulingEn": "Abu Yusuf (may Allah have mercy on him) said: the settlement is valid.\n\nIf an estate is shared among heirs and they exclude one of them for property they give him: if the estate consists of real property or commodities, it is valid whether what they give him is small or large.\n\nIf the estate is silver and they give him gold, or if it is gold and they give him silver, it is likewise valid.\n\nIf the estate consists of gold, silver, and other things, and they settle with him for silver or gold, the amount given must be more than his share of that particular type, so that his share is matched by its like and the excess compensates his right in the remainder of the inheritance.\n\nIf the estate includes debts owed by people and they include those debts in the settlement on the condition of excluding the settled party, with the debts going to them, the settlement is void. But if they stipulate that the debtors release the settled party's share and they do not seek recourse against them for it, the settlement is valid.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "Abu Yusuf (may Allah have mercy on him) said: the settlement is valid.\n\nIf an estate is shared among heirs and they exclude one of them for property they give him: if the estate consists of real property or commodities, it is valid whether what they give him is small or large.\n\nIf the estate is silver and they give him gold, or if it is gold and they give him silver, it is likewise valid.\n\nIf the estate consists of gold, silver, and other things, and they settle with him for silver or gold, the amount given must be more than his share of that particular type, so that his share is matched by its like and the excess compensates his right in the remainder of the inheritance.\n\nIf the estate includes debts owed by people and they include those debts in the settlement on the condition of excluding the settled party, with the debts going to them, the settlement is void. But if they stipulate that the debtors release the settled party's share and they do not seek recourse against them for it, the settlement is valid."
+        }
+      ]
+    }
+  ]
+}

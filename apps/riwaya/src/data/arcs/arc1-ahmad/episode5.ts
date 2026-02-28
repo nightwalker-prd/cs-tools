@@ -1,0 +1,77 @@
+import type { StoryEpisode } from '../../../types';
+
+export const episode: StoryEpisode = {
+  id: 'arc1-ep5',
+  arcId: 'arc1-ahmad',
+  number: 5,
+  titleAr: 'الصَّدِيقُ الجَدِيدُ',
+  titleEn: 'The New Friend',
+  setting: 'At the end of his first week, Ahmad reflects on what he has learned. He meets a new student named Ibrahim and introduces him around campus, practicing everything from the week.',
+  characters: [
+    { id: 'ahmad', nameAr: 'أَحْمَدُ', nameEn: 'Ahmad', role: 'protagonist' },
+    { id: 'yusuf', nameAr: 'يُوسُفُ', nameEn: 'Yusuf', role: 'supporting' },
+    { id: 'ibrahim', nameAr: 'إِبْرَاهِيمُ', nameEn: 'Ibrahim', role: 'supporting' },
+    { id: 'teacher', nameAr: 'الأُسْتَاذُ عَلِيٌّ', nameEn: 'Professor Ali', role: 'supporting' },
+  ],
+  dialogueLines: [
+    { speaker: 'ibrahim', textAr: 'السَّلَامُ عَلَيْكُمْ. أَنَا إِبْرَاهِيمُ. أَنَا طَالِبٌ جَدِيدٌ مِنْ تُرْكِيَّا.', textEn: 'Peace be upon you. I am Ibrahim. I am a new student from Turkey.' },
+    { speaker: 'ahmad', textAr: 'وَعَلَيْكُمُ السَّلَامُ يَا إِبْرَاهِيمُ! أَنَا أَحْمَدُ وَهَذَا صَدِيقِي يُوسُفُ. أَنَا مِنْ مِصْرَ وَهُوَ مِنْ إِنْدُونِيسِيَا.', textEn: 'And upon you peace, Ibrahim! I am Ahmad and this is my friend Yusuf. I am from Egypt and he is from Indonesia.' },
+    { speaker: 'yusuf', textAr: 'أَهْلًا وَسَهْلًا يَا إِبْرَاهِيمُ! هَلْ هَذَا أَوَّلُ يَوْمٍ لَكَ؟', textEn: 'Welcome, Ibrahim! Is this your first day?' },
+    { speaker: 'ibrahim', textAr: 'نَعَمْ. أَنَا لَا أَعْرِفُ أَيْنَ الفَصْلُ.', textEn: 'Yes. I do not know where the classroom is.' },
+    { speaker: 'ahmad', textAr: 'لَا تَقْلَقْ! الفَصْلُ فِي الطَّابِقِ الثَّانِي. تَعَالَ مَعَنَا. هَذَا هُوَ المَبْنَى الرَّئِيسِيُّ.', textEn: 'Do not worry! The classroom is on the second floor. Come with us. This is the main building.' },
+    { speaker: 'yusuf', textAr: 'وَهَذِهِ المَكْتَبَةُ. هِيَ كَبِيرَةٌ وَجَمِيلَةٌ. فِيهَا كُتُبٌ كَثِيرَةٌ.', textEn: 'And this is the library. It is big and beautiful. It has many books.' },
+    { speaker: 'ibrahim', textAr: 'مَا شَاءَ اللهُ! وَمَا ذَلِكَ المَبْنَى؟', textEn: 'Ma sha Allah! And what is that building?' },
+    { speaker: 'ahmad', textAr: 'ذَلِكَ المَطْعَمُ. الطَّعَامُ فِيهِ لَذِيذٌ وَرَخِيصٌ.', textEn: 'That is the restaurant. The food in it is delicious and inexpensive.' },
+    { speaker: 'ibrahim', textAr: 'مُمْتَازٌ! أَنْتُمْ أَصْدِقَاءُ طَيِّبُونَ. شُكْرًا جَزِيلًا.', textEn: 'Excellent! You are good friends. Thank you very much.' },
+    { speaker: 'teacher', textAr: 'يَا أَحْمَدُ وَيُوسُفُ! أَرَى أَنَّكُمَا تُسَاعِدَانِ الطَّالِبَ الجَدِيدَ. هَذَا عَمَلٌ طَيِّبٌ.', textEn: 'Ahmad and Yusuf! I see that you two are helping the new student. This is good work.' },
+    { speaker: 'ahmad', textAr: 'شُكْرًا يَا أُسْتَاذُ. يُوسُفُ سَاعَدَنِي فِي أَوَّلِ يَوْمٍ، وَالآنَ أَنَا أُسَاعِدُ إِبْرَاهِيمَ.', textEn: 'Thank you, Professor. Yusuf helped me on my first day, and now I am helping Ibrahim.' },
+    { speaker: 'teacher', textAr: 'بَارَكَ اللهُ فِيكُمْ! هَيَّا إِلَى الفَصْلِ.', textEn: 'May Allah bless you! Let us go to class.' },
+  ],
+  vocabulary: [
+    { arabic: 'صَدِيقٌ', transliteration: 'ṣadīq', english: 'friend', root: 'ص-د-ق' },
+    { arabic: 'أَصْدِقَاءُ', transliteration: 'aṣdiqāʾ', english: 'friends (plural)', root: 'ص-د-ق' },
+    { arabic: 'كَبِيرٌ', transliteration: 'kabīr', english: 'big / large', root: 'ك-ب-ر' },
+    { arabic: 'جَمِيلٌ', transliteration: 'jamīl', english: 'beautiful', root: 'ج-م-ل' },
+    { arabic: 'كَثِيرٌ', transliteration: 'kathīr', english: 'many / much', root: 'ك-ث-ر' },
+    { arabic: 'رَخِيصٌ', transliteration: 'rakhīṣ', english: 'inexpensive', root: 'ر-خ-ص' },
+    { arabic: 'طَيِّبٌ', transliteration: 'ṭayyib', english: 'good / kind', root: 'ط-ي-ب' },
+    { arabic: 'سَاعَدَ', transliteration: 'sāʿada', english: 'he helped', root: 'س-ع-د' },
+    { arabic: 'يُسَاعِدُ', transliteration: 'yusāʿidu', english: 'he helps', root: 'س-ع-د' },
+    { arabic: 'مَبْنًى', transliteration: 'mabnan', english: 'building', root: 'ب-ن-ي' },
+  ],
+  grammarPoint: {
+    titleAr: 'الصِّفَةُ وَالمَوْصُوفُ',
+    titleEn: 'Adjective-Noun Agreement',
+    explanation: 'In Arabic, adjectives (الصِّفَة) follow the noun they describe (المَوْصُوف) and must agree with it in four aspects: gender (مُذَكَّر/مُؤَنَّث), number (مُفْرَد/مُثَنَّى/جَمْع), definiteness (مَعْرِفَة/نَكِرَة), and case (مَرْفُوع/مَنْصُوب/مَجْرُور).',
+    examples: [
+      'طَالِبٌ جَدِيدٌ — a new student (masc., indef., nom.)',
+      'المَكْتَبَةُ الكَبِيرَةُ — the big library (fem., def., nom.)',
+      'أَصْدِقَاءُ طَيِّبُونَ — good friends (masc. pl., indef., nom.)',
+      'الطَّعَامُ اللَّذِيذُ — the delicious food (masc., def., nom.)',
+    ],
+  },
+  comprehensionQuestions: [
+    {
+      questionAr: 'مِنْ أَيْنَ إِبْرَاهِيمُ؟',
+      questionEn: 'Where is Ibrahim from?',
+      options: ['مِنْ مِصْرَ', 'مِنْ إِنْدُونِيسِيَا', 'مِنْ تُرْكِيَّا', 'مِنَ المَغْرِبِ'],
+      correctIndex: 2,
+    },
+    {
+      questionAr: 'مَنْ سَاعَدَ أَحْمَدَ فِي أَوَّلِ يَوْمٍ؟',
+      questionEn: 'Who helped Ahmad on his first day?',
+      options: ['إِبْرَاهِيمُ', 'الأُسْتَاذُ عَلِيٌّ', 'يُوسُفُ', 'المُوَظَّفُ'],
+      correctIndex: 2,
+    },
+    {
+      questionAr: 'كَيْفَ الطَّعَامُ فِي المَطْعَمِ؟',
+      questionEn: 'How is the food in the restaurant?',
+      options: ['غَالٍ وَلَذِيذٌ', 'لَذِيذٌ وَرَخِيصٌ', 'رَخِيصٌ فَقَطْ', 'لَيْسَ لَذِيذًا'],
+      correctIndex: 1,
+    },
+  ],
+  culturalNotes: [
+    'Islamic universities attract students from all over the Muslim world. It is common to find students from dozens of countries studying Arabic together, creating a diverse and multicultural environment.',
+    'The phrase بَارَكَ اللهُ فِيكُمْ (May Allah bless you) is a common expression of gratitude and approval in Arabic culture, often used by elders and teachers.',
+  ],
+};

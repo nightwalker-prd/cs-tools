@@ -1,0 +1,77 @@
+import type { StoryEpisode } from '../../../types';
+
+export const episode: StoryEpisode = {
+  id: 'arc1-ep3',
+  arcId: 'arc1-ahmad',
+  number: 3,
+  titleAr: 'المَكْتَبَةُ',
+  titleEn: 'The Library',
+  setting: 'After class, Ahmad needs to find the university library. He asks for directions and explores the library with Yusuf, learning spatial vocabulary and prepositions.',
+  characters: [
+    { id: 'ahmad', nameAr: 'أَحْمَدُ', nameEn: 'Ahmad', role: 'protagonist' },
+    { id: 'yusuf', nameAr: 'يُوسُفُ', nameEn: 'Yusuf', role: 'supporting' },
+    { id: 'librarian', nameAr: 'أَمِينُ المَكْتَبَةِ', nameEn: 'Librarian', role: 'supporting' },
+  ],
+  dialogueLines: [
+    { speaker: 'ahmad', textAr: 'يَا يُوسُفُ، أَيْنَ المَكْتَبَةُ؟', textEn: 'Yusuf, where is the library?' },
+    { speaker: 'yusuf', textAr: 'المَكْتَبَةُ بَعِيدَةٌ مِنْ هُنَا. اذْهَبْ إِلَى اليَمِينِ ثُمَّ إِلَى اليَسَارِ.', textEn: 'The library is far from here. Go to the right then to the left.' },
+    { speaker: 'ahmad', textAr: 'هَلْ هِيَ أَمَامَ المَسْجِدِ؟', textEn: 'Is it in front of the mosque?' },
+    { speaker: 'yusuf', textAr: 'لَا، هِيَ بَيْنَ المَسْجِدِ وَالمَطْعَمِ. تَعَالَ، أَنَا أَذْهَبُ مَعَكَ.', textEn: 'No, it is between the mosque and the restaurant. Come, I will go with you.' },
+    { speaker: 'ahmad', textAr: 'شُكْرًا يَا يُوسُفُ. أَنَا أُرِيدُ كِتَابًا عَنِ النَّحْوِ.', textEn: 'Thank you, Yusuf. I want a book about grammar.' },
+    { speaker: 'librarian', textAr: 'السَّلَامُ عَلَيْكُمْ. كَيْفَ أُسَاعِدُكُمْ؟', textEn: 'Peace be upon you. How can I help you?' },
+    { speaker: 'ahmad', textAr: 'وَعَلَيْكُمُ السَّلَامُ. أُرِيدُ كِتَابَ النَّحْوِ لِلطُّلَّابِ الجُدُدِ.', textEn: 'And upon you peace. I want the grammar book for new students.' },
+    { speaker: 'librarian', textAr: 'الكُتُبُ العَرَبِيَّةُ فِي الرَّفِّ الثَّالِثِ عَلَى اليَمِينِ. كُتُبُ النَّحْوِ فَوْقَ كُتُبِ الصَّرْفِ.', textEn: 'The Arabic books are on the third shelf on the right. The grammar books are above the morphology books.' },
+    { speaker: 'yusuf', textAr: 'وَأَيْنَ القَوَامِيسُ؟', textEn: 'And where are the dictionaries?' },
+    { speaker: 'librarian', textAr: 'القَوَامِيسُ وَرَاءَكَ، عَلَى المَكْتَبِ الكَبِيرِ بِجَانِبِ النَّافِذَةِ.', textEn: 'The dictionaries are behind you, on the big desk next to the window.' },
+    { speaker: 'ahmad', textAr: 'هَذَا الكِتَابُ جَمِيلٌ! كَمْ ثَمَنُهُ؟', textEn: 'This book is beautiful! How much does it cost?' },
+    { speaker: 'librarian', textAr: 'هَذِهِ مَكْتَبَةٌ، يَا أَخِي! الكُتُبُ لِلقِرَاءَةِ هُنَا فَقَطْ.', textEn: 'This is a library, my brother! The books are for reading here only.' },
+  ],
+  vocabulary: [
+    { arabic: 'مَكْتَبَةٌ', transliteration: 'maktaba', english: 'library', root: 'ك-ت-ب' },
+    { arabic: 'أَمَامَ', transliteration: 'amāma', english: 'in front of' },
+    { arabic: 'وَرَاءَ', transliteration: 'warāʾa', english: 'behind' },
+    { arabic: 'بَيْنَ', transliteration: 'bayna', english: 'between' },
+    { arabic: 'بِجَانِبِ', transliteration: 'bi-jānibi', english: 'next to' },
+    { arabic: 'فَوْقَ', transliteration: 'fawqa', english: 'above' },
+    { arabic: 'يَمِينٌ', transliteration: 'yamīn', english: 'right', root: 'ي-م-ن' },
+    { arabic: 'يَسَارٌ', transliteration: 'yasār', english: 'left', root: 'ي-س-ر' },
+    { arabic: 'قَامُوسٌ', transliteration: 'qāmūs', english: 'dictionary' },
+    { arabic: 'رَفٌّ', transliteration: 'raff', english: 'shelf' },
+    { arabic: 'النَّحْوُ', transliteration: 'an-naḥw', english: 'grammar (syntax)', root: 'ن-ح-و' },
+  ],
+  grammarPoint: {
+    titleAr: 'حُرُوفُ الجَرِّ وَالظُّرُوفُ',
+    titleEn: 'Prepositions and Adverbs of Place',
+    explanation: 'Prepositions (حُرُوفُ الجَرِّ) like فِي (in), عَلَى (on), مِنْ (from), إِلَى (to) put the following noun in the genitive case (مَجْرُور). Adverbs of place (ظُرُوف المَكَان) like أَمَامَ, وَرَاءَ, بَيْنَ, فَوْقَ function similarly. The noun after them takes kasrah or its genitive form.',
+    examples: [
+      'فِي المَكْتَبَةِ — in the library',
+      'عَلَى المَكْتَبِ — on the desk',
+      'أَمَامَ المَسْجِدِ — in front of the mosque',
+      'بَيْنَ المَسْجِدِ وَالمَطْعَمِ — between the mosque and the restaurant',
+    ],
+  },
+  comprehensionQuestions: [
+    {
+      questionAr: 'أَيْنَ المَكْتَبَةُ؟',
+      questionEn: 'Where is the library?',
+      options: ['أَمَامَ المَسْجِدِ', 'وَرَاءَ المَطْعَمِ', 'بَيْنَ المَسْجِدِ وَالمَطْعَمِ', 'بِجَانِبِ الفَصْلِ'],
+      correctIndex: 2,
+    },
+    {
+      questionAr: 'أَيْنَ كُتُبُ النَّحْوِ؟',
+      questionEn: 'Where are the grammar books?',
+      options: ['عَلَى المَكْتَبِ', 'فَوْقَ كُتُبِ الصَّرْفِ', 'وَرَاءَ القَوَامِيسِ', 'بِجَانِبِ النَّافِذَةِ'],
+      correctIndex: 1,
+    },
+    {
+      questionAr: 'مَاذَا يُرِيدُ أَحْمَدُ؟',
+      questionEn: 'What does Ahmad want?',
+      options: ['قَامُوسًا', 'كِتَابَ الصَّرْفِ', 'كِتَابَ النَّحْوِ', 'قَلَمًا'],
+      correctIndex: 2,
+    },
+  ],
+  culturalNotes: [
+    'Addressing someone as يَا أَخِي (my brother) is a common expression of warmth and solidarity in Arabic culture, even between strangers.',
+    'In traditional Islamic scholarship, النَّحْوُ (syntax) and الصَّرْفُ (morphology) are the two fundamental disciplines of Arabic grammar, often studied together.',
+  ],
+};

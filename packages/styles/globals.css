@@ -1,0 +1,138 @@
+/**
+ * Arab Tools Global Styles
+ *
+ * Shared styles for all Arab Tools standalone tools.
+ * Islamic manuscript aesthetic with Arabic typography support.
+ *
+ * Note: This file uses Tailwind CSS v4 syntax.
+ * Import in your app's index.css: @import "tailwindcss";
+ * Then add the @theme block with colors before importing this file.
+ */
+
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500;600;700&family=Open+Sans:wght@300;400;500;600;700&family=Amiri:wght@400;700&display=swap');
+
+/* Base styles */
+* {
+  border-color: var(--color-border, rgba(26, 49, 80, 0.1));
+}
+
+body {
+  background-color: var(--color-background, #f8f9fa);
+  color: var(--color-foreground, #222222);
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'EB Garamond', serif;
+}
+
+/* Arabic font utility */
+.font-arabic {
+  font-family: 'Amiri', serif;
+  font-feature-settings: 'liga', 'dlig';
+}
+
+/* Glass morphism card */
+.glass-card {
+  backdrop-filter: blur(12px);
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  border-radius: 1.5rem;
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+}
+
+/* Parchment background */
+.bg-parchment {
+  background: linear-gradient(to bottom right, #f8f6f3, #ffffff, #faf8f5);
+}
+
+/* Gold accent button */
+.btn-gold {
+  padding: 0.75rem 1.5rem;
+  border-radius: 0.75rem;
+  background-color: var(--color-accent, #c5a253);
+  color: white;
+  transition: all 0.2s;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+}
+
+.btn-gold:hover {
+  background-color: rgba(197, 162, 83, 0.9);
+}
+
+/* Primary button */
+.btn-primary {
+  padding: 0.75rem 1.5rem;
+  border-radius: 0.75rem;
+  background-color: var(--color-primary, #1a3150);
+  color: var(--color-primary-foreground, #ffffff);
+  transition: all 0.2s;
+}
+
+.btn-primary:hover {
+  background-color: rgba(26, 49, 80, 0.9);
+}
+
+/* Stats pill */
+.stats-pill {
+  padding: 0.5rem 1rem;
+  border-radius: 9999px;
+  background-color: rgba(197, 162, 83, 0.1);
+  border: 1px solid rgba(197, 162, 83, 0.2);
+}
+
+/* Custom animations */
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes scale-in {
+  0% { transform: scale(0.8); opacity: 0; }
+  100% { transform: scale(1); opacity: 1; }
+}
+
+@keyframes gold-pulse {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(197, 162, 83, 0.3); }
+  50% { box-shadow: 0 0 0 8px rgba(197, 162, 83, 0); }
+}
+
+.animate-float {
+  animation: float 6s ease-in-out infinite;
+}
+
+.animate-fade-in-up {
+  animation: fadeInUp 0.3s ease-out;
+}
+
+.animate-scale-in {
+  animation: scale-in 0.2s ease-out;
+}
+
+.animate-gold-pulse {
+  animation: gold-pulse 2s ease-in-out infinite;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(26, 49, 80, 0.2);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(26, 49, 80, 0.3);
+}

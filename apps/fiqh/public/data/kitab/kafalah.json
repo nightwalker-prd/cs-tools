@@ -1,0 +1,122 @@
+{
+  "id": "kafalah",
+  "titleAr": "كتاب الكفالة",
+  "titleEn": "Guarantee",
+  "order": 15,
+  "categoryId": "muamalat",
+  "pageRange": [
+    108,
+    109
+  ],
+  "abwab": [
+    {
+      "id": "kafalah-main",
+      "kitabId": "kafalah",
+      "titleAr": "كتاب الكفالة",
+      "titleEn": "Guarantee",
+      "order": 1,
+      "sections": [
+        {
+          "id": "kafalah-main-1-1",
+          "babId": "kafalah-main",
+          "kitabId": "kafalah",
+          "titleAr": "كتاب الكفالة",
+          "titleEn": "Guarantee",
+          "order": 1,
+          "textAr": "الكفالة ضربان: كفالة بالنفس وكفالة بالمال\n\nفالكفالة بالنفس جائزة والمضمون بها إحضار المكفول به وتنعقد إذا قال تكفلت بنفس فلان أوبرقبته أو بروحه أو بجسده أو برأسه أو بنصفه أو بثلثه وكذلك إن قال ضمنته أو هو علي أو إلي أو أنا زعيم به أو قبيل\n\nفإن شرط في الكفالة تسليم المكفول به في وقت بعينه لزمه إحضاره إذا طالبه به في ذلك الوقت فإن أحضره وإلا حبسه الحاكم حتى يحضره وإذا أحضره وسلمه في مكان يقدر المكفول له على محاكمته برئ الكفيل من الكفالة وإذا تكفل به على أن يسلمه في مجلس القاضي فسلمه في السوق برئ وإن سلمه في برية لم يبرأ\n\nوإن مات المكفول به برئ الكفيل بالنفس من الكفالة فإن تكفل بنفسه على أنه إن لم يواف به في وقت كذا فهو ضامن لما عليه وهو ألف ولم يحضره في ذلك الوقت لزمه ضمان المال ولم يبرأ من الكفالة بالنفس\n\nولا يجوز الكفالة بالنفس في الحدود والقصاص عند أبي حنيفة وقالا: يجوز",
+          "sourcePage": 108,
+          "masail": [
+            {
+              "id": "masalah-kafalah-main-1-1",
+              "sectionId": "kafalah-main-1-1",
+              "kitabId": "kafalah",
+              "titleAr": "كتاب الكفالة",
+              "titleEn": "Guarantee",
+              "rulingAr": "الكفالة ضربان: كفالة بالنفس وكفالة بالمال\n\nفالكفالة بالنفس جائزة والمضمون بها إحضار المكفول به وتنعقد إذا قال تكفلت بنفس فلان أوبرقبته أو بروحه أو بجسده أو برأسه أو بنصفه أو بثلثه وكذلك إن قال ضمنته أو هو علي أو إلي أو أنا زعيم به أو قبيل\n\nفإن شرط في الكفالة تسليم المكفول به في وقت بعينه لزمه إحضاره إذا طالبه به في ذلك الوقت فإن أحضره وإلا حبسه الحاكم حتى يحضره وإذا أحضره وسلمه في مكان يقدر المكفول له على محاكمته برئ الكفيل من الكفالة وإذا تكفل به على أن يسلمه في مجلس القاضي فسلمه في السوق برئ وإن سلمه في برية لم يبرأ\n\nوإن مات المكفول به برئ الكفيل بالنفس من الكفالة فإن تكفل بنفسه على أنه إن لم يواف به في وقت كذا فهو ضامن لما عليه وهو ألف ولم يحضره في ذلك الوقت لزمه ضمان المال ولم يبرأ من الكفالة بالنفس\n\nولا يجوز الكفالة بالنفس في الحدود والقصاص عند أبي حنيفة وقالا: يجوز",
+              "rulingEn": "Suretyship (kafalah) is of two types: suretyship for the person and suretyship for property.\n\nSuretyship for the person is permissible. The obligation guaranteed thereby is to produce the person for whom surety is given. It is concluded when someone says: \"I have stood surety for the person of so-and-so,\" or \"for his neck,\" \"his soul,\" \"his body,\" \"his head,\" \"his half,\" or \"his third.\" Likewise if he says: \"I have guaranteed him,\" or \"he is upon me,\" or \"he is my responsibility,\" or \"I am his za'im (guarantor),\" or \"his qabil (surety).\"\n\nIf a condition is stipulated in the suretyship to produce the guaranteed person at a specific time, the surety must produce him when demanded at that time. If he fails to produce him, the judge imprisons him until he does. If he produces him and surrenders him in a place where the creditor can litigate against him, the surety is discharged from the suretyship. If the surety undertakes to produce him at the judge's court and produces him in the marketplace, he is discharged. If he produces him in a wilderness, he is not discharged.\n\nIf the guaranteed person dies, the surety for the person is discharged from the suretyship. If the surety guarantees the person on the condition that if he does not produce him by such-and-such time he is liable for what is owed by him -- which is one thousand -- and he does not produce him at that time, he is liable for the money but is not discharged from the suretyship for the person.\n\nSuretyship for the person is not permissible in hadd punishments and retaliation according to Abu Hanifa. They [Abu Yusuf and Muhammad] said: it is permissible.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "Suretyship (kafalah) is of two types: suretyship for the person and suretyship for property.\n\nSuretyship for the person is permissible. The obligation guaranteed thereby is to produce the person for whom surety is given. It is concluded when someone says: \"I have stood surety for the person of so-and-so,\" or \"for his neck,\" \"his soul,\" \"his body,\" \"his head,\" \"his half,\" or \"his third.\" Likewise if he says: \"I have guaranteed him,\" or \"he is upon me,\" or \"he is my responsibility,\" or \"I am his za'im (guarantor),\" or \"his qabil (surety).\"\n\nIf a condition is stipulated in the suretyship to produce the guaranteed person at a specific time, the surety must produce him when demanded at that time. If he fails to produce him, the judge imprisons him until he does. If he produces him and surrenders him in a place where the creditor can litigate against him, the surety is discharged from the suretyship. If the surety undertakes to produce him at the judge's court and produces him in the marketplace, he is discharged. If he produces him in a wilderness, he is not discharged.\n\nIf the guaranteed person dies, the surety for the person is discharged from the suretyship. If the surety guarantees the person on the condition that if he does not produce him by such-and-such time he is liable for what is owed by him -- which is one thousand -- and he does not produce him at that time, he is liable for the money but is not discharged from the suretyship for the person.\n\nSuretyship for the person is not permissible in hadd punishments and retaliation according to Abu Hanifa. They [Abu Yusuf and Muhammad] said: it is permissible."
+        },
+        {
+          "id": "kafalah-main-1-2",
+          "babId": "kafalah-main",
+          "kitabId": "kafalah",
+          "titleAr": "كتاب الكفالة",
+          "titleEn": "Guarantee",
+          "order": 2,
+          "textAr": "وأما الكفالة بالمال فجائزة معلوما كان المال المكفول به أو مجهولا إذا كان دينا صحيحا\n\nمثل أن يقول: تكلفت عنه بألف أو بما لك عليه أو بما يدركك في هذا البيع والمكفول به بالخيار: إن شاء طالب الذي عليه الأصل وإن شاء طالب كفيله\n\nويجوز تعليق الكفالة بالشرط مثل أن يقول: ما بايعت فلانا فعلي أو ما ذاب لك عليه\n\nفعلي أو ما غصبك فلانا فعلي وإذا قال: تكفلت بما لك عليه فقامت البينة بألف عليه ضمنه الكفيل فإن لم تقم البينة فالقول قول الكفيل مع يمينه في مقدار ما يعترف به\n\nفإن اعترف المكفول عنه بأكثر من ذلك لم يصدق على كفيله",
+          "sourcePage": 108,
+          "masail": [
+            {
+              "id": "masalah-kafalah-main-1-2",
+              "sectionId": "kafalah-main-1-2",
+              "kitabId": "kafalah",
+              "titleAr": "كتاب الكفالة",
+              "titleEn": "Guarantee",
+              "rulingAr": "وأما الكفالة بالمال فجائزة معلوما كان المال المكفول به أو مجهولا إذا كان دينا صحيحا\n\nمثل أن يقول: تكلفت عنه بألف أو بما لك عليه أو بما يدركك في هذا البيع والمكفول به بالخيار: إن شاء طالب الذي عليه الأصل وإن شاء طالب كفيله\n\nويجوز تعليق الكفالة بالشرط مثل أن يقول: ما بايعت فلانا فعلي أو ما ذاب لك عليه\n\nفعلي أو ما غصبك فلانا فعلي وإذا قال: تكفلت بما لك عليه فقامت البينة بألف عليه ضمنه الكفيل فإن لم تقم البينة فالقول قول الكفيل مع يمينه في مقدار ما يعترف به\n\nفإن اعترف المكفول عنه بأكثر من ذلك لم يصدق على كفيله",
+              "rulingEn": "As for suretyship for property: it is permissible whether the guaranteed amount is known or unknown, provided it is a valid debt.\n\nFor example, one says: \"I guarantee on his behalf one thousand,\" or \"whatever you are owed by him,\" or \"whatever loss you incur in this sale.\" The creditor has the option: if he wishes, he may demand from the original debtor, and if he wishes, he may demand from the surety.\n\nConditional suretyship is permissible, such as when one says: \"Whatever you sell to so-and-so is upon me,\" or \"Whatever he owes you is upon me,\"\n\nor \"Whatever so-and-so usurps from you is upon me.\" If the surety says: \"I guarantee whatever you are owed by him,\" and evidence establishes one thousand against the debtor, the surety is liable for it. If no evidence is established, the surety's word along with his oath is accepted regarding the amount he acknowledges.\n\nIf the principal debtor acknowledges more than that, he is not believed against the surety.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "As for suretyship for property: it is permissible whether the guaranteed amount is known or unknown, provided it is a valid debt.\n\nFor example, one says: \"I guarantee on his behalf one thousand,\" or \"whatever you are owed by him,\" or \"whatever loss you incur in this sale.\" The creditor has the option: if he wishes, he may demand from the original debtor, and if he wishes, he may demand from the surety.\n\nConditional suretyship is permissible, such as when one says: \"Whatever you sell to so-and-so is upon me,\" or \"Whatever he owes you is upon me,\"\n\nor \"Whatever so-and-so usurps from you is upon me.\" If the surety says: \"I guarantee whatever you are owed by him,\" and evidence establishes one thousand against the debtor, the surety is liable for it. If no evidence is established, the surety's word along with his oath is accepted regarding the amount he acknowledges.\n\nIf the principal debtor acknowledges more than that, he is not believed against the surety."
+        },
+        {
+          "id": "kafalah-main-1-3",
+          "babId": "kafalah-main",
+          "kitabId": "kafalah",
+          "titleAr": "كتاب الكفالة",
+          "titleEn": "Guarantee",
+          "order": 3,
+          "textAr": "وتجوز الكفالة بأمر المكفول عنه وبغير أمره فإن كفل بأمره رجع بما يؤدي عليه وإن كفل بغير أمره لم يرجع بما يؤديه وليس للكفيل أن يطالب المكفول عنه بالمال قبل أن يؤدي عنه فإن لوزم بالمال كان له أن يلازم المكفول عنه حتى يخلصه وإذا أبرأ الطالب المكفول عنه أو استوفى منه برئ الكفيل وإن أبرأ الكفيل لم يبرإ المكفول عنه\n\nولا يجوز تعليق البراءة من الكفالة بشرط\n\nوكل حق لا يمكن استيفاؤه من الكفيل لا تصح الكفالة به كالحدود والقصاص وإذا تكفل عن المشتري بالثمن جاز وإن تكفل عن البائع بالمبيع لم يصح ومن استأجر دابة للحمل فإن كانت بعينها لم تصح الكفالة بالحمل وإن كانت بغير عينها جازت الكفالة\n\nولا تصح الكفالة إلا بقبول المكفول له في مجلس العقد إلا في مسألة واحدة وهي أن يقول المريض لوارثه: تكفل عني بما علي من الدين فتكفل به مع غيبة الغرماء",
+          "sourcePage": 108,
+          "masail": [
+            {
+              "id": "masalah-kafalah-main-1-3",
+              "sectionId": "kafalah-main-1-3",
+              "kitabId": "kafalah",
+              "titleAr": "كتاب الكفالة",
+              "titleEn": "Guarantee",
+              "rulingAr": "وتجوز الكفالة بأمر المكفول عنه وبغير أمره فإن كفل بأمره رجع بما يؤدي عليه وإن كفل بغير أمره لم يرجع بما يؤديه وليس للكفيل أن يطالب المكفول عنه بالمال قبل أن يؤدي عنه فإن لوزم بالمال كان له أن يلازم المكفول عنه حتى يخلصه وإذا أبرأ الطالب المكفول عنه أو استوفى منه برئ الكفيل وإن أبرأ الكفيل لم يبرإ المكفول عنه\n\nولا يجوز تعليق البراءة من الكفالة بشرط\n\nوكل حق لا يمكن استيفاؤه من الكفيل لا تصح الكفالة به كالحدود والقصاص وإذا تكفل عن المشتري بالثمن جاز وإن تكفل عن البائع بالمبيع لم يصح ومن استأجر دابة للحمل فإن كانت بعينها لم تصح الكفالة بالحمل وإن كانت بغير عينها جازت الكفالة\n\nولا تصح الكفالة إلا بقبول المكفول له في مجلس العقد إلا في مسألة واحدة وهي أن يقول المريض لوارثه: تكفل عني بما علي من الدين فتكفل به مع غيبة الغرماء",
+              "rulingEn": "Suretyship is permissible with or without the consent of the principal debtor. If the surety guarantees with the principal's instruction, he has recourse against him for whatever he pays. If he guarantees without the principal's instruction, he has no recourse for what he pays. The surety may not demand the debt from the principal debtor before paying it on his behalf. If he is pursued for the debt, he may pursue the principal debtor until he settles the matter. If the creditor releases the principal debtor or receives payment from him, the surety is discharged. If the creditor releases the surety, the principal debtor is not discharged.\n\nConditional discharge from suretyship is not valid.\n\nEvery right that cannot be recovered from the surety is not subject to valid suretyship, such as hadd punishments and retaliation. If someone stands surety for the buyer regarding the price, it is valid. If someone stands surety for the seller regarding the sold property, it is not valid. If someone hires a specific animal for carrying: suretyship for the carrying is not valid. If the hired animal is unspecified, suretyship is valid.\n\nSuretyship is not valid except with the acceptance of the creditor in the contractual session, with one exception: when a sick person tells his heir: \"Stand surety on my behalf for what I owe in debts,\" and the heir does so in the absence of the creditors.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "Suretyship is permissible with or without the consent of the principal debtor. If the surety guarantees with the principal's instruction, he has recourse against him for whatever he pays. If he guarantees without the principal's instruction, he has no recourse for what he pays. The surety may not demand the debt from the principal debtor before paying it on his behalf. If he is pursued for the debt, he may pursue the principal debtor until he settles the matter. If the creditor releases the principal debtor or receives payment from him, the surety is discharged. If the creditor releases the surety, the principal debtor is not discharged.\n\nConditional discharge from suretyship is not valid.\n\nEvery right that cannot be recovered from the surety is not subject to valid suretyship, such as hadd punishments and retaliation. If someone stands surety for the buyer regarding the price, it is valid. If someone stands surety for the seller regarding the sold property, it is not valid. If someone hires a specific animal for carrying: suretyship for the carrying is not valid. If the hired animal is unspecified, suretyship is valid.\n\nSuretyship is not valid except with the acceptance of the creditor in the contractual session, with one exception: when a sick person tells his heir: \"Stand surety on my behalf for what I owe in debts,\" and the heir does so in the absence of the creditors."
+        },
+        {
+          "id": "kafalah-main-1-4",
+          "babId": "kafalah-main",
+          "kitabId": "kafalah",
+          "titleAr": "كتاب الكفالة",
+          "titleEn": "Guarantee",
+          "order": 4,
+          "textAr": "وإذا كان الدين على اثنين وكل واحد منهما كفيل ضامن عن الآخر فما أدرى أحدهما لم يرجع به على شريكه حتى يزيد ما يؤديه على النصف فيرجع بالزيادة\n\nوإذا كفل اثنان عن رجل بألف على أن كل واحد منهما كفيل عن صاحبه فما أداره أحدهما يرجع بنصفه على شريكه قليلا كان أو كثيرا ولا تجوز الكفالة بمال الكتابة حر تكفل به أو عبد\n\nوإذا مات الرجل وعليه ديون ولم يترك شيئا فتكفل رجل عنه للغرماء لم تصح الكفالة عند أبي حنيفة وقالا: تصح",
+          "sourcePage": 108,
+          "masail": [
+            {
+              "id": "masalah-kafalah-main-1-4",
+              "sectionId": "kafalah-main-1-4",
+              "kitabId": "kafalah",
+              "titleAr": "كتاب الكفالة",
+              "titleEn": "Guarantee",
+              "rulingAr": "وإذا كان الدين على اثنين وكل واحد منهما كفيل ضامن عن الآخر فما أدرى أحدهما لم يرجع به على شريكه حتى يزيد ما يؤديه على النصف فيرجع بالزيادة\n\nوإذا كفل اثنان عن رجل بألف على أن كل واحد منهما كفيل عن صاحبه فما أداره أحدهما يرجع بنصفه على شريكه قليلا كان أو كثيرا ولا تجوز الكفالة بمال الكتابة حر تكفل به أو عبد\n\nوإذا مات الرجل وعليه ديون ولم يترك شيئا فتكفل رجل عنه للغرماء لم تصح الكفالة عند أبي حنيفة وقالا: تصح",
+              "rulingEn": "If a debt is owed by two persons and each of them is a surety for the other, whatever one of them pays, he has no recourse against his partner until what he pays exceeds half, in which case he has recourse for the excess.\n\nIf two persons stand surety for a man for one thousand, on the condition that each is surety for the other, whatever one of them pays, he has recourse against his partner for half of it, whether the amount is small or large. Suretyship for the kitabah payment is not valid, whether given by a free person or a slave.\n\nIf a man dies owing debts and leaves nothing, and a person stands surety for him to his creditors, the suretyship is not valid according to Abu Hanifa. They [Abu Yusuf and Muhammad] said: it is valid.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "If a debt is owed by two persons and each of them is a surety for the other, whatever one of them pays, he has no recourse against his partner until what he pays exceeds half, in which case he has recourse for the excess.\n\nIf two persons stand surety for a man for one thousand, on the condition that each is surety for the other, whatever one of them pays, he has recourse against his partner for half of it, whether the amount is small or large. Suretyship for the kitabah payment is not valid, whether given by a free person or a slave.\n\nIf a man dies owing debts and leaves nothing, and a person stands surety for him to his creditors, the suretyship is not valid according to Abu Hanifa. They [Abu Yusuf and Muhammad] said: it is valid."
+        }
+      ]
+    }
+  ]
+}

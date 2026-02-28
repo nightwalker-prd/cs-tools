@@ -1,0 +1,75 @@
+import type { StoryEpisode } from '../../../types';
+
+export const episode: StoryEpisode = {
+  id: 'arc3-ep4',
+  arcId: 'arc3-scholar',
+  number: 4,
+  titleAr: 'الإِجَازَةُ',
+  titleEn: 'The License',
+  setting: 'The Sheikh discusses relative clauses and the concept of ijaza (scholarly authorization). Ahmad learns about الَّذِي and its relatives while Tariq prepares for his own ijaza ceremony.',
+  characters: [
+    { id: 'ahmad', nameAr: 'أَحْمَدُ', nameEn: 'Ahmad', role: 'protagonist' },
+    { id: 'sheikh', nameAr: 'الشَّيْخُ عَبْدُ اللهِ', nameEn: 'Sheikh Abdullah', role: 'supporting' },
+    { id: 'tariq', nameAr: 'طَارِقٌ', nameEn: 'Tariq', role: 'supporting' },
+  ],
+  dialogueLines: [
+    { speaker: 'sheikh', textAr: 'الأُسْبُوعَ القَادِمَ سَنُعْطِي طَارِقًا الإِجَازَةَ فِي الآجُرُّومِيَّةِ. هُوَ الطَّالِبُ الَّذِي أَتَمَّ الكِتَابَ كُلَّهُ.', textEn: 'Next week we will give Tariq the ijaza in Al-Ajurrumiyyah. He is the student who completed the entire book.' },
+    { speaker: 'ahmad', textAr: 'مَا شَاءَ اللهُ يَا طَارِقُ! مَا هِيَ الإِجَازَةُ بِالضَّبْطِ؟', textEn: 'Ma sha Allah, Tariq! What exactly is the ijaza?' },
+    { speaker: 'tariq', textAr: 'الإِجَازَةُ هِيَ الإِذْنُ الَّذِي يُعْطِيهِ الشَّيْخُ لِلطَّالِبِ لِيُعَلِّمَ الكِتَابَ.', textEn: 'The ijaza is the authorization that the Sheikh gives to the student to teach the book.' },
+    { speaker: 'sheikh', textAr: 'أَحْسَنْتَ! لَاحِظُوا: "الإِذْنُ الَّذِي يُعْطِيهِ الشَّيْخُ." هُنَا "الَّذِي" اسْمٌ مَوْصُولٌ.', textEn: 'Well said! Notice: "the authorization that the Sheikh gives." Here "alladhi" is a relative pronoun.' },
+    { speaker: 'sheikh', textAr: 'الأَسْمَاءُ المَوْصُولَةُ هِيَ: الَّذِي لِلمُفْرَدِ المُذَكَّرِ، الَّتِي لِلمُفْرَدِ المُؤَنَّثِ، اللَّذَانِ لِلمُثَنَّى المُذَكَّرِ، اللَّتَانِ لِلمُثَنَّى المُؤَنَّثِ، الَّذِينَ لِجَمْعِ المُذَكَّرِ، اللَّاتِي أَوِ اللَّوَاتِي لِجَمْعِ المُؤَنَّثِ.', textEn: 'The relative pronouns are: alladhi for masculine singular, allati for feminine singular, alladhani for masculine dual, allatani for feminine dual, alladhina for masculine plural, allati or allawati for feminine plural.' },
+    { speaker: 'ahmad', textAr: 'يَجِبُ أَنْ تَكُونَ بَعْدَ الاسْمِ المَوْصُولِ جُمْلَةٌ، صَحِيحٌ؟', textEn: 'There must be a sentence after the relative pronoun, correct?' },
+    { speaker: 'sheikh', textAr: 'نَعَمْ! هَذِهِ الجُمْلَةُ تُسَمَّى "صِلَةَ المَوْصُولِ" وَتَحْتَاجُ إِلَى عَائِدٍ — ضَمِيرٌ يَعُودُ عَلَى المَوْصُولِ.', textEn: 'Yes! This sentence is called the "relative clause" and it needs a returning pronoun — a pronoun that refers back to the relative pronoun.' },
+    { speaker: 'sheikh', textAr: 'مِثَالٌ: الكِتَابُ الَّذِي قَرَأْتُهُ مُفِيدٌ. "الَّذِي" هُوَ المَوْصُولُ، "قَرَأْتُهُ" صِلَةُ المَوْصُولِ، وَالهَاءُ هِيَ العَائِدُ.', textEn: 'Example: The book that I read is useful. "Alladhi" is the relative pronoun, "qara\'tuhu" is the relative clause, and the "hu" is the returning pronoun.' },
+    { speaker: 'ahmad', textAr: 'فَهِمْتُ! الطَّالِبَةُ الَّتِي نَجَحَتْ مُجْتَهِدَةٌ — هَلْ هَذَا صَحِيحٌ؟', textEn: 'I understand! The female student who succeeded is diligent — is this correct?' },
+    { speaker: 'sheikh', textAr: 'صَحِيحٌ تَمَامًا! لَاحِظُوا أَنَّ العَائِدَ هُنَا مَحْذُوفٌ لِأَنَّ الفِعْلَ يَعُودُ مُبَاشَرَةً عَلَى المَوْصُولِ.', textEn: 'Perfectly correct! Notice that the returning pronoun here is omitted because the verb refers directly back to the relative pronoun.' },
+    { speaker: 'tariq', textAr: 'يَا أَحْمَدُ، أَنْتَ الطَّالِبُ الَّذِي سَيَحْصُلُ عَلَى الإِجَازَةِ بَعْدِي إِنْ شَاءَ اللهُ!', textEn: 'Ahmad, you are the student who will receive the ijaza after me, God willing!' },
+  ],
+  vocabulary: [
+    { arabic: 'إِجَازَةٌ', transliteration: 'ijāza', english: 'license / authorization', root: 'ج-و-ز' },
+    { arabic: 'الَّذِي', transliteration: 'alladhī', english: 'who / which (masc. sing.)' },
+    { arabic: 'الَّتِي', transliteration: 'allatī', english: 'who / which (fem. sing.)' },
+    { arabic: 'الَّذِينَ', transliteration: 'alladhīna', english: 'who / which (masc. pl.)' },
+    { arabic: 'مَوْصُولٌ', transliteration: 'mawṣūl', english: 'relative (pronoun)', root: 'و-ص-ل' },
+    { arabic: 'صِلَةٌ', transliteration: 'ṣila', english: 'relative clause / link', root: 'و-ص-ل' },
+    { arabic: 'عَائِدٌ', transliteration: 'ʿāʾid', english: 'returning pronoun', root: 'ع-و-د' },
+    { arabic: 'إِذْنٌ', transliteration: 'idhn', english: 'permission', root: 'أ-ذ-ن' },
+    { arabic: 'أَتَمَّ', transliteration: 'atamma', english: 'he completed', root: 'ت-م-م' },
+    { arabic: 'مُجْتَهِدٌ', transliteration: 'mujtahid', english: 'diligent', root: 'ج-ه-د' },
+  ],
+  grammarPoint: {
+    titleAr: 'الأَسْمَاءُ المَوْصُولَةُ',
+    titleEn: 'Relative Pronouns',
+    explanation: 'Relative pronouns (الأَسْمَاء المَوْصُولَة) connect a noun to a descriptive clause. They must agree in gender and number with the noun they refer to. The relative clause (صِلَة المَوْصُول) must contain a returning pronoun (عَائِد) that refers back to the relative pronoun, though this pronoun may be omitted when it is the subject.',
+    examples: [
+      'الكِتَابُ الَّذِي قَرَأْتُهُ مُفِيدٌ — The book that I read is useful',
+      'الطَّالِبَةُ الَّتِي نَجَحَتْ مُجْتَهِدَةٌ — The student (f.) who succeeded is diligent',
+      'الطُّلَّابُ الَّذِينَ حَضَرُوا فَهِمُوا — The students who attended understood',
+      'الأَقْلَامُ الَّتِي اشْتَرَيْتُهَا جَمِيلَةٌ — The pens that I bought are beautiful',
+    ],
+  },
+  comprehensionQuestions: [
+    {
+      questionAr: 'مَا هِيَ الإِجَازَةُ؟',
+      questionEn: 'What is the ijaza?',
+      options: ['عُطْلَةٌ', 'إِذْنٌ لِتَعْلِيمِ الكِتَابِ', 'شَهَادَةٌ جَامِعِيَّةٌ', 'كِتَابٌ جَدِيدٌ'],
+      correctIndex: 1,
+    },
+    {
+      questionAr: 'مَا الاسْمُ المَوْصُولُ لِلمُفْرَدِ المُؤَنَّثِ؟',
+      questionEn: 'What is the relative pronoun for feminine singular?',
+      options: ['الَّذِي', 'الَّتِي', 'الَّذِينَ', 'اللَّتَانِ'],
+      correctIndex: 1,
+    },
+    {
+      questionAr: 'مَنْ سَيَحْصُلُ عَلَى الإِجَازَةِ؟',
+      questionEn: 'Who will receive the ijaza?',
+      options: ['أَحْمَدُ', 'طَارِقٌ', 'الشَّيْخُ', 'يُوسُفُ'],
+      correctIndex: 1,
+    },
+  ],
+  culturalNotes: [
+    'The إِجَازَة (ijaza) system is one of the oldest academic traditions in the world, predating European university degrees. A scholar grants a student authorization to teach a specific text, creating an unbroken chain of transmission (سَنَد) back to the original author.',
+    'The concept of the عَائِد (returning pronoun) in Arabic relative clauses has no direct equivalent in English. It explicitly marks the grammatical role of the relative pronoun within the relative clause.',
+  ],
+};

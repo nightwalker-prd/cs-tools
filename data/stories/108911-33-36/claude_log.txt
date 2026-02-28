@@ -1,0 +1,51 @@
+========================================
+=== Processing: 108911-33-36 ===
+=== Started: Mon Feb 23 17:26:59 GMT 2026 ===
+=== PDF: /Users/miftah/projects/alqalam-tools/data/stories/108911-33-36.pdf ===
+=== Working dir: /Users/miftah/projects/alqalam-tools/data/stories/108911-30-32 ===
+========================================
+
+[OK] PDF file exists
+[INFO] PDF size: 40K
+
+[INFO] Changed to directory: /Users/miftah/projects/alqalam-tools/data/stories/108911-30-32
+[INFO] Launching Claude...
+
+--- CLAUDE OUTPUT START ---
+The file has been written to `108911-33-36-analysis.md` in the current directory. Here's a summary of what's included:
+
+**Translation:** Full Arabic text with paragraph-by-paragraph English translation across all 4 pages (pp. 33–36). The story is titled "What Do You Want to Be?" — a classroom dialogue where students share their dream professions.
+
+**Vocabulary:** ~50 words organized into 4 tables:
+- Professions (10 — سائق، ربّان، طبيب، فلّاح، تاجر، etc.)
+- Key nouns (22 — باخرة، مناظرة، حكمة، etc.)
+- Key verbs (22 — with verb form, root, and meaning)
+- Adjectives & adverbs (10)
+
+**Grammatical Analysis:** 12 structures identified and explained:
+1. **أنْ + subjunctive** — the dominant pattern in the story (9 repetitions)
+2. **فاء السببية** — result/consequence clauses
+3. **ليسَ + بـ** — emphatic negation
+4. **الحال المنصوب** — accusative of state (مجّاناً، دائماً، سرّاً)
+5. **كان وأخواتها** — defective verbs with accusative predicates
+6. **إنّ وأخواتها** — emphasis particles
+7. **لا الناهية + jussive** — prohibitive لا (يخفْ، يستحِي)
+8. **Imperative verbs** — كونوا، ابتغوا، انفعوا، اخدموا
+9. **اسم التفضيل** — superlative (أصغر)
+10. **الموصول** — relative clauses with الذي
+11. **أمَا الاستفهامية** — rhetorical questions
+12. **Hadith grammar** — لا النافية للجنس, exception, Form IV آتى
+--- CLAUDE OUTPUT END ---
+
+========================================
+=== Exit code: 0 ===
+=== Finished: Mon Feb 23 17:29:56 GMT 2026 ===
+=== Files in directory: ===
+total 48
+drwxr-xr-x@  4 miftah  staff    128 Feb 23 17:29 .
+drwxr-xr-x@ 45 miftah  staff   1440 Feb 23 17:26 ..
+-rw-r--r--@  1 miftah  staff  19637 Feb 23 17:29 108911-33-36-analysis.md
+-rw-r--r--@  1 miftah  staff   2281 Feb 23 17:26 claude_log.txt
+
+=== Created 1 markdown files ===
+========================================

@@ -1,0 +1,272 @@
+{
+  "id": "dawa",
+  "titleAr": "كتاب الدعوى",
+  "titleEn": "Claims",
+  "order": 48,
+  "categoryId": "aqdhiyah",
+  "pageRange": [
+    204,
+    208
+  ],
+  "abwab": [
+    {
+      "id": "dawa-main",
+      "kitabId": "dawa",
+      "titleAr": "كتاب الدعوى",
+      "titleEn": "Claims",
+      "order": 1,
+      "sections": [
+        {
+          "id": "dawa-main-1-1",
+          "babId": "dawa-main",
+          "kitabId": "dawa",
+          "titleAr": "كتاب الدعوى",
+          "titleEn": "Claims",
+          "order": 1,
+          "textAr": "المدعي: من لا يجبر على الخصومة إذا تركها\n\nوالمدعى عليه: من يجبر على الخصومة\n\nولا تقبل الدعوى حتى يذكر شيئا معلوما في جنسه وقدره فإن كان عينا في يد المدعى عليه كلف إحضارها ليشير إليها بالدعوى وإن لم تكن حاضرة ذكر قيمتها وإن ادعى عقارا حدده وذكر أنه في يد المدعى عليه وأنه يطالبه به وإن كان حقا في الذمة ذكر أنه يطالبه به\n\nفإذا صحت الدعوى سأل القاضي المدعى عليه عنها فإن اعترف قضى عليه بها\n\nوإن أنكر سأل المدعى البينة فإن أحضرها قضى بها وإن عجز عن ذلك وطلب يمين خصمه استحلف عليها\n\nفإن قال: لي بينة وطلب اليمين لم يستحلف عند أبي حنيفة\n\nولا ترد اليمين على المدعي\n\nولا تقبل بينه صاحب اليد في الملك المطلق\n\nوإذا نكل المدعى عليه عن اليمين قضي عليه بالنكول ولزمه ما ادعى عليه\n\nوينبغي للقاضي أن يقول له: إني أعرض اليمين عليك ثلاثا فإن حلفت وإلا قضيت عليك بما ادعاه فإذا كرر العرض ثلاث مرات قضى عليه بالنكول",
+          "sourcePage": 204,
+          "masail": [
+            {
+              "id": "masalah-dawa-main-1-1",
+              "sectionId": "dawa-main-1-1",
+              "kitabId": "dawa",
+              "titleAr": "كتاب الدعوى",
+              "titleEn": "Claims",
+              "rulingAr": "المدعي: من لا يجبر على الخصومة إذا تركها\n\nوالمدعى عليه: من يجبر على الخصومة\n\nولا تقبل الدعوى حتى يذكر شيئا معلوما في جنسه وقدره فإن كان عينا في يد المدعى عليه كلف إحضارها ليشير إليها بالدعوى وإن لم تكن حاضرة ذكر قيمتها وإن ادعى عقارا حدده وذكر أنه في يد المدعى عليه وأنه يطالبه به وإن كان حقا في الذمة ذكر أنه يطالبه به\n\nفإذا صحت الدعوى سأل القاضي المدعى عليه عنها فإن اعترف قضى عليه بها\n\nوإن أنكر سأل المدعى البينة فإن أحضرها قضى بها وإن عجز عن ذلك وطلب يمين خصمه استحلف عليها\n\nفإن قال: لي بينة وطلب اليمين لم يستحلف عند أبي حنيفة\n\nولا ترد اليمين على المدعي\n\nولا تقبل بينه صاحب اليد في الملك المطلق\n\nوإذا نكل المدعى عليه عن اليمين قضي عليه بالنكول ولزمه ما ادعى عليه\n\nوينبغي للقاضي أن يقول له: إني أعرض اليمين عليك ثلاثا فإن حلفت وإلا قضيت عليك بما ادعاه فإذا كرر العرض ثلاث مرات قضى عليه بالنكول",
+              "rulingEn": "The claimant (mudda'i) is: the one who is not compelled to litigate if he abandons his claim.\n\nThe defendant (mudda'a alayhi) is: the one who is compelled to litigate.\n\nA claim is not accepted until the claimant specifies something known in its type and quantity. If it is a physical item in the defendant's possession, he is required to produce it so that the claimant may point to it. If it is not present, he describes its value. If he claims real estate, he specifies its boundaries and states that it is in the defendant's possession and that he is demanding it. If it is a right owed as a debt, he states that he is demanding it.\n\nOnce the claim is valid, the judge asks the defendant about it. If he acknowledges it, the judge rules against him accordingly.\n\nIf he denies it, the judge asks the claimant for evidence (bayyinah). If he produces it, the judge rules accordingly. If he is unable to do so and requests that his opponent be sworn, the oath is administered.\n\nIf the claimant says: \"I have evidence\" and requests the oath — the oath is not administered according to Abu Hanifah.\n\nThe oath is not referred back to the claimant.\n\nThe evidence of the possessor is not accepted for absolute ownership.\n\nIf the defendant refuses to swear (nukul), the judge rules against him by his refusal, and what was claimed against him becomes binding.\n\nThe judge should say to him: \"I will present the oath to you three times. If you swear, well and good. Otherwise, I will rule against you with what was claimed.\" After repeating the offer three times, he rules against him by his refusal.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "The claimant (mudda'i) is: the one who is not compelled to litigate if he abandons his claim.\n\nThe defendant (mudda'a alayhi) is: the one who is compelled to litigate.\n\nA claim is not accepted until the claimant specifies something known in its type and quantity. If it is a physical item in the defendant's possession, he is required to produce it so that the claimant may point to it. If it is not present, he describes its value. If he claims real estate, he specifies its boundaries and states that it is in the defendant's possession and that he is demanding it. If it is a right owed as a debt, he states that he is demanding it.\n\nOnce the claim is valid, the judge asks the defendant about it. If he acknowledges it, the judge rules against him accordingly.\n\nIf he denies it, the judge asks the claimant for evidence (bayyinah). If he produces it, the judge rules accordingly. If he is unable to do so and requests that his opponent be sworn, the oath is administered.\n\nIf the claimant says: \"I have evidence\" and requests the oath — the oath is not administered according to Abu Hanifah.\n\nThe oath is not referred back to the claimant.\n\nThe evidence of the possessor is not accepted for absolute ownership.\n\nIf the defendant refuses to swear (nukul), the judge rules against him by his refusal, and what was claimed against him becomes binding.\n\nThe judge should say to him: \"I will present the oath to you three times. If you swear, well and good. Otherwise, I will rule against you with what was claimed.\" After repeating the offer three times, he rules against him by his refusal."
+        },
+        {
+          "id": "dawa-main-1-2",
+          "babId": "dawa-main",
+          "kitabId": "dawa",
+          "titleAr": "كتاب الدعوى",
+          "titleEn": "Claims",
+          "order": 2,
+          "textAr": "وإن كانت الدعوى نكاحا لم يستحلف المنكر عند أبي حنيفة\n\nولا يستحلف في النكاح والرجعة\n\nوالفيء في الإيلاء والرق والاستيلاد والنسب والولاء والحدود\n\nوقال أبو يوسف ومحمد: يستحلف في ذلك كله إلا في الحدود والقصاص\n\nوإذا ادعى اثنان عينا في يد آخر كل واحد منهما يزعم أنها له وأقاما البينة قضي بها بينهما\n\nوإن ادعى كل واحد منهما نكاح امرأة وأقاما البينة لم يقض بواحدة من البينتين ويرجع إلى تصديق المرأة لأحدهما\n\nوإن ادعى اثنان كل واحد منهما أنه اشترى منه هذا العبد وأقاما البينة فكل واحد منهما بالخيار: إن شاء أخذ نصف العبد بنصف الثمن وإن شاء ترك فإن قضى القاضي بينهما به فقال أحدهما: لا أختار لم يكن للآخر أن يأخذ جميعه وإن ذكر واحد منهما تاريخا فهو للأول منهما وإن لم يذكرا ومع أحدهما قبض فهو أولى به\n\nوإن ادعى أحدهما شراء والآخر هبة وقبضا وأقاما\n\nالبينة ولا تاريخ معهما فالشراء أولى",
+          "sourcePage": 204,
+          "masail": [
+            {
+              "id": "masalah-dawa-main-1-2",
+              "sectionId": "dawa-main-1-2",
+              "kitabId": "dawa",
+              "titleAr": "كتاب الدعوى",
+              "titleEn": "Claims",
+              "rulingAr": "وإن كانت الدعوى نكاحا لم يستحلف المنكر عند أبي حنيفة\n\nولا يستحلف في النكاح والرجعة\n\nوالفيء في الإيلاء والرق والاستيلاد والنسب والولاء والحدود\n\nوقال أبو يوسف ومحمد: يستحلف في ذلك كله إلا في الحدود والقصاص\n\nوإذا ادعى اثنان عينا في يد آخر كل واحد منهما يزعم أنها له وأقاما البينة قضي بها بينهما\n\nوإن ادعى كل واحد منهما نكاح امرأة وأقاما البينة لم يقض بواحدة من البينتين ويرجع إلى تصديق المرأة لأحدهما\n\nوإن ادعى اثنان كل واحد منهما أنه اشترى منه هذا العبد وأقاما البينة فكل واحد منهما بالخيار: إن شاء أخذ نصف العبد بنصف الثمن وإن شاء ترك فإن قضى القاضي بينهما به فقال أحدهما: لا أختار لم يكن للآخر أن يأخذ جميعه وإن ذكر واحد منهما تاريخا فهو للأول منهما وإن لم يذكرا ومع أحدهما قبض فهو أولى به\n\nوإن ادعى أحدهما شراء والآخر هبة وقبضا وأقاما\n\nالبينة ولا تاريخ معهما فالشراء أولى",
+              "rulingEn": "If the claim concerns marriage, the denier is not made to swear according to Abu Hanifah.\n\nOaths are not administered in matters of marriage, resumption of conjugal relations (raj'ah),\n\nresumption of marital rights in ila' (oath of abstinence), enslavement, claiming a slave-mother (istilad), lineage, patronage (wala'), or fixed punishments (hudud).\n\nAbu Yusuf and Muhammad said: oaths are administered in all of these except fixed punishments and retribution.\n\nIf two persons claim an item in the possession of a third, each asserting it is his, and both produce evidence — it is divided between them.\n\nIf each of two men claims to have married a woman and both produce evidence — neither evidence is accepted, and the matter is referred to the woman to confirm one of them.\n\nIf two persons each claim to have purchased a slave from someone and both produce evidence — each has the choice: to take half the slave for half the price, or to decline. If the judge awards it to both and one says he does not want it — the other cannot take the whole. If one of them specifies a date, the earlier one prevails. If neither specifies a date and one of them has physical possession — the possessor prevails.\n\nIf one claims purchase and the other claims a gift with possession, and both produce\n\nevidence with no dates — purchase prevails.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "If the claim concerns marriage, the denier is not made to swear according to Abu Hanifah.\n\nOaths are not administered in matters of marriage, resumption of conjugal relations (raj'ah),\n\nresumption of marital rights in ila' (oath of abstinence), enslavement, claiming a slave-mother (istilad), lineage, patronage (wala'), or fixed punishments (hudud).\n\nAbu Yusuf and Muhammad said: oaths are administered in all of these except fixed punishments and retribution.\n\nIf two persons claim an item in the possession of a third, each asserting it is his, and both produce evidence — it is divided between them.\n\nIf each of two men claims to have married a woman and both produce evidence — neither evidence is accepted, and the matter is referred to the woman to confirm one of them.\n\nIf two persons each claim to have purchased a slave from someone and both produce evidence — each has the choice: to take half the slave for half the price, or to decline. If the judge awards it to both and one says he does not want it — the other cannot take the whole. If one of them specifies a date, the earlier one prevails. If neither specifies a date and one of them has physical possession — the possessor prevails.\n\nIf one claims purchase and the other claims a gift with possession, and both produce\n\nevidence with no dates — purchase prevails."
+        },
+        {
+          "id": "dawa-main-1-3",
+          "babId": "dawa-main",
+          "kitabId": "dawa",
+          "titleAr": "كتاب الدعوى",
+          "titleEn": "Claims",
+          "order": 3,
+          "textAr": "وإن ادعى أحدهما الشراء وادعت امرأة أنه تزوجها عليه فهما سواء\n\nوإن ادعى أحدهما رهنا وقبضا والآخر هبة وقبضا فالرهن أولى وإن أقام الخارجان البينة على الملك والتاريخ فصاحب التاريخ الأبعد أولى وإن ادعيا الشراء من واحد وأقاما البينة على التاريخين فالأول أولى وإن أقام كل واحد منهما بينة على الشراء من آخر وذكرا تاريخا فهما سواء وإن أقام الخارج البينة على ملك مؤرخ وأقام صاحب اليد البينة على ملك أقدم تاريخا كان أولى\n\nوإن أقام الخارج وصاحب اليد كل واحد منهما بينة بالنتاج فصاحب اليد أولى وكذلك النسج في الثياب التي لا تنسج إلا مرة واحدة وكل سبب في الملك لا يتكرر فهو كذلك وإن أقام الخارج البينة على الملك وصاحب اليد بينة على الشراء منه كان أولى وإن أقام كل واحد منهما البينة على الشراء من الآخر ولا تاريخ معهما تهاترت البينتان\n\nوإن أقام أحد المدعيين شاهدين والآخر أربعة فهما سواء\n\nومن ادعى قصاصا على غيره فجحد",
+          "sourcePage": 204,
+          "masail": [
+            {
+              "id": "masalah-dawa-main-1-3",
+              "sectionId": "dawa-main-1-3",
+              "kitabId": "dawa",
+              "titleAr": "كتاب الدعوى",
+              "titleEn": "Claims",
+              "rulingAr": "وإن ادعى أحدهما الشراء وادعت امرأة أنه تزوجها عليه فهما سواء\n\nوإن ادعى أحدهما رهنا وقبضا والآخر هبة وقبضا فالرهن أولى وإن أقام الخارجان البينة على الملك والتاريخ فصاحب التاريخ الأبعد أولى وإن ادعيا الشراء من واحد وأقاما البينة على التاريخين فالأول أولى وإن أقام كل واحد منهما بينة على الشراء من آخر وذكرا تاريخا فهما سواء وإن أقام الخارج البينة على ملك مؤرخ وأقام صاحب اليد البينة على ملك أقدم تاريخا كان أولى\n\nوإن أقام الخارج وصاحب اليد كل واحد منهما بينة بالنتاج فصاحب اليد أولى وكذلك النسج في الثياب التي لا تنسج إلا مرة واحدة وكل سبب في الملك لا يتكرر فهو كذلك وإن أقام الخارج البينة على الملك وصاحب اليد بينة على الشراء منه كان أولى وإن أقام كل واحد منهما البينة على الشراء من الآخر ولا تاريخ معهما تهاترت البينتان\n\nوإن أقام أحد المدعيين شاهدين والآخر أربعة فهما سواء\n\nومن ادعى قصاصا على غيره فجحد",
+              "rulingEn": "If one claims purchase and a woman claims he married her in exchange for the item — they are treated equally.\n\nIf one claims a pledge with possession and the other a gift with possession — the pledge prevails. If two outsiders produce evidence of ownership with dates, the one with the earlier date prevails. If they both claim purchase from the same person and produce evidence with dates — the earlier one prevails. If each produces evidence of purchase from a different person and they mention dates — they are treated equally. If the outsider produces evidence of ownership with a date, and the possessor produces evidence of ownership with an earlier date — the possessor prevails.\n\nIf the outsider and the possessor each produce evidence of birth of the animal (nitaj) — the possessor prevails. Likewise for the weaving of cloth that is only woven once — and every cause of ownership that does not recur is treated the same. If the outsider produces evidence of ownership and the possessor produces evidence of having purchased it from the outsider — the possessor prevails. If each produces evidence of purchase from the other with no dates — the two testimonies cancel each other out.\n\nIf one claimant produces two witnesses and the other produces four — they are treated equally.\n\nWhoever claims a right of retribution (qisas) against another and is denied,",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "If one claims purchase and a woman claims he married her in exchange for the item — they are treated equally.\n\nIf one claims a pledge with possession and the other a gift with possession — the pledge prevails. If two outsiders produce evidence of ownership with dates, the one with the earlier date prevails. If they both claim purchase from the same person and produce evidence with dates — the earlier one prevails. If each produces evidence of purchase from a different person and they mention dates — they are treated equally. If the outsider produces evidence of ownership with a date, and the possessor produces evidence of ownership with an earlier date — the possessor prevails.\n\nIf the outsider and the possessor each produce evidence of birth of the animal (nitaj) — the possessor prevails. Likewise for the weaving of cloth that is only woven once — and every cause of ownership that does not recur is treated the same. If the outsider produces evidence of ownership and the possessor produces evidence of having purchased it from the outsider — the possessor prevails. If each produces evidence of purchase from the other with no dates — the two testimonies cancel each other out.\n\nIf one claimant produces two witnesses and the other produces four — they are treated equally.\n\nWhoever claims a right of retribution (qisas) against another and is denied,"
+        },
+        {
+          "id": "dawa-main-1-4",
+          "babId": "dawa-main",
+          "kitabId": "dawa",
+          "titleAr": "كتاب الدعوى",
+          "titleEn": "Claims",
+          "order": 4,
+          "textAr": "استحلف فإن نكل عن اليمين فيما دون النفس لزمه القصاص وإن نكل في النفس حبس حتى يقر أو يحلف وقال أبو يوسف ومحمد: يلزمه الأرض فيهما\n\nوإذا قال المدعي: لي بينة حاضرة قيل لخصمه: أعطه كفيلا بنفسك ثلاثة أيام فإن فعل وإلا أمر بملازمته إلا أن يكون غريبا على الطريق فيلازمه مقدار مجلس القاضي\n\nوإن قال المدعى عليه: هذا الشيء أودعنيه فلان الغائب أو رهنه عندي أو غصبته منه وأقام بينة على ذلك فلا خصومة بينه وبين المدعي\n\nوإن قال: ابتعته من الغائب فهو خصم\n\nوإن قال المدعي: سرق مني وأقام البينة وقال صاحب اليد: أودعينه فلان وأقام البينة لم تندفع الخصومة\n\nوإن قال المدعي: ابتعته من فلان وقال صاحب اليد: أودعنيه فلان ذلك سقطت الخصومة بغير بينة",
+          "sourcePage": 204,
+          "masail": [
+            {
+              "id": "masalah-dawa-main-1-4",
+              "sectionId": "dawa-main-1-4",
+              "kitabId": "dawa",
+              "titleAr": "كتاب الدعوى",
+              "titleEn": "Claims",
+              "rulingAr": "استحلف فإن نكل عن اليمين فيما دون النفس لزمه القصاص وإن نكل في النفس حبس حتى يقر أو يحلف وقال أبو يوسف ومحمد: يلزمه الأرض فيهما\n\nوإذا قال المدعي: لي بينة حاضرة قيل لخصمه: أعطه كفيلا بنفسك ثلاثة أيام فإن فعل وإلا أمر بملازمته إلا أن يكون غريبا على الطريق فيلازمه مقدار مجلس القاضي\n\nوإن قال المدعى عليه: هذا الشيء أودعنيه فلان الغائب أو رهنه عندي أو غصبته منه وأقام بينة على ذلك فلا خصومة بينه وبين المدعي\n\nوإن قال: ابتعته من الغائب فهو خصم\n\nوإن قال المدعي: سرق مني وأقام البينة وقال صاحب اليد: أودعينه فلان وأقام البينة لم تندفع الخصومة\n\nوإن قال المدعي: ابتعته من فلان وقال صاحب اليد: أودعنيه فلان ذلك سقطت الخصومة بغير بينة",
+              "rulingEn": "the defendant is made to swear. If he refuses to swear regarding something short of taking life — retribution is imposed upon him. If he refuses in a case involving life, he is imprisoned until he confesses or swears. Abu Yusuf and Muhammad said: the compensation (arsh) is imposed in both cases.\n\nIf the claimant says: \"I have evidence present,\" the opponent is told: \"Provide a personal surety for three days.\" If he does, well and good. Otherwise, the claimant is ordered to accompany him — unless the claimant is a stranger passing through, in which case he accompanies him only for the duration of the judge's session.\n\nIf the defendant says: \"This item was deposited with me by an absent person,\" or \"pledged with me,\" or \"I seized it from him,\" and produces evidence of this — there is no litigation between him and the claimant.\n\nIf he says: \"I purchased it from the absent person\" — he remains a party to the litigation.\n\nIf the claimant says: \"It was stolen from me\" and produces evidence, and the possessor says: \"So-and-so deposited it with me\" and produces evidence — the litigation is not dismissed.\n\nIf the claimant says: \"I purchased it from so-and-so\" and the possessor says: \"That same so-and-so deposited it with me\" — the litigation is dismissed without evidence.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "the defendant is made to swear. If he refuses to swear regarding something short of taking life — retribution is imposed upon him. If he refuses in a case involving life, he is imprisoned until he confesses or swears. Abu Yusuf and Muhammad said: the compensation (arsh) is imposed in both cases.\n\nIf the claimant says: \"I have evidence present,\" the opponent is told: \"Provide a personal surety for three days.\" If he does, well and good. Otherwise, the claimant is ordered to accompany him — unless the claimant is a stranger passing through, in which case he accompanies him only for the duration of the judge's session.\n\nIf the defendant says: \"This item was deposited with me by an absent person,\" or \"pledged with me,\" or \"I seized it from him,\" and produces evidence of this — there is no litigation between him and the claimant.\n\nIf he says: \"I purchased it from the absent person\" — he remains a party to the litigation.\n\nIf the claimant says: \"It was stolen from me\" and produces evidence, and the possessor says: \"So-and-so deposited it with me\" and produces evidence — the litigation is not dismissed.\n\nIf the claimant says: \"I purchased it from so-and-so\" and the possessor says: \"That same so-and-so deposited it with me\" — the litigation is dismissed without evidence."
+        },
+        {
+          "id": "dawa-main-1-5",
+          "babId": "dawa-main",
+          "kitabId": "dawa",
+          "titleAr": "كتاب الدعوى",
+          "titleEn": "Claims",
+          "order": 5,
+          "textAr": "واليمين بالله تعالى دون غيره ويؤكد بذكر أوصافه ولا يستحلف بالطلاق ولا بالعتاق ويستحلف اليهوديث بالله الذي أنزل التوراة على موسى والنصراي بالله الذي أنزل الإنجيلع على عيسى والمجوسي بالله الذي حلق النار\n\nولا يحلفون في بيوت عباداتهم\n\nولا يجب تغليظ اليمين على المسلم بزمان ولا بمكان\n\nومن ادعى أنه ابتاع من هذا عبده بألف فجحد يستحلف بالله ما بينكما بيع قائم فيه ولا يستحلف بالله ما بعت ويستحلف في الغضب بالله ما يستحق عليك رده ولا يحلف بالله ما غصبت وفي النكاح بالله ما بينكما نكاح قائم\n\nفي الحال وفي دعوى الطلاق بالله ما هي بائن منك الساعة بما ذكرت ولا يستحلف بالله ما طلقتها",
+          "sourcePage": 204,
+          "masail": [
+            {
+              "id": "masalah-dawa-main-1-5",
+              "sectionId": "dawa-main-1-5",
+              "kitabId": "dawa",
+              "titleAr": "كتاب الدعوى",
+              "titleEn": "Claims",
+              "rulingAr": "واليمين بالله تعالى دون غيره ويؤكد بذكر أوصافه ولا يستحلف بالطلاق ولا بالعتاق ويستحلف اليهوديث بالله الذي أنزل التوراة على موسى والنصراي بالله الذي أنزل الإنجيلع على عيسى والمجوسي بالله الذي حلق النار\n\nولا يحلفون في بيوت عباداتهم\n\nولا يجب تغليظ اليمين على المسلم بزمان ولا بمكان\n\nومن ادعى أنه ابتاع من هذا عبده بألف فجحد يستحلف بالله ما بينكما بيع قائم فيه ولا يستحلف بالله ما بعت ويستحلف في الغضب بالله ما يستحق عليك رده ولا يحلف بالله ما غصبت وفي النكاح بالله ما بينكما نكاح قائم\n\nفي الحال وفي دعوى الطلاق بالله ما هي بائن منك الساعة بما ذكرت ولا يستحلف بالله ما طلقتها",
+              "rulingEn": "Oaths are sworn by Allah Most High alone, and are reinforced by mentioning His attributes. Oaths are not administered by divorce or by manumission. A Jew is sworn by Allah Who revealed the Torah to Musa. A Christian is sworn by Allah Who revealed the Gospel to 'Isa. A Magian is sworn by Allah Who created fire.\n\nThey are not made to swear in their houses of worship.\n\nIt is not required to make the oath solemn for a Muslim by specifying a time or place.\n\nWhoever claims that he purchased another's slave for one thousand and is denied — the defendant is sworn: \"By Allah, there is no subsisting sale between you.\" He is not sworn: \"By Allah, I did not sell.\" In cases of usurpation, the oath is: \"By Allah, you are not obligated to return it to him.\" He is not sworn: \"By Allah, I did not usurp.\" In marriage: \"By Allah, there is no subsisting marriage between you\n\nat this time.\" In a claim of divorce: \"By Allah, she is not irrevocably separated from you at this moment for the reason you claim.\" He is not sworn: \"By Allah, I did not divorce her.\"",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "Oaths are sworn by Allah Most High alone, and are reinforced by mentioning His attributes. Oaths are not administered by divorce or by manumission. A Jew is sworn by Allah Who revealed the Torah to Musa. A Christian is sworn by Allah Who revealed the Gospel to 'Isa. A Magian is sworn by Allah Who created fire.\n\nThey are not made to swear in their houses of worship.\n\nIt is not required to make the oath solemn for a Muslim by specifying a time or place.\n\nWhoever claims that he purchased another's slave for one thousand and is denied — the defendant is sworn: \"By Allah, there is no subsisting sale between you.\" He is not sworn: \"By Allah, I did not sell.\" In cases of usurpation, the oath is: \"By Allah, you are not obligated to return it to him.\" He is not sworn: \"By Allah, I did not usurp.\" In marriage: \"By Allah, there is no subsisting marriage between you\n\nat this time.\" In a claim of divorce: \"By Allah, she is not irrevocably separated from you at this moment for the reason you claim.\" He is not sworn: \"By Allah, I did not divorce her.\""
+        },
+        {
+          "id": "dawa-main-1-6",
+          "babId": "dawa-main",
+          "kitabId": "dawa",
+          "titleAr": "كتاب الدعوى",
+          "titleEn": "Claims",
+          "order": 6,
+          "textAr": "وإذا كانت دار في يد رجل ادعاها أحدهما جميعها والآخر نصفها وأقاما البينة فللصاحب الجميع ثلاثة أرباعها ولصاحب النصف ربعها عند أبي حنيفة وقال أبو يوسف ومحمد: هي بينهما أثلاثا ولو كانت في أيديهما سلمت لصاحب الجميع: نصفها على وجه القضاء ونصفها لا على وجه القضاء\n\nوإذا تنازعا في دابة وأقام كل واحد منهما بينة أنها نتجت عنده وذكرا تاريخا وسن الدابة يوافق أحد التاريخين فهو أولى وإن أشكل ذلك كانت بينهما\n\nوإذا تنازعا دابة أحدهما راكبها والآخر متعلق بلجامها فالراكب أولى وكذلك إذا تنازعا بعيرا وعليه حمل لأحدهما الحمل أولى وكذلك إذا تنازعا قميصا أحدهما لابسه والآخر متعلق بكمه فاللابس أولى\n\nوإذا اختلف المتبايعان في البيع فادعى أحدهما ثمنا وادعى البائع أكثر منه أو اعترف البائع بقدر من المبيع وادعى المشتري أكثر منه وأقام أحدهما البينة قضي له بها",
+          "sourcePage": 204,
+          "masail": [
+            {
+              "id": "masalah-dawa-main-1-6",
+              "sectionId": "dawa-main-1-6",
+              "kitabId": "dawa",
+              "titleAr": "كتاب الدعوى",
+              "titleEn": "Claims",
+              "rulingAr": "وإذا كانت دار في يد رجل ادعاها أحدهما جميعها والآخر نصفها وأقاما البينة فللصاحب الجميع ثلاثة أرباعها ولصاحب النصف ربعها عند أبي حنيفة وقال أبو يوسف ومحمد: هي بينهما أثلاثا ولو كانت في أيديهما سلمت لصاحب الجميع: نصفها على وجه القضاء ونصفها لا على وجه القضاء\n\nوإذا تنازعا في دابة وأقام كل واحد منهما بينة أنها نتجت عنده وذكرا تاريخا وسن الدابة يوافق أحد التاريخين فهو أولى وإن أشكل ذلك كانت بينهما\n\nوإذا تنازعا دابة أحدهما راكبها والآخر متعلق بلجامها فالراكب أولى وكذلك إذا تنازعا بعيرا وعليه حمل لأحدهما الحمل أولى وكذلك إذا تنازعا قميصا أحدهما لابسه والآخر متعلق بكمه فاللابس أولى\n\nوإذا اختلف المتبايعان في البيع فادعى أحدهما ثمنا وادعى البائع أكثر منه أو اعترف البائع بقدر من المبيع وادعى المشتري أكثر منه وأقام أحدهما البينة قضي له بها",
+              "rulingEn": "If a house is in a man's possession and one claimant claims all of it and the other claims half, and both produce evidence — according to Abu Hanifah, the one claiming all gets three-quarters and the one claiming half gets one-quarter. Abu Yusuf and Muhammad said: it is divided between them in thirds. If the house were in both their hands, the one claiming all of it would receive: half by right of judgment and half not by right of judgment.\n\nIf two people dispute an animal and each produces evidence that it was born in his possession and they specify dates, and the animal's age matches one of the dates — that person prevails. If the matter is ambiguous, it is divided between them.\n\nIf two people dispute an animal and one is riding it while the other is holding its bridle — the rider prevails. Likewise if they dispute a camel and one of them has cargo on it — the one with the cargo prevails. Likewise if they dispute a shirt and one is wearing it while the other is holding its sleeve — the wearer prevails.\n\nIf the buyer and seller disagree about the sale — the buyer claiming one price and the seller claiming more, or the seller acknowledging a certain amount of the sold goods and the buyer claiming more — and one of them produces evidence, the judge rules in his favor.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "If a house is in a man's possession and one claimant claims all of it and the other claims half, and both produce evidence — according to Abu Hanifah, the one claiming all gets three-quarters and the one claiming half gets one-quarter. Abu Yusuf and Muhammad said: it is divided between them in thirds. If the house were in both their hands, the one claiming all of it would receive: half by right of judgment and half not by right of judgment.\n\nIf two people dispute an animal and each produces evidence that it was born in his possession and they specify dates, and the animal's age matches one of the dates — that person prevails. If the matter is ambiguous, it is divided between them.\n\nIf two people dispute an animal and one is riding it while the other is holding its bridle — the rider prevails. Likewise if they dispute a camel and one of them has cargo on it — the one with the cargo prevails. Likewise if they dispute a shirt and one is wearing it while the other is holding its sleeve — the wearer prevails.\n\nIf the buyer and seller disagree about the sale — the buyer claiming one price and the seller claiming more, or the seller acknowledging a certain amount of the sold goods and the buyer claiming more — and one of them produces evidence, the judge rules in his favor."
+        },
+        {
+          "id": "dawa-main-1-7",
+          "babId": "dawa-main",
+          "kitabId": "dawa",
+          "titleAr": "كتاب الدعوى",
+          "titleEn": "Claims",
+          "order": 7,
+          "textAr": "وإن أقام كل واحد منهما البينة كانت البينة المثبتة للزيادة أولى وإن لم تكن لكل واحد بينة قيل للمشتري:\n\nإما أن ترضى بالثمن الذي ادعاه البائع وإلا فسخنا البيع وقيل للبائع: إما أن تسلم ما ادعاه المشتري من المبيع وإلا فسخنا البيع فإن لم يتراضيا استحلف الحاكم كل واحد منهما على دعوى الآخر يبتدئ بيمين المشتري فإذا حلفا فسخ القاضي البيع بينهما وإن نكل أحدهما عن اليمين لزمه دعوى الآخر\n\nوإن اختلفا في الأجل أو في شرط الخيار أو في استيفاء بعض الثمن فلا تحالف بينهما والقول قول من ينكر الخيار والأجل مع يمينه\n\nوإن هلك المبيع ثم اختلفا لم يتحالفا عند أبي حنيفة وأبي يوسف وجعل القول قول المشتري وقال محمد: يتحالفان ويفسخ البيع على قيمة الهالك\n\nوإن هلك أحد العبدين ثم اختلفا في الثمن لم يتحالفا عند أبي حنيفة إلا أن يرضى البائع أن يترك حصة الهالك وقال أبو يوسف:",
+          "sourcePage": 204,
+          "masail": [
+            {
+              "id": "masalah-dawa-main-1-7",
+              "sectionId": "dawa-main-1-7",
+              "kitabId": "dawa",
+              "titleAr": "كتاب الدعوى",
+              "titleEn": "Claims",
+              "rulingAr": "وإن أقام كل واحد منهما البينة كانت البينة المثبتة للزيادة أولى وإن لم تكن لكل واحد بينة قيل للمشتري:\n\nإما أن ترضى بالثمن الذي ادعاه البائع وإلا فسخنا البيع وقيل للبائع: إما أن تسلم ما ادعاه المشتري من المبيع وإلا فسخنا البيع فإن لم يتراضيا استحلف الحاكم كل واحد منهما على دعوى الآخر يبتدئ بيمين المشتري فإذا حلفا فسخ القاضي البيع بينهما وإن نكل أحدهما عن اليمين لزمه دعوى الآخر\n\nوإن اختلفا في الأجل أو في شرط الخيار أو في استيفاء بعض الثمن فلا تحالف بينهما والقول قول من ينكر الخيار والأجل مع يمينه\n\nوإن هلك المبيع ثم اختلفا لم يتحالفا عند أبي حنيفة وأبي يوسف وجعل القول قول المشتري وقال محمد: يتحالفان ويفسخ البيع على قيمة الهالك\n\nوإن هلك أحد العبدين ثم اختلفا في الثمن لم يتحالفا عند أبي حنيفة إلا أن يرضى البائع أن يترك حصة الهالك وقال أبو يوسف:",
+              "rulingEn": "If both produce evidence, the evidence establishing the higher amount prevails. If neither has evidence, the buyer is told:\n\nEither accept the price the seller claims, or we rescind the sale. And the seller is told: Either deliver what the buyer claims, or we rescind the sale. If they do not reach agreement, the judge makes each of them swear to the other's claim, starting with the buyer's oath. When both have sworn, the judge rescinds the sale. If one of them refuses to swear, the other's claim is binding upon him.\n\nIf they disagree about the term of payment, a condition of option (khiyar), or partial payment of the price — there is no mutual oath between them. The statement of the one denying the option and the term is accepted with his oath.\n\nIf the sold item has perished and they then disagree — they do not take mutual oaths according to Abu Hanifah and Abu Yusuf, and the buyer's statement is accepted. Muhammad said: they take mutual oaths and the sale is rescinded based on the value of the perished item.\n\nIf one of two slaves has perished and they disagree about the price — they do not take mutual oaths according to Abu Hanifah unless the seller agrees to waive the share of the perished slave. Abu Yusuf said:",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "If both produce evidence, the evidence establishing the higher amount prevails. If neither has evidence, the buyer is told:\n\nEither accept the price the seller claims, or we rescind the sale. And the seller is told: Either deliver what the buyer claims, or we rescind the sale. If they do not reach agreement, the judge makes each of them swear to the other's claim, starting with the buyer's oath. When both have sworn, the judge rescinds the sale. If one of them refuses to swear, the other's claim is binding upon him.\n\nIf they disagree about the term of payment, a condition of option (khiyar), or partial payment of the price — there is no mutual oath between them. The statement of the one denying the option and the term is accepted with his oath.\n\nIf the sold item has perished and they then disagree — they do not take mutual oaths according to Abu Hanifah and Abu Yusuf, and the buyer's statement is accepted. Muhammad said: they take mutual oaths and the sale is rescinded based on the value of the perished item.\n\nIf one of two slaves has perished and they disagree about the price — they do not take mutual oaths according to Abu Hanifah unless the seller agrees to waive the share of the perished slave. Abu Yusuf said:"
+        },
+        {
+          "id": "dawa-main-1-8",
+          "babId": "dawa-main",
+          "kitabId": "dawa",
+          "titleAr": "كتاب الدعوى",
+          "titleEn": "Claims",
+          "order": 8,
+          "textAr": "يتحالفان ويفسخ العقد في الحي وقال محمد ﵀ يتحالفان عليهما ويفسخ العقد ويرد الحي وقيمة الهالك\n\nوإذا اختلف الزوجان في المهر فادعى الزوج أنه تزوجها بألف وقالت: تزوجتني بألفين فأيهما أقام البينة قبلت بينة\n\nوإن أقاما البينة فالبينة بينة المرأة وإن لم تكن لهما بينة تحالفا عند أبي حنيفة ولم يفسخ النكاح ولكن يحكم مهر المثل\n\nفإن كان مثل ما اعترف به الزوج أو أقل قضي بما قال الزوج وإن كان مثل ما ادعته المرأة أو أكثر قضي بما ادعته المرأة وإن كان مهر المثل أكثر مما اعترف به الزوج وأقل مما ادعته المرأة قضي لها بمهر المثل\n\nوإذا اختلفا في الإجازة قبل استيفاء المعقود عله تحالفا وترادا وإن اختلفا بعد الاستيفاء لم يتحالفا وكان القول قول المستأجر\n\nوإن اختلفا بعد استيفاء بعض العقود عليه تحالفا وفسخ العقد فيما بقي وكان القول في الماضي قول المستأجر",
+          "sourcePage": 204,
+          "masail": [
+            {
+              "id": "masalah-dawa-main-1-8",
+              "sectionId": "dawa-main-1-8",
+              "kitabId": "dawa",
+              "titleAr": "كتاب الدعوى",
+              "titleEn": "Claims",
+              "rulingAr": "يتحالفان ويفسخ العقد في الحي وقال محمد ﵀ يتحالفان عليهما ويفسخ العقد ويرد الحي وقيمة الهالك\n\nوإذا اختلف الزوجان في المهر فادعى الزوج أنه تزوجها بألف وقالت: تزوجتني بألفين فأيهما أقام البينة قبلت بينة\n\nوإن أقاما البينة فالبينة بينة المرأة وإن لم تكن لهما بينة تحالفا عند أبي حنيفة ولم يفسخ النكاح ولكن يحكم مهر المثل\n\nفإن كان مثل ما اعترف به الزوج أو أقل قضي بما قال الزوج وإن كان مثل ما ادعته المرأة أو أكثر قضي بما ادعته المرأة وإن كان مهر المثل أكثر مما اعترف به الزوج وأقل مما ادعته المرأة قضي لها بمهر المثل\n\nوإذا اختلفا في الإجازة قبل استيفاء المعقود عله تحالفا وترادا وإن اختلفا بعد الاستيفاء لم يتحالفا وكان القول قول المستأجر\n\nوإن اختلفا بعد استيفاء بعض العقود عليه تحالفا وفسخ العقد فيما بقي وكان القول في الماضي قول المستأجر",
+              "rulingEn": "They take mutual oaths and the contract is rescinded regarding the living slave. Muhammad (may Allah have mercy on him) said: they take mutual oaths on both, the contract is rescinded, and the living slave is returned along with the value of the perished one.\n\nIf the spouses disagree about the dower — the husband claiming he married her for one thousand and the wife saying: \"You married me for two thousand\" — whichever of them produces evidence, that evidence is accepted.\n\nIf both produce evidence, the wife's evidence prevails. If neither has evidence, they take mutual oaths according to Abu Hanifah, but the marriage is not rescinded. Instead, the dower equivalent to the customary dower of her peers (mahr al-mithl) is applied:\n\nIf the customary dower equals what the husband acknowledged or less, the husband's claim is upheld. If it equals what the wife claimed or more, the wife's claim is upheld. If the customary dower is more than what the husband acknowledged but less than what the wife claimed, she is awarded the customary dower.\n\nIf they disagree about a lease before the leased benefit has been consumed, they take mutual oaths and the contract is rescinded. If they disagree after the benefit has been fully consumed, they do not take mutual oaths, and the tenant's statement is accepted.\n\nIf they disagree after partial consumption of the leased benefit, they take mutual oaths and the contract is rescinded for what remains, and the tenant's statement is accepted regarding the past period.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "They take mutual oaths and the contract is rescinded regarding the living slave. Muhammad (may Allah have mercy on him) said: they take mutual oaths on both, the contract is rescinded, and the living slave is returned along with the value of the perished one.\n\nIf the spouses disagree about the dower — the husband claiming he married her for one thousand and the wife saying: \"You married me for two thousand\" — whichever of them produces evidence, that evidence is accepted.\n\nIf both produce evidence, the wife's evidence prevails. If neither has evidence, they take mutual oaths according to Abu Hanifah, but the marriage is not rescinded. Instead, the dower equivalent to the customary dower of her peers (mahr al-mithl) is applied:\n\nIf the customary dower equals what the husband acknowledged or less, the husband's claim is upheld. If it equals what the wife claimed or more, the wife's claim is upheld. If the customary dower is more than what the husband acknowledged but less than what the wife claimed, she is awarded the customary dower.\n\nIf they disagree about a lease before the leased benefit has been consumed, they take mutual oaths and the contract is rescinded. If they disagree after the benefit has been fully consumed, they do not take mutual oaths, and the tenant's statement is accepted.\n\nIf they disagree after partial consumption of the leased benefit, they take mutual oaths and the contract is rescinded for what remains, and the tenant's statement is accepted regarding the past period."
+        },
+        {
+          "id": "dawa-main-1-9",
+          "babId": "dawa-main",
+          "kitabId": "dawa",
+          "titleAr": "كتاب الدعوى",
+          "titleEn": "Claims",
+          "order": 9,
+          "textAr": "وإذا اختلف المولى والمكاتب في مال الكتابة لم يتحالفا عند أبي حنيفة وقال أبو يوسف ومحمد: يتحالفان وتفسخ الكتابة\n\nوإذا اختلف الزوجان في متاع البيت فما يصلح للرجال فهو للرجل وما يصلح للنساء فهو للمرأة وما يصلح لهما فهو للرجل\n\nوإذا مات أحدهما واختلف ورثته مع\n\nالآخر فما يصلح للرجال والنساء فهو للباقي منهما وقال أبو يوسف: يدفع إلى المرأة ما يجهز به مثلها والباقي للزوج\n\nوإذا باع الرجل الجارية فجاءت لولد فادعاه البائع فإن جاءت به لأقل من ستة أشهر من يوم البيع فهو ابن البائع وأمة أم ولد له فيفسخ البيع فيه ويرد الثمن وإن ادعاه المشتري مع دعوى البائع أو بعده فدعوى البائع أولى وإن جاءت به لأكثر من ستة أشهر لم تقبل دعوى البائع فيه إلا أن يصدقه المشتري",
+          "sourcePage": 204,
+          "masail": [
+            {
+              "id": "masalah-dawa-main-1-9",
+              "sectionId": "dawa-main-1-9",
+              "kitabId": "dawa",
+              "titleAr": "كتاب الدعوى",
+              "titleEn": "Claims",
+              "rulingAr": "وإذا اختلف المولى والمكاتب في مال الكتابة لم يتحالفا عند أبي حنيفة وقال أبو يوسف ومحمد: يتحالفان وتفسخ الكتابة\n\nوإذا اختلف الزوجان في متاع البيت فما يصلح للرجال فهو للرجل وما يصلح للنساء فهو للمرأة وما يصلح لهما فهو للرجل\n\nوإذا مات أحدهما واختلف ورثته مع\n\nالآخر فما يصلح للرجال والنساء فهو للباقي منهما وقال أبو يوسف: يدفع إلى المرأة ما يجهز به مثلها والباقي للزوج\n\nوإذا باع الرجل الجارية فجاءت لولد فادعاه البائع فإن جاءت به لأقل من ستة أشهر من يوم البيع فهو ابن البائع وأمة أم ولد له فيفسخ البيع فيه ويرد الثمن وإن ادعاه المشتري مع دعوى البائع أو بعده فدعوى البائع أولى وإن جاءت به لأكثر من ستة أشهر لم تقبل دعوى البائع فيه إلا أن يصدقه المشتري",
+              "rulingEn": "If the master and the mukatab (slave in a manumission contract) disagree about the amount of the manumission payment — they do not take mutual oaths according to Abu Hanifah. Abu Yusuf and Muhammad said: they take mutual oaths and the contract is rescinded.\n\nIf the spouses disagree about the household goods: what is suitable for men belongs to the husband, what is suitable for women belongs to the wife, and what is suitable for both belongs to the husband.\n\nIf one of them dies and the survivor disputes with the heirs:\n\nwhat is suitable for men and women belongs to the surviving spouse. Abu Yusuf said: the wife is given what a woman of her status would typically have as her trousseau, and the rest belongs to the husband.\n\nIf a man sells a slave-girl and she bears a child, and the seller claims the child: if she delivered within less than six months from the date of sale, the child is the seller's and the woman is his umm walad (mother of the master's child), and the sale is rescinded with the return of the price. If the buyer also claims the child — whether simultaneously with or after the seller's claim — the seller's claim prevails. If she delivered after more than six months, the seller's claim is not accepted unless the buyer confirms it.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "If the master and the mukatab (slave in a manumission contract) disagree about the amount of the manumission payment — they do not take mutual oaths according to Abu Hanifah. Abu Yusuf and Muhammad said: they take mutual oaths and the contract is rescinded.\n\nIf the spouses disagree about the household goods: what is suitable for men belongs to the husband, what is suitable for women belongs to the wife, and what is suitable for both belongs to the husband.\n\nIf one of them dies and the survivor disputes with the heirs:\n\nwhat is suitable for men and women belongs to the surviving spouse. Abu Yusuf said: the wife is given what a woman of her status would typically have as her trousseau, and the rest belongs to the husband.\n\nIf a man sells a slave-girl and she bears a child, and the seller claims the child: if she delivered within less than six months from the date of sale, the child is the seller's and the woman is his umm walad (mother of the master's child), and the sale is rescinded with the return of the price. If the buyer also claims the child — whether simultaneously with or after the seller's claim — the seller's claim prevails. If she delivered after more than six months, the seller's claim is not accepted unless the buyer confirms it."
+        },
+        {
+          "id": "dawa-main-1-10",
+          "babId": "dawa-main",
+          "kitabId": "dawa",
+          "titleAr": "كتاب الدعوى",
+          "titleEn": "Claims",
+          "order": 10,
+          "textAr": "وإن مات الولد فادعاه البائع وقد جاءت به لأقل من ستة أشهر لم يثبت الاستيلاد في الأم وإن ماتت الأم فادعى البائع الابن وقد جاءت به لأقل من ستة أشهر يثبت النسب منه في الولد وأخذه البائع ويرد الثمن كله في قول أبي حنيفة وقال أبو يوسف ومحمد: يرد حصة الولد ولا يرد حصة الأم\n\nومن ادعى نسب أحد التوأمين ثبت نسبهما منه والله أعلم",
+          "sourcePage": 204,
+          "masail": [
+            {
+              "id": "masalah-dawa-main-1-10",
+              "sectionId": "dawa-main-1-10",
+              "kitabId": "dawa",
+              "titleAr": "كتاب الدعوى",
+              "titleEn": "Claims",
+              "rulingAr": "وإن مات الولد فادعاه البائع وقد جاءت به لأقل من ستة أشهر لم يثبت الاستيلاد في الأم وإن ماتت الأم فادعى البائع الابن وقد جاءت به لأقل من ستة أشهر يثبت النسب منه في الولد وأخذه البائع ويرد الثمن كله في قول أبي حنيفة وقال أبو يوسف ومحمد: يرد حصة الولد ولا يرد حصة الأم\n\nومن ادعى نسب أحد التوأمين ثبت نسبهما منه والله أعلم",
+              "rulingEn": "If the child dies and the seller claims him, having been delivered within less than six months — the status of umm walad is not established for the mother. If the mother dies and the seller claims the child, having been delivered within less than six months — the lineage of the child is established from him, the seller takes the child, and returns the entire price according to Abu Hanifah. Abu Yusuf and Muhammad said: he returns the portion attributable to the child and does not return the portion attributable to the mother.\n\nWhoever claims the lineage of one of twins — the lineage of both is established from him. And Allah knows best.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "If the child dies and the seller claims him, having been delivered within less than six months — the status of umm walad is not established for the mother. If the mother dies and the seller claims the child, having been delivered within less than six months — the lineage of the child is established from him, the seller takes the child, and returns the entire price according to Abu Hanifah. Abu Yusuf and Muhammad said: he returns the portion attributable to the child and does not return the portion attributable to the mother.\n\nWhoever claims the lineage of one of twins — the lineage of both is established from him. And Allah knows best."
+        }
+      ]
+    }
+  ]
+}

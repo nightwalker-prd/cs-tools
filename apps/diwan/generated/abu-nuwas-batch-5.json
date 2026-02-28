@@ -1,0 +1,159 @@
+[
+  {
+    "id": "abu-nuwas-126",
+    "poetId": "abu-nuwas",
+    "titleAr": "كم ليلة قد بت ألهو بها",
+    "titleEn": "How Many a Night I Spent in Pleasure",
+    "genre": "zuhd",
+    "level": "beginner",
+    "verses": [
+      { "sadr": "كم ليلة قد بت ألهو بها ،", "ajuz": "لو دام ذاك اللهو للاهي" },
+      { "sadr": "حرمها الله ، وحللتها ،", "ajuz": "" },
+      { "sadr": "فكيف بالعفو من الله", "ajuz": "" }
+    ],
+    "translationEn": "How many a night I spent in pleasure — had that amusement lasted, it would have made me forever lost in play. God had forbidden it, yet I made it lawful for myself. So how then shall I seek God's pardon?",
+    "vocabularyHighlights": [
+      { "word": "ألهو", "meaning": "I play, I amuse myself, I indulge in pleasure" },
+      { "word": "اللهو", "meaning": "idle amusement, distraction, frivolous play" },
+      { "word": "اللاهي", "meaning": "one lost in play, the heedless pleasure-seeker" },
+      { "word": "حرمها", "meaning": "he forbade it, declared it unlawful (God as subject)" },
+      { "word": "حللتها", "meaning": "I made it lawful, I permitted it for myself" },
+      { "word": "العفو", "meaning": "pardon, forgiveness, clemency" }
+    ],
+    "context": "A short but piercing poem of repentance (tawba) in which Abu Nuwas confronts his own transgression with disarming candor. Rather than elaborate penitential rhetoric, he ends on a single, devastating question: how can he dare ask God's forgiveness when he knowingly violated the divine prohibition? The poem belongs to the zuhd and repentance strand that runs alongside Abu Nuwas's khamriyyat, showing the poet's unease beneath his libertine persona."
+  },
+  {
+    "id": "abu-nuwas-127",
+    "poetId": "abu-nuwas",
+    "titleAr": "قد أغتدي ، والصبح في دجاه",
+    "titleEn": "I Set Out at Dawn While Darkness Still Lingers",
+    "genre": "madih",
+    "level": "advanced",
+    "verses": [
+      { "sadr": "قد أغتدي ، والصبح في دجاه ،", "ajuz": "كطرة البرد علامتاه" },
+      { "sadr": "بيؤيؤ يعجب من رآه ،", "ajuz": "" },
+      { "sadr": "ما في اليآئي يؤيؤ شرواه", "ajuz": "" },
+      { "sadr": "من سفعة طر بها خداه ،", "ajuz": "أزرق لا تكذبه عيناه" },
+      { "sadr": "فلو يرى القانص ما يراه ،", "ajuz": "" },
+      { "sadr": "فداه بالأم ، وقد فداه", "ajuz": "" },
+      { "sadr": "من بعد ما يذهب حملاقاه ،", "ajuz": "لا يوئل المكاء منكباه" },
+      { "sadr": "ولا جناحان تكنفاه", "ajuz": "" },
+      { "sadr": "منه ، إذا طار وقد تلاه ،", "ajuz": "" },
+      { "sadr": "دون انتزاع السحر من حشاه ،", "ajuz": "لو أكثر التسبيح ما نجاه" },
+      { "sadr": "ذاك الذي خولناه الله ،", "ajuz": "" },
+      { "sadr": "تبارك الله الذي هداه", "ajuz": "" }
+    ],
+    "translationEn": "I set out at dawn while darkness still lingered, like the two bright marks on the hem of a cloak that signal daybreak — with a sparrowhawk that astonishes all who see it. Among all falcons, there is no equal to this sparrowhawk. From the dark blaze that has grown upon its cheeks, steel-blue, belied by nothing in its eyes. Were the hunter to see what it sees, he would sacrifice himself for it — father and mother both — and indeed he has. After the whites of its eyes have vanished, the reed-warbler's wings cannot shelter it, nor can two wings enfold it from the hawk once it takes flight in pursuit. Not until the magic is torn from within its breast — were it to recite endless glorifications of God, nothing would save it. That is the gift God has bestowed upon us. Blessed be God who guided it.",
+    "vocabularyHighlights": [
+      { "word": "أغتدي", "meaning": "I set out at early dawn, I depart at daybreak" },
+      { "word": "يؤيؤ", "meaning": "sparrowhawk (a small, agile falcon used in hunting)" },
+      { "word": "شرواه", "meaning": "its equal, its match, its like" },
+      { "word": "السفعة", "meaning": "dark blaze or black mark on the face of a bird or animal" },
+      { "word": "حملاقاه", "meaning": "the whites of its two eyes" },
+      { "word": "المكاء", "meaning": "reed-warbler or whistling thrush (prey bird)" },
+      { "word": "التسبيح", "meaning": "glorification of God, reciting subhan Allah" },
+      { "word": "خولناه", "meaning": "that which God has granted us as a gift or boon" }
+    ],
+    "context": "A hunting poem (tardiyyah) in which Abu Nuwas describes an early morning falconry outing and glorifies the exceptional sparrowhawk he carries. The poem is notable for its precise ornithological vocabulary — the description of the hawk's blue-grey plumage, dark facial markings, and predatory focus show Abu Nuwas as an acute observer of nature. The closing couplet turns the poem toward pious gratitude, blessing God for the gift of such a bird, a characteristic Abu Nuwas pivot between worldly delight and religious acknowledgment."
+  },
+  {
+    "id": "abu-nuwas-128",
+    "poetId": "abu-nuwas",
+    "titleAr": "من يك من حبيك خلوا ، فما",
+    "titleEn": "Though Others Be Free of Your Love",
+    "genre": "ghazal",
+    "level": "beginner",
+    "verses": [
+      { "sadr": "من يك من حبيك خلوا ، فما", "ajuz": "أصبحت من حبيك بالخلو" },
+      { "sadr": "يقول ، والناطف في كفه :", "ajuz": "من يشتري الحلو من الحلو ؟" },
+      { "sadr": "فقلت : بعني منه ما أشتهي ،", "ajuz": "فمر عجلان ، ولم يلو" }
+    ],
+    "translationEn": "Though others may be free of loving you, I for my part have not become free of your love. He calls out, honey-syrup in hand: who will buy sweetness from the sweet one? I said: sell me of it what I desire — and he walked on, hurrying, without looking back.",
+    "vocabularyHighlights": [
+      { "word": "خلوا", "meaning": "free from, empty of, unburdened by (love)" },
+      { "word": "الناطف", "meaning": "honey-syrup candy, a confection; also a vendor of sweets" },
+      { "word": "الحلو", "meaning": "the sweet one; also sweetness, playing on both meanings" },
+      { "word": "أشتهي", "meaning": "I desire, I long for, I crave" },
+      { "word": "عجلان", "meaning": "hurrying, moving quickly" },
+      { "word": "يلو", "meaning": "he turns back, he looks back, he lingers" }
+    ],
+    "context": "A three-verse mujun and ghazal poem built around a pun: the sweet-vendor calling out 'who will buy sweetness from the sweet one?' (الحلو من الحلو) conflates the literal sweetness of his confection with the figurative sweetness of the beautiful youth carrying it. Abu Nuwas's bold reply and the boy's indifferent departure form a miniature drama of unrequited desire, typical of Abu Nuwas's urban ghazal in which the beloved is a merchant's boy encountered in the marketplace."
+  },
+  {
+    "id": "abu-nuwas-129",
+    "poetId": "abu-nuwas",
+    "titleAr": "يا فضل قد أودعتني عظة",
+    "titleEn": "O Fadl, You Have Entrusted Me with Wisdom",
+    "genre": "madih",
+    "level": "intermediate",
+    "verses": [
+      { "sadr": "يا فضل قد أودعتني عظة ،", "ajuz": "ما بعدها غلط ، ولا سهو" },
+      { "sadr": "وبرئت مما تستريب به ،", "ajuz": "" },
+      { "sadr": "فليهنني بك ذلك البرو", "ajuz": "" },
+      { "sadr": "واقبل أبا العباس عذري من", "ajuz": "لفظ الصبي مذاقه حلو" },
+      { "sadr": "إن ضاق عفوك ، وهو ذو سعة ،", "ajuz": "عني ، فليس بواسع عفو" },
+      { "sadr": "أنت الذي ألف السماح فما", "ajuz": "غير السماح لقلبه لهو" },
+      { "sadr": "تغدو جميع العرض وافره", "ajuz": "" },
+      { "sadr": "والمال معتصر النوى نضو", "ajuz": "" }
+    ],
+    "translationEn": "O Fadl, you have entrusted me with a piece of wisdom after which there is no error or forgetfulness. I have acquitted myself of what you held suspect — so let that acquittal through you bring me joy. Accept, O Abu al-Abbas, my excuse — for the word of a youth has a sweet taste. If your pardon, vast as it is, grows too narrow for my sake, then no pardon is truly wide. You are the one whose soul has grown accustomed to generosity, and nothing else occupies his heart. Your honor goes forth in its fullness, while wealth is like a wrung-out kernel, lean and spent.",
+    "vocabularyHighlights": [
+      { "word": "أودعتني", "meaning": "you entrusted me with, you deposited in me" },
+      { "word": "عظة", "meaning": "admonition, counsel, a piece of wisdom" },
+      { "word": "تستريب", "meaning": "you suspect, you doubt, you hold in suspicion" },
+      { "word": "البرو", "meaning": "acquittal, innocence, clearance of suspicion" },
+      { "word": "السماح", "meaning": "generosity, magnanimity, willingness to pardon" },
+      { "word": "العرض", "meaning": "honor, reputation, dignity" },
+      { "word": "نضو", "meaning": "lean, worn thin, exhausted; a worn-out camel" }
+    ],
+    "context": "An apology and eulogy addressed to al-Fadl ibn Yahya al-Barmaki (Abu al-Abbas), one of the powerful Barmakid ministers at the Abbasid court. Abu Nuwas seeks reconciliation after apparently having given offense, pleading the natural rashness of youth. The poem praises the addressee's proverbial generosity (السماح) — a defining virtue of the Barmakids — and the contrast between his enduring honor and the transience of wealth is a classical panegyric topos. The Barmakids were famous patrons who supported poets and scholars."
+  },
+  {
+    "id": "abu-nuwas-130",
+    "poetId": "abu-nuwas",
+    "titleAr": "ما لقي الغالبي . . . ما لقيا !",
+    "titleEn": "What al-Ghalibi Has Met — What a Fate!",
+    "genre": "hija",
+    "level": "intermediate",
+    "verses": [
+      { "sadr": "ما لقي الغالبي . . . ما لقيا !", "ajuz": "وضعت في نزع روحه يديا" },
+      { "sadr": "من سلط الله يا حسين على", "ajuz": "مهجته شاعرا ، فقد خزيا" },
+      { "sadr": "ويل لغلبون إنه شقيا ،", "ajuz": "فكيف بالذل والبلا رضيا" },
+      { "sadr": "أشربته الرعب والمخافة ما", "ajuz": "بقيت حيا له ، وما بقيا" },
+      { "sadr": "والله ، والله لا أكلمه ،", "ajuz": "كيف كلامي الفتى وقد خزيا ؟" }
+    ],
+    "translationEn": "What al-Ghalibi has endured — what a fate he has met! I placed my hands upon the very pulling-out of his soul. He upon whose heart God, O Husayn, has unleashed a poet — he is disgraced. Woe to Ghulbun, for he is wretched — how has he consented to humiliation and affliction? I filled him with dread and terror so long as I live, and even after he is gone. By God, by God, I will never speak to him — how can I address a young man who has been disgraced?",
+    "vocabularyHighlights": [
+      { "word": "الغالبي", "meaning": "al-Ghalibi, the one of the Banu Ghalib (proper name/nisba)" },
+      { "word": "النزع", "meaning": "the act of drawing out, pulling away; the death agony, final breath" },
+      { "word": "مهجته", "meaning": "his lifeblood, his soul, the core of his being" },
+      { "word": "خزيا", "meaning": "he was disgraced, humiliated, brought to shame" },
+      { "word": "الرعب", "meaning": "terror, dread, a paralyzing fear" },
+      { "word": "المخافة", "meaning": "fear, apprehension, the state of being afraid" }
+    ],
+    "context": "A fierce hija (satire) directed at a man called al-Ghalibi or Ghulbun, addressed to a third party named Husayn. Abu Nuwas boasts that he has destroyed his target's reputation through verse, drawing on the ancient Arab belief that a poet's satire had quasi-magical destructive power — to have a skilled poet 'unleashed' upon you was a genuine social catastrophe. The repeated oath 'By God, by God' and the refusal ever to speak to the disgraced man again underline the absolute social rupture that satire could enact in the Abbasid literary world."
+  },
+  {
+    "id": "abu-nuwas-131",
+    "poetId": "abu-nuwas",
+    "titleAr": "يموت مني كل يوم شي",
+    "titleEn": "Something in Me Dies Every Day",
+    "genre": "zuhd",
+    "level": "beginner",
+    "verses": [
+      { "sadr": "يموت مني كل يوم شي ،", "ajuz": "والجسم مني ثابت وحي" },
+      { "sadr": "والمرء يبلى نشره والطي ،", "ajuz": "وكم عسى من أن يدوم الحي" },
+      { "sadr": "وآخر الداء العياء الكي !", "ajuz": "" }
+    ],
+    "translationEn": "Something in me dies every day, yet my body remains firm and alive. A person wears away in his unfolding and his folding up — and how long can the living one endure? The final remedy for an incurable illness is the cauterizing iron!",
+    "vocabularyHighlights": [
+      { "word": "يموت", "meaning": "it dies, it perishes, it ceases" },
+      { "word": "يبلى", "meaning": "he wears out, he deteriorates, he is consumed by time" },
+      { "word": "نشره", "meaning": "his unfolding, his spreading out; his waking hours and active life" },
+      { "word": "الطي", "meaning": "the folding up; sleep, rest, the dormant state of life" },
+      { "word": "الداء العياء", "meaning": "the incurable illness, the disease that baffles all treatment" },
+      { "word": "الكي", "meaning": "cauterization, branding with a hot iron (the last resort in ancient medicine)" }
+    ],
+    "context": "A three-verse zuhd poem meditating on the daily diminishment of life. The arresting opening — 'something in me dies every day' — captures the slow erosion of vitality even while the body outwardly persists. The final line invokes the famous Arabic proverb that cauterization is the last resort of medicine (آخر الدواء الكي), here applied to existential decline: when ordinary remedies fail, only the most drastic measure remains. The poem is characteristic of Abu Nuwas's zuhd verse — brief, aphoristic, and suffused with the Arabic wisdom tradition."
+  }
+]

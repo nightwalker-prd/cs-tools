@@ -1,0 +1,2891 @@
+[
+  {
+    "id": "kab-ibn-zuhayr-01",
+    "poetId": "kab-ibn-zuhayr",
+    "titleAr": "ألا بكرت عرسي توائم من لحى",
+    "titleEn": "My wife rose early to reproach me",
+    "genre": "fakhr",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "ألا بكرت عرسي توائم من لحى",
+        "ajuz": "وأقرب بأحلام النساء من الردى"
+      },
+      {
+        "sadr": "أفي جنب بكر قطعتني ملامة",
+        "ajuz": "لعمري لقد كانت ملامتها ثنى"
+      },
+      {
+        "sadr": "ألا لاتلومي ويب غيرك عاريا",
+        "ajuz": "رأى ثوبه يوما من الدهر فاكتسى"
+      },
+      {
+        "sadr": "فأقسم لولا أن أسر ندامة",
+        "ajuz": "وأعلن أخرى إن تراخت بك النوى"
+      },
+      {
+        "sadr": "وقيل رجال لا يبالون شأننا",
+        "ajuz": "غوى أمر كعب ما أراد وما ارتأى"
+      },
+      {
+        "sadr": "لقد سكنت بيني وبينك حقبة",
+        "ajuz": "بأطلائها العين الملمعة الشوى"
+      },
+      {
+        "sadr": "فيا راكبا لإما عرضت فبلغن",
+        "ajuz": "بني ملقط عني إذا قيل : من عنى"
+      },
+      {
+        "sadr": "فما خلتكم يا قوم كنتم أذلة",
+        "ajuz": "وما خلتكم كنتم لمختلس جنى"
+      },
+      {
+        "sadr": "لقد كنتم بالسهل والحزن حية",
+        "ajuz": "إذا لدغت لم تشف لدغتها الرقى"
+      },
+      {
+        "sadr": "فإن تغضبوا أو تدركوا لي بذمة",
+        "ajuz": "لعمركم لمثل سعيكم كفى"
+      },
+      {
+        "sadr": "لقد نال زيد الخيل مال أخيكم",
+        "ajuz": "وأصبح زيد بعد فقر قد اقتنى"
+      },
+      {
+        "sadr": "وإن الكميت عند زيد ذمامة",
+        "ajuz": "وما بالكميت من خفاء لمن رأى"
+      },
+      {
+        "sadr": "يبين لأفيال الرجال ومثله",
+        "ajuz": "يبين إذا ما قيد في الخيل أو جرى"
+      },
+      {
+        "sadr": "ممر كسرحان القصيمة منعل",
+        "ajuz": "مساحي لا يدمي دوابرها الوجى"
+      },
+      {
+        "sadr": "شديد الشظى عبل الشوى شنج النسا",
+        "ajuz": "كأن مكان الردف من ظهره وعى"
+      }
+    ],
+    "translationEn": "My wife rose early to rebuke me — how close are women's dreams to ruin! She blamed me for the sake of Bakr — by my life, her blame was twice-given. Do not blame a naked man who, finding his garment one day, dressed himself. I swear, had I not wished to keep a secret and proclaim another when distance draws you near... Men said they care nothing for our affairs — Ka'b has strayed from what he sought. For a while you dwelt between us, she-gazelles bright of flank. A traveler: if you pass, then convey my message to the sons of Mulaqat — say who sent it. I never imagined you, O people, were abased, nor that you could be robbed of your harvest. You were a serpent on the plain and the ridge — whose bite no charm could cure. If you are wrathful or would honor a pledge, by your life, such effort is sufficient. Zayd of the horses has taken your brother's wealth and grown rich after poverty. The sorrel horse holds a bond at Zayd's, and nothing about that horse is hidden. It makes clear to the great men of men's ranks, and becomes apparent when bridled among horses or when it gallops. Taut like the wolf of the thicket, shod, its hooves do not bleed from the gravel. Strong of thigh, thick of shanks, taut of sinew — it is as if where the rider sits on its back is a protected hollow.",
+    "vocabularyHighlights": [
+      {"word": "توائم", "meaning": "rising early, setting out at dawn"},
+      {"word": "ملامة", "meaning": "blame, reproach"},
+      {"word": "أطلاء", "meaning": "young gazelles (sg. طلا)"},
+      {"word": "الملمعة", "meaning": "marked with white patches"},
+      {"word": "مختلس", "meaning": "one who seizes or snatches"},
+      {"word": "الرقى", "meaning": "incantations, charms"},
+      {"word": "الشظى", "meaning": "the outer bones of the leg (in a horse)"},
+      {"word": "الوجى", "meaning": "soreness of the feet/hooves"}
+    ],
+    "context": "Ka'b ibn Zuhayr addresses his wife's reproaches while boasting of tribal bonds and praising a horse given to Zayd al-Khayl, reflecting his pre-Islamic and early Islamic tribal loyalties."
+  },
+  {
+    "id": "kab-ibn-zuhayr-02",
+    "poetId": "kab-ibn-zuhayr",
+    "titleAr": "هلا سألت وأنت غير عيية",
+    "titleEn": "Why did you not ask, not being ignorant",
+    "genre": "fakhr",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "هلا سألت وأنت غير عيية",
+        "ajuz": "وشفاء ذي العي السؤال عن العمى"
+      },
+      {
+        "sadr": "عن مشهدي ببعاث إذ دلفت له",
+        "ajuz": "غسان بالبيض القواطع والقنا"
+      },
+      {
+        "sadr": "وعن اعتناقي ثابتا في مشهد",
+        "ajuz": "متنافس فيه الشجاعة للفتى"
+      },
+      {
+        "sadr": "فشريته بأجم أسود حالك",
+        "ajuz": "بعكاظ موقوفا بمجمعها ضحا"
+      },
+      {
+        "sadr": "ما إن وجدت له فداء غيره",
+        "ajuz": "وكذاك كان فداؤهم فيما مضى"
+      },
+      {
+        "sadr": "إني امرؤ أقني الحياء وشيمتي",
+        "ajuz": "كرم الطبيعة والتجنب للخنا"
+      },
+      {
+        "sadr": "من معشر فيهم قروم سادة",
+        "ajuz": "وليوث غاب حين تضطرم الوغى"
+      },
+      {
+        "sadr": "ويصول بالأبدان كل مسفر",
+        "ajuz": "مثل الشهاب إذا توقد بالغضا"
+      }
+    ],
+    "translationEn": "Why did you not ask — you who are no fool — for the cure of ignorance is to ask questions? Ask about my station at the Battle of Bu'ath, when the Ghassanids advanced with bright cutting swords and spears. Ask about my steadfast grappling in a battle where young men contested bravery. I bought him from a dark thick thicket, standing at 'Ukaz market in the morning. I found no ransom for him other than that — such was their ransom in times past. I am a man who guards his honor; my nature is nobility and avoidance of shame. I come from a people among whom are great lords, lions of the thickets when war blazes. Every radiant warrior charges with his body, like a meteor when it kindles among the firewood.",
+    "vocabularyHighlights": [
+      {"word": "عيية", "meaning": "ignorant, incapable (fem. form)"},
+      {"word": "بعاث", "meaning": "a famous pre-Islamic battle between the Aws and Khazraj"},
+      {"word": "دلفت", "meaning": "advanced, marched toward"},
+      {"word": "اعتناقي", "meaning": "my grappling/embracing in combat"},
+      {"word": "قروم", "meaning": "great chiefs, senior leaders (sg. قرم)"},
+      {"word": "الوغى", "meaning": "the din of battle, war"},
+      {"word": "مسفر", "meaning": "radiant-faced, bright warrior"}
+    ],
+    "context": "Ka'b boasts of his valor at the pre-Islamic Battle of Bu'ath and his noble lineage, asserting his bravery and chivalric character to a woman who questioned him."
+  },
+  {
+    "id": "kab-ibn-zuhayr-03",
+    "poetId": "kab-ibn-zuhayr",
+    "titleAr": "إن يدركك موت أو مشيب",
+    "titleEn": "If death or old age overtakes you",
+    "genre": "hikma",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "إن يدركك موت أو مشيب",
+        "ajuz": "فقبلك مات أقوام وشابوا"
+      },
+      {
+        "sadr": "تلبثنا وفرطنا رجالا",
+        "ajuz": "دعوا وإذا الأنام دعوا أجابوا"
+      },
+      {
+        "sadr": "وان سبيلنا لسبيل قوم",
+        "ajuz": "شهدنا الأمر بعدهم وغابوا"
+      },
+      {
+        "sadr": "فلا تسأل ستثكل كل أم",
+        "ajuz": "إذا ما إخوة كثروا وطابوا"
+      }
+    ],
+    "translationEn": "If death or grey old age overtakes you, know that before you, nations have died and greyed. We tarried and outlived men who were called — and when the people are called, they answer. Our path is the path of a people who were present and then absent, whom we saw the matter after. Do not ask — every mother will be bereaved when brothers grow many and become good.",
+    "vocabularyHighlights": [
+      {"word": "مشيب", "meaning": "whitening of hair, old age"},
+      {"word": "فرطنا", "meaning": "we preceded, we left behind (as forerunners)"},
+      {"word": "سبيل", "meaning": "path, way"},
+      {"word": "تثكل", "meaning": "to be bereaved of a child"},
+      {"word": "طابوا", "meaning": "they became good, noble"}
+    ],
+    "context": "A brief wisdom poem reflecting on the universality of death and ageing, counseling acceptance of mortality as the common lot of humankind."
+  },
+  {
+    "id": "kab-ibn-zuhayr-04",
+    "poetId": "kab-ibn-zuhayr",
+    "titleAr": "أمن دمنة قفر تعاورها البلى",
+    "titleEn": "From a desolate ruin worn by time",
+    "genre": "ghazal",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "أمن دمنة قفر تعاورها البلى",
+        "ajuz": "لعينيك أسراب تفيض غروبها"
+      },
+      {
+        "sadr": "تعاورها طول البلى بعد جدة",
+        "ajuz": "وجرت بأذيال عليها جنوبها"
+      },
+      {
+        "sadr": "فلم يبق فيها غير أس مذعذع",
+        "ajuz": "ولا من أثافي الدار إلا صليبها"
+      },
+      {
+        "sadr": "تحمل منها أهلها فنأت بهم",
+        "ajuz": "لطيتهم مر النوى وشعوبها"
+      },
+      {
+        "sadr": "وإذ هي كغصن البان خفاقة الحشى",
+        "ajuz": "يروعك منها حسن دل وطيبها"
+      },
+      {
+        "sadr": "فأصبح باقي الود بيني وبينها",
+        "ajuz": "أماني يزجيها إلي كذوبها"
+      },
+      {
+        "sadr": "فدعها وعد الهم عنك ولو دعا",
+        "ajuz": "إلى ذكر سلمى كل يوم طروبها"
+      },
+      {
+        "sadr": "أتصبو إلى سلمى ومن دون أهلها",
+        "ajuz": "مهامه يغتال المطي سهوبها"
+      },
+      {
+        "sadr": "وبالعفو وصاني أبي وعشيرتي",
+        "ajuz": "وبالدفع عنها في أمور تريبها"
+      },
+      {
+        "sadr": "وقومك فاستبق المودة فيهم",
+        "ajuz": "ونفسك جنبها الذي قد يعيبها"
+      }
+    ],
+    "translationEn": "From a desolate ruin worn by time — do your eyes pour forth floods of tears? Ravaged by long decay after its newness, the south winds dragged their skirts across it. Nothing remained but a crumbling foundation, and from the hearth-stones only their crosses. Its people bore away from it and drifted far, carried off by the bitterness of departure and death. She was once like a willow branch, heart-fluttering, her beauty and fragrance startling you. What remains of the love between her and me are wishes sent by a deceiver. Leave her, turn grief away — though every day its eager ones call you to the memory of Salma. Do you yearn for Salma when between you and her people lie deserts that swallow the camels? My father and my clan bade me be forgiving, and to defend her in matters that trouble. Preserve love among your people, and shield yourself from what would shame you.",
+    "vocabularyHighlights": [
+      {"word": "دمنة", "meaning": "ruins of a former campsite"},
+      {"word": "غروبها", "meaning": "its tears, floods (of the eye)"},
+      {"word": "الأثافي", "meaning": "the three stones of a cooking hearth"},
+      {"word": "النوى", "meaning": "separation, distance of parting"},
+      {"word": "خفاقة الحشى", "meaning": "with a fluttering heart"},
+      {"word": "طروبها", "meaning": "its longing ones, those stirred by desire"},
+      {"word": "مهامه", "meaning": "vast empty deserts"}
+    ],
+    "context": "A classical nasib (prelude) in which Ka'b mourns an abandoned campsite and the memory of his beloved Salma, before counseling himself to patience and forbearance."
+  },
+  {
+    "id": "kab-ibn-zuhayr-05",
+    "poetId": "kab-ibn-zuhayr",
+    "titleAr": "ما برح الرسم الذي بين حنجر",
+    "titleEn": "The ruin between Hanjir still remains",
+    "genre": "ghazal",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "ما برح الرسم الذي بين حنجر",
+        "ajuz": "وذلفة حتى قيل هل هو نازح"
+      },
+      {
+        "sadr": "ومازلت ترجو نفع سعدى وودها",
+        "ajuz": "وتبعد حتى ابيض منك المسائح"
+      },
+      {
+        "sadr": "وحتى رأيت الشخص يزداد مثله",
+        "ajuz": "إليه ، وحتى نصف رأسي واضح"
+      },
+      {
+        "sadr": "علا حاجبي الشيب حتى كأنه",
+        "ajuz": "ظباء جرت منها سنيح وبارح"
+      },
+      {
+        "sadr": "فأصبحت لا أبتاع الا مؤامرا",
+        "ajuz": "وما بيع من يبتاع مثلي رابح"
+      },
+      {
+        "sadr": "الا ليت سلمى كلما حان ذكرها",
+        "ajuz": "تبلغها عني الرياح النوافح"
+      },
+      {
+        "sadr": "وقالت تعلم أن ما كان بيننا",
+        "ajuz": "إليك أداء إن عهدك صالح"
+      },
+      {
+        "sadr": "جميعا تؤديه إليك أمانتي",
+        "ajuz": "كما اديت بعد الغراز المنائح"
+      },
+      {
+        "sadr": "وقالت تعلم أن بعض حموتي",
+        "ajuz": "وبعلي غضاب كلهم لك كاشح"
+      },
+      {
+        "sadr": "يحدون بالأيدي الشفار وكلهم",
+        "ajuz": "لحلقك لو يستطيع حلقك ذابح"
+      },
+      {
+        "sadr": "وهزة أظعان عليهن بهجة",
+        "ajuz": "طلبت وريعان الصبا بي جامح"
+      },
+      {
+        "sadr": "فلما قضينا من منى كل حاجة",
+        "ajuz": "ومسح ركن البيت من هو ماسح"
+      },
+      {
+        "sadr": "وشدت على حدب المهاري رحالها",
+        "ajuz": "ولا ينظر الغادي الذي هو رائح"
+      },
+      {
+        "sadr": "فقلنا على الهوج المراسيل وارتمت",
+        "ajuz": "بهن الصحارى والصماد الصحاصح"
+      },
+      {
+        "sadr": "نزعنا بأطراف الأحاديث بيننا",
+        "ajuz": "ومالت بأعناق المطي الأباطح"
+      },
+      {
+        "sadr": "وطرت إلى قواداء قاد تليلها",
+        "ajuz": "مناكبها واشتد منها الجوانح"
+      },
+      {
+        "sadr": "كأني كسوت الرحل جونا رباعيا",
+        "ajuz": "تضمنه وادي الرجا فالأفايح"
+      },
+      {
+        "sadr": "ممرا كعقد الأندري مدمجا",
+        "ajuz": "بدا قارح منه ولم يبد قارح"
+      },
+      {
+        "sadr": "كأن عليه من قباء بطانة",
+        "ajuz": "تفرج عنها جيبها والمناصح"
+      },
+      {
+        "sadr": "أخو الأرض يستخفي بها غير أنه",
+        "ajuz": "اذا استاف منها قارحا فهو صائح"
+      },
+      {
+        "sadr": "دعاها من الأمهاد أمهاد عامر",
+        "ajuz": "وهاجت من الشعرى عليه البوارح"
+      }
+    ],
+    "translationEn": "The ruin between Hanjir and Dhulfa has not vanished — to the point it was said: has it receded? You kept hoping for Su'da's goodness and love, drawing farther away until the grey spread in your temples. Until you saw a figure growing in likeness to yourself, and half your head is bare and white. White crept over my brows like gazelles passing, some auspicious, some ominous. I buy nothing now without consultation — and no merchant profits who buys from one like me. Would that whenever Salma is recalled, the blowing winds could carry my words to her. She said: know that what was between us is yours to receive — your covenant is sound. My trust will fully deliver it to you, as gifts after the weaning are returned. She said: know that some of my in-laws and my husband are all wrathful toward you, harboring enmity. They sharpen blades with their hands, every one of them, who would slit your throat if they could. A stirring procession of litters beautified upon them — I sought it while the surge of youth still raced in me. When we had fulfilled every need at Mina, and whoever rubbed the corner of the House did so, and the saddles were strapped on the humps of the she-camels, departing travelers not looking back — we set forth on the free-striding camels and the deserts and hard plains cast us about. We drew out the threads of conversation between us as the flat grounds bent the camels' necks. I flew to a long-necked she-camel whose neck led her shoulders, her sides tightened. It was as if I dressed the saddle with a four-year-old dark beast, that the valley of Rajaa and its wide spaces enclosed — compact as the knot of a rope-maker, solid, a tested one appearing in it yet another not apparent. As if it wore beneath a quilted lining, its collar-opening and seams parting. A creature of the earth, hiding in it, yet when it scents a tested stallion, it cries out. Its resting-place was the soft grounds of 'Amir's soft grounds, and the hot summer winds stirred above it from the Scorpion star.",
+    "vocabularyHighlights": [
+      {"word": "الرسم", "meaning": "the ruin, old trace of a campsite"},
+      {"word": "المسائح", "meaning": "the temples (sides of the head)"},
+      {"word": "كاشح", "meaning": "one who harbors hidden enmity"},
+      {"word": "الأظعان", "meaning": "camel litters carrying women"},
+      {"word": "المهاري", "meaning": "fast riding-camels (sg. مهرية)"},
+      {"word": "قواداء", "meaning": "a she-camel with a long neck"},
+      {"word": "البوارح", "meaning": "hot summer winds from the north"}
+    ],
+    "context": "A long qasida combining a nasib recounting a secret encounter with his beloved near Mecca during pilgrimage, and an extended description of his fast she-camel, characteristic of the classical ode structure."
+  },
+  {
+    "id": "kab-ibn-zuhayr-06",
+    "poetId": "kab-ibn-zuhayr",
+    "titleAr": "صبحنا الحي حي بني جحاش",
+    "titleEn": "We struck at dawn the clan of Banu Jihash",
+    "genre": "fakhr",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "صبحنا الحي حي بني جحاش",
+        "ajuz": "بمكروثاء داهية نآدا"
+      },
+      {
+        "sadr": "فما جبنوا غداتئذ ولكن",
+        "ajuz": "أشب بهم فلم يسعوا الذيادا"
+      },
+      {
+        "sadr": "فإن تك أخطأت سعد بن بكر",
+        "ajuz": "فقد تركت مواليها عبادا"
+      },
+      {
+        "sadr": "بني عوف ودهمان بن نصر",
+        "ajuz": "وكان الله فاعل ما أرادا"
+      },
+      {
+        "sadr": "صبحناهم بجمع فيه ألف",
+        "ajuz": "رواياهم يخضخضن المزادا"
+      },
+      {
+        "sadr": "أربت بالأكارع وهي تبغي",
+        "ajuz": "رعاة الشاء والضأن القهاد"
+      },
+      {
+        "sadr": "فجلنا جولة ثم ارعوينا",
+        "ajuz": "وامكنا لمن شاء الجلادا"
+      },
+      {
+        "sadr": "بضرب يلقح الضبعان منه",
+        "ajuz": "طروقته ويأتنف السفادا"
+      }
+    ],
+    "translationEn": "We struck at dawn the clan of Banu Jihash with a cunning, weighty calamity. They did not flee that morning, but the fire of battle raged among them and they could not resist. If you missed Sa'd ibn Bakr, you have left their allies enslaved — the sons of 'Awf and Dahman ibn Nasr. God does what He wills. We struck them at dawn with a force of a thousand, their water-camels churning the water-bags. It seized them at the ankles while seeking the shepherds of sheep and the short-fleeced rams. We surged and then drew back, holding our ground for whoever wished to fight. With blows that the hyenas would mate from, their mates coming to them and seeking copulation again.",
+    "vocabularyHighlights": [
+      {"word": "صبحنا", "meaning": "we came upon them at dawn (in a raid)"},
+      {"word": "مكروثاء", "meaning": "a catastrophic, crushing blow"},
+      {"word": "نآدا", "meaning": "weighty, burdensome"},
+      {"word": "الذياد", "meaning": "to drive off, to repel"},
+      {"word": "رواياهم", "meaning": "their water-carrying camels"},
+      {"word": "المزاد", "meaning": "water skins, water bags"},
+      {"word": "الضبعان", "meaning": "the male hyena"}
+    ],
+    "context": "A war poem in which Ka'b boasts of a dawn raid against the clan of Banu Jihash, describing the battle and the prowess of his forces."
+  },
+  {
+    "id": "kab-ibn-zuhayr-07",
+    "poetId": "kab-ibn-zuhayr",
+    "titleAr": "أبت ذكرة من حب ليلى تعودني",
+    "titleEn": "The memory of Layla's love returns to haunt me",
+    "genre": "ghazal",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "أبت ذكرة من حب ليلى تعودني",
+        "ajuz": "عياد أخي الحمى إذا قلت أقصرا"
+      },
+      {
+        "sadr": "كأن بغبطان الشريف وعاقل",
+        "ajuz": "ذرا النخل تسمو والسفين المقيرا"
+      },
+      {
+        "sadr": "ألم تعلمي أني إذا وصل خلة",
+        "ajuz": "كذاك تولى كنت بالصبر أجدرا"
+      },
+      {
+        "sadr": "ومستأسد يندى كأن ذبابه",
+        "ajuz": "أخو الخمر هاجت شوقه فتذكرا"
+      },
+      {
+        "sadr": "هبطت بملبون كأن جلاله",
+        "ajuz": "نضت عن أديم ليلة الطل أحمرا"
+      },
+      {
+        "sadr": "امين الشظى عبل إذا القوم آنسوا",
+        "ajuz": "مدى العين شخصا كان بالشخص أبصرا"
+      },
+      {
+        "sadr": "وخالي الجبا أوردته القوم فاستقوا",
+        "ajuz": "بسفرتهم من آجن الماء أصفرا"
+      },
+      {
+        "sadr": "وخرق يعج العود أن يستبينه",
+        "ajuz": "إذا أورد المجهولة القوم أصدرا"
+      },
+      {
+        "sadr": "ترى بحفافيه الرذايا ومتنه",
+        "ajuz": "قياما يفترن الصريف المفترا"
+      },
+      {
+        "sadr": "تركت به من آخر الليل موضعي",
+        "ajuz": "لديه وملقاي النقيش المسمرا"
+      },
+      {
+        "sadr": "ومثنى نواج ضمر جدلية",
+        "ajuz": "كجفن اليماني نيها قد تحسرا"
+      },
+      {
+        "sadr": "ومرقبة عيطاء بادرت مقصرا",
+        "ajuz": "لأستأنس الأشباح أو أتنورا"
+      },
+      {
+        "sadr": "على عجل مني غشاشا وقد بدا",
+        "ajuz": "ذرا النخل واحمر النهار فأدبرا"
+      }
+    ],
+    "translationEn": "The memory of love for Layla keeps visiting me like a fever-brother — whenever I say 'stop,' it returns. It is as if at the heights of the noble ground and 'Aqil, the tops of palms rise up and pitched ships appear. Did you not know that when a bond of friendship is severed, I am more worthy of patience? A dense meadow dripping with dew, whose fly was like a wine-lover who felt longing and remembered. I descended with a saddled beast whose trappings had been peeled from the moist leather of a red rainy night. Sound of thigh-bones, thick-built — when people spotted a figure in the distance, it was keener-eyed than that figure. My wide-flank horse, I watered it for the people and they drank from their skins from the stagnant yellow water. A vast wilderness — the mounted beast groaned to traverse it; when people watered the unknown one, it left. Along its two sides the weak camels and its spine stood up, twisting the groaning, twisted groan. I left my resting place at the end of the night, near it, where my layover met the hammered pegs. Two lean, compact, twisted she-camels, like the sheath of a Yemeni blade whose iron had worn away. A lofty, long-necked lookout — I hurried to a resting point to be consoled by shapes or to light a fire. In my haste, briefly — and the tops of palms appeared and the day reddened and receded.",
+    "vocabularyHighlights": [
+      {"word": "عياد", "meaning": "the visiting (of illness), recurrence"},
+      {"word": "ملبون", "meaning": "a horse with a saddle-cloth (from لبن, padding)"},
+      {"word": "الشظى", "meaning": "bones of the horse's leg"},
+      {"word": "آجن", "meaning": "stagnant, foul-smelling (water)"},
+      {"word": "الرذايا", "meaning": "exhausted, worn-out camels"},
+      {"word": "مرقبة", "meaning": "a high lookout point"},
+      {"word": "عيطاء", "meaning": "tall-necked, long-necked (she-camel or hill)"}
+    ],
+    "context": "A qasida beginning with the memory of Layla and moving into a journey narrative featuring the desert, his horse, and a dangerous waterless passage — a typical classical ode structure."
+  },
+  {
+    "id": "kab-ibn-zuhayr-08",
+    "poetId": "kab-ibn-zuhayr",
+    "titleAr": "إن عرسي قد آذنتني أخيرا",
+    "titleEn": "My wife has finally given me warning",
+    "genre": "wasf",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "إن عرسي قد آذنتني أخيرا",
+        "ajuz": "لم تعرج ولم تؤامر أميرا"
+      },
+      {
+        "sadr": "أجهازا جاهزت لا عتب فيه",
+        "ajuz": "أم أرادت خيانة وفجورا"
+      },
+      {
+        "sadr": "ما صلاح الزوجين عاشا جميعا",
+        "ajuz": "بعد أن يصرم الكبير الكبيرا"
+      },
+      {
+        "sadr": "فاصبري مثل ما صبرت فإني",
+        "ajuz": "لا إخال الكريم إلا صبورا"
+      },
+      {
+        "sadr": "أي حين وقد دببت ودبت",
+        "ajuz": "ولبسنا من بعد دهر دهورا"
+      },
+      {
+        "sadr": "ما أرانا نقول إلا رجيعا",
+        "ajuz": "ومعادا من قولنا مكرورا"
+      },
+      {
+        "sadr": "عذلتني فقلت لا تعذليني",
+        "ajuz": "قد أغادي المعذل المخمورا"
+      },
+      {
+        "sadr": "ذا صباح فلم أواف لديه",
+        "ajuz": "غير عذالة تهر هريرا"
+      },
+      {
+        "sadr": "عذلته حتى إذا قال إني",
+        "ajuz": "- فذريني - سأعقل التفكيرا"
+      },
+      {
+        "sadr": "غفلت غفلة فلم تر إلا",
+        "ajuz": "ذات نفس منها تكوس عقيرا"
+      },
+      {
+        "sadr": "فذريني من الملامة حسبي",
+        "ajuz": "ربما أنتحي موارد زورا"
+      },
+      {
+        "sadr": "تتأوى إلى الثنايا كما شك",
+        "ajuz": "ت صناع من العسيب حصيرا"
+      },
+      {
+        "sadr": "خلجا من معبد مسبطر",
+        "ajuz": "فقر الأكم والصوى تفقيرا"
+      },
+      {
+        "sadr": "واضح اللون كالمجرة لا يع",
+        "ajuz": "دم يوما من الأهابي مورا"
+      },
+      {
+        "sadr": "وذئابا تعوي وأصوات هام",
+        "ajuz": "موفيات مع الظلام قبورا"
+      },
+      {
+        "sadr": "غير ذي صاحب زجرت عليه",
+        "ajuz": "حرة رسلة اليدين سعورا"
+      },
+      {
+        "sadr": "أخرج السير والهواجر منها",
+        "ajuz": "قطرانا ولو رب عصيرا"
+      },
+      {
+        "sadr": "يوم صوم من الظهيرة أو يو",
+        "ajuz": "م حرور يلوح اليعفورا"
+      },
+      {
+        "sadr": "وإذا ما أشاء أبعث منها",
+        "ajuz": "مطلع الشمس ناشطا مذعورا"
+      },
+      {
+        "sadr": "ذا وشوم كأن جلد شواه",
+        "ajuz": "في ديابيج أو كسين نمورا"
+      },
+      {
+        "sadr": "أخرجته من الليالي رجوس",
+        "ajuz": "ليلة هاجها السماك درورا"
+      },
+      {
+        "sadr": "غسلته حتى تخال فريدا",
+        "ajuz": "وجمانا عن متنه محدورا"
+      },
+      {
+        "sadr": "في أصول الأرطى ويبدي عروقا",
+        "ajuz": "ثئدات مثل الأعنة خورا"
+      },
+      {
+        "sadr": "واشجات حمرا كأن بأظلا",
+        "ajuz": "ف يديه من مائهن عبيرا"
+      },
+      {
+        "sadr": "كمطيف الدوار حتى إذا ما",
+        "ajuz": "ساطع الفجر نبه العصفورا"
+      },
+      {
+        "sadr": "رابه نبأة وأضمر منها",
+        "ajuz": "في الصماخين والفؤاد ضميرا"
+      },
+      {
+        "sadr": "من خفي الطمرين يسعى بغضف",
+        "ajuz": "لم يؤيه بهن إلا صفيرا"
+      },
+      {
+        "sadr": "مقعيات إذا علون يفاعا",
+        "ajuz": "زرقات عيونها لتغيرا"
+      },
+      {
+        "sadr": "كالحات معا عوارض أشدا",
+        "ajuz": "ق ترى في مشقها تأخيرا"
+      },
+      {
+        "sadr": "طافيات كأنهن يعاسي",
+        "ajuz": "ب عشي بارين ريحا دبورا"
+      },
+      {
+        "sadr": "ما أرى ذائدا يزيد عليه",
+        "ajuz": "غاب عنه أنصاره مكثورا"
+      },
+      {
+        "sadr": "بأسيل صدق يثقفه في",
+        "ajuz": "هن لا نابيا ولا مأطورا"
+      },
+      {
+        "sadr": "فكأني كسوت ذلك رحلي",
+        "ajuz": "أو ممر السراة جأبا دريرا"
+      },
+      {
+        "sadr": "أو أقبا تصيف البقل حتى",
+        "ajuz": "طار عنه النسيل يرعى غريرا"
+      },
+      {
+        "sadr": "ينتحي بالقنان يقرو رياضا",
+        "ajuz": "فانتحى آتنا جدائد نورا"
+      },
+      {
+        "sadr": "ألصق العذم والعذاب بقبا",
+        "ajuz": "ء ترى في سراتها تحسيرا"
+      },
+      {
+        "sadr": "سمحة سمحج القوائم حقبا",
+        "ajuz": "ء من الجون طمرت تطميرا"
+      },
+      {
+        "sadr": "فوق عوج ملس القوائم أنعل",
+        "ajuz": "لن جلاميد أو حذين نسورا"
+      },
+      {
+        "sadr": "دأب شهرين ثم نصفا دميكا",
+        "ajuz": "بأريكين يكدمان غميرا"
+      },
+      {
+        "sadr": "فهي ملساء كالعسيب وقد با",
+        "ajuz": "ن نسيل عن متنها ليطيرا"
+      },
+      {
+        "sadr": "قد نحاها بشره دون تسع",
+        "ajuz": "كان ما رام عندهن يسيرا"
+      },
+      {
+        "sadr": "كالقيسي الأعطال أفرد عنها",
+        "ajuz": "آتنا قرحا ووحشا ذكورا"
+      },
+      {
+        "sadr": "مرتجات على دعاميص عونا",
+        "ajuz": "شمس قد لوين عنه حجورا"
+      },
+      {
+        "sadr": "ترك الضرب بالسنابك منه",
+        "ajuz": "ن بضاحي جبينه توقيرا"
+      },
+      {
+        "sadr": "علقت مخلفا جنينا وكانت",
+        "ajuz": "منحت قبله الحيال نزورا"
+      },
+      {
+        "sadr": "مثل درص اليربوع لم يرب عنه",
+        "ajuz": "غرقا في صوانه مغمورا"
+      },
+      {
+        "sadr": "فإذا ما دنا لها منحته",
+        "ajuz": "مضمرا يفرص الصفيح ذكيرا"
+      },
+      {
+        "sadr": "ذكر الورد فاستمر إليه",
+        "ajuz": "بعشي مهجرا تهجيرا"
+      },
+      {
+        "sadr": "جعل السعد والقنان يمينا",
+        "ajuz": "والمروراة شأمة وحفيرا"
+      },
+      {
+        "sadr": "عامدا للقنان ينضو رياضا",
+        "ajuz": "وطرادا من الذناب ودورا"
+      },
+      {
+        "sadr": "ويخافان عامرا عامر الخض",
+        "ajuz": "ر وكان الذناب منه مصيرا"
+      },
+      {
+        "sadr": "راميا أخشن المناكب لا يش",
+        "ajuz": "خص قد هره الهوادي هريرا"
+      },
+      {
+        "sadr": "ثاويا ماثلا يقلب زرقا",
+        "ajuz": "رمها القين بالعيون حشورا"
+      },
+      {
+        "sadr": "شرقات بالسم من صلبي",
+        "ajuz": "وركوضا من السراء طحورا"
+      },
+      {
+        "sadr": "ذات حنو ملساء تسمع منها",
+        "ajuz": "تحت ما تنبض الشمال زفيرا"
+      },
+      {
+        "sadr": "يبعث العزف والترنم منها",
+        "ajuz": "ونزير إلى الخميس نزيرا"
+      },
+      {
+        "sadr": "لاصق يكلأ الشريعة لا يغ",
+        "ajuz": "في فواقا مدمرا تدميرا"
+      }
+    ],
+    "translationEn": "My wife has finally warned me — she did not delay nor consult a leader. Was it departure she prepared — no reproach in it — or did she intend betrayal and immorality? What good are two spouses living together after the great one severs from the great one? Be patient as I have been patient — a noble person is always patient. What time is this, when we have both aged, having lived ages upon ages? We say nothing but what is repeated, re-said and recycled in our speech. You blamed me, I said do not — I have gone out at dawn to the blamed and hung-over man, a morning man, and I found with him nothing but a nagging woman growling with bitterness. I blamed him until he said 'leave me — I will restrain my thinking.' She was distracted and saw only a one bearing a spirit that kicks at the slain. Leave me from blame — it is enough for me that sometimes I seek the watering-places of lies... [The poem continues with an extended description of a wild ass and a hunter, the watering hole, and the arrow's flight, across many verses of elaborate nature poetry].",
+    "vocabularyHighlights": [
+      {"word": "آذنتني", "meaning": "she gave me notice, warned me"},
+      {"word": "تؤامر", "meaning": "to consult"},
+      {"word": "الهواجر", "meaning": "the midday heats"},
+      {"word": "قطرانا", "meaning": "tar (used on camels for mange)"},
+      {"word": "اليعفور", "meaning": "a young white gazelle"},
+      {"word": "الصماخين", "meaning": "the two ear-canals"},
+      {"word": "النسيل", "meaning": "shed fur, moulted hair"}
+    ],
+    "context": "Ka'b's longest poem in this collection, beginning with a domestic scene with his wife then transitioning into an extended wasf (description) of a wild ass, a hunt at a waterhole, and an archer — a tour de force of classical descriptive poetry."
+  },
+  {
+    "id": "kab-ibn-zuhayr-09",
+    "poetId": "kab-ibn-zuhayr",
+    "titleAr": "لو كنت أعجب من شيء لأعجبني",
+    "titleEn": "Were I to marvel at anything, this would amaze me",
+    "genre": "hikma",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "لو كنت أعجب من شيء لأعجبني",
+        "ajuz": "سعي الفتى وهو مخبوء له القدر"
+      },
+      {
+        "sadr": "يسعى الفتى لأمور ليس مدركها",
+        "ajuz": "والنفس واحدة والهم منتشر"
+      },
+      {
+        "sadr": "والمرء ما عاش ممدود له أمل",
+        "ajuz": "لا تنتهي العين حتى ينتهي الأثر"
+      }
+    ],
+    "translationEn": "Were I to marvel at anything, the striving of a young man would amaze me — while fate lies hidden for him. The young man strives for matters he cannot attain, with but one soul and worries scattered. A man, as long as he lives, has hope stretched before him — the eye does not cease until the footprint ceases.",
+    "vocabularyHighlights": [
+      {"word": "مخبوء", "meaning": "hidden, stored away"},
+      {"word": "القدر", "meaning": "fate, divine decree"},
+      {"word": "ممدود", "meaning": "extended, stretched out"},
+      {"word": "الأثر", "meaning": "the trace, footprint"},
+      {"word": "الهم", "meaning": "worry, concern, aspiration"}
+    ],
+    "context": "A short wisdom poem (hikma) meditating on the futility of human striving against fate and the nature of hope — concise and philosophically resonant."
+  },
+  {
+    "id": "kab-ibn-zuhayr-10",
+    "poetId": "kab-ibn-zuhayr",
+    "titleAr": "ألما على ربع بذات المزاهر",
+    "titleEn": "Pause at the campsite of Dhat al-Mazahir",
+    "genre": "ghazal",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "ألما على ربع بذات المزاهر",
+        "ajuz": "مقيم كأخلاق العباءة داثر"
+      },
+      {
+        "sadr": "تراوحه الأرواح قد سار أهله",
+        "ajuz": "وما هو عن حي القنان بسائر"
+      },
+      {
+        "sadr": "ونار قبيل الصبح بادرت قدحها",
+        "ajuz": "حيا النار قد أوقدتها لمسافر"
+      },
+      {
+        "sadr": "فلوح فيها زاده وربأته",
+        "ajuz": "على مرقب يعلو الأحزة قاهر"
+      },
+      {
+        "sadr": "ولما أجن الليل نقبا ولم أخف",
+        "ajuz": "على أثر مني ولا عين ناظر"
+      },
+      {
+        "sadr": "أخذت سلاحي وانحدرت إلى امرئ",
+        "ajuz": "قليل أذاه صدره غير واغر"
+      },
+      {
+        "sadr": "فطرت برحلي واستبد بمثله",
+        "ajuz": "على ذات لوث كالبلية ضامر"
+      },
+      {
+        "sadr": "تعادي مشك الرحل عنها وتتقي",
+        "ajuz": "بمثل صفيح الجدول المتظاهر"
+      },
+      {
+        "sadr": "فأصبح ممسانا كأن جباله",
+        "ajuz": "من البعد أعناق النساء الحواسر"
+      }
+    ],
+    "translationEn": "Pause at the campsite of Dhat al-Mazahir, remaining worn like the threads of a cloak. The winds alternate over it — its people have departed, yet it does not drift from the habitations of Qinan. A fire before dawn — I rushed to strike its flint — the fire greeting, lit for a traveler. Its provisions glowed within it, its scouts posted on a high lookout dominating the ridges. When night darkened a pass and I feared neither my trace nor a watching eye, I took my weapons and descended to a man of little harm whose chest harbors no malice. I flew with my saddle and he took the same upon a lean she-camel, like a grave-post emaciated. She avoids the creak of the saddle and shields herself with something like the flat stones of the facing valley. By morning it was an evening's distance away, its mountains looking from afar like the bare necks of unveiled women.",
+    "vocabularyHighlights": [
+      {"word": "ربع", "meaning": "a campsite, a quarter (where a tribe rested)"},
+      {"word": "داثر", "meaning": "old, worn, effaced"},
+      {"word": "تراوحه", "meaning": "it alternates over it"},
+      {"word": "المرقب", "meaning": "a high lookout point"},
+      {"word": "واغر", "meaning": "filled with rancor, malice"},
+      {"word": "الحواسر", "meaning": "women with uncovered necks or arms"}
+    ],
+    "context": "Ka'b pauses at an abandoned campsite and narrates a night raid — describing the fire, the armed descent, and the swift flight on lean camels across the desert."
+  },
+  {
+    "id": "kab-ibn-zuhayr-11",
+    "poetId": "kab-ibn-zuhayr",
+    "titleAr": "لعمرك لولا رحمة الله إنني",
+    "titleEn": "By your life, but for God's mercy I would",
+    "genre": "hikma",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "لعمرك لولا رحمة الله إنني",
+        "ajuz": "لأمطو بجد ما يريد ليرفعا"
+      },
+      {
+        "sadr": "فلو كنت حوتا ركض الماء فوقه",
+        "ajuz": "ولو كنت يربوعا سرى ثم قصعا"
+      },
+      {
+        "sadr": "إذا ما نتجنا أربعا عام كفأة",
+        "ajuz": "بغاها خناسير فأهلك أربعا"
+      },
+      {
+        "sadr": "إذا قلت إني في بلاد مضلة",
+        "ajuz": "أبى أن ممسانا ومصبحنا معا"
+      }
+    ],
+    "translationEn": "By your life, but for God's mercy, I would strain hard at whatever it desires to lift me. Were I a fish, the water would run over it; were I a jerboa, it would roam then burrow. When we produce four young in a lean year, the weasels seek them and destroy all four. Whenever I say I am in a land of confusion, it refuses — for our evening and morning are together.",
+    "vocabularyHighlights": [
+      {"word": "لأمطو", "meaning": "I would stretch, strain hard"},
+      {"word": "يربوعا", "meaning": "a jerboa (small desert rodent)"},
+      {"word": "قصعا", "meaning": "it burrowed, dug into the earth"},
+      {"word": "خناسير", "meaning": "weasels, shrews (small predators)"},
+      {"word": "مضلة", "meaning": "a place of confusion, a trackless desert"}
+    ],
+    "context": "A brief poem reflecting on divine providence and fate, using animal imagery of fish, jerboa, and predators to illustrate the inescapability of God's mercy and decree."
+  },
+  {
+    "id": "kab-ibn-zuhayr-12",
+    "poetId": "kab-ibn-zuhayr",
+    "titleAr": "رحلت إلى قومي لأدعو جلهم",
+    "titleEn": "I journeyed to my people to call most of them",
+    "genre": "madih",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "رحلت إلى قومي لأدعو جلهم",
+        "ajuz": "إلى أمر حزم أحكمته الجوامع"
+      },
+      {
+        "sadr": "ليوفوا بما كانوا عليه تعاقدوا",
+        "ajuz": "بخيف منى والله راء وسامع"
+      },
+      {
+        "sadr": "وتوصل أرحام ويفرج مغرم",
+        "ajuz": "وترجع بالود القديم الرواجع"
+      },
+      {
+        "sadr": "فأبلغ بها أفناء عثمان كلها",
+        "ajuz": "وأوسا فبلغها الذي أنا صانع"
+      },
+      {
+        "sadr": "سأدعوهم جهدي إلى البر والتقى",
+        "ajuz": "وأمر العلا ما شايعتني الأصابع"
+      },
+      {
+        "sadr": "فكونوا جميعا ما استطعتم فإنه",
+        "ajuz": "سيلبسكم ثوب من الله واسع"
+      },
+      {
+        "sadr": "وقوموا فآسوا قومكم فاجمعوهم",
+        "ajuz": "وكونوا يدا تبني العلا وتدافع"
+      },
+      {
+        "sadr": "فإن أنتم لم تفعلوا ما أمرتكم",
+        "ajuz": "فأوفوا بها ، إن العهود ودائع"
+      },
+      {
+        "sadr": "لشتان من يدعو فييوفي بعهده",
+        "ajuz": "ومن هو للعهد المؤكد خالع"
+      },
+      {
+        "sadr": "إليك أبا نصر أجازت نصيحتي",
+        "ajuz": "تبلغها عني المطي الخواضع"
+      },
+      {
+        "sadr": "فأوف بما عاهدت بالخيف من منى",
+        "ajuz": "أبا النصر إذ سدت عليك المطالع"
+      },
+      {
+        "sadr": "فنحن بنو الأشياخ قد تعلمونه",
+        "ajuz": "نذبب عن أحسابنا وندافع"
+      },
+      {
+        "sadr": "ونحبس بالثغر المخوف محله",
+        "ajuz": "ليكشف كرب أو ليطعم جائع"
+      }
+    ],
+    "translationEn": "I journeyed to my people to summon most of them to a matter of wisdom bound by solid agreements — to fulfill what they pledged at the valley of Mina, while God watches and hears. To join the bonds of kinship, relieve the debtor, and restore the old affection to those who bring it back. Convey this to all the clans of Uthman and the clan of Aws — convey what I am doing. I will call them earnestly to righteousness and piety, and to nobility as long as my fingers follow me. Be united as best you can — God will clothe you in a vast garment. Rise and care for your people, gather them, and be a hand that builds glory and defends. If you do not do what I command, then at least honor your pledges — for covenants are trusts. How different is he who calls and fulfills his pledge from him who breaks the confirmed covenant. To you, Abu Nasr, my counsel has traveled — the submissive camels carry it from me. Honor what you pledged at the valley of Mina, Abu Nasr, when the passes closed upon you. We are the sons of the elders — you know it — we defend our honor and hold our ground. We station defenders at the feared frontier to relieve distress or to feed the hungry.",
+    "vocabularyHighlights": [
+      {"word": "الجوامع", "meaning": "ties, bonds, comprehensive agreements"},
+      {"word": "خيف منى", "meaning": "the valley of Mina (near Mecca)"},
+      {"word": "أفناء", "meaning": "branches/clans of a tribe"},
+      {"word": "آسوا", "meaning": "care for, tend to"},
+      {"word": "ودائع", "meaning": "trusts, deposits (sg. وديعة)"},
+      {"word": "نذبب", "meaning": "we repel, we defend"},
+      {"word": "الثغر", "meaning": "the frontier, the border pass"}
+    ],
+    "context": "A poem urging tribal reconciliation and fulfillment of pledges made at Mina during the pilgrimage, directed to Abu Nasr and the clans of Uthman and Aws, reflecting Ka'b's role as a counselor to his people."
+  },
+  {
+    "id": "kab-ibn-zuhayr-13",
+    "poetId": "kab-ibn-zuhayr",
+    "titleAr": "بان الشباب وأمسى الشيب قد أزفا",
+    "titleEn": "Youth has departed and old age has drawn near",
+    "genre": "wasf",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "بان الشباب وأمسى الشيب قد أزفا",
+        "ajuz": "ولا أرى لشباب ذاهب خلفا"
+      },
+      {
+        "sadr": "عاد السواد بياضا في مفارقه",
+        "ajuz": "لا مرحبا هابذا اللون الذي ردفا"
+      },
+      {
+        "sadr": "في كل يوم أرى منه مبينة",
+        "ajuz": "تكاد تسقط مني منة أسفا"
+      },
+      {
+        "sadr": "ليت الشباب حليف لا يزايلنا",
+        "ajuz": "بل ليته ارتد منه بعض ما سلفا"
+      },
+      {
+        "sadr": "ما شرها بعد ما ابيضت مسائحها",
+        "ajuz": "لا الود أعرفه منها ولا اللطفا"
+      },
+      {
+        "sadr": "لو أنها آذنت بكرا لقلت لها",
+        "ajuz": "يا هيد مالك أو لو آذنت نصفا"
+      },
+      {
+        "sadr": "لولا بنوها وقول الناس ما عطفت",
+        "ajuz": "على العتاب وشر الود ما عطفا"
+      },
+      {
+        "sadr": "فلن أزال ، وإن جاملت ، مضطغنا",
+        "ajuz": "في غير نائرة ضبا لها شنفا"
+      },
+      {
+        "sadr": "ولا حب كحصير الراملات ترى",
+        "ajuz": "من المطي على حافاته نطفا"
+      },
+      {
+        "sadr": "والمرذيات عليها الطير تنقرها",
+        "ajuz": "إما لهيدا وإما زاحفا نطفا"
+      },
+      {
+        "sadr": "قد ترك العاملات الراسمات به",
+        "ajuz": "من الأحزة في حافاته خنفا"
+      },
+      {
+        "sadr": "يهدي الضلول ذلول غير معترف",
+        "ajuz": "إذا تكاءده دويه عسفا"
+      },
+      {
+        "sadr": "سمح درير اذا ما صوة عرضت",
+        "ajuz": "له قريبا لسهل مال فانحرفا"
+      },
+      {
+        "sadr": "يجتاز فيه القطا الكدري ضاحية",
+        "ajuz": "حتى يؤوب سمالا قد خلت خلفا"
+      },
+      {
+        "sadr": "يسقين طلسا خفيات تراطنها",
+        "ajuz": "كما تراطن عجم تقرأ الصحفا"
+      },
+      {
+        "sadr": "جوانح كالأفاني في أفاحصها",
+        "ajuz": "ينظرن خلف روايا تستقي نطفا"
+      },
+      {
+        "sadr": "حمر حواصلها كالمغد قد كسيت",
+        "ajuz": "فوق الحواجب مما سبدت شعفا"
+      },
+      {
+        "sadr": "يوما قطعت وموماة سريت إذا",
+        "ajuz": "ما ضارب الدف من جنانها عزفا"
+      },
+      {
+        "sadr": "كلفتها حرة الليتين ناجية",
+        "ajuz": "قصر العشي تباري أينقا عصفا"
+      },
+      {
+        "sadr": "أبقى التهجر منها بعد ما ابتذلت",
+        "ajuz": "مخيلة وهبابا خالطا كثفا"
+      },
+      {
+        "sadr": "تنجو وتقطر ذفراها على عنق",
+        "ajuz": "كالجذع شذب عنه عاذق سعفا"
+      },
+      {
+        "sadr": "كأن رحلي وقد لانت عريكتها",
+        "ajuz": "كسوته جورفا أقرابه خصفا"
+      },
+      {
+        "sadr": "يجتاز أرض فلاة غير أن بها",
+        "ajuz": "آثار جن ووسما بينهم سلفا"
+      },
+      {
+        "sadr": "تبري له هقلة خرجاء تحسبها",
+        "ajuz": "في الآل مخلولة في قرطف شرفا"
+      },
+      {
+        "sadr": "ظلا بأقرية النفاخ يومهما",
+        "ajuz": "يحتفران أصول المغد واللصفا"
+      },
+      {
+        "sadr": "والشري حتى إذا اخضرت أنوفهما",
+        "ajuz": "لا يألوان من التنوم ما نقفا"
+      },
+      {
+        "sadr": "راحا يطيران معوجين في سرع",
+        "ajuz": "ولا يريعان حتى يهبطا أنفا"
+      },
+      {
+        "sadr": "كالحبشيين خافا من مليكهما",
+        "ajuz": "بعض العذاب فجالا بعد ما كتفا"
+      },
+      {
+        "sadr": "كالخاليين إذا ما صوبا ارتفعا",
+        "ajuz": "لا يحقران من الخطبان ما نقفا"
+      },
+      {
+        "sadr": "فاغترها فشآها وهي غافلة",
+        "ajuz": "حتى رأته وقد أوفى لها شرفا"
+      },
+      {
+        "sadr": "فشمرت عن عمودي بانة ذبلا",
+        "ajuz": "كأن ضاحي قشر عنهما انقرفا"
+      },
+      {
+        "sadr": "وقاربت من جناحيها وجؤجئها",
+        "ajuz": "سكاء تثني إليها لينا خصفا"
+      },
+      {
+        "sadr": "كانت كذلك في شأو ممنعة",
+        "ajuz": "ولو تكلف منها مثله كلفا"
+      }
+    ],
+    "translationEn": "Youth has departed and old age has drawn near at evening — I see no replacement for departing youth. Black has turned to white at the temples — no welcome to this color that has followed! Each day I see from it a clear sign, one that nearly makes my strength fall from me in sorrow. Would that youth were an ally who never left us — or would that some of what has passed could return. She has changed after her temples whitened — I recognize neither the love in her nor the gentleness. Had she given warning in the morning, I would have said: what is wrong? Or had she warned in midlife... Were it not for her sons and what people would say, I would not have turned to reproach — the worst of love is what turns to it. I will always, even if I flatter, harbor suppressed anger — without cause, a resentment that wounds her. [The poem continues with an extended description of a sandgrouse, its nesting, foraging, its encounter with an ostrich and then a falcon — a lengthy descriptive section in the tradition of classical Arabic nature poetry].",
+    "vocabularyHighlights": [
+      {"word": "أزفا", "meaning": "has drawn near, approached"},
+      {"word": "المسائح", "meaning": "the temples (sides of the head where hair grows)"},
+      {"word": "مضطغنا", "meaning": "harboring suppressed anger"},
+      {"word": "القطا الكدري", "meaning": "dark sand-grouse (species)"},
+      {"word": "الهقلة", "meaning": "the female ostrich"},
+      {"word": "الآل", "meaning": "the mirage (heat haze)"},
+      {"word": "الشري", "meaning": "oleander, a desert shrub"}
+    ],
+    "context": "A lengthy qasida opening with Ka'b's lament over lost youth and a difficult relationship, then transitioning into a celebrated description of sand-grouse and an ostrich, showcasing his mastery of animal description."
+  },
+  {
+    "id": "kab-ibn-zuhayr-14",
+    "poetId": "kab-ibn-zuhayr",
+    "titleAr": "أنى ألم بك الخيال يطيف",
+    "titleEn": "How did the phantom come to haunt you, circling",
+    "genre": "ghazal",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "أنى ألم بك الخيال يطيف",
+        "ajuz": "ومطافه لك ذكرة وشعوف"
+      },
+      {
+        "sadr": "يسري بحاجات إلي فرعنني",
+        "ajuz": "من آل خولة كلها معروف"
+      },
+      {
+        "sadr": "فأبيت محتضرا كأني مسلم",
+        "ajuz": "للجن ريع فؤاده المخطوف"
+      },
+      {
+        "sadr": "فعزفت عنها إنما هو أن أرى",
+        "ajuz": "ما لا أنال فإنني لعزوف"
+      },
+      {
+        "sadr": "لا هالك جزعا على ما فاتني",
+        "ajuz": "ولما ألم من الخطوب عروف"
+      },
+      {
+        "sadr": "صفراء آنسة الحديث بمثلها",
+        "ajuz": "يشفي غليل فؤاده الملهوف"
+      },
+      {
+        "sadr": "ولو أنها جادت لأعصم حرزه",
+        "ajuz": "متمنع دون السماء منيف"
+      },
+      {
+        "sadr": "لاستنزلته عيطل مكحولة",
+        "ajuz": "حوراء جاد لها النجاد خريف"
+      },
+      {
+        "sadr": "دعها وسل طلابها بجلالة",
+        "ajuz": "إذ حان منك ترحل وخفوف"
+      },
+      {
+        "sadr": "حرف توارثها السفار فجسمها",
+        "ajuz": "عار ، تساوك والفؤاد خطيف"
+      },
+      {
+        "sadr": "وكأن موضع رحلها من صلبها",
+        "ajuz": "سيف تقادم جفنه معجوف"
+      },
+      {
+        "sadr": "أو حرف حنو من غبيط ذابل",
+        "ajuz": "رفقت به قينية معطوف"
+      },
+      {
+        "sadr": "فإذا رفعت لها اليمين تزوارت",
+        "ajuz": "عن فرج عوج بينهن خليف"
+      },
+      {
+        "sadr": "وتكون شكواها إذا هي أنجدت",
+        "ajuz": "بعد الكلال تلمك وصريف"
+      },
+      {
+        "sadr": "وكأن أقتادي غدا بشوارها",
+        "ajuz": "صحماء خدد لحمها التسويف"
+      },
+      {
+        "sadr": "كالقوس عطلها لبيع سائم",
+        "ajuz": "أو كالقناة أقامها التثقيف"
+      },
+      {
+        "sadr": "أفتلك أم ربداء عارية النسا",
+        "ajuz": "زجاء صادقة الرواح نسوف"
+      },
+      {
+        "sadr": "خرجاء جوفها بياض داخل",
+        "ajuz": "لعفائها لونان فهو خصيف"
+      },
+      {
+        "sadr": "ظلت تراعي زوجها وطباهما",
+        "ajuz": "جزع قد امرع سربه مصيوف"
+      },
+      {
+        "sadr": "ينجو بها خرب المشاش كأنه",
+        "ajuz": "بخزامه وزمامه مشنوف"
+      },
+      {
+        "sadr": "قرع القذال يطير عن حيزومه",
+        "ajuz": "زغب تفيئه الرياح سخيف"
+      },
+      {
+        "sadr": "وكأنها نوبية وكأنه",
+        "ajuz": "زوج لها من قومها مشعوف"
+      }
+    ],
+    "translationEn": "How did the phantom come to haunt you and circle — its circling being a memory and passion for you? It brings me needs at night, bewildering me — all from the family of Khawla is well-known. I spent the night in its presence as if surrendered to jinn, my heart startled and snatched. I turned away from it — for what I see and cannot attain, I am one who turns away. Not perishing in grief over what has passed me by, and accustomed to whatever calamities befall. A golden-complexioned girl, whose conversation brings comfort to her like — one who heals the thirst of a longing heart. Had she been generous toward an eagle in a well-fortified refuge, lofty below the sky, a long-necked kohl-eyed woman with wide eyes, whose shoulder-strap the autumn watered, would have drawn him down. Leave her, and seek her pursuit with a noble she-camel when departure and haste have come upon you — a lean-bodied she-camel inherited by travelers, her body bare, moving with you while the heart is snatched. The place of the saddle on her back is like a sword whose sheath has grown old and hollow. Or a curved rib of a saddle-frame, its wood bent, a smith-woman having shaped it. When you raise the right rein she veers away from the crooked gap among them as the opening passes. Her complaint when she climbs the highlands after exhaustion is creaking and groaning. As if my saddle on her worn body is an emaciated creature its flesh worn by delay — like a bow stripped for sale by a herdsman, or a lance straightened by the pressing-frame. Is it she or a spotted grey she-ass, bare of haunches, accurate in her evening pace, browsing? With a white belly-stripe within, her back-fur being two colors, dappled. She spent the day watching her mate, their desire a valley lush in summer. The male ass escapes with her, hollow-boned, as if with his nose-ring and halter he is an earring-wearer. His poll is bare, from his chest flies fluff stirred by the wind, thin. It is as if she is a Nubian woman and he a man from her own people, captivated.",
+    "vocabularyHighlights": [
+      {"word": "الخيال", "meaning": "the phantom, the nocturnal vision"},
+      {"word": "شعوف", "meaning": "infatuation, passionate longing"},
+      {"word": "عزوف", "meaning": "one who turns away, averse"},
+      {"word": "العيطل", "meaning": "a tall-necked she-camel"},
+      {"word": "المكحولة", "meaning": "kohl-eyed (naturally darkened)"},
+      {"word": "خرب المشاش", "meaning": "hollow-boned (said of a wild ass)"},
+      {"word": "الصريف", "meaning": "the creaking sound of saddle or teeth"}
+    ],
+    "context": "A qasida beginning with a nocturnal phantom vision of his beloved, moving to a description of his lean she-camel, and ending with a vivid picture of a wild ass and his mate — showcasing Ka'b's three-part classical ode structure."
+  },
+  {
+    "id": "kab-ibn-zuhayr-15",
+    "poetId": "kab-ibn-zuhayr",
+    "titleAr": "نفى أهل الحبلق يوم وج",
+    "titleEn": "The day of Wajj expelled the people of Hablaqa",
+    "genre": "fakhr",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "نفى أهل الحبلق يوم وج",
+        "ajuz": "مزينة جهرة وبنو خفاف"
+      },
+      {
+        "sadr": "صبحناهم بألف من سليم",
+        "ajuz": "وألف من بني عثمان واف"
+      },
+      {
+        "sadr": "حدوا أكتافهم ضربا وطعنا",
+        "ajuz": "ورميا بالمريشة اللطاف"
+      },
+      {
+        "sadr": "رميناهم بشبان وشيب",
+        "ajuz": "تكفكف كل ممتنع العطاف"
+      },
+      {
+        "sadr": "ترى بين الصفوف لهن رشقا",
+        "ajuz": "كما انصاع الفواق عن الرصاف"
+      },
+      {
+        "sadr": "ترى الجرد الجياد تلوح فيهم",
+        "ajuz": "بأرماح مقومة الثقاف"
+      },
+      {
+        "sadr": "ورحنا غانمين بما أردنا",
+        "ajuz": "وراحوا نادمين على الخلاف"
+      },
+      {
+        "sadr": "وأعطينا رسول الله منا",
+        "ajuz": "مواثيقا على حسن التصافي"
+      },
+      {
+        "sadr": "فجزنا بطن مكة وامتنعنا",
+        "ajuz": "بتقوى الله والبيض الخفاف"
+      },
+      {
+        "sadr": "وحل عمودنا حجرات نجد",
+        "ajuz": "فألية فالقدوس إلى شراف"
+      },
+      {
+        "sadr": "أرادوا اللات والعزى الها",
+        "ajuz": "كفى بالله دون اللات كاف"
+      }
+    ],
+    "translationEn": "The day of Wajj expelled the people of Hablaqa — Muzayna openly and the sons of Khafaf. We struck them at dawn with a thousand from Sulaym and a full thousand from the sons of Uthman. They drove them from their shoulders with blows and thrusting, and shooting with the finely feathered arrows. We shot at them with young men and old, each one deterring those who would resist the embrace. You could see between the battle-lines their volleys like the hissing of arrows flying from the feathers. You could see the sleek fine horses shining among them with spears straightened by the press. We left victorious with what we desired, while they left regretting their defiance. We gave the Messenger of God our pledges of sincere reconciliation. We passed through the heart of Mecca protected by the fear of God and the light sharp swords. Our tent-pole settled in the private quarters of Najd — at Uliya, then al-Qudus, to Sharaf. They desired al-Lat and al-'Uzza as gods — God suffices against al-Lat, sufficient is He.",
+    "vocabularyHighlights": [
+      {"word": "وج", "meaning": "an ancient name for the region of Ta'if"},
+      {"word": "الحبلق", "meaning": "a clan or locality name"},
+      {"word": "المريشة", "meaning": "feathered arrows"},
+      {"word": "الجرد", "meaning": "sleek, smooth-coated horses"},
+      {"word": "الثقاف", "meaning": "the straightening press for spears"},
+      {"word": "اللات", "meaning": "a major pre-Islamic Arabian goddess"},
+      {"word": "العزى", "meaning": "a pre-Islamic Arabian goddess"}
+    ],
+    "context": "A poem celebrating a military victory on the day of Wajj (near Ta'if), describing the dawn attack by a combined force of Sulaym and Uthman's tribe, followed by pledges to the Prophet Muhammad and Islamic monotheism."
+  },
+  {
+    "id": "kab-ibn-zuhayr-16",
+    "poetId": "kab-ibn-zuhayr",
+    "titleAr": "أمن نوار عرفت المنزل الخلقا",
+    "titleEn": "From Nawar's campsite you recognized the worn abode",
+    "genre": "ghazal",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "أمن نوار عرفت المنزل الخلقا",
+        "ajuz": "إذ لا تفارق بطن الجو فالبرقا"
+      },
+      {
+        "sadr": "وقفت فيها قليلا ريث أسألها",
+        "ajuz": "فانهل دمعي على الخدين منسحقا"
+      },
+      {
+        "sadr": "كادت تبين وحيا بعض حاجتنا",
+        "ajuz": "لو أن منزل حي دارسا نطقا"
+      },
+      {
+        "sadr": "لا زالت الريح تزجي كل ذي لجب",
+        "ajuz": "عيثا إذا ما ونته ديمة دفقا"
+      },
+      {
+        "sadr": "فأنبت الفعو والريحان وابله",
+        "ajuz": "والأيهقان مع المكنان والذرقا"
+      },
+      {
+        "sadr": "فلم تزل كل غناء البغام به",
+        "ajuz": "من الظباء تراعي عاقدا خرقا"
+      },
+      {
+        "sadr": "تقرو به منزل الحسناء إذ رحلت",
+        "ajuz": "فاستقبلت رحب الجوفين فالعمقا"
+      },
+      {
+        "sadr": "حلت نوار بارض لا يبلغها",
+        "ajuz": "إلا صموت السرى لا تسأم العنقا"
+      },
+      {
+        "sadr": "خطارة بعد غب الجهد ناجية",
+        "ajuz": "لا تشتكي للحفا من خفها رققا"
+      },
+      {
+        "sadr": "ترى المريء كنصل السيف إذ ضمنت",
+        "ajuz": "أو النضي الفضا بطنته العنقا"
+      },
+      {
+        "sadr": "تنفي اللغام بمثل السبت خصره",
+        "ajuz": "حاذ يمان إذا ما أرقلت خفقا"
+      },
+      {
+        "sadr": "تنجو نجاء قطاة الجو أفزعها",
+        "ajuz": "بذي العضاه أحست بازيا طرقا"
+      },
+      {
+        "sadr": "شهم يكب القطا الكدري مختضب ال",
+        "ajuz": "أظفار حر ترى في عينه زرقا"
+      },
+      {
+        "sadr": "باتت له ليلة جم أهاضبها",
+        "ajuz": "وبات ينفض عنه الطل واللثقا"
+      },
+      {
+        "sadr": "حتى إذا ما انجلت ظلماء ليلته",
+        "ajuz": "وانجاب عنه بياض الصبح فانفلقا"
+      },
+      {
+        "sadr": "غدا على قدر يهوي ففاجأها",
+        "ajuz": "فانقض وهو بوشك الصيد قد وثقا"
+      },
+      {
+        "sadr": "لاشيء أجود منها وهي طيبة",
+        "ajuz": "نفسا بما سوف ينجيها وإن لحقا"
+      },
+      {
+        "sadr": "نفرها عن حياض الموت فانتجعت",
+        "ajuz": "ببطن لينة ماء لم يكن رنقا"
+      },
+      {
+        "sadr": "ياليت شعري وليت الطير تخبرني",
+        "ajuz": "أمثل عشقي يلاقي كل من عشقا"
+      },
+      {
+        "sadr": "إذا سمعت بذكر الحب ذكرني",
+        "ajuz": "هندا فقد علق الأحشاء ما علقا"
+      },
+      {
+        "sadr": "كم دونها من عدو ذي مكاشحة",
+        "ajuz": "بادي الشوارة يبدي وجهه حنقا"
+      },
+      {
+        "sadr": "ذي نيرب نزع لو قد نصبت له",
+        "ajuz": "وجهي لقد قال كنت الحائن الحمقا"
+      },
+      {
+        "sadr": "كالكلب لا يسأم الكلب الهرير ولو",
+        "ajuz": "لاقيت بالكلب ليثا مخدرا ذرقا"
+      },
+      {
+        "sadr": "ومرهق قد دعاني فاستجبت له",
+        "ajuz": "أجزت غصته من بعد ما شرقا"
+      }
+    ],
+    "translationEn": "From Nawar's campsite you recognized the worn abode — when it did not leave the valley-floor nor the bright ground. I stopped there briefly, just long enough to question it — then my tears poured down my cheeks in a cascade. It nearly revealed through signs some of our need, if only a ruined abode of the living could speak. May the wind forever drive over it every cloud of thunder — when a steady rain is slack, let it pour. Its rain caused the rue and basil to grow, the iyahqan and muknan and dharqa. Every sweet-bellied bleat of gazelles stayed to watch, tending a sleeping herd in the open. They trace within it the campsite of the beautiful one when she departed and headed for the broad valley and its deep reaches. Nawar has settled in a land that only the night-silent swift she-camel can reach, not tiring of her pace. Vigorous after effort, reaching her goal — she does not complain of ground-hardness through her hoofpad's thinning. Her throat is like a sword-blade when laden, or a thin shaft stretching the neck. She shakes off her foam with something like the strap of a Yemeni saddle when she trots lightly. She escapes like a sandgrouse of the sky startled in the thicket-land, sensing a hunting falcon by night. A fierce falcon knocks over the dark sand-grouse — talons stained, a hot-tempered one, blue-eyed. He spent a night watching him, its hillocks many, while he shook the dew and moisture from himself. When the darkness of his night cleared and the whiteness of dawn spread and split — he swooped measured, diving and surprising her, plummeting sure of the catch. Nothing is more generous than she, content in spirit with what will save her even if he catches her. He startled her from death's watering-troughs and she migrated to the valley of Layna with unclouded water. Would I knew — would that the birds could tell me — does every lover meet the like of my love? When I hear of love mentioned, it reminds me of Hind — the bowels have clung to what has clung. How many an enemy lies between us, with hidden spite, showing an angry face. A slanderer — had you presented my face to him he would have said I was the unlucky fool. Like a dog — a dog never tires of barking, even if you set a dog against a crouching lion with the mange. A hard-pressed man called me and I answered — I freed his choking after he had all but drowned.",
+    "vocabularyHighlights": [
+      {"word": "الخلقا", "meaning": "the worn, old (campsite)"},
+      {"word": "اللغام", "meaning": "the froth/foam from a camel's mouth"},
+      {"word": "البازي", "meaning": "the falcon"},
+      {"word": "اللثق", "meaning": "dampness, moisture"},
+      {"word": "النيرب", "meaning": "slander, false accusation"},
+      {"word": "مكاشحة", "meaning": "open enmity, showing hostility"},
+      {"word": "الهرير", "meaning": "the growling or barking of a dog"}
+    ],
+    "context": "A long qasida opening with the ruins of Nawar's campsite and love for Hind, transitioning into a journey on a swift she-camel, then a detailed falcon-hunt sequence, before returning to the themes of love and enmity."
+  },
+  {
+    "id": "kab-ibn-zuhayr-17",
+    "poetId": "kab-ibn-zuhayr",
+    "titleAr": "أعلم أني متى ما يأتني قدري",
+    "titleEn": "I know that whenever my fate comes to me",
+    "genre": "hikma",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "أعلم أني متى ما يأتني قدري",
+        "ajuz": "فليس يحبسه شح ولا شفق"
+      },
+      {
+        "sadr": "بينا الفتى معجب بالعيش مغتبط",
+        "ajuz": "إذا الفتى للمنايا مسلم غلق"
+      }
+    ],
+    "translationEn": "I know that whenever my fate comes to me, neither miserliness nor compassion will hold it back. While a young man delights in life and is content — suddenly the young man is surrendered to death, locked in.",
+    "vocabularyHighlights": [
+      {"word": "القدر", "meaning": "fate, divine decree"},
+      {"word": "شح", "meaning": "miserliness, greed"},
+      {"word": "شفق", "meaning": "compassion, tender concern"},
+      {"word": "مغتبط", "meaning": "content, pleased"},
+      {"word": "المنايا", "meaning": "the fates, death (pl. of منية)"},
+      {"word": "غلق", "meaning": "locked in, pledged (as a captive)"}
+    ],
+    "context": "A brief but profound wisdom poem on the inevitability of death, reflecting Ka'b's fatalistic acceptance of divine decree characteristic of early Islamic poetry."
+  },
+  {
+    "id": "kab-ibn-zuhayr-18",
+    "poetId": "kab-ibn-zuhayr",
+    "titleAr": "نفى شعر الرأس القديم حوالقه",
+    "titleEn": "Old age has expelled the dark hair from his temples",
+    "genre": "wasf",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "نفى شعر الرأس القديم حوالقه",
+        "ajuz": "ولاح بشيب في السواد مفارقه"
+      },
+      {
+        "sadr": "وأفنى شبابي صبح يوم وليلة",
+        "ajuz": "وما الدهر إلا مسيه ومشارقه"
+      },
+      {
+        "sadr": "وأدركت ما قد قال قبلي لدهره",
+        "ajuz": "زهير وإن يهلك تخلد نواطقه"
+      },
+      {
+        "sadr": "تبصر خليلي هل ترى من ظعائن",
+        "ajuz": "كنخل القرى أو كالسفين حزائقه"
+      },
+      {
+        "sadr": "تربعن روض الحزن ما بين لية",
+        "ajuz": "وسيحان مستكا لهن حدائقه"
+      },
+      {
+        "sadr": "فلما رأين الجزء ودع أهله",
+        "ajuz": "وحرق نيران الصفيح ودائقه"
+      },
+      {
+        "sadr": "وخبرن مابين الأخاديد واللوى",
+        "ajuz": "سقته الغوادي ، والسواري طوارقه"
+      },
+      {
+        "sadr": "وباكرن جوفا تنسج الريح متنه",
+        "ajuz": "تناءم تكليم المجوس غرانقه"
+      },
+      {
+        "sadr": "إذا ما أتته من شطر جانب",
+        "ajuz": "إلى جانب حاز التراب مهارقه"
+      },
+      {
+        "sadr": "بحافته من لا يصيح بمن سرى",
+        "ajuz": "ولا يدعي إلا بما هو صادقه"
+      },
+      {
+        "sadr": "على كل معط عطفه متزيد",
+        "ajuz": "بفضل الزمام أو مروح تواهقه"
+      },
+      {
+        "sadr": "وقد ينبري لي الجهل يوما وأنبري",
+        "ajuz": "لسرب كحرات الهجان توافقه"
+      },
+      {
+        "sadr": "ثلاث غريرات الكلام وناشص",
+        "ajuz": "على البعل لا يخلو ولا هي عاشقه"
+      }
+    ],
+    "translationEn": "Old age has expelled the dark hair from his temples, white showing in the black of his parting. The morning of a day and a night consumed my youth — time is nothing but its evenings and its dawns. I have come to experience what Zuhayr before me said to his age — and if he perishes, his words will endure. Look, my friend — do you see any litter-processions, like the date-palms of villages or like ships in their rows? They grazed the garden of the highlands between Liyya and Siyhan, their gardens lush and full. When they saw the place and its people departing, the fires of the flint ridge flickering and dying — they were told what lay between the water-channels and the soft dunes, watered by morning clouds, the nocturnal rains striking it. They set out early for a hollow whose back the wind weaves — the cranes' calling resembling the murmur of the Magi. When it came to them from one flank and moved to the other side, dust gathered its manuscripts. By its side one who does not cry out to the traveler passing by, summoned only by what is true to him. On every long-necked beast bending its curve, taking up the extra rein, or fanned by a cooling wind it matches pace. Sometimes ignorance confronts me and I stand to face a herd, like the bright whites of the noble she-camels meeting it. Three innocent-tongued and one eager, mounting the male — not separating, not in love with him either.",
+    "vocabularyHighlights": [
+      {"word": "حوالقه", "meaning": "the bald patches, the spots from which hair has gone"},
+      {"word": "مفارقه", "meaning": "the partings of his hair"},
+      {"word": "الظعائن", "meaning": "camel litters bearing women"},
+      {"word": "الغوادي", "meaning": "the morning rains"},
+      {"word": "الغرانق", "meaning": "cranes (the birds)"},
+      {"word": "مهارقه", "meaning": "its manuscripts, written pages (figurative)"},
+      {"word": "الناشص", "meaning": "a she-camel eager to mount, restless"}
+    ],
+    "context": "Ka'b opens by mourning his greying hair and paying tribute to his famous father Zuhayr ibn Abi Sulma, then describes women departing in their litters and a herd of she-camels — a classical ode combining personal elegy with nature description."
+  },
+  {
+    "id": "kab-ibn-zuhayr-19",
+    "poetId": "kab-ibn-zuhayr",
+    "titleAr": "ألاأبلغا عني بجيرا رسالة",
+    "titleEn": "Convey from me to Bujayr a message",
+    "genre": "fakhr",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "ألاأبلغا عني بجيرا رسالة",
+        "ajuz": "فهل لك فيما قلت بالخيف هل لكا"
+      },
+      {
+        "sadr": "شربت مع المأمون كأسا روية",
+        "ajuz": "فانهلك المأمون منها وعلكا"
+      },
+      {
+        "sadr": "وخالفت أسباب الهدى وتبعته",
+        "ajuz": "على أي شيء ويب غيرك دلكا"
+      },
+      {
+        "sadr": "على خلق لم تلف أما ولا أبا",
+        "ajuz": "عليه ولم تدرك عليه اخا لكا"
+      }
+    ],
+    "translationEn": "Convey from me to Bujayr a message — are you for what I said at the valley? Are you for it? You drank with the Trusted One a full cup from which the Trusted One drank his fill, and you drank yours. You abandoned the paths of guidance and followed him — upon what, woe to you, did he lead you? Upon a character you found neither mother nor father following, nor any brother of yours did you find upon it.",
+    "vocabularyHighlights": [
+      {"word": "بجير", "meaning": "Bujayr ibn Zuhayr, Ka'b's brother who converted to Islam"},
+      {"word": "المأمون", "meaning": "the Trusted One — a title of the Prophet Muhammad"},
+      {"word": "كأسا روية", "meaning": "a full, satisfying cup (metaphor for Islam)"},
+      {"word": "أسباب الهدى", "meaning": "the means/paths of guidance"},
+      {"word": "الخيف", "meaning": "the valley (of Mina)"}
+    ],
+    "context": "Ka'b's poem to his brother Bujayr who converted to Islam before Ka'b did — written in Ka'b's pre-Islamic period, criticizing his brother's conversion, which he later regretted after his own conversion and composed Banat Su'ad."
+  },
+  {
+    "id": "kab-ibn-zuhayr-20",
+    "poetId": "kab-ibn-zuhayr",
+    "titleAr": "ألا أسماء صرمت الحبالا",
+    "titleEn": "Asma' has cut the bonds between us",
+    "genre": "ghazal",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "ألا أسماء صرمت الحبالا",
+        "ajuz": "فأصبح غاديا عزم ارتحالا"
+      },
+      {
+        "sadr": "وذات العرض قد تأتي إذا ما",
+        "ajuz": "أرادت صرم خلتها الجمالا"
+      },
+      {
+        "sadr": "تعاورها الوشاة فغيروها",
+        "ajuz": "عن الحال التي في الدهر حالا"
+      },
+      {
+        "sadr": "ومن لا يفثإ الواشين عنه",
+        "ajuz": "صباح مساء يبغوه الخبالا"
+      },
+      {
+        "sadr": "فسل طلابها وتعز عنها",
+        "ajuz": "بناجية كأن بها خيالا"
+      },
+      {
+        "sadr": "أمون ما تمل وما تشكى",
+        "ajuz": "إذا جشمتها يوما كلالا"
+      },
+      {
+        "sadr": "كان الرحل منها فوق جأب",
+        "ajuz": "يقلب آتنا خلجا حيالا"
+      },
+      {
+        "sadr": "من اللاتي ألفن جنوب إير",
+        "ajuz": "كأن لهن من سبت نعالا"
+      },
+      {
+        "sadr": "يظل جبينه غرضا لسمر",
+        "ajuz": "كأن نسورها حشيت نصالا"
+      },
+      {
+        "sadr": "أجش تخاله علقا إذا ما",
+        "ajuz": "أرن على جواحرها وجالا"
+      },
+      {
+        "sadr": "فأبلغ إن عرضت بنا رسولا",
+        "ajuz": "أبا المملوح إن له جلالا"
+      },
+      {
+        "sadr": "أمود خلفكم هرما ولما",
+        "ajuz": "تذوقوا من عداوتنا وبالا"
+      },
+      {
+        "sadr": "ولما تفعلوا إلا وعيدا",
+        "ajuz": "كفى بوعيدكم لهم قتالا"
+      },
+      {
+        "sadr": "وعيد تخدج الأرحام منه",
+        "ajuz": "وينقل من أماكنها الجبالا"
+      },
+      {
+        "sadr": "خفيف الغيث تعجب من رآه",
+        "ajuz": "مخيلته ولم تقطر بلالا"
+      }
+    ],
+    "translationEn": "Asma' has cut the bonds — the determination to depart has set out with the morning. A proud woman may come, when she decides to cut her friend's ties, with beauty. The slanderers took turns with her and changed her from the state she had always been in. Whoever does not repel the slanderers from himself — morning and evening they will seek his ruin. Leave off pursuing her and console yourself with a she-camel as if a phantom passes through her. Trustworthy, never tiring, never complaining when you burden her a day with exhaustion. The saddle on her back is as if she is a young male wild ass, turning his she-asses in groups. From those accustomed to the south slopes of 'Ayr — as if they wear sandals of tanned leather. His forehead is a target for the dark arrows, as if the vultures of their nails were filled with arrowheads. A hoarse-voiced male — you would think him a blood-price when he rages among his she-asses, roaming. Convey if you encounter a messenger: tell Abu al-Mamluh — for he has dignity! Are you senile behind you and growing old, though you have not yet tasted the calamity of our enmity? You have done nothing but threaten — your threats alone are enough as war upon them. A threat from which wombs miscarry, and from which mountains are shifted from their places. Light in the cloud — one who sees its cloud formation marvels, yet it has not dripped a drop of moisture.",
+    "vocabularyHighlights": [
+      {"word": "صرمت الحبالا", "meaning": "she cut the bonds/ropes (of connection)"},
+      {"word": "الوشاة", "meaning": "the tale-bearers, slanderers"},
+      {"word": "الخيال", "meaning": "a phantom, a swift figure"},
+      {"word": "أمون", "meaning": "a trustworthy, reliable she-camel"},
+      {"word": "الجأب", "meaning": "a young male wild ass"},
+      {"word": "تخدج", "meaning": "to miscarry (of pregnant animals/women)"},
+      {"word": "بلالا", "meaning": "moisture, drops of rain"}
+    ],
+    "context": "Ka'b mourns the severance of his bond with Asma', blames slanderers, then describes his swift camel and warns enemies with threats so severe they could make mountains move — combining love poetry with tribal boasting."
+  },
+  {
+    "id": "kab-ibn-zuhayr-21",
+    "poetId": "kab-ibn-zuhayr",
+    "titleAr": "ألا بكرت عرسي تلوم وتعذل",
+    "titleEn": "My wife rose early to blame and reproach me",
+    "genre": "wasf",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "ألا بكرت عرسي تلوم وتعذل",
+        "ajuz": "وغير الذي قالت أعف وأجمل"
+      },
+      {
+        "sadr": "ولما رأت رأسي تبدل لونه",
+        "ajuz": "بياضا عن اللون الذي كان أول"
+      },
+      {
+        "sadr": "أرنت من الشيب العجيب الذي رأت",
+        "ajuz": "وهل أنت مني ويب غيرك أمثل"
+      },
+      {
+        "sadr": "وقد أشهد الكأس الروية لاهيا",
+        "ajuz": "أعل قبيل الصبح منها وأنهل"
+      },
+      {
+        "sadr": "ينازعنيها لين غير فاحش",
+        "ajuz": "مبادر غايات التجار معذل"
+      },
+      {
+        "sadr": "إذا غلبته الكأس لا متعبس",
+        "ajuz": "حصور ولا من دونها يتبسل"
+      },
+      {
+        "sadr": "وليس خليلي بالملول ولا الذي",
+        "ajuz": "يلوم على البخل البخيل ويبخل"
+      },
+      {
+        "sadr": "لنا حاجة في صرحة الحي بعدما",
+        "ajuz": "بدا لهم أن يظعنوا فتحملوا"
+      },
+      {
+        "sadr": "نشاوى نديم الكأس منا مرنح",
+        "ajuz": "وعيس مناخات عليهن أرحل"
+      },
+      {
+        "sadr": "وحجل سليم قد كشفنا جلاله",
+        "ajuz": "وآخر في أنضاء مسح مسربل"
+      },
+      {
+        "sadr": "وصرماء مذكار كأن دويها",
+        "ajuz": "بيعد جنان اليل مما يخيل"
+      },
+      {
+        "sadr": "حديث أناسي فلما سمعته",
+        "ajuz": "إذا ليس فيه ما أبين فأعقل"
+      },
+      {
+        "sadr": "قطعت يماشيني بها متضائل",
+        "ajuz": "من الطلس أحيانا يخب ويعسل"
+      },
+      {
+        "sadr": "يحب دنو الإنس منه وما به",
+        "ajuz": "إلى أحد يوما من الإنس منزل"
+      },
+      {
+        "sadr": "تقرب حتى قلت لم يدن هكذا",
+        "ajuz": "من الإنس إلا جاهل أو مضلل"
+      },
+      {
+        "sadr": "إذا ما عوى مستقبل الريح جاوبت",
+        "ajuz": "مسامعه فاه على الزاد معول"
+      },
+      {
+        "sadr": "كسوب إلى أن شب من كسب واحد",
+        "ajuz": "محالفه الإقتار لا يتمول"
+      },
+      {
+        "sadr": "كأن دخان الرمث خالط لونه",
+        "ajuz": "يغل به من باطن ويجلل"
+      },
+      {
+        "sadr": "بصير بأدغال الضراء إذا خدى",
+        "ajuz": "يعيل ويخفى بالجهاد ويمثل"
+      },
+      {
+        "sadr": "تراه سمينا ما شتا وكأنه",
+        "ajuz": "حمي إذا ما صاف أو هو أهزل"
+      },
+      {
+        "sadr": "كان نساه شرعة وكأنه",
+        "ajuz": "إذا ما تمطى وجهة الريح محمل"
+      },
+      {
+        "sadr": "وحمش بصير المقلتين كأنه",
+        "ajuz": "إذا ما مشى مستكره الريح أقزل"
+      },
+      {
+        "sadr": "يكاد يرى مالا ترى عين واحد",
+        "ajuz": "يثير له ما غيب الترب معول"
+      },
+      {
+        "sadr": "إذا حضراني قلت لو تعلمانه",
+        "ajuz": "ألم تعلما أني من الزاد مرمل"
+      },
+      {
+        "sadr": "غراب وذئب ينظران متى أرى",
+        "ajuz": "أغارا على ما خيلت وكلاهما"
+      },
+      {
+        "sadr": "سيخلفه مني الذي كان يأمل",
+        "ajuz": "كأن شجاعي رملة درجا معا"
+      },
+      {
+        "sadr": "فمرا بنا لولا وقوف ومنزل",
+        "ajuz": "ومضربها تحت الحصى بجرانها"
+      },
+      {
+        "sadr": "ومثنى نواج لم يخنهن مفصل",
+        "ajuz": "وأتلع يلوى بالجديل كأنه"
+      },
+      {
+        "sadr": "عسيب سقاه من سميحة جدول",
+        "ajuz": "وموضع طولي وأحناء قاتر"
+      },
+      {
+        "sadr": "يئط إذا ما شد بالنسع من عل",
+        "ajuz": "وسمر ظماء واترتهن بعدما"
+      },
+      {
+        "sadr": "مضت هجعة من آخر الليل ذبل",
+        "ajuz": "سفى فوقهن الترب ضاف كأنه"
+      },
+      {
+        "sadr": "على الفرج والحاذين قنو مذلل",
+        "ajuz": "ومضطمر من خاشع الطرف خائف"
+      },
+      {
+        "sadr": "لما تضع الأرض القواء وتحمل",
+        "ajuz": "انخت قلوصي واكتلأت بعينها"
+      },
+      {
+        "sadr": "وآمرت نفسي أي أمري أفعل",
+        "ajuz": "أأكلؤها خوف الحوادث إنها"
+      },
+      {
+        "sadr": "تريب على الانسان أم أتوكل",
+        "ajuz": "فأقسمت بالرحمن لا شيء غيره"
+      },
+      {
+        "sadr": "يمين امرئ بر ولا أتحلل",
+        "ajuz": "لأستشعرن أعلى دريسي مسلما"
+      },
+      {
+        "sadr": "لوجه الذي يحيي الأنام ويقتل",
+        "ajuz": "هو الحافظ الوسنان بالليل ميتا"
+      },
+      {
+        "sadr": "على أنه حي من النوم مثقل",
+        "ajuz": "من الأسود الساري وإن كان ثائرا"
+      },
+      {
+        "sadr": "على حد نابيه السمام المثمل",
+        "ajuz": "فلما استدار الفرقدان زجرتها"
+      },
+      {
+        "sadr": "وهب سماك ذو سلاح وأعزل",
+        "ajuz": "فحطت سريعا لم يخنها فؤادها"
+      },
+      {
+        "sadr": "ولا عينها من خشية السوط تغفل",
+        "ajuz": "يقطع سير الناعجات ذميلها"
+      },
+      {
+        "sadr": "نجاء اذا اختب النجاء المعول",
+        "ajuz": "منفجة الدفين طين لحمها"
+      },
+      {
+        "sadr": "كما طين بالضاحي من اللبن مجدل",
+        "ajuz": "ودف لها مثل الصفاة ومرفق"
+      },
+      {
+        "sadr": "عن الزور مفتول المشاشة أفتل",
+        "ajuz": "وسالفة ريا يبل جديلها"
+      },
+      {
+        "sadr": "إذا ما علاها ماؤها المتبزل",
+        "ajuz": "وصافية تنفي القذاة كأنها"
+      },
+      {
+        "sadr": "على الأين يجلوها جلاء وتكحل",
+        "ajuz": "فمن للقوافي شانها من يحوكها"
+      },
+      {
+        "sadr": "إذا ما ثوى كعب وفوز جرول",
+        "ajuz": "يقول فلا يعيا بشيء يقوله"
+      },
+      {
+        "sadr": "ومن قائليها من يسيء ويعمل",
+        "ajuz": "يقومها حتى تقوم متونها"
+      },
+      {
+        "sadr": "فيقصر عنها كل ما يتمثل",
+        "ajuz": "كفيتك لا تلقى من الناس شاعرا"
+      },
+      {
+        "sadr": "تنخل منها مثل ما أتنخل",
+        "ajuz": ""
+      }
+    ],
+    "translationEn": "My wife rose early to blame and reproach me — yet what she says is more chaste and beautiful. When she saw my head changing its color to white from the first color it was, she wailed over the astonishing grey she saw — and are you, woe to you, any better than me? I have witnessed the full cup joyfully, drinking deep before dawn and drinking my fill. A gentle, non-vulgar man contends with me over it — ahead of merchants at their goals, a mocker. When the cup overcomes him, he is not frowning or abstinent, nor does he scowl before it. My friend is not fickle, nor is he the type who blames the miser for miserliness while being miserly himself. We have a need in the open ground of the tribe, after it seemed they would depart and set out — the cup-companion among us reeling, she-camels kneeling with their saddles. A sound partridge whose fine covering we uncovered, and another in worn-out saddle-cloths draped. A trackless desert, bold, its humming beyond the sight of a jinn-stirred night like what imagination conjures — people's speech — when I heard it, there was nothing in it I could clarify or reason. I crossed it with one walking beside me, a diminished creature from the grey wolves, sometimes trotting and loping. He loves the nearness of humans to him, though nothing in him draws him to any person on any day. He approached until I said: nothing draws so near to humans like this except a fool or a misguided one. When he howled facing the wind, his hearing answered — mouth open over the provisions, wailing. A hunter from birth, growing up on a single hunt's earnings — poverty his companion, not growing wealthy. As if the smoke of the white-wood mixed with his color, seeping through him from inside and covering him. Expert in the thickets of the hunt when he trotted — he wanders, hides in hardship, and waits. You see him fat in winter, as if feverish in summer, or perhaps even leaner. His sinew was a stretched bow, and when he stretched toward the wind's direction, he was a load-camel. Thin-legged, keen of eye — when he walked against the resisting wind, he was as if lame. He almost sees what a single eye cannot see — the mattock stirs up for him what the earth has hidden. When a raven and a wolf presented themselves to me, I said: if only you knew it — don't you know I am out of provisions? A raven and a wolf watching when I might see — they raided what I imagined, yet both of them will find from me only disappointment in what they hoped. As if my two companions on the sand were crawling together — they passed us by, were it not for standing and resting. Her striking below the gravel with her breastbone, paired with lean legs no joint betrayed — a long neck swayed by the halter-rope like a palm-frond watered by a rivulet from Samiya. A lengthened resting-spot and the bends of a saddle-frame that creaks when pulled tight from above by the strap. Dark spears thirsty, separated from them after a slumber passed at the end of the night, lean — dust blew thick over them like a hanging palm-cluster over the flanks and haunches. A lean-bodied creature, downcast-eyed, afraid — when the open earth did not deliver its burden, I couched my young she-camel and watched her with my eye. I consulted my soul: which of my options should I do? Should I guard her fearing accidents — they indeed weigh on a person — or should I trust? I swore by the Merciful — nothing other than Him is the oath of a righteous man — I shall not break it: I will put the upper part of my cloak as a Muslim surrendered to the face of Him who gives life and death to people. He is the guardian of the sleeping man at night, as if dead, though he is alive and heavy with sleep — from the lion that prowls at night, even if it is enraged, with the concentrated venom on the edge of its fangs. When the two Farkadans wheeled, I urged her on — a winged archer rose, armed and unarmed. She set off swiftly, her heart not betraying her, nor her eye heedless for fear of the whip. Her trot cuts the pace of the noble she-camels — escape when the relied-upon escape is put to the test. Her hidden flesh swollen, her muscles thick like a tower plastered with daytime milk-mortar. Her breast like a flat stone, her elbow turned from the chest — twisted sinew, the most twisted. Her neck-side plump, her plaited rope-hair wet when the sweat-water overflowed her. Clear-eyed, repelling the floating mote — as if on the journey it wipes and kohls her. Who for the odes — who shapes them, who weaves them — when Ka'b and Jirwal are gone? He speaks — never stumbling over anything he says — and from those who speak them are those who do ill and labor to straighten them until their backs stand straight — every example falls short of them. I have been sufficient to you — you will not find among people a poet who sifts from them the like of what I sift.",
+    "vocabularyHighlights": [
+      {"word": "أرنت", "meaning": "she wailed, cried out in distress"},
+      {"word": "الطلس", "meaning": "grey wolves or grey-furred animals"},
+      {"word": "الرمث", "meaning": "a white-wood shrub used for fuel"},
+      {"word": "الفرقدان", "meaning": "the two Farkad stars of Ursa Minor"},
+      {"word": "السماك", "meaning": "Arcturus or Spica star"},
+      {"word": "القوافي", "meaning": "the end-rhymes; the odes"},
+      {"word": "أتنخل", "meaning": "I sift, I select carefully"}
+    ],
+    "context": "Ka'b's massive qasida combining a domestic opening about his wife's lament over his grey hair, a drinking session, a dangerous desert crossing accompanied by a wolf, a long camel-description, a religious oath of submission to God, and ending with a famous boast of poetic excellence after his father Zuhayr — one of the most comprehensive poems in the diwan."
+  },
+  {
+    "id": "kab-ibn-zuhayr-22",
+    "poetId": "kab-ibn-zuhayr",
+    "titleAr": "باتت سعاد فقلبي اليوم متبول",
+    "titleEn": "Su'ad has gone, and my heart today is stricken",
+    "genre": "madih",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "باتت سعاد فقلبي اليوم متبول",
+        "ajuz": "متيم إثرها لم يجز مكبول"
+      },
+      {
+        "sadr": "وما سعاد غداة البين إذ رحلوا",
+        "ajuz": "إلا أغن غضيض الطرف مكحول"
+      },
+      {
+        "sadr": "تجلو عوارض ذي ظلم إذا ابتسمت",
+        "ajuz": "كأنه منهل بالراح معلول"
+      },
+      {
+        "sadr": "شجت بذي شبم من ماء محنية",
+        "ajuz": "صاف بأبطح أضحى وهو مشمول"
+      },
+      {
+        "sadr": "تجلو الرياح القذى عنه وأفرطه",
+        "ajuz": "من صوب سارية بيض يعاليل"
+      },
+      {
+        "sadr": "يا ويحها خلة لو أنها صدقت",
+        "ajuz": "ما وعدت أو لو ان النصح مقبول"
+      },
+      {
+        "sadr": "لكنها خلة قد سيط من دمها",
+        "ajuz": "فجع وولع وإخلاف وتبديل"
+      },
+      {
+        "sadr": "فما تدوم على حال تكون بها",
+        "ajuz": "كما تلون في أثوابها الغول"
+      },
+      {
+        "sadr": "وما تمسك بالوصل الذي زعمت",
+        "ajuz": "الا كما تمسك الماء الغرابيل"
+      },
+      {
+        "sadr": "كانت مواعيد عرقوب لها مثلا",
+        "ajuz": "وما مواعيدها إلا الأباطيل"
+      },
+      {
+        "sadr": "أرجو وآمل أن يعجلن في أبد",
+        "ajuz": "وما لهن طوال الدهر تعجيل"
+      },
+      {
+        "sadr": "فلا يعرنك ما منت وما وعدت",
+        "ajuz": "إن الأماني والأحلام تضليل"
+      },
+      {
+        "sadr": "أمست سعاد بارض لا يبلغها",
+        "ajuz": "إلا العتاق النجيبات المراسيل"
+      },
+      {
+        "sadr": "إن الرسول لسيف به",
+        "ajuz": "فيها على الأين إرقال وتبغيل"
+      },
+      {
+        "sadr": "من كل نضاخة الذفرى إذا عرقت",
+        "ajuz": "عرضتها طامس الأعلام مجهول"
+      },
+      {
+        "sadr": "ترمي الغيوب بعيني مفرد لهق",
+        "ajuz": "إذا توقدت الحزان والميل"
+      },
+      {
+        "sadr": "ضخم مقلدها فعم مقيدها",
+        "ajuz": "في خلقها عن بنات الفحل تفضيل"
+      },
+      {
+        "sadr": "حرف أخوها أبوها من مهجنة",
+        "ajuz": "وعمها خالها قوداء شمليل"
+      },
+      {
+        "sadr": "يمشي القراد عليها ثم يزلقه",
+        "ajuz": "منها لبان وأقراب زهاليل"
+      },
+      {
+        "sadr": "عيرانة قذفت في اللحم عن عرض",
+        "ajuz": "مرفقها عن بنات الزور مفتول"
+      },
+      {
+        "sadr": "كأن ما فات عينيها ومذبحها",
+        "ajuz": "من خطمها ومن اللحيين برطيل"
+      },
+      {
+        "sadr": "تمر مثل عسيب النخل ذا خصل",
+        "ajuz": "في عارز لم تخونه الأحاليل"
+      },
+      {
+        "sadr": "قنواء في حريتها للبصير بها",
+        "ajuz": "عتق مبين وفي الخدين تسهيل"
+      },
+      {
+        "sadr": "تخدي على يسرات وهي لاحقة",
+        "ajuz": "ذوابل وقعهن الأرض تحليل"
+      },
+      {
+        "sadr": "سمر العجايات يتركن الحصى زيما",
+        "ajuz": "لم يقهن رؤوس الأكم تنعيل"
+      },
+      {
+        "sadr": "يوما يظل به الحرباء مصطخما",
+        "ajuz": "كأن ضاحيه بالنار مملول"
+      },
+      {
+        "sadr": "كأن أوب ذواعيها وقد عرقت",
+        "ajuz": "وقد تلفع بالقور العساقيل"
+      },
+      {
+        "sadr": "وقال للقوم حاديهم وقد جعلت",
+        "ajuz": "ورق الجنادب يركضن الحصى قيلوا"
+      },
+      {
+        "sadr": "شد النهار ذراعا عيطل نصف",
+        "ajuz": "قامت فجاوبها نكد مثاكيل"
+      },
+      {
+        "sadr": "نواحة رخوة الضبعين ليس لها",
+        "ajuz": "لما نعى بكرها الناعون معقول"
+      },
+      {
+        "sadr": "تفري اللبان بكفيها ومدرعها",
+        "ajuz": "مشقق عن تراقيها رعابيل"
+      },
+      {
+        "sadr": "يسعى الوشاة بجنبيها وقولهم",
+        "ajuz": "إنك يا بن أبي سلمى لمقتول"
+      },
+      {
+        "sadr": "وقال كل خليل كنت آمله",
+        "ajuz": "لا ألفينك إني عنك مشغول"
+      },
+      {
+        "sadr": "فقلت خلوا طريقي لا أبا لكم",
+        "ajuz": "فكل ما قدر الرحمن مفعول"
+      },
+      {
+        "sadr": "كل ابن أنثى وان طالت سلامته",
+        "ajuz": "يوما على آلة حدباء محمول"
+      },
+      {
+        "sadr": "أنبئت أن رسول الله أوعدني",
+        "ajuz": "والعفو عند رسول الله مأمول"
+      },
+      {
+        "sadr": "مهلا هداك الذي أعطاك نافلة ال",
+        "ajuz": "قرآن فيها مواعيظ وتفصيل"
+      },
+      {
+        "sadr": "لقد أقوم مقاما لو يقوم به",
+        "ajuz": "أرى وأسمع ما لو يسمع الفيل"
+      },
+      {
+        "sadr": "لظل يرعد إلا أن يكون له",
+        "ajuz": "من الرسول بإذن الله تنويل"
+      },
+      {
+        "sadr": "حتى وضعت يميني لا نازعه",
+        "ajuz": "في كف ذي نقمات قيله القيل"
+      },
+      {
+        "sadr": "لذاك أهيب عندي إذ أكلمه",
+        "ajuz": "وقيل إنك مسبور ومسؤول"
+      },
+      {
+        "sadr": "من ضيغم من ضراء الأسد مخدرة",
+        "ajuz": "ببطن عثر غيل دونه غيل"
+      },
+      {
+        "sadr": "يغدو فيلحم ضرغامين عيشهما",
+        "ajuz": "لحم من القوم معفور خراذيل"
+      },
+      {
+        "sadr": "إذا يساور قرنا لا يحل له",
+        "ajuz": "أن يترك القرن الا وهو مفلول"
+      },
+      {
+        "sadr": "منه تظل حمير الوحش ضامرة",
+        "ajuz": "ولا تمشي بواديه الأراجيل"
+      },
+      {
+        "sadr": "و لا يزال بواديه أخو ثقة",
+        "ajuz": "مطرح البز والدرسان مأكول"
+      },
+      {
+        "sadr": "إن الرسول لسيف يستضاء به",
+        "ajuz": "مهند من سيوف الله مسلول"
+      },
+      {
+        "sadr": "في عصبة من قريش قال قائلهم",
+        "ajuz": "ببطن مكة لما أسلموا زولوا"
+      },
+      {
+        "sadr": "زالوا فمازال انكاس ولا كشف",
+        "ajuz": "عند اللقاء ولا ميل معازيل"
+      },
+      {
+        "sadr": "شم العرانين أبطال لبوسهم",
+        "ajuz": "من نسيج داود في الهيجا سرابيل"
+      },
+      {
+        "sadr": "بيض سوابغ قد شكت لها حلق",
+        "ajuz": "كأنها حلق القفعاء مجدول"
+      },
+      {
+        "sadr": "يمشون مشي الجمال الزهر يعصمهم",
+        "ajuz": "ضرب إذا عرد السود التنابل"
+      },
+      {
+        "sadr": "لا يفرحون إذا نالت رماحهم",
+        "ajuz": "قوما وليسوا مجازيعا إذا نيلوا"
+      },
+      {
+        "sadr": "لا يقع الطعن إلا في نحورهم",
+        "ajuz": "ما إن لهم عن حياض الموت تهليل"
+      }
+    ],
+    "translationEn": "Su'ad has gone — my heart today is stricken, enslaved in her wake, unchained. Su'ad at the morning of parting when they departed was nothing but a gazelle-eyed, downcast-glanced, kohl-eyed one. She reveals side-teeth of glistening white when she smiles — like a watering place seasoned with wine. She mixed it with cold water from a curving river, clear in a wide valley, exposed to the north wind at noon. The winds clear the motes from it, and the white swift clouds filled it from above. Woe to her — a companion, if only she had been true to her promise, or if counsel were accepted. But she is a companion in whose blood sorrow and obsession and betrayal and change have been mixed. She does not remain in a state she is in, just as the ghoul changes through her garments. She does not hold onto the bond she claimed — only as a sieve holds water. 'Arqub's promises were the byword for her — and her promises are nothing but vanities. I hope and expect them to hasten in eternity — and they have no hastening throughout all time. Do not let what she gave and promised concern you — wishes and dreams are delusion. Su'ad at evening is in a land that none can reach except the noble swift she-camels sent racing. The Messenger is a sword by which light is sought — in it at exhaustion is the brisk trot and amble. From every one who pours sweat from the ear's base when she sweats — she crosses a land with obliterated landmarks, unknown. She shoots the unseen with the eyes of a lone white she-camel when the plateaus and plains kindle. Large-necklaced, thick-fetlocked — in her form there is superiority over the daughters of stallions. Lean-bodied — her brother is her father from a mixed dam, her uncle is her maternal uncle — long-necked, swift. A tick walks on her then slips off her — her breast and flanks are smooth. Sturdy in body and thrown from the meat sideways — her elbow twisted from the breast-bones. What passes between her eyes and her dewlap from her muzzle and jawbones is like a bar of iron. Her tail passes like a palm-frond of fiber in a channel that her duct-milk has not betrayed. High-bridged in her noble bearing — to the expert there is clear nobility, and in the cheeks smoothness. She treads on light steps, lean of them — the earth makes their sound a clicking. Brown-sinewed, she leaves the pebbles scattered — the hilltops have not provided her with shoeing. A day in which the chameleon swells its throat — as if its sun-exposed side is roasted by fire. As if the back-and-forth of her elbows when she has sweated — and the mirages have wrapped the rocky hills. The camel-driver said to the people when the green locusts began to scratch the pebbles with their legs: rest at midday. The midday intensified — a long-necked she-camel at half-growth stood and a bereaved, hard-luck mournful one answered her. A loose-armed wailer — when the criers announced the death of her young, she had no restraint. She tears her breast with her hands and her robe is split from her collarbones in tatters. The tale-bearers run by her sides saying: O son of Abu Sulma, you shall be killed. Every friend I had hoped said: I will not be found — I am preoccupied with you. I said: clear my path — no father have you — for all that the Merciful has decreed will be done. Every son of a woman, however long his safety, one day will be carried on a hump-backed bier. I was told that the Messenger of God threatened me — and forgiveness from the Messenger of God is hoped for. Be gentle — may He guide you who gave you the gift of the Quran, in which are admonitions and details. I stand in a station — if the elephant were to stand in it and see and hear what I see and hear — it would keep trembling unless it had from the Messenger, by God's leave, a gift. Until I placed my right hand — not contesting him — in the palm of one of retributions, whose word is the word. He was more awe-inspiring to me when I spoke to him — and it was said: you are inspected and will be questioned. From a lion from the lion-dens, crouching in the belly of 'Athar — a thicket before which is a thicket. He goes out and feeds two lions whose life is the flesh of people, dust-covered and in tatters. When he wrestles a foe, it is not permitted him to leave the foe but shattered. From him the wild asses stay lean, and no traveling men walk through his valley. Always in his valley is a man of trust — his goods scattered and his dried bread eaten. The Messenger is a sword by which light is sought — an Indian blade from the swords of God, unsheathed. Among a band from Quraysh — their speaker said in the belly of Mecca when they embraced Islam: they departed. They departed — and they never ceased to be: not cowardly reversers, nor those who expose their backs at meeting, nor swaying unarmed men. High-nosed heroes — their armor in battle is the weaving of David, chainmail coats. White-bright complete coats that have their rings interlocked — as if they are the rings of the qaf'a' tree, braided. They walk with the gait of white camels — blows protect them when the dark base-born flee. They do not rejoice when their lances strike a people, and they are not distraught when struck. The spear falls nowhere but in their throats — they have no turning away from the watering-troughs of death.",
+    "vocabularyHighlights": [
+      {"word": "متبول", "meaning": "diseased, stricken with love-sickness"},
+      {"word": "مكبول", "meaning": "shackled, chained"},
+      {"word": "الغرابيل", "meaning": "sieves (sg. غربال)"},
+      {"word": "المراسيل", "meaning": "swift camels sent without loads"},
+      {"word": "مهند", "meaning": "Indian-made sword, fine blade"},
+      {"word": "السرابيل", "meaning": "coats, chainmail shirts (sg. سربال)"},
+      {"word": "شم العرانين", "meaning": "high-nosed, proud (a mark of nobility)"}
+    ],
+    "context": "The famous Banat Su'ad qasida — Ka'b's masterpiece composed upon his conversion to Islam and recited before the Prophet Muhammad who granted him forgiveness and his cloak (burda). It opens with longing for Su'ad, transitions into a description of his she-camel, then praises the Prophet as a drawn sword of God and celebrates the Companions of Quraysh."
+  },
+  {
+    "id": "kab-ibn-zuhayr-23",
+    "poetId": "kab-ibn-zuhayr",
+    "titleAr": "أمن أم شداد رسوم المنازل",
+    "titleEn": "From Umm Shaddad the ruins of the campsites",
+    "genre": "ghazal",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "أمن أم شداد رسوم المنازل",
+        "ajuz": "تؤهمتها من بعد ساف ووابل"
+      },
+      {
+        "sadr": "وبعد ليل قد خلون وأشهر",
+        "ajuz": "على إثر حول قد تجرم كامل"
+      },
+      {
+        "sadr": "أرى أم شداد بها شبه ظبية",
+        "ajuz": "تطيف بمكحول المدامع خاذل"
+      },
+      {
+        "sadr": "أغن غضيض الطرف رخص ظلوفه",
+        "ajuz": "ترود بمعتم من الرمل هائل"
+      },
+      {
+        "sadr": "وترنو بعيني نعجة أم فرقد",
+        "ajuz": "تظل بوادي روضة وخمائل"
+      },
+      {
+        "sadr": "وتخطو على بردتين غذاهما",
+        "ajuz": "أهاضيب رجاف العشيات هاطل"
+      },
+      {
+        "sadr": "وتفتر عن غر الثنايا كأنها",
+        "ajuz": "أقاح تروى من عروق غلاغل"
+      },
+      {
+        "sadr": "فأصبحت قد أنكرت منها شمائلا",
+        "ajuz": "فما شئت من بخل ومن منع نائل"
+      },
+      {
+        "sadr": "وما ذاك عن شيء أكون اجترمته",
+        "ajuz": "سوى أن شيبا في المفارق شاملي"
+      },
+      {
+        "sadr": "فإن تصرميني ويب غيرك تصرمي",
+        "ajuz": "وأوذنت إيذان الخليط المزايل"
+      },
+      {
+        "sadr": "إذا ما خليل لم يصلك فلا تقم",
+        "ajuz": "بتلعته واعمد لآخر واصل"
+      },
+      {
+        "sadr": "ومستهلك يهدي الضلول كأنه",
+        "ajuz": "حصير صناع بين أيدي الروامل"
+      },
+      {
+        "sadr": "متى ما تشأ تسمع إذا ما هبطته",
+        "ajuz": "تراطن سرب مغرب الشمس نازل"
+      },
+      {
+        "sadr": "روايا فراخ بالفلاة توائم",
+        "ajuz": "تحطم عنها البيض حمر الحواصل"
+      },
+      {
+        "sadr": "توائم أشباه بغير علامة",
+        "ajuz": "وضعن بمجهول من الأرض خامل"
+      },
+      {
+        "sadr": "وخرق يخاف الركب أن يدلجوا به",
+        "ajuz": "يعضون من أهواله بالأنامل"
+      },
+      {
+        "sadr": "مخوف به الجنان ، تعوي ذئابه",
+        "ajuz": "قطعت بفتلاء الذراعين بازل"
+      },
+      {
+        "sadr": "صموت السرى خرساء فيها تلفت",
+        "ajuz": "لنبأة حق أو لتشبيه باطل"
+      },
+      {
+        "sadr": "تظل نسوغ الرحل بعد كلالها",
+        "ajuz": "لهن أطيط بين جوز وكاهل"
+      },
+      {
+        "sadr": "رفيع المحال والضلوع نمت به",
+        "ajuz": "قوائم عوج ناشزات الخصائل"
+      },
+      {
+        "sadr": "تجاوب أصداء وحينا يروعها",
+        "ajuz": "تضور كساب على الركب عائل"
+      },
+      {
+        "sadr": "عذافرة تختال بالرحل حرة",
+        "ajuz": "تباري قلاصا كالنعام الجوافل"
+      },
+      {
+        "sadr": "بوقع دراك غير ما متكلف",
+        "ajuz": "إذا هبطت وعثا ولا متخاذل"
+      },
+      {
+        "sadr": "كأن جريري ينتحي فيه مسحل",
+        "ajuz": "من القمر بين الأنعمين فعاقل"
+      },
+      {
+        "sadr": "يغرد في الأرض الفلاة بعانة",
+        "ajuz": "خماص البطون كالصعاد الذوابل"
+      },
+      {
+        "sadr": "ونازحة بالقيظ عنها جحاشها",
+        "ajuz": "وقد قلصت أطباؤها كالمكاحل"
+      },
+      {
+        "sadr": "وظل سراة اليوم يبرم أمره",
+        "ajuz": "برابية البحاء ذات الأعابل"
+      },
+      {
+        "sadr": "وهم بورد بالرسيس فصده",
+        "ajuz": "رجال قعود في الدجى بالمعابل"
+      },
+      {
+        "sadr": "إذا وردت ماء بليل تعرضت",
+        "ajuz": "مخافة رام أو مخافة حابل"
+      },
+      {
+        "sadr": "كأن مدهدى حنظل حيث سوفت",
+        "ajuz": "بأعطانها من لسها بالجحافل"
+      }
+    ],
+    "translationEn": "From Umm Shaddad are these ruins of campsites — I imagined them after a sandy drift and heavy rain. After nights that have passed and months, on the heels of a full year completed. I see in Umm Shaddad something like a gazelle, circling with kohl-heavy, downcast eyes. Soft-voiced, lowered gaze, soft-hoofed — roaming in a dark, massive sand-dune. Gazing with the eyes of a ewe-mother of a fawn, staying in the valley of a garden and shade. Stepping on two green hillocks watered by the shaking evening rains and the pourer. She parts to reveal bright front teeth — like white wood-sorrel watered from deep spreading roots. I found she had developed strange traits — all the miserliness and withholding of gift you could want. Not for any fault I committed — except that white has spread across my temples. If you sever me — woe to you — sever! I have received notice like the notice of a parting companion. When a friend does not connect with you, do not stand in his hollow ground — turn to another who does. A trackless desert guiding the lost like a mat of craft between the hands of the women weavers. Whenever you wish you can hear, when you descend into it, the murmur of a flock settling at sunset. She-sandgrouse feeding their chicks in the waste, twins — the red-chested hens broke the eggs for them. Twins alike without a mark — laid in an unknown, low stretch of land. A wilderness the riders fear to traverse by night — they bite their fingers at its terrors. Its thickets hold terrors, its wolves howl — I crossed it on a thick-armed, mature she-camel. Silent in her night-travel, mute in it, turning her head at a true sound or a false resemblance. The saddle-straps settle over her after exhaustion — their creaking between her mid-section and shoulder. High-chested and with ribs that grew with her — limbs curved, sinews raised. She answers echoes and sometimes is startled — like a hunting dog leaping at the company, frenzied. A massive, proud she-camel strutting with the saddle — matching young she-camels like ostriches in headlong flight. With a continuous sure step, without effort when she descends into soft sand, without stumbling. As if her running partner is a rearing wild ass from the bright dunes between the two gentle slopes and 'Aqil. He sings in the flat waste with a she-donkey herd — gaunt of belly, like straight swaying spears. Her young distant from her in summer — her udders have dried up like kohl-tubes. The midday hours found him resolving his matter on the hump of the al-Baha' hill with its channels. He intended to water at al-Rasis, but was turned back by men lying in wait in the dark with spear-shafts. When she came to water at night she swerved — fearing an archer or a snarer. As if colocynth rolled — where she sniffed at her resting-ground she licked with her lips.",
+    "vocabularyHighlights": [
+      {"word": "ساف", "meaning": "a drift of sand blown by wind"},
+      {"word": "وابل", "meaning": "heavy rain"},
+      {"word": "المدامع", "meaning": "the tear-ducts, the eyes (lit. the crying-places)"},
+      {"word": "خماص البطون", "meaning": "gaunt-bellied (from hunger)"},
+      {"word": "الأطباء", "meaning": "the udders (of a she-camel)"},
+      {"word": "المعابل", "meaning": "broad-bladed spear-heads"},
+      {"word": "الجحافل", "meaning": "the lips of an animal"}
+    ],
+    "context": "A qasida beginning with the ruins of Umm Shaddad's campsite and the beloved's changing character after Ka'b's ageing, transitioning into a journey narrative featuring a swift she-camel and a wild ass seeking water, ending at a dangerous night waterhole."
+  },
+  {
+    "id": "kab-ibn-zuhayr-24",
+    "poetId": "kab-ibn-zuhayr",
+    "titleAr": "أتعرف رسما بين رهمان فالرقم",
+    "titleEn": "Do you recognize a ruin between Rahman and al-Raqm",
+    "genre": "fakhr",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "أتعرف رسما بين رهمان فالرقم",
+        "ajuz": "إلى ذي مراهيط كما خط بالقلم"
+      },
+      {
+        "sadr": "عفته رياح الصيف بعدي بمورها",
+        "ajuz": "واندية الجوزاء بالوبل واليم"
+      },
+      {
+        "sadr": "ديار التي بتت قوانا وصرمت",
+        "ajuz": "وكنت إذا ما الحبل من خلة صرم"
+      },
+      {
+        "sadr": "فزعت إلى وجناء حرف كأنها",
+        "ajuz": "بأقرابها قار إذا جلدها استحم"
+      },
+      {
+        "sadr": "ألا أبلغا هذا المعرض أنه",
+        "ajuz": "أيقظان قال القول إذ قال أم حلم"
+      },
+      {
+        "sadr": "فان تسأل الأقوام عني فإنني",
+        "ajuz": "أنا ابن أبي سلمى على رغم من رغم"
+      },
+      {
+        "sadr": "أنا ابن الذي قد عاش تسعين حجة",
+        "ajuz": "فلم يخز يوما في معد ولم يلم"
+      },
+      {
+        "sadr": "وأكرمه الأكفاء في كل معشر",
+        "ajuz": "كرام فإن كذبتني فاسأل الأمم"
+      },
+      {
+        "sadr": "أتى العجم والآفاق منه قصائد",
+        "ajuz": "بقين بقاء الوحي في الحجر الأصم"
+      },
+      {
+        "sadr": "أنا ابن الذي لم يخزني في حياته",
+        "ajuz": "ولم أخزه حتى تغيب في الرجم"
+      },
+      {
+        "sadr": "فأعطي حتى مات مالا وهمة",
+        "ajuz": "وورثني إذ ودع المجد والكرم"
+      },
+      {
+        "sadr": "وكان يحامي حين تنزل لزبة",
+        "ajuz": "من الدهر في ذبيان إن حوضها انهدم"
+      },
+      {
+        "sadr": "أقول شبيهات بما قال عالما",
+        "ajuz": "بهن ومن يشبه أباه فما ظلم"
+      },
+      {
+        "sadr": "إذا شئت أعلكت الجموح إذا بدت",
+        "ajuz": "نواجذ لحييه بأغلظ ما عجم"
+      },
+      {
+        "sadr": "أعيرتني عزا عزيزا ومعشرا",
+        "ajuz": "كراما بنوا لي المجد في باذخ أشم"
+      },
+      {
+        "sadr": "هم الأصل مني حيث كنت وإنني",
+        "ajuz": "من المزنيين المصفين بالكرم"
+      },
+      {
+        "sadr": "هم ضربوكم حين جرتم عن الهدى",
+        "ajuz": "بأسيافهم حتى استقتم على القيم"
+      },
+      {
+        "sadr": "وساقتك منهم عصبة خندفية",
+        "ajuz": "فما لك فيهم قيد كف ولا قدم"
+      },
+      {
+        "sadr": "هم منعوا حزن الحجاز وسهله",
+        "ajuz": "قديما وهم أجلوا أباك عن الحرم"
+      },
+      {
+        "sadr": "فكم فيهم من سيد متوسع",
+        "ajuz": "ومن فاعل للخير إن هم أو عزم"
+      },
+      {
+        "sadr": "متى أدع في أوس وعثمان يأتني",
+        "ajuz": "مساعير حرب كلهم سادة دعم"
+      }
+    ],
+    "translationEn": "Do you recognize a ruin between Rahman and al-Raqm — extending to the striated place, as if drawn with a pen? The summer winds have effaced it with their dust, and the dew of Orion with rain and flood. The abode of she who cut our bonds and severed — and I, whenever the bond of a friend was cut, would take refuge in a lean firm she-camel, as if her flanks were tar when her hide grew damp. Convey to this one who turned away: was he awake when he spoke his words, or was he dreaming? If people ask about me — I am the son of Abu Sulma, despite the spite of those who spite. I am the son of one who lived ninety years without being shamed a single day before Ma'add, without blame. His equals honored him in every noble company — if you deny me, ask the nations. His odes reached the non-Arabs and the horizons, remaining as the revealed word remains in solid stone. I am the son of one who never shamed me in his life, and I never shamed him until he was buried in his tomb. He gave until his death — wealth and ambition — and bequeathed me glory and nobility when he bid farewell. He used to defend when a hard calamity of time befell Dhubyan, if their water-trough was broken. I say things resembling what he said, knowing them — and one who resembles his father does no wrong. When you wish, I can silence the stubborn one when the back teeth of his jaws show at their coarsest. You have granted me a formidable glory and noble companions who built my glory on a high lofty peak. They are my root wherever I am — I am from the Muznis, refined by nobility. They struck you when you strayed from guidance with their swords until you stood straight on correct values. A band of Khandaq drove you — you have among them not a handspan's worth of foot or hand. They defended the highlands and plains of the Hijaz long ago, and they drove your father from the Sanctuary. How many among them are there of generous lords and of those who do good when they intend or determine. Whenever I call upon Aws and Uthman, war-kindlers come to me — all of them steadfast lords.",
+    "vocabularyHighlights": [
+      {"word": "رهمان", "meaning": "a place name in the Arabian Peninsula"},
+      {"word": "مراهيط", "meaning": "striations, lines like pen-marks on stone"},
+      {"word": "المور", "meaning": "dust swirling in the wind"},
+      {"word": "لزبة", "meaning": "a hard calamity, a crisis"},
+      {"word": "النواجذ", "meaning": "the back molars, the wisdom teeth"},
+      {"word": "الخندفية", "meaning": "belonging to Khandaq/Khandaf, a major tribal lineage"},
+      {"word": "مساعير", "meaning": "those who kindle war, fierce warriors"}
+    ],
+    "context": "A qasida of tribal boasting and self-assertion, in which Ka'b boasts of his descent from his famous father Zuhayr ibn Abi Sulma, praises his tribe, and defends himself against a detractor by invoking his family's glory and his clan's martial history."
+  },
+  {
+    "id": "kab-ibn-zuhayr-25",
+    "poetId": "kab-ibn-zuhayr",
+    "titleAr": "يقول حياي من عوف ومن جشم",
+    "titleEn": "My kinfolk from Awf and Jusham say to me",
+    "genre": "wasf",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "يقول حياي من عوف ومن جشم",
+        "ajuz": "يا كعب ويجك هلا تشتري غنما"
+      },
+      {
+        "sadr": "ما لي منها إذا ما أزمة أزمت",
+        "ajuz": "ومن أويس إذا ما أنفه رذما"
+      },
+      {
+        "sadr": "أخشى عليها كسوبا غير مدخر",
+        "ajuz": "عاري الأشاجع لا يشوي إذا ضغما"
+      },
+      {
+        "sadr": "إذا تلوى بلحم الشاة تبرها",
+        "ajuz": "أشلاء برد ولم يجعل لها وضما"
+      },
+      {
+        "sadr": "إن يغد في شيعة لم يثنه نهر",
+        "ajuz": "وان غدا واحدا لا يتقي الظلما"
+      },
+      {
+        "sadr": "وإن أطاف ولم يظفر بضائنة",
+        "ajuz": "في ليلة ساور الأقوام والنعما"
+      },
+      {
+        "sadr": "وإن أغار ولم يحل بطائلة",
+        "ajuz": "في ظلمة ابن جمير ساور الفطما"
+      },
+      {
+        "sadr": "إذ لا تزال فريس أو مغببة",
+        "ajuz": "صيداء تنشج من دون الدماغ دما"
+      }
+    ],
+    "translationEn": "My kinfolk from 'Awf and Jusham say to me: O Ka'b, woe to you, why don't you buy sheep? What use are sheep to me when a drought year comes — and from 'Uwais when his nose runs phlegm? I fear for them a hunting creature that holds nothing back — bare-knuckled, not missing when it seizes. When it twists into the meat of the sheep it tears it into cold shreds, leaving no flesh on the bone. If it sets out in a group, no stream turns it back — and if it goes alone, it does not fear the dark. If it prowls but misses a sheep on a night when it attacks the people and the cattle — if it raids and gains nothing — in the darkness of Ibn Jumayr it attacks the suckling young. For there is always a fresh kill or a day-old prey — a hunted thing whose skull drips blood without reaching the brain.",
+    "vocabularyHighlights": [
+      {"word": "حياي", "meaning": "my kinfolk, my people"},
+      {"word": "أزمة", "meaning": "drought year, time of scarcity"},
+      {"word": "رذما", "meaning": "dripping with mucus (of an animal's nose)"},
+      {"word": "الأشاجع", "meaning": "the knuckle bones (of the hand)"},
+      {"word": "أشلاء", "meaning": "torn shreds, scattered pieces"},
+      {"word": "مغببة", "meaning": "prey killed the day before yesterday"},
+      {"word": "تنشج", "meaning": "to drip, to trickle (blood from a wound)"}
+    ],
+    "context": "Ka'b's kinsmen urge him to buy sheep as a livelihood, but he explains that a wolf or predator in his area makes sheep-rearing impractical — describing the relentless predator in vivid detail."
+  },
+  {
+    "id": "kab-ibn-zuhayr-26",
+    "poetId": "kab-ibn-zuhayr",
+    "titleAr": "وهاجرة لا تستريد ظباؤها",
+    "titleEn": "A blazing noon when its gazelles cannot rest",
+    "genre": "wasf",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "وهاجرة لا تستريد ظباؤها",
+        "ajuz": "لأعلامها من السراب عمائم"
+      },
+      {
+        "sadr": "ترى الكاسعات العفر فيها كأنما",
+        "ajuz": "شواها فصرها من النار جاحم"
+      },
+      {
+        "sadr": "نصبت لها وجهي على ظهر لاحب",
+        "ajuz": "طحين الحصى قد سهلته المناسم"
+      },
+      {
+        "sadr": "تراه إذا يعلو الأحزة واضحا",
+        "ajuz": "لمن كان يسري وهو بالليل طاسم"
+      },
+      {
+        "sadr": "زجرت عليه حرة الليط رفعت",
+        "ajuz": "على ربذ كأنهن دعائم"
+      },
+      {
+        "sadr": "تخال بضاحي جلدها ودفوفها",
+        "ajuz": "عصيم هناء أعقدته الحناتم"
+      },
+      {
+        "sadr": "يظل حصى المعزاء بين فروجها",
+        "ajuz": "إذا ما ارتمت شرواتهن القوائم"
+      },
+      {
+        "sadr": "فضاضا كما تنزو دراهم تاجر",
+        "ajuz": "يقمصها فوق البنان الأباهم"
+      },
+      {
+        "sadr": "كأني كسوت الرحل جوبا رباعيا",
+        "ajuz": "تضمنه وادي الجبا والصرائم"
+      },
+      {
+        "sadr": "أتى دون ماء الرس باد وحاضر",
+        "ajuz": "وفيها الجمام الطاميات الخضارم"
+      },
+      {
+        "sadr": "فصد فأضحى بالسليل كأنه",
+        "ajuz": "سليب رجال فوق علياء قائم"
+      },
+      {
+        "sadr": "يقلب للأصوات والريج هاديا",
+        "ajuz": "تميم النضي برصته المكادم"
+      },
+      {
+        "sadr": "وغائرة في الحنو دار حجاجها",
+        "ajuz": "لها بصر ترمي به الغيب ساهم"
+      },
+      {
+        "sadr": "ورأسا كدن التجر جأبا كأنما",
+        "ajuz": "رمى حاجبيه بالجلاميد راجم"
+      },
+      {
+        "sadr": "وفوه كشرخ الكور خان بأسره",
+        "ajuz": "مساميره فحنوه متفاقم"
+      },
+      {
+        "sadr": "كلا منخريه سائفا ومعشرا",
+        "ajuz": "بما انصب من ماء الخياشيم راذم"
+      },
+      {
+        "sadr": "فهن قيام ينتظرن قضاءه",
+        "ajuz": "وهن هواد للركي نواظم"
+      },
+      {
+        "sadr": "وفي جانب الماء الذي كان يبتغي",
+        "ajuz": "به الري دباب إلى الصيد عالم"
+      },
+      {
+        "sadr": "ومن خلفه ذو قترة متسمع",
+        "ajuz": "طويل الطوى خف بها متعالم"
+      },
+      {
+        "sadr": "رفيق بتنضيد الصفا ما تفوته",
+        "ajuz": "بمرتصد وحشية وهو نائم"
+      },
+      {
+        "sadr": "فلما ارتدى جلا من الليل هاجها",
+        "ajuz": "إلأى الحائر المسجون فيه العلاجم"
+      },
+      {
+        "sadr": "فلما دنا للماء ساف حياضه",
+        "ajuz": "وخاف الجبان حتفه وهو قائم"
+      },
+      {
+        "sadr": "فوافينه حتى إذا ما تصوبت",
+        "ajuz": "أكارعه أهوى له وهو سادم"
+      },
+      {
+        "sadr": "طليح من التسعاء حتى كأنه",
+        "ajuz": "حديث بحمى أسأرتها سلالم"
+      },
+      {
+        "sadr": "لطيف كصداد الصفا لاتغره",
+        "ajuz": "بمرتقب وحشية وهو حازم"
+      },
+      {
+        "sadr": "أخو قترات لا يزال كأنه",
+        "ajuz": "إذا لم يصب صيدا من الوحش غارم"
+      },
+      {
+        "sadr": "يقلب حشرات ويختار نابل",
+        "ajuz": "من الريش ما التفت عليه القوادم"
+      },
+      {
+        "sadr": "صدرن رواء عن أسنة صلب",
+        "ajuz": "يقئن ويقطرن السمام سلاجم"
+      },
+      {
+        "sadr": "وصفراء شكتها الاسرة عودها",
+        "ajuz": "على الطل والأنداء أحمر كاتم"
+      },
+      {
+        "sadr": "إذا أطر المربوع منها ترنمت",
+        "ajuz": "كما أرزمت بكر على البو رائم"
+      },
+      {
+        "sadr": "فاوردها في عكوة الليلي جوشنا",
+        "ajuz": "لأكفالها حتى أتى الماء لازم"
+      },
+      {
+        "sadr": "فلما أراد الصوت يوما وأشرعت",
+        "ajuz": "زوى سهمه عاو من الجن صارم"
+      },
+      {
+        "sadr": "فمر على ملس النواشر قلما",
+        "ajuz": "تثبطهن بالخبار الجراثم"
+      },
+      {
+        "sadr": "ومر بأكناف اليدين نضيه",
+        "ajuz": "وللحتف أحيانا عن النفس عاجم"
+      },
+      {
+        "sadr": "يعض بإبهام اليدين تندما",
+        "ajuz": "ولهف سرا أمه وهو نادم"
+      },
+      {
+        "sadr": "وقال ألا في خيبة أنت من يد",
+        "ajuz": "وجذ بذي إثر بنانك جاذم"
+      },
+      {
+        "sadr": "وأصبح يبغي نصله ونضيه",
+        "ajuz": "فريقين شتى وهو أسفان واجم"
+      },
+      {
+        "sadr": "وصاح بها جأب كأن نسوره",
+        "ajuz": "نوى عضه من تمر قران عاجم"
+      },
+      {
+        "sadr": "وقفى فأضحى يالستار كأنه",
+        "ajuz": "خليع رجال فوق علياء صائم"
+      },
+      {
+        "sadr": "قليل التأني مستتب كأنه",
+        "ajuz": "لها واسق ينجو بها الليل غانم"
+      },
+      {
+        "sadr": "فورك قدرا بالشمال وضلفعا",
+        "ajuz": "وحاذته أعلام لها ومخارم"
+      },
+      {
+        "sadr": "وأم بها ماء الرسيس فصوبت",
+        "ajuz": "للينة وانقض النجوم العوائم"
+      },
+      {
+        "sadr": "فلم أر موسوقا أقل وتيرة",
+        "ajuz": "ولا واسقا ما لم تخنه القوائم"
+      }
+    ],
+    "translationEn": "A blazing noon when its gazelles cannot settle — its landmarks crowned by the mirage with turbans. You see the dust-colored kicking gazelles in it as if fire has scorched their shanks and burned them. I faced it head-on, riding the back of a worn plain — its pebbles ground fine, smoothed by hooves. You can see it when it climbs the ridges — clear for one who travels and in night wanders dark. I urged upon it a free-flanked swift she-camel, raised on swift feet like tent-poles. You would think the bright of her flank and sides was tar-stain thickened by the pitch-cauldrons. The pebbles of the hard ground scatter between her strides when her matching legs spring and throw. Scattering like a merchant's coins he flicks with his thumbs above his fingers. As if I dressed the saddle on a four-year-old roaming stallion, enclosed by the valley of Jaba and the gullies. He came before the water of al-Rass, nomad and settled, with the brimming deep pools within reach. He turned aside and by al-Salil at midday was as if a man's stripped prey standing high on an eminence. He turns his head to sounds and smells, a leader — his arrow-shaft rubbed smooth by bite-marks on the wood. Deep-sunken in the curve, his orbit's dwelling — he has a gaze that shoots the unseen, fixed. A head like a merchant's packed male ass — as if a thrower has hurled boulders at his brows. His mouth is like the back of a saddle-frame that has betrayed its nails, its bending aggravated. Both his nostrils breathing and scattered, dripping with the flow from the nasal cavities. They stand waiting for his decision, themselves the guided ones for the well, steady. On the side of the water he was seeking to quench his thirst — a crawler expert in hunting. Behind him a hide-crouching listener — long-fasting, experienced, knowing. Expert at arranging flat stones — no wild she-animal escapes him when he is awake on his watch. When a cleared-sky night drove it to the confused pool where the serpents were imprisoned — when it came near the water it smelt the troughs, and the coward feared his death where he stood. They met with it until when its legs tilted downward, he aimed at it as it was drinking and distracted. Exhausted from the midday journey, as if it was a man just recovered from a fever left by Salama. Subtle as the echo of the rock — no wild she-beast beguiles him at a watching point when he is decisive. A man of hides — always as if when he misses game from the wild beasts, he is a debtor. He turns over insects and the fletcher selects from the feathers what the leading-feathers have wrapped. They left full from the points of hard rock, vomiting and dripping the fast-flowing venom. And a yellow bow — its frame tightened by the wood on the dew and moisture, dark red, hidden in color. When its midsection was bent it hummed like a young she-camel lowing over the stuffed hide. He aimed it in the darkness of night, a sturdy coat for their rumps, until the water came — obliged. When he intended the shot on a day and he aimed — a cunning jinn-voice deflected his arrow, sharp. It passed over the smooth sinew of the forearms — the hillocks hardly slowed them. It passed by the sides of both hands — his shaft, and sometimes death turns away from the soul. He bit his thumb-tips in regret, and secretly mourned for his mother while regretting. He said: indeed what a failure, from a hand — and a cutter has severed your fingertips by this last strike. He rose seeking his blade and his shaft — two separate things — while he was stricken with grief and dazed. A male wild ass brayed at them, his hooves like the stones of date-pits, bitten hard. He turned back and by morning at the Sistar was as if a man expelled from men, fasting on a high ground. Unhurried in his deliberateness, yet set on his path — as if he is a loader for her, escaping with her by night as a winner. He swerved left around a pot of the north and a wide flat stone — her landmarks and mountain-passes flanked him. He headed for the water of al-Rasis and it descended toward Layna — the floating stars fell. I have not seen a loaded beast of less stumbling, nor a loader of the like — as long as his legs do not betray him.",
+    "vocabularyHighlights": [
+      {"word": "الهاجرة", "meaning": "the blazing midday heat"},
+      {"word": "الكاسعات", "meaning": "she-camels or gazelles kicking their legs"},
+      {"word": "اللاحب", "meaning": "a well-worn road or flat plain"},
+      {"word": "القترة", "meaning": "a hide or blind used by hunters"},
+      {"word": "المربوع", "meaning": "the middle section of a bow"},
+      {"word": "العكوة", "meaning": "the thick base of a tail (or bend of a valley)"},
+      {"word": "الجراثم", "meaning": "ant-hills, mounds of earth"}
+    ],
+    "context": "Ka'b's most extensive nature-description poem: a complete hunt narrative set during blazing midday heat, following a wild ass to water, the hidden archer's failed shot, and the prey's escape — a masterpiece of classical Arabic descriptive poetry."
+  },
+  {
+    "id": "kab-ibn-zuhayr-27",
+    "poetId": "kab-ibn-zuhayr",
+    "titleAr": "تقول ابنتي ألهى أبي حب أرضه",
+    "titleEn": "My daughter says: my father is distracted by love of his land",
+    "genre": "hikma",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "تقول ابنتي ألهى أبي حب أرضه",
+        "ajuz": "وأعجبه إلف لها ولزومها"
+      },
+      {
+        "sadr": "بل الهى أباها أنه في عصابة",
+        "ajuz": "برهمان أمسى لا يعاد سقيمها"
+      },
+      {
+        "sadr": "تساقوا بماء من بلاد كأنه",
+        "ajuz": "دماء الأفاعي لا يبل سليمثها"
+      },
+      {
+        "sadr": "مجاجات حيات إذا شربوا بها",
+        "ajuz": "سما فيهم سوارها وهميمها"
+      }
+    ],
+    "translationEn": "My daughter says: my father has been distracted by his love of his land and his fondness for staying in it. No — what has distracted her father is that he is in a band at Rahman, where the sick among them cannot be visited. They drank a water from lands that is like the blood of vipers — it does not cure one bitten by a snake. The venom of serpents — when they drank it, its crawling and its hissing spread among them.",
+    "vocabularyHighlights": [
+      {"word": "إلف", "meaning": "attachment, fondness, habit of companionship"},
+      {"word": "عصابة", "meaning": "a band, a group of men"},
+      {"word": "برهمان", "meaning": "a place name"},
+      {"word": "سليم", "meaning": "one bitten by a snake (euphemism)"},
+      {"word": "مجاجات", "meaning": "spittle, venom spat out"},
+      {"word": "السوار", "meaning": "the crawling of snake venom through the body"},
+      {"word": "الهميم", "meaning": "the hissing or crawling motion of a snake"}
+    ],
+    "context": "A brief personal poem in which Ka'b responds to his daughter's concern about his absence, explaining he is with companions in a dangerous place where the water itself is like venom — possibly referring to a military campaign or tribal expedition."
+  },
+  {
+    "id": "kab-ibn-zuhayr-28",
+    "poetId": "kab-ibn-zuhayr",
+    "titleAr": "أمن دمنة الدار أقوت سنينا",
+    "titleEn": "From the ruin of the abode desolate for years",
+    "genre": "wasf",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "أمن دمنة الدار أقوت سنينا",
+        "ajuz": "بكيت فظلت كئيبا حزينا"
+      },
+      {
+        "sadr": "بها جرت الريح أذيالها",
+        "ajuz": "فلم تبق من رسمها مستبينا"
+      },
+      {
+        "sadr": "فلما رأيت بأن البكاء",
+        "ajuz": "سفاه لدى دمن قد بلينا"
+      },
+      {
+        "sadr": "زجرت على ما لدي القلو",
+        "ajuz": "ص من حزن وعصيت الشؤونا"
+      },
+      {
+        "sadr": "وكنت إذا ما اعترتني الهموم",
+        "ajuz": "أكلفها ذات لوث أمونا"
+      },
+      {
+        "sadr": "عذافرة حرة الليط لا",
+        "ajuz": "سقوطا ولا ذات ضغن لجونا"
+      },
+      {
+        "sadr": "كأني شددت بأنساعها",
+        "ajuz": "قويرح عامين جأبا شنونا"
+      },
+      {
+        "sadr": "يقلب حقبا ترى كلهن",
+        "ajuz": "قد حملت وأسرت جنينا"
+      },
+      {
+        "sadr": "وحلأهن وخب السفا",
+        "ajuz": "وهيجهن فلما صدينا"
+      },
+      {
+        "sadr": "وأخلفهن ثماد الغمار",
+        "ajuz": "وما كن من ثادق يحتسينا"
+      },
+      {
+        "sadr": "جعلن القنان بإبط الشمال",
+        "ajuz": "وماء العناب جعلن اليمينا"
+      },
+      {
+        "sadr": "وبصبصن بين أداني الغضا",
+        "ajuz": "وبين عنيزة شأوا بطينا"
+      },
+      {
+        "sadr": "فابقين منه وأبقى الطرا",
+        "ajuz": "د بطنا خميصا وصلبا سمينا"
+      },
+      {
+        "sadr": "وعوجا خفافا سلام الشظى",
+        "ajuz": "وميظب أكم صليبا رزينا"
+      },
+      {
+        "sadr": "إذا ما انتحاهن شؤبوبه",
+        "ajuz": "رأيت لجاعرتيه غضونا"
+      },
+      {
+        "sadr": "يعضضهن عضيض الثقا",
+        "ajuz": "ف بالسمهرية حتى تلينا"
+      },
+      {
+        "sadr": "ويكدم أكفالها عابسا",
+        "ajuz": "فبالشد من شره يتقينا"
+      },
+      {
+        "sadr": "إذا ما انتحت ذات ضغن له",
+        "ajuz": "أصر فقد سل منها ضغونا"
+      },
+      {
+        "sadr": "له خلف أدبارها أزمل",
+        "ajuz": "مكان الرقيب من الياسرينا"
+      },
+      {
+        "sadr": "يحشرج منهن قيد الذراع",
+        "ajuz": "ويضربن خيسومه والجبينا"
+      },
+      {
+        "sadr": "فأوردها طاميات الجمام",
+        "ajuz": "وقد كن يأجن أو كن جونا"
+      },
+      {
+        "sadr": "يثرن الغبار على وجهه",
+        "ajuz": "كلون الدواخن فوق الإرينا"
+      },
+      {
+        "sadr": "ويشربن من بارد قد علم",
+        "ajuz": "ن أن لا دخال وأن لا عطونا"
+      },
+      {
+        "sadr": "وتنفي الضفادع أنفاسها",
+        "ajuz": "فهن فويق الرجا يرتقينا"
+      },
+      {
+        "sadr": "فصادفن ذا حنق لاصق",
+        "ajuz": "لصوق البرام يظن الظنونا"
+      },
+      {
+        "sadr": "قصير البنان دقيق الشوى",
+        "ajuz": "يقول أيأتين أم لا يجينا"
+      },
+      {
+        "sadr": "يوم الغيابة مستبشرا",
+        "ajuz": "يصيب المقاتل حتفا رصينا"
+      },
+      {
+        "sadr": "فجئن فأوجسن من خشية",
+        "ajuz": "ولم يعترفن لنفر يقينا"
+      },
+      {
+        "sadr": "وتلقي الأكارع في بارد",
+        "ajuz": "شهي مذاقته تحتسينا"
+      },
+      {
+        "sadr": "يبادرن جرعا يواترنه",
+        "ajuz": "كقرع القليب حصى القاذفينا"
+      },
+      {
+        "sadr": "فأمسك ينظر حتى إذا",
+        "ajuz": "دنون من الري أو قد روينا"
+      },
+      {
+        "sadr": "تنحى بصفراء من نبعة",
+        "ajuz": "على الكف تجمع أرزا ولينا"
+      },
+      {
+        "sadr": "معدا على عجسها مرهفا",
+        "ajuz": "فتيق الغرارين حشرا سنينا"
+      },
+      {
+        "sadr": "فارسل سهما على فقرة",
+        "ajuz": "وهن شوارع ما يتقينا"
+      },
+      {
+        "sadr": "فمر على نحره والذراع",
+        "ajuz": "ولم يك ذاك له الفعل دينا"
+      },
+      {
+        "sadr": "فلهف من حسرة أمه",
+        "ajuz": "وولين من رهج يكتسينا"
+      },
+      {
+        "sadr": "تهادى حوافرهن الحصى",
+        "ajuz": "وصم الصخور بها يرتمينا"
+      },
+      {
+        "sadr": "فقلقلهن سراة العشا",
+        "ajuz": "ء أسرع من صدر المصدرينا"
+      },
+      {
+        "sadr": "يزر ويلفظ أوبارها",
+        "ajuz": "ويقرو بهن حزونا حزونا"
+      },
+      {
+        "sadr": "وتحسب في البحر تعشيره",
+        "ajuz": "تغرد أهوج في منتشينا"
+      },
+      {
+        "sadr": "فأصبح بالجزع مستجذلا",
+        "ajuz": "واصبحن مجتمعات سكونا"
+      }
+    ],
+    "translationEn": "From the ruin of the abode desolate for years — I wept and remained sorrowful and grieving. The wind has dragged its skirts across it until nothing of its trace remains visible. When I saw that weeping is foolishness at worn ruins — I urged what grief lay in my heart and disobeyed my flowing tears. Whenever worries beset me I would burden with them a trustworthy she-camel of thick sinew. A massive, free-flanked one — not a stumbler, nor bearing hidden malice, persistent. As if I strapped to her saddle-ropes a two-year-old wild male ass, bony and lean. He turns around she-asses you see all of them as if they have conceived and hidden a foetus. He denied them water and the blowing of sand disturbed them and stirred them — when they thirsted. He led them astray from the small pools of the shallow dunes — they were not going to drink from the flowing spring. They put the Qanan on the left armpit of the north, and the water of al-'Inab they made on their right. They moved step by step between the near reaches of the ghada-wood and 'Unayza, at a slow pace. They left from it — and the pursuit left a gaunt belly and a thick back. And curved-backed, light legs, sound of sinew — and a firm, solid high rocky hill. When his burst of speed came upon them, you saw folds at his haunches. He bit them with the bite of a press on the straight spears until they softened. He bit the rumps frowning — by his running fierceness they protected themselves. When a resentful one made for him, he squealed — and he drew from her her resentments. He has behind their backs a ringing sound — in the place of a guardian to the archer-gamblers. The forearm's length gasps from among them — and they strike his nose and his forehead. He watered them from the brimming pools — though they had grown stagnant or had turned dark. They stirred up dust over his face the color of chimney-smoke above the hearths. They drank from a cold one — they knew there was no crowding of their watering and no being held back. The frogs expelled their breaths — they climbed just above the water's edge. They encountered one of pressing resentment clinging like the sticking of pot-encrustation, harboring suspicions. Short-fingered, thin of shank — he said: will they come or will they not come? On a cloudy day, hopefully — fatally hitting the vital spots solidly. They came and felt dread at his presence — and did not know for certain any men there. Placing their feet in the cold water — pleasant to taste — they drank in sips. They rushed the gulps, taking turns at them like the striking of a bucket's rope against the well's pebbles. He waited, watching — until when they drew near satiety or were sated — he took up his yellow bow of nab'-wood, on the palm combining rigidity and suppleness. Prepared on its grip, sharpened — its two blade-edges honed, fine-pointed. He released an arrow on a vertebra while they were exposed, not guarding themselves. It passed through its throat and foreleg — and that act was not a debt it owed. He lamented the anguish of his mother — and they turned away wrapped in the rising dust. Their hooves moved easily over the pebbles, and the solid rocks were struck by them in flight. The evening hours stirred them faster than the chest of one returning from watering. He shed and expelled their fur, tracking them ridge by ridge. In the expanse you would think his neighing was a reckless drunk singer among those intoxicated. He lay at dawn in the valley-trees cut down, and they settled down calm together.",
+    "vocabularyHighlights": [
+      {"word": "الدمنة", "meaning": "the ruins of a campsite blackened by fire and dung"},
+      {"word": "أقوت", "meaning": "became desolate, emptied of inhabitants"},
+      {"word": "الأمون", "meaning": "a trustworthy, reliable she-camel"},
+      {"word": "العذافرة", "meaning": "a massive, powerful she-camel"},
+      {"word": "الثماد", "meaning": "small pools of water, shallow waterholes"},
+      {"word": "الغيابة", "meaning": "cloudy, overcast day (providing cover for a hunter)"},
+      {"word": "الجزع", "meaning": "the inner bend of a valley with trees"}
+    ],
+    "context": "A long poem in the mutaqarib meter — a rarity for Ka'b — opening with ruins and grief then transitioning into an extended hunt narrative in which a wild male ass drives his herd to water and an archer waits in ambush. The poem is remarkable for its sustained animal description."
+  },
+  {
+    "id": "kab-ibn-zuhayr-29",
+    "poetId": "kab-ibn-zuhayr",
+    "titleAr": "هلم إلينا آل بهثة إنما",
+    "titleEn": "Come to us, clan of Bahtha — for the land",
+    "genre": "fakhr",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "هلم إلينا آل بهثة إنما",
+        "ajuz": "هي الدار لا نعتافها ونهينها"
+      },
+      {
+        "sadr": "هلم إلى ذبيان إن بلادها",
+        "ajuz": "حصون وان السمهري قرونها"
+      },
+      {
+        "sadr": "ولا ألفينكم تعكفون بقنة",
+        "ajuz": "بتثليث أنتم جندها وقطينها"
+      }
+    ],
+    "translationEn": "Come to us, clan of Bahtha — for this land: we do not consider it ominous, nor do we forbid it. Come to Dhubyan — for its lands are fortresses and the straight spears are their horns. Do not let me find you encamped on a peak at Tathlith — you being its army and its subjects.",
+    "vocabularyHighlights": [
+      {"word": "آل بهثة", "meaning": "the clan of Bahtha, a branch of Ghatafan"},
+      {"word": "نعتافها", "meaning": "to consider a place ominous, to avoid it as ill-omened"},
+      {"word": "ذبيان", "meaning": "Ka'b's tribe, a major branch of Ghatafan"},
+      {"word": "السمهري", "meaning": "a straight, hard spear (attributed to the people of Samhar)"},
+      {"word": "قنة", "meaning": "a mountain peak, a high summit"},
+      {"word": "تثليث", "meaning": "a place name in Arabia"},
+      {"word": "القطين", "meaning": "the settled dependents, the subjects"}
+    ],
+    "context": "A brief poem inviting the clan of Bahtha to join Dhubyan, Ka'b's tribe, asserting tribal pride and warning them not to settle in subjugation at Tathlith but rather to come under the protection of the proud Dhubyan."
+  },
+  {
+    "id": "kab-ibn-zuhayr-30",
+    "poetId": "kab-ibn-zuhayr",
+    "titleAr": "بكرت علي بسحرة تلحاني",
+    "titleEn": "She came to me early at dawn to rebuke me",
+    "genre": "wasf",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "بكرت علي بسحرة تلحاني",
+        "ajuz": "وكفى بها جهلا وطيش لسان"
+      },
+      {
+        "sadr": "ولقد حفظت وصاة من هو ناصح",
+        "ajuz": "لي عالم بمآقط الخلان"
+      },
+      {
+        "sadr": "حتى إذا برت العظام زجرتها",
+        "ajuz": "زجر الضنين بعرضه الغضبان"
+      },
+      {
+        "sadr": "فرأيتها طلحت مخافة نهكة",
+        "ajuz": "مني وبادرة ، وأي أوان"
+      },
+      {
+        "sadr": "ولقد علمت وأنت غير حليمة",
+        "ajuz": "ألا يقربني هوى لهوان"
+      },
+      {
+        "sadr": "هبلتك أمك هل لديك فترشدي",
+        "ajuz": "في آخر الأيام من تبيان"
+      },
+      {
+        "sadr": "أرعى الأمانة لا أخون ولا أرى",
+        "ajuz": "أبدا أدمن عرصة الخوان"
+      },
+      {
+        "sadr": "وتنكرت لي بعد ود ثابت",
+        "ajuz": "أنى تجامع وصل ذي الألوان"
+      },
+      {
+        "sadr": "يوما طواعك في القياد وتارة",
+        "ajuz": "تلقاك تنكرها من الشنآن"
+      },
+      {
+        "sadr": "طورا تلاقيه أخاك وتارة",
+        "ajuz": "تلقاه تحسبه من السودان"
+      },
+      {
+        "sadr": "ومريضة قفر يحاذر شرها",
+        "ajuz": "من هولها قمن من الحدثان"
+      },
+      {
+        "sadr": "غبراء خاضعة الصوى جاوزتها",
+        "ajuz": "ليلا بكاتمة السرى مذعان"
+      },
+      {
+        "sadr": "حرف تمد زمامها بعذافر",
+        "ajuz": "كالجذع شذب ليفه الريان"
+      },
+      {
+        "sadr": "غضبى لمنسمها صياح بالحصى",
+        "ajuz": "وقع القدوم بغضرة الأفنان"
+      },
+      {
+        "sadr": "تستشرف الأشباح وهي مشيحة",
+        "ajuz": "ببصيرة وحشية الإنسان"
+      },
+      {
+        "sadr": "خوصاء صافية تجود بمائها",
+        "ajuz": "وسط النهار كنطفة الحران"
+      },
+      {
+        "sadr": "تنفي الظهيرة والغبار بحاجب",
+        "ajuz": "كالكهف صينت دونه بصيان"
+      },
+      {
+        "sadr": "زهراء مقلتها تردد فوقها",
+        "ajuz": "عند المعرس مدلج القردان"
+      },
+      {
+        "sadr": "أعيت مذارعها عليه كأنما",
+        "ajuz": "تنمي أكارعه على صفوان"
+      },
+      {
+        "sadr": "فتعجرفت وتعرضت لقلائص",
+        "ajuz": "خوص العيون خواضع الأذقان"
+      },
+      {
+        "sadr": "شبهتها لهق السراة ملمعا",
+        "ajuz": "منه القوائم طاوي المصران"
+      },
+      {
+        "sadr": "فغدا بمعتدلين لم يسلبهما",
+        "ajuz": "لا فيهما عوج ولا نقدان"
+      },
+      {
+        "sadr": "وكلاهما تحت الضباب كأنما",
+        "ajuz": "دهن المثقف ليطه بدهان"
+      },
+      {
+        "sadr": "وغدا بسامعتي وأى أعطاهما",
+        "ajuz": "حذرا وسمعا خالق الآذان"
+      }
+    ],
+    "translationEn": "She came to me early at dawn to rebuke me — and that is sufficient as ignorance and rashness of tongue. I have kept the counsel of one who is sincere to me, knowing the vulnerable spots of friends. Until when the bones grew lean I drove her off — the driving of one jealous of his honor, angered. I saw her tire from fear of being worn down by me — and she rushed away, at what a time! You have known, though you are not forbearing, that desire never brings me close to humiliation. May your mother mourn you — do you have in these last days any clarification to offer that might guide? I keep trust — I do not betray, and I am never seen frequenting the yard of the treacherous. You became strange to me after an established love — how can the bond of one of changing colors reconcile? One day yielding to the lead, another time you meet it estranged from aversion. Sometimes you meet it as your brother, other times you meet it and think it is from the Sudanese. A desolate plain-sickness — whose evil the cautious fears — its terrors are close to calamities. A dust-colored, low-landmarked stretch — I crossed it at night on a concealer of travel, compliant. A lean she-camel stretching her halter with a massive beast — like a trunk whose lush fiber has been stripped. Angry with her foot-pad — the pebbles cry at her like the blow of an axe on a green branch. She raises her gaze at figures — alert, with the wild sharpness of instinct. Sunken-eyed, clear — giving freely of her sweat in the midday heat like the dripping of a thirsty one. She repels the midday heat and the dust with a brow — like a cave guarded before it by a wall of stones. Bright-eyed — her gaze wanders above her at the halting-place as the tick-gatherer passes at night. Her forelegs gave out on him — as if his feet grow on smooth rock. She strutted and challenged young she-camels with sunken eyes and lowered chins. I likened her to a white-backed, dapple-legged creature — gaunt of belly. He set off with two straight ones — neither stripped of their fine form, no crookedness in them nor roughness. Both of them under the mist — as if the straightener has oiled their smooth surfaces with oil. He set off with alert ears — He who created ears gave them caution and acute hearing.",
+    "vocabularyHighlights": [
+      {"word": "بسحرة", "meaning": "at the pre-dawn hour, at early morning"},
+      {"word": "تلحاني", "meaning": "she reproaches me, rebukes me"},
+      {"word": "مآقط", "meaning": "the vulnerable spots, the points of weakness"},
+      {"word": "الضنين", "meaning": "one jealous of his honor, protective"},
+      {"word": "المنسم", "meaning": "the foot-pad of a camel"},
+      {"word": "مشيحة", "meaning": "alert, determined, on guard"},
+      {"word": "القردان", "meaning": "ticks (the parasites on camels)"}
+    ],
+    "context": "A qasida beginning with Ka'b's wife reproaching him at dawn, his firm response asserting his trustworthiness and pride, then transitioning into a description of a lean she-camel and a wild ass with two horns — the typical three-section classical ode structure."
+  }
+]

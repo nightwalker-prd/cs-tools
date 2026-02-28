@@ -1,0 +1,37 @@
+{
+  "playlistId": "PLzn0qdi6JpdvIpG9nQ-64c9CZEVwbatFI",
+  "playlistTitle": "First Steps to Understanding Arabic: Unit 5",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PLzn0qdi6JpdvIpG9nQ-64c9CZEVwbatFI",
+  "extractedAt": "2026-02-15T19:20:05Z",
+  "videoCount": 4,
+  "videos": [
+    {
+      "index": 1,
+      "videoId": "c_LpvGbmdG0",
+      "title": "FSTU Arabic -  خَبَرٌ as a جُمْلَةٌ صُغْرَي: The خَبَرٌ as a جُمْلَةُ اِسْمِيَّةُ",
+      "url": "https://www.youtube.com/watch?v=c_LpvGbmdG0",
+      "duration": 379
+    },
+    {
+      "index": 2,
+      "videoId": "Fnc5HA_AwIQ",
+      "title": "FSTU Arabic -  خَبَرٌ as a جُمْلَةٌ صُغْرَي: The خَبَرٌ as a جُمْلةُ فِعْلِيَّة",
+      "url": "https://www.youtube.com/watch?v=Fnc5HA_AwIQ",
+      "duration": 442
+    },
+    {
+      "index": 3,
+      "videoId": "srr6nLbTq8E",
+      "title": "FSTU Arabic - Supplement: Past tense with a فِعْلٌ مُضَارِعٌ",
+      "url": "https://www.youtube.com/watch?v=srr6nLbTq8E",
+      "duration": 250
+    },
+    {
+      "index": 4,
+      "videoId": "1kK2AH0dzmw",
+      "title": "FSTU Arabic - Differentiating Between مُبْتَدَأٌ and مُقَدَّمٌ Slots",
+      "url": "https://www.youtube.com/watch?v=1kK2AH0dzmw",
+      "duration": 704
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "playlistId": "PLzn0qdi6Jpdsy9vqnVjjCc0Q9u6MkUbeO",
+  "playlistTitle": "Ansaab",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PLzn0qdi6Jpdsy9vqnVjjCc0Q9u6MkUbeO",
+  "extractedAt": "2026-02-15T19:19:44Z",
+  "videoCount": 3,
+  "videos": [
+    {
+      "index": 1,
+      "videoId": "iQP_lKu1DS8",
+      "title": "Al-Ansaab: هند بنت عوف",
+      "url": "https://www.youtube.com/watch?v=iQP_lKu1DS8",
+      "duration": 410
+    },
+    {
+      "index": 2,
+      "videoId": "6JlygqXBLjw",
+      "title": "Al-Ansaab: بنو مخزوم",
+      "url": "https://www.youtube.com/watch?v=6JlygqXBLjw",
+      "duration": 563
+    },
+    {
+      "index": 3,
+      "videoId": "pQCF2A-gWmk",
+      "title": "Al-Ansaab: آل أبي بكر",
+      "url": "https://www.youtube.com/watch?v=pQCF2A-gWmk",
+      "duration": 339
+    }
+  ]
+}

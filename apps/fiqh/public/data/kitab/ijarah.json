@@ -1,0 +1,222 @@
+{
+  "id": "ijarah",
+  "titleAr": "كتاب الإجارة",
+  "titleEn": "Hiring",
+  "order": 10,
+  "categoryId": "muamalat",
+  "pageRange": [
+    91,
+    95
+  ],
+  "abwab": [
+    {
+      "id": "ijarah-main",
+      "kitabId": "ijarah",
+      "titleAr": "كتاب الإجارة",
+      "titleEn": "Hiring",
+      "order": 1,
+      "sections": [
+        {
+          "id": "ijarah-main-1-1",
+          "babId": "ijarah-main",
+          "kitabId": "ijarah",
+          "titleAr": "كتاب الإجارة",
+          "titleEn": "Hiring",
+          "order": 1,
+          "textAr": "الإجارة: عقد على المنافع بعوض\n\nولا تصح حتى تكون المنافع معلومة والأجرة معلومة وما جاز أن يكون ثمنا في البيع جاز أن يكون أجرة في الإجارة\n\nوالمنافع تارة تصير معلومة بالمدة كاستئجار الدور للسكنى والأرضين للزراعة فيصح العقد على مدة معلومة أي مدة كانت وتارة تصير معلومة بالعمل والتسمية كمن استأجر رجلا على صبغ ثوب أو خياطته أو استأجر دابة ليحمل عليها مقدارا معلوما أو يركبها مسافة سماها وتارة تصير معلومة بالتعيين والإشارة كمن استأجر رجلا لينقل له هذا الطعام إلى موضع معلوم\n\nويجوز استئجار الدور والحوانيت للسكنى وإن لم يبين ما يعمل فيها وله أن يعمل كل شيء إلا الحداد والقصار والطحان\n\nويجوز استئجار الأراضي للزراعة ولا يصح العقد حتى يسمي ما يزرع فيها أو يقول: على أن يزرع فيها ما شاء",
+          "sourcePage": 91,
+          "masail": [
+            {
+              "id": "masalah-ijarah-main-1-1",
+              "sectionId": "ijarah-main-1-1",
+              "kitabId": "ijarah",
+              "titleAr": "كتاب الإجارة",
+              "titleEn": "Hiring",
+              "rulingAr": "الإجارة: عقد على المنافع بعوض\n\nولا تصح حتى تكون المنافع معلومة والأجرة معلومة وما جاز أن يكون ثمنا في البيع جاز أن يكون أجرة في الإجارة\n\nوالمنافع تارة تصير معلومة بالمدة كاستئجار الدور للسكنى والأرضين للزراعة فيصح العقد على مدة معلومة أي مدة كانت وتارة تصير معلومة بالعمل والتسمية كمن استأجر رجلا على صبغ ثوب أو خياطته أو استأجر دابة ليحمل عليها مقدارا معلوما أو يركبها مسافة سماها وتارة تصير معلومة بالتعيين والإشارة كمن استأجر رجلا لينقل له هذا الطعام إلى موضع معلوم\n\nويجوز استئجار الدور والحوانيت للسكنى وإن لم يبين ما يعمل فيها وله أن يعمل كل شيء إلا الحداد والقصار والطحان\n\nويجوز استئجار الأراضي للزراعة ولا يصح العقد حتى يسمي ما يزرع فيها أو يقول: على أن يزرع فيها ما شاء",
+              "rulingEn": "Hiring (ijarah) is a contract over benefits in exchange for compensation.\n\nIt is not valid unless the benefits are known and the rent is known. Whatever may serve as a price in a sale may serve as rent in a hiring contract.\n\nBenefits sometimes become known by duration -- such as hiring houses for residence and land for farming -- so the contract is valid for any known period, whatever it may be. They sometimes become known by the work and its specification -- such as hiring a man to dye a cloth or sew it, or hiring an animal to carry a known quantity or to ride it a specified distance. They sometimes become known by designation and pointing -- such as hiring a man to transport this food to a known place.\n\nHiring houses and shops for residence is permissible even without specifying what will be done in them. The tenant may do anything except blacksmithing, laundering, and milling.\n\nHiring land for farming is permissible, but the contract is not valid unless the crop to be planted is specified, or the tenant says: \"to plant whatever I wish.\"",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "Hiring (ijarah) is a contract over benefits in exchange for compensation.\n\nIt is not valid unless the benefits are known and the rent is known. Whatever may serve as a price in a sale may serve as rent in a hiring contract.\n\nBenefits sometimes become known by duration -- such as hiring houses for residence and land for farming -- so the contract is valid for any known period, whatever it may be. They sometimes become known by the work and its specification -- such as hiring a man to dye a cloth or sew it, or hiring an animal to carry a known quantity or to ride it a specified distance. They sometimes become known by designation and pointing -- such as hiring a man to transport this food to a known place.\n\nHiring houses and shops for residence is permissible even without specifying what will be done in them. The tenant may do anything except blacksmithing, laundering, and milling.\n\nHiring land for farming is permissible, but the contract is not valid unless the crop to be planted is specified, or the tenant says: \"to plant whatever I wish.\""
+        },
+        {
+          "id": "ijarah-main-1-2",
+          "babId": "ijarah-main",
+          "kitabId": "ijarah",
+          "titleAr": "كتاب الإجارة",
+          "titleEn": "Hiring",
+          "order": 2,
+          "textAr": "ويجوز أن يستأجر الساحة ليبني فيها أو يغرس فيها نخلا أو شجرا فإذا انقضت مدة الإجارة لزمه أن يقلع البناء والغرس ويسلمها فارغة إلا أن يختار صاحب الأرض أن يغرم له قيمة ذلك مقلوعا فيملكه أو يرضى بتركه على حاله فيكون البناء لهذا والأرض لهذا\n\nويجوز استئجار الدواب للركوب والحمل فإن قال: على أن يركبها فلان أو يلبس الثوب فلان فأركبها غيره أو ألبسه غيره كان ضامنا إن عطبت الدابة أو تلف الثوب\n\nوكذلك كل ما يختلف باختلاف المستعمل\n\nوأما العقار\n\nوما لا يختلف باختلاف المستعمل فلا ضمان عليه فإذا شرط سكنى واحد فله أن يسكن غيره وإن سمى نوعا أو قدرا يحمله على الدابة مثل أن يقول: خمسة أقفزة حنطة فله أن يحمل ما هو مثل الحنطة في الضرر أو أقل كالشعير والسمسم وليس له أن يحمل ما هو أضر من الحنطة كالملح والحديد",
+          "sourcePage": 91,
+          "masail": [
+            {
+              "id": "masalah-ijarah-main-1-2",
+              "sectionId": "ijarah-main-1-2",
+              "kitabId": "ijarah",
+              "titleAr": "كتاب الإجارة",
+              "titleEn": "Hiring",
+              "rulingAr": "ويجوز أن يستأجر الساحة ليبني فيها أو يغرس فيها نخلا أو شجرا فإذا انقضت مدة الإجارة لزمه أن يقلع البناء والغرس ويسلمها فارغة إلا أن يختار صاحب الأرض أن يغرم له قيمة ذلك مقلوعا فيملكه أو يرضى بتركه على حاله فيكون البناء لهذا والأرض لهذا\n\nويجوز استئجار الدواب للركوب والحمل فإن قال: على أن يركبها فلان أو يلبس الثوب فلان فأركبها غيره أو ألبسه غيره كان ضامنا إن عطبت الدابة أو تلف الثوب\n\nوكذلك كل ما يختلف باختلاف المستعمل\n\nوأما العقار\n\nوما لا يختلف باختلاف المستعمل فلا ضمان عليه فإذا شرط سكنى واحد فله أن يسكن غيره وإن سمى نوعا أو قدرا يحمله على الدابة مثل أن يقول: خمسة أقفزة حنطة فله أن يحمل ما هو مثل الحنطة في الضرر أو أقل كالشعير والسمسم وليس له أن يحمل ما هو أضر من الحنطة كالملح والحديد",
+              "rulingEn": "It is permissible to hire an open plot to build on or to plant palm trees or trees in it. When the hire period expires, the tenant is required to remove the buildings and plantings and return the land vacant -- unless the landowner chooses to pay him the value of those items uprooted and thereby own them, or agrees to leave them as they are, with the buildings belonging to one party and the land to the other.\n\nHiring riding animals for riding and carrying is permissible. If the hirer says: \"So-and-so will ride it\" or \"So-and-so will wear the garment,\" and a different person rides it or wears it, the hirer is liable if the animal is injured or the garment is ruined.\n\nLikewise for everything that varies with the user.\n\nAs for real property\n\nand what does not vary with the user, there is no liability. If one-person residence is stipulated, another person may reside instead. If a specific type or amount of load for the animal is specified -- such as: \"five qafiz of wheat\" -- the hirer may load what is equivalent to wheat in terms of harm or less, such as barley and sesame. He may not load what is more harmful than wheat, such as salt and iron.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "It is permissible to hire an open plot to build on or to plant palm trees or trees in it. When the hire period expires, the tenant is required to remove the buildings and plantings and return the land vacant -- unless the landowner chooses to pay him the value of those items uprooted and thereby own them, or agrees to leave them as they are, with the buildings belonging to one party and the land to the other.\n\nHiring riding animals for riding and carrying is permissible. If the hirer says: \"So-and-so will ride it\" or \"So-and-so will wear the garment,\" and a different person rides it or wears it, the hirer is liable if the animal is injured or the garment is ruined.\n\nLikewise for everything that varies with the user.\n\nAs for real property\n\nand what does not vary with the user, there is no liability. If one-person residence is stipulated, another person may reside instead. If a specific type or amount of load for the animal is specified -- such as: \"five qafiz of wheat\" -- the hirer may load what is equivalent to wheat in terms of harm or less, such as barley and sesame. He may not load what is more harmful than wheat, such as salt and iron."
+        },
+        {
+          "id": "ijarah-main-1-3",
+          "babId": "ijarah-main",
+          "kitabId": "ijarah",
+          "titleAr": "كتاب الإجارة",
+          "titleEn": "Hiring",
+          "order": 3,
+          "textAr": "وإن استأجرها ليحمل عليها قطناه سماه فليس له أن يحمل مثل وزنه حديدا وإن استأجرها ليركبها فأردف معه رجلا فعطبت ضمن نصف قيمتها ولا يعتبر بالثقل\n\nوإن استأجرها ليحمل عليها مقدرا من الحنطة فحمل أكثر منه فعطبت ضمن ما زاد الثقل\n\nوإذا كبح الدابة بلجامها أو ضربها فعطبت ضمن عند أبي حنيفة\n\nوالأجراء على ضربين:\n\nوأجير مشترك وأجير خاص فالمشترك: من لا يستحق الأجرة حتى يعمل كالصباغ والقصار والمتاع أمانة في يده: إن هلك لم يضمن شيئا عند أبي حنيفة وقال أبو يوسف ومحمد: يضمنه وما تلف بعمله كتخريق الثوب من دقة وزلق الحمال وانقطاع الحبل الذي يشد به المكاري الحمل وغرق السفينة من مدها مضمون إلا أنه لا يضمن به بني آدم فمن غرق في السفينة أو سقط من الدابة ثم يضمنه وإذا قصد الفصاد أو بزغ البزاغ ولم يتجاوز الموضع المعتاد فلا ضمان عليه فيما عطب من ذلك",
+          "sourcePage": 91,
+          "masail": [
+            {
+              "id": "masalah-ijarah-main-1-3",
+              "sectionId": "ijarah-main-1-3",
+              "kitabId": "ijarah",
+              "titleAr": "كتاب الإجارة",
+              "titleEn": "Hiring",
+              "rulingAr": "وإن استأجرها ليحمل عليها قطناه سماه فليس له أن يحمل مثل وزنه حديدا وإن استأجرها ليركبها فأردف معه رجلا فعطبت ضمن نصف قيمتها ولا يعتبر بالثقل\n\nوإن استأجرها ليحمل عليها مقدرا من الحنطة فحمل أكثر منه فعطبت ضمن ما زاد الثقل\n\nوإذا كبح الدابة بلجامها أو ضربها فعطبت ضمن عند أبي حنيفة\n\nوالأجراء على ضربين:\n\nوأجير مشترك وأجير خاص فالمشترك: من لا يستحق الأجرة حتى يعمل كالصباغ والقصار والمتاع أمانة في يده: إن هلك لم يضمن شيئا عند أبي حنيفة وقال أبو يوسف ومحمد: يضمنه وما تلف بعمله كتخريق الثوب من دقة وزلق الحمال وانقطاع الحبل الذي يشد به المكاري الحمل وغرق السفينة من مدها مضمون إلا أنه لا يضمن به بني آدم فمن غرق في السفينة أو سقط من الدابة ثم يضمنه وإذا قصد الفصاد أو بزغ البزاغ ولم يتجاوز الموضع المعتاد فلا ضمان عليه فيما عطب من ذلك",
+              "rulingEn": "If he hires the animal to carry a named quantity of cotton, he may not load the equivalent weight in iron. If he hires it for riding and seats another person with him, and the animal is injured, he is liable for half its value, without regard to weight.\n\nIf he hires it to carry a specified quantity of wheat and loads more, and the animal is injured, he is liable for the excess weight.\n\nIf a person curbs an animal with its bridle or strikes it and it is injured, he is liable according to Abu Hanifa.\n\nHired workers are of two types:\n\nA shared worker (ajir mushtarak) and an exclusive worker (ajir khass). The shared worker is one who does not earn the wage until he completes the work, such as the dyer and the launderer. The property in his hands is a trust: if it perishes, he is not liable for anything according to Abu Hanifa. Abu Yusuf and Muhammad said: he is liable for it. What is ruined by his work -- such as tearing a cloth from beating, a porter slipping, a rope breaking by which the transporter ties the load, and a ship sinking from its being pulled -- is compensable. However, he is not liable for human beings in such cases. Whoever drowns in a ship or falls from an animal, the worker is not liable. If a phlebotomist lets blood or a farrier bleeds an animal and does not exceed the customary area, there is no liability for what is damaged thereby.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "If he hires the animal to carry a named quantity of cotton, he may not load the equivalent weight in iron. If he hires it for riding and seats another person with him, and the animal is injured, he is liable for half its value, without regard to weight.\n\nIf he hires it to carry a specified quantity of wheat and loads more, and the animal is injured, he is liable for the excess weight.\n\nIf a person curbs an animal with its bridle or strikes it and it is injured, he is liable according to Abu Hanifa.\n\nHired workers are of two types:\n\nA shared worker (ajir mushtarak) and an exclusive worker (ajir khass). The shared worker is one who does not earn the wage until he completes the work, such as the dyer and the launderer. The property in his hands is a trust: if it perishes, he is not liable for anything according to Abu Hanifa. Abu Yusuf and Muhammad said: he is liable for it. What is ruined by his work -- such as tearing a cloth from beating, a porter slipping, a rope breaking by which the transporter ties the load, and a ship sinking from its being pulled -- is compensable. However, he is not liable for human beings in such cases. Whoever drowns in a ship or falls from an animal, the worker is not liable. If a phlebotomist lets blood or a farrier bleeds an animal and does not exceed the customary area, there is no liability for what is damaged thereby."
+        },
+        {
+          "id": "ijarah-main-1-4",
+          "babId": "ijarah-main",
+          "kitabId": "ijarah",
+          "titleAr": "كتاب الإجارة",
+          "titleEn": "Hiring",
+          "order": 4,
+          "textAr": "ولأجير الخاص: الذي يستحق الأجرة بتسليم نفسه في المدة وإن لم يعمل كمن استؤجر شهرا للخدمة أو لرعي الغنم ولا ضمان على الأجير الخاص فما تلف في يده ولا ما تلف من عمله\n\nوالإجارة تفسدها الشروط كما تفسد البيع ومن استأجر عبدا للخدمة فليس له أن يسافر\n\nبه إلا أن يشترط ذلك\n\nومن استأجر جملا ليحمل عليه محملا وراكبين إلى مكة جاز وله المحمل المعتاد وإن شاهد\n\nالجمال المحمل فهو أجود وإن استأجر بعيرا ليحمل عليه مقدارا من الزاد فأكل منه في الطريق جاز له أن يرد عوض ما أكل\n\nوالأجرة لا تجب بالعقد وتستحق بأحد معان ثلاثة: إما بشرط التعجيل أو بالتعجيل من غير شرط أو باستيفاء المعقود عليه\n\nومن استأجر دارا فللمؤجر أن يطالبه لأجره كل يوم إلا أن يبين وقت الاستحقاق بالعقد ومن استأجر بعيرا إلى مكة فللجمال أن يطالبه بأجرة\n\nكل مرحلة وليس للقصار والخياط أن يطالب بالأجرة حتى يفرغ من العمل إلا أن يشترط التعجيل",
+          "sourcePage": 91,
+          "masail": [
+            {
+              "id": "masalah-ijarah-main-1-4",
+              "sectionId": "ijarah-main-1-4",
+              "kitabId": "ijarah",
+              "titleAr": "كتاب الإجارة",
+              "titleEn": "Hiring",
+              "rulingAr": "ولأجير الخاص: الذي يستحق الأجرة بتسليم نفسه في المدة وإن لم يعمل كمن استؤجر شهرا للخدمة أو لرعي الغنم ولا ضمان على الأجير الخاص فما تلف في يده ولا ما تلف من عمله\n\nوالإجارة تفسدها الشروط كما تفسد البيع ومن استأجر عبدا للخدمة فليس له أن يسافر\n\nبه إلا أن يشترط ذلك\n\nومن استأجر جملا ليحمل عليه محملا وراكبين إلى مكة جاز وله المحمل المعتاد وإن شاهد\n\nالجمال المحمل فهو أجود وإن استأجر بعيرا ليحمل عليه مقدارا من الزاد فأكل منه في الطريق جاز له أن يرد عوض ما أكل\n\nوالأجرة لا تجب بالعقد وتستحق بأحد معان ثلاثة: إما بشرط التعجيل أو بالتعجيل من غير شرط أو باستيفاء المعقود عليه\n\nومن استأجر دارا فللمؤجر أن يطالبه لأجره كل يوم إلا أن يبين وقت الاستحقاق بالعقد ومن استأجر بعيرا إلى مكة فللجمال أن يطالبه بأجرة\n\nكل مرحلة وليس للقصار والخياط أن يطالب بالأجرة حتى يفرغ من العمل إلا أن يشترط التعجيل",
+              "rulingEn": "The exclusive worker (ajir khass) is one who earns his wage by devoting himself for the period, even if he does not work -- such as one hired for a month for service or herding sheep. There is no liability on the exclusive worker for what perishes in his hands or what is ruined by his work.\n\nHiring contracts are rendered defective by conditions just as sales are. Whoever hires a slave for service may not travel with him unless he stipulates that.\n\nWhoever hires a camel to carry a litter and two riders to Mecca, it is permissible. He is entitled to the customary litter. If the camel-driver has seen\n\nthe litter, that is better. If he hires a camel to carry a specified amount of provisions and consumes some during the journey, he may replace what he consumed.\n\nRent is not due by mere contract. It is earned by one of three means: either by stipulating advance payment, or by actual advance payment without stipulation, or by full utilization of the contracted benefit.\n\nWhoever hires a house, the landlord may demand the rent for each day unless the time of accrual is specified in the contract. Whoever hires a camel to Mecca, the camel-driver may demand the rent for each stage. The launderer and tailor may not demand rent until the work is completed, unless advance payment is stipulated.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "The exclusive worker (ajir khass) is one who earns his wage by devoting himself for the period, even if he does not work -- such as one hired for a month for service or herding sheep. There is no liability on the exclusive worker for what perishes in his hands or what is ruined by his work.\n\nHiring contracts are rendered defective by conditions just as sales are. Whoever hires a slave for service may not travel with him unless he stipulates that.\n\nWhoever hires a camel to carry a litter and two riders to Mecca, it is permissible. He is entitled to the customary litter. If the camel-driver has seen\n\nthe litter, that is better. If he hires a camel to carry a specified amount of provisions and consumes some during the journey, he may replace what he consumed.\n\nRent is not due by mere contract. It is earned by one of three means: either by stipulating advance payment, or by actual advance payment without stipulation, or by full utilization of the contracted benefit.\n\nWhoever hires a house, the landlord may demand the rent for each day unless the time of accrual is specified in the contract. Whoever hires a camel to Mecca, the camel-driver may demand the rent for each stage. The launderer and tailor may not demand rent until the work is completed, unless advance payment is stipulated."
+        },
+        {
+          "id": "ijarah-main-1-5",
+          "babId": "ijarah-main",
+          "kitabId": "ijarah",
+          "titleAr": "كتاب الإجارة",
+          "titleEn": "Hiring",
+          "order": 5,
+          "textAr": "ومن استأجر خبازا ليخبز له في بيته قفيز دقيق بدرهم لم يستحق الأجرة حتى يخرج الخبز من التنور ومن استأجر طباخا ليطبخ له طعاما للوليمة فالغرف عليه ومن استأجر رجلا ليضرب له لبنا استحق الأجرة إذا أقامه عند أبي حنيفة وقال أبو يوسف ومحمد: لا يستحقها حتى يشرجه\n\nوإذا قال للخياط: إن خطت هذا الثوب فارسيا فبدرهم وإن خطته روميا فبدرهمين جاز وأي العلمين عمل استحق الأجرة\n\nوإن قال: إن خطته اليوم فبدرهم وإن خطته غدا فبنصف درهم فإن خاطه اليوم فله درهم وإن خاطه غدا فله أجر مثله عند أبي حنيفة ولا يتجاوز به نصف درهم\n\nوإن قال: إن سكت في هذا الدكان عطارا فبدرهم في الشهر وإن سكنته حدادا فبدرهمين جاز وأي الأمرين فعل استحق المسمى فيه عند أبي حنيفة وقال أبو يوسف ومحمد: الإجارة فاسدة",
+          "sourcePage": 91,
+          "masail": [
+            {
+              "id": "masalah-ijarah-main-1-5",
+              "sectionId": "ijarah-main-1-5",
+              "kitabId": "ijarah",
+              "titleAr": "كتاب الإجارة",
+              "titleEn": "Hiring",
+              "rulingAr": "ومن استأجر خبازا ليخبز له في بيته قفيز دقيق بدرهم لم يستحق الأجرة حتى يخرج الخبز من التنور ومن استأجر طباخا ليطبخ له طعاما للوليمة فالغرف عليه ومن استأجر رجلا ليضرب له لبنا استحق الأجرة إذا أقامه عند أبي حنيفة وقال أبو يوسف ومحمد: لا يستحقها حتى يشرجه\n\nوإذا قال للخياط: إن خطت هذا الثوب فارسيا فبدرهم وإن خطته روميا فبدرهمين جاز وأي العلمين عمل استحق الأجرة\n\nوإن قال: إن خطته اليوم فبدرهم وإن خطته غدا فبنصف درهم فإن خاطه اليوم فله درهم وإن خاطه غدا فله أجر مثله عند أبي حنيفة ولا يتجاوز به نصف درهم\n\nوإن قال: إن سكت في هذا الدكان عطارا فبدرهم في الشهر وإن سكنته حدادا فبدرهمين جاز وأي الأمرين فعل استحق المسمى فيه عند أبي حنيفة وقال أبو يوسف ومحمد: الإجارة فاسدة",
+              "rulingEn": "Whoever hires a baker to bake in his house one qafiz of flour for a dirham, the baker does not earn the wage until he removes the bread from the oven. Whoever hires a cook to cook food for a feast, the serving is upon him. Whoever hires a man to mold bricks for him, the man earns the wage when he stands them upright, according to Abu Hanifa. Abu Yusuf and Muhammad said: he does not earn it until he stacks them.\n\nIf someone says to a tailor: \"If you sew this cloth in the Persian style, then one dirham; and if you sew it in the Roman style, then two dirhams,\" this is valid, and whichever work he performs, he earns that wage.\n\nIf he says: \"If you sew it today, then one dirham; and if you sew it tomorrow, then half a dirham,\" and the tailor sews it today, he earns one dirham. If he sews it tomorrow, he earns a fair wage according to Abu Hanifa, not exceeding half a dirham.\n\nIf he says: \"If you occupy this shop as a perfumer, then one dirham per month; and if you occupy it as a blacksmith, then two dirhams,\" this is valid, and whichever he does, he earns the stipulated amount, according to Abu Hanifa. Abu Yusuf and Muhammad said: the hire is defective.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "Whoever hires a baker to bake in his house one qafiz of flour for a dirham, the baker does not earn the wage until he removes the bread from the oven. Whoever hires a cook to cook food for a feast, the serving is upon him. Whoever hires a man to mold bricks for him, the man earns the wage when he stands them upright, according to Abu Hanifa. Abu Yusuf and Muhammad said: he does not earn it until he stacks them.\n\nIf someone says to a tailor: \"If you sew this cloth in the Persian style, then one dirham; and if you sew it in the Roman style, then two dirhams,\" this is valid, and whichever work he performs, he earns that wage.\n\nIf he says: \"If you sew it today, then one dirham; and if you sew it tomorrow, then half a dirham,\" and the tailor sews it today, he earns one dirham. If he sews it tomorrow, he earns a fair wage according to Abu Hanifa, not exceeding half a dirham.\n\nIf he says: \"If you occupy this shop as a perfumer, then one dirham per month; and if you occupy it as a blacksmith, then two dirhams,\" this is valid, and whichever he does, he earns the stipulated amount, according to Abu Hanifa. Abu Yusuf and Muhammad said: the hire is defective."
+        },
+        {
+          "id": "ijarah-main-1-6",
+          "babId": "ijarah-main",
+          "kitabId": "ijarah",
+          "titleAr": "كتاب الإجارة",
+          "titleEn": "Hiring",
+          "order": 6,
+          "textAr": "ومن استأجر دارا كل شهر بدرهم فالعقد صحيح في شهر واحد فاسد في بقية الشهور إلا أن يسمي جملة شهور معلومة فإن سكن ساعة من الشهر الثاني صح العقد فيه ولزمه ذلك الشهر ولم يكن للمؤجر أن يخرجه منها إلى أن ينقضي وكذلك كل شهر يسكن في أوله\n\nوإذا استأجر دارا سنة بعشرة\n\nدراهم جاز وإن لم يسم قسط كل شهر من الأجرة\n\nويجوز أخذ أجرة الحمام\n\nوالحجام ولا يجوز أخذ عسب التيس ولا يجوز الاستئجار على الأذان والإقامة والحج والغناء والنوح\n\nولا تجوز أجارة المشاع عند أبي حنيفة إلا من الشريك\n\nوقال أبو يوسف ومحمد: إجازة المشاع جائزة ويجوز استئجار الظئر بأجرة معلومة ويجوز بطعامها وكسوتها وليس للمستأجر أن يمنع زوجها من وطئها فإن حبلت كان لهم أن يفسخوا الإجارة إذا خافوا على الصبي من لبنها وعليها أن تصلح طعام الصبي وإن أرضعته في المدة بلبن شاة فلا أجر لها",
+          "sourcePage": 91,
+          "masail": [
+            {
+              "id": "masalah-ijarah-main-1-6",
+              "sectionId": "ijarah-main-1-6",
+              "kitabId": "ijarah",
+              "titleAr": "كتاب الإجارة",
+              "titleEn": "Hiring",
+              "rulingAr": "ومن استأجر دارا كل شهر بدرهم فالعقد صحيح في شهر واحد فاسد في بقية الشهور إلا أن يسمي جملة شهور معلومة فإن سكن ساعة من الشهر الثاني صح العقد فيه ولزمه ذلك الشهر ولم يكن للمؤجر أن يخرجه منها إلى أن ينقضي وكذلك كل شهر يسكن في أوله\n\nوإذا استأجر دارا سنة بعشرة\n\nدراهم جاز وإن لم يسم قسط كل شهر من الأجرة\n\nويجوز أخذ أجرة الحمام\n\nوالحجام ولا يجوز أخذ عسب التيس ولا يجوز الاستئجار على الأذان والإقامة والحج والغناء والنوح\n\nولا تجوز أجارة المشاع عند أبي حنيفة إلا من الشريك\n\nوقال أبو يوسف ومحمد: إجازة المشاع جائزة ويجوز استئجار الظئر بأجرة معلومة ويجوز بطعامها وكسوتها وليس للمستأجر أن يمنع زوجها من وطئها فإن حبلت كان لهم أن يفسخوا الإجارة إذا خافوا على الصبي من لبنها وعليها أن تصلح طعام الصبي وإن أرضعته في المدة بلبن شاة فلا أجر لها",
+              "rulingEn": "Whoever hires a house at one dirham per month: the contract is valid for one month and defective for the remaining months, unless he specifies a total number of known months. If the tenant resides for even a moment of the second month, the contract becomes valid for that month and he is bound for that month, and the landlord may not evict him until it ends. Likewise for every month in whose beginning the tenant resides.\n\nIf someone hires a house for one year for ten\n\ndirhams, it is valid even if he does not specify each month's share of the rent.\n\nTaking the fee of a bathhouse attendant\n\nand a cupper is permissible. Taking the stud fee of a male animal is not permissible. Hiring someone for the adhan, iqamah, Hajj, singing, or wailing is not permissible.\n\nHiring an undivided share is not permissible according to Abu Hanifa except from the co-owner.\n\nAbu Yusuf and Muhammad said: hiring an undivided share is permissible. Hiring a wet nurse for a known wage is permissible, and it is permissible to pay her with her food and clothing. The hirer may not prevent her husband from having intercourse with her. If she becomes pregnant, they may rescind the hire if they fear harm to the infant from her milk. She must prepare the infant's food. If she nurses the infant with sheep's milk during the period, she earns no wage.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "Whoever hires a house at one dirham per month: the contract is valid for one month and defective for the remaining months, unless he specifies a total number of known months. If the tenant resides for even a moment of the second month, the contract becomes valid for that month and he is bound for that month, and the landlord may not evict him until it ends. Likewise for every month in whose beginning the tenant resides.\n\nIf someone hires a house for one year for ten\n\ndirhams, it is valid even if he does not specify each month's share of the rent.\n\nTaking the fee of a bathhouse attendant\n\nand a cupper is permissible. Taking the stud fee of a male animal is not permissible. Hiring someone for the adhan, iqamah, Hajj, singing, or wailing is not permissible.\n\nHiring an undivided share is not permissible according to Abu Hanifa except from the co-owner.\n\nAbu Yusuf and Muhammad said: hiring an undivided share is permissible. Hiring a wet nurse for a known wage is permissible, and it is permissible to pay her with her food and clothing. The hirer may not prevent her husband from having intercourse with her. If she becomes pregnant, they may rescind the hire if they fear harm to the infant from her milk. She must prepare the infant's food. If she nurses the infant with sheep's milk during the period, she earns no wage."
+        },
+        {
+          "id": "ijarah-main-1-7",
+          "babId": "ijarah-main",
+          "kitabId": "ijarah",
+          "titleAr": "كتاب الإجارة",
+          "titleEn": "Hiring",
+          "order": 7,
+          "textAr": "وكل صانع لعمله أثر في العين كالقصار والصباغ فله أن يحبس العين بعد الفراغ من عمله حتى يستوفي الأجرة\n\nومن ليس لعمله أثر فلي له أن يحبس العين بالأجرة كالحمال والملاح\n\nوإذا شرط على الصانع أن يعمل بنفسه فليس له أن يستعمل غيره فإن أطلق له العمل فله أن يستأجر من يعلمه\n\nوإذا اختلف الخياط وصاحب الثوب فقال صاحب الثوب: أمرتك أن تعمله قباء وقال الخياط: قميصا أو قال صاحب الثوب للصباغ: أمرتك أن تصبغه أحمر فصبغته أصفر فالقول قول صاحب الثوب مع يمينه فإن حلف فالخياط ضامن\n\nوإذا قال صاحب الثوب: عملته لي بغير أجرة وقال الصانع: بأجرة فالقول قول صاحب الثوب مع يمينه عند أبي حنيفة وقال\n\nأبو يوسف: إن كان حريفا له فله الأجرة وإن لم يكن حريفا له فلا أجرة له وقال محمد: إن كان الصانع معروفا بهذه الصنعة أن يعمل بالأجرة فالقول قوله أنه عمله بأجرة",
+          "sourcePage": 91,
+          "masail": [
+            {
+              "id": "masalah-ijarah-main-1-7",
+              "sectionId": "ijarah-main-1-7",
+              "kitabId": "ijarah",
+              "titleAr": "كتاب الإجارة",
+              "titleEn": "Hiring",
+              "rulingAr": "وكل صانع لعمله أثر في العين كالقصار والصباغ فله أن يحبس العين بعد الفراغ من عمله حتى يستوفي الأجرة\n\nومن ليس لعمله أثر فلي له أن يحبس العين بالأجرة كالحمال والملاح\n\nوإذا شرط على الصانع أن يعمل بنفسه فليس له أن يستعمل غيره فإن أطلق له العمل فله أن يستأجر من يعلمه\n\nوإذا اختلف الخياط وصاحب الثوب فقال صاحب الثوب: أمرتك أن تعمله قباء وقال الخياط: قميصا أو قال صاحب الثوب للصباغ: أمرتك أن تصبغه أحمر فصبغته أصفر فالقول قول صاحب الثوب مع يمينه فإن حلف فالخياط ضامن\n\nوإذا قال صاحب الثوب: عملته لي بغير أجرة وقال الصانع: بأجرة فالقول قول صاحب الثوب مع يمينه عند أبي حنيفة وقال\n\nأبو يوسف: إن كان حريفا له فله الأجرة وإن لم يكن حريفا له فلا أجرة له وقال محمد: إن كان الصانع معروفا بهذه الصنعة أن يعمل بالأجرة فالقول قوله أنه عمله بأجرة",
+              "rulingEn": "Every craftsman whose work leaves a trace in the item -- such as the launderer and dyer -- may withhold the item after completing his work until he receives the wage.\n\nOne whose work does not leave a trace may not withhold the item for the wage, such as the porter and boatman.\n\nIf it is stipulated that the craftsman work personally, he may not employ another. If the work is left unrestricted, he may hire someone else to do it.\n\nIf the tailor and the cloth-owner disagree, and the cloth-owner says: \"I ordered you to make it into a coat,\" and the tailor says: \"a shirt\" -- or the cloth-owner says to the dyer: \"I ordered you to dye it red,\" but he dyed it yellow -- the word is the cloth-owner's with his oath. If he swears, the tailor is liable.\n\nIf the cloth-owner says: \"You worked on it for me without charge,\" and the craftsman says: \"for a fee,\" the word is the cloth-owner's with his oath, according to Abu Hanifa.\n\nAbu Yusuf said: if the cloth-owner is a regular customer, then the craftsman earns a wage; if not, there is no wage. Muhammad said: if the craftsman is known to practice this craft for a fee, then his word that he did it for a fee is accepted.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "Every craftsman whose work leaves a trace in the item -- such as the launderer and dyer -- may withhold the item after completing his work until he receives the wage.\n\nOne whose work does not leave a trace may not withhold the item for the wage, such as the porter and boatman.\n\nIf it is stipulated that the craftsman work personally, he may not employ another. If the work is left unrestricted, he may hire someone else to do it.\n\nIf the tailor and the cloth-owner disagree, and the cloth-owner says: \"I ordered you to make it into a coat,\" and the tailor says: \"a shirt\" -- or the cloth-owner says to the dyer: \"I ordered you to dye it red,\" but he dyed it yellow -- the word is the cloth-owner's with his oath. If he swears, the tailor is liable.\n\nIf the cloth-owner says: \"You worked on it for me without charge,\" and the craftsman says: \"for a fee,\" the word is the cloth-owner's with his oath, according to Abu Hanifa.\n\nAbu Yusuf said: if the cloth-owner is a regular customer, then the craftsman earns a wage; if not, there is no wage. Muhammad said: if the craftsman is known to practice this craft for a fee, then his word that he did it for a fee is accepted."
+        },
+        {
+          "id": "ijarah-main-1-8",
+          "babId": "ijarah-main",
+          "kitabId": "ijarah",
+          "titleAr": "كتاب الإجارة",
+          "titleEn": "Hiring",
+          "order": 8,
+          "textAr": "والواجب في الأجارة الفاسدة أجر المثل لا يتجاوز به المسمى وإذا قبض المستأجر الدار\n\nفعليه الأجرة وإن لم يسكنها فإن غصبها غاصب من يده سقطت الأجرة وإن وجد به اعيبا يضر بالسكنى فله الفسخ وإذا\n\nخربت الدار أو انقطع شرب الضيعة أو انقطع الماء عن الرحى انفسخت الإجارة\n\nوإذا مات أحد المتعاقدين وقد عقد الإجارة لنفسه انفسخت الإجارة وإن عقدها لغيره لم تنفسخ ويصح شرط الخيار في الإجارة وتنفسخ الإجارة بالأعذار كمن استأجر دكانا في السوق ليتجر فيه فذهب ماله وكمن آجر دارا أو دكانا ثم أفلس ولزمته ديون لا يقدر على قضائها إلا من ثمن ما آجر فسخ القاضي العقد وباعها في الدين\n\nوكمن استأجر دابة ليسافر عليها ثم بدا له من السفر فهو عذر وإن بدا للمكاري من السفر فليس ذلك بعذر",
+          "sourcePage": 91,
+          "masail": [
+            {
+              "id": "masalah-ijarah-main-1-8",
+              "sectionId": "ijarah-main-1-8",
+              "kitabId": "ijarah",
+              "titleAr": "كتاب الإجارة",
+              "titleEn": "Hiring",
+              "rulingAr": "والواجب في الأجارة الفاسدة أجر المثل لا يتجاوز به المسمى وإذا قبض المستأجر الدار\n\nفعليه الأجرة وإن لم يسكنها فإن غصبها غاصب من يده سقطت الأجرة وإن وجد به اعيبا يضر بالسكنى فله الفسخ وإذا\n\nخربت الدار أو انقطع شرب الضيعة أو انقطع الماء عن الرحى انفسخت الإجارة\n\nوإذا مات أحد المتعاقدين وقد عقد الإجارة لنفسه انفسخت الإجارة وإن عقدها لغيره لم تنفسخ ويصح شرط الخيار في الإجارة وتنفسخ الإجارة بالأعذار كمن استأجر دكانا في السوق ليتجر فيه فذهب ماله وكمن آجر دارا أو دكانا ثم أفلس ولزمته ديون لا يقدر على قضائها إلا من ثمن ما آجر فسخ القاضي العقد وباعها في الدين\n\nوكمن استأجر دابة ليسافر عليها ثم بدا له من السفر فهو عذر وإن بدا للمكاري من السفر فليس ذلك بعذر",
+              "rulingEn": "In a defective hiring contract, the obligation is a fair wage (ajr al-mithl), not exceeding the stipulated amount. If the tenant takes possession of the house,\n\nhe owes the rent even if he does not reside in it. If a usurper seizes it from his possession, the rent is waived. If a defect is found that harms residence, the tenant may rescind. If\n\nthe house is ruined, the water supply to the estate is cut off, or the water to the mill is cut off, the hiring contract is automatically rescinded.\n\nIf one of the contracting parties dies and he contracted the hire for himself, the hire is rescinded. If he contracted it for another, it is not rescinded. The option of stipulation is valid in hiring contracts. Hiring contracts are rescinded for valid excuses, such as when someone hires a shop in the market to trade in and then loses his capital; or when someone rents out a house or shop and then becomes insolvent with debts he cannot pay except from the price of what he rented out, the judge rescinds the contract and sells the property for the debt.\n\nLikewise, when someone hires an animal to travel on and then decides not to travel, that is a valid excuse. But if the animal-owner decides not to travel, that is not a valid excuse.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "In a defective hiring contract, the obligation is a fair wage (ajr al-mithl), not exceeding the stipulated amount. If the tenant takes possession of the house,\n\nhe owes the rent even if he does not reside in it. If a usurper seizes it from his possession, the rent is waived. If a defect is found that harms residence, the tenant may rescind. If\n\nthe house is ruined, the water supply to the estate is cut off, or the water to the mill is cut off, the hiring contract is automatically rescinded.\n\nIf one of the contracting parties dies and he contracted the hire for himself, the hire is rescinded. If he contracted it for another, it is not rescinded. The option of stipulation is valid in hiring contracts. Hiring contracts are rescinded for valid excuses, such as when someone hires a shop in the market to trade in and then loses his capital; or when someone rents out a house or shop and then becomes insolvent with debts he cannot pay except from the price of what he rented out, the judge rescinds the contract and sells the property for the debt.\n\nLikewise, when someone hires an animal to travel on and then decides not to travel, that is a valid excuse. But if the animal-owner decides not to travel, that is not a valid excuse."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "muzaraah",
+  "titleAr": "كتاب المزارعة",
+  "titleEn": "Sharecropping",
+  "order": 29,
+  "categoryId": "muamalat",
+  "pageRange": [
+    133,
+    134
+  ],
+  "abwab": [
+    {
+      "id": "muzaraah-intro",
+      "kitabId": "muzaraah",
+      "titleAr": "مقدمة كتاب المزارعة",
+      "titleEn": "Introduction to Sharecropping",
+      "order": 0,
+      "sections": [
+        {
+          "id": "muzaraah-intro-1",
+          "babId": "muzaraah-intro",
+          "kitabId": "muzaraah",
+          "titleAr": "مقدمة",
+          "titleEn": "Introduction",
+          "order": 1,
+          "textAr": "قال أبو حنيفة ﵀: المزارعة بالثلث والربع باطلة وقال أبو يوسف ومحمد: جائزة\n\nوهي عندهما على أربعة أوجه: إذا كانت الأرض والبذر لواحد والعمل والبقر لواحد جازت المزارعة\n\nوإن كانت الأرض لواحد والعمل والبقر والبذر لآخر جازت\n\nوإن كانت الأرض والبقر والبذر لواحد والعمل لآخر جازت\n\nوإن كانت الأرض والبقر لواحد والبذر والعمل لآخر فهي باطلة\n\nولا تصح المزارعة إلا على مدة معلومة\n\nومن شرائطها: أن يكون الخارج مشاعا بينهما فإن شرطا لأحدهما قفزانا مسماة فهي باطلة وكذلك إن شرطا ما على الماذيانات والسواقي\n\nوإذا صحت المزارعة فالخارج بينهما على الشرط فإن لم تخرج الأرض شيئا فلا شيء للعامل\n\nوإذا فسدت المزارعة فالخارج لصاحب البذر فإن كان البذر من قبل رب الأرض فللعامل أجر مثله لا يزاد على مقدار ما شرط له من الخارج وإن كان البذر من قبل العامل فلصاحب الأرض أجر مثلها\n\nوإذا عقدت المزارعة فامتنع صاحب البدر من العمل لم يجبر عليه وإن امتنع الذي ليس من قبله البذر أجبره الحاكم على العمل\n\nوإذا مات أحد المتعاقدين بطلت المزارعة وإذا\n\nانقضت مدة المزارعة والزرع لم يدرك كان على المزارع أجر مثل نصيبه من الأرض إلى أن يستحصد والنفقة على الزرع عليهما على مقدار حقوقهما وأجره الحصاد والرفاع والدياس والتذرية عليهما بالحصص فإن شرطاه في المزارعة على العامل فسدت",
+          "sourcePage": 133,
+          "masail": [
+            {
+              "id": "masalah-muzaraah-intro-1",
+              "sectionId": "muzaraah-intro-1",
+              "kitabId": "muzaraah",
+              "titleAr": "مقدمة",
+              "titleEn": "Introduction",
+              "rulingAr": "قال أبو حنيفة ﵀: المزارعة بالثلث والربع باطلة وقال أبو يوسف ومحمد: جائزة\n\nوهي عندهما على أربعة أوجه: إذا كانت الأرض والبذر لواحد والعمل والبقر لواحد جازت المزارعة\n\nوإن كانت الأرض لواحد والعمل والبقر والبذر لآخر جازت\n\nوإن كانت الأرض والبقر والبذر لواحد والعمل لآخر جازت\n\nوإن كانت الأرض والبقر لواحد والبذر والعمل لآخر فهي باطلة\n\nولا تصح المزارعة إلا على مدة معلومة\n\nومن شرائطها: أن يكون الخارج مشاعا بينهما فإن شرطا لأحدهما قفزانا مسماة فهي باطلة وكذلك إن شرطا ما على الماذيانات والسواقي\n\nوإذا صحت المزارعة فالخارج بينهما على الشرط فإن لم تخرج الأرض شيئا فلا شيء للعامل\n\nوإذا فسدت المزارعة فالخارج لصاحب البذر فإن كان البذر من قبل رب الأرض فللعامل أجر مثله لا يزاد على مقدار ما شرط له من الخارج وإن كان البذر من قبل العامل فلصاحب الأرض أجر مثلها\n\nوإذا عقدت المزارعة فامتنع صاحب البدر من العمل لم يجبر عليه وإن امتنع الذي ليس من قبله البذر أجبره الحاكم على العمل\n\nوإذا مات أحد المتعاقدين بطلت المزارعة وإذا\n\nانقضت مدة المزارعة والزرع لم يدرك كان على المزارع أجر مثل نصيبه من الأرض إلى أن يستحصد والنفقة على الزرع عليهما على مقدار حقوقهما وأجره الحصاد والرفاع والدياس والتذرية عليهما بالحصص فإن شرطاه في المزارعة على العامل فسدت",
+              "rulingEn": "Abu Hanifa (may Allah have mercy on him) said: sharecropping (muzara'ah) for a third or a quarter is void. Abu Yusuf and Muhammad said: it is permissible.\n\nAccording to them [Abu Yusuf and Muhammad], it takes four forms: if the land and seed are from one party and the labor and oxen from the other, the sharecropping is valid.\n\nIf the land is from one party and the labor, oxen, and seed from the other, it is valid.\n\nIf the land, oxen, and seed are from one party and the labor from the other, it is valid.\n\nIf the land and oxen are from one party and the seed and labor from the other, it is void.\n\nSharecropping is not valid except for a known duration.\n\nAmong its conditions: the produce must be shared between them as undivided shares. If they stipulate a specified number of qafiz for one of them, it is void. Likewise if they stipulate what grows on the banks and irrigation channels.\n\nIf the sharecropping is valid, the produce is divided between them according to the stipulation. If the land produces nothing, the worker receives nothing.\n\nIf the sharecropping is void, the produce belongs to the provider of the seed. If the seed is from the landowner, the worker earns a fair wage not exceeding what was stipulated for him from the produce. If the seed is from the worker, the landowner earns a fair rent for his land.\n\nIf the sharecropping contract is concluded and the provider of the seed refuses to work, he is not compelled. If the party who did not provide the seed refuses, the judge compels him to work.\n\nIf one of the contracting parties dies, the sharecropping is voided. If\n\nthe sharecropping period expires and the crop has not ripened, the worker owes a fair rent for his share of the land until the crop is harvested. Expenditure on the crop is upon both of them according to their respective shares. The costs of harvesting, gathering, threshing, and winnowing are upon both of them proportionally. If these costs are stipulated in the sharecropping contract to be upon the worker, the contract is void.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "Abu Hanifa (may Allah have mercy on him) said: sharecropping (muzara'ah) for a third or a quarter is void. Abu Yusuf and Muhammad said: it is permissible.\n\nAccording to them [Abu Yusuf and Muhammad], it takes four forms: if the land and seed are from one party and the labor and oxen from the other, the sharecropping is valid.\n\nIf the land is from one party and the labor, oxen, and seed from the other, it is valid.\n\nIf the land, oxen, and seed are from one party and the labor from the other, it is valid.\n\nIf the land and oxen are from one party and the seed and labor from the other, it is void.\n\nSharecropping is not valid except for a known duration.\n\nAmong its conditions: the produce must be shared between them as undivided shares. If they stipulate a specified number of qafiz for one of them, it is void. Likewise if they stipulate what grows on the banks and irrigation channels.\n\nIf the sharecropping is valid, the produce is divided between them according to the stipulation. If the land produces nothing, the worker receives nothing.\n\nIf the sharecropping is void, the produce belongs to the provider of the seed. If the seed is from the landowner, the worker earns a fair wage not exceeding what was stipulated for him from the produce. If the seed is from the worker, the landowner earns a fair rent for his land.\n\nIf the sharecropping contract is concluded and the provider of the seed refuses to work, he is not compelled. If the party who did not provide the seed refuses, the judge compels him to work.\n\nIf one of the contracting parties dies, the sharecropping is voided. If\n\nthe sharecropping period expires and the crop has not ripened, the worker owes a fair rent for his share of the land until the crop is harvested. Expenditure on the crop is upon both of them according to their respective shares. The costs of harvesting, gathering, threshing, and winnowing are upon both of them proportionally. If these costs are stipulated in the sharecropping contract to be upon the worker, the contract is void."
+        }
+      ]
+    },
+    {
+      "id": "muzaraah-bab-1",
+      "kitabId": "muzaraah",
+      "titleAr": "باب المساقاة",
+      "titleEn": "Orchard Sharecropping",
+      "order": 1,
+      "sections": [
+        {
+          "id": "muzaraah-bab-1-1",
+          "babId": "muzaraah-bab-1",
+          "kitabId": "muzaraah",
+          "titleAr": "باب المساقاة",
+          "titleEn": "Orchard Sharecropping",
+          "order": 1,
+          "textAr": "قال أبو حنيفة: المسافاة بجزء من الثمرة باطلة وقال أبو يوسف ومحمد: جائزة إذا ذكرا مدة معلومة وسميا جزاءا من الثمرة مشاعا\n\nوتجوز المساقاة في النخل والشجر والكرم والرطاب وأصول\n\nالباذنجان فإن دفع نخلا فيه ثمره مساقاة والثمرة تزيد بالعمل جاز وإن كانت قد انتهت لم يجز\n\nوإذا فسدت المساقاة فللعامل أجر مثله وتبطل المساقاة بالموت وتفسخ بالإعذار كما تفسخ الإجارة",
+          "sourcePage": 133,
+          "masail": [
+            {
+              "id": "masalah-muzaraah-bab-1-1",
+              "sectionId": "muzaraah-bab-1-1",
+              "kitabId": "muzaraah",
+              "titleAr": "باب المساقاة",
+              "titleEn": "Orchard Sharecropping",
+              "rulingAr": "قال أبو حنيفة: المسافاة بجزء من الثمرة باطلة وقال أبو يوسف ومحمد: جائزة إذا ذكرا مدة معلومة وسميا جزاءا من الثمرة مشاعا\n\nوتجوز المساقاة في النخل والشجر والكرم والرطاب وأصول\n\nالباذنجان فإن دفع نخلا فيه ثمره مساقاة والثمرة تزيد بالعمل جاز وإن كانت قد انتهت لم يجز\n\nوإذا فسدت المساقاة فللعامل أجر مثله وتبطل المساقاة بالموت وتفسخ بالإعذار كما تفسخ الإجارة",
+              "rulingEn": "Abu Hanifa said: orchard sharecropping (musaqah) for a share of the fruit is void. Abu Yusuf and Muhammad said: it is permissible if they specify a known duration and designate an undivided share of the fruit.\n\nOrchard sharecropping is permissible for palm trees, fruit trees, grapevines, fresh produce, and eggplant roots. If someone hands over palm trees bearing fruit for orchard sharecropping and the fruit will increase with labor, it is valid. If the fruit has already fully ripened, it is not valid.\n\nIf the orchard sharecropping is void, the worker earns a fair wage. Orchard sharecropping is voided by death and is rescinded for valid excuses, just as hiring contracts are rescinded.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "Abu Hanifa said: orchard sharecropping (musaqah) for a share of the fruit is void. Abu Yusuf and Muhammad said: it is permissible if they specify a known duration and designate an undivided share of the fruit.\n\nOrchard sharecropping is permissible for palm trees, fruit trees, grapevines, fresh produce, and eggplant roots. If someone hands over palm trees bearing fruit for orchard sharecropping and the fruit will increase with labor, it is valid. If the fruit has already fully ripened, it is not valid.\n\nIf the orchard sharecropping is void, the worker earns a fair wage. Orchard sharecropping is voided by death and is rescinded for valid excuses, just as hiring contracts are rescinded."
+        }
+      ]
+    }
+  ]
+}

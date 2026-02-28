@@ -1,0 +1,2046 @@
+[
+  {
+    "id": "antara-36",
+    "poetId": "antara",
+    "titleAr": "فانهض لأخذ الثار غير مقصر",
+    "titleEn": "Rise to Take Vengeance",
+    "genre": "fakhr",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "فانهض لأخذ الثار غير مقصر",
+        "ajuz": "حتى تبيد من العداة عديدها"
+      },
+      {
+        "sadr": "جازت ملمات الزمان حدودها",
+        "ajuz": "واستفرغت أيامها مجهودها"
+      },
+      {
+        "sadr": "وقضت علينا بالمنون فعوضت",
+        "ajuz": "بالكره من بيض الليالي سودها"
+      },
+      {
+        "sadr": "بالله ما بال الأحبة أعرضت",
+        "ajuz": "عنا ورامت بالفراق صدودها"
+      },
+      {
+        "sadr": "رضيت مصاحبة البلى واستوطنت",
+        "ajuz": "بعد البيوت قبورها ولحودها"
+      },
+      {
+        "sadr": "حرصت على طول البقاء وإنما",
+        "ajuz": "مبدي النفوس أبادها ليعيدها"
+      },
+      {
+        "sadr": "عبثت بها الأيام حتى أوثقت",
+        "ajuz": "أيدي البلى تحت التراب قيودها"
+      },
+      {
+        "sadr": "فكأنما تلك الجسوم صوارم",
+        "ajuz": "تحت الحمام من اللحود غمودها"
+      },
+      {
+        "sadr": "نسجت يد الأيام من أكفانها",
+        "ajuz": "حللا وألقت بينهن عقودها"
+      },
+      {
+        "sadr": "وكسا الربيع ربوعها أنواره",
+        "ajuz": "لما سقتها الغاديات عهودها"
+      },
+      {
+        "sadr": "وسرى بها نشر النسيم فعطرت",
+        "ajuz": "نفحات أرواح الشمال صعيدها"
+      },
+      {
+        "sadr": "هل عيشة طابت لنا إلا وقد",
+        "ajuz": "أبلى الزمان قديمها وجديدها"
+      },
+      {
+        "sadr": "أو مقلة ذاقت كراها ليلة",
+        "ajuz": "إلا وأعقبت الخطوب هجودها"
+      },
+      {
+        "sadr": "أو بنية للمجد شيد أساسها",
+        "ajuz": "إلا وقد هدم القضاء وطيدها"
+      },
+      {
+        "sadr": "شقت على العليا وفاة كريمة",
+        "ajuz": "شقت عليها المكرمات برودها"
+      },
+      {
+        "sadr": "وعزيزة مفقودة قد هونت",
+        "ajuz": "مهج النوافل بعدها مفقودها"
+      },
+      {
+        "sadr": "ماتت ووسدت الفلاة قتيلة",
+        "ajuz": "يا لهف نفسي إذ رأت توسيدها"
+      },
+      {
+        "sadr": "يا قيس إن صدورنا وقدت",
+        "ajuz": "بها نار بأضلعنا تشب وقودها"
+      }
+    ],
+    "translationEn": "Rise without hesitation to take vengeance until you annihilate the multitudes of your enemies. Time's calamities have exceeded their bounds and exhausted all their effort, decreeing death upon us and exchanging the white nights for black. The beloved ones turned away and sought separation. The dead have settled into their graves as the days wove their shrouds and spring adorned their tombs. Every joy we tasted was worn away by time, and every edifice of glory was ultimately toppled by fate. O Qays, the fire in our chests blazes — rise to avenge what we have lost.",
+    "vocabularyHighlights": [
+      { "word": "الثار", "meaning": "vengeance, blood-revenge" },
+      { "word": "المنون", "meaning": "death, fate (poetic)" },
+      { "word": "اللحود", "meaning": "graves, burial niches (pl. of لحد)" },
+      { "word": "الأكفان", "meaning": "burial shrouds" },
+      { "word": "الغاديات", "meaning": "morning rains, early showers" },
+      { "word": "الوطيد", "meaning": "something firmly established, solid foundation" },
+      { "word": "المكرمات", "meaning": "acts of honor and nobility" },
+      { "word": "الوقود", "meaning": "fuel, that which feeds a fire" }
+    ],
+    "context": "This poem is a call to vengeance addressed to Qays, combining elegiac reflection on the cruelty of time and death with a martial exhortation to rise and fight. It is characteristic of Antara's ability to weave themes of mortality and loss with his warrior ethos."
+  },
+  {
+    "id": "antara-37",
+    "poetId": "antara",
+    "titleAr": "فقولوا لحصن إن تعانى عداوتي",
+    "titleEn": "Tell Husn of My Enmity",
+    "genre": "fakhr",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "فقولوا لحصن إن تعانى عداوتي",
+        "ajuz": "يبيت على نار من الحزن والوجد"
+      },
+      {
+        "sadr": "إذا فاض دمعي واستهل على خدي",
+        "ajuz": "وجاذبني شوقي إلى العلم السعدي"
+      },
+      {
+        "sadr": "أذكر قومي ظلمهم لي وبغيهم",
+        "ajuz": "وقلة إنصافي على القرب والبعد"
+      },
+      {
+        "sadr": "بنيت لهم بالسيف مجدا مشيدا",
+        "ajuz": "فلما تناهى مجدهم هدموا مجدي"
+      },
+      {
+        "sadr": "يعيبون لوني بالسواد وإنما",
+        "ajuz": "فعالهم بالخبث أسود من جلدي"
+      },
+      {
+        "sadr": "فواذل جيراني إذا غبت عنهم",
+        "ajuz": "وطال المدى ماذا يلاقون من بعدي"
+      },
+      {
+        "sadr": "أتحسب قيس أنني بعد طردهم",
+        "ajuz": "أخاف الأعادي أو أذل من الطرد"
+      },
+      {
+        "sadr": "وكيف يحل الذل قلبي وصارمي",
+        "ajuz": "إذا اهتز قلب الضد يخفق كالرعد"
+      },
+      {
+        "sadr": "متى سل في كفي بيوم كريهة",
+        "ajuz": "فلا فرق ما بين المشايخ والمرد"
+      },
+      {
+        "sadr": "وما الفخر إلا أن تكون عمامتي",
+        "ajuz": "مكورة الأطراف بالصارم الهندي"
+      },
+      {
+        "sadr": "نديمي إما غبتما بعد سكرة",
+        "ajuz": "فلا تذكرا أطلال سلمى ولا هند"
+      },
+      {
+        "sadr": "ولا تذكرا لي غير خيل مغيرة",
+        "ajuz": "ونقع غبار حالك اللون مسود"
+      },
+      {
+        "sadr": "فإن غبار الصافنات إذا علا",
+        "ajuz": "نشقت له ريحا ألذ من الند"
+      },
+      {
+        "sadr": "وريحانتي رمحي وكاسات مجلسي",
+        "ajuz": "جماجم سادات حراص على المجد"
+      },
+      {
+        "sadr": "ولي من حسامي كل يوم على الثرى",
+        "ajuz": "نقوش دم تغني الندامى عن الورد"
+      },
+      {
+        "sadr": "وليس يعيب السيف إخلاق غمده",
+        "ajuz": "إذا كان في يوم الوغى قاطع الحد"
+      },
+      {
+        "sadr": "فلله دري كم غبار قطعته",
+        "ajuz": "على ضامر الجنبين معتدل القد"
+      },
+      {
+        "sadr": "وطاعنت عنه الخيل حتى تبددت",
+        "ajuz": "هزاما كأسراب القطاء إلى الورد"
+      },
+      {
+        "sadr": "فزارة قد هيجتم ليث غابة",
+        "ajuz": "ولم تفرقوا بين الضلالة والرشد"
+      }
+    ],
+    "translationEn": "Tell Husn that whoever nurses enmity against me will spend his nights burning with grief and longing. When my tears flow, I remember my people's injustice — how I built their glory with my sword yet they tore down mine, blaming my dark skin while their own deeds are blacker than my complexion. My sword asks no distinction between elder and youth on the day of battle, and my only pride is the Indian blade wrapped in my turban. My companions, when you sober up, speak not of ruined campsites but of charging horses and the perfume of battle-dust. O Fazara, you have roused a lion of the thicket who knows neither error nor right guidance — only the sword.",
+    "vocabularyHighlights": [
+      { "word": "الوجد", "meaning": "intense longing, passionate grief" },
+      { "word": "البغي", "meaning": "injustice, transgression, aggression" },
+      { "word": "الصارم الهندي", "meaning": "the Indian (wootz) sword, famed for sharpness" },
+      { "word": "الصافنات", "meaning": "standing horses (that paw the ground)" },
+      { "word": "الند", "meaning": "aloe-wood incense, a prized perfume" },
+      { "word": "الوغى", "meaning": "the din of battle, warfare" },
+      { "word": "القطاء", "meaning": "sandgrouse (birds), symbol of swift flight" },
+      { "word": "إخلاق الغمد", "meaning": "the worn-out sheath — age of the sword's scabbard" }
+    ],
+    "context": "This poem is a defiant address to Husn (likely Husn ibn Damdam, an enemy of Antara) and to his own tribe of Fazara, asserting his warrior pride and responding to those who mock his African descent. The famous line equating black skin to dark deeds is one of Antara's most celebrated retorts."
+  },
+  {
+    "id": "antara-38",
+    "poetId": "antara",
+    "titleAr": "فسطا علي الدهر سطوة غادر",
+    "titleEn": "Time Struck Me Like a Traitor",
+    "genre": "ghazal",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "فسطا علي الدهر سطوة غادر",
+        "ajuz": "والدهر يبخل تارة ويجود"
+      },
+      {
+        "sadr": "فخر الرجال سلاسل وقيود",
+        "ajuz": "وكذا النساء بخانق وعقود"
+      },
+      {
+        "sadr": "سكري به لا",
+        "ajuz": "ما جنى العنقود"
+      },
+      {
+        "sadr": "يا دهر لا تبق علي فقد دنا",
+        "ajuz": "ما كنت أطلب قبل ذا وأريد"
+      },
+      {
+        "sadr": "فالقتل لي من بعد عبلة راحة",
+        "ajuz": "والعيش بعد فراقها منكود"
+      },
+      {
+        "sadr": "يا عبل! قد دنت المنية فاندبي",
+        "ajuz": "يا عبل! إن تبكي علي فقد"
+      },
+      {
+        "sadr": "بكى صرف الزمان علي وهو حسود",
+        "ajuz": "يا عبل! إن سفكوا دمي"
+      },
+      {
+        "sadr": "ففعائلي في كل يوم ذكرهن جديد",
+        "ajuz": "تدعين عنتر وهو عنك بعيد"
+      },
+      {
+        "sadr": "ولقد لقيت الفرس يا ابنة مالك",
+        "ajuz": "وجيوشها قد ضاق عنها البيد"
+      },
+      {
+        "sadr": "وتموج موج البحر إلا أنها",
+        "ajuz": "لاقت أسودا فوقهن حديد"
+      },
+      {
+        "sadr": "جاروا فحكمنا الصوارم بيننا",
+        "ajuz": "فقضت وأطراف الرماح شهود"
+      },
+      {
+        "sadr": "يا عبل كم من جحفل فرقته",
+        "ajuz": "والجو أسود والجبال تميد"
+      }
+    ],
+    "translationEn": "Time has struck me with the blow of a treacherous foe, now miserly, now generous. The pride of men is their chains and shackles, just as women's pride lies in their necklaces and ornaments. O Time, leave me be — death is now a relief now that Abla has departed, for life without her is cursed misery. O Abla, if they shed my blood, my deeds will be remembered every day anew. I met the Persian armies, their hosts filling the plains, surging like a sea — yet they found lions armored in iron. We let the swords judge between us, and spear-tips bore witness.",
+    "vocabularyHighlights": [
+      { "word": "سطوة", "meaning": "a violent blow, an overpowering assault" },
+      { "word": "غادر", "meaning": "treacherous, perfidious person" },
+      { "word": "المنكود", "meaning": "accursed, ill-fortuned, wretched" },
+      { "word": "المنية", "meaning": "death, fate" },
+      { "word": "صرف الزمان", "meaning": "the blows/turns of time, fate's reversals" },
+      { "word": "الجحفل", "meaning": "a vast army, a great host" },
+      { "word": "العنقود", "meaning": "a bunch of grapes" },
+      { "word": "تميد", "meaning": "to sway, shake, tremble" }
+    ],
+    "context": "A poem of deep personal anguish in which Antara laments the separation from Abla and reflects on the cruelty of fate. The mention of facing Persian armies provides the warrior backdrop against which his vulnerable longing for his beloved is set."
+  },
+  {
+    "id": "antara-39",
+    "poetId": "antara",
+    "titleAr": "ألا قاتل الله الهوى كم بسيفه",
+    "titleEn": "Curse the Sword of Love",
+    "genre": "ghazal",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "ألا قاتل الله الهوى كم بسيفه",
+        "ajuz": "قتيل غرام لا يوسد في اللحد"
+      },
+      {
+        "sadr": "إذا رشقت قلبي سهام من الصد",
+        "ajuz": "وبدل قربي حادث الدهر بالبعد"
+      },
+      {
+        "sadr": "لبست لها درعا من الصبر مانعا",
+        "ajuz": "ولاقيت جيش الشوق منفردا وحدي"
+      },
+      {
+        "sadr": "وبت بطيف منك يا عبل قانعا",
+        "ajuz": "ولو بات يسرى في الظلام على خدي"
+      },
+      {
+        "sadr": "فبالله يا ريح الحجاز تنفسي",
+        "ajuz": "على كبد حرى تذوب من الوجد"
+      },
+      {
+        "sadr": "ويا برق إن عرضت من جانب الحمى",
+        "ajuz": "فحي بني عبس على العلم السعدي"
+      },
+      {
+        "sadr": "وإن خمدت نيران عبلة موهنا",
+        "ajuz": "فكن أنت في أكنافها نير الوقد"
+      },
+      {
+        "sadr": "وخل الندى ينهل فوق خيامها",
+        "ajuz": "يذكرها أني مقيم على العهد"
+      },
+      {
+        "sadr": "عدمت اللقا إن كنت بعد فراقها",
+        "ajuz": "رقدت وما مثلت صورتها عندي"
+      },
+      {
+        "sadr": "وما شاق قلبي في الدجى غير طائر",
+        "ajuz": "ينوح على غصن رطيب من الرند"
+      },
+      {
+        "sadr": "به مثل ما بي فهو يخفى من الجوى",
+        "ajuz": "كمثل الذي أخفي ويبدي إلي أبدي"
+      }
+    ],
+    "translationEn": "Curse love and how many of its victims lie slain, unwept in their graves. When arrows of rejection struck my heart and time exchanged nearness for distance, I donned the armor of patience and faced the army of longing alone. I spend nights content with your phantom, O Abla, though it is only your apparition gliding through darkness. I beseech the Hijaz wind to breathe upon my burning liver melting with grief. O lightning, if you pass near the sanctuary, greet the sons of Abs at the landmark of Sa'd. Let me be deprived of reunion if I ever sleep without her image before me. Only a bird in the darkness stirs my heart, mourning on a green branch of rend-tree, suffering as I do.",
+    "vocabularyHighlights": [
+      { "word": "الغرام", "meaning": "consuming love, passionate attachment" },
+      { "word": "يوسد", "meaning": "to be laid on a pillow; euphemism for burial" },
+      { "word": "الصد", "meaning": "turning away, rejection by the beloved" },
+      { "word": "طيف", "meaning": "phantom, apparition of the beloved in sleep" },
+      { "word": "كبد حرى", "meaning": "a burning liver; seat of passion in Arabic poetry" },
+      { "word": "الحمى", "meaning": "the protected territory, the homeland" },
+      { "word": "الرند", "meaning": "the bay-laurel tree, associated with Arabia" },
+      { "word": "الجوى", "meaning": "inner burning grief, concealed passion" }
+    ],
+    "context": "One of Antara's most lyrical ghazal poems, structured around the metaphor of love as a battlefield where the poet fights alone. The poet addresses natural elements — wind and lightning — as messengers to his beloved Abla, a classical convention of Arabic love poetry."
+  },
+  {
+    "id": "antara-40",
+    "poetId": "antara",
+    "titleAr": "لأفكن أسرهم عن قريب",
+    "titleEn": "I Shall Soon Break Their Captivity",
+    "genre": "fakhr",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "لأفكن أسرهم عن قريب",
+        "ajuz": "من أيادي الأعداء والحساد"
+      },
+      {
+        "sadr": "أحرقتني نار الجوى والبعاد",
+        "ajuz": "بعد فقد الأوطان والأولاد"
+      },
+      {
+        "sadr": "شاب رأسي فصار أبيض لونا",
+        "ajuz": "بعد ما كان حالكا بالسواد"
+      },
+      {
+        "sadr": "وتذكرت عبلة يوم جاءت",
+        "ajuz": "لوداعي والهم والوجد باد"
+      },
+      {
+        "sadr": "وهي تذري من خيفة البعد",
+        "ajuz": "دمعا مستهلا بلوعة وسهاد"
+      },
+      {
+        "sadr": "قلت كفي الدموع عنك فقلبي",
+        "ajuz": "ذاب حزنا ولوعتي في ازدياد"
+      },
+      {
+        "sadr": "ويح هذا الزمان كيف رماني",
+        "ajuz": "بسهام صابت صميم فؤادي"
+      },
+      {
+        "sadr": "غير أني مثل الحسام إذا",
+        "ajuz": "ما زاد صقلا جاد يوم جلاد"
+      },
+      {
+        "sadr": "حنكتني نوائب الدهر حتى",
+        "ajuz": "أوقفتني على طريق الرشاد"
+      },
+      {
+        "sadr": "ولقيت الأبطال في كل حرب",
+        "ajuz": "وهزمت الرجال في كل وادي"
+      },
+      {
+        "sadr": "وتركت الفرسان صرعى بطعن",
+        "ajuz": "من سنان يحكي رؤوس المزاد"
+      },
+      {
+        "sadr": "وحسام قد كنت من عهد شداد",
+        "ajuz": "قديما وكان من عهد عاد"
+      },
+      {
+        "sadr": "وقهرت الملوك شرقا وغربا",
+        "ajuz": "وأبدت الأقران يوم الطراد"
+      },
+      {
+        "sadr": "قل صبري على فراق غصوب",
+        "ajuz": "وهو قد كان عدتي واعتمادي"
+      },
+      {
+        "sadr": "لأفكن أسرهم عن قريب",
+        "ajuz": "من أيادي الأعداء والحساد"
+      }
+    ],
+    "translationEn": "I shall soon break their captivity from the hands of enemies and enviers. The fire of longing and separation has burned me after losing homeland and children. My hair has turned white though it was once jet-black, and I remembered Abla on the day she came to bid farewell, her tears flowing in fear of the distance. I told her: stop weeping, for my heart is already melting with grief. Yet I am like a sword — the more it is polished, the keener it cuts in battle. The calamities of fate have tempered me until they set me on the path of wisdom, and I have routed heroes in every valley, leaving horsemen fallen by my spear.",
+    "vocabularyHighlights": [
+      { "word": "لأفكن", "meaning": "I shall certainly break/release (emphatic)" },
+      { "word": "الأسر", "meaning": "captivity, bonds" },
+      { "word": "الجوى", "meaning": "consuming inner grief, longing" },
+      { "word": "مستهل", "meaning": "pouring freely (of tears)" },
+      { "word": "السهاد", "meaning": "sleeplessness, insomnia from grief" },
+      { "word": "صميم الفؤاد", "meaning": "the very core of the heart" },
+      { "word": "نوائب الدهر", "meaning": "the calamities/blows of fate" },
+      { "word": "الطراد", "meaning": "the pursuit, mounted combat" }
+    ],
+    "context": "This poem opens with a vow of rescue and liberation, then shifts into personal elegy as Antara meditates on aging, separation from Abla, and the grief of exile. The central simile comparing the poet to a sword that grows sharper with polishing is a signature image of his fakhr tradition."
+  },
+  {
+    "id": "antara-41",
+    "poetId": "antara",
+    "titleAr": "رغمت أنف الحاسدين بسطوتي",
+    "titleEn": "I Humbled the Enviers by My Might",
+    "genre": "fakhr",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "رغمت أنف الحاسدين بسطوتي",
+        "ajuz": "فغدوا لها من راكعين وسجد"
+      },
+      {
+        "sadr": "بين العقيق وبين برقة ثهمد",
+        "ajuz": "طلل لعبلة مستهل المعهد"
+      },
+      {
+        "sadr": "يا مسرح الآرام في وادي الحمى",
+        "ajuz": "هل فيك ذو شجن يروح ويغتدي"
+      },
+      {
+        "sadr": "في أيمن العلمين درس معالم",
+        "ajuz": "أوهى بها جلدي وبان تجلدي"
+      },
+      {
+        "sadr": "من كل فاتنة تلفت جيدها",
+        "ajuz": "مرحا كسالفة الغزال الأغيد"
+      },
+      {
+        "sadr": "يا عبل كم يشجى فؤادي بالنوى",
+        "ajuz": "ويرعني صوت الغراب الأسود"
+      },
+      {
+        "sadr": "كيف السلو وما سمعت حمائما",
+        "ajuz": "يندبن إلا كنت أول منشد"
+      },
+      {
+        "sadr": "ولقد حبست الدمع لا بخلا به",
+        "ajuz": "يوم الوداع على رسوم المعهد"
+      },
+      {
+        "sadr": "وسألت طير الدوح كم مثلي",
+        "ajuz": "شجا بأنينه وحنينه المتردد"
+      },
+      {
+        "sadr": "ناديته ومدامعي منهلة",
+        "ajuz": "أين الخلي من الشجي المكمد"
+      },
+      {
+        "sadr": "لو كنت مثلي ما لبثت ملونا",
+        "ajuz": "وهتفت في غضن النقا المتأود"
+      },
+      {
+        "sadr": "رفعوا القباب على وجوه أشرقت",
+        "ajuz": "فيها فغيبت السهى في الفرقد"
+      },
+      {
+        "sadr": "واستوقفوا ماء العيون بأعين",
+        "ajuz": "مكحولة بالسحر لا بالإثمد"
+      },
+      {
+        "sadr": "والشمس بين مضرج ومبلج",
+        "ajuz": "والغصن بين موشح ومقلد"
+      },
+      {
+        "sadr": "يطلعن بين سوالف ومعاطف",
+        "ajuz": "وقلائد من لؤلوء وزبرجد"
+      },
+      {
+        "sadr": "قالوا اللقاء غدا بمنعرج اللوى",
+        "ajuz": "وأطول شوق المستهام إلى غد"
+      },
+      {
+        "sadr": "وتخال أنفاسي إذا رددتها",
+        "ajuz": "بين الطلول محت نقوش المبرد"
+      },
+      {
+        "sadr": "وتنوفة مجهولة قد خضتها",
+        "ajuz": "بسنان رمح ناره لم تخمد"
+      },
+      {
+        "sadr": "باكرتها في فتية عبسية",
+        "ajuz": "من كل أروع في الكريهة أصيد"
+      },
+      {
+        "sadr": "وترى بها الرايات تخفق والقنا",
+        "ajuz": "وترى العجاج كمثل بحر مزبد"
+      },
+      {
+        "sadr": "فهناك تنظر آل عبس موقفي",
+        "ajuz": "والخيل تعثر بالوشيج الأملد"
+      },
+      {
+        "sadr": "وبوارق البيض الرقاق لوامع",
+        "ajuz": "في عارض مثل الغمام المرعد"
+      },
+      {
+        "sadr": "وذوابل السمر الدقاق كأنها",
+        "ajuz": "تحت القتام نجوم ليل أسود"
+      },
+      {
+        "sadr": "وحوافر الخيل العتاق على الصفا",
+        "ajuz": "مثل الصواعق في قفار الفدفد"
+      },
+      {
+        "sadr": "باشرت موكبها وخضت غبارها",
+        "ajuz": "أطفأت جمر لهيبها المتوقد"
+      },
+      {
+        "sadr": "وكررت والأبطال بين",
+        "ajuz": "تصادم وتهاجم وتحزب وتشدد"
+      },
+      {
+        "sadr": "وفوارس الهيجاء بين ممانع",
+        "ajuz": "ومدافع ومخادع ومعربد"
+      },
+      {
+        "sadr": "والبيض تلمع والرماح عواسل",
+        "ajuz": "والقوم بين مجدل ومقيد"
+      },
+      {
+        "sadr": "وموسد تحت التراب وغيره",
+        "ajuz": "فوق التراب يئن غير موسد"
+      },
+      {
+        "sadr": "والجو أقتم والنجوم مضيئة",
+        "ajuz": "والأفق مغبر العنان الأربد"
+      },
+      {
+        "sadr": "أقحمت مهري تحت ظل عجاجة",
+        "ajuz": "بسنان رمح ذابل ومهند"
+      }
+    ],
+    "translationEn": "I humbled the enviers by my might until they bowed before it in prostration. Between al-Aqiq and Barqat Thuhamd lies a campsite of Abla's, its landmarks worn. O grazing ground of gazelles in the valley of refuge, does any grief-stricken one still pass through you morning and evening? Abla, how the departure pains my heart and the black crow's cry startles me — how can I forget when every mourning dove I hear makes me the first to lament? The beauties raised their tents, faces radiant enough to outshine the Pleiades, their eyes enchanting without kohl. They said the meeting would be tomorrow — and how long tomorrow seems to the lovesick! Then I plunged into unknown wilderness with young warriors of Abs whose spear-tips gleamed like stars in the battle-dust, and the hooves of noble horses thundered like lightning across the plain — and there, the clan of Abs witnessed my stand.",
+    "vocabularyHighlights": [
+      { "word": "رغمت أنفه", "meaning": "to humiliate someone (lit. press their nose to the ground)" },
+      { "word": "الآرام", "meaning": "gazelles (poetic, pl. of ريم)" },
+      { "word": "الأغيد", "meaning": "one with a graceful, swaying neck (of gazelles or beauties)" },
+      { "word": "الإثمد", "meaning": "kohl, antimony used as eye-liner" },
+      { "word": "الزبرجد", "meaning": "chrysolite / peridot, a green gemstone" },
+      { "word": "المستهام", "meaning": "the lovesick wanderer, one overwhelmed by passion" },
+      { "word": "الوشيج الأملد", "meaning": "tender, supple spear-shafts" },
+      { "word": "الفدفد", "meaning": "a wide empty plain, barren expanse" }
+    ],
+    "context": "This is Antara's longest poem in the batch — a grand qasida that opens with a boast of victory over enviers, transitions through an elegiac nasib (love-prelude) mourning Abla's campsite, and closes with an extended and vivid battle description. It is an exemplar of the classical tripartite qasida structure."
+  },
+  {
+    "id": "antara-42",
+    "poetId": "antara",
+    "titleAr": "فإن عانيت عيني المطايا وركبها",
+    "titleEn": "If My Eyes See the Riding Camels",
+    "genre": "ghazal",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "فإن عانيت عيني المطايا وركبها",
+        "ajuz": "فرشت لدى أخفافها صفحة الخد"
+      },
+      {
+        "sadr": "إذا الريح هبت من ربى العلم السعدي",
+        "ajuz": "طفا بردها حر الصبابة والوجد"
+      },
+      {
+        "sadr": "وذكرني قوما حفظت عهودهم",
+        "ajuz": "فما عرفوا قدري ولا حفظوا عهدي"
+      },
+      {
+        "sadr": "ولولا فتاة في الخيام مقيمة",
+        "ajuz": "لما اخترت قرب الدار يوما على البعد"
+      },
+      {
+        "sadr": "مهفهفة والسحر من لحظاتها",
+        "ajuz": "إذا كلمت ميتا يقوم من اللحد"
+      },
+      {
+        "sadr": "أشارت إليها الشمس عند غروبها",
+        "ajuz": "تقول: إذا اسود الدجى فاطلعي بعدي"
+      },
+      {
+        "sadr": "وقال لها البدر المنير ألا اسفري",
+        "ajuz": "فإنك مثلي في الكمال وفي السعد"
+      },
+      {
+        "sadr": "فولت حياء ثم أرخت لثامها",
+        "ajuz": "وقد نثرت من خدها رطب الورد"
+      },
+      {
+        "sadr": "وسلت حساما من سواجي جفونها",
+        "ajuz": "كسيف أبيها القاطع المرهف الحد"
+      },
+      {
+        "sadr": "تقاتل عيناها به وهو مغمد",
+        "ajuz": "ومن عجب أن يقطع السيف في الغمد"
+      },
+      {
+        "sadr": "مرنحة الأعطاف مهضومة الحشا",
+        "ajuz": "منعمة الأطراف مائسة القد"
+      },
+      {
+        "sadr": "يبيت فتات المسك تحت لثامها",
+        "ajuz": "فيزداد من أنفاسها أرج الند"
+      },
+      {
+        "sadr": "ويطلع ضوء الصبح تحت جبينها",
+        "ajuz": "فيغشاه ليل من دجى شعرها الجعد"
+      },
+      {
+        "sadr": "وبين ثناياها إذا ما تبسمت",
+        "ajuz": "مدير مدام يمزج الراح بالشهد"
+      },
+      {
+        "sadr": "شكا نحرها من عقدها متظلما",
+        "ajuz": "فواحربا من ذلك النحر والعقد"
+      },
+      {
+        "sadr": "فهل تسمح الأيام يا ابنة مالك",
+        "ajuz": "بوصل يداوي القلب من ألم الصد"
+      },
+      {
+        "sadr": "سأحلم عن قومي ولو سفكوا دمي",
+        "ajuz": "وأجرع فيك الصبر دون الملا وحدي"
+      },
+      {
+        "sadr": "وحقك أشجاني التباعد بعدكم",
+        "ajuz": "فها أنتم أشجاكم البعد من بعدي"
+      },
+      {
+        "sadr": "حذرت من البين المفرق بيننا",
+        "ajuz": "وقد كان ظني لا أفارقكم جهدي"
+      }
+    ],
+    "translationEn": "If my eyes behold the riding camels and their riders, I would lay my cheek beneath their hooves. When the wind blows from the hills of the Sa'd landmark, its coolness quenches the burning of longing and grief. A girl dwells in the tents — slender-waisted, whose glance could raise a dead man from his grave. The setting sun pointed to her, saying: When darkness falls, rise after me. The full moon said: Unveil yourself, for you match me in perfection and grace. She turned away in modesty, then dropped her veil, scattering the freshness of roses from her cheek, and drew a sword from her languorous eyelids sharper than her father's blade — a sword that wounds while still sheathed. Her musk-fragrance deepens with every breath, and the dawn's light that breaks beneath her brow is swallowed by the night of her curling hair.",
+    "vocabularyHighlights": [
+      { "word": "المطايا", "meaning": "riding camels (pl. of مطية)" },
+      { "word": "الصبابة", "meaning": "yearning, intense longing" },
+      { "word": "مهفهفة", "meaning": "slender-waisted, graceful" },
+      { "word": "اللثام", "meaning": "face veil covering the lower part of the face" },
+      { "word": "سواجي الجفون", "meaning": "heavy-lidded, languid eyes" },
+      { "word": "مرنحة الأعطاف", "meaning": "swaying gracefully at the sides, supple-figured" },
+      { "word": "الند", "meaning": "aloe-wood incense, rare perfume" },
+      { "word": "الثنايا", "meaning": "the front teeth, used as a site of beauty" }
+    ],
+    "context": "A richly elaborated ghazal centered on an extended portrait of a beloved woman compared successively to the sun, the moon, a sword, and the dawn. Antara's portrayal here is among the most detailed feminine descriptions in his diwan, blending sensory imagery with mythological hyperbole."
+  },
+  {
+    "id": "antara-43",
+    "poetId": "antara",
+    "titleAr": "حوى كل حسن في الكواعب شخصها",
+    "titleEn": "Her Form Gathers All Beauty",
+    "genre": "ghazal",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "حوى كل حسن في الكواعب شخصها",
+        "ajuz": "فليس بها إلا عيوب الحواسد"
+      },
+      {
+        "sadr": "لعوب بألباب الرجال كأنها",
+        "ajuz": "إذا أسفرت بدر بدا في المحاشد"
+      },
+      {
+        "sadr": "شكت سقما كيما تعاد وما بها",
+        "ajuz": "سوى فترة العينين سقم لعائد"
+      },
+      {
+        "sadr": "من البيض لا تلقاك إلا مصونة",
+        "ajuz": "وتمشي كغصن البان بين الولائد"
+      },
+      {
+        "sadr": "كأن الثريا حين لاحت عشية",
+        "ajuz": "على نحرها منظومة في القلائد"
+      }
+    ],
+    "translationEn": "Her form gathers all beauty among young women — the only faults she bears are those invented by the envious. She plays with men's minds, and when she unveils, she shines like a full moon appearing before great assemblies. She feigns illness so that visitors come to her, yet her only ailment is the languor of her eyes. Pure and always modest, she moves like a branch of the moringa tree swaying among handmaids. When the Pleiades appear at evening, they seem to be strung upon her neck as a necklace.",
+    "vocabularyHighlights": [
+      { "word": "الكواعب", "meaning": "young women of budding youth" },
+      { "word": "الحواسد", "meaning": "the envious ones (pl. of حاسد)" },
+      { "word": "لعوب", "meaning": "playful, one who toys with affections" },
+      { "word": "أسفرت", "meaning": "she unveiled, lit up (of face or dawn)" },
+      { "word": "فترة العينين", "meaning": "languid drooping of the eyes, considered beautiful" },
+      { "word": "غصن البان", "meaning": "branch of the moringa/ben tree, symbol of graceful movement" },
+      { "word": "الثريا", "meaning": "the Pleiades star cluster" },
+      { "word": "القلائد", "meaning": "necklaces (pl. of قلادة)" }
+    ],
+    "context": "A concise ghazal of five verses offering a portrait of an unnamed beauty. The brevity and density of imagery — the moon, the Pleiades, the moringa branch — make this an accessible example of Antara's descriptive style."
+  },
+  {
+    "id": "antara-44",
+    "poetId": "antara",
+    "titleAr": "لئن تشمت الأعداء يا بنت مالك",
+    "titleEn": "Though Enemies Gloat, Daughter of Malik",
+    "genre": "ghazal",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "لئن تشمت الأعداء يا بنت مالك",
+        "ajuz": "فإن ودادي مثلما كان يعهد"
+      },
+      {
+        "sadr": "إذا كان دمعي شاهدي كيف أجحد",
+        "ajuz": "ونار اشتياقي في الحشا تتوقد"
+      },
+      {
+        "sadr": "وهيهات يخفى ما أكن من الهوى",
+        "ajuz": "وثوب سقامي كل يوم يجدد"
+      },
+      {
+        "sadr": "أقاتل أشواقي بصبري تجلدا",
+        "ajuz": "وقلبي في قيد الغرام مقيد"
+      },
+      {
+        "sadr": "إلى الله أشكو جور قومي وظلمهم",
+        "ajuz": "إذا لم أجد خلا على البعد يعضد"
+      },
+      {
+        "sadr": "خليلي أمسى حب عبلة قاتلي",
+        "ajuz": "وبأسي شديد والحسام مهند"
+      },
+      {
+        "sadr": "حرام علي النوم يا ابنة مالك",
+        "ajuz": "ومن فرشه جمر الغضا كيف يرقد"
+      },
+      {
+        "sadr": "سأندب حتى يعلم الطير أنني",
+        "ajuz": "حزين ويرثي لي الحمام المغرد"
+      },
+      {
+        "sadr": "وألثم أرضا أنت فيها مقيمة",
+        "ajuz": "لعل لهيبي من ثرى الأرض يبرد"
+      },
+      {
+        "sadr": "رحلت وقلبي يا ابنة العم تائه",
+        "ajuz": "على أثر الأظغان للركب ينشد"
+      }
+    ],
+    "translationEn": "Though enemies gloat, O daughter of Malik, my devotion to you remains as it has always been. How can I deny it when my own tears bear witness and the fire of longing blazes in my chest? It is impossible to conceal the love I harbor — my garment of sickness is renewed every day. I fight my yearnings with patience while my heart lies shackled in the chains of love. O my friend, the love of Abla has become my killer, yet my courage is unbroken and my Indian sword still gleams. Sleep is forbidden to me — how can one rest whose bed is burning embers? I shall lament until the birds know of my sorrow and the cooing dove takes pity on me. I kiss the earth where you dwell, hoping its dust cools my burning.",
+    "vocabularyHighlights": [
+      { "word": "تشمت", "meaning": "to gloat over another's misfortune" },
+      { "word": "الجحود", "meaning": "denial, ingratitude, rejection" },
+      { "word": "الغرام", "meaning": "consuming passion, ruinous love" },
+      { "word": "جمر الغضا", "meaning": "embers of the ghada tree, known for staying hot long" },
+      { "word": "الأظغان", "meaning": "litters on camels carrying women (pl. of ظعينة)" },
+      { "word": "يرثي", "meaning": "to feel compassion for, to mourn someone" },
+      { "word": "مهند", "meaning": "an Indian-made sword" },
+      { "word": "تائه", "meaning": "wandering, lost, bewildered" }
+    ],
+    "context": "A ghazal of protest and declaration in which Antara insists on his constancy to Abla despite enemies gloating over his suffering. The interplay between warrior identity (the gleaming sword) and lover's vulnerability (the burning bed of embers) is characteristic of his poetic persona."
+  },
+  {
+    "id": "antara-45",
+    "poetId": "antara",
+    "titleAr": "وخيل قد زحفت لها بخيل",
+    "titleEn": "I Met Their Cavalry with My Own",
+    "genre": "fakhr",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "وخيل قد زحفت لها بخيل",
+        "ajuz": "عليها الأسد تهتصر اهتصارا"
+      },
+      {
+        "sadr": "أحولي تنفض استك مذرويها",
+        "ajuz": "لتقتلني فها أنا ذا عمارا"
+      },
+      {
+        "sadr": "متى ما تلقني فردين ترجف",
+        "ajuz": "روانف أليتيك وتستطارا"
+      },
+      {
+        "sadr": "وسيفي صارم قبضت عليه",
+        "ajuz": "أشاجع لا ترى فيها انتشارا"
+      },
+      {
+        "sadr": "وسيفي كالعقيقة وهو كمعي",
+        "ajuz": "سلاحي لا أفل ولا فطارا"
+      },
+      {
+        "sadr": "وكالورق الخفاف وذات غرب",
+        "ajuz": "ترى فيها عن الشرع ازورارا"
+      },
+      {
+        "sadr": "ومطرد الكعوب أحص صدق",
+        "ajuz": "تخال سنانه بالليل نارا"
+      },
+      {
+        "sadr": "ستعلم أينا للموت أدنى",
+        "ajuz": "إذا دانيت لي الأسل الحرارا"
+      },
+      {
+        "sadr": "وللرعيان في لقح ثمان",
+        "ajuz": "تحادثهن صرا أو غرارا"
+      },
+      {
+        "sadr": "أقام على خسيستهن حتى",
+        "ajuz": "لقحن ونتج الأخر العشارا"
+      },
+      {
+        "sadr": "وقظن على لصاف وهن غلب",
+        "ajuz": "ترن متونها ليلا ظؤارا"
+      },
+      {
+        "sadr": "ومنجوب له منهن صرع",
+        "ajuz": "يميل إذا عدلت به الشوارا"
+      }
+    ],
+    "translationEn": "I advanced against their cavalry with my own cavalry, riders upon whom lions pounce and rend. O coward — does your tail tremble in fear of me? Come, for here I stand. If ever we meet alone, your haunches will quake and scatter in terror. My sword is keen in the fist of a hand whose tendons show no weakness. My blade is like a lightning flash — never notched, never broken — shining like fire at the spear-tip in the night. You will know which of us is closer to death when the blazing lances are brought near. My weapons are my lineage, and my horse is my companion in every panic.",
+    "vocabularyHighlights": [
+      { "word": "تهتصر", "meaning": "to seize and rend violently (of lions)" },
+      { "word": "مذروا", "meaning": "the two upper halves of the tail (of animals)" },
+      { "word": "الأشاجع", "meaning": "the sinews/tendons on the back of the hand" },
+      { "word": "العقيقة", "meaning": "a flash of lightning; used metaphorically for a bright sword" },
+      { "word": "أفل", "meaning": "notched, chipped (of a blade)" },
+      { "word": "الأسل", "meaning": "spear-tips; slender pointed weapons" },
+      { "word": "اللقح", "meaning": "pregnant she-camels" },
+      { "word": "الظؤار", "meaning": "she-camels nursing young ones" }
+    ],
+    "context": "A combative fakhr poem addressing a specific cowardly enemy, mixing martial boasts with vivid descriptions of weapons and a section on the pastoral world of camels and herders. The boast of encountering enemies alone is a recurrent motif in Antara's self-glorification."
+  },
+  {
+    "id": "antara-46",
+    "poetId": "antara",
+    "titleAr": "فلم يك حقكم أن تشتمونا",
+    "titleEn": "You Had No Right to Insult Us",
+    "genre": "fakhr",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "فلم يك حقكم أن تشتمونا",
+        "ajuz": "بني العشراء إذ جد الفخار"
+      },
+      {
+        "sadr": "ومن يك سائلا عني فإني",
+        "ajuz": "وجروة لا ترود ولا تعار"
+      },
+      {
+        "sadr": "مقربة الشتاء ولا تراها",
+        "ajuz": "وراء الحي يتبعها المهار"
+      },
+      {
+        "sadr": "لها بالصيف أصبرة وجل",
+        "ajuz": "وست من كرائمها غزار"
+      },
+      {
+        "sadr": "ألا أبلغ بني العشراء",
+        "ajuz": "عني علانية فقد ذهب السرار"
+      }
+    ],
+    "translationEn": "You had no right to insult us, O sons of al-Ushra, when the contest of pride came to the fore. Whoever asks about me — know that I own a noble mare that neither roams nor is lent out. She is kept close to the tent in winter, not left behind with the foals. In summer she has grain-stores and she-camels, and six of her best are heavy milkers. I declare this openly to the sons of al-Ushra — the time for secrets is past. I have slain your leaders and cut down your contemptible ones as one culls the weak.",
+    "vocabularyHighlights": [
+      { "word": "جد الفخار", "meaning": "when the contest/competition of boasting became serious" },
+      { "word": "جروة", "meaning": "a noble she-camel or mare" },
+      { "word": "ترود", "meaning": "to roam freely without a master" },
+      { "word": "تعار", "meaning": "to be lent to another (of animals)" },
+      { "word": "مقربة", "meaning": "kept near the tent (an honor for horses)" },
+      { "word": "المهار", "meaning": "young camels/foals" },
+      { "word": "الكرائم", "meaning": "noble animals, prized she-camels (pl. of كريمة)" },
+      { "word": "السرار", "meaning": "secrecy, things kept hidden" }
+    ],
+    "context": "A short defiant poem addressed to the clan of al-Ushra who insulted Antara. He responds with a declaration of his nobility symbolized through his prized mare and she-camels, then announces openly that he has killed their men."
+  },
+  {
+    "id": "antara-47",
+    "poetId": "antara",
+    "titleAr": "وكل سبوح في الغبار كأنها",
+    "titleEn": "Every Steed Swimming in the Dust",
+    "genre": "wasf",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "وكل سبوح في الغبار كأنها",
+        "ajuz": "إذا اغتسلت بالماء فتخاء كاسر"
+      },
+      {
+        "sadr": "ويمنعنا من كل ثغر نخافه",
+        "ajuz": "أقب كسرحان الأباءة ضامر"
+      }
+    ],
+    "translationEn": "Every horse swimming through the dust is like a great eagle spreading its wings when washed by water. A lean wolf-like hound, sleek as a wolf in the dense reeds, guards every frontier we fear.",
+    "vocabularyHighlights": [
+      { "word": "سبوح", "meaning": "a horse with smooth flowing movement (as if swimming)" },
+      { "word": "فتخاء", "meaning": "a large eagle with wide-spread wings" },
+      { "word": "كاسر", "meaning": "a great eagle (the one that breaks/spreads its wings)" },
+      { "word": "أقب", "meaning": "lean-bellied, hollow-flanked (of a greyhound or wolf)" },
+      { "word": "السرحان", "meaning": "the wolf (poetic)" },
+      { "word": "الأباءة", "meaning": "a thicket of reeds, dense vegetation" }
+    ],
+    "context": "A short two-verse fragment of vivid nature and animal description. Horses are compared to soaring eagles and guardian greyhounds to wolves — a compact example of Antara's descriptive animal imagery."
+  },
+  {
+    "id": "antara-48",
+    "poetId": "antara",
+    "titleAr": "إن عشت فهي التي ما عشت مالكتي",
+    "titleEn": "If I Live She Owns Me, If I Die",
+    "genre": "ghazal",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "إن عشت فهي التي ما عشت مالكتي",
+        "ajuz": "وإن أمت فالليالي شأنها العبر"
+      },
+      {
+        "sadr": "أطوي فيافي الفلا والليل معتكر",
+        "ajuz": "وأقطع البيد والرمضاء تستعر"
+      },
+      {
+        "sadr": "ولا أرى مؤنسا غير الحسام وإن",
+        "ajuz": "قل الأعادي غداة الروع أو كثروا"
+      },
+      {
+        "sadr": "فحاذري يا سباع البر من رجل",
+        "ajuz": "إذا انتضى سيفه لا ينفع الحذر"
+      },
+      {
+        "sadr": "ورافقيني تري هاما مفلقة",
+        "ajuz": "والطير عاكفة تمسي وتبتكر"
+      },
+      {
+        "sadr": "ما خالد بعدما قد سرت طالبه",
+        "ajuz": "بخالد لا ولا الجيداء تفتخر"
+      },
+      {
+        "sadr": "يا عبل يهنئك ما يأتيك من نعم",
+        "ajuz": "إذا رماني على أعدائك القدر"
+      },
+      {
+        "sadr": "يا من رمت مهجتي من نبل مقلتها",
+        "ajuz": "بأسهم قاتلات برؤها عسر"
+      },
+      {
+        "sadr": "نعيم وصلك جنات مزخرفة",
+        "ajuz": "ونار هجرك لا تبقي ولا تذر"
+      },
+      {
+        "sadr": "سقتك يا علم السعدي غادية",
+        "ajuz": "من السحاب وروى ربعك المطر"
+      },
+      {
+        "sadr": "كم ليلة قد قطعنا فيك صالحة",
+        "ajuz": "رغيدة صفوها ما شابه كدر"
+      },
+      {
+        "sadr": "مع فتية تتعاطى الكاس مترعة",
+        "ajuz": "من خمرة كلهيب النار تزدهر"
+      },
+      {
+        "sadr": "تديرها من بنات العرب جارية",
+        "ajuz": "رشيقة القد في أجفانها حور"
+      }
+    ],
+    "translationEn": "If I live, she owns me for all my life; if I die, nights will claim their due. I traverse deserts in the dark of night, crossing wilderness and scorching sands with only my sword for companion. Beware of me, wild beasts — when I draw my blade, no caution avails. O Abla, the joy of your union is an adorned garden, and the fire of your abandonment leaves nothing standing. I invoke blessing on the Sa'd landmark — how many fine nights did we spend there, drinking wine bright as fire's flame, served by a slender Arab girl with eyes of pure white and dark iris.",
+    "vocabularyHighlights": [
+      { "word": "الفيافي", "meaning": "wide waterless deserts (pl. of فيفاء)" },
+      { "word": "الرمضاء", "meaning": "scorching hot sand or ground" },
+      { "word": "هاما مفلقة", "meaning": "skulls split open (grim fruit of battle)" },
+      { "word": "غادية", "meaning": "a morning rain-cloud" },
+      { "word": "رغيدة", "meaning": "abundant, easy, pleasant (of life or provisions)" },
+      { "word": "مترعة", "meaning": "brimming full (of a cup)" },
+      { "word": "الحور", "meaning": "the beautiful contrast of white and dark in the eyes" },
+      { "word": "العلم السعدي", "meaning": "the landmark/mountain of Sa'd, associated with Abla's homeland" }
+    ],
+    "context": "A moving poem balanced between the warrior's lonely desert journeys and tender memory of nights spent with companions near Abla's homeland. The opening declaration of unconditional devotion — alive or dead — is one of the most quoted lines from Antara's ghazal corpus."
+  },
+  {
+    "id": "antara-49",
+    "poetId": "antara",
+    "titleAr": "وكيف أطيق الصبر عمن أحبه",
+    "titleEn": "How Can I Bear Patience from My Beloved",
+    "genre": "ghazal",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "وكيف أطيق الصبر عمن أحبه",
+        "ajuz": "وقد أضرمت نار الهوى في أضالعي"
+      },
+      {
+        "sadr": "جفون العذارى من خلال البراقع",
+        "ajuz": "أحد من البيض الرقاق القواطع"
+      },
+      {
+        "sadr": "إذا جردت ذل الشجاع وأصبحت",
+        "ajuz": "محاجره قرحى بفيض المدامع"
+      },
+      {
+        "sadr": "سقى الله عمي من يد الموت جرعة",
+        "ajuz": "وشلت يداه بعد قطع الأصابع"
+      },
+      {
+        "sadr": "كما قاد مثلي بالمحال إلى الردى",
+        "ajuz": "وعلق آمالي بذيل المطامع"
+      },
+      {
+        "sadr": "لقد ودعتني عبلة يوم بينها",
+        "ajuz": "وداع يقين أنني غير راجع"
+      },
+      {
+        "sadr": "وناحت وقالت: كيف تصبح بعدنا",
+        "ajuz": "إذا غبت عنا في القفار الشواسع"
+      },
+      {
+        "sadr": "وحقك لا حاولت في الدهر سلوة",
+        "ajuz": "ولا غيرتني عن هواك مطامعي"
+      },
+      {
+        "sadr": "فكن واثقا مني بحسن مودة",
+        "ajuz": "وعش ناعما في غبطة غير جازع"
+      },
+      {
+        "sadr": "فقلت لها: يا عبل إني مسافر",
+        "ajuz": "ولو عرضت دوني حدود القواطع"
+      },
+      {
+        "sadr": "خلقنا لهذا الحب من قبل يومنا",
+        "ajuz": "فما يدخل التنفيذ فيه مسامعي"
+      },
+      {
+        "sadr": "أيا علم السعدي هل أنا راجع",
+        "ajuz": "وأنظر في قطريك زهر الأراجع"
+      },
+      {
+        "sadr": "وتبصر عيني الربوتين وحاجرا",
+        "ajuz": "وسكان ذاك الجزع بين المراتع"
+      },
+      {
+        "sadr": "وتجمعنا أرض الشربة واللوى",
+        "ajuz": "ونرتع في أكناف تلك المرابع"
+      },
+      {
+        "sadr": "فيا نسمات البان بالله خبري",
+        "ajuz": "عبيلة عن رحلي بأي المواضع"
+      },
+      {
+        "sadr": "ويا برق بلغها الغداة تحيتي",
+        "ajuz": "وحي دياري في الحمى ومضاجعي"
+      },
+      {
+        "sadr": "أيا صادحات الأيك إن مت فاندبي",
+        "ajuz": "على تربتي بين الطيور السواجع"
+      },
+      {
+        "sadr": "ونوحي على من مات ظلما ولم ينل",
+        "ajuz": "سوى البعد عن أحبابه والفجائع"
+      },
+      {
+        "sadr": "ويا خيل فابكي فارسا كان يلتقي",
+        "ajuz": "صدور المنايا في غبار المعامع"
+      },
+      {
+        "sadr": "فأمسى بعيدا في غرام وذلة",
+        "ajuz": "وقيد ثقيل من قيود التوابع"
+      },
+      {
+        "sadr": "ولست بباك إن أتتني منيتي",
+        "ajuz": "ولكنني أهفو فتجري مدامعي"
+      },
+      {
+        "sadr": "وليس بفخر وصف بأسي وشدتي",
+        "ajuz": "وقد شاع ذكري في جميع المجامع"
+      },
+      {
+        "sadr": "بحق الهوى لا تعذلوني واقصروا",
+        "ajuz": "عن اللوم إن اللوم ليس بنافع"
+      }
+    ],
+    "translationEn": "How can I endure patience from the one I love when the fire of passion blazes in my ribs? The eyelids of veiled maidens are sharper than the thinnest cutting blades — when bared they humble the bravest warrior. May my uncle taste death for what he has done, leading a man like me to ruin through impossible demands and dangling my hopes by the hem of ambitions. Abla bade me farewell as if certain I would not return, weeping and asking how I would fare in the distant wastes. I swore by her that I would never seek consolation and nothing would alter my love. O Sa'd's landmark, shall I ever return to gaze upon your horizons? O morning breeze of the moringa, tell Abla where my camp now lies. O singing birds of the thicket, if I die, mourn upon my grave. O my horses, weep for a rider who once faced the forefront of death in the battle-dust but now lies far away in passion's chains.",
+    "vocabularyHighlights": [
+      { "word": "أضالع", "meaning": "ribs (pl. of ضلع), seat of the heart and emotions" },
+      { "word": "البراقع", "meaning": "face-veils (pl. of برقع)" },
+      { "word": "المحاجر", "meaning": "the eye-sockets, the area around the eyes" },
+      { "word": "الشواسع", "meaning": "vast, wide desolate deserts" },
+      { "word": "السلوة", "meaning": "consolation, forgetting grief" },
+      { "word": "صادحات الأيك", "meaning": "singing birds of the thicket (nightingales, doves)" },
+      { "word": "المعامع", "meaning": "the roar and chaos of battle" },
+      { "word": "التوابع", "meaning": "bonds, fetters; things that follow and bind" }
+    ],
+    "context": "One of the most emotionally complex poems in Antara's diwan, interweaving bitter reproach of his uncle (who demanded an impossible bride-price), tender dialogue with Abla at parting, and a sustained apostrophe to natural elements — wind, lightning, birds, horses — asking them to carry his messages and mourn his fate."
+  },
+  {
+    "id": "antara-50",
+    "poetId": "antara",
+    "titleAr": "وأنا أقصده في أرضكم",
+    "titleEn": "I Shall Seek Him in Your Land",
+    "genre": "fakhr",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "وأنا أقصده في أرضكم",
+        "ajuz": "وأجازيه على ما قد صنع"
+      },
+      {
+        "sadr": "يا أبا اليقظان أغواك الطمع",
+        "ajuz": "سوف تلقى فارسا لا يندفع"
+      },
+      {
+        "sadr": "زرتني تطلب مني غفلة",
+        "ajuz": "زورة الذئب على الشاة رتع"
+      },
+      {
+        "sadr": "يا أبا اليقظان كم صيد",
+        "ajuz": "نجا خالي البال وصياد وقع"
+      },
+      {
+        "sadr": "إن تكن تشكو لأوجاع الهوى",
+        "ajuz": "فأنا أشفيك من هذا الوجع"
+      },
+      {
+        "sadr": "بحسام كلما جردته في يميني",
+        "ajuz": "كيفما مال قطع"
+      },
+      {
+        "sadr": "وأنا الأسود والعبد الذي",
+        "ajuz": "يقصد الخيل إذا النقع ارتفع"
+      },
+      {
+        "sadr": "نسبتي سيفي ورمحي وهما",
+        "ajuz": "يؤنساني كلما اشتد الفزع"
+      },
+      {
+        "sadr": "يا بني شيبان عمي ظالم",
+        "ajuz": "وعليكم ظلمه اليوم رجع"
+      },
+      {
+        "sadr": "ساق بسطاما إلى مصرعه",
+        "ajuz": "عالقا منه بأذيال الطمع"
+      }
+    ],
+    "translationEn": "I shall seek him out in your own land and repay him for what he has done. O Abu al-Yaqzan, greed has led you astray — you will meet a horseman who cannot be turned back. You visited me seeking a moment of inattention, as the wolf visits the grazing sheep. O Abu al-Yaqzan, how often has the prey escaped while the hunter fell? If you complain of love's pains, I will cure you with this sword of mine that cuts however it swings. I am the Black One, the slave who charges into the cavalry when the battle-dust rises. My lineage is my sword and my spear — they are my companions when terror intensifies. O sons of Shayban, my uncle has wronged you and today his injustice returns upon you — he led Bustam to his death, clinging to the tail of his own greed.",
+    "vocabularyHighlights": [
+      { "word": "لا يندفع", "meaning": "one who cannot be repelled or turned back" },
+      { "word": "الغفلة", "meaning": "a moment of heedlessness, inattention" },
+      { "word": "رتع", "meaning": "grazing freely, wandering at pasture" },
+      { "word": "النقع", "meaning": "the dust of battle (raised by charging horses)" },
+      { "word": "نسبتي", "meaning": "my lineage, my genealogical pride" },
+      { "word": "الفزع", "meaning": "terror, sudden fear" },
+      { "word": "أذيال الطمع", "meaning": "the hem/tail of greed (metaphor for being led by greed)" },
+      { "word": "المصرع", "meaning": "place of death, place of downfall" }
+    ],
+    "context": "A poem of personal menace addressed to Abu al-Yaqzan, an enemy. Antara uses the famous self-identification 'I am the Black One, the slave' as an act of pride rather than shame, subverting social stigma by claiming his dark skin and enslaved origins as marks of his exceptional martial identity."
+  },
+  {
+    "id": "antara-51",
+    "poetId": "antara",
+    "titleAr": "فارقت أطلالا وفيها عصبة",
+    "titleEn": "I Left Ruins Where a Company Dwelt",
+    "genre": "ghazal",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "فارقت أطلالا وفيها عصبة",
+        "ajuz": "قد قطعت من صحبتي أطماعها"
+      },
+      {
+        "sadr": "مدت إلي الحادثات باعها",
+        "ajuz": "وحاربتني فرأت ما راعها"
+      },
+      {
+        "sadr": "يا حادثات الدهر قري واهجعي",
+        "ajuz": "فهمتي قد كشفت قناعها"
+      },
+      {
+        "sadr": "ما دست في أرض العداة غدوة",
+        "ajuz": "إلا سقى سيل الدما بقاعها"
+      },
+      {
+        "sadr": "ويل لشيبان إذا صبحتها",
+        "ajuz": "وأرسلت بيض الظبى شعاعها"
+      },
+      {
+        "sadr": "وخاض رمحي في حشاها وغدا",
+        "ajuz": "يشك مع دروعها أضلاعها"
+      },
+      {
+        "sadr": "وأصبحت نساؤها نوادبا",
+        "ajuz": "على رجال تشتكي نزاعها"
+      },
+      {
+        "sadr": "يا عبل كم تنعق غربان الفلا",
+        "ajuz": "قد مل قلبي في الدجى سماعها"
+      }
+    ],
+    "translationEn": "I departed from ruins where a company of people had cut off all my hopes of companionship. Fate stretched its arm against me and made war upon me — then saw what struck terror into it. O calamities of time, settle down and sleep, for my determination has torn away your veil. Every morning I set foot in the enemies' land, my sword irrigated its plains with streams of blood. Woe to Shayban when I raid them at dawn and send my bright blades flashing. My spear plunged into their midst and pierced through armor and ribs alike. Their women became mourners lamenting men whose final agonies they now bewail. O Abla, the ravens of the plain never stop croaking — my heart is weary of hearing them in the night.",
+    "vocabularyHighlights": [
+      { "word": "أطلال", "meaning": "ruins of a former dwelling, traces of a camp" },
+      { "word": "عصبة", "meaning": "a close group, a company of people" },
+      { "word": "الحادثات", "meaning": "the events/calamities of fate" },
+      { "word": "قناعها", "meaning": "her veil (here: fate's disguise being stripped away)" },
+      { "word": "بيض الظبى", "meaning": "bright white sword-blades (pl. of ظبة)" },
+      { "word": "نوادب", "meaning": "women wailing and mourning the dead" },
+      { "word": "النزاع", "meaning": "death-agony, the final struggle" },
+      { "word": "تنعق", "meaning": "to caw (of ravens/crows), an omen of separation" }
+    ],
+    "context": "A poem that opens with the motif of deserted ruins but quickly transforms into a warrior's threat against the tribe of Shayban. The closing verse addressing Abla anchors the poem in the personal register, showing how Antara's fakhr and ghazal themes are inseparable."
+  },
+  {
+    "id": "antara-52",
+    "poetId": "antara",
+    "titleAr": "وما مثلي جزوع في لظاها",
+    "titleEn": "One Like Me Does Not Flinch",
+    "genre": "fakhr",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "وما مثلي جزوع في لظاها",
+        "ajuz": "ولست مقصرا إن جاء داع"
+      },
+      {
+        "sadr": "لقد قالت عبيلة إذ رأتني",
+        "ajuz": "ومفرق لمتي مثل الشعاع"
+      },
+      {
+        "sadr": "ألا لله درك من شجاع",
+        "ajuz": "تذل لهوله أسد البقاع"
+      },
+      {
+        "sadr": "فقلت لها: سلي الأبطال عني",
+        "ajuz": "إذا ما فر مرتاع القراع"
+      },
+      {
+        "sadr": "سليهم يخبروك بأن عزمي",
+        "ajuz": "أقام بربع أعداك النواعي"
+      },
+      {
+        "sadr": "أنا العبد الذي سعدي وجدي",
+        "ajuz": "يفوق على السهى في الارتفاع"
+      },
+      {
+        "sadr": "سموت إلى عنان المجد حتى",
+        "ajuz": "علوت ولم أجد في الجو ساع"
+      },
+      {
+        "sadr": "وآخر رام أن يسعى كسعيي",
+        "ajuz": "وجد بجده يبغي اتباعي"
+      },
+      {
+        "sadr": "فقصر عن لحاقي في المعالي",
+        "ajuz": "وقد أعيت به أيدي المساعي"
+      },
+      {
+        "sadr": "ويحمل عدتي فرس كريم",
+        "ajuz": "أقدمه إذا كثر الدواعي"
+      },
+      {
+        "sadr": "وفي كفي صقيل المتن عضب",
+        "ajuz": "يداوي الرأس من ألم الصداع"
+      },
+      {
+        "sadr": "ورمحي السمهري له سنان",
+        "ajuz": "يلوح كمثل نار في يفاع"
+      }
+    ],
+    "translationEn": "One like me does not flinch before the fire of battle, nor do I fall short when called. Abla looked at me when my flowing locks shone like rays of light and exclaimed: By God, what a hero — lions of the lowlands bow before your terror. I told her: Ask the champions about me when the fearful flee the clash of swords. I am the slave whose fortune and glory surpass the Pleiades in height. I climbed to the very sky of glory until I ascended and found no one above me in the heavens. Another tried to follow my path, striving with all his earnestness to catch up — but fell short in the heights while his hands tired of the attempt. A noble horse carries my armor, and in my hand a polished sharp blade cures headaches — and my Samhari spear bears a tip that glimmers like fire on a hilltop.",
+    "vocabularyHighlights": [
+      { "word": "جزوع", "meaning": "one who cries out and trembles in pain or fear" },
+      { "word": "لظى", "meaning": "blazing fire, the intense heat of battle" },
+      { "word": "مفرق اللمة", "meaning": "the parting of the flowing hair (mark of a hero)" },
+      { "word": "القراع", "meaning": "the clash of swords, fierce combat" },
+      { "word": "النواعي", "meaning": "mourning cries; places of wailing (left by the defeated)" },
+      { "word": "عنان المجد", "meaning": "the reins/horizon of glory" },
+      { "word": "العضب", "meaning": "a sharp cutting sword" },
+      { "word": "السمهري", "meaning": "a type of lance, very stiff and straight, from Samhar" }
+    ],
+    "context": "A poem in which Abla's admiring exclamation provides the dramatic center — she praises Antara directly and he responds with a proud self-description. This structure, where the beloved becomes the witness and affirmer of the warrior's glory, is a distinctive feature of Antara's integration of ghazal and fakhr."
+  },
+  {
+    "id": "antara-53",
+    "poetId": "antara",
+    "titleAr": "وسطت بسيفي في النفوس مبيدة",
+    "titleEn": "I Drove My Sword Through Souls",
+    "genre": "fakhr",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "وسطت بسيفي في النفوس مبيدة",
+        "ajuz": "من لا يجيب مقالها ويطيعها"
+      },
+      {
+        "sadr": "قف بالمنازل إن شجتك ربوعها",
+        "ajuz": "فلعل عينك يستهل دموعها"
+      },
+      {
+        "sadr": "واسأل عن الأظعان أين سرت",
+        "ajuz": "بها آباؤها ومتى يكون رجوعها"
+      },
+      {
+        "sadr": "دار لعبلة شط عنك مزارها",
+        "ajuz": "ونأت ففارق مقلتيك هجوعها"
+      },
+      {
+        "sadr": "فسقتك يا أرض الشربة مزنة",
+        "ajuz": "منهلة يروى ثراك هجوعها"
+      },
+      {
+        "sadr": "وكسا الربيع رباك في أزهاره",
+        "ajuz": "حللا إذا ما الأرض فاح ربيعها"
+      },
+      {
+        "sadr": "كم ليلة عانقت فيها غادة",
+        "ajuz": "ولمن صحبنا خيلها ودروعها"
+      },
+      {
+        "sadr": "شمس إذا طلعت سجدت جلالة",
+        "ajuz": "لجمالها وجلا الظلام طلوعها"
+      },
+      {
+        "sadr": "يا عبل! لا تخشي علي من العدى",
+        "ajuz": "يوما إذا اجتمعت علي جموعها"
+      },
+      {
+        "sadr": "إن المنية يا عبيلة دوحة",
+        "ajuz": "وأنا ورمحي أصلها وفروعها"
+      },
+      {
+        "sadr": "وغدا يمر على الأعاجم من يدي",
+        "ajuz": "كأس أمر من السموم نقيعها"
+      },
+      {
+        "sadr": "وأذيقها طعنا تذل لوقعه",
+        "ajuz": "ساداتها ويشيب منه رضيعها"
+      },
+      {
+        "sadr": "وإذا جيوش الكسروى تبادرت",
+        "ajuz": "نحوي وأبدت ما تكن ضلوعها"
+      },
+      {
+        "sadr": "يا عبل! لو أن المنية صورت",
+        "ajuz": "لغدا إلي سجودها وركوعها"
+      }
+    ],
+    "translationEn": "I drove my sword through souls to annihilate those who would not answer its call and submit. Stand at the dwellings — if their ruins grieve you, perhaps your eyes will pour their tears. Ask where the litters have gone, where the fathers led them, and when they will return. Abla's home is now far from you — since it went distant, sleep has left your eyes. I blessed the land of al-Shurba with morning rains to water its soil, and spring clothed its hills in blooms. O Abla, fear not for me when enemies gather in their multitudes — death itself is a great tree and I am its root and branches. Tomorrow my hand will pass the Persians a cup more bitter than poison, and I shall make their leaders bow to my spear's thrust until even the nursing infant's hair turns white with terror. If Death itself were given form, it would prostrate itself before me.",
+    "vocabularyHighlights": [
+      { "word": "وسط (فعل)", "meaning": "to place oneself in the midst, to drive through the center" },
+      { "word": "الأظعان", "meaning": "camel-litters carrying women; the departing caravans" },
+      { "word": "المزنة", "meaning": "a single rain-cloud, a blessed downpour" },
+      { "word": "الدوحة", "meaning": "a great wide-spreading tree" },
+      { "word": "السموم", "meaning": "a deadly poison; also the hot desert wind" },
+      { "word": "الكسروى", "meaning": "belonging to Khosrow (the Persian king), i.e., the Persian armies" },
+      { "word": "الضلوع", "meaning": "ribs — here: what the chest conceals within" },
+      { "word": "الرضيع", "meaning": "a nursing infant — hyperbole for the terror of battle" }
+    ],
+    "context": "A poem that combines a nasib (elegy for deserted ruins) with boasts against Persian armies. The declaration that 'death itself is a tree and I am its root' is among Antara's most memorable self-mythologizing metaphors, presenting him as the very substance and instrument of mortality."
+  },
+  {
+    "id": "antara-54",
+    "poetId": "antara",
+    "titleAr": "إذا الأبطال فرت خوف بأسي",
+    "titleEn": "When Heroes Flee My Might",
+    "genre": "fakhr",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "إذا الأبطال فرت خوف بأسي",
+        "ajuz": "ترى الأقطار باعا أو ذراعا"
+      },
+      {
+        "sadr": "إذا كشف الزمان لك القناعا",
+        "ajuz": "ومد إليك صرف الدهر باعا"
+      },
+      {
+        "sadr": "فلا تخش المنية والتقيها",
+        "ajuz": "ودافع ما استطعت لها دفاعا"
+      },
+      {
+        "sadr": "ولا تختر فراشا من حرير",
+        "ajuz": "ولا تبك المنازل والبقاعا"
+      },
+      {
+        "sadr": "وحولك نسوة يندبن حزنا",
+        "ajuz": "ويهتكن البراقع واللقاعا"
+      },
+      {
+        "sadr": "يقول لك الطبيب دواك عندي",
+        "ajuz": "إذا ما جس كفك والذراعا"
+      },
+      {
+        "sadr": "ولو عرف الطبيب دواء داء",
+        "ajuz": "يرد الموت ما قاسى النزاعا"
+      },
+      {
+        "sadr": "وفي يوم المصانع قد تركنا",
+        "ajuz": "لنا بفعالنا خبرا مشاعا"
+      },
+      {
+        "sadr": "أقمنا بالذوابل سوق حرب",
+        "ajuz": "وصيرنا النفوس لها متاعا"
+      },
+      {
+        "sadr": "حصاني كان دلال المنايا",
+        "ajuz": "فخاض غبارها وشرى وباعا"
+      },
+      {
+        "sadr": "وسيفي كان في الهيجا طبيبا",
+        "ajuz": "يداوي رأس من يشكو الصداع"
+      },
+      {
+        "sadr": "أنا العبد الذي خبرت عنه",
+        "ajuz": "وقد عاينتني فدع السماعا"
+      },
+      {
+        "sadr": "ولو أرسلت رمحي مع جبان",
+        "ajuz": "لكان بهيبتي يلقى السباعا"
+      },
+      {
+        "sadr": "ملأت الأرض خوفا من حسامي",
+        "ajuz": "وخصمي لم يجد فيها اتساعا"
+      }
+    ],
+    "translationEn": "When heroes flee in terror of my might, the very horizons seem a cubit or forearm in their shrunken fear. When fate unveils its face to you and time extends its arm in your direction, do not fear death — meet it and resist as best you can. Do not choose a silk bed to die upon; do not weep over ruins and places. If a physician offers to cure you, he is deceived — if doctors knew a cure for death, none would suffer its final agony. At the Day of al-Masani, our deeds spread our fame everywhere. We set up the market of war with our spears, trading souls as merchandise. My horse was the broker of death, wading into its dust buying and selling. My sword was the physician of battle, healing headaches by removing the head. I am the slave you have heard of — now you see me with your own eyes, so you need no more hearsay. I filled the earth with fear of my sword, leaving no room for my foe.",
+    "vocabularyHighlights": [
+      { "word": "الأقطار", "meaning": "the cardinal directions, the expanses of the earth" },
+      { "word": "صرف الدهر", "meaning": "the reversals/blows of time" },
+      { "word": "اللقاع", "meaning": "face-veil coverings worn over the veil" },
+      { "word": "النزاع", "meaning": "the death-agony, the final struggle of the dying" },
+      { "word": "المصانع", "meaning": "a battle site; also cisterns/fortifications" },
+      { "word": "الذوابل", "meaning": "long spears, lances (pl. of ذابل)" },
+      { "word": "دلال المنايا", "meaning": "the broker of death — the horse personified as a market-agent" },
+      { "word": "الهيجا", "meaning": "the battle, the clash of war (poetic)" }
+    ],
+    "context": "A poem of pure fakhr that opens with the image of fleeing heroes making the earth seem small, then moves into philosophical advice on facing death, followed by boasts about the battle of al-Masani. The black humor of calling Antara's sword 'the physician who cures headaches' is a characteristic sample of his martial wit."
+  },
+  {
+    "id": "antara-55",
+    "poetId": "antara",
+    "titleAr": "فصبرت عارفة لذلك حرة",
+    "titleEn": "She Bore It with Knowing Patience",
+    "genre": "wasf",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "فصبرت عارفة لذلك حرة",
+        "ajuz": "ترسو إذا نفس الجبان تطلع"
+      },
+      {
+        "sadr": "وجرى بينهم الغراب الأبقع",
+        "ajuz": "خرق الجناح كأن لحيي رأسه"
+      },
+      {
+        "sadr": "جلمان بالأخبار هش مولع",
+        "ajuz": "فزجرته ألا يفرخ عشه"
+      },
+      {
+        "sadr": "أبدا ويصبح واحدا يتفجع",
+        "ajuz": "كمدلة عجزاء تلحم ناهضا"
+      },
+      {
+        "sadr": "في الوكر موقعها الشظاء الأرفع",
+        "ajuz": "إن الذين نعيت لي بفراقهم"
+      },
+      {
+        "sadr": "قد أسهروا ليلي التمام فأوجعوا",
+        "ajuz": "ومغيرة شعواء ذات أشلة"
+      },
+      {
+        "sadr": "فيها الفوارس حاسر ومقنع",
+        "ajuz": "فزجرتها عن نسوة من عامر"
+      },
+      {
+        "sadr": "وعرفت أن منيتي إن تأتني",
+        "ajuz": "لا ينجني منها الفرار الأسرع"
+      }
+    ],
+    "translationEn": "She endured it with a knowing patience, as a freeborn woman stands firm when the coward's soul flees in panic. The piebald crow ran between them, tattered of wing, its beak like a pair of scissors eager for news — I drove it away so it would never nest again, destined to wail alone. Those whose parting was foretold to me have kept me awake entire nights in pain. A swift devastating raid with its battalions swept through, riders bareheaded and helmeted among them — I turned it away from the women of Amir's clan. And I understood: when my death comes for me, not even the swiftest flight can save me from it.",
+    "vocabularyHighlights": [
+      { "word": "ترسو", "meaning": "to stand firm, to be anchored (like a ship)" },
+      { "word": "تطلع", "meaning": "to leap up and flee, to rush away in panic" },
+      { "word": "الغراب الأبقع", "meaning": "the piebald (pied) crow, omen of separation" },
+      { "word": "جلمان", "meaning": "scissors or shears (dual), used as a simile for the crow's beak" },
+      { "word": "مدلة عجزاء", "meaning": "a mother bird unable to move who feeds her fledgling in the nest" },
+      { "word": "مغيرة شعواء", "meaning": "a devastating swift raid, chaotic assault" },
+      { "word": "حاسر", "meaning": "bare-headed, without helmet (in battle)" },
+      { "word": "مقنع", "meaning": "fully helmeted, armored to the head" }
+    ],
+    "context": "An unusual poem in Antara's corpus that features a woman as its central figure of endurance alongside an extended bird-omen description. The piebald crow heralding separation is a standard image in pre-Islamic poetry, but Antara's drive to ward it off gives the passage a distinctive energy."
+  },
+  {
+    "id": "antara-56",
+    "poetId": "antara",
+    "titleAr": "وآخر منهم أجررت رمحي",
+    "titleEn": "Another I Dragged Along My Spear",
+    "genre": "fakhr",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "وآخر منهم أجررت رمحي",
+        "ajuz": "وفي البجلي معبلة وقيع"
+      },
+      {
+        "sadr": "فلو لاقيتني وعلي درعي",
+        "ajuz": "علمت علام تحتمل الدروع"
+      },
+      {
+        "sadr": "تركت جبيلة بن أبي عدي",
+        "ajuz": "يبل ثيابه علق نجيع"
+      }
+    ],
+    "translationEn": "Another enemy I dragged on my spear — the broad-headed spear-tip buried in Bajali. Had you met me while I wore my armor, you would have learned why armor is worth bearing. I left Jubaylah ibn Abi Adi soaking his garments with the dark flowing blood that clung to him.",
+    "vocabularyHighlights": [
+      { "word": "أجررت الرمح", "meaning": "to drag the spear through an enemy, leaving it lodged in the wound" },
+      { "word": "المعبلة", "meaning": "a broad, wide-bladed spearhead" },
+      { "word": "وقيع", "meaning": "a sharpened blade, one that has been honed" },
+      { "word": "الدرع", "meaning": "a coat of mail, chainmail armor" },
+      { "word": "علق", "meaning": "clotting blood, gore that clings" },
+      { "word": "نجيع", "meaning": "dark flowing blood" }
+    ],
+    "context": "A brief but fierce three-verse fragment cataloguing specific combat kills. The mention of Jubaylah ibn Abi Adi soaked in blood is a typical example of Antara's naming of defeated enemies as a form of boast and historical record."
+  },
+  {
+    "id": "antara-57",
+    "poetId": "antara",
+    "titleAr": "كتائب شهبا فوق كل كتيبة",
+    "titleEn": "Gleaming Battalions Above All Others",
+    "genre": "fakhr",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "كتائب شهبا فوق كل كتيبة",
+        "ajuz": "لواء كظل الطائر المتصرف"
+      },
+      {
+        "sadr": "ألا هل أتاها أن يوم عراعر",
+        "ajuz": "شفى سقما لو كانت النفس تشتفى"
+      },
+      {
+        "sadr": "فجئنا على عمياء ما جمعوا لنا",
+        "ajuz": "بأرعن لا خل ولا متكشف"
+      },
+      {
+        "sadr": "تماروا بنا إذ يمدرون حياضهم",
+        "ajuz": "على ظهر مقصي من الأمر محصف"
+      },
+      {
+        "sadr": "وما نذروا حتى غشينا بيوتهم",
+        "ajuz": "بغيبة موت مسبل الودق مزعف"
+      },
+      {
+        "sadr": "فظلنا نكر المشرفية فيهم",
+        "ajuz": "وخرصان لدن السمهري المثقف"
+      },
+      {
+        "sadr": "علالتنا في كل يوم كريهة",
+        "ajuz": "بأسيافنا والقرح لم يتقرف"
+      },
+      {
+        "sadr": "أبينا فلا نعطي السواء عدونا",
+        "ajuz": "قياما بأعضاد السراء المعطف"
+      },
+      {
+        "sadr": "بكل هتوف عجسها رضوية",
+        "ajuz": "وسهم كسير الحميري المؤنف"
+      },
+      {
+        "sadr": "فإن يك عز في قضاعة ثابت",
+        "ajuz": "فأن لنا برحرحان وأسقف"
+      }
+    ],
+    "translationEn": "Gleaming battalions, over each one a banner like the shadow of a wide-winged bird in flight. Has news not reached her that the Day of Arayr healed a sickness no soul could otherwise cure? We came upon them blindly — they had assembled a disorganized, leaderless mass against us. They doubted our approach while still plastering their water-troughs, caught unaware on the back of one kept ignorant of affairs. They had no warning until we overwhelmed their homes like the sudden descent of lethal hidden rain. All day we kept charging with Mushrafiya swords and supple Samhari lances, returning to battle again and again while wounds had yet to crust. We refused to give our enemy an inch of equal ground. If the tribe of Qudha'a boasts of its glory at Rahrahar and Asqaf, we have our answer there.",
+    "vocabularyHighlights": [
+      { "word": "كتائب شهباء", "meaning": "gleaming battalions of warriors (شهباء = white-gleaming)" },
+      { "word": "المشرفية", "meaning": "Yemeni swords of the finest quality" },
+      { "word": "خرصان", "meaning": "spear-tips, the points of lances" },
+      { "word": "علالة", "meaning": "a second charge or return to battle after the first" },
+      { "word": "القرح", "meaning": "wounds on men and horses from battle" },
+      { "word": "هتوف", "meaning": "a bow that hums (makes a sound) when the string is drawn" },
+      { "word": "عجس", "meaning": "the grip/handle of a bow" },
+      { "word": "رضوية", "meaning": "from Radwa, a mountain in Arabia known for its wood for bows" }
+    ],
+    "context": "A battle poem recounting the Day of Arayr, one of the famous battle-days of the pre-Islamic Arabs. The detail of enemies being caught while still plastering water-troughs vividly depicts the surprise of the raid, and the closing challenge to Qudha'a situates the poem within tribal rivalry."
+  },
+  {
+    "id": "antara-58",
+    "poetId": "antara",
+    "titleAr": "وإن يعيبوا سوادا قد كسيت به",
+    "titleEn": "If They Fault My Darkness",
+    "genre": "fakhr",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "وإن يعيبوا سوادا قد كسيت به",
+        "ajuz": "فالدر يستره ثوب من الصدف"
+      },
+      {
+        "sadr": "يا عبل قري بوادي الرمل آمنة",
+        "ajuz": "من العداة وإن خوفت لا تخفي"
+      },
+      {
+        "sadr": "فدون بيتك أسد في أناملها",
+        "ajuz": "بيض تقد أعالي البيض والحجف"
+      },
+      {
+        "sadr": "لله در عبس لقد بلغوا",
+        "ajuz": "كل الفخار ونالوا غاية الشرف"
+      },
+      {
+        "sadr": "خافوا من الحرب لما أبصروا فرسي",
+        "ajuz": "تحت العجاجة يهوي بي إلى التلف"
+      },
+      {
+        "sadr": "ثم اقتفوا أثري من بعد ما",
+        "ajuz": "علموا أن المنية سهم غير منصرف"
+      },
+      {
+        "sadr": "خضت الغبار ومهري أدهم حلك",
+        "ajuz": "فعاد مختضبا بالدم والجيف"
+      },
+      {
+        "sadr": "ما زلت أنصف خصمي وهو يظلمني",
+        "ajuz": "حتى غدا من حسامي غير منتصف"
+      }
+    ],
+    "translationEn": "If they fault the darkness with which I am clothed, know that pearls are hidden in the darkness of their oyster shells. O Abla, rest safely in the valley of sand — fear not your enemies, and do not be frightened even when threats come. Before your tent stand lions whose fingertips carry white blades that cleave helmets and shields. By God, the tribe of Abs has attained all glory and reached the pinnacle of honor. They feared the war when they saw my horse plunging through the dust carrying me toward destruction — then they followed in my wake when they understood that death is an arrow that never turns aside. I waded into the dust on my jet-black horse until it returned dyed in blood and gore. I was always fair to my enemy even as he wronged me — until my sword gave him no further claim to fairness.",
+    "vocabularyHighlights": [
+      { "word": "الدر", "meaning": "pearls — compared to Antara's inner worth hidden by dark skin" },
+      { "word": "الصدف", "meaning": "the oyster shell that conceals the pearl" },
+      { "word": "الحجف", "meaning": "shields made of hide (pl. of حجفة)" },
+      { "word": "العجاجة", "meaning": "a thick cloud of battle-dust" },
+      { "word": "أدهم حلك", "meaning": "jet-black (of extreme darkness, said of a horse)" },
+      { "word": "مختضب", "meaning": "dyed, stained (here: with blood)" },
+      { "word": "غير منصرف", "meaning": "one who has no recourse, one who cannot deflect anything" },
+      { "word": "التلف", "meaning": "destruction, annihilation, certain death" }
+    ],
+    "context": "This poem returns to the theme of racial pride with the pearl-and-oyster simile — one of Arabic poetry's most celebrated images of inner worth concealed by outer darkness. The reassurance to Abla followed by boasting about the tribe of Abs frames the poem within Antara's dual identity as warrior-lover."
+  },
+  {
+    "id": "antara-59",
+    "poetId": "antara",
+    "titleAr": "قد أطعن الطعنة النجلاء عن عرض",
+    "titleEn": "I Deliver the Wide Devastating Thrust",
+    "genre": "fakhr",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "قد أطعن الطعنة النجلاء عن عرض",
+        "ajuz": "تصفر كف أخيها وهو منزوف"
+      },
+      {
+        "sadr": "أمن سهية دمع العين تذريف",
+        "ajuz": "لو أن ذا منك قبل اليوم معروف"
+      },
+      {
+        "sadr": "كأنها يوم صدت ما تكلمني",
+        "ajuz": "ظبي بعسفان ساجي الطرف مطروف"
+      },
+      {
+        "sadr": "تجللتني إذ أهوى العصا قبلي",
+        "ajuz": "كأنها صنم يعتاد معكوف"
+      },
+      {
+        "sadr": "المال مالكم والعبد عبدكم",
+        "ajuz": "فهل عذابك عني اليوم مصروف"
+      },
+      {
+        "sadr": "تنسى بلائي إذا ما غارة لقحت",
+        "ajuz": "تخرج منها الطوالات السواعيف"
+      },
+      {
+        "sadr": "يخرجن منها وقد بلت رحائلها",
+        "ajuz": "بالماء يركضها المرد الغطاريف"
+      }
+    ],
+    "translationEn": "I deliver the wide devastating thrust broadside, so that the victim's brother's hand turns yellow as he bleeds out. Is it from the water-spring Suhayyah that your eyes weep? Would that this tenderness had been known from you before today. On the day she turned away and would not speak to me, she was like a gazelle at Usfan, heavy-lidded and blinking. She covered me when the stick fell — as if she were an idol regularly visited for devotion. The wealth is yours and the slave is yours — will your torment of me be turned aside today? You forget my valor when a raid blazes into fury and the tall swift she-camels emerge from it — they ride out with their saddle-girths drenched in water, urged on by young noble riders.",
+    "vocabularyHighlights": [
+      { "word": "الطعنة النجلاء", "meaning": "a wide, devastating spear-thrust" },
+      { "word": "منزوف", "meaning": "one who is completely drained of blood, bleeding to death" },
+      { "word": "سهية", "meaning": "a spring or pool name; source of weeping (here a pun)" },
+      { "word": "مطروف", "meaning": "one whose eyes move rapidly (of a startled gazelle)" },
+      { "word": "معكوف", "meaning": "dedicated, regularly visited (of an idol-shrine)" },
+      { "word": "الغطاريف", "meaning": "generous noble young men (pl. of غطريف)" },
+      { "word": "السواعيف", "meaning": "swift, strong she-camels" },
+      { "word": "الرحائل", "meaning": "saddles, litters (pl. of رحل)" }
+    ],
+    "context": "A complex poem mixing combat description with a tender, conflicted description of a woman who showed compassion by shielding Antara when he was struck, and his ambivalent gratitude. The image of a gazelle at Usfan is a reference to a specific geography familiar to early Arab audiences."
+  },
+  {
+    "id": "antara-60",
+    "poetId": "antara",
+    "titleAr": "عمرو بن أسود فا زباء قاربة",
+    "titleEn": "Amr ibn Aswad by the Water of Kullab",
+    "genre": "hija",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "عمرو بن أسود فا زباء قاربة",
+        "ajuz": "ماء الكلاب عليها الطنء معناق"
+      },
+      {
+        "sadr": "قد أوعدوني بأرماح معلبة",
+        "ajuz": "سود لقطن من الحومان أخلاق"
+      },
+      {
+        "sadr": "لم يسلبوها ولم يعطوا بها ثمنا",
+        "ajuz": "أيدي النعام فلا أسقاهم الساقي"
+      }
+    ],
+    "translationEn": "Amr ibn Aswad — the Zubabian she-camel approaches the water of al-Kulab, collared and long-necked. They threatened me with age-darkened lances, blackened shafts from Hawman cotton — worn and tattered. They neither captured them fairly nor paid any price for them, merely grabbing like ostriches grabbing — may the cloud never water them.",
+    "vocabularyHighlights": [
+      { "word": "فا زباء", "meaning": "a Zubabian she-camel (from the region of Zaba')" },
+      { "word": "الطنء", "meaning": "a collar or rope tied around the neck of a camel" },
+      { "word": "معناق", "meaning": "long-necked (of a she-camel)" },
+      { "word": "معلبة", "meaning": "lances with iron fittings at the base of the head" },
+      { "word": "الحومان", "meaning": "a place in Arabia known for cotton used to wrap lance shafts" },
+      { "word": "أخلاق", "meaning": "old, worn out, tattered" },
+      { "word": "أيدي النعام", "meaning": "like the hands of ostriches — grabbing clumsily" }
+    ],
+    "context": "A brief satirical hija poem targeting Amr ibn Aswad, mocking his enemies' threats as hollow and their weapons as old and decrepit. The camel imagery at the opening is used to establish the scene of a watering-place where the confrontation is set."
+  },
+  {
+    "id": "antara-61",
+    "poetId": "antara",
+    "titleAr": "فلتعلمن إذا التقت فرساننا",
+    "titleEn": "You Will Learn When Our Cavalry Meets",
+    "genre": "fakhr",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "فلتعلمن إذا التقت فرساننا",
+        "ajuz": "بلوى النجيرة أن ظنك أحمق"
+      },
+      {
+        "sadr": "سائل عميرة حيث حلت جمعها",
+        "ajuz": "عند الحروب بأي حي تلحق"
+      },
+      {
+        "sadr": "أبحي قيس أم بعذرة بعدما",
+        "ajuz": "رفع اللواء لها وبئس الملحق"
+      },
+      {
+        "sadr": "واسأل حذيفة حين أرش بيننا",
+        "ajuz": "حربا ذوائبها بموت تخفق"
+      }
+    ],
+    "translationEn": "You will know, when our cavalry meets at the bend of al-Nujayr, that your opinion was foolish. Ask Umayra, when her people assemble for battle, which tribe she will attach herself to — will she join the clan of Qays or Udhra after the banner was raised for her, and what a miserable attachment that would be! Ask Hudhayfa, when he stirred up between us a war whose banners flutter with death.",
+    "vocabularyHighlights": [
+      { "word": "لوى النجيرة", "meaning": "the bend/curve of al-Nujayr, a geographic feature" },
+      { "word": "أحمق", "meaning": "foolish, stupid (said of a person or their notion)" },
+      { "word": "الملحق", "meaning": "the one attached to, the ally chosen; here used with contempt" },
+      { "word": "أرش", "meaning": "to incite, to stir up strife between parties" },
+      { "word": "ذوائب", "meaning": "the hanging locks of a banner; the fluttering edges of a flag" }
+    ],
+    "context": "A short defiant poem addressed to a specific opponent, threatening reckoning at the place called al-Nujayr. The mention of Hudhayfa as one who incited war situates the poem in a specific tribal conflict, likely part of the wars of the tribe of Abs."
+  },
+  {
+    "id": "antara-62",
+    "poetId": "antara",
+    "titleAr": "ما سابق الناس يوم الفضل مكرمة",
+    "titleEn": "None Has Outrun Me to Honor",
+    "genre": "fakhr",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "ما سابق الناس يوم الفضل مكرمة",
+        "ajuz": "إلا بدرت إليها حيث تستبق"
+      },
+      {
+        "sadr": "لقد وجدنا زبيدا غير صابرة",
+        "ajuz": "يوم التقينا وخيل الموت تستبق"
+      },
+      {
+        "sadr": "إذ أدبروا فعلمنا في ظهورهم",
+        "ajuz": "ما تعمل النار في الحلفي فتحترق"
+      },
+      {
+        "sadr": "وخالد قد تركت الطير عاكفة",
+        "ajuz": "على دماه وما في جسمه رمق"
+      },
+      {
+        "sadr": "خلقت للحرب أحميها إذا بردت",
+        "ajuz": "وأصطلي بلظاها حيث أحترق"
+      },
+      {
+        "sadr": "وألتقي الطعن تحت النقع مبتسما",
+        "ajuz": "والخيل عابسة قد بلها العرق"
+      },
+      {
+        "sadr": "لو سابقتني المنايا وهي طالبة",
+        "ajuz": "قبض النفوس أتاني قبلها السبق"
+      },
+      {
+        "sadr": "ولي جواد لدى الهيجاء ذو شغب",
+        "ajuz": "يسابق الطير حتى ليس يلتحق"
+      },
+      {
+        "sadr": "ولي حسام إذا ما سل في رهج",
+        "ajuz": "يشق هام الأعادي حين يمتشق"
+      },
+      {
+        "sadr": "أنا الهزبر إذا خيل العدا طلعت",
+        "ajuz": "يوم الوغى ودماء الشوس تندفق"
+      },
+      {
+        "sadr": "ما عبست حومة الهيجاء وجه فتى",
+        "ajuz": "إلا ووجهي إليها باسم طلق"
+      }
+    ],
+    "translationEn": "Whenever people have raced toward an honor on a day of virtue, I have reached it before them at the finishing line. We found Zubayd incapable of endurance when we met and the horses of death ran their race. When they turned their backs to flee, we learned on their backs what fire does to dry esparto grass as it burns. I left Khalid with birds hovering over his blood while no breath remained in his body. I was created for war — I stoke its fire when it cools and bask in its blaze where it burns me. I meet the spear-thrusts smiling in the battle-dust while horses grimace drenched in sweat. If death itself raced me while seeking to seize souls, I would reach the finish before it. I am the lion when the enemy's cavalry appears on the day of war and the brave men's blood streams — whenever battle frowns upon a warrior's face, my face turns toward it smiling.",
+    "vocabularyHighlights": [
+      { "word": "يستبق", "meaning": "to race one another, to compete in reaching first" },
+      { "word": "الحلفي", "meaning": "esparto grass, dry desert grass that burns fiercely" },
+      { "word": "لا رمق فيه", "meaning": "no breath of life remains in him" },
+      { "word": "النقع", "meaning": "battle-dust raised by charging horses" },
+      { "word": "ذو شغب", "meaning": "a spirited, fiery, restless horse" },
+      { "word": "الهزبر", "meaning": "the lion (one of the poetic names for the lion)" },
+      { "word": "الشوس", "meaning": "brave warriors, those who look sideways with pride and courage" },
+      { "word": "حومة الهيجاء", "meaning": "the thick of battle, the most intense zone of fighting" }
+    ],
+    "context": "A sustained fakhr poem built around the metaphor of racing — to glory, to battle, to death itself. Antara presents himself as outrunning not only human rivals but death itself, culminating in the famous image of smiling toward the frowning face of war."
+  },
+  {
+    "id": "antara-63",
+    "poetId": "antara",
+    "titleAr": "عساه يجود لي بمراد عمي",
+    "titleEn": "Perhaps He Will Grant My Uncle's Demand",
+    "genre": "fakhr",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "عساه يجود لي بمراد عمي",
+        "ajuz": "وينعم بالجمال وبالنياق"
+      },
+      {
+        "sadr": "ترى علمت عبيلة ما ألاقي",
+        "ajuz": "من الأهوال في أرض العراق"
+      },
+      {
+        "sadr": "طغاني بالريا والمكر عمي",
+        "ajuz": "وجار علي في طلب الصداق"
+      },
+      {
+        "sadr": "فخضت بمهجتي بحر المنايا",
+        "ajuz": "وسرت إلى العراق بلا رفاق"
+      },
+      {
+        "sadr": "وسقت النوق والرعيان وحدي",
+        "ajuz": "وعدت أجد من نار اشتياقي"
+      },
+      {
+        "sadr": "وما أبعدت حتى ثار خلفي",
+        "ajuz": "غبار سنابك الخيل العتاق"
+      },
+      {
+        "sadr": "وطبق كل ناحية غبار",
+        "ajuz": "وأشعل بالمهندة الرفاق"
+      },
+      {
+        "sadr": "وضجت تحته الفرسان حتى",
+        "ajuz": "حسبت الرعد محلول النطاق"
+      },
+      {
+        "sadr": "فعدت وقد علمت بأن عمي",
+        "ajuz": "طغاني بالمحال وبالنفاق"
+      },
+      {
+        "sadr": "وبادرت الفوارس وهي تجري",
+        "ajuz": "بطعن في النحور وفي التراقي"
+      },
+      {
+        "sadr": "وما قصرت حتى كل مهري",
+        "ajuz": "وقصر في السباق وفي اللحاق"
+      },
+      {
+        "sadr": "وسقت النوق والرعيان وحدي",
+        "ajuz": "بسيفي مثل سوقي للنياق"
+      },
+      {
+        "sadr": "وفي باقي النهار ضعفت حتى",
+        "ajuz": "أسرت وقد عيي عضدي وساقي"
+      },
+      {
+        "sadr": "وفاض علي بحر من رجال",
+        "ajuz": "بأمواج من السمر الدقاق"
+      },
+      {
+        "sadr": "وقادوني إلى ملك كريم",
+        "ajuz": "رفيع قدره في العزراتي"
+      },
+      {
+        "sadr": "قد لاقيت بين يديه ليثا",
+        "ajuz": "كريه الملتقى مر المذاق"
+      },
+      {
+        "sadr": "بوجه مثل ظهر الترس فيه",
+        "ajuz": "من الأهوال في أرض العراق"
+      },
+      {
+        "sadr": "وعدت إليه أحمل في وثاقي",
+        "ajuz": "عساه يجود لي بمراد عمي"
+      }
+    ],
+    "translationEn": "Perhaps this king will grant me what my uncle demands and bestow upon me the camels and she-herds. Does Abla know what I face in the terrors of Iraq? My uncle deceived me with pretension and treachery, tyrannizing me in his demand for the bride-price. I plunged my life into the sea of death and journeyed to Iraq without companions, driving camels and shepherds alone, returning burning more fiercely with longing. No sooner had I moved far than the dust of noble cavalry's hooves rose behind me, covering every direction as my companions lit their swords. The horsemen roared beneath the dust until I thought thunder had broken loose from its tether. I turned back knowing my uncle had deceived me with impossibilities and hypocrisy, and charged the cavalry with thrusts to their throats and collar-bones. My horse grew exhausted and fell behind — yet I drove the herds alone with my sword as if herding camels. By day's end I weakened and was taken captive, arms and legs spent. A sea of men with waves of slender spears overwhelmed me and led me to a noble king of high station. Before him I faced a grim lion, bitter to encounter, with a face like the back of a shield — and I was brought back to him in my bonds, hoping perhaps he would grant me what my uncle demands.",
+    "vocabularyHighlights": [
+      { "word": "الصداق", "meaning": "the bride-price, the mahr paid by the groom's side" },
+      { "word": "المهجة", "meaning": "one's very life-blood, the soul" },
+      { "word": "سنابك", "meaning": "the tips/edges of horse hooves" },
+      { "word": "النطاق", "meaning": "a belt, a tether — here: 'thunder's tether' (freed thunder)" },
+      { "word": "التراقي", "meaning": "the collar-bones, clavicles (pl. of ترقوة)" },
+      { "word": "العزراتي", "meaning": "of high/noble rank, distinguished in lineage" },
+      { "word": "الوثاق", "meaning": "bonds, the state of being captured and tied" },
+      { "word": "السمر الدقاق", "meaning": "slender tawny-colored spears" }
+    ],
+    "context": "One of the most narrative poems in the batch, telling the story of Antara's journey to Iraq to gather camels as bride-price for Abla, his ambush by cavalry, capture, and being brought before a Persian king. This episode is also elaborated in the legendary romance of Sirat Antar, suggesting this poem has roots in historical as well as legendary tradition."
+  },
+  {
+    "id": "antara-64",
+    "poetId": "antara",
+    "titleAr": "وأوصهم بما تختار منهم",
+    "titleEn": "Give Them Your Final Counsel",
+    "genre": "fakhr",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "وأوصهم بما تختار منهم",
+        "ajuz": "فما لك رجعة بعد التلاقي"
+      },
+      {
+        "sadr": "أمسحل دون ضمك والعناق",
+        "ajuz": "طعان بالمثقفة الدقاق"
+      },
+      {
+        "sadr": "وضربة فيصل من كف ليث",
+        "ajuz": "كريم الجد فاق على الرفاق"
+      },
+      {
+        "sadr": "ودون عبيلة ضرب المواضي",
+        "ajuz": "وطعن منه تكتحل المآقي"
+      },
+      {
+        "sadr": "أنا البطل الذي خبرت عنه",
+        "ajuz": "وذكري شاع في كل الأفاق"
+      },
+      {
+        "sadr": "إذا افتخر الجبان ببذل مال",
+        "ajuz": "ففخري بالمضمرة العتاق"
+      },
+      {
+        "sadr": "وإن طعن الفوارس صدر خصم",
+        "ajuz": "فطعني في النحور وفي التراقي"
+      },
+      {
+        "sadr": "وإني قد سبقت لكل فضل",
+        "ajuz": "فهل من يرتقي مثلي المراقي"
+      },
+      {
+        "sadr": "ألا فاخبر لكندة ما تراه",
+        "ajuz": "قريبا من قتال مع محاق"
+      }
+    ],
+    "translationEn": "Give them your final counsel from those you choose among them — there is no return for you after the encounter. Between you and any embrace or reunion stands the thrusting of slender straight lances. A decisive blow from the fist of a lion of noble ancestry who surpasses all companions. Between you and Abla stands the striking of sharp swords and thrusts that make the eye-corners weep with blood. I am the hero you have heard spoken of — my fame has spread across all horizons. If the coward boasts of spending wealth, my pride is in my lean battle-trained thoroughbreds. When horsemen thrust at an enemy's chest, I thrust at their throats and collar-bones. I have surpassed all others in every excellence — is there anyone who can climb the heights as I have? Go and tell Kinda what they are about to face in a battle from which there is no escape.",
+    "vocabularyHighlights": [
+      { "word": "الرجعة", "meaning": "a return, the possibility of going back" },
+      { "word": "المثقفة الدقاق", "meaning": "straightened, slender spears (pl. of مثقف)" },
+      { "word": "فيصل", "meaning": "decisive, separating blow (the word also means 'judge')" },
+      { "word": "المواضي", "meaning": "sharp, penetrating swords (pl. of ماضية)" },
+      { "word": "المآقي", "meaning": "the corners of the eyes (pl. of مأق)" },
+      { "word": "المضمرة", "meaning": "horses trained and slimmed for racing or battle" },
+      { "word": "المراقي", "meaning": "the heights, the elevated positions of glory" },
+      { "word": "محاق", "meaning": "the moonless nights; here: inescapable annihilation" }
+    ],
+    "context": "A threatening poem likely addressed to the tribe of Kinda, combining the warrior's ultimatum with personal boasts. The poem continues the narrative of the Iraq episode, as Antara asserts that Abla can only be reached through the sword."
+  },
+  {
+    "id": "antara-65",
+    "poetId": "antara",
+    "titleAr": "وكم من سيد خلت ملقى",
+    "titleEn": "How Many Lords I Left Fallen",
+    "genre": "fakhr",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "وكم من سيد خلت ملقى",
+        "ajuz": "يحرك في الدما قدما وساقا"
+      },
+      {
+        "sadr": "صحا من سكره قلبي وفاقا",
+        "ajuz": "وزار النوم أجفاني استراقا"
+      },
+      {
+        "sadr": "وأسعدني الزمان فصار سعدي",
+        "ajuz": "يشق الحجب والسبع الطباقا"
+      },
+      {
+        "sadr": "أنا العبد الذي يلقى المنايا",
+        "ajuz": "غداة الروع لا يخشى المحاقا"
+      },
+      {
+        "sadr": "أكر على الفوارس يوم حرب",
+        "ajuz": "ولا أخشى المهندة الرقاقا"
+      },
+      {
+        "sadr": "وتطربني سيوف الهند حتى",
+        "ajuz": "أهيم إلى مضاربها اشتياقا"
+      },
+      {
+        "sadr": "وإني أعشق السمر العوالي",
+        "ajuz": "وغيري يعشق البيض الرشاقا"
+      },
+      {
+        "sadr": "وكاسات الأسنة لي شراب",
+        "ajuz": "ألذ به اصطباحا واغتباقا"
+      },
+      {
+        "sadr": "وأطراف القنا الخطي نقلي",
+        "ajuz": "وريحاني إذا المضمار ضاقا"
+      },
+      {
+        "sadr": "جزى الله الجواد اليوم عني",
+        "ajuz": "بما يجزي به الخيل العتاقا"
+      },
+      {
+        "sadr": "شققت بصدره موج المنايا",
+        "ajuz": "وخضت النقع لا أخشى اللحاقا"
+      },
+      {
+        "sadr": "ألا يا عبل لو أبصرت فعلي",
+        "ajuz": "وخيل الموت تنطبق انطباقا"
+      },
+      {
+        "sadr": "سلي سيفي ورمحي عن قتالي",
+        "ajuz": "هما في الحرب كانا لي رفاقا"
+      },
+      {
+        "sadr": "سقيتهما دما لو كان يسقى",
+        "ajuz": "به جبلا تهامة ما أفاقا"
+      }
+    ],
+    "translationEn": "How many lords have I left fallen, stirring their feet and legs in the blood. My heart sobered from its intoxication and sleep visited my eyes by stealth. Fortune favored me until my good fortune pierced the very heavens and their seven layers. I am the slave who faces death on the morning of alarm without fearing annihilation. I charge against horsemen on the day of war and do not shrink from the thin Indian blades. The swords of India thrill me until I rush yearning toward their striking edges — while others may love slim white women, I love the tawny lofty spears. The cups of spear-tips are my drink morning and evening, and the tips of Khatti lances are my morsels and my perfume when the arena grows tight. I plunged my horse's chest through the waves of death and waded the battle-dust fearing no pursuit. O Abla, if you could see my deeds when the horses of death close in around me! Ask my sword and spear about my fighting — they were my companions in war. I watered them with so much blood that if it had watered the mountains of Tihama, they would never have recovered from their drunkenness.",
+    "vocabularyHighlights": [
+      { "word": "اصطباحا واغتباقا", "meaning": "morning drink and evening drink — the two main drinking times" },
+      { "word": "القنا الخطي", "meaning": "Khatti lances, famous spears made from the wood of Khatt in eastern Arabia" },
+      { "word": "المضمار", "meaning": "the racetrack, the arena of battle" },
+      { "word": "الجواد", "meaning": "a noble horse (also: generous man)" },
+      { "word": "العتاق", "meaning": "thoroughbred horses of pure lineage" },
+      { "word": "تنطبق", "meaning": "to close in, to shut around (like jaws closing)" },
+      { "word": "جبال تهامة", "meaning": "the mountains of Tihama, the coastal plain of the Hijaz" },
+      { "word": "السمر العوالي", "meaning": "the tawny-colored tall spears (pl. of سمراء عالية)" }
+    ],
+    "context": "The final poem in this batch is a sweeping fakhr in which Antara inverts the conventions of love poetry — instead of longing for a beautiful woman, he declares his passion for swords and spears. The closing hyperbole about watering the mountains of Tihama with blood is one of the most extreme expressions of martial pride in classical Arabic poetry."
+  }
+]

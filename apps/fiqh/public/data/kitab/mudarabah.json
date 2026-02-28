@@ -1,0 +1,122 @@
+{
+  "id": "mudarabah",
+  "titleAr": "كتاب المضاربة",
+  "titleEn": "Silent Partnership",
+  "order": 13,
+  "categoryId": "muamalat",
+  "pageRange": [
+    103,
+    104
+  ],
+  "abwab": [
+    {
+      "id": "mudarabah-main",
+      "kitabId": "mudarabah",
+      "titleAr": "كتاب المضاربة",
+      "titleEn": "Silent Partnership",
+      "order": 1,
+      "sections": [
+        {
+          "id": "mudarabah-main-1-1",
+          "babId": "mudarabah-main",
+          "kitabId": "mudarabah",
+          "titleAr": "كتاب المضاربة",
+          "titleEn": "Silent Partnership",
+          "order": 1,
+          "textAr": "المضاربة: عقد على الشركة بمال من أحد الشريكين وعمل من الآخر\n\nولا تصح المضاربة إلا بالمال الذي بيننا أن الشركة تصح به\n\nومن شرطها: أن يكون الربح بينهما مشاعا لا يستحق أحدهما منه دراهم مسماة ولا بد أن يكون المال مسلما إلى المضارب ولا بد لرب المال فيه\n\nفإذا صحت المضاربة مطلقة جاز للمضارب أن يشتري ويبيع ويسافر ويبضع ويوكل وليس له أن يدفع المال مضاربة إلا أن يأذن له رب المال في ذلك\n\nوإن خص له رب المال التصرف في بلد بعينه أو في سلعة بعينها لم يجز له أن يتجاوز ذلك\n\nوكذلك إن وقت للمضاربة مدة بعينها جاز وبطل العقد بمضيها",
+          "sourcePage": 103,
+          "masail": [
+            {
+              "id": "masalah-mudarabah-main-1-1",
+              "sectionId": "mudarabah-main-1-1",
+              "kitabId": "mudarabah",
+              "titleAr": "كتاب المضاربة",
+              "titleEn": "Silent Partnership",
+              "rulingAr": "المضاربة: عقد على الشركة بمال من أحد الشريكين وعمل من الآخر\n\nولا تصح المضاربة إلا بالمال الذي بيننا أن الشركة تصح به\n\nومن شرطها: أن يكون الربح بينهما مشاعا لا يستحق أحدهما منه دراهم مسماة ولا بد أن يكون المال مسلما إلى المضارب ولا بد لرب المال فيه\n\nفإذا صحت المضاربة مطلقة جاز للمضارب أن يشتري ويبيع ويسافر ويبضع ويوكل وليس له أن يدفع المال مضاربة إلا أن يأذن له رب المال في ذلك\n\nوإن خص له رب المال التصرف في بلد بعينه أو في سلعة بعينها لم يجز له أن يتجاوز ذلك\n\nوكذلك إن وقت للمضاربة مدة بعينها جاز وبطل العقد بمضيها",
+              "rulingEn": "Mudarabah (silent partnership) is a contract of partnership with capital from one of the two partners and labor from the other.\n\nThe mudarabah is not valid except with the type of capital with which we have explained that partnership is valid.\n\nAmong its conditions: the profit must be shared between them as undivided shares; neither of them may stipulate a specified amount of dirhams from it. The capital must be delivered to the mudarib, and the capital provider must have no hand in it.\n\nWhen the mudarabah is validly concluded in unrestricted form, the mudarib may buy, sell, travel, invest as bida'ah, and appoint agents. He may not give the capital as a sub-mudarabah unless the capital provider authorizes him to do so.\n\nIf the capital provider restricts his transactions to a specific city or a specific commodity, the mudarib may not exceed that.\n\nLikewise, if the capital provider fixes a time limit for the mudarabah, it is valid, and the contract terminates upon its expiry.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "Mudarabah (silent partnership) is a contract of partnership with capital from one of the two partners and labor from the other.\n\nThe mudarabah is not valid except with the type of capital with which we have explained that partnership is valid.\n\nAmong its conditions: the profit must be shared between them as undivided shares; neither of them may stipulate a specified amount of dirhams from it. The capital must be delivered to the mudarib, and the capital provider must have no hand in it.\n\nWhen the mudarabah is validly concluded in unrestricted form, the mudarib may buy, sell, travel, invest as bida'ah, and appoint agents. He may not give the capital as a sub-mudarabah unless the capital provider authorizes him to do so.\n\nIf the capital provider restricts his transactions to a specific city or a specific commodity, the mudarib may not exceed that.\n\nLikewise, if the capital provider fixes a time limit for the mudarabah, it is valid, and the contract terminates upon its expiry."
+        },
+        {
+          "id": "mudarabah-main-1-2",
+          "babId": "mudarabah-main",
+          "kitabId": "mudarabah",
+          "titleAr": "كتاب المضاربة",
+          "titleEn": "Silent Partnership",
+          "order": 2,
+          "textAr": "وليس للمضارب أن يشتري أبا رب المال ولا ابنه ولا من يعتق عليه فإن اشتراهم كان مشتريا لنفسه دون المضاربة وإن كان في المال ربح فليس له أن يشتري من يعتق عله فإن اشتراهم ضمن مال المضاربة وإن لم يكن في المال ربح جاز أن يشتريهم فإن زادت قيمتهم عتق نصيبه منهم ولم يضمن لرب المال شيئا ويسعى المعتق لرب المال في قيمة نصيبه منه وإذا دفع المضارب المال مضاربة ولم يأذن له رب المال في ذلك لم يضمن بالدفع ولا بتصرف المضارب الثاني حتى يربح فإذا ربح ضمن المضارب الأول المال\n\nوإذا دفع إليه المال مضاربة",
+          "sourcePage": 103,
+          "masail": [
+            {
+              "id": "masalah-mudarabah-main-1-2",
+              "sectionId": "mudarabah-main-1-2",
+              "kitabId": "mudarabah",
+              "titleAr": "كتاب المضاربة",
+              "titleEn": "Silent Partnership",
+              "rulingAr": "وليس للمضارب أن يشتري أبا رب المال ولا ابنه ولا من يعتق عليه فإن اشتراهم كان مشتريا لنفسه دون المضاربة وإن كان في المال ربح فليس له أن يشتري من يعتق عله فإن اشتراهم ضمن مال المضاربة وإن لم يكن في المال ربح جاز أن يشتريهم فإن زادت قيمتهم عتق نصيبه منهم ولم يضمن لرب المال شيئا ويسعى المعتق لرب المال في قيمة نصيبه منه وإذا دفع المضارب المال مضاربة ولم يأذن له رب المال في ذلك لم يضمن بالدفع ولا بتصرف المضارب الثاني حتى يربح فإذا ربح ضمن المضارب الأول المال\n\nوإذا دفع إليه المال مضاربة",
+              "rulingEn": "The mudarib may not purchase the father, son, or anyone who would be automatically manumitted by the capital provider. If he purchases them, he is deemed to have purchased them for himself, not for the mudarabah. If there is profit in the capital, the mudarib may not purchase anyone who would be automatically manumitted by himself. If he does so, he is liable for the mudarabah capital. If there is no profit in the capital, it is permissible for him to purchase them. If their value increases, his share in them is manumitted, and he owes nothing to the capital provider. The manumitted slave must work to earn the capital provider's share of his value. If the mudarib gives the capital as a sub-mudarabah without the capital provider's authorization, he is not liable by the mere act of giving, nor by the second mudarib's transactions, until a profit is realized. Once profit is realized, the first mudarib is liable for the capital.\n\nIf the capital is given to him as a mudarabah",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "The mudarib may not purchase the father, son, or anyone who would be automatically manumitted by the capital provider. If he purchases them, he is deemed to have purchased them for himself, not for the mudarabah. If there is profit in the capital, the mudarib may not purchase anyone who would be automatically manumitted by himself. If he does so, he is liable for the mudarabah capital. If there is no profit in the capital, it is permissible for him to purchase them. If their value increases, his share in them is manumitted, and he owes nothing to the capital provider. The manumitted slave must work to earn the capital provider's share of his value. If the mudarib gives the capital as a sub-mudarabah without the capital provider's authorization, he is not liable by the mere act of giving, nor by the second mudarib's transactions, until a profit is realized. Once profit is realized, the first mudarib is liable for the capital.\n\nIf the capital is given to him as a mudarabah"
+        },
+        {
+          "id": "mudarabah-main-1-3",
+          "babId": "mudarabah-main",
+          "kitabId": "mudarabah",
+          "titleAr": "كتاب المضاربة",
+          "titleEn": "Silent Partnership",
+          "order": 3,
+          "textAr": "بالنصف فأذن له أن يدفعها مضاربة فدفعها بالثلث فإن كان رب المال قال له على أن رزق الله بيننا نصفان فلرب المال نصف الربح وللمضارب الثاني ثلث الربح وللأول السدس وإن قال على أن ما رزقك الله بيننا نصفان فللمضارب الثاني الثلث وما بقي بين رب المال والمضارب الأول نصفان فإن قال له على أن ما رزق الله فلي نصفه فدفع المال إلى آخر مضاربة بالنصف فللمضارب الثاني نصف الربح ولرب المال النصف ولا شيء للمضارب الأول فإن شرط للمضارب الثاني ثلثي الربح فلرب المال نصف الربح وللمضارب الثاني نصف الربح ويضمن الأول للمضارب الثاني سدس الربح من ماله\n\nوإذا مات رب المال أو المضارب بطلت المضاربة وإن ارتد رب المال عن الإسلام ولحق بدار الحرب بطلت المضاربة\n\nوإذا عزل رب المال المضارب ولم يعلم بعزله حتى اشترى وباع فتصرفه جائز وإن علم بعزله والمال عروض فله أن يبيعها ولا يمنعه العزل من ذلك ثم لا يجوز أن يشتري بثمنها شيئا آخر",
+          "sourcePage": 103,
+          "masail": [
+            {
+              "id": "masalah-mudarabah-main-1-3",
+              "sectionId": "mudarabah-main-1-3",
+              "kitabId": "mudarabah",
+              "titleAr": "كتاب المضاربة",
+              "titleEn": "Silent Partnership",
+              "rulingAr": "بالنصف فأذن له أن يدفعها مضاربة فدفعها بالثلث فإن كان رب المال قال له على أن رزق الله بيننا نصفان فلرب المال نصف الربح وللمضارب الثاني ثلث الربح وللأول السدس وإن قال على أن ما رزقك الله بيننا نصفان فللمضارب الثاني الثلث وما بقي بين رب المال والمضارب الأول نصفان فإن قال له على أن ما رزق الله فلي نصفه فدفع المال إلى آخر مضاربة بالنصف فللمضارب الثاني نصف الربح ولرب المال النصف ولا شيء للمضارب الأول فإن شرط للمضارب الثاني ثلثي الربح فلرب المال نصف الربح وللمضارب الثاني نصف الربح ويضمن الأول للمضارب الثاني سدس الربح من ماله\n\nوإذا مات رب المال أو المضارب بطلت المضاربة وإن ارتد رب المال عن الإسلام ولحق بدار الحرب بطلت المضاربة\n\nوإذا عزل رب المال المضارب ولم يعلم بعزله حتى اشترى وباع فتصرفه جائز وإن علم بعزله والمال عروض فله أن يبيعها ولا يمنعه العزل من ذلك ثم لا يجوز أن يشتري بثمنها شيئا آخر",
+              "rulingEn": "for half, and the capital provider authorizes him to give it as a sub-mudarabah, and he gives it for a third: if the capital provider said to him: \"on the condition that what Allah provides is shared between us equally,\" then the capital provider receives half the profit, the second mudarib receives one-third of the profit, and the first mudarib receives one-sixth. If the capital provider said: \"on the condition that what Allah provides to you is shared between us equally,\" then the second mudarib receives one-third, and what remains is divided equally between the capital provider and the first mudarib. If the capital provider said: \"on the condition that half of what Allah provides is mine,\" and the capital is given to another as a mudarabah for half, then the second mudarib receives half the profit, the capital provider receives half, and the first mudarib receives nothing. If the first mudarib stipulates two-thirds of the profit for the second mudarib, the capital provider receives half the profit, the second mudarib receives half, and the first mudarib is liable to the second mudarib for one-sixth of the profit from his own funds.\n\nIf the capital provider or the mudarib dies, the mudarabah is voided. If the capital provider apostasizes from Islam and joins the abode of war, the mudarabah is voided.\n\nIf the capital provider dismisses the mudarib and the mudarib does not learn of his dismissal until after buying and selling, his transactions are valid. If he learns of his dismissal and the capital is in the form of commodities, he may sell them, and the dismissal does not prevent him from doing so. However, he may not then buy anything with the proceeds.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "for half, and the capital provider authorizes him to give it as a sub-mudarabah, and he gives it for a third: if the capital provider said to him: \"on the condition that what Allah provides is shared between us equally,\" then the capital provider receives half the profit, the second mudarib receives one-third of the profit, and the first mudarib receives one-sixth. If the capital provider said: \"on the condition that what Allah provides to you is shared between us equally,\" then the second mudarib receives one-third, and what remains is divided equally between the capital provider and the first mudarib. If the capital provider said: \"on the condition that half of what Allah provides is mine,\" and the capital is given to another as a mudarabah for half, then the second mudarib receives half the profit, the capital provider receives half, and the first mudarib receives nothing. If the first mudarib stipulates two-thirds of the profit for the second mudarib, the capital provider receives half the profit, the second mudarib receives half, and the first mudarib is liable to the second mudarib for one-sixth of the profit from his own funds.\n\nIf the capital provider or the mudarib dies, the mudarabah is voided. If the capital provider apostasizes from Islam and joins the abode of war, the mudarabah is voided.\n\nIf the capital provider dismisses the mudarib and the mudarib does not learn of his dismissal until after buying and selling, his transactions are valid. If he learns of his dismissal and the capital is in the form of commodities, he may sell them, and the dismissal does not prevent him from doing so. However, he may not then buy anything with the proceeds."
+        },
+        {
+          "id": "mudarabah-main-1-4",
+          "babId": "mudarabah-main",
+          "kitabId": "mudarabah",
+          "titleAr": "كتاب المضاربة",
+          "titleEn": "Silent Partnership",
+          "order": 4,
+          "textAr": "وإن عزله ورأس المال دراهم أو دنانير قد نصت فليس له أن يتصرف فيه\n\nوإذا افترقا وفي المال ديون وقد ربح المضارب فيه أجبره\n\nالحاكم على اقتضاء الديون وإن لم يكن له ربح لم يلزمه الاقتضاء ويقال له: وكل رب المال في الاقتضاء\n\nوما هلك من مال المضاربة فهو من الربح دون رأس المال فإن زاد الهالك على الربح فلا ضمان على المضارب فيه وإن كانا قد اقتسما الربح والمضاربة بحالها ثم هلك المال أو بعضه ترادا الربح حتى يستوفي رب المال رأس المال فإن فضل بشيء كان بينهما وإن عجز عن رأس المال لم يضمن المضارب وإن كانا قد اقتسما الربح وفسخا المضاربة ثم عقداها فهلك المال لم يترادا الربح الأول\n\nويجوز للمضارب أن يبيع بالنقد والسيئة ولا يزوج عبدا ولا أمة من مال المضاربة",
+          "sourcePage": 103,
+          "masail": [
+            {
+              "id": "masalah-mudarabah-main-1-4",
+              "sectionId": "mudarabah-main-1-4",
+              "kitabId": "mudarabah",
+              "titleAr": "كتاب المضاربة",
+              "titleEn": "Silent Partnership",
+              "rulingAr": "وإن عزله ورأس المال دراهم أو دنانير قد نصت فليس له أن يتصرف فيه\n\nوإذا افترقا وفي المال ديون وقد ربح المضارب فيه أجبره\n\nالحاكم على اقتضاء الديون وإن لم يكن له ربح لم يلزمه الاقتضاء ويقال له: وكل رب المال في الاقتضاء\n\nوما هلك من مال المضاربة فهو من الربح دون رأس المال فإن زاد الهالك على الربح فلا ضمان على المضارب فيه وإن كانا قد اقتسما الربح والمضاربة بحالها ثم هلك المال أو بعضه ترادا الربح حتى يستوفي رب المال رأس المال فإن فضل بشيء كان بينهما وإن عجز عن رأس المال لم يضمن المضارب وإن كانا قد اقتسما الربح وفسخا المضاربة ثم عقداها فهلك المال لم يترادا الربح الأول\n\nويجوز للمضارب أن يبيع بالنقد والسيئة ولا يزوج عبدا ولا أمة من مال المضاربة",
+              "rulingEn": "If the capital provider dismisses him and the capital is in the form of dirhams or dinars that are in their original state, the mudarib may not transact with them.\n\nIf they part ways and there are outstanding debts in the capital and the mudarib has earned profit, the judge\n\ncompels the mudarib to collect the debts. If there is no profit for him, he is not required to collect them. He is told: appoint the capital provider as agent for collection.\n\nWhatever is destroyed from the mudarabah capital is taken from the profit, not the principal. If the loss exceeds the profit, the mudarib is not liable for it. If they have divided the profit while the mudarabah is still ongoing and then the capital or part of it is lost, they return the profit until the capital provider recovers his principal. If something remains, it is divided between them. If the capital is insufficient, the mudarib is not liable. If they have divided the profit and terminated the mudarabah, and then they conclude a new one and the capital is lost, they do not return the profit from the first mudarabah.\n\nThe mudarib may sell for cash and on credit. He may not marry off a male or female slave from the mudarabah capital.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "If the capital provider dismisses him and the capital is in the form of dirhams or dinars that are in their original state, the mudarib may not transact with them.\n\nIf they part ways and there are outstanding debts in the capital and the mudarib has earned profit, the judge\n\ncompels the mudarib to collect the debts. If there is no profit for him, he is not required to collect them. He is told: appoint the capital provider as agent for collection.\n\nWhatever is destroyed from the mudarabah capital is taken from the profit, not the principal. If the loss exceeds the profit, the mudarib is not liable for it. If they have divided the profit while the mudarabah is still ongoing and then the capital or part of it is lost, they return the profit until the capital provider recovers his principal. If something remains, it is divided between them. If the capital is insufficient, the mudarib is not liable. If they have divided the profit and terminated the mudarabah, and then they conclude a new one and the capital is lost, they do not return the profit from the first mudarabah.\n\nThe mudarib may sell for cash and on credit. He may not marry off a male or female slave from the mudarabah capital."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "hawalah",
+  "titleAr": "كتاب الحوالة",
+  "titleEn": "Transfer of Debt",
+  "order": 16,
+  "categoryId": "muamalat",
+  "pageRange": [
+    110,
+    110
+  ],
+  "abwab": [
+    {
+      "id": "hawalah-main",
+      "kitabId": "hawalah",
+      "titleAr": "كتاب الحوالة",
+      "titleEn": "Transfer of Debt",
+      "order": 1,
+      "sections": [
+        {
+          "id": "hawalah-main-1",
+          "babId": "hawalah-main",
+          "kitabId": "hawalah",
+          "titleAr": "كتاب الحوالة",
+          "titleEn": "Transfer of Debt",
+          "order": 1,
+          "textAr": "الحوالة: جائزة بالديون وتصح برضا المحيل والمحتال له والمحال عليه وإذا تمت الحوالة برىء المحيل من الدين ولم يرجع المحتال على المحيل إلاأن يتوى حقه والتوى عند أبي حنيفة أحد أمرين: إما أن يجحد الحوالة ويحلف ولا بينة عليه أو يموت مفلسا وقال أبو يوسف ومحمد هاذان ووجه ثالث وهو أن يحكم الحاكم بإفلاسه في حال حياته\n\nوإذا طالب المحال عليه المحيل بمثل مال الحواله فقال المحيل: أحلت بدين لي عليك لم يقبل قوله وكان عليه مثل الدين وإن طالب المحيل المحتال بما أحاله به فقال: إنما أحلتك لتقبضه لي وقال المحتال: بل أحلتني بدين",
+          "sourcePage": 110,
+          "masail": [
+            {
+              "id": "masalah-hawalah-main-1",
+              "sectionId": "hawalah-main-1",
+              "kitabId": "hawalah",
+              "titleAr": "كتاب الحوالة",
+              "titleEn": "Transfer of Debt",
+              "rulingAr": "الحوالة: جائزة بالديون وتصح برضا المحيل والمحتال له والمحال عليه وإذا تمت الحوالة برىء المحيل من الدين ولم يرجع المحتال على المحيل إلاأن يتوى حقه والتوى عند أبي حنيفة أحد أمرين: إما أن يجحد الحوالة ويحلف ولا بينة عليه أو يموت مفلسا وقال أبو يوسف ومحمد هاذان ووجه ثالث وهو أن يحكم الحاكم بإفلاسه في حال حياته\n\nوإذا طالب المحال عليه المحيل بمثل مال الحواله فقال المحيل: أحلت بدين لي عليك لم يقبل قوله وكان عليه مثل الدين وإن طالب المحيل المحتال بما أحاله به فقال: إنما أحلتك لتقبضه لي وقال المحتال: بل أحلتني بدين",
+              "rulingEn": "Transfer of debt (hawalah) is permissible for debts. It is valid with the consent of the transferor, the transferee (creditor), and the person to whom the debt is transferred. When the transfer is completed, the transferor is discharged from the debt. The transferee may not have recourse against the transferor unless his right is lost. Loss (tawa) according to Abu Hanifa is one of two things: either the person upon whom the debt is transferred denies the transfer and swears to it while there is no evidence against him, or he dies insolvent. Abu Yusuf and Muhammad said: these two, plus a third scenario, which is when the judge rules him insolvent during his lifetime.\n\nIf the person upon whom the debt is transferred demands from the transferor the equivalent of the transferred amount, and the transferor says: \"I transferred a debt you owed me,\" his word is not accepted and he owes the equivalent of the debt. If the transferor demands from the transferee what he transferred to him and says: \"I only transferred you so that you would collect it for me,\" and the transferee says: \"Rather, you transferred me for a debt,\"",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "Transfer of debt (hawalah) is permissible for debts. It is valid with the consent of the transferor, the transferee (creditor), and the person to whom the debt is transferred. When the transfer is completed, the transferor is discharged from the debt. The transferee may not have recourse against the transferor unless his right is lost. Loss (tawa) according to Abu Hanifa is one of two things: either the person upon whom the debt is transferred denies the transfer and swears to it while there is no evidence against him, or he dies insolvent. Abu Yusuf and Muhammad said: these two, plus a third scenario, which is when the judge rules him insolvent during his lifetime.\n\nIf the person upon whom the debt is transferred demands from the transferor the equivalent of the transferred amount, and the transferor says: \"I transferred a debt you owed me,\" his word is not accepted and he owes the equivalent of the debt. If the transferor demands from the transferee what he transferred to him and says: \"I only transferred you so that you would collect it for me,\" and the transferee says: \"Rather, you transferred me for a debt,\""
+        }
+      ]
+    }
+  ]
+}

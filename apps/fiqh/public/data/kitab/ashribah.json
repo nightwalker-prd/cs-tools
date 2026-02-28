@@ -1,0 +1,47 @@
+{
+  "id": "ashribah",
+  "titleAr": "كتاب الأشربة",
+  "titleEn": "Beverages",
+  "order": 44,
+  "categoryId": "ibadat",
+  "pageRange": [
+    194,
+    194
+  ],
+  "abwab": [
+    {
+      "id": "ashribah-main",
+      "kitabId": "ashribah",
+      "titleAr": "كتاب الأشربة",
+      "titleEn": "Beverages",
+      "order": 1,
+      "sections": [
+        {
+          "id": "ashribah-main-1",
+          "babId": "ashribah-main",
+          "kitabId": "ashribah",
+          "titleAr": "كتاب الأشربة",
+          "titleEn": "Beverages",
+          "order": 1,
+          "textAr": "الأشربة المحرمة أربعة: الخمر وهي: عصير العنب إذا إلى واشتد وقذف بالزبد والعصير إذا طبخ حتى ذهب أقل من ثلثيه ونقيع التمر والزبيب إذا اشتد ونبيذ التمر والزبيب إذا طبخ كل واحد منهما أدنى طبخ حلال وإن اشتد إذا شرب منه ما يغلب في ظنه أنه لا يسكره من غير لهو ولا طرب ولا بأس بالخليطين ونبيذ العسل والتين والحنطة والشعير والذرة حلال وإن لم يطبخ\n\nوعصير العنب إذا طبخ حتى ذهب منه ثلثاه وبقي ثلثه حلال وإن اشتد ولا بأس بالانتباذ في الدباء والحنتم والمزفت والنقير\n\nوإذا تخللت الخمر حلت سواء صارت خلا بنفسها أو بشيء طرح فيها ولا يكره تخليلها",
+          "sourcePage": 194,
+          "masail": [
+            {
+              "id": "masalah-ashribah-main-1",
+              "sectionId": "ashribah-main-1",
+              "kitabId": "ashribah",
+              "titleAr": "كتاب الأشربة",
+              "titleEn": "Beverages",
+              "rulingAr": "الأشربة المحرمة أربعة: الخمر وهي: عصير العنب إذا إلى واشتد وقذف بالزبد والعصير إذا طبخ حتى ذهب أقل من ثلثيه ونقيع التمر والزبيب إذا اشتد ونبيذ التمر والزبيب إذا طبخ كل واحد منهما أدنى طبخ حلال وإن اشتد إذا شرب منه ما يغلب في ظنه أنه لا يسكره من غير لهو ولا طرب ولا بأس بالخليطين ونبيذ العسل والتين والحنطة والشعير والذرة حلال وإن لم يطبخ\n\nوعصير العنب إذا طبخ حتى ذهب منه ثلثاه وبقي ثلثه حلال وإن اشتد ولا بأس بالانتباذ في الدباء والحنتم والمزفت والنقير\n\nوإذا تخللت الخمر حلت سواء صارت خلا بنفسها أو بشيء طرح فيها ولا يكره تخليلها",
+              "rulingEn": "Prohibited beverages are four: wine (khamr), which is grape juice that has fermented, become strong, and thrown off froth; grape juice that has been cooked until less than two-thirds has evaporated; the soaking of dates and raisins when it has become strong; and the nabidh (fermented drink) of dates and raisins — if either is minimally cooked, it is lawful even if it becomes strong, provided one drinks an amount that one reasonably believes will not intoxicate, without amusement or revelry. There is no harm in mixing two types. The nabidh of honey, figs, wheat, barley, and millet is lawful even if not cooked.\n\nGrape juice, if cooked until two-thirds have evaporated and one-third remains, is lawful even if it becomes strong. There is no harm in making nabidh in gourds (dubba'), glazed jars (hantam), pitch-coated vessels (muzaffat), or hollowed-out wood vessels (naqir).\n\nIf wine turns into vinegar, it becomes lawful — whether it turned to vinegar on its own or by something being added to it. It is not disliked to cause wine to become vinegar.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "Prohibited beverages are four: wine (khamr), which is grape juice that has fermented, become strong, and thrown off froth; grape juice that has been cooked until less than two-thirds has evaporated; the soaking of dates and raisins when it has become strong; and the nabidh (fermented drink) of dates and raisins — if either is minimally cooked, it is lawful even if it becomes strong, provided one drinks an amount that one reasonably believes will not intoxicate, without amusement or revelry. There is no harm in mixing two types. The nabidh of honey, figs, wheat, barley, and millet is lawful even if not cooked.\n\nGrape juice, if cooked until two-thirds have evaporated and one-third remains, is lawful even if it becomes strong. There is no harm in making nabidh in gourds (dubba'), glazed jars (hantam), pitch-coated vessels (muzaffat), or hollowed-out wood vessels (naqir).\n\nIf wine turns into vinegar, it becomes lawful — whether it turned to vinegar on its own or by something being added to it. It is not disliked to cause wine to become vinegar."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "sayd-dhabaih",
+  "titleAr": "كتاب الصيد والذبائح",
+  "titleEn": "Hunting & Slaughter",
+  "order": 45,
+  "categoryId": "ibadat",
+  "pageRange": [
+    195,
+    197
+  ],
+  "abwab": [
+    {
+      "id": "sayd-dhabaih-main",
+      "kitabId": "sayd-dhabaih",
+      "titleAr": "كتاب الصيد والذبائح",
+      "titleEn": "Hunting & Slaughter",
+      "order": 1,
+      "sections": [
+        {
+          "id": "sayd-dhabaih-main-1-1",
+          "babId": "sayd-dhabaih-main",
+          "kitabId": "sayd-dhabaih",
+          "titleAr": "كتاب الصيد والذبائح",
+          "titleEn": "Hunting & Slaughter",
+          "order": 1,
+          "textAr": "يجوز الاصطياد بالكلب المعلم والفهد والبازي وسائر الجوارح المعلمة\n\nوتعليم الكلب: أن يترك الأكل ثلاث مرات\n\nوتعليم البازي: أن يرجع إذا دعوته\n\nفإذا أرسل كلبه العلم أو بازيه أوصقره وذكر اسم الله تعالى عليه عند إرساله فأخذ الصيد وجرحه فمات حل أكله وإن أكل منه الكلب لم يؤكل وأن أكل منه البازي أكل وإذا أدرك المرسل الصيد حيا وجب عليه أن يذكيه فإن ترك تذكيته حتى مات لم يؤكل وإن خنقه الكلب ولم يجرحه لم يؤكل\n\nوإن شاركه كلب غير معلم أو كلب مجوسي أو كلب لم يذكر اسم الله تعالى عليه لم يؤكل\n\nوإذا رمى الرجل سهما إلى صيد فسمى عند الرمي أكل ما أصاب إذا جرحه السهم فمات وإن أدركه حيا ذكاه وإن ترك تذكيته حتى مات لم يؤكل وإن وقع السهم فتحامل حتى غاب عنه ولم يزل في طلبه حتى أصابه ميتا أكل وإن قعد عن طلبه ثم أصابه ميتا لم يؤكل وإذا رمة صيدا فوقع في الماء فمات لم يؤكل",
+          "sourcePage": 195,
+          "masail": [
+            {
+              "id": "masalah-sayd-dhabaih-main-1-1",
+              "sectionId": "sayd-dhabaih-main-1-1",
+              "kitabId": "sayd-dhabaih",
+              "titleAr": "كتاب الصيد والذبائح",
+              "titleEn": "Hunting & Slaughter",
+              "rulingAr": "يجوز الاصطياد بالكلب المعلم والفهد والبازي وسائر الجوارح المعلمة\n\nوتعليم الكلب: أن يترك الأكل ثلاث مرات\n\nوتعليم البازي: أن يرجع إذا دعوته\n\nفإذا أرسل كلبه العلم أو بازيه أوصقره وذكر اسم الله تعالى عليه عند إرساله فأخذ الصيد وجرحه فمات حل أكله وإن أكل منه الكلب لم يؤكل وأن أكل منه البازي أكل وإذا أدرك المرسل الصيد حيا وجب عليه أن يذكيه فإن ترك تذكيته حتى مات لم يؤكل وإن خنقه الكلب ولم يجرحه لم يؤكل\n\nوإن شاركه كلب غير معلم أو كلب مجوسي أو كلب لم يذكر اسم الله تعالى عليه لم يؤكل\n\nوإذا رمى الرجل سهما إلى صيد فسمى عند الرمي أكل ما أصاب إذا جرحه السهم فمات وإن أدركه حيا ذكاه وإن ترك تذكيته حتى مات لم يؤكل وإن وقع السهم فتحامل حتى غاب عنه ولم يزل في طلبه حتى أصابه ميتا أكل وإن قعد عن طلبه ثم أصابه ميتا لم يؤكل وإذا رمة صيدا فوقع في الماء فمات لم يؤكل",
+              "rulingEn": "Hunting with a trained dog, a cheetah, a falcon, and all trained birds of prey is permissible.\n\nThe training of a dog is: that it refrains from eating the prey three times.\n\nThe training of a falcon is: that it returns when called.\n\nIf one sends his trained dog, or his falcon, or his hawk, and mentions the name of Allah Most High upon it at the time of sending, and it catches the game and wounds it and it dies — it is lawful to eat. If the dog eats from it, it may not be eaten. If the falcon eats from it, it may be eaten. If the sender reaches the game while it is still alive, he must slaughter it. If he neglects to slaughter it until it dies, it may not be eaten. If the dog strangles it without wounding it, it may not be eaten.\n\nIf an untrained dog, or a dog belonging to a Magian (Zoroastrian), or a dog over which the name of Allah was not mentioned, participates — it may not be eaten.\n\nIf a man shoots an arrow at game and mentions the name of Allah at the time of shooting, whatever is hit may be eaten if the arrow wounds it and it dies. If he reaches it alive, he must slaughter it. If he neglects to slaughter it until it dies, it may not be eaten. If the arrow strikes and the animal struggles on until it disappears from view, and the hunter continuously pursues it until he finds it dead — it may be eaten. If he abandons the pursuit and later finds it dead — it may not be eaten. If one shoots at game and it falls into water and dies, it may not be eaten.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "Hunting with a trained dog, a cheetah, a falcon, and all trained birds of prey is permissible.\n\nThe training of a dog is: that it refrains from eating the prey three times.\n\nThe training of a falcon is: that it returns when called.\n\nIf one sends his trained dog, or his falcon, or his hawk, and mentions the name of Allah Most High upon it at the time of sending, and it catches the game and wounds it and it dies — it is lawful to eat. If the dog eats from it, it may not be eaten. If the falcon eats from it, it may be eaten. If the sender reaches the game while it is still alive, he must slaughter it. If he neglects to slaughter it until it dies, it may not be eaten. If the dog strangles it without wounding it, it may not be eaten.\n\nIf an untrained dog, or a dog belonging to a Magian (Zoroastrian), or a dog over which the name of Allah was not mentioned, participates — it may not be eaten.\n\nIf a man shoots an arrow at game and mentions the name of Allah at the time of shooting, whatever is hit may be eaten if the arrow wounds it and it dies. If he reaches it alive, he must slaughter it. If he neglects to slaughter it until it dies, it may not be eaten. If the arrow strikes and the animal struggles on until it disappears from view, and the hunter continuously pursues it until he finds it dead — it may be eaten. If he abandons the pursuit and later finds it dead — it may not be eaten. If one shoots at game and it falls into water and dies, it may not be eaten."
+        },
+        {
+          "id": "sayd-dhabaih-main-1-2",
+          "babId": "sayd-dhabaih-main",
+          "kitabId": "sayd-dhabaih",
+          "titleAr": "كتاب الصيد والذبائح",
+          "titleEn": "Hunting & Slaughter",
+          "order": 2,
+          "textAr": "وكذلك إن وقع على سطح أو جبل ثم تردى منه إلى الأرض لم يؤكل وإن وقع على الأرض ابتداء أكل\n\nوما أصاب المعراض بعرضه لم يؤكل وإن جرحه أكل ولا يؤكل ما أصابته النبدقة إذا مات منها\n\nوإذا رمى إلى صيد فقطع عضوا منه أكل ولا يؤكل العضو وإن قطعه أثلاثا والأكثر مما يلي العجز\n\nأكل وإن كان الأكثر مما يلي الرأس أكل الأكثر ولا يؤكل الأقل ولا يؤكل صيد المجوسي والمرتد والوثني\n\nومن رمى صيدا فأصابه ولم يثخنه ولم يخرجه من حيز الإمتناع فرماه آخر فقتله فهو للثاني ويؤكل\n\nوإن كان الأول أثخنه فرماه الثاني فقتله لم يؤكل والثاني ضامن بقيمته للأول غير ما نقصته جراحته\n\nويجوز اصطياد ما يؤكل لحمه من الحيوان\n\nوما لا يؤكل\n\nوذبيحة المسلم والكتابي حلال ولا تؤكل ذبيحة المجوسي والمرتد والوثني والمحرم وإن ترك الذابح التسمية عمدا فالذبيحة ميتة لا تؤكل وإن تركها ناسيا أكلت\n\nوالذبح في الحلق واللبة",
+          "sourcePage": 195,
+          "masail": [
+            {
+              "id": "masalah-sayd-dhabaih-main-1-2",
+              "sectionId": "sayd-dhabaih-main-1-2",
+              "kitabId": "sayd-dhabaih",
+              "titleAr": "كتاب الصيد والذبائح",
+              "titleEn": "Hunting & Slaughter",
+              "rulingAr": "وكذلك إن وقع على سطح أو جبل ثم تردى منه إلى الأرض لم يؤكل وإن وقع على الأرض ابتداء أكل\n\nوما أصاب المعراض بعرضه لم يؤكل وإن جرحه أكل ولا يؤكل ما أصابته النبدقة إذا مات منها\n\nوإذا رمى إلى صيد فقطع عضوا منه أكل ولا يؤكل العضو وإن قطعه أثلاثا والأكثر مما يلي العجز\n\nأكل وإن كان الأكثر مما يلي الرأس أكل الأكثر ولا يؤكل الأقل ولا يؤكل صيد المجوسي والمرتد والوثني\n\nومن رمى صيدا فأصابه ولم يثخنه ولم يخرجه من حيز الإمتناع فرماه آخر فقتله فهو للثاني ويؤكل\n\nوإن كان الأول أثخنه فرماه الثاني فقتله لم يؤكل والثاني ضامن بقيمته للأول غير ما نقصته جراحته\n\nويجوز اصطياد ما يؤكل لحمه من الحيوان\n\nوما لا يؤكل\n\nوذبيحة المسلم والكتابي حلال ولا تؤكل ذبيحة المجوسي والمرتد والوثني والمحرم وإن ترك الذابح التسمية عمدا فالذبيحة ميتة لا تؤكل وإن تركها ناسيا أكلت\n\nوالذبح في الحلق واللبة",
+              "rulingEn": "Likewise, if it falls onto a roof or a mountain and then tumbles to the ground — it may not be eaten. If it falls directly onto the ground, it may be eaten.\n\nWhat is struck by the broad side of a throwing stick (mi'rad) may not be eaten. If it wounds it, it may be eaten. What is struck and killed by a pellet (bunduqah) may not be eaten.\n\nIf one shoots at game and severs a limb from it, the game is eaten but the severed limb is not. If it is cut into thirds, and the larger portion is from the rear —\n\nit is eaten. If the larger portion is from the head side, the larger portion is eaten and the smaller is not. The game of a Magian, an apostate, or an idolater may not be eaten.\n\nIf one shoots game and hits it but does not incapacitate it or remove it from the state of being able to escape, and then another person shoots and kills it — it belongs to the second, and it may be eaten.\n\nIf the first shooter had incapacitated it and then the second shoots and kills it — it may not be eaten, and the second is liable for its value to the first, minus the depreciation caused by his wound.\n\nHunting is permissible for animals whose meat is eaten as well as those\n\nwhose meat is not eaten.\n\nThe slaughtered animal of a Muslim and a Person of the Book (kitabi) is lawful. The slaughtered animal of a Magian, an apostate, an idolater, or a person in the state of ihram (pilgrim sanctity) may not be eaten. If the slaughterer deliberately omits the mention of Allah's name, the slaughtered animal is carrion and may not be eaten. If he omits it forgetfully, it may be eaten.\n\nSlaughter is performed at the throat and the upper chest.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "Likewise, if it falls onto a roof or a mountain and then tumbles to the ground — it may not be eaten. If it falls directly onto the ground, it may be eaten.\n\nWhat is struck by the broad side of a throwing stick (mi'rad) may not be eaten. If it wounds it, it may be eaten. What is struck and killed by a pellet (bunduqah) may not be eaten.\n\nIf one shoots at game and severs a limb from it, the game is eaten but the severed limb is not. If it is cut into thirds, and the larger portion is from the rear —\n\nit is eaten. If the larger portion is from the head side, the larger portion is eaten and the smaller is not. The game of a Magian, an apostate, or an idolater may not be eaten.\n\nIf one shoots game and hits it but does not incapacitate it or remove it from the state of being able to escape, and then another person shoots and kills it — it belongs to the second, and it may be eaten.\n\nIf the first shooter had incapacitated it and then the second shoots and kills it — it may not be eaten, and the second is liable for its value to the first, minus the depreciation caused by his wound.\n\nHunting is permissible for animals whose meat is eaten as well as those\n\nwhose meat is not eaten.\n\nThe slaughtered animal of a Muslim and a Person of the Book (kitabi) is lawful. The slaughtered animal of a Magian, an apostate, an idolater, or a person in the state of ihram (pilgrim sanctity) may not be eaten. If the slaughterer deliberately omits the mention of Allah's name, the slaughtered animal is carrion and may not be eaten. If he omits it forgetfully, it may be eaten.\n\nSlaughter is performed at the throat and the upper chest."
+        },
+        {
+          "id": "sayd-dhabaih-main-1-3",
+          "babId": "sayd-dhabaih-main",
+          "kitabId": "sayd-dhabaih",
+          "titleAr": "كتاب الصيد والذبائح",
+          "titleEn": "Hunting & Slaughter",
+          "order": 3,
+          "textAr": "والعروق التي تقطع في الذكاة أربعة: الحلقوم والمريء والودجان فإذا قطعها حل الأكل وإن قطع أكثرها فكذلك عند أبي حنيفة وقال أبو يوسف ومحمد: لا بد من قطع الحلقوم والمريء وأحد الودجين\n\nويجوز الذبح بالليطة\n\nوالمروة وبكل شيء أنهر الدم إلا السن القائم والظفر القائم\n\nويستحب أن يحد الذابح شفرته ومن بلغ بالسكين النخاع أو قطع الرأس كره له ذلك وتؤكل ذبيحته وإن ذبح الشاة من قفاها فإن بقيت حية قطع العروق جاز ويكره وإن ماتت قبل قطع العروق لم تؤكل\n\nوما استأنس من الصيد فذكاته الذبح وما توحش من النعم فذكاته العقر والجرح\n\nوالمستحب في الإبل النحر\n\nفإن ذبحها جاز ويكره\n\nوالمستحب في البقر والغنم الذبح فإن نحرهما جاز ويكره\n\nومن نحر ناقة أو ذبح بقرة أو شاة فوجد في بطنها جنينا ميتا لم يؤكل أشعر أو لم يشعر\n\nولا يجوز أكل كل ذي ناب من السباع وكل ذي مخلب من الطير ول ابأس بغراب الزرع ولا يؤكل الأبقع الذي يأكل الجيف",
+          "sourcePage": 195,
+          "masail": [
+            {
+              "id": "masalah-sayd-dhabaih-main-1-3",
+              "sectionId": "sayd-dhabaih-main-1-3",
+              "kitabId": "sayd-dhabaih",
+              "titleAr": "كتاب الصيد والذبائح",
+              "titleEn": "Hunting & Slaughter",
+              "rulingAr": "والعروق التي تقطع في الذكاة أربعة: الحلقوم والمريء والودجان فإذا قطعها حل الأكل وإن قطع أكثرها فكذلك عند أبي حنيفة وقال أبو يوسف ومحمد: لا بد من قطع الحلقوم والمريء وأحد الودجين\n\nويجوز الذبح بالليطة\n\nوالمروة وبكل شيء أنهر الدم إلا السن القائم والظفر القائم\n\nويستحب أن يحد الذابح شفرته ومن بلغ بالسكين النخاع أو قطع الرأس كره له ذلك وتؤكل ذبيحته وإن ذبح الشاة من قفاها فإن بقيت حية قطع العروق جاز ويكره وإن ماتت قبل قطع العروق لم تؤكل\n\nوما استأنس من الصيد فذكاته الذبح وما توحش من النعم فذكاته العقر والجرح\n\nوالمستحب في الإبل النحر\n\nفإن ذبحها جاز ويكره\n\nوالمستحب في البقر والغنم الذبح فإن نحرهما جاز ويكره\n\nومن نحر ناقة أو ذبح بقرة أو شاة فوجد في بطنها جنينا ميتا لم يؤكل أشعر أو لم يشعر\n\nولا يجوز أكل كل ذي ناب من السباع وكل ذي مخلب من الطير ول ابأس بغراب الزرع ولا يؤكل الأبقع الذي يأكل الجيف",
+              "rulingEn": "The vessels (channels) that are severed in slaughter are four: the trachea (hulqum), the esophagus (mari'), and the two jugular veins (wadajan). If all four are severed, the meat is lawful. If the majority of them are severed, it is likewise according to Abu Hanifah. Abu Yusuf and Muhammad said: the trachea, the esophagus, and at least one jugular vein must be severed.\n\nSlaughter with a sharp reed,\n\na flint, and anything that causes blood to flow is permissible — except a tooth still attached or a nail still attached.\n\nIt is recommended that the slaughterer sharpen his blade. Whoever pushes the knife to the spinal cord or severs the head — that is disliked, but the slaughtered animal may still be eaten. If one slaughters a sheep from the back of the neck, and the animal is still alive when the vessels are severed — it is permissible but disliked. If it dies before the vessels are severed, it may not be eaten.\n\nWhat has become domesticated from wild game — its proper slaughter is by cutting the throat. What has become wild from livestock — its proper slaughter is by wounding and bleeding.\n\nThe recommended method for camels is nahr (spearing at the base of the neck).\n\nIf one slaughters a camel by cutting the throat, it is permissible but disliked.\n\nThe recommended method for cattle and sheep is slaughter by cutting the throat. If one slaughters them by nahr, it is permissible but disliked.\n\nWhoever slaughters a she-camel or slaughters a cow or a sheep and finds a dead fetus in its belly — it may not be eaten, whether it has hair or not.\n\nIt is not permissible to eat any predator that has fangs, nor any bird that has talons. There is no harm in the crop-eating crow. The piebald crow that eats carrion may not be eaten.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "The vessels (channels) that are severed in slaughter are four: the trachea (hulqum), the esophagus (mari'), and the two jugular veins (wadajan). If all four are severed, the meat is lawful. If the majority of them are severed, it is likewise according to Abu Hanifah. Abu Yusuf and Muhammad said: the trachea, the esophagus, and at least one jugular vein must be severed.\n\nSlaughter with a sharp reed,\n\na flint, and anything that causes blood to flow is permissible — except a tooth still attached or a nail still attached.\n\nIt is recommended that the slaughterer sharpen his blade. Whoever pushes the knife to the spinal cord or severs the head — that is disliked, but the slaughtered animal may still be eaten. If one slaughters a sheep from the back of the neck, and the animal is still alive when the vessels are severed — it is permissible but disliked. If it dies before the vessels are severed, it may not be eaten.\n\nWhat has become domesticated from wild game — its proper slaughter is by cutting the throat. What has become wild from livestock — its proper slaughter is by wounding and bleeding.\n\nThe recommended method for camels is nahr (spearing at the base of the neck).\n\nIf one slaughters a camel by cutting the throat, it is permissible but disliked.\n\nThe recommended method for cattle and sheep is slaughter by cutting the throat. If one slaughters them by nahr, it is permissible but disliked.\n\nWhoever slaughters a she-camel or slaughters a cow or a sheep and finds a dead fetus in its belly — it may not be eaten, whether it has hair or not.\n\nIt is not permissible to eat any predator that has fangs, nor any bird that has talons. There is no harm in the crop-eating crow. The piebald crow that eats carrion may not be eaten."
+        },
+        {
+          "id": "sayd-dhabaih-main-1-4",
+          "babId": "sayd-dhabaih-main",
+          "kitabId": "sayd-dhabaih",
+          "titleAr": "كتاب الصيد والذبائح",
+          "titleEn": "Hunting & Slaughter",
+          "order": 4,
+          "textAr": "ويكره أكل الضبع والضب والحشرات كلها\n\nولا يجوز أكل لحم الحمر الأهلية والبغال ويكره لحم الفرس عند أبي حنيفة ولا بأس\n\nبأكل الأرنب وإذا ذبح ما لا يؤكل لحمه طهر لحمه وجلده\n\nإلا الآدمي والخنزير فإن الذكاة لا تعمل فيهما\n\nولا يؤكل من حيوان الماء إلا السمك ويكره أكل الطافي منه ولا بأس بأكل الجريث والمارماهي\n\nويجوز أكل الجراد ولا ذكاة له",
+          "sourcePage": 195,
+          "masail": [
+            {
+              "id": "masalah-sayd-dhabaih-main-1-4",
+              "sectionId": "sayd-dhabaih-main-1-4",
+              "kitabId": "sayd-dhabaih",
+              "titleAr": "كتاب الصيد والذبائح",
+              "titleEn": "Hunting & Slaughter",
+              "rulingAr": "ويكره أكل الضبع والضب والحشرات كلها\n\nولا يجوز أكل لحم الحمر الأهلية والبغال ويكره لحم الفرس عند أبي حنيفة ولا بأس\n\nبأكل الأرنب وإذا ذبح ما لا يؤكل لحمه طهر لحمه وجلده\n\nإلا الآدمي والخنزير فإن الذكاة لا تعمل فيهما\n\nولا يؤكل من حيوان الماء إلا السمك ويكره أكل الطافي منه ولا بأس بأكل الجريث والمارماهي\n\nويجوز أكل الجراد ولا ذكاة له",
+              "rulingEn": "It is disliked to eat hyena, lizard (dabb), and all types of vermin.\n\nIt is not permissible to eat the meat of domestic donkeys and mules. The meat of horses is disliked according to Abu Hanifah. There is no harm\n\nin eating rabbit. If an animal whose meat is not eaten is slaughtered, its meat and skin become ritually pure,\n\nexcept for humans and pigs — slaughter has no purifying effect on them.\n\nFrom aquatic animals, only fish may be eaten. Eating fish that floats dead (tafi) is disliked. There is no harm in eating catfish (jarith) and eel (marmahy).\n\nLocusts may be eaten, and no slaughter is required for them.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "It is disliked to eat hyena, lizard (dabb), and all types of vermin.\n\nIt is not permissible to eat the meat of domestic donkeys and mules. The meat of horses is disliked according to Abu Hanifah. There is no harm\n\nin eating rabbit. If an animal whose meat is not eaten is slaughtered, its meat and skin become ritually pure,\n\nexcept for humans and pigs — slaughter has no purifying effect on them.\n\nFrom aquatic animals, only fish may be eaten. Eating fish that floats dead (tafi) is disliked. There is no harm in eating catfish (jarith) and eel (marmahy).\n\nLocusts may be eaten, and no slaughter is required for them."
+        }
+      ]
+    }
+  ]
+}

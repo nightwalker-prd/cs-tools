@@ -1,0 +1,122 @@
+{
+  "id": "hadanah",
+  "titleAr": "كتاب الحضانة",
+  "titleEn": "Custody",
+  "order": 36,
+  "categoryId": "munakahaat",
+  "pageRange": [
+    163,
+    164
+  ],
+  "abwab": [
+    {
+      "id": "hadanah-main",
+      "kitabId": "hadanah",
+      "titleAr": "كتاب الحضانة",
+      "titleEn": "Custody",
+      "order": 1,
+      "sections": [
+        {
+          "id": "hadanah-main-1-1",
+          "babId": "hadanah-main",
+          "kitabId": "hadanah",
+          "titleAr": "كتاب الحضانة",
+          "titleEn": "Custody",
+          "order": 1,
+          "textAr": "عليها ولا يمنعهم من النظر إليها وكلامها أي وقت اختاروا\n\nومن أعسر بنفقة امرأته لم يفرق بينهما ويقال لها: استديني عليه\n\nوإذا غاب الرجل وله مال في يد رجل وهو يعرف به وبالزوجية فرض القاضي في ذلك المال نفقة زوجة الغائب وأولاده الصغار ووالديه ويأخذ منها كفيلا بها ولا يقضى بنفقة في مال الغائب إلا لهؤلاء\n\nوإذا قضى القاضي لها بنفقة الإعسار ثم أيسر فخاصمته تمم لها نفقة الموسر\n\nوإذا مضت مدة لم ينفق الزوج عليها وطالبته بذلك فلا شيء لها إلا أن يكون القاضي فرض لها النفقة أو صالحت الزوج على مقدارها فيقضي لها بنفقة ما مض وإذا مات الزوج بعد ما قضي عليه بالنفقة ومضت شهور سقطت النفقة\n\nوإن أسلفها نفقة سنة ثم مات يسترجع منها شيء وقال محمد: يحتسب لها نفقة ما مضى وما بقي للزوج\n\nوإذا تزوج العبد حرة فنفقتها دين عليه يباع فيها\n\nوإذا تزوج الرجل أمة فبوأها مولاها معه منزلا فعليه النفقة وإن لم يبوئها فلا نفقة لها",
+          "sourcePage": 163,
+          "masail": [
+            {
+              "id": "masalah-hadanah-main-1-1",
+              "sectionId": "hadanah-main-1-1",
+              "kitabId": "hadanah",
+              "titleAr": "كتاب الحضانة",
+              "titleEn": "Custody",
+              "rulingAr": "عليها ولا يمنعهم من النظر إليها وكلامها أي وقت اختاروا\n\nومن أعسر بنفقة امرأته لم يفرق بينهما ويقال لها: استديني عليه\n\nوإذا غاب الرجل وله مال في يد رجل وهو يعرف به وبالزوجية فرض القاضي في ذلك المال نفقة زوجة الغائب وأولاده الصغار ووالديه ويأخذ منها كفيلا بها ولا يقضى بنفقة في مال الغائب إلا لهؤلاء\n\nوإذا قضى القاضي لها بنفقة الإعسار ثم أيسر فخاصمته تمم لها نفقة الموسر\n\nوإذا مضت مدة لم ينفق الزوج عليها وطالبته بذلك فلا شيء لها إلا أن يكون القاضي فرض لها النفقة أو صالحت الزوج على مقدارها فيقضي لها بنفقة ما مض وإذا مات الزوج بعد ما قضي عليه بالنفقة ومضت شهور سقطت النفقة\n\nوإن أسلفها نفقة سنة ثم مات يسترجع منها شيء وقال محمد: يحتسب لها نفقة ما مضى وما بقي للزوج\n\nوإذا تزوج العبد حرة فنفقتها دين عليه يباع فيها\n\nوإذا تزوج الرجل أمة فبوأها مولاها معه منزلا فعليه النفقة وإن لم يبوئها فلا نفقة لها",
+              "rulingEn": "But he may not prevent them from seeing her and speaking with her at any time they choose.\n\nIf the husband is unable to provide his wife's maintenance, the spouses are not separated. She is told: \"Borrow against him.\"\n\nIf a man is absent and has wealth in the possession of another man who knows of the marriage, the judge may allocate from that wealth the maintenance of the absent man's wife, his minor children, and his parents, and he takes a guarantor from her. The judge does not order maintenance from the absent person's wealth except for these individuals.\n\nIf the judge ruled maintenance at the rate of hardship and the husband later becomes well-off, and she disputes, the judge supplements her maintenance to the rate of the well-off.\n\nIf a period passes during which the husband did not provide maintenance and she demands it, she receives nothing unless the judge had assessed maintenance for her, or she had settled with the husband on a specific amount, in which case she is awarded the maintenance for the past period. If the husband dies after maintenance was ordered against him and months have passed, the maintenance lapses.\n\nIf he advanced her maintenance for a year and then dies, nothing is reclaimed from her. Muhammad said: The past maintenance is counted for her, and the remainder belongs to the husband.\n\nIf a slave marries a free woman, her maintenance is a debt upon him, and he may be sold to satisfy it.\n\nIf a man marries a slave-woman and her master settles her with him in a dwelling, maintenance is due. If the master does not settle her with him, there is no maintenance.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "But he may not prevent them from seeing her and speaking with her at any time they choose.\n\nIf the husband is unable to provide his wife's maintenance, the spouses are not separated. She is told: \"Borrow against him.\"\n\nIf a man is absent and has wealth in the possession of another man who knows of the marriage, the judge may allocate from that wealth the maintenance of the absent man's wife, his minor children, and his parents, and he takes a guarantor from her. The judge does not order maintenance from the absent person's wealth except for these individuals.\n\nIf the judge ruled maintenance at the rate of hardship and the husband later becomes well-off, and she disputes, the judge supplements her maintenance to the rate of the well-off.\n\nIf a period passes during which the husband did not provide maintenance and she demands it, she receives nothing unless the judge had assessed maintenance for her, or she had settled with the husband on a specific amount, in which case she is awarded the maintenance for the past period. If the husband dies after maintenance was ordered against him and months have passed, the maintenance lapses.\n\nIf he advanced her maintenance for a year and then dies, nothing is reclaimed from her. Muhammad said: The past maintenance is counted for her, and the remainder belongs to the husband.\n\nIf a slave marries a free woman, her maintenance is a debt upon him, and he may be sold to satisfy it.\n\nIf a man marries a slave-woman and her master settles her with him in a dwelling, maintenance is due. If the master does not settle her with him, there is no maintenance."
+        },
+        {
+          "id": "hadanah-main-1-2",
+          "babId": "hadanah-main",
+          "kitabId": "hadanah",
+          "titleAr": "كتاب الحضانة",
+          "titleEn": "Custody",
+          "order": 2,
+          "textAr": "ونفقة الأولاد الصغار على الأب لا يشاركه فيها أحد\n\nكما لا يشاركه في نفقة الزوجة أحد\n\nفإن كان الصغير وضيعا فليس على أمه أن ترضعه ويستأجر له الأب من ترضعه عندها فإن استأجرها وهي زوجته أو معتدته لترضع ولدها لم يجز وإن انقضت عدتها فاستأجرها على إرضاعه جاز\n\nفإن قال الأب لا أستأجرها وجاء بغيرها\n\nفرضيت الأم بمثل أجر الأجنبية كانت الأم أحق به وإن التمست زيادة لم يجبر الزوج عليها\n\nونفقة الصغير واجبة على أبيه وإن خالفه في دينه كما تجب نفقة الزوجة على الزوج وإن خالفته في دينه\n\nوإذا وقعت الفرقة بين الزوجين فالأم أحق بالولد فإن لم تكن الأم فأم الأم أولى من أم الأب فإن لم تكن فأم الأب أولى من الأخوات فإن لم تكن جدة فلأخوات أولى من العمات والخالات وتقدم الأخت من الأب والأم ثم الأخت من الأم ثم الأخت من\n\nالأب ثم الخالات أولى من العمات وينزلن كذلك ثم العمات ينزلن كذلك",
+          "sourcePage": 163,
+          "masail": [
+            {
+              "id": "masalah-hadanah-main-1-2",
+              "sectionId": "hadanah-main-1-2",
+              "kitabId": "hadanah",
+              "titleAr": "كتاب الحضانة",
+              "titleEn": "Custody",
+              "rulingAr": "ونفقة الأولاد الصغار على الأب لا يشاركه فيها أحد\n\nكما لا يشاركه في نفقة الزوجة أحد\n\nفإن كان الصغير وضيعا فليس على أمه أن ترضعه ويستأجر له الأب من ترضعه عندها فإن استأجرها وهي زوجته أو معتدته لترضع ولدها لم يجز وإن انقضت عدتها فاستأجرها على إرضاعه جاز\n\nفإن قال الأب لا أستأجرها وجاء بغيرها\n\nفرضيت الأم بمثل أجر الأجنبية كانت الأم أحق به وإن التمست زيادة لم يجبر الزوج عليها\n\nونفقة الصغير واجبة على أبيه وإن خالفه في دينه كما تجب نفقة الزوجة على الزوج وإن خالفته في دينه\n\nوإذا وقعت الفرقة بين الزوجين فالأم أحق بالولد فإن لم تكن الأم فأم الأم أولى من أم الأب فإن لم تكن فأم الأب أولى من الأخوات فإن لم تكن جدة فلأخوات أولى من العمات والخالات وتقدم الأخت من الأب والأم ثم الأخت من الأم ثم الأخت من\n\nالأب ثم الخالات أولى من العمات وينزلن كذلك ثم العمات ينزلن كذلك",
+              "rulingEn": "The maintenance of minor children is upon the father alone; no one shares it with him, just as no one shares with him the maintenance of the wife.\n\nIf the child is of humble status, the mother is not required to breastfeed him. The father hires a wet-nurse for him in her presence. If he hires the mother while she is still his wife or in her waiting period to breastfeed their child, it is not valid. If her waiting period has expired and he hires her to breastfeed, it is valid.\n\nIf the father says: \"I will not hire her\" and brings another woman, and the mother accepts the same fee as the other woman, the mother has more right to the child. If she demands more, the husband is not compelled to pay it.\n\nThe maintenance of the minor is obligatory upon the father even if they differ in religion, just as the wife's maintenance is obligatory upon the husband even if they differ in religion.\n\nWhen separation occurs between the spouses, the mother has the most right to the child. If the mother is not available, the maternal grandmother has priority over the paternal grandmother. If there is no grandmother, then the paternal grandmother has priority over sisters. If there is no grandmother, then sisters have priority over paternal and maternal aunts. The full sister (through both parents) takes precedence, then the half-sister through the mother, then the half-sister through the father. Then the maternal aunts have priority over the paternal aunts, and they are ranked in the same order. Then the paternal aunts, ranked in the same order.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "The maintenance of minor children is upon the father alone; no one shares it with him, just as no one shares with him the maintenance of the wife.\n\nIf the child is of humble status, the mother is not required to breastfeed him. The father hires a wet-nurse for him in her presence. If he hires the mother while she is still his wife or in her waiting period to breastfeed their child, it is not valid. If her waiting period has expired and he hires her to breastfeed, it is valid.\n\nIf the father says: \"I will not hire her\" and brings another woman, and the mother accepts the same fee as the other woman, the mother has more right to the child. If she demands more, the husband is not compelled to pay it.\n\nThe maintenance of the minor is obligatory upon the father even if they differ in religion, just as the wife's maintenance is obligatory upon the husband even if they differ in religion.\n\nWhen separation occurs between the spouses, the mother has the most right to the child. If the mother is not available, the maternal grandmother has priority over the paternal grandmother. If there is no grandmother, then the paternal grandmother has priority over sisters. If there is no grandmother, then sisters have priority over paternal and maternal aunts. The full sister (through both parents) takes precedence, then the half-sister through the mother, then the half-sister through the father. Then the maternal aunts have priority over the paternal aunts, and they are ranked in the same order. Then the paternal aunts, ranked in the same order."
+        },
+        {
+          "id": "hadanah-main-1-3",
+          "babId": "hadanah-main",
+          "kitabId": "hadanah",
+          "titleAr": "كتاب الحضانة",
+          "titleEn": "Custody",
+          "order": 3,
+          "textAr": "وكل من تزوجت من هؤلاء سقط حقها إلا الجدة إذا كان زوجها الجد وإن لم تكن للصبي امرأة من أهله واختصم فيه الرجال فأولاهم به أقربهم تعصبيا\n\nوالأم والجدة أحق بالغلام حتى يأكل وحده ويلبس وحده ويستنجي وحده وبالجارية حتى تحيض ومن سوى الأم والجدة أحق بالجارية حتى تبلغ حدا تشتهى\n\nوالأمة إذا أعتقها مولاها وأم الولد إذا أعتقت في الولد كالحرة وليس للأمة وأم الولد قبل العتق حق في الولد والذمية أحق بولدها المسلم ما لم يعقل الأديان ويخاف أن يألف الكفر\n\nوإذا أرادت المطلقة أن تخرج بولدها من المصر فليس لها ذلك إلا أن تخرجه إلى وطنها وقد كان الزوج تزوجها فيه\n\nوعلى الرجل أن ينفق على أبويه وأجداده وجداته إذا كانوا فقراء وإن خالفوه في دينه ولا تجب النفقة مع اختلاف الدين إلا للزوجة والأبوين والأجداد والجدات والولد وولد الولد ولا يشارك الولد في نفقة أبويه أحد",
+          "sourcePage": 163,
+          "masail": [
+            {
+              "id": "masalah-hadanah-main-1-3",
+              "sectionId": "hadanah-main-1-3",
+              "kitabId": "hadanah",
+              "titleAr": "كتاب الحضانة",
+              "titleEn": "Custody",
+              "rulingAr": "وكل من تزوجت من هؤلاء سقط حقها إلا الجدة إذا كان زوجها الجد وإن لم تكن للصبي امرأة من أهله واختصم فيه الرجال فأولاهم به أقربهم تعصبيا\n\nوالأم والجدة أحق بالغلام حتى يأكل وحده ويلبس وحده ويستنجي وحده وبالجارية حتى تحيض ومن سوى الأم والجدة أحق بالجارية حتى تبلغ حدا تشتهى\n\nوالأمة إذا أعتقها مولاها وأم الولد إذا أعتقت في الولد كالحرة وليس للأمة وأم الولد قبل العتق حق في الولد والذمية أحق بولدها المسلم ما لم يعقل الأديان ويخاف أن يألف الكفر\n\nوإذا أرادت المطلقة أن تخرج بولدها من المصر فليس لها ذلك إلا أن تخرجه إلى وطنها وقد كان الزوج تزوجها فيه\n\nوعلى الرجل أن ينفق على أبويه وأجداده وجداته إذا كانوا فقراء وإن خالفوه في دينه ولا تجب النفقة مع اختلاف الدين إلا للزوجة والأبوين والأجداد والجدات والولد وولد الولد ولا يشارك الولد في نفقة أبويه أحد",
+              "rulingEn": "Any of these women who remarries loses her right, except the grandmother if her husband is the grandfather. If there is no female relative for the child and the men dispute over him, the one with the closest agnate relationship has the most right.\n\nThe mother and grandmother have more right to the boy until he eats by himself, dresses by himself, and cleans himself after using the toilet. They have more right to the girl until she begins menstruation. Women other than the mother and grandmother have more right to the girl until she reaches an age at which she is desired.\n\nA slave-woman who is manumitted by her master, and an umm walad who is freed, have the same rights regarding the child as a free woman. A slave-woman and an umm walad before manumission have no right to the child. A non-Muslim woman under covenant has more right to her Muslim child as long as the child does not understand religions and there is no fear of the child becoming accustomed to disbelief.\n\nIf a divorced woman wishes to take her child out of the city, she may not do so unless she takes the child to her homeland where the husband had married her.\n\nA man is required to provide maintenance for his parents and grandparents if they are poor, even if they differ with him in religion. Maintenance is not obligatory across different religions except for the wife, parents, grandparents, children, and grandchildren. No one shares with the child in providing maintenance for the parents.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "Any of these women who remarries loses her right, except the grandmother if her husband is the grandfather. If there is no female relative for the child and the men dispute over him, the one with the closest agnate relationship has the most right.\n\nThe mother and grandmother have more right to the boy until he eats by himself, dresses by himself, and cleans himself after using the toilet. They have more right to the girl until she begins menstruation. Women other than the mother and grandmother have more right to the girl until she reaches an age at which she is desired.\n\nA slave-woman who is manumitted by her master, and an umm walad who is freed, have the same rights regarding the child as a free woman. A slave-woman and an umm walad before manumission have no right to the child. A non-Muslim woman under covenant has more right to her Muslim child as long as the child does not understand religions and there is no fear of the child becoming accustomed to disbelief.\n\nIf a divorced woman wishes to take her child out of the city, she may not do so unless she takes the child to her homeland where the husband had married her.\n\nA man is required to provide maintenance for his parents and grandparents if they are poor, even if they differ with him in religion. Maintenance is not obligatory across different religions except for the wife, parents, grandparents, children, and grandchildren. No one shares with the child in providing maintenance for the parents."
+        },
+        {
+          "id": "hadanah-main-1-4",
+          "babId": "hadanah-main",
+          "kitabId": "hadanah",
+          "titleAr": "كتاب الحضانة",
+          "titleEn": "Custody",
+          "order": 4,
+          "textAr": "والنفقة لكل ذي رحم محرم إذا كان صغيرا فقيرا أو كانت امرأة بالغة فقيرة أو كان ذكرا زمنا أو أعمى فقيرا\n\nويجب ذلك على مقدار الميراث\n\nوتجب نفقة الابنة البالغة والابن الزمن على أبويه أثلاثا: على الأب الثلثان وعلى الأم الثلث\n\nولا تجب نفقتهم مع اختلاف الدين ولا تجب على الفقير\n\nوإذا كان للابن الغائب مال فضي عليه بنفقة أبويه وإن باع\n\nأبوه متاعه في نفقته جاز عند أبي حنيفة وإن باع العقار لم يجز\n\nوإن كان للابن الغائب مال في يد أبويه فانفقا منه لم يضمنا\n\nوإن كان له مال في يد أجنبي فأنفق عليهما بغير إذن القاضي ضمن\n\nوإذا قضى القاضي للولد والوالدين وذوي الأرحام بالنفقة فمضت مدة سقطت إلا أن يأذن القاضي في الاستدانة عليه\n\nوعلى المولى أن ينفق على عبده وأمته فإن امتنع وكن لهما كسب اكتسبا وأنفقها على أنفسهما\n\nوإن لم يكن لهما كسب أجبر المولى على بيعهما",
+          "sourcePage": 163,
+          "masail": [
+            {
+              "id": "masalah-hadanah-main-1-4",
+              "sectionId": "hadanah-main-1-4",
+              "kitabId": "hadanah",
+              "titleAr": "كتاب الحضانة",
+              "titleEn": "Custody",
+              "rulingAr": "والنفقة لكل ذي رحم محرم إذا كان صغيرا فقيرا أو كانت امرأة بالغة فقيرة أو كان ذكرا زمنا أو أعمى فقيرا\n\nويجب ذلك على مقدار الميراث\n\nوتجب نفقة الابنة البالغة والابن الزمن على أبويه أثلاثا: على الأب الثلثان وعلى الأم الثلث\n\nولا تجب نفقتهم مع اختلاف الدين ولا تجب على الفقير\n\nوإذا كان للابن الغائب مال فضي عليه بنفقة أبويه وإن باع\n\nأبوه متاعه في نفقته جاز عند أبي حنيفة وإن باع العقار لم يجز\n\nوإن كان للابن الغائب مال في يد أبويه فانفقا منه لم يضمنا\n\nوإن كان له مال في يد أجنبي فأنفق عليهما بغير إذن القاضي ضمن\n\nوإذا قضى القاضي للولد والوالدين وذوي الأرحام بالنفقة فمضت مدة سقطت إلا أن يأذن القاضي في الاستدانة عليه\n\nوعلى المولى أن ينفق على عبده وأمته فإن امتنع وكن لهما كسب اكتسبا وأنفقها على أنفسهما\n\nوإن لم يكن لهما كسب أجبر المولى على بيعهما",
+              "rulingEn": "Maintenance is due to every person of unmarriageable kinship if they are a poor minor, or a poor adult woman, or a poor disabled or blind male.\n\nThis is apportioned according to the shares of inheritance.\n\nThe maintenance of an adult daughter and a disabled son is obligatory upon their parents in the ratio of thirds: two-thirds upon the father and one-third upon the mother.\n\nTheir maintenance is not obligatory when there is a difference in religion, nor upon a poor person.\n\nIf the absent son has wealth, the judge orders the maintenance of his parents from it. If the father sells the son's goods for his maintenance, it is valid according to Abu Hanifah. If the father sells real property, it is not valid.\n\nIf the absent son has wealth in the hands of his parents and they spend from it, they are not liable.\n\nIf he has wealth in the hands of a stranger who spends it on them without the judge's permission, the stranger is liable.\n\nIf the judge awards maintenance to the child, parents, or relatives and a period passes, it lapses unless the judge gave permission to borrow against the person.\n\nThe master must provide maintenance for his slave and slave-woman. If he refuses and they are capable of earning, they earn and spend on themselves.\n\nIf they are not capable of earning, the master is compelled to sell them.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "Maintenance is due to every person of unmarriageable kinship if they are a poor minor, or a poor adult woman, or a poor disabled or blind male.\n\nThis is apportioned according to the shares of inheritance.\n\nThe maintenance of an adult daughter and a disabled son is obligatory upon their parents in the ratio of thirds: two-thirds upon the father and one-third upon the mother.\n\nTheir maintenance is not obligatory when there is a difference in religion, nor upon a poor person.\n\nIf the absent son has wealth, the judge orders the maintenance of his parents from it. If the father sells the son's goods for his maintenance, it is valid according to Abu Hanifah. If the father sells real property, it is not valid.\n\nIf the absent son has wealth in the hands of his parents and they spend from it, they are not liable.\n\nIf he has wealth in the hands of a stranger who spends it on them without the judge's permission, the stranger is liable.\n\nIf the judge awards maintenance to the child, parents, or relatives and a period passes, it lapses unless the judge gave permission to borrow against the person.\n\nThe master must provide maintenance for his slave and slave-woman. If he refuses and they are capable of earning, they earn and spend on themselves.\n\nIf they are not capable of earning, the master is compelled to sell them."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33498 @@
+export interface Lemma {
+  id: number;
+  lemma: string;
+  meaning: string;
+  transliteration: string;
+  lemmaId: number;
+}
+
+export const lemmas: Lemma[] = [
+  {
+    "id": 1,
+    "lemma": "آباء",
+    "meaning": "forefathers, fathers, parents",
+    "transliteration": "ābāʾ",
+    "lemmaId": 183
+  },
+  {
+    "id": 2,
+    "lemma": "آتَى",
+    "meaning": "to give",
+    "transliteration": "ātā",
+    "lemmaId": 51
+  },
+  {
+    "id": 3,
+    "lemma": "آتِي",
+    "meaning": "coming",
+    "transliteration": "ātī",
+    "lemmaId": 861
+  },
+  {
+    "id": 4,
+    "lemma": "آثَرَ",
+    "meaning": "to prefer",
+    "transliteration": "āthara",
+    "lemmaId": 1248
+  },
+  {
+    "id": 5,
+    "lemma": "آثِم",
+    "meaning": "sinner",
+    "transliteration": "āthim",
+    "lemmaId": 1684
+  },
+  {
+    "id": 6,
+    "lemma": "آخَر",
+    "meaning": "other, another",
+    "transliteration": "ākhar",
+    "lemmaId": 171
+  },
+  {
+    "id": 7,
+    "lemma": "آخِذ",
+    "meaning": "taking, grasping",
+    "transliteration": "ākhidh",
+    "lemmaId": 1685
+  },
+  {
+    "id": 8,
+    "lemma": "آخِر",
+    "meaning": "Hereafter, end, last, later generations",
+    "transliteration": "ākhir",
+    "lemmaId": 80
+  },
+  {
+    "id": 9,
+    "lemma": "آدَم",
+    "meaning": "Ādam",
+    "transliteration": "ādam",
+    "lemmaId": 417
+  },
+  {
+    "id": 10,
+    "lemma": "آزَر",
+    "meaning": "Āzar",
+    "transliteration": "āzar",
+    "lemmaId": 2819
+  },
+  {
+    "id": 11,
+    "lemma": "آزَرَ",
+    "meaning": "to strengthen",
+    "transliteration": "āzara",
+    "lemmaId": 2820
+  },
+  {
+    "id": 12,
+    "lemma": "آزِفَة",
+    "meaning": "the Approaching Day",
+    "transliteration": "āzifah",
+    "lemmaId": 2092
+  },
+  {
+    "id": 13,
+    "lemma": "آسَفُ",
+    "meaning": "to anger",
+    "transliteration": "āsafu",
+    "lemmaId": 2821
+  },
+  {
+    "id": 14,
+    "lemma": "آسِن",
+    "meaning": "stale",
+    "transliteration": "āsin",
+    "lemmaId": 2822
+  },
+  {
+    "id": 15,
+    "lemma": "آفِل",
+    "meaning": "those that become absent",
+    "transliteration": "āfil",
+    "lemmaId": 2823
+  },
+  {
+    "id": 16,
+    "lemma": "آكِل",
+    "meaning": "those who eat",
+    "transliteration": "ākil",
+    "lemmaId": 1686
+  },
+  {
+    "id": 17,
+    "lemma": "آل",
+    "meaning": "family, people",
+    "transliteration": "āl",
+    "lemmaId": 405
+  },
+  {
+    "id": 18,
+    "lemma": "آلاء",
+    "meaning": "favors",
+    "transliteration": "ālā",
+    "lemmaId": 335
+  },
+  {
+    "id": 19,
+    "lemma": "آمَنَ",
+    "meaning": "to believe",
+    "transliteration": "āmana",
+    "lemmaId": 23
+  },
+  {
+    "id": 20,
+    "lemma": "آمِر",
+    "meaning": "those who advise",
+    "transliteration": "āmir",
+    "lemmaId": 2824
+  },
+  {
+    "id": 21,
+    "lemma": "آمِن",
+    "meaning": "secure",
+    "transliteration": "āmin",
+    "lemmaId": 575
+  },
+  {
+    "id": 22,
+    "lemma": "آمِنَة",
+    "meaning": "secure",
+    "transliteration": "āminah",
+    "lemmaId": 2825
+  },
+  {
+    "id": 23,
+    "lemma": "آمّ",
+    "meaning": "those journeying",
+    "transliteration": "āmm",
+    "lemmaId": 2826
+  },
+  {
+    "id": 24,
+    "lemma": "آن",
+    "meaning": "now",
+    "transliteration": "ān",
+    "lemmaId": 862
+  },
+  {
+    "id": 25,
+    "lemma": "آناء",
+    "meaning": "designated portions",
+    "transliteration": "ānā",
+    "lemmaId": 1687
+  },
+  {
+    "id": 26,
+    "lemma": "آنَسَ",
+    "meaning": "to perceive",
+    "transliteration": "ānasa",
+    "lemmaId": 1249
+  },
+  {
+    "id": 27,
+    "lemma": "آنِف",
+    "meaning": "just now",
+    "transliteration": "ānif",
+    "lemmaId": 2827
+  },
+  {
+    "id": 28,
+    "lemma": "آنِيَة",
+    "meaning": "vessels, at peak heat",
+    "transliteration": "ānīya",
+    "lemmaId": 2093
+  },
+  {
+    "id": 29,
+    "lemma": "آوَى",
+    "meaning": "to give refuge, to give shelter",
+    "transliteration": "āwā",
+    "lemmaId": 863
+  },
+  {
+    "id": 30,
+    "lemma": "آيَة",
+    "meaning": "sign, verse",
+    "transliteration": "āyatan",
+    "lemmaId": 32
+  },
+  {
+    "id": 31,
+    "lemma": "أ",
+    "meaning": "interrogative marker",
+    "transliteration": "a",
+    "lemmaId": 24
+  },
+  {
+    "id": 32,
+    "lemma": "أَب",
+    "meaning": "father",
+    "transliteration": "ab",
+    "lemmaId": 249
+  },
+  {
+    "id": 33,
+    "lemma": "أَبابِيل",
+    "meaning": "flocks",
+    "transliteration": "abābīl",
+    "lemmaId": 2828
+  },
+  {
+    "id": 34,
+    "lemma": "أَبارِيق",
+    "meaning": "vessels",
+    "transliteration": "abārīq",
+    "lemmaId": 2829
+  },
+  {
+    "id": 35,
+    "lemma": "أَبَدًا",
+    "meaning": "forever, ever",
+    "transliteration": "abadan",
+    "lemmaId": 379
+  },
+  {
+    "id": 36,
+    "lemma": "أَبَقَ",
+    "meaning": "to run away, to flee",
+    "transliteration": "abaqa",
+    "lemmaId": 2830
+  },
+  {
+    "id": 37,
+    "lemma": "أَبَوان",
+    "meaning": "parents, two forefathers",
+    "transliteration": "abāwān",
+    "lemmaId": 1015
+  },
+  {
+    "id": 38,
+    "lemma": "أَبَى",
+    "meaning": "to refuse",
+    "transliteration": "abā",
+    "lemmaId": 664
+  },
+  {
+    "id": 39,
+    "lemma": "أَبّ",
+    "meaning": "grass, herbage, pasture",
+    "transliteration": "abb",
+    "lemmaId": 2831
+  },
+  {
+    "id": 40,
+    "lemma": "أَبْتَر",
+    "meaning": "cut off",
+    "transliteration": "abtar",
+    "lemmaId": 2832
+  },
+  {
+    "id": 41,
+    "lemma": "أَبْرَحَ",
+    "meaning": "to cease, to depart",
+    "transliteration": "abrḥ",
+    "lemmaId": 1688
+  },
+  {
+    "id": 42,
+    "lemma": "أَبْرَص",
+    "meaning": "leper",
+    "transliteration": "abr'aṣ",
+    "lemmaId": 2094
+  },
+  {
+    "id": 43,
+    "lemma": "أَبْرَمُ",
+    "meaning": "to firmly establish",
+    "transliteration": "abramu",
+    "lemmaId": 2833
+  },
+  {
+    "id": 44,
+    "lemma": "أَبْشِرُ",
+    "meaning": "to receive glad tidings, to rejoice",
+    "transliteration": "ab'shiru",
+    "lemmaId": 2834
+  },
+  {
+    "id": 45,
+    "lemma": "أَبْصَرَ",
+    "meaning": "to see",
+    "transliteration": "abṣara",
+    "lemmaId": 372
+  },
+  {
+    "id": 46,
+    "lemma": "أَبْقَى",
+    "meaning": "enduring",
+    "transliteration": "abqā",
+    "lemmaId": 1016
+  },
+  {
+    "id": 47,
+    "lemma": "أَبْكَم",
+    "meaning": "mute",
+    "transliteration": "abkam",
+    "lemmaId": 1118
+  },
+  {
+    "id": 48,
+    "lemma": "أَبْكَى",
+    "meaning": "to make weep",
+    "transliteration": "abkā",
+    "lemmaId": 2835
+  },
+  {
+    "id": 49,
+    "lemma": "أَبْلَغُ",
+    "meaning": "to convey",
+    "transliteration": "ablaghu",
+    "lemmaId": 1250
+  },
+  {
+    "id": 50,
+    "lemma": "أَبْيَض",
+    "meaning": "white, radiant white",
+    "transliteration": "abyaḍ",
+    "lemmaId": 939
+  },
+  {
+    "id": 51,
+    "lemma": "أَتَمَّ",
+    "meaning": "to fulfill, to complete, to perfect",
+    "transliteration": "atamma",
+    "lemmaId": 576
+  },
+  {
+    "id": 52,
+    "lemma": "أَتَوَكَّؤُا۟",
+    "meaning": "to lean",
+    "transliteration": "atawakkāū",
+    "lemmaId": 2836
+  },
+  {
+    "id": 53,
+    "lemma": "أَتَى",
+    "meaning": "to come, to bring",
+    "transliteration": "atā",
+    "lemmaId": 54
+  },
+  {
+    "id": 54,
+    "lemma": "أَتْبَعَ",
+    "meaning": "to pursue, to cause to follow",
+    "transliteration": "atbaʿ",
+    "lemmaId": 602
+  },
+  {
+    "id": 55,
+    "lemma": "أَتْراب",
+    "meaning": "well-matched",
+    "transliteration": "at'rāb",
+    "lemmaId": 1689
+  },
+  {
+    "id": 56,
+    "lemma": "أَتْقَنَ",
+    "meaning": "to perfect with precision",
+    "transliteration": "atqana",
+    "lemmaId": 2837
+  },
+  {
+    "id": 57,
+    "lemma": "أَتْقَى",
+    "meaning": "most God-conscious",
+    "transliteration": "atqā",
+    "lemmaId": 2095
+  },
+  {
+    "id": 58,
+    "lemma": "أَثابَ",
+    "meaning": "to reward",
+    "transliteration": "athāba",
+    "lemmaId": 1690
+  },
+  {
+    "id": 59,
+    "lemma": "أَثاث",
+    "meaning": "wealth and possessions",
+    "transliteration": "athāth",
+    "lemmaId": 2096
+  },
+  {
+    "id": 60,
+    "lemma": "أَثارَة",
+    "meaning": "remnant",
+    "transliteration": "athāra",
+    "lemmaId": 2838
+  },
+  {
+    "id": 61,
+    "lemma": "أَثارُ",
+    "meaning": "to stir",
+    "transliteration": "athāru",
+    "lemmaId": 1251
+  },
+  {
+    "id": 62,
+    "lemma": "أَثام",
+    "meaning": "penalty",
+    "transliteration": "athām",
+    "lemmaId": 2839
+  },
+  {
+    "id": 63,
+    "lemma": "أَثَر",
+    "meaning": "trace",
+    "transliteration": "athar",
+    "lemmaId": 633
+  },
+  {
+    "id": 64,
+    "lemma": "أَثِيم",
+    "meaning": "sinful",
+    "transliteration": "athīm",
+    "lemmaId": 1017
+  },
+  {
+    "id": 65,
+    "lemma": "أَثْخَن",
+    "meaning": "to render heavy",
+    "transliteration": "athkhan",
+    "lemmaId": 2097
+  },
+  {
+    "id": 66,
+    "lemma": "أَثْقَلَت",
+    "meaning": "to become heavy",
+    "transliteration": "aṯqalat",
+    "lemmaId": 2840
+  },
+  {
+    "id": 67,
+    "lemma": "أَثْل",
+    "meaning": "tamarisk",
+    "transliteration": "athl",
+    "lemmaId": 2841
+  },
+  {
+    "id": 68,
+    "lemma": "أَثْمَرَ",
+    "meaning": "to bear fruit",
+    "transliteration": "aṯmara",
+    "lemmaId": 2098
+  },
+  {
+    "id": 69,
+    "lemma": "أَجَل",
+    "meaning": "term",
+    "transliteration": "ajal",
+    "lemmaId": 222
+  },
+  {
+    "id": 70,
+    "lemma": "أَجِنَّة",
+    "meaning": "fetuses",
+    "transliteration": "ajinnata",
+    "lemmaId": 2842
+  },
+  {
+    "id": 71,
+    "lemma": "أَجَّلَ",
+    "meaning": "to appoint, to postpone",
+    "transliteration": "ajjala",
+    "lemmaId": 2099
+  },
+  {
+    "id": 72,
+    "lemma": "أَجْداث",
+    "meaning": "graves",
+    "transliteration": "ajdāth",
+    "lemmaId": 1691
+  },
+  {
+    "id": 73,
+    "lemma": "أَجْدَر",
+    "meaning": "more deserving",
+    "transliteration": "ajdar",
+    "lemmaId": 2843
+  },
+  {
+    "id": 74,
+    "lemma": "أَجْر",
+    "meaning": "reward, payment, dowry",
+    "transliteration": "ajr",
+    "lemmaId": 113
+  },
+  {
+    "id": 75,
+    "lemma": "أَجْرَمُ",
+    "meaning": "to commit crime",
+    "transliteration": "ajramu",
+    "lemmaId": 1252
+  },
+  {
+    "id": 76,
+    "lemma": "أَجْل",
+    "meaning": "reason",
+    "transliteration": "ajl",
+    "lemmaId": 2844
+  },
+  {
+    "id": 77,
+    "lemma": "أَجْلِبْ",
+    "meaning": "mobilize",
+    "transliteration": "ajlib",
+    "lemmaId": 2845
+  },
+  {
+    "id": 78,
+    "lemma": "أَجْمَع",
+    "meaning": "all together",
+    "transliteration": "ajmaa",
+    "lemmaId": 406
+  },
+  {
+    "id": 79,
+    "lemma": "أَجْمَعُ",
+    "meaning": "to resolve, to agree unanimously",
+    "transliteration": "ajmaʿu",
+    "lemmaId": 1435
+  },
+  {
+    "id": 80,
+    "lemma": "أَحاطَ",
+    "meaning": "to surround, to encompass",
+    "transliteration": "aḥāṭ",
+    "lemmaId": 549
+  },
+  {
+    "id": 81,
+    "lemma": "أَحَبّ",
+    "meaning": "to be beloved, to be dear",
+    "transliteration": "aḥabb",
+    "lemmaId": 1692
+  },
+  {
+    "id": 82,
+    "lemma": "أَحَد",
+    "meaning": "one, anyone",
+    "transliteration": "aḥad",
+    "lemmaId": 156
+  },
+  {
+    "id": 83,
+    "lemma": "أَحَسَّ",
+    "meaning": "to perceive",
+    "transliteration": "aḥassa",
+    "lemmaId": 1693
+  },
+  {
+    "id": 84,
+    "lemma": "أَحَقّ",
+    "meaning": "more deserving, most rightful",
+    "transliteration": "aḥaqq",
+    "lemmaId": 801
+  },
+  {
+    "id": 85,
+    "lemma": "أَحَلَّ",
+    "meaning": "to make lawful",
+    "transliteration": "aḥalla",
+    "lemmaId": 491
+  },
+  {
+    "id": 86,
+    "lemma": "أَحِبّاؤ",
+    "meaning": "beloved",
+    "transliteration": "aḥibbāo",
+    "lemmaId": 2846
+  },
+  {
+    "id": 87,
+    "lemma": "أَحْبار",
+    "meaning": "scholars, scribes",
+    "transliteration": "aḥbār",
+    "lemmaId": 1436
+  },
+  {
+    "id": 88,
+    "lemma": "أَحْبَبْ",
+    "meaning": "to love, to like",
+    "transliteration": "aḥbab",
+    "lemmaId": 184
+  },
+  {
+    "id": 89,
+    "lemma": "أَحْبَطَ",
+    "meaning": "to nullify",
+    "transliteration": "aḥbaṭa",
+    "lemmaId": 1437
+  },
+  {
+    "id": 90,
+    "lemma": "أَحْتَنِكَ",
+    "meaning": "to gain complete mastery over",
+    "transliteration": "aḥtanika",
+    "lemmaId": 2847
+  },
+  {
+    "id": 91,
+    "lemma": "أَحْرَص",
+    "meaning": "most eager",
+    "transliteration": "aḥras",
+    "lemmaId": 2848
+  },
+  {
+    "id": 92,
+    "lemma": "أَحْسَن",
+    "meaning": "best, better",
+    "transliteration": "aḥsan",
+    "lemmaId": 320
+  },
+  {
+    "id": 93,
+    "lemma": "أَحْسَنَ",
+    "meaning": "to do good",
+    "transliteration": "aḥsana",
+    "lemmaId": 473
+  },
+  {
+    "id": 94,
+    "lemma": "أَحْصَنَتْ",
+    "meaning": "to safeguard",
+    "transliteration": "aḥṣanat",
+    "lemmaId": 1253
+  },
+  {
+    "id": 95,
+    "lemma": "أَحْصَى",
+    "meaning": "to calculate, to account for",
+    "transliteration": "aḥṣā",
+    "lemmaId": 747
+  },
+  {
+    "id": 96,
+    "lemma": "أَحْضَرَتْ",
+    "meaning": "to bring, to present",
+    "transliteration": "aḥḍarat",
+    "lemmaId": 1694
+  },
+  {
+    "id": 97,
+    "lemma": "أَحْقاب",
+    "meaning": "ages",
+    "transliteration": "aḥqāb",
+    "lemmaId": 2849
+  },
+  {
+    "id": 98,
+    "lemma": "أَحْقاف",
+    "meaning": "Al-Aḥqāf",
+    "transliteration": "aḥqāf",
+    "lemmaId": 2850
+  },
+  {
+    "id": 99,
+    "lemma": "أَحْكَم",
+    "meaning": "most just",
+    "transliteration": "aḥkam",
+    "lemmaId": 2100
+  },
+  {
+    "id": 100,
+    "lemma": "أَحْمال",
+    "meaning": "pregnancies",
+    "transliteration": "aḥmāl",
+    "lemmaId": 2851
+  },
+  {
+    "id": 101,
+    "lemma": "أَحْمَد",
+    "meaning": "Ahmad, most praisworthy",
+    "transliteration": "aḥmad",
+    "lemmaId": 2852
+  },
+  {
+    "id": 102,
+    "lemma": "أَحْوَى",
+    "meaning": "dark",
+    "transliteration": "aḥwā",
+    "lemmaId": 2853
+  },
+  {
+    "id": 103,
+    "lemma": "أَحْيا",
+    "meaning": "to give life",
+    "transliteration": "aḥyā",
+    "lemmaId": 226
+  },
+  {
+    "id": 104,
+    "lemma": "أَخ",
+    "meaning": "brother",
+    "transliteration": "akh",
+    "lemmaId": 152
+  },
+  {
+    "id": 105,
+    "lemma": "أَخَذَ",
+    "meaning": "to take, to seize",
+    "transliteration": "akhadha",
+    "lemmaId": 97
+  },
+  {
+    "id": 106,
+    "lemma": "أَخَّرَ",
+    "meaning": "to delay, to defer",
+    "transliteration": "akhkhara",
+    "lemmaId": 603
+  },
+  {
+    "id": 107,
+    "lemma": "أَخْبار",
+    "meaning": "news, affairs",
+    "transliteration": "akhbār",
+    "lemmaId": 1695
+  },
+  {
+    "id": 108,
+    "lemma": "أَخْدان",
+    "meaning": "secret lovers",
+    "transliteration": "akhdān",
+    "lemmaId": 2102
+  },
+  {
+    "id": 109,
+    "lemma": "أَخْذ",
+    "meaning": "taking, seizure",
+    "transliteration": "akhadh",
+    "lemmaId": 1119
+  },
+  {
+    "id": 110,
+    "lemma": "أَخْرَجَ",
+    "meaning": "to bring out, to bring forth, to drive out",
+    "transliteration": "akhraj",
+    "lemmaId": 116
+  },
+  {
+    "id": 111,
+    "lemma": "أَخْزَى",
+    "meaning": "to disgrace",
+    "transliteration": "akhzā",
+    "lemmaId": 2854
+  },
+  {
+    "id": 112,
+    "lemma": "أَخْزَيْ",
+    "meaning": "to disgrace",
+    "transliteration": "akhzay",
+    "lemmaId": 696
+  },
+  {
+    "id": 113,
+    "lemma": "أَخْسَر",
+    "meaning": "greatest losers",
+    "transliteration": "akh'sara",
+    "lemmaId": 1438
+  },
+  {
+    "id": 114,
+    "lemma": "أَخْضَر",
+    "meaning": "green",
+    "transliteration": "akhḍar",
+    "lemmaId": 2855
+  },
+  {
+    "id": 115,
+    "lemma": "أَخْطَأْ",
+    "meaning": "to err, to make a mistake",
+    "transliteration": "akh'ṭaʾ",
+    "lemmaId": 2103
+  },
+  {
+    "id": 116,
+    "lemma": "أَخْفَى",
+    "meaning": "more hidden",
+    "transliteration": "akhfā",
+    "lemmaId": 2856
+  },
+  {
+    "id": 117,
+    "lemma": "أَخْلَدَ",
+    "meaning": "to incline towards, to cause to remain",
+    "transliteration": "akhlada",
+    "lemmaId": 2104
+  },
+  {
+    "id": 118,
+    "lemma": "أَخْلَصُ",
+    "meaning": "to make sincere, to purify",
+    "transliteration": "akh'lasu",
+    "lemmaId": 2105
+  },
+  {
+    "id": 119,
+    "lemma": "أَخْلَفُ",
+    "meaning": "to break, to fail to fulfil, to replace",
+    "transliteration": "akhlafu",
+    "lemmaId": 634
+  },
+  {
+    "id": 120,
+    "lemma": "أَداء",
+    "meaning": "payment",
+    "transliteration": "adā",
+    "lemmaId": 2857
+  },
+  {
+    "id": 121,
+    "lemma": "أَدْبَرَ",
+    "meaning": "to turn away, to depart",
+    "transliteration": "adbara",
+    "lemmaId": 1439
+  },
+  {
+    "id": 122,
+    "lemma": "أَدْرَكَ",
+    "meaning": "to overtake, to grasp",
+    "transliteration": "ad'raka",
+    "lemmaId": 1120
+  },
+  {
+    "id": 123,
+    "lemma": "أَدْرَى",
+    "meaning": "to make known",
+    "transliteration": "ad'rā",
+    "lemmaId": 550
+  },
+  {
+    "id": 124,
+    "lemma": "أَدْلَى",
+    "meaning": "to present, to let down",
+    "transliteration": "adlā",
+    "lemmaId": 2106
+  },
+  {
+    "id": 125,
+    "lemma": "أَدْنَى",
+    "meaning": "nearer, closer, lower, more appropriate, more suitable, less",
+    "transliteration": "adnā",
+    "lemmaId": 697
+  },
+  {
+    "id": 126,
+    "lemma": "أَدْهَى",
+    "meaning": "to be more grievous",
+    "transliteration": "ad'hā",
+    "lemmaId": 2858
+  },
+  {
+    "id": 127,
+    "lemma": "أَذاعُ",
+    "meaning": "to broadcast",
+    "transliteration": "adhāʿu",
+    "lemmaId": 2859
+  },
+  {
+    "id": 128,
+    "lemma": "أَذاقَ",
+    "meaning": "to cause to taste",
+    "transliteration": "adhāqa",
+    "lemmaId": 455
+  },
+  {
+    "id": 129,
+    "lemma": "أَذان",
+    "meaning": "announcement",
+    "transliteration": "adhān",
+    "lemmaId": 2860
+  },
+  {
+    "id": 130,
+    "lemma": "أَذًى",
+    "meaning": "ailment, harm",
+    "transliteration": "aḏan",
+    "lemmaId": 864
+  },
+  {
+    "id": 131,
+    "lemma": "أَذِلَّة",
+    "meaning": "humble, humiliated, low in strength",
+    "transliteration": "adhillata",
+    "lemmaId": 1440
+  },
+  {
+    "id": 132,
+    "lemma": "أَذِنَ",
+    "meaning": "to permit",
+    "transliteration": "aḏina",
+    "lemmaId": 441
+  },
+  {
+    "id": 133,
+    "lemma": "أَذَّنَ",
+    "meaning": "to announce, to proclaim",
+    "transliteration": "aḏḏana",
+    "lemmaId": 1696
+  },
+  {
+    "id": 134,
+    "lemma": "أَذْقان",
+    "meaning": "chins",
+    "transliteration": "adhqān",
+    "lemmaId": 1697
+  },
+  {
+    "id": 135,
+    "lemma": "أَذْهَبَ",
+    "meaning": "to remove, to take away",
+    "transliteration": "aḏhaba",
+    "lemmaId": 748
+  },
+  {
+    "id": 136,
+    "lemma": "أَرائِك",
+    "meaning": "raised couches",
+    "transliteration": "arāik",
+    "lemmaId": 1254
+  },
+  {
+    "id": 137,
+    "lemma": "أَرادَ",
+    "meaning": "to intend, to desire, to want, to wish",
+    "transliteration": "arāda",
+    "lemmaId": 88
+  },
+  {
+    "id": 138,
+    "lemma": "أَرَيْ",
+    "meaning": "to show",
+    "transliteration": "aray",
+    "lemmaId": 282
+  },
+  {
+    "id": 139,
+    "lemma": "أَرْبَع",
+    "meaning": "four",
+    "transliteration": "arba",
+    "lemmaId": 1018
+  },
+  {
+    "id": 140,
+    "lemma": "أَرْبَعَة",
+    "meaning": "four",
+    "transliteration": "arbaʿata",
+    "lemmaId": 865
+  },
+  {
+    "id": 141,
+    "lemma": "أَرْبَى",
+    "meaning": "to increase, more numerous",
+    "transliteration": "ar'ba",
+    "lemmaId": 2108
+  },
+  {
+    "id": 142,
+    "lemma": "أَرْجائ",
+    "meaning": "edges",
+    "transliteration": "arjāi",
+    "lemmaId": 2861
+  },
+  {
+    "id": 143,
+    "lemma": "أَرْحام",
+    "meaning": "wombs, ties of kinship",
+    "transliteration": "arḥām",
+    "lemmaId": 698
+  },
+  {
+    "id": 144,
+    "lemma": "أَرْحَم",
+    "meaning": "most merciful",
+    "transliteration": "arḥama",
+    "lemmaId": 1441
+  },
+  {
+    "id": 145,
+    "lemma": "أَرْدَى",
+    "meaning": "to ruin",
+    "transliteration": "ardā",
+    "lemmaId": 1698
+  },
+  {
+    "id": 146,
+    "lemma": "أَرْذَل",
+    "meaning": "most contemptible ones, most degraded, most degraded ones",
+    "transliteration": "arḍal",
+    "lemmaId": 1442
+  },
+  {
+    "id": 147,
+    "lemma": "أَرْسَلَ",
+    "meaning": "to send",
+    "transliteration": "arsala",
+    "lemmaId": 94
+  },
+  {
+    "id": 148,
+    "lemma": "أَرْسَى",
+    "meaning": "to anchor",
+    "transliteration": "arsā",
+    "lemmaId": 2862
+  },
+  {
+    "id": 149,
+    "lemma": "أَرْض",
+    "meaning": "earth",
+    "transliteration": "arḍ",
+    "lemmaId": 28
+  },
+  {
+    "id": 150,
+    "lemma": "أَرْضَعَتْ",
+    "meaning": "to nurse, to suckle",
+    "transliteration": "arḍaʿat",
+    "lemmaId": 1255
+  },
+  {
+    "id": 151,
+    "lemma": "أَرْكَسَ",
+    "meaning": "to revert, to be thrown back",
+    "transliteration": "arkasa",
+    "lemmaId": 2109
+  },
+  {
+    "id": 152,
+    "lemma": "أَزاغَ",
+    "meaning": "to lead astray",
+    "transliteration": "azāgha",
+    "lemmaId": 2110
+  },
+  {
+    "id": 153,
+    "lemma": "أَزَلَّ",
+    "meaning": "to cause to slip",
+    "transliteration": "azalla",
+    "lemmaId": 2863
+  },
+  {
+    "id": 154,
+    "lemma": "أَزِفَتِ",
+    "meaning": "drawn near",
+    "transliteration": "azifati",
+    "lemmaId": 2864
+  },
+  {
+    "id": 155,
+    "lemma": "أَزّ",
+    "meaning": "incitement",
+    "transliteration": "azz",
+    "lemmaId": 2865
+  },
+  {
+    "id": 156,
+    "lemma": "أَزْر",
+    "meaning": "strength",
+    "transliteration": "azr",
+    "lemmaId": 2866
+  },
+  {
+    "id": 157,
+    "lemma": "أَزْكَى",
+    "meaning": "purer, more virtuous",
+    "transliteration": "azkā",
+    "lemmaId": 1443
+  },
+  {
+    "id": 158,
+    "lemma": "أَزْلام",
+    "meaning": "divining arrows",
+    "transliteration": "azlām",
+    "lemmaId": 2111
+  },
+  {
+    "id": 159,
+    "lemma": "أَساءَ",
+    "meaning": "to do evil",
+    "transliteration": "asā",
+    "lemmaId": 1256
+  },
+  {
+    "id": 160,
+    "lemma": "أَساطِير",
+    "meaning": "tale, story",
+    "transliteration": "asāṭīr",
+    "lemmaId": 866
+  },
+  {
+    "id": 161,
+    "lemma": "أَساوِر",
+    "meaning": "bracelets",
+    "transliteration": "asāwir",
+    "lemmaId": 1257
+  },
+  {
+    "id": 162,
+    "lemma": "أَسَرَّ",
+    "meaning": "to conceal",
+    "transliteration": "asarra",
+    "lemmaId": 526
+  },
+  {
+    "id": 163,
+    "lemma": "أَسَف",
+    "meaning": "grief",
+    "transliteration": "asafa",
+    "lemmaId": 2112
+  },
+  {
+    "id": 164,
+    "lemma": "أَسَلْ",
+    "meaning": "to cause flow",
+    "transliteration": "asal",
+    "lemmaId": 2867
+  },
+  {
+    "id": 165,
+    "lemma": "أَسِف",
+    "meaning": "sorrowful",
+    "transliteration": "asif",
+    "lemmaId": 2113
+  },
+  {
+    "id": 166,
+    "lemma": "أَسِير",
+    "meaning": "captive, prisoner of war",
+    "transliteration": "asīr",
+    "lemmaId": 1444
+  },
+  {
+    "id": 167,
+    "lemma": "أَسَّسَ",
+    "meaning": "founded",
+    "transliteration": "assasa",
+    "lemmaId": 1699
+  },
+  {
+    "id": 168,
+    "lemma": "أَسْبَغَ",
+    "meaning": "to bestow",
+    "transliteration": "asbagha",
+    "lemmaId": 2868
+  },
+  {
+    "id": 169,
+    "lemma": "أَسْتَخْلِصْ",
+    "meaning": "to choose exclusively",
+    "transliteration": "astakhliṣ",
+    "lemmaId": 2869
+  },
+  {
+    "id": 170,
+    "lemma": "أَسْخَطَ",
+    "meaning": "to cause displeasure, to incite anger",
+    "transliteration": "as'khaṭa",
+    "lemmaId": 2870
+  },
+  {
+    "id": 171,
+    "lemma": "أَسْر",
+    "meaning": "strength of form",
+    "transliteration": "asr",
+    "lemmaId": 2871
+  },
+  {
+    "id": 172,
+    "lemma": "أَسْرَع",
+    "meaning": "more swift, swiftest",
+    "transliteration": "asraʿ",
+    "lemmaId": 2114
+  },
+  {
+    "id": 173,
+    "lemma": "أَسْرَفَ",
+    "meaning": "to act extravagantly, to commit excess",
+    "transliteration": "asraf",
+    "lemmaId": 1121
+  },
+  {
+    "id": 174,
+    "lemma": "أَسْرَى",
+    "meaning": "to travel, to take",
+    "transliteration": "asrā",
+    "lemmaId": 1122
+  },
+  {
+    "id": 175,
+    "lemma": "أَسْفار",
+    "meaning": "journey, book",
+    "transliteration": "asfār",
+    "lemmaId": 2115
+  },
+  {
+    "id": 176,
+    "lemma": "أَسْفَرَ",
+    "meaning": "to brighten",
+    "transliteration": "asfara",
+    "lemmaId": 2872
+  },
+  {
+    "id": 177,
+    "lemma": "أَسْفَل",
+    "meaning": "lowest, lower, below",
+    "transliteration": "asfal",
+    "lemmaId": 1123
+  },
+  {
+    "id": 178,
+    "lemma": "أَسْقَيْ",
+    "meaning": "to give drink",
+    "transliteration": "asqay",
+    "lemmaId": 940
+  },
+  {
+    "id": 179,
+    "lemma": "أَسْكَن",
+    "meaning": "to make dwell, to settle, to lodge",
+    "transliteration": "askan",
+    "lemmaId": 1259
+  },
+  {
+    "id": 180,
+    "lemma": "أَسْلَمَ",
+    "meaning": "to submit",
+    "transliteration": "aslama",
+    "lemmaId": 456
+  },
+  {
+    "id": 181,
+    "lemma": "أَسْلِحَت",
+    "meaning": "arm",
+    "transliteration": "asliḥat",
+    "lemmaId": 1445
+  },
+  {
+    "id": 182,
+    "lemma": "أَسْمَعَ",
+    "meaning": "to make hear",
+    "transliteration": "asmʿa",
+    "lemmaId": 665
+  },
+  {
+    "id": 183,
+    "lemma": "أَسْوَأ",
+    "meaning": "most evil",
+    "transliteration": "aswao",
+    "lemmaId": 2117
+  },
+  {
+    "id": 184,
+    "lemma": "أَسْوَد",
+    "meaning": "black",
+    "transliteration": "aswad",
+    "lemmaId": 2873
+  },
+  {
+    "id": 185,
+    "lemma": "أَشارَتْ",
+    "meaning": "to point",
+    "transliteration": "ashārat",
+    "lemmaId": 2874
+  },
+  {
+    "id": 186,
+    "lemma": "أَشَدّ",
+    "meaning": "stronger, more severe, more intense",
+    "transliteration": "ashadd",
+    "lemmaId": 353
+  },
+  {
+    "id": 187,
+    "lemma": "أَشَقّ",
+    "meaning": "hard",
+    "transliteration": "ashadd",
+    "lemmaId": 2875
+  },
+  {
+    "id": 188,
+    "lemma": "أَشُدّ",
+    "meaning": "maturity, full strength",
+    "transliteration": "ashudd",
+    "lemmaId": 941
+  },
+  {
+    "id": 189,
+    "lemma": "أَشِر",
+    "meaning": "conceited",
+    "transliteration": "ashir",
+    "lemmaId": 2118
+  },
+  {
+    "id": 190,
+    "lemma": "أَشْتات",
+    "meaning": "separate, scattered",
+    "transliteration": "ash'tāt",
+    "lemmaId": 2119
+  },
+  {
+    "id": 191,
+    "lemma": "أَشْراط",
+    "meaning": "indication",
+    "transliteration": "ash'rāṭ",
+    "lemmaId": 2876
+  },
+  {
+    "id": 192,
+    "lemma": "أَشْرَقَتِ",
+    "meaning": "to shine",
+    "transliteration": "ashraqati",
+    "lemmaId": 2877
+  },
+  {
+    "id": 193,
+    "lemma": "أَشْرَكَ",
+    "meaning": "to associate partners",
+    "transliteration": "ashraka",
+    "lemmaId": 166
+  },
+  {
+    "id": 194,
+    "lemma": "أَشْفَقْ",
+    "meaning": "to fear, to be afraid",
+    "transliteration": "ashfaq",
+    "lemmaId": 2120
+  },
+  {
+    "id": 195,
+    "lemma": "أَشْقَى",
+    "meaning": "wretched, wicked",
+    "transliteration": "ashqā",
+    "lemmaId": 1700
+  },
+  {
+    "id": 196,
+    "lemma": "أَشْكُوا۟",
+    "meaning": "to complain",
+    "transliteration": "ashkū",
+    "lemmaId": 2878
+  },
+  {
+    "id": 197,
+    "lemma": "أَشْهَدَ",
+    "meaning": "to make witness",
+    "transliteration": "ashhada",
+    "lemmaId": 1019
+  },
+  {
+    "id": 198,
+    "lemma": "أَصابَ",
+    "meaning": "to strike, to befall, to bestow",
+    "transliteration": "aṣāba",
+    "lemmaId": 185
+  },
+  {
+    "id": 199,
+    "lemma": "أَصابِع",
+    "meaning": "finger",
+    "transliteration": "aṣābiʿ",
+    "lemmaId": 2121
+  },
+  {
+    "id": 200,
+    "lemma": "أَصَرُّ",
+    "meaning": "to persist",
+    "transliteration": "aṣarru",
+    "lemmaId": 1446
+  },
+  {
+    "id": 201,
+    "lemma": "أَصَمّ",
+    "meaning": "deaf",
+    "transliteration": "aṣamm",
+    "lemmaId": 699
+  },
+  {
+    "id": 202,
+    "lemma": "أَصَمَّ",
+    "meaning": "to make deaf",
+    "transliteration": "aṣamma",
+    "lemmaId": 2879
+  },
+  {
+    "id": 203,
+    "lemma": "أَصِيل",
+    "meaning": "evening",
+    "transliteration": "aṣīl",
+    "lemmaId": 1020
+  },
+  {
+    "id": 204,
+    "lemma": "أَصْبَحَ",
+    "meaning": "to become",
+    "transliteration": "aṣbaḥa",
+    "lemmaId": 380
+  },
+  {
+    "id": 205,
+    "lemma": "أَصْبُ",
+    "meaning": "to incline",
+    "transliteration": "aṣbu",
+    "lemmaId": 2880
+  },
+  {
+    "id": 206,
+    "lemma": "أَصْحاب",
+    "meaning": "companions",
+    "transliteration": "aṣḥāba",
+    "lemmaId": 143
+  },
+  {
+    "id": 207,
+    "lemma": "أَصْدَق",
+    "meaning": "to be true, to be truthful",
+    "transliteration": "aṣdaq",
+    "lemmaId": 2122
+  },
+  {
+    "id": 208,
+    "lemma": "أَصْغَر",
+    "meaning": "smaller",
+    "transliteration": "aṣghar",
+    "lemmaId": 2123
+  },
+  {
+    "id": 209,
+    "lemma": "أَصْفاد",
+    "meaning": "chains",
+    "transliteration": "aṣfād",
+    "lemmaId": 2124
+  },
+  {
+    "id": 210,
+    "lemma": "أَصْفَى",
+    "meaning": "to choose",
+    "transliteration": "aṣfā",
+    "lemmaId": 2125
+  },
+  {
+    "id": 211,
+    "lemma": "أَصْل",
+    "meaning": "root, base",
+    "transliteration": "aṣl",
+    "lemmaId": 1701
+  },
+  {
+    "id": 212,
+    "lemma": "أَصْلَحَ",
+    "meaning": "to correct, to reform, to improve, to make peace",
+    "transliteration": "aṣl-ḥa",
+    "lemmaId": 381
+  },
+  {
+    "id": 213,
+    "lemma": "أَصْنام",
+    "meaning": "idol",
+    "transliteration": "aṣnām",
+    "lemmaId": 1260
+  },
+  {
+    "id": 214,
+    "lemma": "أَصْواف",
+    "meaning": "wool",
+    "transliteration": "aṣwāf",
+    "lemmaId": 2881
+  },
+  {
+    "id": 215,
+    "lemma": "أَضاعُ",
+    "meaning": "to let go waste, to neglect",
+    "transliteration": "aḍāʿ",
+    "lemmaId": 802
+  },
+  {
+    "id": 216,
+    "lemma": "أَضَلّ",
+    "meaning": "to be astray",
+    "transliteration": "aḍall",
+    "lemmaId": 867
+  },
+  {
+    "id": 217,
+    "lemma": "أَضَلَّ",
+    "meaning": "to let go astray, to mislead",
+    "transliteration": "aḍalla",
+    "lemmaId": 186
+  },
+  {
+    "id": 218,
+    "lemma": "أَضْحَكَ",
+    "meaning": "to make laugh",
+    "transliteration": "aḍḥaka",
+    "lemmaId": 2882
+  },
+  {
+    "id": 219,
+    "lemma": "أَضْعَف",
+    "meaning": "weaker",
+    "transliteration": "aḍʿaf",
+    "lemmaId": 2126
+  },
+  {
+    "id": 220,
+    "lemma": "أَضْغان",
+    "meaning": "hatred",
+    "transliteration": "aḍghān",
+    "lemmaId": 2127
+  },
+  {
+    "id": 221,
+    "lemma": "أَطاعَ",
+    "meaning": "to obey",
+    "transliteration": "aṭāʿ",
+    "lemmaId": 162
+  },
+  {
+    "id": 222,
+    "lemma": "أَطْعَمَ",
+    "meaning": "to feed",
+    "transliteration": "aṭʿama",
+    "lemmaId": 666
+  },
+  {
+    "id": 223,
+    "lemma": "أَطْغَى",
+    "meaning": "to be more excessive in transgression",
+    "transliteration": "aṭghā",
+    "lemmaId": 2883
+  },
+  {
+    "id": 224,
+    "lemma": "أَطْغَيْ",
+    "meaning": "to cause to exceed bounds",
+    "transliteration": "aṭghay",
+    "lemmaId": 2884
+  },
+  {
+    "id": 225,
+    "lemma": "أَطْفَأَ",
+    "meaning": "to extinguish, to put out",
+    "transliteration": "aṭfaa",
+    "lemmaId": 1703
+  },
+  {
+    "id": 226,
+    "lemma": "أَطْهَر",
+    "meaning": "purer",
+    "transliteration": "aṭhar",
+    "lemmaId": 1447
+  },
+  {
+    "id": 227,
+    "lemma": "أَطْوار",
+    "meaning": "stages",
+    "transliteration": "aṭwār",
+    "lemmaId": 2885
+  },
+  {
+    "id": 228,
+    "lemma": "أَظْفَرَ",
+    "meaning": "to give victory",
+    "transliteration": "aẓfara",
+    "lemmaId": 2886
+  },
+  {
+    "id": 229,
+    "lemma": "أَظْلَم",
+    "meaning": "to be unjust, to be wrong",
+    "transliteration": "aẓlam",
+    "lemmaId": 577
+  },
+  {
+    "id": 230,
+    "lemma": "أَظْلَمَ",
+    "meaning": "to darken",
+    "transliteration": "aẓlama",
+    "lemmaId": 2887
+  },
+  {
+    "id": 231,
+    "lemma": "أَظْهَرَ",
+    "meaning": "to make apparent, to reveal",
+    "transliteration": "aẓhara",
+    "lemmaId": 942
+  },
+  {
+    "id": 232,
+    "lemma": "أَعانَ",
+    "meaning": "to help",
+    "transliteration": "aʿāna",
+    "lemmaId": 2128
+  },
+  {
+    "id": 233,
+    "lemma": "أَعَدَّ",
+    "meaning": "to prepare",
+    "transliteration": "aʿadda",
+    "lemmaId": 492
+  },
+  {
+    "id": 234,
+    "lemma": "أَعَزّ",
+    "meaning": "mightier, more honorable",
+    "transliteration": "aʿazz",
+    "lemmaId": 1704
+  },
+  {
+    "id": 235,
+    "lemma": "أَعِيبَ",
+    "meaning": "to cause defect",
+    "transliteration": "aʿība",
+    "lemmaId": 2888
+  },
+  {
+    "id": 236,
+    "lemma": "أَعْتَدَتْ",
+    "meaning": "to prepare",
+    "transliteration": "aʿtadat",
+    "lemmaId": 635
+  },
+  {
+    "id": 237,
+    "lemma": "أَعْثَرْ",
+    "meaning": "to make known",
+    "transliteration": "aʿthar",
+    "lemmaId": 2889
+  },
+  {
+    "id": 238,
+    "lemma": "أَعْجاز",
+    "meaning": "trunk",
+    "transliteration": "aʿjāz",
+    "lemmaId": 2129
+  },
+  {
+    "id": 239,
+    "lemma": "أَعْجَبَ",
+    "meaning": "to please, to impress",
+    "transliteration": "aʿjaba",
+    "lemmaId": 749
+  },
+  {
+    "id": 240,
+    "lemma": "أَعْجَلَ",
+    "meaning": "to cause to hurry",
+    "transliteration": "aʿjala",
+    "lemmaId": 2890
+  },
+  {
+    "id": 241,
+    "lemma": "أَعْجَمِين",
+    "meaning": "non-Arabs",
+    "transliteration": "aʿjamīn",
+    "lemmaId": 2891
+  },
+  {
+    "id": 242,
+    "lemma": "أَعْجَمِيّ",
+    "meaning": "foreign",
+    "transliteration": "aʿjamiyy",
+    "lemmaId": 1705
+  },
+  {
+    "id": 243,
+    "lemma": "أَعْراب",
+    "meaning": "Bedouins",
+    "transliteration": "aʿrāb",
+    "lemmaId": 803
+  },
+  {
+    "id": 244,
+    "lemma": "أَعْراف",
+    "meaning": "heights",
+    "transliteration": "aʿrāf",
+    "lemmaId": 2130
+  },
+  {
+    "id": 245,
+    "lemma": "أَعْرَج",
+    "meaning": "lame",
+    "transliteration": "aʿraj",
+    "lemmaId": 2131
+  },
+  {
+    "id": 246,
+    "lemma": "أَعْرَضَ",
+    "meaning": "to turn away",
+    "transliteration": "aʿraḍa",
+    "lemmaId": 345
+  },
+  {
+    "id": 247,
+    "lemma": "أَعْطَى",
+    "meaning": "to give",
+    "transliteration": "aʿṭā",
+    "lemmaId": 943
+  },
+  {
+    "id": 248,
+    "lemma": "أَعْظَم",
+    "meaning": "greater",
+    "transliteration": "aʿẓama",
+    "lemmaId": 1706
+  },
+  {
+    "id": 249,
+    "lemma": "أَعْقَبَ",
+    "meaning": "to penalize",
+    "transliteration": "aʿqaba",
+    "lemmaId": 2892
+  },
+  {
+    "id": 250,
+    "lemma": "أَعْلام",
+    "meaning": "mountains",
+    "transliteration": "aʿlām",
+    "lemmaId": 2132
+  },
+  {
+    "id": 251,
+    "lemma": "أَعْلَم",
+    "meaning": "to know, to be knowledgeable",
+    "transliteration": "aʿlam",
+    "lemmaId": 236
+  },
+  {
+    "id": 252,
+    "lemma": "أَعْلَن",
+    "meaning": "to declare, to reveal, to proclaim",
+    "transliteration": "aʿlan",
+    "lemmaId": 700
+  },
+  {
+    "id": 253,
+    "lemma": "أَعْلَوْن",
+    "meaning": "superior",
+    "transliteration": "aʿlawna",
+    "lemmaId": 2133
+  },
+  {
+    "id": 254,
+    "lemma": "أَعْمَى",
+    "meaning": "blind",
+    "transliteration": "aʿmā",
+    "lemmaId": 474
+  },
+  {
+    "id": 255,
+    "lemma": "أَعْنَتَ",
+    "meaning": "to cause hardship",
+    "transliteration": "aʿnata",
+    "lemmaId": 2893
+  },
+  {
+    "id": 256,
+    "lemma": "أَغْطَشَ",
+    "meaning": "to darken",
+    "transliteration": "aghtaś",
+    "lemmaId": 2894
+  },
+  {
+    "id": 257,
+    "lemma": "أَغْفَلْ",
+    "meaning": "to make heedless",
+    "transliteration": "aghfal",
+    "lemmaId": 2895
+  },
+  {
+    "id": 258,
+    "lemma": "أَغْنَتْ",
+    "meaning": "to avail, to enrich",
+    "transliteration": "aghnat",
+    "lemmaId": 382
+  },
+  {
+    "id": 259,
+    "lemma": "أَغْنَى",
+    "meaning": "to avail, to prosper",
+    "transliteration": "agh'nā",
+    "lemmaId": 604
+  },
+  {
+    "id": 260,
+    "lemma": "أَغْوَيْ",
+    "meaning": "to mislead, to lead astray",
+    "transliteration": "aghway",
+    "lemmaId": 944
+  },
+  {
+    "id": 261,
+    "lemma": "أَفاءَ",
+    "meaning": "to give, to restore",
+    "transliteration": "afā",
+    "lemmaId": 1707
+  },
+  {
+    "id": 262,
+    "lemma": "أَفاضَ",
+    "meaning": "to depart",
+    "transliteration": "afāḍ",
+    "lemmaId": 1021
+  },
+  {
+    "id": 263,
+    "lemma": "أَفاقَ",
+    "meaning": "to recover",
+    "transliteration": "afāqa",
+    "lemmaId": 2896
+  },
+  {
+    "id": 264,
+    "lemma": "أَفَلَ",
+    "meaning": "to be absent",
+    "transliteration": "afala",
+    "lemmaId": 1708
+  },
+  {
+    "id": 265,
+    "lemma": "أَفّاك",
+    "meaning": "habitual liar",
+    "transliteration": "affāka",
+    "lemmaId": 2135
+  },
+  {
+    "id": 266,
+    "lemma": "أَفْرِغْ",
+    "meaning": "pour out",
+    "transliteration": "afrigh",
+    "lemmaId": 1709
+  },
+  {
+    "id": 267,
+    "lemma": "أَفْسَدُ",
+    "meaning": "to cause corruption",
+    "transliteration": "afsadu",
+    "lemmaId": 605
+  },
+  {
+    "id": 268,
+    "lemma": "أَفْصَح",
+    "meaning": "more eloquent",
+    "transliteration": "afṣaḥ",
+    "lemmaId": 2897
+  },
+  {
+    "id": 269,
+    "lemma": "أَفْضَى",
+    "meaning": "to go",
+    "transliteration": "afḍā",
+    "lemmaId": 2898
+  },
+  {
+    "id": 270,
+    "lemma": "أَفْلَحَ",
+    "meaning": "to succeed",
+    "transliteration": "aflaḥ",
+    "lemmaId": 393
+  },
+  {
+    "id": 271,
+    "lemma": "أَفْنان",
+    "meaning": "branch",
+    "transliteration": "afnān",
+    "lemmaId": 2899
+  },
+  {
+    "id": 272,
+    "lemma": "أَفْواه",
+    "meaning": "mouths",
+    "transliteration": "afwāh",
+    "lemmaId": 701
+  },
+  {
+    "id": 273,
+    "lemma": "أَقامَ",
+    "meaning": "to establish",
+    "transliteration": "aqāma",
+    "lemmaId": 216
+  },
+  {
+    "id": 274,
+    "lemma": "أَقاوِيل",
+    "meaning": "statements",
+    "transliteration": "aqāwīl",
+    "lemmaId": 2900
+  },
+  {
+    "id": 275,
+    "lemma": "أَقَلّ",
+    "meaning": "fewer, lesser",
+    "transliteration": "aqall",
+    "lemmaId": 2136
+  },
+  {
+    "id": 276,
+    "lemma": "أَقَلَّتْ",
+    "meaning": "to carry",
+    "transliteration": "aqallat",
+    "lemmaId": 2901
+  },
+  {
+    "id": 277,
+    "lemma": "أَقْبَرَ",
+    "meaning": "to provide a grave",
+    "transliteration": "aqbara",
+    "lemmaId": 2902
+  },
+  {
+    "id": 278,
+    "lemma": "أَقْبَلَ",
+    "meaning": "to approach",
+    "transliteration": "aqbala",
+    "lemmaId": 869
+  },
+  {
+    "id": 279,
+    "lemma": "أَقْدَم",
+    "meaning": "forefathers",
+    "transliteration": "aqdama",
+    "lemmaId": 2903
+  },
+  {
+    "id": 280,
+    "lemma": "أَقْرَب",
+    "meaning": "near, nearest, close, closest",
+    "transliteration": "aqra",
+    "lemmaId": 512
+  },
+  {
+    "id": 281,
+    "lemma": "أَقْرَرْ",
+    "meaning": "to ratify, to affirm",
+    "transliteration": "aqrar",
+    "lemmaId": 1448
+  },
+  {
+    "id": 282,
+    "lemma": "أَقْرَضُ",
+    "meaning": "to lend, to loan",
+    "transliteration": "aqraḍu",
+    "lemmaId": 1124
+  },
+  {
+    "id": 283,
+    "lemma": "أَقْسَط",
+    "meaning": "more just",
+    "transliteration": "aqsaṭ",
+    "lemmaId": 2137
+  },
+  {
+    "id": 284,
+    "lemma": "أَقْسَمُ",
+    "meaning": "to swear",
+    "transliteration": "aqsamu",
+    "lemmaId": 493
+  },
+  {
+    "id": 285,
+    "lemma": "أَقْصا",
+    "meaning": "farthest end, al-Aqṣā",
+    "transliteration": "aqṣā",
+    "lemmaId": 1710
+  },
+  {
+    "id": 286,
+    "lemma": "أَقْطار",
+    "meaning": "side, region",
+    "transliteration": "aqṭār",
+    "lemmaId": 2138
+  },
+  {
+    "id": 287,
+    "lemma": "أَقْفال",
+    "meaning": "lock",
+    "transliteration": "aqfāl",
+    "lemmaId": 2904
+  },
+  {
+    "id": 288,
+    "lemma": "أَقْلِعِ",
+    "meaning": "cease",
+    "transliteration": "aqliʿi",
+    "lemmaId": 2905
+  },
+  {
+    "id": 289,
+    "lemma": "أَقْنَى",
+    "meaning": "to grant possessions",
+    "transliteration": "aqnā",
+    "lemmaId": 2906
+  },
+  {
+    "id": 290,
+    "lemma": "أَقْوات",
+    "meaning": "sustenance",
+    "transliteration": "aqwāt",
+    "lemmaId": 2907
+  },
+  {
+    "id": 291,
+    "lemma": "أَقْوَم",
+    "meaning": "more upright, most upright",
+    "transliteration": "aqwam",
+    "lemmaId": 1449
+  },
+  {
+    "id": 292,
+    "lemma": "أَكَلَ",
+    "meaning": "to eat, to consume",
+    "transliteration": "akala",
+    "lemmaId": 118
+  },
+  {
+    "id": 293,
+    "lemma": "أَكِنَّة",
+    "meaning": "coverings",
+    "transliteration": "akinna",
+    "lemmaId": 1450
+  },
+  {
+    "id": 294,
+    "lemma": "أَكّال",
+    "meaning": "devourers",
+    "transliteration": "akāl",
+    "lemmaId": 2908
+  },
+  {
+    "id": 295,
+    "lemma": "أَكْبَر",
+    "meaning": "greater, greatest",
+    "transliteration": "akbar",
+    "lemmaId": 429
+  },
+  {
+    "id": 296,
+    "lemma": "أَكْبَرْ",
+    "meaning": "to greatly admire",
+    "transliteration": "akbar",
+    "lemmaId": 2909
+  },
+  {
+    "id": 297,
+    "lemma": "أَكْثَر",
+    "meaning": "most, more",
+    "transliteration": "akthar",
+    "lemmaId": 140
+  },
+  {
+    "id": 298,
+    "lemma": "أَكْدَى",
+    "meaning": "to cut short",
+    "transliteration": "akdā",
+    "lemmaId": 2910
+  },
+  {
+    "id": 299,
+    "lemma": "أَكْرَم",
+    "meaning": "most noble, most generous",
+    "transliteration": "akram",
+    "lemmaId": 2140
+  },
+  {
+    "id": 300,
+    "lemma": "أَكْرَمَ",
+    "meaning": "to bestow honor, to be generous",
+    "transliteration": "akrama",
+    "lemmaId": 1451
+  },
+  {
+    "id": 301,
+    "lemma": "أَكْفَرَ",
+    "meaning": "to be ungrateful, to deny",
+    "transliteration": "akfara",
+    "lemmaId": 2911
+  },
+  {
+    "id": 302,
+    "lemma": "أَكْفِلْ",
+    "meaning": "to entrust",
+    "transliteration": "akfil",
+    "lemmaId": 2912
+  },
+  {
+    "id": 303,
+    "lemma": "أَكْل",
+    "meaning": "consuming",
+    "transliteration": "akl",
+    "lemmaId": 1452
+  },
+  {
+    "id": 304,
+    "lemma": "أَكْمام",
+    "meaning": "coverings",
+    "transliteration": "akmām",
+    "lemmaId": 2141
+  },
+  {
+    "id": 305,
+    "lemma": "أَكْمَلْ",
+    "meaning": "to perfect, to complete",
+    "transliteration": "akmal",
+    "lemmaId": 2142
+  },
+  {
+    "id": 306,
+    "lemma": "أَكْمَه",
+    "meaning": "blind-born",
+    "transliteration": "akmah",
+    "lemmaId": 2143
+  },
+  {
+    "id": 307,
+    "lemma": "أَكْنان",
+    "meaning": "shelters",
+    "transliteration": "aknān",
+    "lemmaId": 2913
+  },
+  {
+    "id": 308,
+    "lemma": "أَكْنَن",
+    "meaning": "to conceal",
+    "transliteration": "aknan",
+    "lemmaId": 1711
+  },
+  {
+    "id": 309,
+    "lemma": "أَكْواب",
+    "meaning": "cups",
+    "transliteration": "akwāb",
+    "lemmaId": 1453
+  },
+  {
+    "id": 310,
+    "lemma": "أَلا",
+    "meaning": "unquestionably, no doubt, will not",
+    "transliteration": "alā",
+    "lemmaId": 294
+  },
+  {
+    "id": 311,
+    "lemma": "أَلَ",
+    "meaning": "to make pliable",
+    "transliteration": "ala",
+    "lemmaId": 2914
+  },
+  {
+    "id": 312,
+    "lemma": "أَلَتْ",
+    "meaning": "to diminish",
+    "transliteration": "alat",
+    "lemmaId": 2915
+  },
+  {
+    "id": 313,
+    "lemma": "أَلَدّ",
+    "meaning": "most argumentative",
+    "transliteration": "aladd",
+    "lemmaId": 2916
+  },
+  {
+    "id": 314,
+    "lemma": "أَلِيم",
+    "meaning": "painful",
+    "transliteration": "alīm",
+    "lemmaId": 163
+  },
+  {
+    "id": 315,
+    "lemma": "أَلَّفَ",
+    "meaning": "to unite",
+    "transliteration": "allafa",
+    "lemmaId": 1261
+  },
+  {
+    "id": 316,
+    "lemma": "أَلْباب",
+    "meaning": "understanding",
+    "transliteration": "albāb",
+    "lemmaId": 578
+  },
+  {
+    "id": 317,
+    "lemma": "أَلْحَقْ",
+    "meaning": "to cause to join",
+    "transliteration": "alḥaq",
+    "lemmaId": 1454
+  },
+  {
+    "id": 318,
+    "lemma": "أَلْف",
+    "meaning": "thousand",
+    "transliteration": "alf",
+    "lemmaId": 636
+  },
+  {
+    "id": 319,
+    "lemma": "أَلْفاف",
+    "meaning": "entwined vegetation",
+    "transliteration": "alfāf",
+    "lemmaId": 2917
+  },
+  {
+    "id": 320,
+    "lemma": "أَلْفَ",
+    "meaning": "to find",
+    "transliteration": "alf",
+    "lemmaId": 1713
+  },
+  {
+    "id": 321,
+    "lemma": "أَلْقاب",
+    "meaning": "nicknames",
+    "transliteration": "alqāb",
+    "lemmaId": 2918
+  },
+  {
+    "id": 322,
+    "lemma": "أَلْقَى",
+    "meaning": "to cast, to throw, to meet, to offer",
+    "transliteration": "alqā",
+    "lemmaId": 167
+  },
+  {
+    "id": 323,
+    "lemma": "أَلْهَمَ",
+    "meaning": "to inspire",
+    "transliteration": "alhama",
+    "lemmaId": 2919
+  },
+  {
+    "id": 324,
+    "lemma": "أَماتَ",
+    "meaning": "to cause death",
+    "transliteration": "amāta",
+    "lemmaId": 475
+  },
+  {
+    "id": 325,
+    "lemma": "أَمام",
+    "meaning": "ahead of",
+    "transliteration": "amām",
+    "lemmaId": 2920
+  },
+  {
+    "id": 326,
+    "lemma": "أَمانَة",
+    "meaning": "Trust",
+    "transliteration": "amānata",
+    "lemmaId": 1456
+  },
+  {
+    "id": 327,
+    "lemma": "أَمانَت",
+    "meaning": "trust",
+    "transliteration": "amānat",
+    "lemmaId": 2144
+  },
+  {
+    "id": 328,
+    "lemma": "أَمَد",
+    "meaning": "appointed term",
+    "transliteration": "amad",
+    "lemmaId": 1457
+  },
+  {
+    "id": 329,
+    "lemma": "أَمَدَّ",
+    "meaning": "to reinforce, to extend, to supply",
+    "transliteration": "amadd",
+    "lemmaId": 804
+  },
+  {
+    "id": 330,
+    "lemma": "أَمَرَ",
+    "meaning": "to command",
+    "transliteration": "amar",
+    "lemmaId": 146
+  },
+  {
+    "id": 331,
+    "lemma": "أَمَرّ",
+    "meaning": "more bitter",
+    "transliteration": "amarra",
+    "lemmaId": 2921
+  },
+  {
+    "id": 332,
+    "lemma": "أَمَل",
+    "meaning": "hope",
+    "transliteration": "amal",
+    "lemmaId": 2146
+  },
+  {
+    "id": 333,
+    "lemma": "أَمَنَة",
+    "meaning": "security",
+    "transliteration": "amanata",
+    "lemmaId": 2147
+  },
+  {
+    "id": 334,
+    "lemma": "أَمِنَ",
+    "meaning": "to feel secure",
+    "transliteration": "amina",
+    "lemmaId": 494
+  },
+  {
+    "id": 335,
+    "lemma": "أَمِين",
+    "meaning": "trustworthy, secure",
+    "transliteration": "amīn",
+    "lemmaId": 637
+  },
+  {
+    "id": 336,
+    "lemma": "أَمّارَة",
+    "meaning": "persistently commanding",
+    "transliteration": "ammāra",
+    "lemmaId": 2922
+  },
+  {
+    "id": 337,
+    "lemma": "أَمْت",
+    "meaning": "unevenness",
+    "transliteration": "amtu",
+    "lemmaId": 2923
+  },
+  {
+    "id": 338,
+    "lemma": "أَمْثَل",
+    "meaning": "most exemplary",
+    "transliteration": "amthal",
+    "lemmaId": 2924
+  },
+  {
+    "id": 339,
+    "lemma": "أَمْر",
+    "meaning": "command, matter",
+    "transliteration": "amr",
+    "lemmaId": 72
+  },
+  {
+    "id": 340,
+    "lemma": "أَمْس",
+    "meaning": "yesterday",
+    "transliteration": "ams",
+    "lemmaId": 1458
+  },
+  {
+    "id": 341,
+    "lemma": "أَمْسَكَ",
+    "meaning": "to retain, to withhold, to hold",
+    "transliteration": "amsaka",
+    "lemmaId": 527
+  },
+  {
+    "id": 342,
+    "lemma": "أَمْشاج",
+    "meaning": "mixture",
+    "transliteration": "amshāj",
+    "lemmaId": 2925
+  },
+  {
+    "id": 343,
+    "lemma": "أَمْعاء",
+    "meaning": "intestines",
+    "transliteration": "amʿā",
+    "lemmaId": 2926
+  },
+  {
+    "id": 344,
+    "lemma": "أَمْكَنَ",
+    "meaning": "to give power",
+    "transliteration": "amkana",
+    "lemmaId": 2927
+  },
+  {
+    "id": 345,
+    "lemma": "أَمْلَى",
+    "meaning": "to give respite, to be granted time for dictation",
+    "transliteration": "am'lā",
+    "lemmaId": 870
+  },
+  {
+    "id": 346,
+    "lemma": "أَمْن",
+    "meaning": "security",
+    "transliteration": "amn",
+    "lemmaId": 1262
+  },
+  {
+    "id": 347,
+    "lemma": "أَمْهِلْ",
+    "meaning": "to allow a delay",
+    "transliteration": "amhil",
+    "lemmaId": 2928
+  },
+  {
+    "id": 348,
+    "lemma": "أَنابَ",
+    "meaning": "to turn in repentance",
+    "transliteration": "anāba",
+    "lemmaId": 750
+  },
+  {
+    "id": 349,
+    "lemma": "أَنام",
+    "meaning": "every one subject to sleep",
+    "transliteration": "anāma",
+    "lemmaId": 2929
+  },
+  {
+    "id": 350,
+    "lemma": "أَنامِل",
+    "meaning": "fingertips",
+    "transliteration": "anāmil",
+    "lemmaId": 2930
+  },
+  {
+    "id": 351,
+    "lemma": "أَنجَى",
+    "meaning": "to save",
+    "transliteration": "anjā",
+    "lemmaId": 442
+  },
+  {
+    "id": 352,
+    "lemma": "أَنداد",
+    "meaning": "rivals, equals",
+    "transliteration": "andād",
+    "lemmaId": 1125
+  },
+  {
+    "id": 353,
+    "lemma": "أَنذَرَ",
+    "meaning": "to warn",
+    "transliteration": "andhara",
+    "lemmaId": 258
+  },
+  {
+    "id": 354,
+    "lemma": "أَنزَلَ",
+    "meaning": "to send down, to reveal",
+    "transliteration": "anzala",
+    "lemmaId": 67
+  },
+  {
+    "id": 355,
+    "lemma": "أَنسَى",
+    "meaning": "to cause to forget",
+    "transliteration": "ansā",
+    "lemmaId": 1022
+  },
+  {
+    "id": 356,
+    "lemma": "أَنشَأَ",
+    "meaning": "to produce, to bring into existence",
+    "transliteration": "anshaa",
+    "lemmaId": 495
+  },
+  {
+    "id": 357,
+    "lemma": "أَنشَرَ",
+    "meaning": "to resurrect, to bring to life, to revive",
+    "transliteration": "anshara",
+    "lemmaId": 1714
+  },
+  {
+    "id": 358,
+    "lemma": "أَنصِتُ",
+    "meaning": "be silent and listen",
+    "transliteration": "anṣitu",
+    "lemmaId": 2148
+  },
+  {
+    "id": 359,
+    "lemma": "أَنطَقَ",
+    "meaning": "to make speak",
+    "transliteration": "anṭaqa",
+    "lemmaId": 2149
+  },
+  {
+    "id": 360,
+    "lemma": "أَنف",
+    "meaning": "nose",
+    "transliteration": "anf",
+    "lemmaId": 2150
+  },
+  {
+    "id": 361,
+    "lemma": "أَنفال",
+    "meaning": "spoils of war",
+    "transliteration": "anfāl",
+    "lemmaId": 2151
+  },
+  {
+    "id": 362,
+    "lemma": "أَنفَقَ",
+    "meaning": "to spend",
+    "transliteration": "anfaqa",
+    "lemmaId": 177
+  },
+  {
+    "id": 363,
+    "lemma": "أَنقَذَ",
+    "meaning": "to save",
+    "transliteration": "anqaḏa",
+    "lemmaId": 1459
+  },
+  {
+    "id": 364,
+    "lemma": "أَنقَضَ",
+    "meaning": "to weigh down heavily",
+    "transliteration": "anqaḍa",
+    "lemmaId": 2931
+  },
+  {
+    "id": 365,
+    "lemma": "أَنكاث",
+    "meaning": "unraveled strands",
+    "transliteration": "ankāth",
+    "lemmaId": 2932
+  },
+  {
+    "id": 366,
+    "lemma": "أَنكال",
+    "meaning": "shackles",
+    "transliteration": "ankāl",
+    "lemmaId": 2933
+  },
+  {
+    "id": 367,
+    "lemma": "أَنكَر",
+    "meaning": "most abominable",
+    "transliteration": "ankara",
+    "lemmaId": 2934
+  },
+  {
+    "id": 368,
+    "lemma": "أَنّ",
+    "meaning": "that",
+    "transliteration": "ann",
+    "lemmaId": 34
+  },
+  {
+    "id": 369,
+    "lemma": "أَنَّى",
+    "meaning": "how, from where",
+    "transliteration": "annā",
+    "lemmaId": 383
+  },
+  {
+    "id": 370,
+    "lemma": "أَنْعَمَ",
+    "meaning": "to bestow favors",
+    "transliteration": "anʿama",
+    "lemmaId": 551
+  },
+  {
+    "id": 371,
+    "lemma": "أَنۢبَأَ",
+    "meaning": "to inform",
+    "transliteration": "anbaa",
+    "lemmaId": 1460
+  },
+  {
+    "id": 372,
+    "lemma": "أَنۢبَتَ",
+    "meaning": "to make grow",
+    "transliteration": "anbata",
+    "lemmaId": 579
+  },
+  {
+    "id": 373,
+    "lemma": "أَهانَ",
+    "meaning": "to humiliate",
+    "transliteration": "ahāna",
+    "lemmaId": 2152
+  },
+  {
+    "id": 374,
+    "lemma": "أَهَمَّتْ",
+    "meaning": "to cause worry",
+    "transliteration": "ahammat",
+    "lemmaId": 2935
+  },
+  {
+    "id": 375,
+    "lemma": "أَهُشُّ",
+    "meaning": "to beat down leaves",
+    "transliteration": "ahushu",
+    "lemmaId": 2936
+  },
+  {
+    "id": 376,
+    "lemma": "أَهِلَّة",
+    "meaning": "new moons",
+    "transliteration": "ahillata",
+    "lemmaId": 2937
+  },
+  {
+    "id": 377,
+    "lemma": "أَهْدَى",
+    "meaning": "better guided, better guidance",
+    "transliteration": "ahdā",
+    "lemmaId": 1023
+  },
+  {
+    "id": 378,
+    "lemma": "أَهْل",
+    "meaning": "people, family",
+    "transliteration": "ahla",
+    "lemmaId": 98
+  },
+  {
+    "id": 379,
+    "lemma": "أَهْلَكَ",
+    "meaning": "to destroy, to cause to perish",
+    "transliteration": "ah'laka",
+    "lemmaId": 227
+  },
+  {
+    "id": 380,
+    "lemma": "أَهْواء",
+    "meaning": "desires",
+    "transliteration": "ahwā",
+    "lemmaId": 552
+  },
+  {
+    "id": 381,
+    "lemma": "أَهْوَن",
+    "meaning": "easier",
+    "transliteration": "ahwana",
+    "lemmaId": 2938
+  },
+  {
+    "id": 382,
+    "lemma": "أَوّاب",
+    "meaning": "devout returner",
+    "transliteration": "awwāb",
+    "lemmaId": 1126
+  },
+  {
+    "id": 383,
+    "lemma": "أَوّاه",
+    "meaning": "devoutly compassionate",
+    "transliteration": "awwāh",
+    "lemmaId": 2153
+  },
+  {
+    "id": 384,
+    "lemma": "أَوَّل",
+    "meaning": "first, former",
+    "transliteration": "awwal",
+    "lemmaId": 139
+  },
+  {
+    "id": 385,
+    "lemma": "أَوِّبِ",
+    "meaning": "repeat",
+    "transliteration": "awwibi",
+    "lemmaId": 2939
+  },
+  {
+    "id": 386,
+    "lemma": "أَوْبار",
+    "meaning": "camel hair",
+    "transliteration": "awbār",
+    "lemmaId": 2940
+  },
+  {
+    "id": 387,
+    "lemma": "أَوْتاد",
+    "meaning": "stakes, pegs",
+    "transliteration": "awtād",
+    "lemmaId": 1715
+  },
+  {
+    "id": 388,
+    "lemma": "أَوْثان",
+    "meaning": "idol",
+    "transliteration": "awthān",
+    "lemmaId": 1716
+  },
+  {
+    "id": 389,
+    "lemma": "أَوْجَسَ",
+    "meaning": "to feel, to sense",
+    "transliteration": "awjasa",
+    "lemmaId": 1717
+  },
+  {
+    "id": 390,
+    "lemma": "أَوْجَفْ",
+    "meaning": "to swiftly advance",
+    "transliteration": "awjaf",
+    "lemmaId": 2941
+  },
+  {
+    "id": 391,
+    "lemma": "أَوْحَى",
+    "meaning": "to reveal, to inspire",
+    "transliteration": "awḥā",
+    "lemmaId": 164
+  },
+  {
+    "id": 392,
+    "lemma": "أَوْدِيَة",
+    "meaning": "valley",
+    "transliteration": "awdīya",
+    "lemmaId": 2154
+  },
+  {
+    "id": 393,
+    "lemma": "أَوْرَثَ",
+    "meaning": "to make inherit",
+    "transliteration": "awratha",
+    "lemmaId": 702
+  },
+  {
+    "id": 394,
+    "lemma": "أَوْرَدَ",
+    "meaning": "to lead",
+    "transliteration": "awrada",
+    "lemmaId": 2942
+  },
+  {
+    "id": 395,
+    "lemma": "أَوْزِعْ",
+    "meaning": "enable",
+    "transliteration": "awziʿ",
+    "lemmaId": 2155
+  },
+  {
+    "id": 396,
+    "lemma": "أَوْسَط",
+    "meaning": "average, moderate",
+    "transliteration": "awṣaṭ",
+    "lemmaId": 2156
+  },
+  {
+    "id": 397,
+    "lemma": "أَوْصا",
+    "meaning": "to make, to instruct, to enjoin",
+    "transliteration": "awṣā",
+    "lemmaId": 1264
+  },
+  {
+    "id": 398,
+    "lemma": "أَوْضَعُ",
+    "meaning": "to be active",
+    "transliteration": "awḍaʿu",
+    "lemmaId": 2943
+  },
+  {
+    "id": 399,
+    "lemma": "أَوْعَى",
+    "meaning": "to hoard, to keep within oneself",
+    "transliteration": "awʿā",
+    "lemmaId": 2157
+  },
+  {
+    "id": 400,
+    "lemma": "أَوْفَى",
+    "meaning": "to fulfill completely",
+    "transliteration": "awfā",
+    "lemmaId": 496
+  },
+  {
+    "id": 401,
+    "lemma": "أَوْلَى",
+    "meaning": "closer",
+    "transliteration": "awlā",
+    "lemmaId": 751
+  },
+  {
+    "id": 402,
+    "lemma": "أَوْلَيان",
+    "meaning": "two more entitled",
+    "transliteration": "awlayān",
+    "lemmaId": 2944
+  },
+  {
+    "id": 403,
+    "lemma": "أَوْهَن",
+    "meaning": "weakest",
+    "transliteration": "awhan",
+    "lemmaId": 2945
+  },
+  {
+    "id": 404,
+    "lemma": "أَيامَى",
+    "meaning": "those without spouses",
+    "transliteration": "ayāmā",
+    "lemmaId": 2946
+  },
+  {
+    "id": 405,
+    "lemma": "أَيّ",
+    "meaning": "which, what",
+    "transliteration": "ayy",
+    "lemmaId": 61
+  },
+  {
+    "id": 406,
+    "lemma": "أَيَّدَ",
+    "meaning": "to strengthen",
+    "transliteration": "ayyada",
+    "lemmaId": 871
+  },
+  {
+    "id": 407,
+    "lemma": "أَيُّوب",
+    "meaning": "Ayyūb",
+    "transliteration": "ayyūb",
+    "lemmaId": 1461
+  },
+  {
+    "id": 408,
+    "lemma": "أَيْقاظ",
+    "meaning": "vigilant ones",
+    "transliteration": "ayqāẓ",
+    "lemmaId": 2947
+  },
+  {
+    "id": 409,
+    "lemma": "أَيْكَة",
+    "meaning": "thicket",
+    "transliteration": "aykata",
+    "lemmaId": 1462
+  },
+  {
+    "id": 410,
+    "lemma": "أَيْمَن",
+    "meaning": "right side",
+    "transliteration": "ayman",
+    "lemmaId": 1718
+  },
+  {
+    "id": 411,
+    "lemma": "أَيْن",
+    "meaning": "where",
+    "transliteration": "ayn",
+    "lemmaId": 513
+  },
+  {
+    "id": 412,
+    "lemma": "أَيْيد",
+    "meaning": "strength",
+    "transliteration": "ayyīd",
+    "lemmaId": 2158
+  },
+  {
+    "id": 413,
+    "lemma": "أُبْسِلُ",
+    "meaning": "to be surrendered",
+    "transliteration": "ub'silu",
+    "lemmaId": 2159
+  },
+  {
+    "id": 414,
+    "lemma": "أُتْرِفُ",
+    "meaning": "to be given luxuries",
+    "transliteration": "ut'rifu",
+    "lemmaId": 1719
+  },
+  {
+    "id": 415,
+    "lemma": "أُجاج",
+    "meaning": "intensely bitter",
+    "transliteration": "ujāj",
+    "lemmaId": 1720
+  },
+  {
+    "id": 416,
+    "lemma": "أُجِيبَت",
+    "meaning": "to be answered",
+    "transliteration": "ujībat",
+    "lemmaId": 945
+  },
+  {
+    "id": 417,
+    "lemma": "أُحْصِرُ",
+    "meaning": "to be held back, to be confined",
+    "transliteration": "uḥṣiru",
+    "lemmaId": 2160
+  },
+  {
+    "id": 418,
+    "lemma": "أُحْكِمَتْ",
+    "meaning": "to perfect, to establish",
+    "transliteration": "uḥkimat",
+    "lemmaId": 2161
+  },
+  {
+    "id": 419,
+    "lemma": "أُخْت",
+    "meaning": "sister",
+    "transliteration": "ukht",
+    "lemmaId": 638
+  },
+  {
+    "id": 420,
+    "lemma": "أُخْدُود",
+    "meaning": "trench",
+    "transliteration": "ukh'ūd",
+    "lemmaId": 2948
+  },
+  {
+    "id": 421,
+    "lemma": "أُخْفِيَ",
+    "meaning": "to be concealed",
+    "transliteration": "ukhfiya",
+    "lemmaId": 528
+  },
+  {
+    "id": 422,
+    "lemma": "أُدْخِلَ",
+    "meaning": "to be admitted",
+    "transliteration": "udkhila",
+    "lemmaId": 269
+  },
+  {
+    "id": 423,
+    "lemma": "أُذُن",
+    "meaning": "ear",
+    "transliteration": "udhun",
+    "lemmaId": 529
+  },
+  {
+    "id": 424,
+    "lemma": "أُزْلِفَتْ",
+    "meaning": "to bring near",
+    "transliteration": "uzlifat",
+    "lemmaId": 1463
+  },
+  {
+    "id": 425,
+    "lemma": "أُسْوَة",
+    "meaning": "model",
+    "transliteration": "us'wata",
+    "lemmaId": 1721
+  },
+  {
+    "id": 426,
+    "lemma": "أُشْرِبُ",
+    "meaning": "to make drink",
+    "transliteration": "ushribu",
+    "lemmaId": 2949
+  },
+  {
+    "id": 427,
+    "lemma": "أُصْلِي",
+    "meaning": "to burn",
+    "transliteration": "uṣlī",
+    "lemmaId": 1464
+  },
+  {
+    "id": 428,
+    "lemma": "أُعِيدُ",
+    "meaning": "to return",
+    "transliteration": "uʿīdu",
+    "lemmaId": 530
+  },
+  {
+    "id": 429,
+    "lemma": "أُعِيذُ",
+    "meaning": "to seek refuge for",
+    "transliteration": "uʿīẓu",
+    "lemmaId": 2950
+  },
+  {
+    "id": 430,
+    "lemma": "أُغْرِقُ",
+    "meaning": "to drown",
+    "transliteration": "ugh'riqu",
+    "lemmaId": 553
+  },
+  {
+    "id": 431,
+    "lemma": "أُغْشِيَتْ",
+    "meaning": "to cover",
+    "transliteration": "ugh'iyat",
+    "lemmaId": 1465
+  },
+  {
+    "id": 432,
+    "lemma": "أُفَوِّضُ",
+    "meaning": "to entrust",
+    "transliteration": "ufawwiḍu",
+    "lemmaId": 2951
+  },
+  {
+    "id": 433,
+    "lemma": "أُفُق",
+    "meaning": "horizon",
+    "transliteration": "ufuq",
+    "lemmaId": 1722
+  },
+  {
+    "id": 434,
+    "lemma": "أُفِكَ",
+    "meaning": "to be turned away, to be misled",
+    "transliteration": "ufika",
+    "lemmaId": 580
+  },
+  {
+    "id": 435,
+    "lemma": "أُفّ",
+    "meaning": "uff'",
+    "transliteration": "uff",
+    "lemmaId": 1723
+  },
+  {
+    "id": 436,
+    "lemma": "أُقِّتَتْ",
+    "meaning": "to be gathered at an appointed time",
+    "transliteration": "uqqitat",
+    "lemmaId": 2952
+  },
+  {
+    "id": 437,
+    "lemma": "أُكُل",
+    "meaning": "produce",
+    "transliteration": "ukul",
+    "lemmaId": 1024
+  },
+  {
+    "id": 438,
+    "lemma": "أُكْرِهَ",
+    "meaning": "to compel",
+    "transliteration": "uk'riha",
+    "lemmaId": 1266
+  },
+  {
+    "id": 439,
+    "lemma": "أُمّ",
+    "meaning": "mother, foundation, abode",
+    "transliteration": "umm",
+    "lemmaId": 323
+  },
+  {
+    "id": 440,
+    "lemma": "أُمَّة",
+    "meaning": "nation, community, religion, period of time",
+    "transliteration": "ummah",
+    "lemmaId": 187
+  },
+  {
+    "id": 441,
+    "lemma": "أُمِّيّ",
+    "meaning": "unlettered",
+    "transliteration": "ummiyy",
+    "lemmaId": 1128
+  },
+  {
+    "id": 442,
+    "lemma": "أُمْطِرَتْ",
+    "meaning": "to be rained upon, to rain upon",
+    "transliteration": "umṭirat",
+    "lemmaId": 1025
+  },
+  {
+    "id": 443,
+    "lemma": "أُمْنِيَّت",
+    "meaning": "wishful thinking, desire, recitation",
+    "transliteration": "umniyyata",
+    "lemmaId": 1129
+  },
+  {
+    "id": 444,
+    "lemma": "أُنثَى",
+    "meaning": "female",
+    "transliteration": "unthā",
+    "lemmaId": 430
+  },
+  {
+    "id": 445,
+    "lemma": "أُنثَيَيْن",
+    "meaning": "two females",
+    "transliteration": "unthayayn",
+    "lemmaId": 1130
+  },
+  {
+    "id": 446,
+    "lemma": "أُهِلَّ",
+    "meaning": "to be invoked",
+    "transliteration": "uhilla",
+    "lemmaId": 1466
+  },
+  {
+    "id": 447,
+    "lemma": "أُوذِيَ",
+    "meaning": "to harm, to annoy",
+    "transliteration": "ūdhīya",
+    "lemmaId": 606
+  },
+  {
+    "id": 448,
+    "lemma": "إِبِل",
+    "meaning": "camels",
+    "transliteration": "ibil",
+    "lemmaId": 2162
+  },
+  {
+    "id": 449,
+    "lemma": "إِبْراهِيم",
+    "meaning": "Ibrāhīm",
+    "transliteration": "ib'rāhīm",
+    "lemmaId": 176
+  },
+  {
+    "id": 450,
+    "lemma": "إِبْكار",
+    "meaning": "starting at dawn",
+    "transliteration": "ibkār",
+    "lemmaId": 2163
+  },
+  {
+    "id": 451,
+    "lemma": "إِبْلِيس",
+    "meaning": "Iblīs",
+    "transliteration": "iblīs",
+    "lemmaId": 752
+  },
+  {
+    "id": 452,
+    "lemma": "إِثْم",
+    "meaning": "sin",
+    "transliteration": "ithm",
+    "lemmaId": 324
+  },
+  {
+    "id": 453,
+    "lemma": "إِجْرام",
+    "meaning": "criminality",
+    "transliteration": "ijrām",
+    "lemmaId": 2953
+  },
+  {
+    "id": 454,
+    "lemma": "إِحْدَى",
+    "meaning": "one, anyone",
+    "transliteration": "iḥdā",
+    "lemmaId": 753
+  },
+  {
+    "id": 455,
+    "lemma": "إِحْسان",
+    "meaning": "good, kindness",
+    "transliteration": "iḥsān",
+    "lemmaId": 703
+  },
+  {
+    "id": 456,
+    "lemma": "إِخْراج",
+    "meaning": "extraction, expulsion, removal, eviction",
+    "transliteration": "ikh'rāj",
+    "lemmaId": 1131
+  },
+  {
+    "id": 457,
+    "lemma": "إِخْوَة",
+    "meaning": "brothers, brothers and sisters",
+    "transliteration": "iḵwata",
+    "lemmaId": 1026
+  },
+  {
+    "id": 458,
+    "lemma": "إِدّ",
+    "meaning": "atrocious",
+    "transliteration": "idd",
+    "lemmaId": 2954
+  },
+  {
+    "id": 459,
+    "lemma": "إِدْبار",
+    "meaning": "retreat, decline",
+    "transliteration": "idbār",
+    "lemmaId": 2955
+  },
+  {
+    "id": 460,
+    "lemma": "إِدْرِيس",
+    "meaning": "Idrīs",
+    "transliteration": "idrīs",
+    "lemmaId": 2164
+  },
+  {
+    "id": 461,
+    "lemma": "إِذ",
+    "meaning": "when, that day",
+    "transliteration": "idh",
+    "lemmaId": 43
+  },
+  {
+    "id": 462,
+    "lemma": "إِذْن",
+    "meaning": "permission",
+    "transliteration": "idhun",
+    "lemmaId": 295
+  },
+  {
+    "id": 463,
+    "lemma": "إِرَم",
+    "meaning": "Iram",
+    "transliteration": "irama",
+    "lemmaId": 2956
+  },
+  {
+    "id": 464,
+    "lemma": "إِرْبَة",
+    "meaning": "desire",
+    "transliteration": "ir'bah",
+    "lemmaId": 2957
+  },
+  {
+    "id": 465,
+    "lemma": "إِرْصاد",
+    "meaning": "place of surveillance",
+    "transliteration": "irṣād",
+    "lemmaId": 2958
+  },
+  {
+    "id": 466,
+    "lemma": "إِسْتَبْرَق",
+    "meaning": "brocade, heavy silk",
+    "transliteration": "is'tabraq",
+    "lemmaId": 1467
+  },
+  {
+    "id": 467,
+    "lemma": "إِسْحاق",
+    "meaning": "Isḥāq",
+    "transliteration": "is'ḥāq",
+    "lemmaId": 554
+  },
+  {
+    "id": 468,
+    "lemma": "إِسْرائِيل",
+    "meaning": "Isrāʾīl",
+    "transliteration": "is'rā'īl",
+    "lemmaId": 265
+  },
+  {
+    "id": 469,
+    "lemma": "إِسْرار",
+    "meaning": "secret",
+    "transliteration": "isrār",
+    "lemmaId": 2165
+  },
+  {
+    "id": 470,
+    "lemma": "إِسْراف",
+    "meaning": "excess, extravagance",
+    "transliteration": "isrāf",
+    "lemmaId": 2166
+  },
+  {
+    "id": 471,
+    "lemma": "إِسْلام",
+    "meaning": "Islam",
+    "transliteration": "is'lām",
+    "lemmaId": 946
+  },
+  {
+    "id": 472,
+    "lemma": "إِسْماعِيل",
+    "meaning": "Ismāʿīl",
+    "transliteration": "is'māʿīl",
+    "lemmaId": 704
+  },
+  {
+    "id": 473,
+    "lemma": "إِشْراق",
+    "meaning": "sunrise",
+    "transliteration": "ishrāq",
+    "lemmaId": 2959
+  },
+  {
+    "id": 474,
+    "lemma": "إِصْباح",
+    "meaning": "daybreak",
+    "transliteration": "iṣbāḥ",
+    "lemmaId": 2960
+  },
+  {
+    "id": 475,
+    "lemma": "إِصْر",
+    "meaning": "burden, covenant",
+    "transliteration": "iṣr",
+    "lemmaId": 1724
+  },
+  {
+    "id": 476,
+    "lemma": "إِصْلاح",
+    "meaning": "reconciliation, reformation",
+    "transliteration": "iṣlāḥ",
+    "lemmaId": 1027
+  },
+  {
+    "id": 477,
+    "lemma": "إِطْعام",
+    "meaning": "feeding",
+    "transliteration": "iṭʿām",
+    "lemmaId": 1725
+  },
+  {
+    "id": 478,
+    "lemma": "إِعْراض",
+    "meaning": "aversion, desertion",
+    "transliteration": "iʿrāḍ",
+    "lemmaId": 2167
+  },
+  {
+    "id": 479,
+    "lemma": "إِعْصار",
+    "meaning": "whirlwind",
+    "transliteration": "iʿṣār",
+    "lemmaId": 2961
+  },
+  {
+    "id": 480,
+    "lemma": "إِفْك",
+    "meaning": "falsehood",
+    "transliteration": "ifki",
+    "lemmaId": 872
+  },
+  {
+    "id": 481,
+    "lemma": "إِقامَت",
+    "meaning": "stay",
+    "transliteration": "iqāmat",
+    "lemmaId": 2962
+  },
+  {
+    "id": 482,
+    "lemma": "إِكْرام",
+    "meaning": "Honor",
+    "transliteration": "ikrām",
+    "lemmaId": 2169
+  },
+  {
+    "id": 483,
+    "lemma": "إِكْراه",
+    "meaning": "compulsion",
+    "transliteration": "ik'rāh",
+    "lemmaId": 2170
+  },
+  {
+    "id": 484,
+    "lemma": "إِلاف",
+    "meaning": "habitual practice",
+    "transliteration": "ilāf",
+    "lemmaId": 2171
+  },
+  {
+    "id": 485,
+    "lemma": "إِلَى",
+    "meaning": "to, until",
+    "transliteration": "ilā",
+    "lemmaId": 19
+  },
+  {
+    "id": 486,
+    "lemma": "إِلّ",
+    "meaning": "kinship",
+    "transliteration": "ill",
+    "lemmaId": 2172
+  },
+  {
+    "id": 487,
+    "lemma": "إِلْحاد",
+    "meaning": "deviation",
+    "transliteration": "ilḥād",
+    "lemmaId": 2963
+  },
+  {
+    "id": 488,
+    "lemma": "إِلْحاف",
+    "meaning": "insistently",
+    "transliteration": "ilḥāf",
+    "lemmaId": 2964
+  },
+  {
+    "id": 489,
+    "lemma": "إِلْياس",
+    "meaning": "Ilyās",
+    "transliteration": "il'yās",
+    "lemmaId": 1726
+  },
+  {
+    "id": 490,
+    "lemma": "إِلٰه",
+    "meaning": "god",
+    "transliteration": "ilāh",
+    "lemmaId": 81
+  },
+  {
+    "id": 491,
+    "lemma": "إِمام",
+    "meaning": "leader, guide, record, road",
+    "transliteration": "imām",
+    "lemmaId": 705
+  },
+  {
+    "id": 492,
+    "lemma": "إِمْر",
+    "meaning": "grave",
+    "transliteration": "imr",
+    "lemmaId": 2965
+  },
+  {
+    "id": 493,
+    "lemma": "إِمْساك",
+    "meaning": "retaining",
+    "transliteration": "im'sāk",
+    "lemmaId": 2966
+  },
+  {
+    "id": 494,
+    "lemma": "إِمْلاق",
+    "meaning": "poverty",
+    "transliteration": "imlāq",
+    "lemmaId": 2173
+  },
+  {
+    "id": 495,
+    "lemma": "إِنجِيل",
+    "meaning": "Injīl",
+    "transliteration": "injīl",
+    "lemmaId": 706
+  },
+  {
+    "id": 496,
+    "lemma": "إِنس",
+    "meaning": "mankind",
+    "transliteration": "ins",
+    "lemmaId": 531
+  },
+  {
+    "id": 497,
+    "lemma": "إِنسان",
+    "meaning": "human being",
+    "transliteration": "insān",
+    "lemmaId": 168
+  },
+  {
+    "id": 498,
+    "lemma": "إِنسِيّ",
+    "meaning": "belonging to mankind",
+    "transliteration": "insiyy",
+    "lemmaId": 2967
+  },
+  {
+    "id": 499,
+    "lemma": "إِنشاء",
+    "meaning": "creation",
+    "transliteration": "inshā",
+    "lemmaId": 2968
+  },
+  {
+    "id": 500,
+    "lemma": "إِنفاق",
+    "meaning": "spending",
+    "transliteration": "infāq",
+    "lemmaId": 2969
+  },
+  {
+    "id": 501,
+    "lemma": "إِنَى",
+    "meaning": "final state",
+    "transliteration": "inā",
+    "lemmaId": 2970
+  },
+  {
+    "id": 502,
+    "lemma": "إِنّ",
+    "meaning": "indeed",
+    "transliteration": "inn",
+    "lemmaId": 11
+  },
+  {
+    "id": 503,
+    "lemma": "إِياب",
+    "meaning": "return",
+    "transliteration": "īyāb",
+    "lemmaId": 2972
+  },
+  {
+    "id": 504,
+    "lemma": "إِيتاء",
+    "meaning": "giving",
+    "transliteration": "ītāʾ",
+    "lemmaId": 1727
+  },
+  {
+    "id": 505,
+    "lemma": "إِيمان",
+    "meaning": "faith",
+    "transliteration": "īmān",
+    "lemmaId": 252
+  },
+  {
+    "id": 506,
+    "lemma": "إِيّا",
+    "meaning": "alone",
+    "transliteration": "iyyā",
+    "lemmaId": 431
+  },
+  {
+    "id": 507,
+    "lemma": "اؤْتُمِنَ",
+    "meaning": "to be entrusted",
+    "transliteration": "u'tumina",
+    "lemmaId": 2973
+  },
+  {
+    "id": 508,
+    "lemma": "ابْتَدَعُ",
+    "meaning": "to innovate, to create",
+    "transliteration": "ibtadaʿu",
+    "lemmaId": 2974
+  },
+  {
+    "id": 509,
+    "lemma": "ابْتَغَى",
+    "meaning": "to actively seek",
+    "transliteration": "ib'taghā",
+    "lemmaId": 336
+  },
+  {
+    "id": 510,
+    "lemma": "ابْتَلَى",
+    "meaning": "to test",
+    "transliteration": "ibtalā",
+    "lemmaId": 947
+  },
+  {
+    "id": 511,
+    "lemma": "ابْتِغاء",
+    "meaning": "seeking",
+    "transliteration": "ib'tighā",
+    "lemmaId": 639
+  },
+  {
+    "id": 512,
+    "lemma": "ابْلَعِ",
+    "meaning": "swallow",
+    "transliteration": "ab'la'i",
+    "lemmaId": 2975
+  },
+  {
+    "id": 513,
+    "lemma": "ابْن",
+    "meaning": "son",
+    "transliteration": "ibn",
+    "lemmaId": 188
+  },
+  {
+    "id": 514,
+    "lemma": "ابْنَت",
+    "meaning": "daughter",
+    "transliteration": "ib'nat",
+    "lemmaId": 2174
+  },
+  {
+    "id": 515,
+    "lemma": "ابْيَضَّتْ",
+    "meaning": "to become white",
+    "transliteration": "abyaḍḍat",
+    "lemmaId": 1728
+  },
+  {
+    "id": 516,
+    "lemma": "اتَّبَعَ",
+    "meaning": "to follow closely",
+    "transliteration": "ittabaʿa",
+    "lemmaId": 90
+  },
+  {
+    "id": 517,
+    "lemma": "اتَّخَذَ",
+    "meaning": "to take for oneself",
+    "transliteration": "ittakhadha",
+    "lemmaId": 100
+  },
+  {
+    "id": 518,
+    "lemma": "اتَّسَقَ",
+    "meaning": "to be full",
+    "transliteration": "atsaqa",
+    "lemmaId": 2976
+  },
+  {
+    "id": 519,
+    "lemma": "اتَّقَى",
+    "meaning": "to guard oneself, to be God-conscious",
+    "transliteration": "ittaqā",
+    "lemmaId": 73
+  },
+  {
+    "id": 520,
+    "lemma": "اتِّباع",
+    "meaning": "pursuit, follow-up",
+    "transliteration": "ittibāʿ",
+    "lemmaId": 2175
+  },
+  {
+    "id": 521,
+    "lemma": "اتِّخاذ",
+    "meaning": "taking for oneself",
+    "transliteration": "ittikhāẓ",
+    "lemmaId": 2977
+  },
+  {
+    "id": 522,
+    "lemma": "اثّاقَلْ",
+    "meaning": "to incline heavily",
+    "transliteration": "uth'āqal",
+    "lemmaId": 2978
+  },
+  {
+    "id": 523,
+    "lemma": "اثْبُتُ",
+    "meaning": "stand firm",
+    "transliteration": "athbutu",
+    "lemmaId": 2979
+  },
+  {
+    "id": 524,
+    "lemma": "اثْنَتَيْن",
+    "meaning": "two",
+    "transliteration": "ithnatayn",
+    "lemmaId": 1028
+  },
+  {
+    "id": 525,
+    "lemma": "اثْنَيْن",
+    "meaning": "two",
+    "transliteration": "ithnayn",
+    "lemmaId": 667
+  },
+  {
+    "id": 526,
+    "lemma": "اجْتَبَى",
+    "meaning": "to specially choose",
+    "transliteration": "ijtabā",
+    "lemmaId": 805
+  },
+  {
+    "id": 527,
+    "lemma": "اجْتَرَحُ",
+    "meaning": "to commit",
+    "transliteration": "ijtarahu",
+    "lemmaId": 2980
+  },
+  {
+    "id": 528,
+    "lemma": "اجْتَمَعُ",
+    "meaning": "to gather",
+    "transliteration": "ijtamaʿu",
+    "lemmaId": 2176
+  },
+  {
+    "id": 529,
+    "lemma": "اجْتَنَبُ",
+    "meaning": "to avoid",
+    "transliteration": "ajtanabu",
+    "lemmaId": 873
+  },
+  {
+    "id": 530,
+    "lemma": "اجْتُثَّتْ",
+    "meaning": "to be uprooted",
+    "transliteration": "ajtuththat",
+    "lemmaId": 2981
+  },
+  {
+    "id": 531,
+    "lemma": "اجْلِدُ",
+    "meaning": "to flog",
+    "transliteration": "ajlidu",
+    "lemmaId": 2177
+  },
+  {
+    "id": 532,
+    "lemma": "اجْنُبْ",
+    "meaning": "keep away",
+    "transliteration": "ajnub",
+    "lemmaId": 2982
+  },
+  {
+    "id": 533,
+    "lemma": "احْتَرَقَتْ",
+    "meaning": "to burn",
+    "transliteration": "iḥtaraqat",
+    "lemmaId": 2983
+  },
+  {
+    "id": 534,
+    "lemma": "احْتَمَلَ",
+    "meaning": "to carry, to bear",
+    "transliteration": "iḥtamala",
+    "lemmaId": 1729
+  },
+  {
+    "id": 535,
+    "lemma": "اخْتارَ",
+    "meaning": "to select",
+    "transliteration": "ikh'tāra",
+    "lemmaId": 1468
+  },
+  {
+    "id": 536,
+    "lemma": "اخْتَصَمُ",
+    "meaning": "to dispute with one another",
+    "transliteration": "akh'taṣamu",
+    "lemmaId": 948
+  },
+  {
+    "id": 537,
+    "lemma": "اخْتَلَطَ",
+    "meaning": "to become mixed, to become blended together",
+    "transliteration": "ikhtalata",
+    "lemmaId": 1730
+  },
+  {
+    "id": 538,
+    "lemma": "اخْتَلَفَ",
+    "meaning": "to differ",
+    "transliteration": "ikhtalafa",
+    "lemmaId": 325
+  },
+  {
+    "id": 539,
+    "lemma": "اخْتِلاف",
+    "meaning": "alternation, contradiction, diversity",
+    "transliteration": "ikhtilāf",
+    "lemmaId": 1029
+  },
+  {
+    "id": 540,
+    "lemma": "اخْتِلاق",
+    "meaning": "fabrication",
+    "transliteration": "akh'tilāq",
+    "lemmaId": 2984
+  },
+  {
+    "id": 541,
+    "lemma": "اخْسَأُ",
+    "meaning": "remain despised",
+    "transliteration": "akh'sāu",
+    "lemmaId": 2985
+  },
+  {
+    "id": 542,
+    "lemma": "اخْفِضْ",
+    "meaning": "lower",
+    "transliteration": "akh'fiḍ",
+    "lemmaId": 1731
+  },
+  {
+    "id": 543,
+    "lemma": "اخْلَعْ",
+    "meaning": "remove",
+    "transliteration": "akh'laʿ",
+    "lemmaId": 2986
+  },
+  {
+    "id": 544,
+    "lemma": "ادّارَأَ",
+    "meaning": "to dispute with one another",
+    "transliteration": "addāra",
+    "lemmaId": 2987
+  },
+  {
+    "id": 545,
+    "lemma": "ادّارَكَ",
+    "meaning": "to eventually reach, to eventually catch up with, to ultimately catch up with",
+    "transliteration": "addāraka",
+    "lemmaId": 1732
+  },
+  {
+    "id": 546,
+    "lemma": "ادَّكَرَ",
+    "meaning": "to vividly remember",
+    "transliteration": "addakara",
+    "lemmaId": 2988
+  },
+  {
+    "id": 547,
+    "lemma": "ارْتابَ",
+    "meaning": "to doubt",
+    "transliteration": "irtāba",
+    "lemmaId": 874
+  },
+  {
+    "id": 548,
+    "lemma": "ارْتَدَّ",
+    "meaning": "to revert, to return",
+    "transliteration": "irtadda",
+    "lemmaId": 949
+  },
+  {
+    "id": 549,
+    "lemma": "ارْتَضَى",
+    "meaning": "to approve",
+    "transliteration": "irtaḍā",
+    "lemmaId": 1733
+  },
+  {
+    "id": 550,
+    "lemma": "ارْتَقِبْ",
+    "meaning": "watch",
+    "transliteration": "irtaqib",
+    "lemmaId": 1469
+  },
+  {
+    "id": 551,
+    "lemma": "ازَّيَّنَتْ",
+    "meaning": "to become beautified",
+    "transliteration": "azzayyanat",
+    "lemmaId": 2989
+  },
+  {
+    "id": 552,
+    "lemma": "ازْدادُ",
+    "meaning": "to increase",
+    "transliteration": "azdādu",
+    "lemmaId": 950
+  },
+  {
+    "id": 553,
+    "lemma": "ازْدُجِرَ",
+    "meaning": "to repel",
+    "transliteration": "uz'dujira",
+    "lemmaId": 2990
+  },
+  {
+    "id": 554,
+    "lemma": "اسْتَأْجَرْ",
+    "meaning": "to seek to hire",
+    "transliteration": "istAʾjar",
+    "lemmaId": 2178
+  },
+  {
+    "id": 555,
+    "lemma": "اسْتَأْذَنَ",
+    "meaning": "to seek permission",
+    "transliteration": "is'taādhana",
+    "lemmaId": 707
+  },
+  {
+    "id": 556,
+    "lemma": "اسْتَبَقَ",
+    "meaning": "to race each other",
+    "transliteration": "istabaqa",
+    "lemmaId": 1267
+  },
+  {
+    "id": 557,
+    "lemma": "اسْتَجابَ",
+    "meaning": "to answer, to respond",
+    "transliteration": "istajāba",
+    "lemmaId": 384
+  },
+  {
+    "id": 558,
+    "lemma": "اسْتَجارَ",
+    "meaning": "to seek protection",
+    "transliteration": "istajāra",
+    "lemmaId": 2991
+  },
+  {
+    "id": 559,
+    "lemma": "اسْتَحَبُّ",
+    "meaning": "to prefer",
+    "transliteration": "istahabbu",
+    "lemmaId": 1470
+  },
+  {
+    "id": 560,
+    "lemma": "اسْتَحَقَّ",
+    "meaning": "to deserve, to be entitled",
+    "transliteration": "istaḥaqqa",
+    "lemmaId": 2179
+  },
+  {
+    "id": 561,
+    "lemma": "اسْتَحْوَذَ",
+    "meaning": "to dominate",
+    "transliteration": "ist-aḥwadha",
+    "lemmaId": 2180
+  },
+  {
+    "id": 562,
+    "lemma": "اسْتَخَفَّ",
+    "meaning": "to make light of, to belittle",
+    "transliteration": "istakhaffa",
+    "lemmaId": 1734
+  },
+  {
+    "id": 563,
+    "lemma": "اسْتَخْرَجَ",
+    "meaning": "to seek to extract",
+    "transliteration": "istakhraj",
+    "lemmaId": 1471
+  },
+  {
+    "id": 564,
+    "lemma": "اسْتَخْلَفَ",
+    "meaning": "to appoint as successor",
+    "transliteration": "istakhlafa",
+    "lemmaId": 1268
+  },
+  {
+    "id": 565,
+    "lemma": "اسْتَرَقَ",
+    "meaning": "to steal",
+    "transliteration": "astaraqa",
+    "lemmaId": 2992
+  },
+  {
+    "id": 566,
+    "lemma": "اسْتَرْهَبُ",
+    "meaning": "to seek to terrify",
+    "transliteration": "astarhabu",
+    "lemmaId": 2993
+  },
+  {
+    "id": 567,
+    "lemma": "اسْتَزَلَّ",
+    "meaning": "to seek to cause to slip",
+    "transliteration": "istazalla",
+    "lemmaId": 2994
+  },
+  {
+    "id": 568,
+    "lemma": "اسْتَسْقَى",
+    "meaning": "to ask for water",
+    "transliteration": "astasqā",
+    "lemmaId": 2181
+  },
+  {
+    "id": 569,
+    "lemma": "اسْتَشْهِدُ",
+    "meaning": "to call to witness",
+    "transliteration": "astashhidu",
+    "lemmaId": 2182
+  },
+  {
+    "id": 570,
+    "lemma": "اسْتَضْعَفُ",
+    "meaning": "to consider weak",
+    "transliteration": "is'taḍʿafu",
+    "lemmaId": 951
+  },
+  {
+    "id": 571,
+    "lemma": "اسْتَطاعَ",
+    "meaning": "to be able to, to be capable",
+    "transliteration": "is'taṭā'a",
+    "lemmaId": 270
+  },
+  {
+    "id": 572,
+    "lemma": "اسْتَطْعَمَ",
+    "meaning": "to ask for food",
+    "transliteration": "is'taṭʿama",
+    "lemmaId": 2995
+  },
+  {
+    "id": 573,
+    "lemma": "اسْتَعِذْ",
+    "meaning": "to seek refuge",
+    "transliteration": "istaiḏ",
+    "lemmaId": 1472
+  },
+  {
+    "id": 574,
+    "lemma": "اسْتَعِينُ",
+    "meaning": "to seek help",
+    "transliteration": "is'taʿīnū",
+    "lemmaId": 1473
+  },
+  {
+    "id": 575,
+    "lemma": "اسْتَعْجَلَ",
+    "meaning": "to seek to hasten",
+    "transliteration": "istaʿjala",
+    "lemmaId": 514
+  },
+  {
+    "id": 576,
+    "lemma": "اسْتَعْصَمَ",
+    "meaning": "to save",
+    "transliteration": "istʿṣama",
+    "lemmaId": 2996
+  },
+  {
+    "id": 577,
+    "lemma": "اسْتَعْلَى",
+    "meaning": "to overcome",
+    "transliteration": "istuʿlā",
+    "lemmaId": 2997
+  },
+  {
+    "id": 578,
+    "lemma": "اسْتَعْمَرَ",
+    "meaning": "to settle",
+    "transliteration": "istuʿmara",
+    "lemmaId": 2998
+  },
+  {
+    "id": 579,
+    "lemma": "اسْتَغاثَ",
+    "meaning": "to seek help",
+    "transliteration": "istaghātha",
+    "lemmaId": 1474
+  },
+  {
+    "id": 580,
+    "lemma": "اسْتَغْشَ",
+    "meaning": "to cover",
+    "transliteration": "istaghsha",
+    "lemmaId": 2183
+  },
+  {
+    "id": 581,
+    "lemma": "اسْتَغْفَرَ",
+    "meaning": "to ask forgiveness",
+    "transliteration": "istaghfara",
+    "lemmaId": 283
+  },
+  {
+    "id": 582,
+    "lemma": "اسْتَغْلَظَ",
+    "meaning": "to become thick",
+    "transliteration": "istaghlaẓa",
+    "lemmaId": 2999
+  },
+  {
+    "id": 583,
+    "lemma": "اسْتَغْنَى",
+    "meaning": "to be self-sufficient",
+    "transliteration": "istagh'nā",
+    "lemmaId": 1475
+  },
+  {
+    "id": 584,
+    "lemma": "اسْتَفْتَحُ",
+    "meaning": "to seek victory",
+    "transliteration": "astaf'ṭaḥu",
+    "lemmaId": 1735
+  },
+  {
+    "id": 585,
+    "lemma": "اسْتَقامُ",
+    "meaning": "to remain upright, to remain steadfast",
+    "transliteration": "is'taqāmū",
+    "lemmaId": 806
+  },
+  {
+    "id": 586,
+    "lemma": "اسْتَقَرَّ",
+    "meaning": "to remain",
+    "transliteration": "istaqarra",
+    "lemmaId": 3000
+  },
+  {
+    "id": 587,
+    "lemma": "اسْتَكْبَرَ",
+    "meaning": "to seek to exalt oneself, to seek to be arrogant, to act arrogantly, to act proud",
+    "transliteration": "istakbara",
+    "lemmaId": 284
+  },
+  {
+    "id": 588,
+    "lemma": "اسْتَكْثَرْ",
+    "meaning": "to seek many, to seek abundance, to seek increase",
+    "transliteration": "istakthar",
+    "lemmaId": 1736
+  },
+  {
+    "id": 589,
+    "lemma": "اسْتَمَعَ",
+    "meaning": "to listen",
+    "transliteration": "istamʿa",
+    "lemmaId": 581
+  },
+  {
+    "id": 590,
+    "lemma": "اسْتَمْتَعَ",
+    "meaning": "to seek benefit, to seek enjoyment",
+    "transliteration": "istamtaʿa",
+    "lemmaId": 1132
+  },
+  {
+    "id": 591,
+    "lemma": "اسْتَمْسَكَ",
+    "meaning": "to grasp, to hold firmly",
+    "transliteration": "istamsaka",
+    "lemmaId": 1737
+  },
+  {
+    "id": 592,
+    "lemma": "اسْتَنصَرَ",
+    "meaning": "to seek help",
+    "transliteration": "istanṣara",
+    "lemmaId": 2185
+  },
+  {
+    "id": 593,
+    "lemma": "اسْتَنكَفُ",
+    "meaning": "to pridefully refuse",
+    "transliteration": "istankafu",
+    "lemmaId": 1738
+  },
+  {
+    "id": 594,
+    "lemma": "اسْتَهْوَتْ",
+    "meaning": "to cause to go astray",
+    "transliteration": "astahwat",
+    "lemmaId": 3001
+  },
+  {
+    "id": 595,
+    "lemma": "اسْتَوَى",
+    "meaning": "to be equal, to be alike, to establish",
+    "transliteration": "istawā",
+    "lemmaId": 326
+  },
+  {
+    "id": 596,
+    "lemma": "اسْتَوْقَدَ",
+    "meaning": "to seek to kindle",
+    "transliteration": "istawqada",
+    "lemmaId": 3002
+  },
+  {
+    "id": 597,
+    "lemma": "اسْتَيْأَسَ",
+    "meaning": "to fall into despair, to lose all hope",
+    "transliteration": "istayas",
+    "lemmaId": 2186
+  },
+  {
+    "id": 598,
+    "lemma": "اسْتَيْسَرَ",
+    "meaning": "to obtain with ease",
+    "transliteration": "istaysara",
+    "lemmaId": 2187
+  },
+  {
+    "id": 599,
+    "lemma": "اسْتَيْقَنَتْ",
+    "meaning": "to become certain",
+    "transliteration": "astayqanat",
+    "lemmaId": 2188
+  },
+  {
+    "id": 600,
+    "lemma": "اسْتُحْفِظُ",
+    "meaning": "to be entrusted to preserve",
+    "transliteration": "astuḥfiẓu",
+    "lemmaId": 3003
+  },
+  {
+    "id": 601,
+    "lemma": "اسْتُهْزِئَ",
+    "meaning": "to be mocked, to be ridiculed",
+    "transliteration": "astuhzi'a",
+    "lemmaId": 476
+  },
+  {
+    "id": 602,
+    "lemma": "اسْتِبْدال",
+    "meaning": "to seek a substitute",
+    "transliteration": "istibdāl",
+    "lemmaId": 3004
+  },
+  {
+    "id": 603,
+    "lemma": "اسْتِحْياء",
+    "meaning": "shyness",
+    "transliteration": "istiḥyāʾ",
+    "lemmaId": 3005
+  },
+  {
+    "id": 604,
+    "lemma": "اسْتِعْجال",
+    "meaning": "seeking haste",
+    "transliteration": "istiʿjāl",
+    "lemmaId": 3006
+  },
+  {
+    "id": 605,
+    "lemma": "اسْتِغْفار",
+    "meaning": "asking of forgiveness",
+    "transliteration": "is'tighfār",
+    "lemmaId": 3007
+  },
+  {
+    "id": 606,
+    "lemma": "اسْتِكْبار",
+    "meaning": "seeking arrogance, deliberate arrogance",
+    "transliteration": "istikbār",
+    "lemmaId": 2189
+  },
+  {
+    "id": 607,
+    "lemma": "اسْم",
+    "meaning": "name",
+    "transliteration": "ism",
+    "lemmaId": 296
+  },
+  {
+    "id": 608,
+    "lemma": "اسْوَدَّتْ",
+    "meaning": "to become black",
+    "transliteration": "aswaddat",
+    "lemmaId": 2190
+  },
+  {
+    "id": 609,
+    "lemma": "اشْتَدَّتْ",
+    "meaning": "to blow furiously",
+    "transliteration": "ishtaddat",
+    "lemmaId": 3008
+  },
+  {
+    "id": 610,
+    "lemma": "اشْتَرَى",
+    "meaning": "to buy, to purchase, to exchange",
+    "transliteration": "ishtarā",
+    "lemmaId": 477
+  },
+  {
+    "id": 611,
+    "lemma": "اشْتَعَلَ",
+    "meaning": "to flare",
+    "transliteration": "ishtāʿala",
+    "lemmaId": 3009
+  },
+  {
+    "id": 612,
+    "lemma": "اشْتَمَلَتْ",
+    "meaning": "to contain",
+    "transliteration": "ishtamalat",
+    "lemmaId": 2191
+  },
+  {
+    "id": 613,
+    "lemma": "اشْتَهَتْ",
+    "meaning": "to desire",
+    "transliteration": "ishtahat",
+    "lemmaId": 952
+  },
+  {
+    "id": 614,
+    "lemma": "اشْمَأَزَّتْ",
+    "meaning": "to shrink with aversion",
+    "transliteration": "ishmāzat",
+    "lemmaId": 3010
+  },
+  {
+    "id": 615,
+    "lemma": "اصْدَعْ",
+    "meaning": "to proclaim",
+    "transliteration": "iṣdaʿ",
+    "lemmaId": 3011
+  },
+  {
+    "id": 616,
+    "lemma": "اصْطادُ",
+    "meaning": "to hunt",
+    "transliteration": "iṣṭādu",
+    "lemmaId": 3012
+  },
+  {
+    "id": 617,
+    "lemma": "اصْطَبِرْ",
+    "meaning": "to be patient, to be steadfast",
+    "transliteration": "iṣṭabir",
+    "lemmaId": 1739
+  },
+  {
+    "id": 618,
+    "lemma": "اصْطَفَى",
+    "meaning": "to choose",
+    "transliteration": "iṣṭafā",
+    "lemmaId": 708
+  },
+  {
+    "id": 619,
+    "lemma": "اصْطَنَعْ",
+    "meaning": "to choose",
+    "transliteration": "iṣṭanʿ",
+    "lemmaId": 3013
+  },
+  {
+    "id": 620,
+    "lemma": "اضْطُرَّ",
+    "meaning": "to force, to compel",
+    "transliteration": "iḍṭurra",
+    "lemmaId": 1030
+  },
+  {
+    "id": 621,
+    "lemma": "اضْمُمْ",
+    "meaning": "bring together",
+    "transliteration": "aḍmum",
+    "lemmaId": 2192
+  },
+  {
+    "id": 622,
+    "lemma": "اطَّيَّرْ",
+    "meaning": "to ascribe an evil omen",
+    "transliteration": "aṭṭayyar",
+    "lemmaId": 1740
+  },
+  {
+    "id": 623,
+    "lemma": "اطْرَحُ",
+    "meaning": "to cast away",
+    "transliteration": "aṭraḥu",
+    "lemmaId": 3014
+  },
+  {
+    "id": 624,
+    "lemma": "اطْمَأَنَّ",
+    "meaning": "to be satisfied, to be secure, to be content",
+    "transliteration": "iṭmānanna",
+    "lemmaId": 875
+  },
+  {
+    "id": 625,
+    "lemma": "اعْتَبِرُ",
+    "meaning": "reflect",
+    "transliteration": "aʿtabiru",
+    "lemmaId": 3015
+  },
+  {
+    "id": 626,
+    "lemma": "اعْتَدَى",
+    "meaning": "to transgress",
+    "transliteration": "aʿtadā",
+    "lemmaId": 607
+  },
+  {
+    "id": 627,
+    "lemma": "اعْتَرَفُ",
+    "meaning": "to acknowledge, to confess",
+    "transliteration": "aʿtarafu",
+    "lemmaId": 1741
+  },
+  {
+    "id": 628,
+    "lemma": "اعْتَرَى",
+    "meaning": "to seize",
+    "transliteration": "aʿtarā",
+    "lemmaId": 3016
+  },
+  {
+    "id": 629,
+    "lemma": "اعْتَزَلَ",
+    "meaning": "to withdraw, to leave, to keep away",
+    "transliteration": "aʿtazala",
+    "lemmaId": 1031
+  },
+  {
+    "id": 630,
+    "lemma": "اعْتَصَمُ",
+    "meaning": "to hold fast",
+    "transliteration": "aʿtaṣamu",
+    "lemmaId": 1269
+  },
+  {
+    "id": 631,
+    "lemma": "اعْتَمَرَ",
+    "meaning": "to perform ʿUmrah",
+    "transliteration": "aʿtamara",
+    "lemmaId": 3017
+  },
+  {
+    "id": 632,
+    "lemma": "اعْتِلُ",
+    "meaning": "to drag violently",
+    "transliteration": "aʿtilu",
+    "lemmaId": 3018
+  },
+  {
+    "id": 633,
+    "lemma": "اغْتَرَفَ",
+    "meaning": "to take",
+    "transliteration": "ightarafa",
+    "lemmaId": 3019
+  },
+  {
+    "id": 634,
+    "lemma": "اغْسِلُ",
+    "meaning": "wash",
+    "transliteration": "agh'ilu",
+    "lemmaId": 3020
+  },
+  {
+    "id": 635,
+    "lemma": "اغْلُظْ",
+    "meaning": "to be stern",
+    "transliteration": "aghluẓ",
+    "lemmaId": 2193
+  },
+  {
+    "id": 636,
+    "lemma": "افْتَدَى",
+    "meaning": "to offer ransom",
+    "transliteration": "aftadā",
+    "lemmaId": 1032
+  },
+  {
+    "id": 637,
+    "lemma": "افْتَرَى",
+    "meaning": "to fabricate",
+    "transliteration": "aftarā",
+    "lemmaId": 231
+  },
+  {
+    "id": 638,
+    "lemma": "افْتِراء",
+    "meaning": "fabrication",
+    "transliteration": "if'tirā'",
+    "lemmaId": 2194
+  },
+  {
+    "id": 639,
+    "lemma": "اقْتَتَلَ",
+    "meaning": "to fight each other",
+    "transliteration": "iq'tatala",
+    "lemmaId": 1476
+  },
+  {
+    "id": 640,
+    "lemma": "اقْتَحَمَ",
+    "meaning": "to face head-on",
+    "transliteration": "iq'taḥama",
+    "lemmaId": 3021
+  },
+  {
+    "id": 641,
+    "lemma": "اقْتَدِهْ",
+    "meaning": "follow",
+    "transliteration": "iq'tadihi",
+    "lemmaId": 3022
+  },
+  {
+    "id": 642,
+    "lemma": "اقْتَرَبَ",
+    "meaning": "to approach",
+    "transliteration": "iq'taraba",
+    "lemmaId": 1270
+  },
+  {
+    "id": 643,
+    "lemma": "اقْتَرَفْ",
+    "meaning": "to commit, to earn",
+    "transliteration": "iqtaraf",
+    "lemmaId": 1477
+  },
+  {
+    "id": 644,
+    "lemma": "اقْصِدْ",
+    "meaning": "to be moderate",
+    "transliteration": "iqṣid",
+    "lemmaId": 3023
+  },
+  {
+    "id": 645,
+    "lemma": "اكْتالُ",
+    "meaning": "to take a measure",
+    "transliteration": "iktālū",
+    "lemmaId": 2195
+  },
+  {
+    "id": 646,
+    "lemma": "اكْتَتَبَ",
+    "meaning": "to have written down",
+    "transliteration": "aktataba",
+    "lemmaId": 3024
+  },
+  {
+    "id": 647,
+    "lemma": "اكْتَسَبَ",
+    "meaning": "to earn for oneself",
+    "transliteration": "iktasaba",
+    "lemmaId": 1271
+  },
+  {
+    "id": 648,
+    "lemma": "ال",
+    "meaning": "the",
+    "transliteration": "al",
+    "lemmaId": 2
+  },
+  {
+    "id": 649,
+    "lemma": "اللّات",
+    "meaning": "al-Lāt",
+    "transliteration": "l-lāt",
+    "lemmaId": 3025
+  },
+  {
+    "id": 650,
+    "lemma": "اللَّه",
+    "meaning": "Allah",
+    "transliteration": "allah",
+    "lemmaId": 6
+  },
+  {
+    "id": 651,
+    "lemma": "الَّذِي",
+    "meaning": "who, which, that",
+    "transliteration": "alladhī",
+    "lemmaId": 13
+  },
+  {
+    "id": 652,
+    "lemma": "الْتَفَّتِ",
+    "meaning": "entwined",
+    "transliteration": "al-taffati",
+    "lemmaId": 3026
+  },
+  {
+    "id": 653,
+    "lemma": "الْتَقَمَ",
+    "meaning": "to swallow",
+    "transliteration": "al-taqama",
+    "lemmaId": 3027
+  },
+  {
+    "id": 654,
+    "lemma": "الْتَقَى",
+    "meaning": "to meet",
+    "transliteration": "al-taqā",
+    "lemmaId": 1033
+  },
+  {
+    "id": 655,
+    "lemma": "الْتَمِسُ",
+    "meaning": "seek out",
+    "transliteration": "al-tamisu",
+    "lemmaId": 3028
+  },
+  {
+    "id": 656,
+    "lemma": "الْعُزَّى",
+    "meaning": "al-‘Uzzā",
+    "transliteration": "lʿuzzā",
+    "lemmaId": 3029
+  },
+  {
+    "id": 657,
+    "lemma": "الْغَ",
+    "meaning": "utter nonsense",
+    "transliteration": "al-gha",
+    "lemmaId": 3030
+  },
+  {
+    "id": 658,
+    "lemma": "الْيَسَع",
+    "meaning": "Al-Yasa‘",
+    "transliteration": "al-yasʿ",
+    "lemmaId": 2197
+  },
+  {
+    "id": 659,
+    "lemma": "امْتازُ",
+    "meaning": "separate yourselves",
+    "transliteration": "imtāzu",
+    "lemmaId": 3031
+  },
+  {
+    "id": 660,
+    "lemma": "امْتَحَنَ",
+    "meaning": "to test, to examine",
+    "transliteration": "im'taḥana",
+    "lemmaId": 2198
+  },
+  {
+    "id": 661,
+    "lemma": "امْتَلَأْ",
+    "meaning": "to be filled",
+    "transliteration": "imtalā",
+    "lemmaId": 3032
+  },
+  {
+    "id": 662,
+    "lemma": "امْرَأ",
+    "meaning": "man",
+    "transliteration": "im'rao",
+    "lemmaId": 3033
+  },
+  {
+    "id": 663,
+    "lemma": "امْرَأَت",
+    "meaning": "woman, wife",
+    "transliteration": "im'rāta",
+    "lemmaId": 407
+  },
+  {
+    "id": 664,
+    "lemma": "امْرُؤٌا",
+    "meaning": "man",
+    "transliteration": "amrūan",
+    "lemmaId": 3034
+  },
+  {
+    "id": 665,
+    "lemma": "امْرِئ",
+    "meaning": "person, man",
+    "transliteration": "amrii",
+    "lemmaId": 1273
+  },
+  {
+    "id": 666,
+    "lemma": "امْسَحُ",
+    "meaning": "wipe",
+    "transliteration": "amsaḥu",
+    "lemmaId": 1742
+  },
+  {
+    "id": 667,
+    "lemma": "انبِعاث",
+    "meaning": "being sent",
+    "transliteration": "inbiʿāth",
+    "lemmaId": 3035
+  },
+  {
+    "id": 668,
+    "lemma": "انتَبَذَتْ",
+    "meaning": "to withdraw",
+    "transliteration": "intabadhat",
+    "lemmaId": 2199
+  },
+  {
+    "id": 669,
+    "lemma": "انتَثَرَتْ",
+    "meaning": "to scatter",
+    "transliteration": "intatharat",
+    "lemmaId": 3036
+  },
+  {
+    "id": 670,
+    "lemma": "انتَصَرَ",
+    "meaning": "to defend oneself, to achieve victory",
+    "transliteration": "intashara",
+    "lemmaId": 1034
+  },
+  {
+    "id": 671,
+    "lemma": "انتَقَمْ",
+    "meaning": "to take retribution",
+    "transliteration": "intaqam",
+    "lemmaId": 1133
+  },
+  {
+    "id": 672,
+    "lemma": "انتَهَى",
+    "meaning": "to refrain, to cease, to desist",
+    "transliteration": "intahā",
+    "lemmaId": 582
+  },
+  {
+    "id": 673,
+    "lemma": "انتِقام",
+    "meaning": "retribution",
+    "transliteration": "intiqām",
+    "lemmaId": 1478
+  },
+  {
+    "id": 674,
+    "lemma": "انسَلَخَ",
+    "meaning": "to pass, to detach",
+    "transliteration": "ansalakha",
+    "lemmaId": 2200
+  },
+  {
+    "id": 675,
+    "lemma": "انشَقَّ",
+    "meaning": "to split",
+    "transliteration": "inshaqq",
+    "lemmaId": 1274
+  },
+  {
+    "id": 676,
+    "lemma": "انشُزُ",
+    "meaning": "rise up",
+    "transliteration": "anshuzu",
+    "lemmaId": 2201
+  },
+  {
+    "id": 677,
+    "lemma": "انصَرَفُ",
+    "meaning": "to turn away",
+    "transliteration": "ansarafu",
+    "lemmaId": 3037
+  },
+  {
+    "id": 678,
+    "lemma": "انطَلَقَ",
+    "meaning": "to set out, to proceeed, to go forth",
+    "transliteration": "inṭalaqa",
+    "lemmaId": 876
+  },
+  {
+    "id": 679,
+    "lemma": "انفَجَرَتْ",
+    "meaning": "to gush forth",
+    "transliteration": "infajarat",
+    "lemmaId": 3038
+  },
+  {
+    "id": 680,
+    "lemma": "انفَطَرَتْ",
+    "meaning": "to be cleft asunder",
+    "transliteration": "infAṭarat",
+    "lemmaId": 3039
+  },
+  {
+    "id": 681,
+    "lemma": "انفَلَقَ",
+    "meaning": "to part",
+    "transliteration": "in'falqa",
+    "lemmaId": 3040
+  },
+  {
+    "id": 682,
+    "lemma": "انفِصام",
+    "meaning": "to break",
+    "transliteration": "infiṣām",
+    "lemmaId": 3041
+  },
+  {
+    "id": 683,
+    "lemma": "انقَلَبَ",
+    "meaning": "to turn back, to return",
+    "transliteration": "inqalaba",
+    "lemmaId": 555
+  },
+  {
+    "id": 684,
+    "lemma": "انكَدَرَتْ",
+    "meaning": "to fall and lose luster",
+    "transliteration": "inkadarat",
+    "lemmaId": 3042
+  },
+  {
+    "id": 685,
+    "lemma": "انْحَرْ",
+    "meaning": "offer sacrifice",
+    "transliteration": "anḥar",
+    "lemmaId": 3043
+  },
+  {
+    "id": 686,
+    "lemma": "انْهارَ",
+    "meaning": "to collapse",
+    "transliteration": "an'hāra",
+    "lemmaId": 3044
+  },
+  {
+    "id": 687,
+    "lemma": "انۢبَجَسَتْ",
+    "meaning": "to gush forth",
+    "transliteration": "anbajast",
+    "lemmaId": 3045
+  },
+  {
+    "id": 688,
+    "lemma": "انۢبَعَثَ",
+    "meaning": "to be sent forth",
+    "transliteration": "in'baʿatha",
+    "lemmaId": 3046
+  },
+  {
+    "id": 689,
+    "lemma": "اهْتَدَى",
+    "meaning": "to be guided",
+    "transliteration": "ahtadā",
+    "lemmaId": 285
+  },
+  {
+    "id": 690,
+    "lemma": "اهْتَزَّتْ",
+    "meaning": "to stir, to move",
+    "transliteration": "ihtazzat",
+    "lemmaId": 1479
+  },
+  {
+    "id": 691,
+    "lemma": "اهْجُرْ",
+    "meaning": "avoid, leave, foresake, speaking foolishly",
+    "transliteration": "ahjur",
+    "lemmaId": 1275
+  },
+  {
+    "id": 692,
+    "lemma": "ب",
+    "meaning": "by, with, in",
+    "transliteration": "bi",
+    "lemmaId": 8
+  },
+  {
+    "id": 693,
+    "lemma": "باءَ",
+    "meaning": "to return, to be burdened with",
+    "transliteration": "bāa",
+    "lemmaId": 1134
+  },
+  {
+    "id": 694,
+    "lemma": "بائِس",
+    "meaning": "afflicted",
+    "transliteration": "bāis",
+    "lemmaId": 3047
+  },
+  {
+    "id": 695,
+    "lemma": "باب",
+    "meaning": "door, gateway",
+    "transliteration": "bāb",
+    "lemmaId": 394
+  },
+  {
+    "id": 696,
+    "lemma": "بابِل",
+    "meaning": "Babylon",
+    "transliteration": "bābil",
+    "lemmaId": 3048
+  },
+  {
+    "id": 697,
+    "lemma": "باخِع",
+    "meaning": "one who destroys themselves out of grief",
+    "transliteration": "bākhʾ",
+    "lemmaId": 2202
+  },
+  {
+    "id": 698,
+    "lemma": "باد",
+    "meaning": "the one appearing",
+    "transliteration": "bād",
+    "lemmaId": 3049
+  },
+  {
+    "id": 699,
+    "lemma": "بادي",
+    "meaning": "those dwelling in the desert",
+    "transliteration": "bādi",
+    "lemmaId": 3050
+  },
+  {
+    "id": 700,
+    "lemma": "بادِي",
+    "meaning": "outwardly apparent",
+    "transliteration": "bādī",
+    "lemmaId": 3051
+  },
+  {
+    "id": 701,
+    "lemma": "بارَكَ",
+    "meaning": "to bless",
+    "transliteration": "bāraka",
+    "lemmaId": 953
+  },
+  {
+    "id": 702,
+    "lemma": "بارِئ",
+    "meaning": "Maker",
+    "transliteration": "bāriʾ",
+    "lemmaId": 1744
+  },
+  {
+    "id": 703,
+    "lemma": "بارِد",
+    "meaning": "cool, cold",
+    "transliteration": "bārid",
+    "lemmaId": 2203
+  },
+  {
+    "id": 704,
+    "lemma": "بارِز",
+    "meaning": "exposed",
+    "transliteration": "bāriz",
+    "lemmaId": 3052
+  },
+  {
+    "id": 705,
+    "lemma": "بارِزَة",
+    "meaning": "visible",
+    "transliteration": "bārizah",
+    "lemmaId": 3053
+  },
+  {
+    "id": 706,
+    "lemma": "بازِغ",
+    "meaning": "rising",
+    "transliteration": "bāziḡ",
+    "lemmaId": 3054
+  },
+  {
+    "id": 707,
+    "lemma": "بازِغَة",
+    "meaning": "rising",
+    "transliteration": "bāzigha",
+    "lemmaId": 3055
+  },
+  {
+    "id": 708,
+    "lemma": "باسِرَة",
+    "meaning": "grim",
+    "transliteration": "bāsirah",
+    "lemmaId": 3056
+  },
+  {
+    "id": 709,
+    "lemma": "باسِط",
+    "meaning": "one who extends",
+    "transliteration": "bāsiṭ",
+    "lemmaId": 1480
+  },
+  {
+    "id": 710,
+    "lemma": "باسِقَة",
+    "meaning": "towering",
+    "transliteration": "bāsiqahton",
+    "lemmaId": 3057
+  },
+  {
+    "id": 711,
+    "lemma": "باشِرُ",
+    "meaning": "to have intimate relations",
+    "transliteration": "bāshiru",
+    "lemmaId": 2204
+  },
+  {
+    "id": 712,
+    "lemma": "باطِل",
+    "meaning": "falsehood, futile",
+    "transliteration": "bāṭil",
+    "lemmaId": 408
+  },
+  {
+    "id": 713,
+    "lemma": "باطِنَة",
+    "meaning": "hidden dimension",
+    "transliteration": "bāṭinate",
+    "lemmaId": 3058
+  },
+  {
+    "id": 714,
+    "lemma": "باعِدْ",
+    "meaning": "make distant",
+    "transliteration": "bāʿid",
+    "lemmaId": 3059
+  },
+  {
+    "id": 715,
+    "lemma": "باغ",
+    "meaning": "seeking out of desire",
+    "transliteration": "bāgh",
+    "lemmaId": 1746
+  },
+  {
+    "id": 716,
+    "lemma": "باق",
+    "meaning": "lasting",
+    "transliteration": "bāq",
+    "lemmaId": 3060
+  },
+  {
+    "id": 717,
+    "lemma": "بال",
+    "meaning": "case, circumstances",
+    "transliteration": "bāl",
+    "lemmaId": 1482
+  },
+  {
+    "id": 718,
+    "lemma": "بالِغ",
+    "meaning": "attain",
+    "transliteration": "bāligh",
+    "lemmaId": 1135
+  },
+  {
+    "id": 719,
+    "lemma": "بالِغَة",
+    "meaning": "fully attained, reaching",
+    "transliteration": "bāligha",
+    "lemmaId": 1747
+  },
+  {
+    "id": 720,
+    "lemma": "بايَعْ",
+    "meaning": "to pledge allegiance",
+    "transliteration": "bāyaʿ",
+    "lemmaId": 1136
+  },
+  {
+    "id": 721,
+    "lemma": "بَأْس",
+    "meaning": "might, hardship, punishment",
+    "transliteration": "baʾs",
+    "lemmaId": 418
+  },
+  {
+    "id": 722,
+    "lemma": "بَأْساء",
+    "meaning": "adversity",
+    "transliteration": "ba-asā",
+    "lemmaId": 1483
+  },
+  {
+    "id": 723,
+    "lemma": "بَئِيس",
+    "meaning": "forceful",
+    "transliteration": "baʾīs",
+    "lemmaId": 3061
+  },
+  {
+    "id": 724,
+    "lemma": "بَثّ",
+    "meaning": "distress",
+    "transliteration": "bathth",
+    "lemmaId": 3062
+  },
+  {
+    "id": 725,
+    "lemma": "بَثَّ",
+    "meaning": "to scatter",
+    "transliteration": "baththa",
+    "lemmaId": 1276
+  },
+  {
+    "id": 726,
+    "lemma": "بَحِيرَة",
+    "meaning": "Baḥīrah",
+    "transliteration": "baḥīra",
+    "lemmaId": 3063
+  },
+  {
+    "id": 727,
+    "lemma": "بَحْر",
+    "meaning": "sea",
+    "transliteration": "baḥr",
+    "lemmaId": 276
+  },
+  {
+    "id": 728,
+    "lemma": "بَخِلَ",
+    "meaning": "to withhold, to be stingy",
+    "transliteration": "bakhila",
+    "lemmaId": 807
+  },
+  {
+    "id": 729,
+    "lemma": "بَخْس",
+    "meaning": "deprivation",
+    "transliteration": "bakhs",
+    "lemmaId": 2206
+  },
+  {
+    "id": 730,
+    "lemma": "بَدا",
+    "meaning": "to appear",
+    "transliteration": "badā",
+    "lemmaId": 754
+  },
+  {
+    "id": 731,
+    "lemma": "بَدَأَ",
+    "meaning": "to begin",
+    "transliteration": "badaa",
+    "lemmaId": 709
+  },
+  {
+    "id": 732,
+    "lemma": "بَدَل",
+    "meaning": "substitute",
+    "transliteration": "badal",
+    "lemmaId": 3064
+  },
+  {
+    "id": 733,
+    "lemma": "بَدَن",
+    "meaning": "body",
+    "transliteration": "badan",
+    "lemmaId": 3065
+  },
+  {
+    "id": 734,
+    "lemma": "بَدِيع",
+    "meaning": "Originator",
+    "transliteration": "badīʿ",
+    "lemmaId": 2207
+  },
+  {
+    "id": 735,
+    "lemma": "بَدَّلَ",
+    "meaning": "to change, to replace",
+    "transliteration": "baddala",
+    "lemmaId": 444
+  },
+  {
+    "id": 736,
+    "lemma": "بَدْر",
+    "meaning": "Badr",
+    "transliteration": "badr",
+    "lemmaId": 3066
+  },
+  {
+    "id": 737,
+    "lemma": "بَدْو",
+    "meaning": "bedouin life",
+    "transliteration": "badwu",
+    "lemmaId": 3067
+  },
+  {
+    "id": 738,
+    "lemma": "بَراء",
+    "meaning": "disassociation",
+    "transliteration": "barā",
+    "lemmaId": 3068
+  },
+  {
+    "id": 739,
+    "lemma": "بَراءَة",
+    "meaning": "disassociation",
+    "transliteration": "barāʾa",
+    "lemmaId": 2208
+  },
+  {
+    "id": 740,
+    "lemma": "بَرَد",
+    "meaning": "hail",
+    "transliteration": "barad",
+    "lemmaId": 3069
+  },
+  {
+    "id": 741,
+    "lemma": "بَرَزَ",
+    "meaning": "to come forth",
+    "transliteration": "baraza",
+    "lemmaId": 1277
+  },
+  {
+    "id": 742,
+    "lemma": "بَرَكَة",
+    "meaning": "blessings",
+    "transliteration": "barakata",
+    "lemmaId": 1748
+  },
+  {
+    "id": 743,
+    "lemma": "بَرِقَ",
+    "meaning": "stunned",
+    "transliteration": "bariqa",
+    "lemmaId": 3070
+  },
+  {
+    "id": 744,
+    "lemma": "بَرِيء",
+    "meaning": "innocent",
+    "transliteration": "barīʾ",
+    "lemmaId": 710
+  },
+  {
+    "id": 745,
+    "lemma": "بَرِيَّة",
+    "meaning": "creatures",
+    "transliteration": "bariyya",
+    "lemmaId": 2209
+  },
+  {
+    "id": 746,
+    "lemma": "بَرّ",
+    "meaning": "righteous, devoted, land",
+    "transliteration": "barr",
+    "lemmaId": 457
+  },
+  {
+    "id": 747,
+    "lemma": "بَرَّأَ",
+    "meaning": "to exonerate",
+    "transliteration": "barra'a",
+    "lemmaId": 2210
+  },
+  {
+    "id": 748,
+    "lemma": "بَرْد",
+    "meaning": "coolness",
+    "transliteration": "bard",
+    "lemmaId": 2211
+  },
+  {
+    "id": 749,
+    "lemma": "بَرْزَخ",
+    "meaning": "Barzakh",
+    "transliteration": "barzakh",
+    "lemmaId": 1749
+  },
+  {
+    "id": 750,
+    "lemma": "بَرْق",
+    "meaning": "lightning",
+    "transliteration": "barq",
+    "lemmaId": 1278
+  },
+  {
+    "id": 751,
+    "lemma": "بَسَرَ",
+    "meaning": "to grimace",
+    "transliteration": "basara",
+    "lemmaId": 3071
+  },
+  {
+    "id": 752,
+    "lemma": "بَسَطَ",
+    "meaning": "to extend, to spread",
+    "transliteration": "bas-ṭa",
+    "lemmaId": 583
+  },
+  {
+    "id": 753,
+    "lemma": "بَسّ",
+    "meaning": "intense crushing",
+    "transliteration": "bass",
+    "lemmaId": 3072
+  },
+  {
+    "id": 754,
+    "lemma": "بَسْط",
+    "meaning": "extension",
+    "transliteration": "basṭ",
+    "lemmaId": 3073
+  },
+  {
+    "id": 755,
+    "lemma": "بَشَر",
+    "meaning": "human beings",
+    "transliteration": "bašar",
+    "lemmaId": 308
+  },
+  {
+    "id": 756,
+    "lemma": "بَشِير",
+    "meaning": "source of good news",
+    "transliteration": "bashīr",
+    "lemmaId": 877
+  },
+  {
+    "id": 757,
+    "lemma": "بَصطَة",
+    "meaning": "abundantly",
+    "transliteration": "baṣṭa",
+    "lemmaId": 2212
+  },
+  {
+    "id": 758,
+    "lemma": "بَصَر",
+    "meaning": "sight, insight, eyes",
+    "transliteration": "baṣar",
+    "lemmaId": 243
+  },
+  {
+    "id": 759,
+    "lemma": "بَصَل",
+    "meaning": "onions",
+    "transliteration": "baṣal",
+    "lemmaId": 3074
+  },
+  {
+    "id": 760,
+    "lemma": "بَصُرَتْ",
+    "meaning": "to observe",
+    "transliteration": "baṣurat",
+    "lemmaId": 1750
+  },
+  {
+    "id": 761,
+    "lemma": "بَصِير",
+    "meaning": "All-Seeing, seeing",
+    "transliteration": "baṣīr",
+    "lemmaId": 228
+  },
+  {
+    "id": 762,
+    "lemma": "بَصِيرَة",
+    "meaning": "clear insight, witness",
+    "transliteration": "baṣīra",
+    "lemmaId": 1035
+  },
+  {
+    "id": 763,
+    "lemma": "بَطَر",
+    "meaning": "arrogantly",
+    "transliteration": "baṭar",
+    "lemmaId": 3075
+  },
+  {
+    "id": 764,
+    "lemma": "بَطَشْ",
+    "meaning": "to seize, to strike",
+    "transliteration": "baṭaš",
+    "lemmaId": 1279
+  },
+  {
+    "id": 765,
+    "lemma": "بَطَلَ",
+    "meaning": "to be futile",
+    "transliteration": "baṭala",
+    "lemmaId": 3076
+  },
+  {
+    "id": 766,
+    "lemma": "بَطَنَ",
+    "meaning": "to be concealed",
+    "transliteration": "baṭana",
+    "lemmaId": 2213
+  },
+  {
+    "id": 767,
+    "lemma": "بَطِرَتْ",
+    "meaning": "to be arrogant",
+    "transliteration": "baṭirat",
+    "lemmaId": 3077
+  },
+  {
+    "id": 768,
+    "lemma": "بَطْش",
+    "meaning": "overwhelming force",
+    "transliteration": "baṭsh",
+    "lemmaId": 1751
+  },
+  {
+    "id": 769,
+    "lemma": "بَطْشَة",
+    "meaning": "seizure",
+    "transliteration": "baṭshata",
+    "lemmaId": 2214
+  },
+  {
+    "id": 770,
+    "lemma": "بَطْن",
+    "meaning": "belly",
+    "transliteration": "baṭn",
+    "lemmaId": 556
+  },
+  {
+    "id": 771,
+    "lemma": "بَعَثَ",
+    "meaning": "to send, to resurrect",
+    "transliteration": "baʿatha",
+    "lemmaId": 223
+  },
+  {
+    "id": 772,
+    "lemma": "بَعُدَتْ",
+    "meaning": "to become distant, far removed",
+    "transliteration": "baʿudat",
+    "lemmaId": 2215
+  },
+  {
+    "id": 773,
+    "lemma": "بَعُوضَة",
+    "meaning": "mosquito",
+    "transliteration": "baʿūḍata",
+    "lemmaId": 3078
+  },
+  {
+    "id": 774,
+    "lemma": "بَعِيد",
+    "meaning": "distant, far off",
+    "transliteration": "baʿīd",
+    "lemmaId": 419
+  },
+  {
+    "id": 775,
+    "lemma": "بَعْث",
+    "meaning": "resurrection",
+    "transliteration": "baʿth",
+    "lemmaId": 1484
+  },
+  {
+    "id": 776,
+    "lemma": "بَعْد",
+    "meaning": "after, thereafter, following, afterwards, after what",
+    "transliteration": "baʿd",
+    "lemmaId": 64
+  },
+  {
+    "id": 777,
+    "lemma": "بَعْض",
+    "meaning": "some, a part of",
+    "transliteration": "baʿḍ",
+    "lemmaId": 77
+  },
+  {
+    "id": 778,
+    "lemma": "بَعْل",
+    "meaning": "husband, husbands, Ba'l",
+    "transliteration": "baʿl",
+    "lemmaId": 1036
+  },
+  {
+    "id": 779,
+    "lemma": "بَغَى",
+    "meaning": "to seek, to desire, to exceed limits",
+    "transliteration": "baghā",
+    "lemmaId": 420
+  },
+  {
+    "id": 780,
+    "lemma": "بَغِيّ",
+    "meaning": "unchaste",
+    "transliteration": "baghiyy",
+    "lemmaId": 2217
+  },
+  {
+    "id": 781,
+    "lemma": "بَغْتَة",
+    "meaning": "suddenly",
+    "transliteration": "bag'ata",
+    "lemmaId": 668
+  },
+  {
+    "id": 782,
+    "lemma": "بَغْضاء",
+    "meaning": "intense hatred",
+    "transliteration": "baḡḍāʾ",
+    "lemmaId": 1280
+  },
+  {
+    "id": 783,
+    "lemma": "بَغْي",
+    "meaning": "exceeding limits, desire to exceed limits",
+    "transliteration": "baghyan",
+    "lemmaId": 755
+  },
+  {
+    "id": 784,
+    "lemma": "بَقَر",
+    "meaning": "cow, cattle",
+    "transliteration": "baqar",
+    "lemmaId": 1752
+  },
+  {
+    "id": 785,
+    "lemma": "بَقَرَة",
+    "meaning": "cow",
+    "transliteration": "baqarata",
+    "lemmaId": 1137
+  },
+  {
+    "id": 786,
+    "lemma": "بَقِيَ",
+    "meaning": "to remain, to make remain",
+    "transliteration": "baqiya",
+    "lemmaId": 1753
+  },
+  {
+    "id": 787,
+    "lemma": "بَقِيَّت",
+    "meaning": "remainder",
+    "transliteration": "baqiyyat",
+    "lemmaId": 1754
+  },
+  {
+    "id": 788,
+    "lemma": "بَقْل",
+    "meaning": "greens",
+    "transliteration": "baql",
+    "lemmaId": 3079
+  },
+  {
+    "id": 789,
+    "lemma": "بَكَتْ",
+    "meaning": "to weep",
+    "transliteration": "bakat",
+    "lemmaId": 1281
+  },
+  {
+    "id": 790,
+    "lemma": "بَكَّة",
+    "meaning": "Bakkah",
+    "transliteration": "bakkata",
+    "lemmaId": 3080
+  },
+  {
+    "id": 791,
+    "lemma": "بَلاء",
+    "meaning": "trial",
+    "transliteration": "balā",
+    "lemmaId": 1138
+  },
+  {
+    "id": 792,
+    "lemma": "بَلاغ",
+    "meaning": "complete message",
+    "transliteration": "balāgh",
+    "lemmaId": 608
+  },
+  {
+    "id": 793,
+    "lemma": "بَلَد",
+    "meaning": "land, lands, city",
+    "transliteration": "balada",
+    "lemmaId": 640
+  },
+  {
+    "id": 794,
+    "lemma": "بَلَغَ",
+    "meaning": "to reach",
+    "transliteration": "balagha",
+    "lemmaId": 286
+  },
+  {
+    "id": 795,
+    "lemma": "بَلَوْ",
+    "meaning": "to test",
+    "transliteration": "balaw",
+    "lemmaId": 497
+  },
+  {
+    "id": 796,
+    "lemma": "بَلِيغ",
+    "meaning": "effective",
+    "transliteration": "balīgh",
+    "lemmaId": 3081
+  },
+  {
+    "id": 797,
+    "lemma": "بَلَّغْ",
+    "meaning": "to convey",
+    "transliteration": "ballagh",
+    "lemmaId": 1139
+  },
+  {
+    "id": 798,
+    "lemma": "بَلْدَة",
+    "meaning": "land, city",
+    "transliteration": "baldata",
+    "lemmaId": 1282
+  },
+  {
+    "id": 799,
+    "lemma": "بَنان",
+    "meaning": "fingertips",
+    "transliteration": "banān",
+    "lemmaId": 2218
+  },
+  {
+    "id": 800,
+    "lemma": "بَنَى",
+    "meaning": "to build",
+    "transliteration": "banā",
+    "lemmaId": 756
+  },
+  {
+    "id": 801,
+    "lemma": "بَنّاء",
+    "meaning": "builder",
+    "transliteration": "banāʾ",
+    "lemmaId": 3082
+  },
+  {
+    "id": 802,
+    "lemma": "بَهِيج",
+    "meaning": "radiantly beautiful",
+    "transliteration": "bahīj",
+    "lemmaId": 2219
+  },
+  {
+    "id": 803,
+    "lemma": "بَهِيمَة",
+    "meaning": "animals",
+    "transliteration": "bahīmatun",
+    "lemmaId": 1755
+  },
+  {
+    "id": 804,
+    "lemma": "بَهْجَة",
+    "meaning": "radiant beauty",
+    "transliteration": "bahjata",
+    "lemmaId": 3083
+  },
+  {
+    "id": 805,
+    "lemma": "بَوار",
+    "meaning": "complete ruin",
+    "transliteration": "bāwār",
+    "lemmaId": 3084
+  },
+  {
+    "id": 806,
+    "lemma": "بَوَّأَ",
+    "meaning": "to settle",
+    "transliteration": "bawwa'a",
+    "lemmaId": 1140
+  },
+  {
+    "id": 807,
+    "lemma": "بَيات",
+    "meaning": "sudden attack by night",
+    "transliteration": "bayāt",
+    "lemmaId": 1756
+  },
+  {
+    "id": 808,
+    "lemma": "بَيان",
+    "meaning": "explanation, declaration, speech",
+    "transliteration": "bayān",
+    "lemmaId": 1757
+  },
+  {
+    "id": 809,
+    "lemma": "بَيَّتَ",
+    "meaning": "to plan by night, to ambush by night",
+    "transliteration": "bayyata",
+    "lemmaId": 1485
+  },
+  {
+    "id": 810,
+    "lemma": "بَيَّنُ",
+    "meaning": "to clarify",
+    "transliteration": "bayyanu",
+    "lemmaId": 327
+  },
+  {
+    "id": 811,
+    "lemma": "بَيِّن",
+    "meaning": "clear",
+    "transliteration": "bayyina",
+    "lemmaId": 3085
+  },
+  {
+    "id": 812,
+    "lemma": "بَيِّنَة",
+    "meaning": "clear sign, clear proof",
+    "transliteration": "bayyinata",
+    "lemmaId": 169
+  },
+  {
+    "id": 813,
+    "lemma": "بَيْت",
+    "meaning": "house, House",
+    "transliteration": "bayt",
+    "lemmaId": 178
+  },
+  {
+    "id": 814,
+    "lemma": "بَيْض",
+    "meaning": "eggs",
+    "transliteration": "bayḍ",
+    "lemmaId": 3086
+  },
+  {
+    "id": 815,
+    "lemma": "بَيْع",
+    "meaning": "sale, trade",
+    "transliteration": "bayʿ",
+    "lemmaId": 1037
+  },
+  {
+    "id": 816,
+    "lemma": "بَيْن",
+    "meaning": "between, among, before, in front of, ahead of",
+    "transliteration": "bayna",
+    "lemmaId": 53
+  },
+  {
+    "id": 817,
+    "lemma": "بُخْل",
+    "meaning": "stinginess",
+    "transliteration": "bukhl",
+    "lemmaId": 2220
+  },
+  {
+    "id": 818,
+    "lemma": "بُرُوج",
+    "meaning": "constellations, towers, fortresses",
+    "transliteration": "burūj",
+    "lemmaId": 1486
+  },
+  {
+    "id": 819,
+    "lemma": "بُرِّزَتِ",
+    "meaning": "to be made manifest",
+    "transliteration": "burrizati",
+    "lemmaId": 2221
+  },
+  {
+    "id": 820,
+    "lemma": "بُرْهان",
+    "meaning": "clear evidence",
+    "transliteration": "burhān",
+    "lemmaId": 954
+  },
+  {
+    "id": 821,
+    "lemma": "بُسَّتِ",
+    "meaning": "to be crushed",
+    "transliteration": "bussati",
+    "lemmaId": 3088
+  },
+  {
+    "id": 822,
+    "lemma": "بُشِّرَ",
+    "meaning": "to be given good news",
+    "transliteration": "bushshira",
+    "lemmaId": 302
+  },
+  {
+    "id": 823,
+    "lemma": "بُشْر",
+    "meaning": "glad tidings",
+    "transliteration": "bušr",
+    "lemmaId": 1758
+  },
+  {
+    "id": 824,
+    "lemma": "بُشْرَى",
+    "meaning": "glad tidings",
+    "transliteration": "bush'rā",
+    "lemmaId": 609
+  },
+  {
+    "id": 825,
+    "lemma": "بُعْثِرَ",
+    "meaning": "to be overturned, to be exposed",
+    "transliteration": "buʿthira",
+    "lemmaId": 2222
+  },
+  {
+    "id": 826,
+    "lemma": "بُعْد",
+    "meaning": "the distance of, away with",
+    "transliteration": "buʿdi",
+    "lemmaId": 1038
+  },
+  {
+    "id": 827,
+    "lemma": "بُقْعَة",
+    "meaning": "spot",
+    "transliteration": "buqʿahtu",
+    "lemmaId": 3089
+  },
+  {
+    "id": 828,
+    "lemma": "بُكِيّ",
+    "meaning": "weeping",
+    "transliteration": "bukiyy",
+    "lemmaId": 3090
+  },
+  {
+    "id": 829,
+    "lemma": "بُكْرَة",
+    "meaning": "early morning",
+    "transliteration": "buk'ratun",
+    "lemmaId": 1039
+  },
+  {
+    "id": 830,
+    "lemma": "بُنَىّ",
+    "meaning": "dear son",
+    "transliteration": "bunayy",
+    "lemmaId": 141
+  },
+  {
+    "id": 831,
+    "lemma": "بُنْيان",
+    "meaning": "structure",
+    "transliteration": "bunyān",
+    "lemmaId": 1040
+  },
+  {
+    "id": 832,
+    "lemma": "بُهِتَ",
+    "meaning": "to be stunned",
+    "transliteration": "buhita",
+    "lemmaId": 2223
+  },
+  {
+    "id": 833,
+    "lemma": "بُهْتان",
+    "meaning": "slander",
+    "transliteration": "buh'tān",
+    "lemmaId": 1141
+  },
+  {
+    "id": 834,
+    "lemma": "بُور",
+    "meaning": "falling into ruin",
+    "transliteration": "būr",
+    "lemmaId": 2224
+  },
+  {
+    "id": 835,
+    "lemma": "بِئْر",
+    "meaning": "well",
+    "transliteration": "biʾr",
+    "lemmaId": 3091
+  },
+  {
+    "id": 836,
+    "lemma": "بِئْسَ",
+    "meaning": "how evil",
+    "transliteration": "bi'sa",
+    "lemmaId": 287
+  },
+  {
+    "id": 837,
+    "lemma": "بِدار",
+    "meaning": "haste",
+    "transliteration": "bidār",
+    "lemmaId": 3092
+  },
+  {
+    "id": 838,
+    "lemma": "بِدْع",
+    "meaning": "unprecedented",
+    "transliteration": "bidʿ",
+    "lemmaId": 3093
+  },
+  {
+    "id": 839,
+    "lemma": "بِرّ",
+    "meaning": "righteousness, righteous",
+    "transliteration": "birr",
+    "lemmaId": 955
+  },
+  {
+    "id": 840,
+    "lemma": "بِساط",
+    "meaning": "spread",
+    "transliteration": "bisāṭ",
+    "lemmaId": 3094
+  },
+  {
+    "id": 841,
+    "lemma": "بِضاعَة",
+    "meaning": "simple goods",
+    "transliteration": "biḍāʿa",
+    "lemmaId": 1283
+  },
+  {
+    "id": 842,
+    "lemma": "بِضْع",
+    "meaning": "few, several",
+    "transliteration": "biḍʿ",
+    "lemmaId": 2225
+  },
+  {
+    "id": 843,
+    "lemma": "بِطانَة",
+    "meaning": "lining, close confidants",
+    "transliteration": "biṭānata",
+    "lemmaId": 2226
+  },
+  {
+    "id": 844,
+    "lemma": "بِغاء",
+    "meaning": "prostitution",
+    "transliteration": "bighā",
+    "lemmaId": 3095
+  },
+  {
+    "id": 845,
+    "lemma": "بِغال",
+    "meaning": "mules",
+    "transliteration": "bighāl",
+    "lemmaId": 3096
+  },
+  {
+    "id": 846,
+    "lemma": "بِكْر",
+    "meaning": "virgin, young",
+    "transliteration": "bikr",
+    "lemmaId": 1759
+  },
+  {
+    "id": 847,
+    "lemma": "بِناء",
+    "meaning": "ceiling",
+    "transliteration": "binā",
+    "lemmaId": 2227
+  },
+  {
+    "id": 848,
+    "lemma": "بِنْت",
+    "meaning": "daughter",
+    "transliteration": "bin't",
+    "lemmaId": 557
+  },
+  {
+    "id": 849,
+    "lemma": "بِيَع",
+    "meaning": "churches",
+    "transliteration": "bīyaʿ",
+    "lemmaId": 3097
+  },
+  {
+    "id": 850,
+    "lemma": "ت",
+    "meaning": "by Allah",
+    "transliteration": "ta",
+    "lemmaId": 878
+  },
+  {
+    "id": 851,
+    "lemma": "تائِب",
+    "meaning": "ones who repent",
+    "transliteration": "tāib",
+    "lemmaId": 3098
+  },
+  {
+    "id": 852,
+    "lemma": "تائِبَة",
+    "meaning": "ones who repent",
+    "transliteration": "tāʾibata",
+    "lemmaId": 3099
+  },
+  {
+    "id": 853,
+    "lemma": "تابَ",
+    "meaning": "to repent, to accept repentance",
+    "transliteration": "tāba",
+    "lemmaId": 189
+  },
+  {
+    "id": 854,
+    "lemma": "تابِع",
+    "meaning": "follower, attendant",
+    "transliteration": "tābiʿ",
+    "lemmaId": 1760
+  },
+  {
+    "id": 855,
+    "lemma": "تارَة",
+    "meaning": "time",
+    "transliteration": "tārata",
+    "lemmaId": 2229
+  },
+  {
+    "id": 856,
+    "lemma": "تارِك",
+    "meaning": "one who leaves",
+    "transliteration": "tārik",
+    "lemmaId": 1761
+  },
+  {
+    "id": 857,
+    "lemma": "تالِيَة",
+    "meaning": "those who recite",
+    "transliteration": "tāliya",
+    "lemmaId": 3100
+  },
+  {
+    "id": 858,
+    "lemma": "تَأَخَّرَ",
+    "meaning": "to be delayed, to stay behind",
+    "transliteration": "taʾakhkhara",
+    "lemmaId": 1762
+  },
+  {
+    "id": 859,
+    "lemma": "تَأَذَّنَ",
+    "meaning": "to announce, to declare",
+    "transliteration": "taadhana",
+    "lemmaId": 2230
+  },
+  {
+    "id": 860,
+    "lemma": "تَأْثِيم",
+    "meaning": "actions leading to sin",
+    "transliteration": "ta'thīm",
+    "lemmaId": 2231
+  },
+  {
+    "id": 861,
+    "lemma": "تَأْجُرَ",
+    "meaning": "to hire",
+    "transliteration": "taʾjura",
+    "lemmaId": 3101
+  },
+  {
+    "id": 862,
+    "lemma": "تَأْسَ",
+    "meaning": "to grieve",
+    "transliteration": "ta'sa",
+    "lemmaId": 1487
+  },
+  {
+    "id": 863,
+    "lemma": "تَأْسِرُ",
+    "meaning": "to take captive",
+    "transliteration": "ta'siru",
+    "lemmaId": 3102
+  },
+  {
+    "id": 864,
+    "lemma": "تَأْوِيل",
+    "meaning": "interpretation, fulfillment",
+    "transliteration": "taʾwīl",
+    "lemmaId": 558
+  },
+  {
+    "id": 865,
+    "lemma": "تَؤُزُّ",
+    "meaning": "to incite",
+    "transliteration": "tauzzu",
+    "lemmaId": 3103
+  },
+  {
+    "id": 866,
+    "lemma": "تَباب",
+    "meaning": "ruin",
+    "transliteration": "tabāb",
+    "lemmaId": 3104
+  },
+  {
+    "id": 867,
+    "lemma": "تَبار",
+    "meaning": "destruction",
+    "transliteration": "tabār",
+    "lemmaId": 3105
+  },
+  {
+    "id": 868,
+    "lemma": "تَبارَكَ",
+    "meaning": "Exalted",
+    "transliteration": "tabāraka",
+    "lemmaId": 879
+  },
+  {
+    "id": 869,
+    "lemma": "تَبايَعْ",
+    "meaning": "to engage in mutual trade",
+    "transliteration": "tabāyaʿ",
+    "lemmaId": 3106
+  },
+  {
+    "id": 870,
+    "lemma": "تَبَتَّلْ",
+    "meaning": "to devote fully",
+    "transliteration": "tabattal",
+    "lemmaId": 3107
+  },
+  {
+    "id": 871,
+    "lemma": "تَبَرَّأَ",
+    "meaning": "to disassociate oneself",
+    "transliteration": "tabarrā",
+    "lemmaId": 1284
+  },
+  {
+    "id": 872,
+    "lemma": "تَبَرَّجْ",
+    "meaning": "to intentionally display adornment",
+    "transliteration": "tabarraj",
+    "lemmaId": 3108
+  },
+  {
+    "id": 873,
+    "lemma": "تَبَرُّج",
+    "meaning": "open display of adornment",
+    "transliteration": "tabarruj",
+    "lemmaId": 3109
+  },
+  {
+    "id": 874,
+    "lemma": "تَبَسَّمَ",
+    "meaning": "to smile gently",
+    "transliteration": "tabassama",
+    "lemmaId": 3110
+  },
+  {
+    "id": 875,
+    "lemma": "تَبَع",
+    "meaning": "followers",
+    "transliteration": "taba",
+    "lemmaId": 2233
+  },
+  {
+    "id": 876,
+    "lemma": "تَبَيَّنَ",
+    "meaning": "to become clear, to seek clarity",
+    "transliteration": "tabayyana",
+    "lemmaId": 532
+  },
+  {
+    "id": 877,
+    "lemma": "تَبِعَ",
+    "meaning": "to follow",
+    "transliteration": "tabiʿa",
+    "lemmaId": 880
+  },
+  {
+    "id": 878,
+    "lemma": "تَبِيدَ",
+    "meaning": "it perishes",
+    "transliteration": "tabīda",
+    "lemmaId": 3111
+  },
+  {
+    "id": 879,
+    "lemma": "تَبِيع",
+    "meaning": "pursuer",
+    "transliteration": "tabīʿ",
+    "lemmaId": 3112
+  },
+  {
+    "id": 880,
+    "lemma": "تَبَّ",
+    "meaning": "to be ruined",
+    "transliteration": "tabba",
+    "lemmaId": 2234
+  },
+  {
+    "id": 881,
+    "lemma": "تَبَّرْ",
+    "meaning": "to destroy",
+    "transliteration": "tabbar",
+    "lemmaId": 2235
+  },
+  {
+    "id": 882,
+    "lemma": "تَبْتَئِسْ",
+    "meaning": "to grieve",
+    "transliteration": "tabtais",
+    "lemmaId": 2236
+  },
+  {
+    "id": 883,
+    "lemma": "تَبْتِيل",
+    "meaning": "complete devotion",
+    "transliteration": "tabtīl",
+    "lemmaId": 3113
+  },
+  {
+    "id": 884,
+    "lemma": "تَبْدِيل",
+    "meaning": "change",
+    "transliteration": "tabdīl",
+    "lemmaId": 1041
+  },
+  {
+    "id": 885,
+    "lemma": "تَبْذِير",
+    "meaning": "wastefulness",
+    "transliteration": "tabḏīr",
+    "lemmaId": 3114
+  },
+  {
+    "id": 886,
+    "lemma": "تَبْصِرَة",
+    "meaning": "means of insight",
+    "transliteration": "tabṣirata",
+    "lemmaId": 3115
+  },
+  {
+    "id": 887,
+    "lemma": "تَتَجافَى",
+    "meaning": "to relinquish",
+    "transliteration": "tatajāfā",
+    "lemmaId": 3116
+  },
+  {
+    "id": 888,
+    "lemma": "تَتَقَلَّبُ",
+    "meaning": "to turn around",
+    "transliteration": "tatāqallabu",
+    "lemmaId": 3117
+  },
+  {
+    "id": 889,
+    "lemma": "تَتْبِيب",
+    "meaning": "to cause ruin",
+    "transliteration": "tatbīb",
+    "lemmaId": 3118
+  },
+  {
+    "id": 890,
+    "lemma": "تَتْبِير",
+    "meaning": "destruction",
+    "transliteration": "tatbīr",
+    "lemmaId": 2237
+  },
+  {
+    "id": 891,
+    "lemma": "تَتْرا",
+    "meaning": "succession",
+    "transliteration": "tatrā",
+    "lemmaId": 3119
+  },
+  {
+    "id": 892,
+    "lemma": "تَثْبِيت",
+    "meaning": "firmness",
+    "transliteration": "tathbīt",
+    "lemmaId": 2238
+  },
+  {
+    "id": 893,
+    "lemma": "تَثْرِيب",
+    "meaning": "blame",
+    "transliteration": "tathrīb",
+    "lemmaId": 3120
+  },
+  {
+    "id": 894,
+    "lemma": "تَجَسَّسُ",
+    "meaning": "to spy",
+    "transliteration": "tajassasu",
+    "lemmaId": 3121
+  },
+  {
+    "id": 895,
+    "lemma": "تَجَلَّى",
+    "meaning": "to manifest, to reveal oneself",
+    "transliteration": "tajallā",
+    "lemmaId": 2239
+  },
+  {
+    "id": 896,
+    "lemma": "تَجُوعَ",
+    "meaning": "to become hungry",
+    "transliteration": "tajūʿa",
+    "lemmaId": 3122
+  },
+  {
+    "id": 897,
+    "lemma": "تَحاضُّ",
+    "meaning": "to mutually urge",
+    "transliteration": "taḥāddu",
+    "lemmaId": 3123
+  },
+  {
+    "id": 898,
+    "lemma": "تَحَرَّ",
+    "meaning": "to seek earnestly",
+    "transliteration": "taḥarra",
+    "lemmaId": 3125
+  },
+  {
+    "id": 899,
+    "lemma": "تَحَسَّسُ",
+    "meaning": "to seek out",
+    "transliteration": "taḥassasu",
+    "lemmaId": 3126
+  },
+  {
+    "id": 900,
+    "lemma": "تَحَصُّن",
+    "meaning": "seeking self-restraint",
+    "transliteration": "taḥaṣṣun",
+    "lemmaId": 3127
+  },
+  {
+    "id": 901,
+    "lemma": "تَحُسُّ",
+    "meaning": "to destroy",
+    "transliteration": "taḥussu",
+    "lemmaId": 3128
+  },
+  {
+    "id": 902,
+    "lemma": "تَحِلَّة",
+    "meaning": "expiation",
+    "transliteration": "taḥillah",
+    "lemmaId": 3129
+  },
+  {
+    "id": 903,
+    "lemma": "تَحِيدُ",
+    "meaning": "to avoid",
+    "transliteration": "taḥīdu",
+    "lemmaId": 3130
+  },
+  {
+    "id": 904,
+    "lemma": "تَحِيَّة",
+    "meaning": "greeting",
+    "transliteration": "taḥiyya",
+    "lemmaId": 1142
+  },
+  {
+    "id": 905,
+    "lemma": "تَحْت",
+    "meaning": "under, below, beneath",
+    "transliteration": "taḥta",
+    "lemmaId": 229
+  },
+  {
+    "id": 906,
+    "lemma": "تَحْرُثُ",
+    "meaning": "to cultivate",
+    "transliteration": "taḥruthu",
+    "lemmaId": 3131
+  },
+  {
+    "id": 907,
+    "lemma": "تَحْرِير",
+    "meaning": "to free",
+    "transliteration": "taḥrīr",
+    "lemmaId": 1285
+  },
+  {
+    "id": 908,
+    "lemma": "تَحْلِقُ",
+    "meaning": "to shave",
+    "transliteration": "taḥliqur",
+    "lemmaId": 3132
+  },
+  {
+    "id": 909,
+    "lemma": "تَحْنَثْ",
+    "meaning": "to break an oath",
+    "transliteration": "taḥnath",
+    "lemmaId": 3133
+  },
+  {
+    "id": 910,
+    "lemma": "تَحْوِيل",
+    "meaning": "alteration",
+    "transliteration": "taḥwīl",
+    "lemmaId": 1763
+  },
+  {
+    "id": 911,
+    "lemma": "تَخاصُم",
+    "meaning": "mutual disputation",
+    "transliteration": "takhāṣum",
+    "lemmaId": 3134
+  },
+  {
+    "id": 912,
+    "lemma": "تَخَلَّتْ",
+    "meaning": "to become free of burdens",
+    "transliteration": "takhal-lat",
+    "lemmaId": 3135
+  },
+  {
+    "id": 913,
+    "lemma": "تَخَوُّف",
+    "meaning": "gradual diminishment",
+    "transliteration": "takhawwuf",
+    "lemmaId": 3136
+  },
+  {
+    "id": 914,
+    "lemma": "تَخُطُّ",
+    "meaning": "to inscribe",
+    "transliteration": "takhuṭṭu",
+    "lemmaId": 3137
+  },
+  {
+    "id": 915,
+    "lemma": "تَخْسِير",
+    "meaning": "causing loss",
+    "transliteration": "takhsīr",
+    "lemmaId": 3138
+  },
+  {
+    "id": 916,
+    "lemma": "تَخْضَعْ",
+    "meaning": "to be soft",
+    "transliteration": "takhḍaʿ",
+    "lemmaId": 3139
+  },
+  {
+    "id": 917,
+    "lemma": "تَخْفِيف",
+    "meaning": "alleviation",
+    "transliteration": "takhfīf",
+    "lemmaId": 3140
+  },
+  {
+    "id": 918,
+    "lemma": "تَخْوِيف",
+    "meaning": "warning",
+    "transliteration": "takhwīf",
+    "lemmaId": 3141
+  },
+  {
+    "id": 919,
+    "lemma": "تَدايَن",
+    "meaning": "to lend one another",
+    "transliteration": "tadāyan",
+    "lemmaId": 3142
+  },
+  {
+    "id": 920,
+    "lemma": "تَدَلَّى",
+    "meaning": "to come down gradually",
+    "transliteration": "tadal-lā",
+    "lemmaId": 3143
+  },
+  {
+    "id": 921,
+    "lemma": "تَدُورُ",
+    "meaning": "to revolve",
+    "transliteration": "tadūru",
+    "lemmaId": 3144
+  },
+  {
+    "id": 922,
+    "lemma": "تَدَّخِرُ",
+    "meaning": "to store",
+    "transliteration": "tadakhiru",
+    "lemmaId": 3145
+  },
+  {
+    "id": 923,
+    "lemma": "تَدْرِي",
+    "meaning": "to know",
+    "transliteration": "tadrī",
+    "lemmaId": 711
+  },
+  {
+    "id": 924,
+    "lemma": "تَدْمِير",
+    "meaning": "destruction",
+    "transliteration": "tadmīr",
+    "lemmaId": 2240
+  },
+  {
+    "id": 925,
+    "lemma": "تَذَكَّرَ",
+    "meaning": "to remember, to reflect, to be reminded",
+    "transliteration": "tadhakara",
+    "lemmaId": 230
+  },
+  {
+    "id": 926,
+    "lemma": "تَذُودَ",
+    "meaning": "to keep back",
+    "transliteration": "tadhūda",
+    "lemmaId": 3146
+  },
+  {
+    "id": 927,
+    "lemma": "تَذْرُو",
+    "meaning": "to scatter",
+    "transliteration": "tadh'rū",
+    "lemmaId": 3147
+  },
+  {
+    "id": 928,
+    "lemma": "تَذْكِرَة",
+    "meaning": "reminder",
+    "transliteration": "tadhkirata",
+    "lemmaId": 881
+  },
+  {
+    "id": 929,
+    "lemma": "تَذْكِير",
+    "meaning": "reminding",
+    "transliteration": "tadhkīr",
+    "lemmaId": 3148
+  },
+  {
+    "id": 930,
+    "lemma": "تَذْلِيل",
+    "meaning": "to dangle, to hang low",
+    "transliteration": "tadh'līl",
+    "lemmaId": 3149
+  },
+  {
+    "id": 931,
+    "lemma": "تَذْهَلُ",
+    "meaning": "to forget",
+    "transliteration": "tadhhalu",
+    "lemmaId": 3150
+  },
+  {
+    "id": 932,
+    "lemma": "تَراءَتِ",
+    "meaning": "to see each other",
+    "transliteration": "tarāati",
+    "lemmaId": 2241
+  },
+  {
+    "id": 933,
+    "lemma": "تَرائِب",
+    "meaning": "upper chest",
+    "transliteration": "tarāib",
+    "lemmaId": 3151
+  },
+  {
+    "id": 934,
+    "lemma": "تَراض",
+    "meaning": "mutual consent",
+    "transliteration": "tarāḍ",
+    "lemmaId": 2242
+  },
+  {
+    "id": 935,
+    "lemma": "تَراضَ",
+    "meaning": "to mutually agree",
+    "transliteration": "tarāḍ",
+    "lemmaId": 2243
+  },
+  {
+    "id": 936,
+    "lemma": "تَراقِي",
+    "meaning": "collarbones",
+    "transliteration": "tarāqī",
+    "lemmaId": 3152
+  },
+  {
+    "id": 937,
+    "lemma": "تَرَبَّصْ",
+    "meaning": "wait",
+    "transliteration": "tarabbash",
+    "lemmaId": 669
+  },
+  {
+    "id": 938,
+    "lemma": "تَرَبُّص",
+    "meaning": "waiting",
+    "transliteration": "tarabbuṣ",
+    "lemmaId": 3153
+  },
+  {
+    "id": 939,
+    "lemma": "تَرَدَّى",
+    "meaning": "to fall",
+    "transliteration": "taraddā",
+    "lemmaId": 3154
+  },
+  {
+    "id": 940,
+    "lemma": "تَرَكَ",
+    "meaning": "to leave",
+    "transliteration": "taraka",
+    "lemmaId": 288
+  },
+  {
+    "id": 941,
+    "lemma": "تَرْتِيل",
+    "meaning": "measured recitation",
+    "transliteration": "tar'tīl",
+    "lemmaId": 2244
+  },
+  {
+    "id": 942,
+    "lemma": "تَرْجُفُ",
+    "meaning": "to quake",
+    "transliteration": "tarjufu",
+    "lemmaId": 2245
+  },
+  {
+    "id": 943,
+    "lemma": "تَرْدَى",
+    "meaning": "to perish",
+    "transliteration": "tardā",
+    "lemmaId": 3155
+  },
+  {
+    "id": 944,
+    "lemma": "تَرْقَى",
+    "meaning": "to ascend",
+    "transliteration": "tarqā",
+    "lemmaId": 3156
+  },
+  {
+    "id": 945,
+    "lemma": "تَرْكَنُ",
+    "meaning": "to lean toward",
+    "transliteration": "tarkanu",
+    "lemmaId": 2246
+  },
+  {
+    "id": 946,
+    "lemma": "تَزاوَرُ",
+    "meaning": "to incline away",
+    "transliteration": "tazāwaru",
+    "lemmaId": 3157
+  },
+  {
+    "id": 947,
+    "lemma": "تَزَكَّى",
+    "meaning": "to purify oneself",
+    "transliteration": "tazakkā",
+    "lemmaId": 956
+  },
+  {
+    "id": 948,
+    "lemma": "تَزَوَّدُ",
+    "meaning": "to take provisions",
+    "transliteration": "tazawwadu",
+    "lemmaId": 3158
+  },
+  {
+    "id": 949,
+    "lemma": "تَزَيَّلُ",
+    "meaning": "to be apart",
+    "transliteration": "tazayyalu",
+    "lemmaId": 3159
+  },
+  {
+    "id": 950,
+    "lemma": "تَزْدَرِي",
+    "meaning": "to look down upon",
+    "transliteration": "tazdarī",
+    "lemmaId": 3160
+  },
+  {
+    "id": 951,
+    "lemma": "تَزْرَعُ",
+    "meaning": "to plant, to sow",
+    "transliteration": "taz'raʿu",
+    "lemmaId": 2247
+  },
+  {
+    "id": 952,
+    "lemma": "تَسَوَّرُ",
+    "meaning": "to climb over a barrier",
+    "transliteration": "tasawwaru",
+    "lemmaId": 3161
+  },
+  {
+    "id": 953,
+    "lemma": "تَسُرُّ",
+    "meaning": "to please",
+    "transliteration": "tasurru",
+    "lemmaId": 3162
+  },
+  {
+    "id": 954,
+    "lemma": "تَسْبِيح",
+    "meaning": "glorification",
+    "transliteration": "tasbīḥ",
+    "lemmaId": 2248
+  },
+  {
+    "id": 955,
+    "lemma": "تَسْتَأْنِسُ",
+    "meaning": "make oneself known",
+    "transliteration": "tastanisu",
+    "lemmaId": 3163
+  },
+  {
+    "id": 956,
+    "lemma": "تَسْتَبِينَ",
+    "meaning": "to become clear",
+    "transliteration": "tastabīna",
+    "lemmaId": 3164
+  },
+  {
+    "id": 957,
+    "lemma": "تَسْتَتِرُ",
+    "meaning": "to cover",
+    "transliteration": "tastatiru",
+    "lemmaId": 3165
+  },
+  {
+    "id": 958,
+    "lemma": "تَسْتَرْضِعُ",
+    "meaning": "to suckle",
+    "transliteration": "tastarḍiʿu",
+    "lemmaId": 3166
+  },
+  {
+    "id": 959,
+    "lemma": "تَسْتَقْسِمُ",
+    "meaning": "to seek division",
+    "transliteration": "tastaqsimu",
+    "lemmaId": 3167
+  },
+  {
+    "id": 960,
+    "lemma": "تَسْرَحُ",
+    "meaning": "to take out",
+    "transliteration": "tasraḥu",
+    "lemmaId": 3168
+  },
+  {
+    "id": 961,
+    "lemma": "تَسْرِيح",
+    "meaning": "to release",
+    "transliteration": "tasrīḥ",
+    "lemmaId": 3169
+  },
+  {
+    "id": 962,
+    "lemma": "تَسْلِيم",
+    "meaning": "submission, salutations",
+    "transliteration": "taslīm",
+    "lemmaId": 1764
+  },
+  {
+    "id": 963,
+    "lemma": "تَسْمِيَة",
+    "meaning": "name",
+    "transliteration": "tasmiyata",
+    "lemmaId": 3170
+  },
+  {
+    "id": 964,
+    "lemma": "تَسْنِيم",
+    "meaning": "Tasneem",
+    "transliteration": "tasnīm",
+    "lemmaId": 3171
+  },
+  {
+    "id": 965,
+    "lemma": "تَشابَهَ",
+    "meaning": "to look alike, to seem alike",
+    "transliteration": "tashābaha",
+    "lemmaId": 1488
+  },
+  {
+    "id": 966,
+    "lemma": "تَشاوُر",
+    "meaning": "mutual consultation",
+    "transliteration": "tashāwur",
+    "lemmaId": 3172
+  },
+  {
+    "id": 967,
+    "lemma": "تَشِيعَ",
+    "meaning": "to spread",
+    "transliteration": "tashīʿa",
+    "lemmaId": 3173
+  },
+  {
+    "id": 968,
+    "lemma": "تَشْتَكِي",
+    "meaning": "to complain",
+    "transliteration": "tashtakī",
+    "lemmaId": 3174
+  },
+  {
+    "id": 969,
+    "lemma": "تَشْخَصُ",
+    "meaning": "to stare",
+    "transliteration": "tashkhaṣu",
+    "lemmaId": 3175
+  },
+  {
+    "id": 970,
+    "lemma": "تَصَدَّقَ",
+    "meaning": "to give charity",
+    "transliteration": "taṣaddaqa",
+    "lemmaId": 1143
+  },
+  {
+    "id": 971,
+    "lemma": "تَصَدَّى",
+    "meaning": "to give attention",
+    "transliteration": "taṣaddā",
+    "lemmaId": 3176
+  },
+  {
+    "id": 972,
+    "lemma": "تَصِيرُ",
+    "meaning": "to reach",
+    "transliteration": "taṣīru",
+    "lemmaId": 3177
+  },
+  {
+    "id": 973,
+    "lemma": "تَصْدِيق",
+    "meaning": "confirmation",
+    "transliteration": "taṣdīq",
+    "lemmaId": 2249
+  },
+  {
+    "id": 974,
+    "lemma": "تَصْدِيَة",
+    "meaning": "to clap",
+    "transliteration": "taṣdiyata",
+    "lemmaId": 3178
+  },
+  {
+    "id": 975,
+    "lemma": "تَصْرِيف",
+    "meaning": "to direct",
+    "transliteration": "taṣrīf",
+    "lemmaId": 2250
+  },
+  {
+    "id": 976,
+    "lemma": "تَصْطَلُ",
+    "meaning": "to warm",
+    "transliteration": "taṣṭalu",
+    "lemmaId": 2251
+  },
+  {
+    "id": 977,
+    "lemma": "تَصْلِيَة",
+    "meaning": "burning",
+    "transliteration": "taṣlīyah",
+    "lemmaId": 3179
+  },
+  {
+    "id": 978,
+    "lemma": "تَضَرَّعُ",
+    "meaning": "to humble oneself",
+    "transliteration": "taḍarruʿu",
+    "lemmaId": 3180
+  },
+  {
+    "id": 979,
+    "lemma": "تَضَرُّع",
+    "meaning": "in humility",
+    "transliteration": "taḍarruʿ",
+    "lemmaId": 1765
+  },
+  {
+    "id": 980,
+    "lemma": "تَضْحَى",
+    "meaning": "to be exposed to the sun's heat",
+    "transliteration": "taḍḥā",
+    "lemmaId": 3181
+  },
+  {
+    "id": 981,
+    "lemma": "تَضْلِيل",
+    "meaning": "to lead astray",
+    "transliteration": "taḍlīl",
+    "lemmaId": 3182
+  },
+  {
+    "id": 982,
+    "lemma": "تَطاوَلَ",
+    "meaning": "to prolong",
+    "transliteration": "taṭāwala",
+    "lemmaId": 3183
+  },
+  {
+    "id": 983,
+    "lemma": "تَطَهَّرْ",
+    "meaning": "to purify",
+    "transliteration": "taṭahhar",
+    "lemmaId": 1286
+  },
+  {
+    "id": 984,
+    "lemma": "تَطَوَّعَ",
+    "meaning": "to volunteer",
+    "transliteration": "taṭawwaʿa",
+    "lemmaId": 2252
+  },
+  {
+    "id": 985,
+    "lemma": "تَطْهِير",
+    "meaning": "purification",
+    "transliteration": "taṭhīr",
+    "lemmaId": 3184
+  },
+  {
+    "id": 986,
+    "lemma": "تَظْمَؤُا۟",
+    "meaning": "to suffer from thirst",
+    "transliteration": "taẓmāu",
+    "lemmaId": 3185
+  },
+  {
+    "id": 987,
+    "lemma": "تَعاسَرْ",
+    "meaning": "to find difficulty with one another",
+    "transliteration": "taʿāsar",
+    "lemmaId": 3186
+  },
+  {
+    "id": 988,
+    "lemma": "تَعاطَى",
+    "meaning": "to take upon oneself",
+    "transliteration": "taʿāṭā",
+    "lemmaId": 3187
+  },
+  {
+    "id": 989,
+    "lemma": "تَعالَ",
+    "meaning": "to come",
+    "transliteration": "taʿāl",
+    "lemmaId": 957
+  },
+  {
+    "id": 990,
+    "lemma": "تَعالَى",
+    "meaning": "to be exalted, to be high",
+    "transliteration": "taʿālā",
+    "lemmaId": 641
+  },
+  {
+    "id": 991,
+    "lemma": "تَعاوَنُ",
+    "meaning": "to help one another",
+    "transliteration": "taʿāwanu",
+    "lemmaId": 2254
+  },
+  {
+    "id": 992,
+    "lemma": "تَعَجَّلَ",
+    "meaning": "to hasten oneself, to act prematurely",
+    "transliteration": "taʿajjala",
+    "lemmaId": 3188
+  },
+  {
+    "id": 993,
+    "lemma": "تَعَفُّف",
+    "meaning": "restraint",
+    "transliteration": "taʿaffuf",
+    "lemmaId": 3189
+  },
+  {
+    "id": 994,
+    "lemma": "تَعَمَّدَتْ",
+    "meaning": "to intend",
+    "transliteration": "taʿammadat",
+    "lemmaId": 3190
+  },
+  {
+    "id": 995,
+    "lemma": "تَعُولُ",
+    "meaning": "to oppress",
+    "transliteration": "taʿūlu",
+    "lemmaId": 3191
+  },
+  {
+    "id": 996,
+    "lemma": "تَعِيَ",
+    "meaning": "to retain",
+    "transliteration": "taʿiya",
+    "lemmaId": 3192
+  },
+  {
+    "id": 997,
+    "lemma": "تَعْبَثُ",
+    "meaning": "to be amused",
+    "transliteration": "taʿbathu",
+    "lemmaId": 3193
+  },
+  {
+    "id": 998,
+    "lemma": "تَعْبُرُ",
+    "meaning": "to interpret",
+    "transliteration": "taʿburu",
+    "lemmaId": 3194
+  },
+  {
+    "id": 999,
+    "lemma": "تَعْتَدُّ",
+    "meaning": "to count",
+    "transliteration": "taʿtaddu",
+    "lemmaId": 3195
+  },
+  {
+    "id": 1000,
+    "lemma": "تَعْثَ",
+    "meaning": "to act wickedly, to commit evil",
+    "transliteration": "taʿtha",
+    "lemmaId": 1287
+  },
+  {
+    "id": 1001,
+    "lemma": "تَعْرَى",
+    "meaning": "to unclothe",
+    "transliteration": "taʿrā",
+    "lemmaId": 3196
+  },
+  {
+    "id": 1002,
+    "lemma": "تَعْس",
+    "meaning": "downfall",
+    "transliteration": "taʿs",
+    "lemmaId": 3197
+  },
+  {
+    "id": 1003,
+    "lemma": "تَغابُن",
+    "meaning": "mutual loss and gain",
+    "transliteration": "taghābun",
+    "lemmaId": 3198
+  },
+  {
+    "id": 1004,
+    "lemma": "تَغَشَّى",
+    "meaning": "to cover",
+    "transliteration": "taghashā",
+    "lemmaId": 3199
+  },
+  {
+    "id": 1005,
+    "lemma": "تَغَيُّظ",
+    "meaning": "to become enraged",
+    "transliteration": "taghayyuẓ",
+    "lemmaId": 3200
+  },
+  {
+    "id": 1006,
+    "lemma": "تَغْتَسِلُ",
+    "meaning": "to bathe",
+    "transliteration": "taghtasil",
+    "lemmaId": 3201
+  },
+  {
+    "id": 1007,
+    "lemma": "تَغْفُلُ",
+    "meaning": "to neglect",
+    "transliteration": "taghfulu",
+    "lemmaId": 3202
+  },
+  {
+    "id": 1008,
+    "lemma": "تَغْلُو",
+    "meaning": "to exceed",
+    "transliteration": "taghlū",
+    "lemmaId": 2256
+  },
+  {
+    "id": 1009,
+    "lemma": "تَفاخُر",
+    "meaning": "to boast",
+    "transliteration": "tafākhur",
+    "lemmaId": 3203
+  },
+  {
+    "id": 1010,
+    "lemma": "تَفاوُت",
+    "meaning": "fault",
+    "transliteration": "tafāwut",
+    "lemmaId": 3204
+  },
+  {
+    "id": 1011,
+    "lemma": "تَفَث",
+    "meaning": "untidiness",
+    "transliteration": "tafath",
+    "lemmaId": 3205
+  },
+  {
+    "id": 1012,
+    "lemma": "تَفَرَّقَ",
+    "meaning": "to be divided",
+    "transliteration": "tafarraq",
+    "lemmaId": 958
+  },
+  {
+    "id": 1013,
+    "lemma": "تَفَسَّحُ",
+    "meaning": "to make room",
+    "transliteration": "tafasṣaḥu",
+    "lemmaId": 3206
+  },
+  {
+    "id": 1014,
+    "lemma": "تَفَقَّدَ",
+    "meaning": "to inspect",
+    "transliteration": "tafaqqada",
+    "lemmaId": 3207
+  },
+  {
+    "id": 1015,
+    "lemma": "تَفَكَّهُ",
+    "meaning": "to wonder",
+    "transliteration": "tafakkahu",
+    "lemmaId": 3208
+  },
+  {
+    "id": 1016,
+    "lemma": "تَفِيضُ",
+    "meaning": "to overflow",
+    "transliteration": "tafīḍu",
+    "lemmaId": 2257
+  },
+  {
+    "id": 1017,
+    "lemma": "تَفْتَؤُا۟",
+    "meaning": "to cease",
+    "transliteration": "taftaū",
+    "lemmaId": 3209
+  },
+  {
+    "id": 1018,
+    "lemma": "تَفْجِير",
+    "meaning": "to abound",
+    "transliteration": "tafjīr",
+    "lemmaId": 2258
+  },
+  {
+    "id": 1019,
+    "lemma": "تَفْرِيق",
+    "meaning": "division",
+    "transliteration": "tafrīq",
+    "lemmaId": 3210
+  },
+  {
+    "id": 1020,
+    "lemma": "تَفْسِير",
+    "meaning": "explanation",
+    "transliteration": "tafsīr",
+    "lemmaId": 3211
+  },
+  {
+    "id": 1021,
+    "lemma": "تَفْصِيل",
+    "meaning": "explanation, detail",
+    "transliteration": "tafṣīl",
+    "lemmaId": 1288
+  },
+  {
+    "id": 1022,
+    "lemma": "تَفْضَحُ",
+    "meaning": "to shame",
+    "transliteration": "tafḍaḥu",
+    "lemmaId": 3212
+  },
+  {
+    "id": 1023,
+    "lemma": "تَفْضِيل",
+    "meaning": "excellence, preference",
+    "transliteration": "tafḍīl",
+    "lemmaId": 2259
+  },
+  {
+    "id": 1024,
+    "lemma": "تَفْقِدُ",
+    "meaning": "to miss",
+    "transliteration": "tafqidu",
+    "lemmaId": 2260
+  },
+  {
+    "id": 1025,
+    "lemma": "تَقاسَمُ",
+    "meaning": "to take a mutual oath",
+    "transliteration": "taqāsamu",
+    "lemmaId": 3213
+  },
+  {
+    "id": 1026,
+    "lemma": "تَقَبَّلَ",
+    "meaning": "to accept",
+    "transliteration": "taqabbala",
+    "lemmaId": 808
+  },
+  {
+    "id": 1027,
+    "lemma": "تَقَدَّمَ",
+    "meaning": "to precede, to proceed",
+    "transliteration": "taqaddama",
+    "lemmaId": 2261
+  },
+  {
+    "id": 1028,
+    "lemma": "تَقَرَّ",
+    "meaning": "to cool, to comfort",
+    "transliteration": "taqarra",
+    "lemmaId": 1289
+  },
+  {
+    "id": 1029,
+    "lemma": "تَقَطَّعَ",
+    "meaning": "to cut off, to sever",
+    "transliteration": "taqaṭṭaʿa",
+    "lemmaId": 1290
+  },
+  {
+    "id": 1030,
+    "lemma": "تَقَلُّب",
+    "meaning": "movement, turning",
+    "transliteration": "taqallub",
+    "lemmaId": 1291
+  },
+  {
+    "id": 1031,
+    "lemma": "تَقِيّ",
+    "meaning": "God-conscious",
+    "transliteration": "taqiyy",
+    "lemmaId": 1489
+  },
+  {
+    "id": 1032,
+    "lemma": "تَقْتِيل",
+    "meaning": "to massacre",
+    "transliteration": "taq'tīl",
+    "lemmaId": 3214
+  },
+  {
+    "id": 1033,
+    "lemma": "تَقْدِير",
+    "meaning": "decree, measure",
+    "transliteration": "taqdīr",
+    "lemmaId": 1292
+  },
+  {
+    "id": 1034,
+    "lemma": "تَقْرِضُ",
+    "meaning": "to bypass",
+    "transliteration": "taqriḍu",
+    "lemmaId": 3215
+  },
+  {
+    "id": 1035,
+    "lemma": "تَقْشَعِرُّ",
+    "meaning": "to tremble",
+    "transliteration": "taqsharirru",
+    "lemmaId": 3216
+  },
+  {
+    "id": 1036,
+    "lemma": "تَقْصُرُ",
+    "meaning": "to shorten",
+    "transliteration": "taqṣuru",
+    "lemmaId": 3217
+  },
+  {
+    "id": 1037,
+    "lemma": "تَقْفُ",
+    "meaning": "to pursue",
+    "transliteration": "taqfu",
+    "lemmaId": 3218
+  },
+  {
+    "id": 1038,
+    "lemma": "تَقْهَرْ",
+    "meaning": "to oppress",
+    "transliteration": "taqhar",
+    "lemmaId": 3219
+  },
+  {
+    "id": 1039,
+    "lemma": "تَقْوَى",
+    "meaning": "God-consciousness",
+    "transliteration": "taqwā",
+    "lemmaId": 559
+  },
+  {
+    "id": 1040,
+    "lemma": "تَقْوِيم",
+    "meaning": "stature",
+    "transliteration": "taqwīm",
+    "lemmaId": 3220
+  },
+  {
+    "id": 1041,
+    "lemma": "تَكاثُر",
+    "meaning": "competition in increase",
+    "transliteration": "takāthur",
+    "lemmaId": 2263
+  },
+  {
+    "id": 1042,
+    "lemma": "تَكْبِير",
+    "meaning": "magnification",
+    "transliteration": "takbīr",
+    "lemmaId": 3221
+  },
+  {
+    "id": 1043,
+    "lemma": "تَكْذِيب",
+    "meaning": "persistent rejection",
+    "transliteration": "takdhīb",
+    "lemmaId": 3222
+  },
+  {
+    "id": 1044,
+    "lemma": "تَكْلِيم",
+    "meaning": "direct speech",
+    "transliteration": "taklīm",
+    "lemmaId": 3223
+  },
+  {
+    "id": 1045,
+    "lemma": "تَلاق",
+    "meaning": "meeting",
+    "transliteration": "talāq",
+    "lemmaId": 3224
+  },
+  {
+    "id": 1046,
+    "lemma": "تَلَذُّ",
+    "meaning": "to delight",
+    "transliteration": "talazzu",
+    "lemmaId": 3225
+  },
+  {
+    "id": 1047,
+    "lemma": "تَلَظَّى",
+    "meaning": "to blaze fiercely",
+    "transliteration": "talazza",
+    "lemmaId": 3226
+  },
+  {
+    "id": 1048,
+    "lemma": "تَلَقَّى",
+    "meaning": "to receive, to meet",
+    "transliteration": "tal'aqā",
+    "lemmaId": 1490
+  },
+  {
+    "id": 1049,
+    "lemma": "تَلَهَّى",
+    "meaning": "distracted",
+    "transliteration": "talahhā",
+    "lemmaId": 3227
+  },
+  {
+    "id": 1050,
+    "lemma": "تَلَى",
+    "meaning": "to recite",
+    "transliteration": "talā",
+    "lemmaId": 195
+  },
+  {
+    "id": 1051,
+    "lemma": "تَلَّ",
+    "meaning": "to lay down",
+    "transliteration": "talla",
+    "lemmaId": 3228
+  },
+  {
+    "id": 1052,
+    "lemma": "تَلْفَحُ",
+    "meaning": "to scorch",
+    "transliteration": "tal'fahu",
+    "lemmaId": 3229
+  },
+  {
+    "id": 1053,
+    "lemma": "تَلْفِتَ",
+    "meaning": "to turn away",
+    "transliteration": "tal'fita",
+    "lemmaId": 3230
+  },
+  {
+    "id": 1054,
+    "lemma": "تَلْقَفُ",
+    "meaning": "to seize swiftly",
+    "transliteration": "talqafu",
+    "lemmaId": 1766
+  },
+  {
+    "id": 1055,
+    "lemma": "تَماثِيل",
+    "meaning": "statues",
+    "transliteration": "tamāthīl",
+    "lemmaId": 2264
+  },
+  {
+    "id": 1056,
+    "lemma": "تَمارَ",
+    "meaning": "to dispute with one another, to doubt",
+    "transliteration": "tamāra",
+    "lemmaId": 1491
+  },
+  {
+    "id": 1057,
+    "lemma": "تَمام",
+    "meaning": "complete and perfect",
+    "transliteration": "tamām",
+    "lemmaId": 3231
+  },
+  {
+    "id": 1058,
+    "lemma": "تَمَتَّعَ",
+    "meaning": "to enjoy thoroughly",
+    "transliteration": "tamattaʿa",
+    "lemmaId": 757
+  },
+  {
+    "id": 1059,
+    "lemma": "تَمَثَّلَ",
+    "meaning": "to assume a likeness",
+    "transliteration": "tamaththala",
+    "lemmaId": 3232
+  },
+  {
+    "id": 1060,
+    "lemma": "تَمَيَّزُ",
+    "meaning": "to burst",
+    "transliteration": "tamayyazu",
+    "lemmaId": 3233
+  },
+  {
+    "id": 1061,
+    "lemma": "تَمُورُ",
+    "meaning": "to sway",
+    "transliteration": "tamūru",
+    "lemmaId": 2265
+  },
+  {
+    "id": 1062,
+    "lemma": "تَمِيدَ",
+    "meaning": "to shake",
+    "transliteration": "tamīda",
+    "lemmaId": 1768
+  },
+  {
+    "id": 1063,
+    "lemma": "تَمَّ",
+    "meaning": "to be fulfilled, to be complete",
+    "transliteration": "tamma",
+    "lemmaId": 1492
+  },
+  {
+    "id": 1064,
+    "lemma": "تَمْرَحُ",
+    "meaning": "to act arrogantly",
+    "transliteration": "tamraḥu",
+    "lemmaId": 3234
+  },
+  {
+    "id": 1065,
+    "lemma": "تَمْهِيد",
+    "meaning": "making it smooth",
+    "transliteration": "tamhīd",
+    "lemmaId": 3235
+  },
+  {
+    "id": 1066,
+    "lemma": "تَنابَزُ",
+    "meaning": "to call one another offensively",
+    "transliteration": "tanābazu",
+    "lemmaId": 3236
+  },
+  {
+    "id": 1067,
+    "lemma": "تَناجَيْ",
+    "meaning": "to converse secretly",
+    "transliteration": "tanājay",
+    "lemmaId": 1493
+  },
+  {
+    "id": 1068,
+    "lemma": "تَناد",
+    "meaning": "to call one another",
+    "transliteration": "tanād",
+    "lemmaId": 3237
+  },
+  {
+    "id": 1069,
+    "lemma": "تَنادَ",
+    "meaning": "the Calling",
+    "transliteration": "tanāda",
+    "lemmaId": 3238
+  },
+  {
+    "id": 1070,
+    "lemma": "تَنازَعُ",
+    "meaning": "to dispute with one another, to disagree with one another, to exchange with one another",
+    "transliteration": "tanāzaʿu",
+    "lemmaId": 1042
+  },
+  {
+    "id": 1071,
+    "lemma": "تَناصَرُ",
+    "meaning": "to help each other",
+    "transliteration": "tanāṣaru",
+    "lemmaId": 3239
+  },
+  {
+    "id": 1072,
+    "lemma": "تَناوُش",
+    "meaning": "attempt to grasp",
+    "transliteration": "tanāwush",
+    "lemmaId": 3240
+  },
+  {
+    "id": 1073,
+    "lemma": "تَنتَشِرُ",
+    "meaning": "to spread out, to disperse",
+    "transliteration": "tantashiru",
+    "lemmaId": 1769
+  },
+  {
+    "id": 1074,
+    "lemma": "تَنزِيل",
+    "meaning": "revelation, gradual descent, gradual revelation",
+    "transliteration": "tanzīl",
+    "lemmaId": 610
+  },
+  {
+    "id": 1075,
+    "lemma": "تَنفُذُ",
+    "meaning": "to pass through",
+    "transliteration": "tanfuḏu",
+    "lemmaId": 1770
+  },
+  {
+    "id": 1076,
+    "lemma": "تَنكِيل",
+    "meaning": "exemplary punishment",
+    "transliteration": "tankīl",
+    "lemmaId": 3241
+  },
+  {
+    "id": 1077,
+    "lemma": "تَنَزَّلَتْ",
+    "meaning": "to descend, to bring down",
+    "transliteration": "tanazzalat",
+    "lemmaId": 1043
+  },
+  {
+    "id": 1078,
+    "lemma": "تَنَفَّسَ",
+    "meaning": "to breathe",
+    "transliteration": "tanaffasa",
+    "lemmaId": 3242
+  },
+  {
+    "id": 1079,
+    "lemma": "تَنُوأُ",
+    "meaning": "to burden",
+    "transliteration": "tanūu",
+    "lemmaId": 3243
+  },
+  {
+    "id": 1080,
+    "lemma": "تَنِيَ",
+    "meaning": "to slacken",
+    "transliteration": "tanīya",
+    "lemmaId": 3244
+  },
+  {
+    "id": 1081,
+    "lemma": "تَنُّور",
+    "meaning": "oven",
+    "transliteration": "tannūr",
+    "lemmaId": 2266
+  },
+  {
+    "id": 1082,
+    "lemma": "تَنْهَرْ",
+    "meaning": "to repel",
+    "transliteration": "tanhar",
+    "lemmaId": 2267
+  },
+  {
+    "id": 1083,
+    "lemma": "تَنۢبُتُ",
+    "meaning": "to produce",
+    "transliteration": "tanbutu",
+    "lemmaId": 3245
+  },
+  {
+    "id": 1084,
+    "lemma": "تَهَجَّدْ",
+    "meaning": "arise from sleep to pray",
+    "transliteration": "tahajjad",
+    "lemmaId": 3246
+  },
+  {
+    "id": 1085,
+    "lemma": "تَهْلُكَة",
+    "meaning": "destruction",
+    "transliteration": "tahrukata",
+    "lemmaId": 3247
+  },
+  {
+    "id": 1086,
+    "lemma": "تَوارَتْ",
+    "meaning": "to hide",
+    "transliteration": "tawārat",
+    "lemmaId": 2268
+  },
+  {
+    "id": 1087,
+    "lemma": "تَواصَ",
+    "meaning": "to enjoin, to transmit",
+    "transliteration": "tawāṣ",
+    "lemmaId": 1293
+  },
+  {
+    "id": 1088,
+    "lemma": "تَواعَد",
+    "meaning": "to make an appointment",
+    "transliteration": "tawāʿad",
+    "lemmaId": 3248
+  },
+  {
+    "id": 1089,
+    "lemma": "تَوَجَّهَ",
+    "meaning": "to turn",
+    "transliteration": "tawajjaha",
+    "lemmaId": 3249
+  },
+  {
+    "id": 1090,
+    "lemma": "تَوَفَّى",
+    "meaning": "to cause to die",
+    "transliteration": "tawaffā",
+    "lemmaId": 432
+  },
+  {
+    "id": 1091,
+    "lemma": "تَوَكَّلْ",
+    "meaning": "to put trust",
+    "transliteration": "tawakkal",
+    "lemmaId": 289
+  },
+  {
+    "id": 1092,
+    "lemma": "تَوَلَّى",
+    "meaning": "to turn",
+    "transliteration": "tawallā",
+    "lemmaId": 144
+  },
+  {
+    "id": 1093,
+    "lemma": "تَوّاب",
+    "meaning": "Acceptor of Repentance",
+    "transliteration": "tawwāb",
+    "lemmaId": 712
+  },
+  {
+    "id": 1094,
+    "lemma": "تَوْب",
+    "meaning": "repentance",
+    "transliteration": "tawb",
+    "lemmaId": 3250
+  },
+  {
+    "id": 1095,
+    "lemma": "تَوْبَة",
+    "meaning": "repentance",
+    "transliteration": "tawba",
+    "lemmaId": 1044
+  },
+  {
+    "id": 1096,
+    "lemma": "تَوْراة",
+    "meaning": "al-Tawrāt",
+    "transliteration": "tawrāta",
+    "lemmaId": 533
+  },
+  {
+    "id": 1097,
+    "lemma": "تَوْصِيَة",
+    "meaning": "to make a will",
+    "transliteration": "tawṣīya",
+    "lemmaId": 3251
+  },
+  {
+    "id": 1098,
+    "lemma": "تَوْفِيق",
+    "meaning": "harmony, success",
+    "transliteration": "tawfīq",
+    "lemmaId": 2269
+  },
+  {
+    "id": 1099,
+    "lemma": "تَوْكِيد",
+    "meaning": "confirmation",
+    "transliteration": "tawkīd",
+    "lemmaId": 3252
+  },
+  {
+    "id": 1100,
+    "lemma": "تَيَسَّرَ",
+    "meaning": "to be easy",
+    "transliteration": "tayassara",
+    "lemmaId": 2270
+  },
+  {
+    "id": 1101,
+    "lemma": "تَيَمَّمُ",
+    "meaning": "to aim, to perform dry ablution",
+    "transliteration": "tayammamu",
+    "lemmaId": 1771
+  },
+  {
+    "id": 1102,
+    "lemma": "تُبَذِّرْ",
+    "meaning": "to squander",
+    "transliteration": "tubadhhir",
+    "lemmaId": 3253
+  },
+  {
+    "id": 1103,
+    "lemma": "تُبَّع",
+    "meaning": "Tubbaʿ",
+    "transliteration": "tubbaʿ",
+    "lemmaId": 2271
+  },
+  {
+    "id": 1104,
+    "lemma": "تُبْقِي",
+    "meaning": "to let remain",
+    "transliteration": "tub'qī",
+    "lemmaId": 3254
+  },
+  {
+    "id": 1105,
+    "lemma": "تُحَدِّثُ",
+    "meaning": "to tell, to report",
+    "transliteration": "tuḥaddithu",
+    "lemmaId": 1772
+  },
+  {
+    "id": 1106,
+    "lemma": "تُحَرِّكْ",
+    "meaning": "to move",
+    "transliteration": "tuḥarrik",
+    "lemmaId": 3255
+  },
+  {
+    "id": 1107,
+    "lemma": "تُخافِتْ",
+    "meaning": "to speak in a low voice",
+    "transliteration": "tukhāfit",
+    "lemmaId": 3256
+  },
+  {
+    "id": 1108,
+    "lemma": "تُخالِطُ",
+    "meaning": "to mix",
+    "transliteration": "tukhāliṭu",
+    "lemmaId": 3257
+  },
+  {
+    "id": 1109,
+    "lemma": "تُدِيرُ",
+    "meaning": "to carry out",
+    "transliteration": "tudīru",
+    "lemmaId": 3258
+  },
+  {
+    "id": 1110,
+    "lemma": "تُذِلُّ",
+    "meaning": "to humiliate",
+    "transliteration": "tudhillu",
+    "lemmaId": 3259
+  },
+  {
+    "id": 1111,
+    "lemma": "تُراب",
+    "meaning": "dust",
+    "transliteration": "turāb",
+    "lemmaId": 560
+  },
+  {
+    "id": 1112,
+    "lemma": "تُراث",
+    "meaning": "inheritance",
+    "transliteration": "turāth",
+    "lemmaId": 3260
+  },
+  {
+    "id": 1113,
+    "lemma": "تُرِيحُ",
+    "meaning": "to give rest",
+    "transliteration": "turīḥu",
+    "lemmaId": 3261
+  },
+  {
+    "id": 1114,
+    "lemma": "تُرْجِي",
+    "meaning": "to defer, to postpone",
+    "transliteration": "turjī",
+    "lemmaId": 1773
+  },
+  {
+    "id": 1115,
+    "lemma": "تُرْهِبُ",
+    "meaning": "to terrify",
+    "transliteration": "turhibu",
+    "lemmaId": 3262
+  },
+  {
+    "id": 1116,
+    "lemma": "تُساقِطْ",
+    "meaning": "to drop",
+    "transliteration": "tusāqiṭ",
+    "lemmaId": 3263
+  },
+  {
+    "id": 1117,
+    "lemma": "تُسَوَّى",
+    "meaning": "to be leveled",
+    "transliteration": "tusawwā",
+    "lemmaId": 3264
+  },
+  {
+    "id": 1118,
+    "lemma": "تُسِيمُ",
+    "meaning": "to pasture",
+    "transliteration": "tusīmu",
+    "lemmaId": 3265
+  },
+  {
+    "id": 1119,
+    "lemma": "تُسْقِطَ",
+    "meaning": "to cause toll, to cause to fall",
+    "transliteration": "tus'qiṭa",
+    "lemmaId": 1774
+  },
+  {
+    "id": 1120,
+    "lemma": "تُشْطِطْ",
+    "meaning": "to be unjust",
+    "transliteration": "tushṭiṭ",
+    "lemmaId": 3266
+  },
+  {
+    "id": 1121,
+    "lemma": "تُشْمِتْ",
+    "meaning": "to rejoice",
+    "transliteration": "tush'mit",
+    "lemmaId": 3267
+  },
+  {
+    "id": 1122,
+    "lemma": "تُصاحِبْ",
+    "meaning": "to keep company",
+    "transliteration": "tuṣāḥib",
+    "lemmaId": 2273
+  },
+  {
+    "id": 1123,
+    "lemma": "تُصَعِّرْ",
+    "meaning": "to turn",
+    "transliteration": "tuṣaʿʿir",
+    "lemmaId": 3268
+  },
+  {
+    "id": 1124,
+    "lemma": "تُصْعِدُ",
+    "meaning": "to run uphill",
+    "transliteration": "tuṣʿidu",
+    "lemmaId": 3269
+  },
+  {
+    "id": 1125,
+    "lemma": "تُضَيِّقُ",
+    "meaning": "to restrict",
+    "transliteration": "tuḍayyiqu",
+    "lemmaId": 3270
+  },
+  {
+    "id": 1126,
+    "lemma": "تُعِزُّ",
+    "meaning": "to honor",
+    "transliteration": "tuʿizzu",
+    "lemmaId": 3271
+  },
+  {
+    "id": 1127,
+    "lemma": "تُغْمِضُ",
+    "meaning": "to close",
+    "transliteration": "tugh'midu",
+    "lemmaId": 3272
+  },
+  {
+    "id": 1128,
+    "lemma": "تُفادُ",
+    "meaning": "to ransom",
+    "transliteration": "tufādu",
+    "lemmaId": 3273
+  },
+  {
+    "id": 1129,
+    "lemma": "تُفَتَّحُ",
+    "meaning": "to open",
+    "transliteration": "tufattaḥu",
+    "lemmaId": 3274
+  },
+  {
+    "id": 1130,
+    "lemma": "تُفَنِّدُ",
+    "meaning": "to weaken in mind",
+    "transliteration": "tufannidu",
+    "lemmaId": 3275
+  },
+  {
+    "id": 1131,
+    "lemma": "تُقاة",
+    "meaning": "a means of guarding oneself",
+    "transliteration": "tuqāta",
+    "lemmaId": 3276
+  },
+  {
+    "id": 1132,
+    "lemma": "تُقْسِطُ",
+    "meaning": "to act justly",
+    "transliteration": "tuq'siṭu",
+    "lemmaId": 1775
+  },
+  {
+    "id": 1133,
+    "lemma": "تُقْلَبُ",
+    "meaning": "to return",
+    "transliteration": "tuq'labu",
+    "lemmaId": 3277
+  },
+  {
+    "id": 1134,
+    "lemma": "تُكْوَى",
+    "meaning": "to be branded",
+    "transliteration": "tukwā",
+    "lemmaId": 3278
+  },
+  {
+    "id": 1135,
+    "lemma": "تُمارِ",
+    "meaning": "to argue",
+    "transliteration": "tumāri",
+    "lemmaId": 3279
+  },
+  {
+    "id": 1136,
+    "lemma": "تُمْسُ",
+    "meaning": "to reach evening",
+    "transliteration": "tumsu",
+    "lemmaId": 3280
+  },
+  {
+    "id": 1137,
+    "lemma": "تُنكِحُ",
+    "meaning": "to give in marraige",
+    "transliteration": "tunkiḥu",
+    "lemmaId": 1776
+  },
+  {
+    "id": 1138,
+    "lemma": "تُورُ",
+    "meaning": "to ignite",
+    "transliteration": "tūru",
+    "lemmaId": 3281
+  },
+  {
+    "id": 1139,
+    "lemma": "تُوعِدُ",
+    "meaning": "to threaten",
+    "transliteration": "tūʿidu",
+    "lemmaId": 3282
+  },
+  {
+    "id": 1140,
+    "lemma": "تُوَقِّرُ",
+    "meaning": "to respect",
+    "transliteration": "tūwaqqiru",
+    "lemmaId": 3283
+  },
+  {
+    "id": 1141,
+    "lemma": "تِبْيان",
+    "meaning": "clarification",
+    "transliteration": "tibyān",
+    "lemmaId": 3284
+  },
+  {
+    "id": 1142,
+    "lemma": "تِجارَة",
+    "meaning": "trade, commerce, transaction",
+    "transliteration": "tijāratun",
+    "lemmaId": 882
+  },
+  {
+    "id": 1143,
+    "lemma": "تِسْع",
+    "meaning": "nine",
+    "transliteration": "tisʿ",
+    "lemmaId": 1294
+  },
+  {
+    "id": 1144,
+    "lemma": "تِسْعَة",
+    "meaning": "nine",
+    "transliteration": "tisʿahton",
+    "lemmaId": 2274
+  },
+  {
+    "id": 1145,
+    "lemma": "تِلاوَت",
+    "meaning": "recitation",
+    "transliteration": "tilāwat",
+    "lemmaId": 3285
+  },
+  {
+    "id": 1146,
+    "lemma": "تِلْقاء",
+    "meaning": "towards, accord",
+    "transliteration": "tilqāʾ",
+    "lemmaId": 1777
+  },
+  {
+    "id": 1147,
+    "lemma": "تِين",
+    "meaning": "fig",
+    "transliteration": "tīn",
+    "lemmaId": 3286
+  },
+  {
+    "id": 1148,
+    "lemma": "ثابِت",
+    "meaning": "firm",
+    "transliteration": "thābit",
+    "lemmaId": 2275
+  },
+  {
+    "id": 1149,
+    "lemma": "ثاقِب",
+    "meaning": "piercing",
+    "transliteration": "thāqib",
+    "lemmaId": 2276
+  },
+  {
+    "id": 1150,
+    "lemma": "ثالِث",
+    "meaning": "third",
+    "transliteration": "thālith",
+    "lemmaId": 2277
+  },
+  {
+    "id": 1151,
+    "lemma": "ثالِثَة",
+    "meaning": "third",
+    "transliteration": "thālithata",
+    "lemmaId": 3287
+  },
+  {
+    "id": 1152,
+    "lemma": "ثامِن",
+    "meaning": "eighth",
+    "transliteration": "thāmin",
+    "lemmaId": 3288
+  },
+  {
+    "id": 1153,
+    "lemma": "ثانِي",
+    "meaning": "second, turning",
+    "transliteration": "thānī",
+    "lemmaId": 2278
+  },
+  {
+    "id": 1154,
+    "lemma": "ثاوِي",
+    "meaning": "dweller",
+    "transliteration": "thāwī",
+    "lemmaId": 3289
+  },
+  {
+    "id": 1155,
+    "lemma": "ثَبَّتْ",
+    "meaning": "to make firm",
+    "transliteration": "thabbat",
+    "lemmaId": 809
+  },
+  {
+    "id": 1156,
+    "lemma": "ثَبَّطَ",
+    "meaning": "to hinder",
+    "transliteration": "thabbaṭa",
+    "lemmaId": 3290
+  },
+  {
+    "id": 1157,
+    "lemma": "ثَجّاج",
+    "meaning": "pouring abundantly",
+    "transliteration": "thajjāj",
+    "lemmaId": 3291
+  },
+  {
+    "id": 1158,
+    "lemma": "ثَرَى",
+    "meaning": "rich soil",
+    "transliteration": "tharā",
+    "lemmaId": 3292
+  },
+  {
+    "id": 1159,
+    "lemma": "ثَقَل",
+    "meaning": "loads, burdens",
+    "transliteration": "thaqal",
+    "lemmaId": 1144
+  },
+  {
+    "id": 1160,
+    "lemma": "ثَقُلَتْ",
+    "meaning": "to become heavy",
+    "transliteration": "thaqulat",
+    "lemmaId": 1494
+  },
+  {
+    "id": 1161,
+    "lemma": "ثَقِيل",
+    "meaning": "heavy",
+    "transliteration": "thaqīl",
+    "lemmaId": 1295
+  },
+  {
+    "id": 1162,
+    "lemma": "ثَلاث",
+    "meaning": "three",
+    "transliteration": "thalāth",
+    "lemmaId": 959
+  },
+  {
+    "id": 1163,
+    "lemma": "ثَلاثَة",
+    "meaning": "three",
+    "transliteration": "thalātha",
+    "lemmaId": 670
+  },
+  {
+    "id": 1164,
+    "lemma": "ثَمانِي",
+    "meaning": "eight",
+    "transliteration": "thamānī",
+    "lemmaId": 3293
+  },
+  {
+    "id": 1165,
+    "lemma": "ثَمانِين",
+    "meaning": "eighty",
+    "transliteration": "thamānīn",
+    "lemmaId": 3294
+  },
+  {
+    "id": 1166,
+    "lemma": "ثَمانِيَة",
+    "meaning": "eight",
+    "transliteration": "thamāniya",
+    "lemmaId": 1495
+  },
+  {
+    "id": 1167,
+    "lemma": "ثَمَر",
+    "meaning": "fruit",
+    "transliteration": "thamar",
+    "lemmaId": 1296
+  },
+  {
+    "id": 1168,
+    "lemma": "ثَمَرَة",
+    "meaning": "a single fruit",
+    "transliteration": "thamarata",
+    "lemmaId": 561
+  },
+  {
+    "id": 1169,
+    "lemma": "ثَمَن",
+    "meaning": "price",
+    "transliteration": "thaman",
+    "lemmaId": 758
+  },
+  {
+    "id": 1170,
+    "lemma": "ثَمُود",
+    "meaning": "Thamūd",
+    "transliteration": "thamūd",
+    "lemmaId": 409
+  },
+  {
+    "id": 1171,
+    "lemma": "ثَمّ",
+    "meaning": "there",
+    "transliteration": "thamman",
+    "lemmaId": 1496
+  },
+  {
+    "id": 1172,
+    "lemma": "ثَواب",
+    "meaning": "reward",
+    "transliteration": "thawāb",
+    "lemmaId": 671
+  },
+  {
+    "id": 1173,
+    "lemma": "ثَيِّبَة",
+    "meaning": "previously married",
+    "transliteration": "thayyibata",
+    "lemmaId": 3295
+  },
+  {
+    "id": 1174,
+    "lemma": "ثُبَة",
+    "meaning": "groups of men",
+    "transliteration": "thubata",
+    "lemmaId": 3296
+  },
+  {
+    "id": 1175,
+    "lemma": "ثُبُوت",
+    "meaning": "firmness",
+    "transliteration": "thubūt",
+    "lemmaId": 3297
+  },
+  {
+    "id": 1176,
+    "lemma": "ثُبُور",
+    "meaning": "destruction",
+    "transliteration": "thubūr",
+    "lemmaId": 1497
+  },
+  {
+    "id": 1177,
+    "lemma": "ثُعْبان",
+    "meaning": "serpent",
+    "transliteration": "thuʿbān",
+    "lemmaId": 2279
+  },
+  {
+    "id": 1178,
+    "lemma": "ثُقِفُ",
+    "meaning": "to be overtaken",
+    "transliteration": "thuqifu",
+    "lemmaId": 1145
+  },
+  {
+    "id": 1179,
+    "lemma": "ثُلاث",
+    "meaning": "threefold",
+    "transliteration": "thulāth",
+    "lemmaId": 2280
+  },
+  {
+    "id": 1180,
+    "lemma": "ثُلُث",
+    "meaning": "one-third",
+    "transliteration": "thuluth",
+    "lemmaId": 1146
+  },
+  {
+    "id": 1181,
+    "lemma": "ثُلَّة",
+    "meaning": "company",
+    "transliteration": "thullata",
+    "lemmaId": 1778
+  },
+  {
+    "id": 1182,
+    "lemma": "ثُمُن",
+    "meaning": "one-eighth",
+    "transliteration": "thumun",
+    "lemmaId": 3298
+  },
+  {
+    "id": 1183,
+    "lemma": "ثُوِّبَ",
+    "meaning": "to be rewarded",
+    "transliteration": "thūwiba",
+    "lemmaId": 3299
+  },
+  {
+    "id": 1184,
+    "lemma": "ثِياب",
+    "meaning": "garments",
+    "transliteration": "thiyāb",
+    "lemmaId": 960
+  },
+  {
+    "id": 1185,
+    "lemma": "جاءَ",
+    "meaning": "to come",
+    "transliteration": "jāa",
+    "lemmaId": 49
+  },
+  {
+    "id": 1186,
+    "lemma": "جائِر",
+    "meaning": "deviating",
+    "transliteration": "jāir",
+    "lemmaId": 3300
+  },
+  {
+    "id": 1187,
+    "lemma": "جابُ",
+    "meaning": "to carve out",
+    "transliteration": "jābu",
+    "lemmaId": 3301
+  },
+  {
+    "id": 1188,
+    "lemma": "جاثِم",
+    "meaning": "fallen upon their chests",
+    "transliteration": "jāthim",
+    "lemmaId": 1297
+  },
+  {
+    "id": 1189,
+    "lemma": "جاثِيَة",
+    "meaning": "kneeling",
+    "transliteration": "jāthīya",
+    "lemmaId": 3302
+  },
+  {
+    "id": 1190,
+    "lemma": "جادَلُ",
+    "meaning": "to dispute",
+    "transliteration": "jādalu",
+    "lemmaId": 421
+  },
+  {
+    "id": 1191,
+    "lemma": "جار",
+    "meaning": "neighbor",
+    "transliteration": "jār",
+    "lemmaId": 1779
+  },
+  {
+    "id": 1192,
+    "lemma": "جارِيَة",
+    "meaning": "ship, flowing",
+    "transliteration": "jāriya",
+    "lemmaId": 1780
+  },
+  {
+    "id": 1193,
+    "lemma": "جاز",
+    "meaning": "one who can compensate",
+    "transliteration": "jāz",
+    "lemmaId": 3303
+  },
+  {
+    "id": 1194,
+    "lemma": "جاسُ",
+    "meaning": "to ransack",
+    "transliteration": "jāsu",
+    "lemmaId": 3304
+  },
+  {
+    "id": 1195,
+    "lemma": "جاعِل",
+    "meaning": "one to assign, one to make",
+    "transliteration": "jāʿil",
+    "lemmaId": 1147
+  },
+  {
+    "id": 1196,
+    "lemma": "جالُوت",
+    "meaning": "Jālūt",
+    "transliteration": "jālūt",
+    "lemmaId": 1781
+  },
+  {
+    "id": 1197,
+    "lemma": "جامِدَة",
+    "meaning": "motionless",
+    "transliteration": "jāmidah",
+    "lemmaId": 3305
+  },
+  {
+    "id": 1198,
+    "lemma": "جامِع",
+    "meaning": "to gather, meeting",
+    "transliteration": "jāmiʿ",
+    "lemmaId": 1782
+  },
+  {
+    "id": 1199,
+    "lemma": "جانِب",
+    "meaning": "side",
+    "transliteration": "jānib",
+    "lemmaId": 883
+  },
+  {
+    "id": 1200,
+    "lemma": "جانّ",
+    "meaning": "jinn",
+    "transliteration": "jānn",
+    "lemmaId": 1045
+  },
+  {
+    "id": 1201,
+    "lemma": "جاهَدَ",
+    "meaning": "to strive",
+    "transliteration": "jāhada",
+    "lemmaId": 395
+  },
+  {
+    "id": 1202,
+    "lemma": "جاهِل",
+    "meaning": "ignorant",
+    "transliteration": "jāhil",
+    "lemmaId": 810
+  },
+  {
+    "id": 1203,
+    "lemma": "جاهِلِيَّة",
+    "meaning": "age of ignorance",
+    "transliteration": "jāhilīyah",
+    "lemmaId": 1498
+  },
+  {
+    "id": 1204,
+    "lemma": "جاوَزَ",
+    "meaning": "to surpass, to exceed",
+    "transliteration": "jāwaza",
+    "lemmaId": 1499
+  },
+  {
+    "id": 1205,
+    "lemma": "جَبَل",
+    "meaning": "mountain",
+    "transliteration": "jabal",
+    "lemmaId": 297
+  },
+  {
+    "id": 1206,
+    "lemma": "جَبِين",
+    "meaning": "forehead",
+    "transliteration": "jabīn",
+    "lemmaId": 3306
+  },
+  {
+    "id": 1207,
+    "lemma": "جَبّار",
+    "meaning": "tyrant, Compeller and Restorer",
+    "transliteration": "jabbār",
+    "lemmaId": 811
+  },
+  {
+    "id": 1208,
+    "lemma": "جَحَدُ",
+    "meaning": "to deny",
+    "transliteration": "jaḥadu",
+    "lemmaId": 713
+  },
+  {
+    "id": 1209,
+    "lemma": "جَحِيم",
+    "meaning": "blazing fire, the Hellfire",
+    "transliteration": "jaḥīm",
+    "lemmaId": 410
+  },
+  {
+    "id": 1210,
+    "lemma": "جَدَل",
+    "meaning": "argumentative, act of disputing",
+    "transliteration": "jadala",
+    "lemmaId": 2281
+  },
+  {
+    "id": 1211,
+    "lemma": "جَدِيد",
+    "meaning": "new",
+    "transliteration": "jadīd",
+    "lemmaId": 961
+  },
+  {
+    "id": 1212,
+    "lemma": "جَدّ",
+    "meaning": "Majesty",
+    "transliteration": "jadd",
+    "lemmaId": 3307
+  },
+  {
+    "id": 1213,
+    "lemma": "جَذْوَة",
+    "meaning": "burning wood",
+    "transliteration": "jaḏwata",
+    "lemmaId": 3308
+  },
+  {
+    "id": 1214,
+    "lemma": "جَراد",
+    "meaning": "locusts",
+    "transliteration": "jarād",
+    "lemmaId": 2282
+  },
+  {
+    "id": 1215,
+    "lemma": "جَرَحْ",
+    "meaning": "to commit",
+    "transliteration": "jar-aḥ",
+    "lemmaId": 3309
+  },
+  {
+    "id": 1216,
+    "lemma": "جَرَم",
+    "meaning": "doubt",
+    "transliteration": "jaram",
+    "lemmaId": 1298
+  },
+  {
+    "id": 1217,
+    "lemma": "جَرَيْ",
+    "meaning": "to flow, to run, sail, sailing",
+    "transliteration": "jaray",
+    "lemmaId": 204
+  },
+  {
+    "id": 1218,
+    "lemma": "جَزاء",
+    "meaning": "recompense",
+    "transliteration": "jazā",
+    "lemmaId": 271
+  },
+  {
+    "id": 1219,
+    "lemma": "جَزَى",
+    "meaning": "to recompense",
+    "transliteration": "jazā",
+    "lemmaId": 160
+  },
+  {
+    "id": 1220,
+    "lemma": "جَزُوع",
+    "meaning": "impatient",
+    "transliteration": "jazūʿ",
+    "lemmaId": 3310
+  },
+  {
+    "id": 1221,
+    "lemma": "جَزِعْ",
+    "meaning": "much impatience",
+    "transliteration": "jaziʿ",
+    "lemmaId": 3311
+  },
+  {
+    "id": 1222,
+    "lemma": "جَسَد",
+    "meaning": "body",
+    "transliteration": "jasad",
+    "lemmaId": 1500
+  },
+  {
+    "id": 1223,
+    "lemma": "جَعَلَ",
+    "meaning": "to make, to place, to assign, to appoint",
+    "transliteration": "jaʿala",
+    "lemmaId": 38
+  },
+  {
+    "id": 1224,
+    "lemma": "جَلاء",
+    "meaning": "expulsion",
+    "transliteration": "jalā",
+    "lemmaId": 3312
+  },
+  {
+    "id": 1225,
+    "lemma": "جَلابِيب",
+    "meaning": "outer garments",
+    "transliteration": "jalābīb",
+    "lemmaId": 3313
+  },
+  {
+    "id": 1226,
+    "lemma": "جَلال",
+    "meaning": "Majesty",
+    "transliteration": "jalāl",
+    "lemmaId": 2283
+  },
+  {
+    "id": 1227,
+    "lemma": "جَلْدَة",
+    "meaning": "lash",
+    "transliteration": "jaldata",
+    "lemmaId": 2285
+  },
+  {
+    "id": 1228,
+    "lemma": "جَمال",
+    "meaning": "beauty",
+    "transliteration": "jamāl",
+    "lemmaId": 3314
+  },
+  {
+    "id": 1229,
+    "lemma": "جَمَعَ",
+    "meaning": "to gather, to collect",
+    "transliteration": "jamaʿa",
+    "lemmaId": 459
+  },
+  {
+    "id": 1230,
+    "lemma": "جَمَل",
+    "meaning": "camel",
+    "transliteration": "jamal",
+    "lemmaId": 3315
+  },
+  {
+    "id": 1231,
+    "lemma": "جَمِيع",
+    "meaning": "all, all together",
+    "transliteration": "jamīʿ",
+    "lemmaId": 219
+  },
+  {
+    "id": 1232,
+    "lemma": "جَمِيل",
+    "meaning": "beautiful, pleasing ",
+    "transliteration": "jamīl",
+    "lemmaId": 1046
+  },
+  {
+    "id": 1233,
+    "lemma": "جَمّ",
+    "meaning": "abundant",
+    "transliteration": "jamm",
+    "lemmaId": 3316
+  },
+  {
+    "id": 1234,
+    "lemma": "جَمْع",
+    "meaning": "gathering, assembly, collection",
+    "transliteration": "jamʿ",
+    "lemmaId": 672
+  },
+  {
+    "id": 1235,
+    "lemma": "جَناح",
+    "meaning": "wing, arm",
+    "transliteration": "janāḥ",
+    "lemmaId": 1047
+  },
+  {
+    "id": 1236,
+    "lemma": "جَنب",
+    "meaning": "side, relation",
+    "transliteration": "janb",
+    "lemmaId": 962
+  },
+  {
+    "id": 1237,
+    "lemma": "جَنَحُ",
+    "meaning": "to incline",
+    "transliteration": "janāḥ",
+    "lemmaId": 2286
+  },
+  {
+    "id": 1238,
+    "lemma": "جَنَف",
+    "meaning": "deviation",
+    "transliteration": "janaf",
+    "lemmaId": 3317
+  },
+  {
+    "id": 1239,
+    "lemma": "جَنَى",
+    "meaning": "to pluck fruit",
+    "transliteration": "janā",
+    "lemmaId": 3318
+  },
+  {
+    "id": 1240,
+    "lemma": "جَنِيّ",
+    "meaning": "freshly plucked",
+    "transliteration": "janī",
+    "lemmaId": 3319
+  },
+  {
+    "id": 1241,
+    "lemma": "جَنَّ",
+    "meaning": "to cover",
+    "transliteration": "janna",
+    "lemmaId": 3320
+  },
+  {
+    "id": 1242,
+    "lemma": "جَنَّة",
+    "meaning": "garden, paradise",
+    "transliteration": "jannata",
+    "lemmaId": 82
+  },
+  {
+    "id": 1243,
+    "lemma": "جَهاز",
+    "meaning": "equipment",
+    "transliteration": "jahāz",
+    "lemmaId": 2287
+  },
+  {
+    "id": 1244,
+    "lemma": "جَهالَة",
+    "meaning": "ignorance",
+    "transliteration": "jahālatun",
+    "lemmaId": 1501
+  },
+  {
+    "id": 1245,
+    "lemma": "جَهَرَ",
+    "meaning": "to express openly",
+    "transliteration": "jahara",
+    "lemmaId": 1299
+  },
+  {
+    "id": 1246,
+    "lemma": "جَهَنَّم",
+    "meaning": "Hell",
+    "transliteration": "jahannam",
+    "lemmaId": 147
+  },
+  {
+    "id": 1247,
+    "lemma": "جَهُول",
+    "meaning": "extremely ignorant",
+    "transliteration": "jahūl",
+    "lemmaId": 3321
+  },
+  {
+    "id": 1248,
+    "lemma": "جَهَّزَ",
+    "meaning": "to equip",
+    "transliteration": "jahhaza",
+    "lemmaId": 2288
+  },
+  {
+    "id": 1249,
+    "lemma": "جَهْد",
+    "meaning": "strongest",
+    "transliteration": "jahd",
+    "lemmaId": 1300
+  },
+  {
+    "id": 1250,
+    "lemma": "جَهْر",
+    "meaning": "open expression",
+    "transliteration": "jahr",
+    "lemmaId": 1048
+  },
+  {
+    "id": 1251,
+    "lemma": "جَهْرَة",
+    "meaning": "openly",
+    "transliteration": "jah'rah",
+    "lemmaId": 1783
+  },
+  {
+    "id": 1252,
+    "lemma": "جَواب",
+    "meaning": "answer",
+    "transliteration": "jawāb",
+    "lemmaId": 1301
+  },
+  {
+    "id": 1253,
+    "lemma": "جَوار",
+    "meaning": "ships, those that run",
+    "transliteration": "jawār",
+    "lemmaId": 1784
+  },
+  {
+    "id": 1254,
+    "lemma": "جَوارِح",
+    "meaning": "hunting animals",
+    "transliteration": "jāwāriḥ",
+    "lemmaId": 3322
+  },
+  {
+    "id": 1255,
+    "lemma": "جَوّ",
+    "meaning": "atmosphere",
+    "transliteration": "jaww",
+    "lemmaId": 3323
+  },
+  {
+    "id": 1256,
+    "lemma": "جَوْف",
+    "meaning": "interior",
+    "transliteration": "jawf",
+    "lemmaId": 3324
+  },
+  {
+    "id": 1257,
+    "lemma": "جَيْب",
+    "meaning": "chest",
+    "transliteration": "jayb",
+    "lemmaId": 1785
+  },
+  {
+    "id": 1258,
+    "lemma": "جُبّ",
+    "meaning": "well",
+    "transliteration": "jub",
+    "lemmaId": 2289
+  },
+  {
+    "id": 1259,
+    "lemma": "جُدَد",
+    "meaning": "streaks",
+    "transliteration": "judad",
+    "lemmaId": 3325
+  },
+  {
+    "id": 1260,
+    "lemma": "جُدُر",
+    "meaning": "walls",
+    "transliteration": "judur",
+    "lemmaId": 3326
+  },
+  {
+    "id": 1261,
+    "lemma": "جُذاذ",
+    "meaning": "fragments",
+    "transliteration": "juzādh",
+    "lemmaId": 3327
+  },
+  {
+    "id": 1262,
+    "lemma": "جُرُز",
+    "meaning": "barren",
+    "transliteration": "juruz",
+    "lemmaId": 2290
+  },
+  {
+    "id": 1263,
+    "lemma": "جُرُف",
+    "meaning": "eroded bank",
+    "transliteration": "juruf",
+    "lemmaId": 3328
+  },
+  {
+    "id": 1264,
+    "lemma": "جُرُوح",
+    "meaning": "wounds",
+    "transliteration": "jurūḥ",
+    "lemmaId": 3329
+  },
+  {
+    "id": 1265,
+    "lemma": "جُزْء",
+    "meaning": "portion",
+    "transliteration": "juzʾ",
+    "lemmaId": 1786
+  },
+  {
+    "id": 1266,
+    "lemma": "جُفاء",
+    "meaning": "foam",
+    "transliteration": "jufā",
+    "lemmaId": 3330
+  },
+  {
+    "id": 1267,
+    "lemma": "جُلُود",
+    "meaning": "skins",
+    "transliteration": "julūd",
+    "lemmaId": 884
+  },
+  {
+    "id": 1268,
+    "lemma": "جُمُعَة",
+    "meaning": "Friday",
+    "transliteration": "jumuʿa",
+    "lemmaId": 3331
+  },
+  {
+    "id": 1269,
+    "lemma": "جُمْلَة",
+    "meaning": "sentence",
+    "transliteration": "jumlatun",
+    "lemmaId": 3332
+  },
+  {
+    "id": 1270,
+    "lemma": "جُناح",
+    "meaning": "sin",
+    "transliteration": "junāḥ",
+    "lemmaId": 422
+  },
+  {
+    "id": 1271,
+    "lemma": "جُند",
+    "meaning": "army, forces",
+    "transliteration": "jund",
+    "lemmaId": 373
+  },
+  {
+    "id": 1272,
+    "lemma": "جُنَّة",
+    "meaning": "armour",
+    "transliteration": "junnata",
+    "lemmaId": 2291
+  },
+  {
+    "id": 1273,
+    "lemma": "جُهْد",
+    "meaning": "utmost effort",
+    "transliteration": "juh'd",
+    "lemmaId": 3333
+  },
+  {
+    "id": 1274,
+    "lemma": "جُودِيّ",
+    "meaning": "Jūdī",
+    "transliteration": "jūdiyy",
+    "lemmaId": 3334
+  },
+  {
+    "id": 1275,
+    "lemma": "جُوع",
+    "meaning": "hunger",
+    "transliteration": "jūʿ",
+    "lemmaId": 1503
+  },
+  {
+    "id": 1276,
+    "lemma": "جِباه",
+    "meaning": "foreheads",
+    "transliteration": "jibāh",
+    "lemmaId": 3335
+  },
+  {
+    "id": 1277,
+    "lemma": "جِبِلَّة",
+    "meaning": "generations",
+    "transliteration": "jibillata",
+    "lemmaId": 2292
+  },
+  {
+    "id": 1278,
+    "lemma": "جِبْت",
+    "meaning": "sorcery",
+    "transliteration": "jibta",
+    "lemmaId": 3336
+  },
+  {
+    "id": 1279,
+    "lemma": "جِبْرِيل",
+    "meaning": "Jibrīl",
+    "transliteration": "jibrīl",
+    "lemmaId": 1787
+  },
+  {
+    "id": 1280,
+    "lemma": "جِثِيّ",
+    "meaning": "all kneeling",
+    "transliteration": "jithiyy",
+    "lemmaId": 2293
+  },
+  {
+    "id": 1281,
+    "lemma": "جِدار",
+    "meaning": "wall",
+    "transliteration": "jidār",
+    "lemmaId": 2294
+  },
+  {
+    "id": 1282,
+    "lemma": "جِدال",
+    "meaning": "disputing",
+    "transliteration": "jidāl",
+    "lemmaId": 2295
+  },
+  {
+    "id": 1283,
+    "lemma": "جِذْع",
+    "meaning": "trunk",
+    "transliteration": "jiḏʿ",
+    "lemmaId": 1788
+  },
+  {
+    "id": 1284,
+    "lemma": "جِزْيَة",
+    "meaning": "tax",
+    "transliteration": "jizyata",
+    "lemmaId": 3337
+  },
+  {
+    "id": 1285,
+    "lemma": "جِسْم",
+    "meaning": "stature",
+    "transliteration": "jism",
+    "lemmaId": 2296
+  },
+  {
+    "id": 1286,
+    "lemma": "جِفان",
+    "meaning": "bowls",
+    "transliteration": "jifān",
+    "lemmaId": 3338
+  },
+  {
+    "id": 1287,
+    "lemma": "جِمالَت",
+    "meaning": "camel",
+    "transliteration": "jimālat",
+    "lemmaId": 3339
+  },
+  {
+    "id": 1288,
+    "lemma": "جِنّ",
+    "meaning": "jinn",
+    "transliteration": "jinn",
+    "lemmaId": 460
+  },
+  {
+    "id": 1289,
+    "lemma": "جِنَّة",
+    "meaning": "madness, the jinn",
+    "transliteration": "jinnah",
+    "lemmaId": 812
+  },
+  {
+    "id": 1290,
+    "lemma": "جِهاد",
+    "meaning": "striving",
+    "transliteration": "jihād",
+    "lemmaId": 1504
+  },
+  {
+    "id": 1291,
+    "lemma": "جِهار",
+    "meaning": "aloud",
+    "transliteration": "jihār",
+    "lemmaId": 3340
+  },
+  {
+    "id": 1292,
+    "lemma": "جِياد",
+    "meaning": "noble steeds, swift horses",
+    "transliteration": "jīād",
+    "lemmaId": 3341
+  },
+  {
+    "id": 1293,
+    "lemma": "جِيد",
+    "meaning": "neck",
+    "transliteration": "jīd",
+    "lemmaId": 3342
+  },
+  {
+    "id": 1294,
+    "lemma": "حاجَة",
+    "meaning": "need, want",
+    "transliteration": "ḥājata",
+    "lemmaId": 1789
+  },
+  {
+    "id": 1295,
+    "lemma": "حاجِز",
+    "meaning": "barrier, separator",
+    "transliteration": "ḥājiz",
+    "lemmaId": 2297
+  },
+  {
+    "id": 1296,
+    "lemma": "حاجّ",
+    "meaning": "pilgrim",
+    "transliteration": "ḥājj",
+    "lemmaId": 3343
+  },
+  {
+    "id": 1297,
+    "lemma": "حاجَّ",
+    "meaning": "to argue",
+    "transliteration": "ḥājja",
+    "lemmaId": 714
+  },
+  {
+    "id": 1298,
+    "lemma": "حادَّ",
+    "meaning": "to oppose",
+    "transliteration": "ḥādda",
+    "lemmaId": 2298
+  },
+  {
+    "id": 1299,
+    "lemma": "حاذِر",
+    "meaning": "on guard",
+    "transliteration": "ḥādhir",
+    "lemmaId": 3344
+  },
+  {
+    "id": 1300,
+    "lemma": "حارَبَ",
+    "meaning": "to wage war",
+    "transliteration": "ḥāraba",
+    "lemmaId": 2299
+  },
+  {
+    "id": 1301,
+    "lemma": "حاسَبْ",
+    "meaning": "to take to account",
+    "transliteration": "ḥāsab",
+    "lemmaId": 1790
+  },
+  {
+    "id": 1302,
+    "lemma": "حاسِب",
+    "meaning": "reckoner",
+    "transliteration": "ḥāsib",
+    "lemmaId": 2300
+  },
+  {
+    "id": 1303,
+    "lemma": "حاسِد",
+    "meaning": "envier",
+    "transliteration": "ḥāsid",
+    "lemmaId": 3345
+  },
+  {
+    "id": 1304,
+    "lemma": "حاش",
+    "meaning": "God forbid",
+    "transliteration": "ḥāsh",
+    "lemmaId": 2301
+  },
+  {
+    "id": 1305,
+    "lemma": "حاشِر",
+    "meaning": "gatherers",
+    "transliteration": "ḥāshir",
+    "lemmaId": 1791
+  },
+  {
+    "id": 1306,
+    "lemma": "حاصِب",
+    "meaning": "storm of stones",
+    "transliteration": "ḥāṣib",
+    "lemmaId": 1505
+  },
+  {
+    "id": 1307,
+    "lemma": "حاضِر",
+    "meaning": "to present, to attend",
+    "transliteration": "ḥāḍir",
+    "lemmaId": 3346
+  },
+  {
+    "id": 1308,
+    "lemma": "حاضِرَة",
+    "meaning": "present, situated",
+    "transliteration": "ḥāḍira",
+    "lemmaId": 2302
+  },
+  {
+    "id": 1309,
+    "lemma": "حاضِرِي",
+    "meaning": "present",
+    "transliteration": "ḥāḍirī",
+    "lemmaId": 3347
+  },
+  {
+    "id": 1310,
+    "lemma": "حافِرَة",
+    "meaning": "original state",
+    "transliteration": "ḥāfirah",
+    "lemmaId": 3348
+  },
+  {
+    "id": 1311,
+    "lemma": "حافِظ",
+    "meaning": "guardian, protector, men who guard",
+    "transliteration": "ḥāfiẓ",
+    "lemmaId": 673
+  },
+  {
+    "id": 1312,
+    "lemma": "حافِظَة",
+    "meaning": "guarding, women who guard",
+    "transliteration": "ḥāfiẓa",
+    "lemmaId": 2303
+  },
+  {
+    "id": 1313,
+    "lemma": "حافّ",
+    "meaning": "encircling",
+    "transliteration": "ḥāff",
+    "lemmaId": 3349
+  },
+  {
+    "id": 1314,
+    "lemma": "حاقَ",
+    "meaning": "to befall",
+    "transliteration": "ḥāqa",
+    "lemmaId": 813
+  },
+  {
+    "id": 1315,
+    "lemma": "حاقَّة",
+    "meaning": "Inevitable Reality",
+    "transliteration": "ḥāqqa",
+    "lemmaId": 1792
+  },
+  {
+    "id": 1316,
+    "lemma": "حاكِم",
+    "meaning": "judge",
+    "transliteration": "ḥākim",
+    "lemmaId": 1302
+  },
+  {
+    "id": 1317,
+    "lemma": "حام",
+    "meaning": "Hām",
+    "transliteration": "ḥām",
+    "lemmaId": 3350
+  },
+  {
+    "id": 1318,
+    "lemma": "حامِد",
+    "meaning": "those who praise",
+    "transliteration": "ḥāmid",
+    "lemmaId": 3351
+  },
+  {
+    "id": 1319,
+    "lemma": "حامِل",
+    "meaning": "to bear",
+    "transliteration": "ḥāmil",
+    "lemmaId": 3352
+  },
+  {
+    "id": 1320,
+    "lemma": "حامِلَة",
+    "meaning": "carriers",
+    "transliteration": "ḥāmilatā",
+    "lemmaId": 3353
+  },
+  {
+    "id": 1321,
+    "lemma": "حامِيَة",
+    "meaning": "intense heat",
+    "transliteration": "ḥāmīya",
+    "lemmaId": 2304
+  },
+  {
+    "id": 1322,
+    "lemma": "حَبِطَ",
+    "meaning": "to become worthless",
+    "transliteration": "ḥabiṭa",
+    "lemmaId": 715
+  },
+  {
+    "id": 1323,
+    "lemma": "حَبّ",
+    "meaning": "grain",
+    "transliteration": "ḥabb",
+    "lemmaId": 1049
+  },
+  {
+    "id": 1324,
+    "lemma": "حَبَّبَ",
+    "meaning": "to make beloved",
+    "transliteration": "ḥabbaba",
+    "lemmaId": 3354
+  },
+  {
+    "id": 1325,
+    "lemma": "حَبَّة",
+    "meaning": "grain, seed",
+    "transliteration": "ḥabba",
+    "lemmaId": 1303
+  },
+  {
+    "id": 1326,
+    "lemma": "حَبْل",
+    "meaning": "rope, jugular vein",
+    "transliteration": "ḥabl",
+    "lemmaId": 1050
+  },
+  {
+    "id": 1327,
+    "lemma": "حَتْم",
+    "meaning": "inevitability",
+    "transliteration": "ḥatm",
+    "lemmaId": 3355
+  },
+  {
+    "id": 1328,
+    "lemma": "حَثِيث",
+    "meaning": "swift",
+    "transliteration": "ḥathīth",
+    "lemmaId": 3356
+  },
+  {
+    "id": 1329,
+    "lemma": "حَجَر",
+    "meaning": "stone",
+    "transliteration": "ḥajar",
+    "lemmaId": 2305
+  },
+  {
+    "id": 1330,
+    "lemma": "حَجّ",
+    "meaning": "Hajj",
+    "transliteration": "ḥajj",
+    "lemmaId": 885
+  },
+  {
+    "id": 1331,
+    "lemma": "حَجَّ",
+    "meaning": "to perform pilgrimage, to argue",
+    "transliteration": "ḥajja",
+    "lemmaId": 3357
+  },
+  {
+    "id": 1332,
+    "lemma": "حَدائِق",
+    "meaning": "gardens",
+    "transliteration": "ḥadāʾiq",
+    "lemmaId": 1794
+  },
+  {
+    "id": 1333,
+    "lemma": "حَدَب",
+    "meaning": "high, elevated, ground",
+    "transliteration": "ḥadab",
+    "lemmaId": 3358
+  },
+  {
+    "id": 1334,
+    "lemma": "حَدِيث",
+    "meaning": "statement, conversation, narration",
+    "transliteration": "ḥadīth",
+    "lemmaId": 385
+  },
+  {
+    "id": 1335,
+    "lemma": "حَدِيد",
+    "meaning": "iron, sharp",
+    "transliteration": "ḥadīd",
+    "lemmaId": 1148
+  },
+  {
+    "id": 1336,
+    "lemma": "حَذَر",
+    "meaning": "fear",
+    "transliteration": "ḥaḏar",
+    "lemmaId": 2306
+  },
+  {
+    "id": 1337,
+    "lemma": "حَرام",
+    "meaning": "sacred, forbidden",
+    "transliteration": "ḥarām",
+    "lemmaId": 339
+  },
+  {
+    "id": 1338,
+    "lemma": "حَرَج",
+    "meaning": "difficulty, distress, discomfort, guilt",
+    "transliteration": "ḥaraj",
+    "lemmaId": 611
+  },
+  {
+    "id": 1339,
+    "lemma": "حَرَس",
+    "meaning": "guards",
+    "transliteration": "ḥaras",
+    "lemmaId": 3359
+  },
+  {
+    "id": 1340,
+    "lemma": "حَرَصْ",
+    "meaning": "to desire intensely",
+    "transliteration": "ḥaraṣ",
+    "lemmaId": 1795
+  },
+  {
+    "id": 1341,
+    "lemma": "حَرَض",
+    "meaning": "fatally ill",
+    "transliteration": "ḥaraḍ",
+    "lemmaId": 3360
+  },
+  {
+    "id": 1342,
+    "lemma": "حَرُور",
+    "meaning": "intense heat",
+    "transliteration": "ḥarūr",
+    "lemmaId": 3361
+  },
+  {
+    "id": 1343,
+    "lemma": "حَرِير",
+    "meaning": "silk",
+    "transliteration": "ḥarīr",
+    "lemmaId": 1796
+  },
+  {
+    "id": 1344,
+    "lemma": "حَرِيص",
+    "meaning": "to be keen",
+    "transliteration": "ḥarīṣ",
+    "lemmaId": 3362
+  },
+  {
+    "id": 1345,
+    "lemma": "حَرِيق",
+    "meaning": "Blazing Fire",
+    "transliteration": "ḥarīq",
+    "lemmaId": 1304
+  },
+  {
+    "id": 1346,
+    "lemma": "حَرّ",
+    "meaning": "heat",
+    "transliteration": "ḥarr",
+    "lemmaId": 1797
+  },
+  {
+    "id": 1347,
+    "lemma": "حَرَّمَ",
+    "meaning": "to forbid, to declare sacred",
+    "transliteration": "ḥarrama",
+    "lemmaId": 298
+  },
+  {
+    "id": 1348,
+    "lemma": "حَرِّضِ",
+    "meaning": "urge",
+    "transliteration": "ḥarriḍi",
+    "lemmaId": 2307
+  },
+  {
+    "id": 1349,
+    "lemma": "حَرِّقُ",
+    "meaning": "burn",
+    "transliteration": "ḥarriqu",
+    "lemmaId": 1798
+  },
+  {
+    "id": 1350,
+    "lemma": "حَرْب",
+    "meaning": "war",
+    "transliteration": "ḥarba",
+    "lemmaId": 1506
+  },
+  {
+    "id": 1351,
+    "lemma": "حَرْث",
+    "meaning": "field, crop, harvest, cultivated land",
+    "transliteration": "ḥarth",
+    "lemmaId": 674
+  },
+  {
+    "id": 1352,
+    "lemma": "حَرْد",
+    "meaning": "determination",
+    "transliteration": "ḥard",
+    "lemmaId": 3363
+  },
+  {
+    "id": 1353,
+    "lemma": "حَرْف",
+    "meaning": "edge",
+    "transliteration": "ḥarf",
+    "lemmaId": 3364
+  },
+  {
+    "id": 1354,
+    "lemma": "حَزَن",
+    "meaning": "sorrow, grief",
+    "transliteration": "ḥazan",
+    "lemmaId": 1799
+  },
+  {
+    "id": 1355,
+    "lemma": "حَسَد",
+    "meaning": "jealousy, envy",
+    "transliteration": "ḥasada",
+    "lemmaId": 3365
+  },
+  {
+    "id": 1356,
+    "lemma": "حَسَدَ",
+    "meaning": "to envy",
+    "transliteration": "ḥasada",
+    "lemmaId": 1800
+  },
+  {
+    "id": 1357,
+    "lemma": "حَسَن",
+    "meaning": "good, beautiful",
+    "transliteration": "ḥasan",
+    "lemmaId": 478
+  },
+  {
+    "id": 1358,
+    "lemma": "حَسَنَة",
+    "meaning": "good, good deed",
+    "transliteration": "ḥasanah",
+    "lemmaId": 355
+  },
+  {
+    "id": 1359,
+    "lemma": "حَسُنَ",
+    "meaning": "to be the best, to be good",
+    "transliteration": "ḥasuna",
+    "lemmaId": 1801
+  },
+  {
+    "id": 1360,
+    "lemma": "حَسِبَ",
+    "meaning": "to think",
+    "transliteration": "ḥasiba",
+    "lemmaId": 259
+  },
+  {
+    "id": 1361,
+    "lemma": "حَسِيب",
+    "meaning": "Reckoner, reckoner",
+    "transliteration": "ḥasīb",
+    "lemmaId": 1507
+  },
+  {
+    "id": 1362,
+    "lemma": "حَسِير",
+    "meaning": "fatigued",
+    "transliteration": "ḥasīr",
+    "lemmaId": 3366
+  },
+  {
+    "id": 1363,
+    "lemma": "حَسِيس",
+    "meaning": "faint sound",
+    "transliteration": "ḥasīs",
+    "lemmaId": 3367
+  },
+  {
+    "id": 1364,
+    "lemma": "حَسْب",
+    "meaning": "sufficient",
+    "transliteration": "ḥasb",
+    "lemmaId": 759
+  },
+  {
+    "id": 1365,
+    "lemma": "حَسْرَة",
+    "meaning": "regret",
+    "transliteration": "ḥasratun",
+    "lemmaId": 1051
+  },
+  {
+    "id": 1366,
+    "lemma": "حَسْرَت",
+    "meaning": "our regret",
+    "transliteration": "ḥasrat",
+    "lemmaId": 3368
+  },
+  {
+    "id": 1367,
+    "lemma": "حَسْرَتَى",
+    "meaning": "my regret",
+    "transliteration": "ḥasratā",
+    "lemmaId": 3369
+  },
+  {
+    "id": 1368,
+    "lemma": "حَشَرَ",
+    "meaning": "to gather, to assemble",
+    "transliteration": "ḥashara",
+    "lemmaId": 309
+  },
+  {
+    "id": 1369,
+    "lemma": "حَشْر",
+    "meaning": "gathering",
+    "transliteration": "ḥashr",
+    "lemmaId": 2308
+  },
+  {
+    "id": 1370,
+    "lemma": "حَصاد",
+    "meaning": "harvest",
+    "transliteration": "ḥaṣād",
+    "lemmaId": 3370
+  },
+  {
+    "id": 1371,
+    "lemma": "حَصَب",
+    "meaning": "firewood",
+    "transliteration": "ḥaṣab",
+    "lemmaId": 3371
+  },
+  {
+    "id": 1372,
+    "lemma": "حَصَد",
+    "meaning": "to reap",
+    "transliteration": "ḥaṣada",
+    "lemmaId": 3372
+  },
+  {
+    "id": 1373,
+    "lemma": "حَصُور",
+    "meaning": "chaste",
+    "transliteration": "ḥaṣūr",
+    "lemmaId": 3373
+  },
+  {
+    "id": 1374,
+    "lemma": "حَصِرَتْ",
+    "meaning": "to be constrained",
+    "transliteration": "ḥaṣirat",
+    "lemmaId": 2309
+  },
+  {
+    "id": 1375,
+    "lemma": "حَصِيد",
+    "meaning": "that which is harvested, mown down",
+    "transliteration": "ḥaṣīd",
+    "lemmaId": 1508
+  },
+  {
+    "id": 1376,
+    "lemma": "حَصِير",
+    "meaning": "prison",
+    "transliteration": "ḥaṣīr",
+    "lemmaId": 3374
+  },
+  {
+    "id": 1377,
+    "lemma": "حَصْحَصَ",
+    "meaning": "to become manifest",
+    "transliteration": "ḥaṣḥaṣa",
+    "lemmaId": 3375
+  },
+  {
+    "id": 1378,
+    "lemma": "حَضَرَ",
+    "meaning": "to approach, to attend",
+    "transliteration": "ḥaḍara",
+    "lemmaId": 1052
+  },
+  {
+    "id": 1379,
+    "lemma": "حَطَب",
+    "meaning": "firewood",
+    "transliteration": "ḥaṭab",
+    "lemmaId": 2310
+  },
+  {
+    "id": 1380,
+    "lemma": "حَظّ",
+    "meaning": "portion, share",
+    "transliteration": "ḥaẓẓ",
+    "lemmaId": 1053
+  },
+  {
+    "id": 1381,
+    "lemma": "حَفَدَة",
+    "meaning": "grandchildren",
+    "transliteration": "ḥafadaة",
+    "lemmaId": 3376
+  },
+  {
+    "id": 1382,
+    "lemma": "حَفَفْ",
+    "meaning": "to surround",
+    "transliteration": "ḥafaf",
+    "lemmaId": 3377
+  },
+  {
+    "id": 1383,
+    "lemma": "حَفِظَ",
+    "meaning": "to guard, to protect",
+    "transliteration": "ḥafiẓa",
+    "lemmaId": 1054
+  },
+  {
+    "id": 1384,
+    "lemma": "حَفِيظ",
+    "meaning": "guardian",
+    "transliteration": "ḥafīẓ",
+    "lemmaId": 716
+  },
+  {
+    "id": 1385,
+    "lemma": "حَفِيّ",
+    "meaning": "well-informed, ever gracious",
+    "transliteration": "ḥafiyy",
+    "lemmaId": 2311
+  },
+  {
+    "id": 1386,
+    "lemma": "حَقِيق",
+    "meaning": "binding",
+    "transliteration": "ḥaqīq",
+    "lemmaId": 3378
+  },
+  {
+    "id": 1387,
+    "lemma": "حَقّ",
+    "meaning": "truth, right, duty",
+    "transliteration": "ḥaqq",
+    "lemmaId": 56
+  },
+  {
+    "id": 1388,
+    "lemma": "حَقَّ",
+    "meaning": "to be true, to be proved true, to become due, to be fulfilled",
+    "transliteration": "ḥaqqā",
+    "lemmaId": 498
+  },
+  {
+    "id": 1389,
+    "lemma": "حَكَم",
+    "meaning": "arbitrator, judge",
+    "transliteration": "ḥakama",
+    "lemmaId": 1802
+  },
+  {
+    "id": 1390,
+    "lemma": "حَكَمَ",
+    "meaning": "to judge",
+    "transliteration": "ḥakama",
+    "lemmaId": 253
+  },
+  {
+    "id": 1391,
+    "lemma": "حَكِيم",
+    "meaning": "wise, All-Wise",
+    "transliteration": "ḥakīm",
+    "lemmaId": 117
+  },
+  {
+    "id": 1392,
+    "lemma": "حَلائِل",
+    "meaning": "wives",
+    "transliteration": "ḥalāʾil",
+    "lemmaId": 3379
+  },
+  {
+    "id": 1393,
+    "lemma": "حَلال",
+    "meaning": "lawful",
+    "transliteration": "ḥalāl",
+    "lemmaId": 1149
+  },
+  {
+    "id": 1394,
+    "lemma": "حَلَفْ",
+    "meaning": "to swear an oath",
+    "transliteration": "ḥalaf",
+    "lemmaId": 717
+  },
+  {
+    "id": 1395,
+    "lemma": "حَلَلْ",
+    "meaning": "to be released, to untie, to make lawful",
+    "transliteration": "ḥalal",
+    "lemmaId": 642
+  },
+  {
+    "id": 1396,
+    "lemma": "حَلِيم",
+    "meaning": "forbearing, Forbearing",
+    "transliteration": "ḥalīm",
+    "lemmaId": 612
+  },
+  {
+    "id": 1397,
+    "lemma": "حَلّاف",
+    "meaning": "habitual swearer",
+    "transliteration": "ḥallāf",
+    "lemmaId": 3380
+  },
+  {
+    "id": 1398,
+    "lemma": "حَمَإ",
+    "meaning": "black mud",
+    "transliteration": "ḥamai",
+    "lemmaId": 1803
+  },
+  {
+    "id": 1399,
+    "lemma": "حَمَلَ",
+    "meaning": "to carry, to bear",
+    "transliteration": "ḥamala",
+    "lemmaId": 277
+  },
+  {
+    "id": 1400,
+    "lemma": "حَمُولَة",
+    "meaning": "animals fit for carrying burdens",
+    "transliteration": "ḥamūlata",
+    "lemmaId": 3381
+  },
+  {
+    "id": 1401,
+    "lemma": "حَمِئَة",
+    "meaning": "dark mud",
+    "transliteration": "ḥamiʾa",
+    "lemmaId": 3382
+  },
+  {
+    "id": 1402,
+    "lemma": "حَمِيد",
+    "meaning": "praiseworthy",
+    "transliteration": "ḥamīd",
+    "lemmaId": 562
+  },
+  {
+    "id": 1403,
+    "lemma": "حَمِيم",
+    "meaning": "scalding water, intimate relation",
+    "transliteration": "ḥamīm",
+    "lemmaId": 499
+  },
+  {
+    "id": 1404,
+    "lemma": "حَمِيَّة",
+    "meaning": "fiery defiance",
+    "transliteration": "ḥamīya",
+    "lemmaId": 2312
+  },
+  {
+    "id": 1405,
+    "lemma": "حَمّالَة",
+    "meaning": "carrier",
+    "transliteration": "ḥammālat",
+    "lemmaId": 3383
+  },
+  {
+    "id": 1406,
+    "lemma": "حَمْد",
+    "meaning": "praise",
+    "transliteration": "ḥamd",
+    "lemmaId": 266
+  },
+  {
+    "id": 1407,
+    "lemma": "حَمْل",
+    "meaning": "burden, pregnancy, load",
+    "transliteration": "ḥaml",
+    "lemmaId": 1055
+  },
+  {
+    "id": 1408,
+    "lemma": "حَناجِر",
+    "meaning": "throats",
+    "transliteration": "ḥanājir",
+    "lemmaId": 2313
+  },
+  {
+    "id": 1409,
+    "lemma": "حَنان",
+    "meaning": "affection",
+    "transliteration": "ḥanān",
+    "lemmaId": 3384
+  },
+  {
+    "id": 1410,
+    "lemma": "حَنِيذ",
+    "meaning": "roasted",
+    "transliteration": "ḥanīẓ",
+    "lemmaId": 3385
+  },
+  {
+    "id": 1411,
+    "lemma": "حَنِيف",
+    "meaning": "upright, monotheist",
+    "transliteration": "ḥanīf",
+    "lemmaId": 718
+  },
+  {
+    "id": 1412,
+    "lemma": "حَوارِيّ",
+    "meaning": "disciples",
+    "transliteration": "ḥawāriyy",
+    "lemmaId": 1305
+  },
+  {
+    "id": 1413,
+    "lemma": "حَوايا",
+    "meaning": "intestines",
+    "transliteration": "ḥawāyā",
+    "lemmaId": 3386
+  },
+  {
+    "id": 1414,
+    "lemma": "حَوْل",
+    "meaning": "around",
+    "transliteration": "ḥawla",
+    "lemmaId": 563
+  },
+  {
+    "id": 1415,
+    "lemma": "حَىَّ",
+    "meaning": "to live",
+    "transliteration": "ḥayya",
+    "lemmaId": 1056
+  },
+  {
+    "id": 1416,
+    "lemma": "حَياة",
+    "meaning": "life",
+    "transliteration": "ḥayāh",
+    "lemmaId": 148
+  },
+  {
+    "id": 1417,
+    "lemma": "حَيَوان",
+    "meaning": "life",
+    "transliteration": "ḥayawān",
+    "lemmaId": 3387
+  },
+  {
+    "id": 1418,
+    "lemma": "حَيّ",
+    "meaning": "alive",
+    "transliteration": "ḥayy",
+    "lemmaId": 433
+  },
+  {
+    "id": 1419,
+    "lemma": "حَيَّ",
+    "meaning": "to greet",
+    "transliteration": "ḥayya",
+    "lemmaId": 1509
+  },
+  {
+    "id": 1420,
+    "lemma": "حَيَّة",
+    "meaning": "snake",
+    "transliteration": "ḥayyat",
+    "lemmaId": 3388
+  },
+  {
+    "id": 1421,
+    "lemma": "حَيْث",
+    "meaning": "wherever",
+    "transliteration": "ḥayth",
+    "lemmaId": 356
+  },
+  {
+    "id": 1422,
+    "lemma": "حَيْران",
+    "meaning": "confused",
+    "transliteration": "ḥayrān",
+    "lemmaId": 3389
+  },
+  {
+    "id": 1423,
+    "lemma": "حُبُك",
+    "meaning": "pathways",
+    "transliteration": "ḥubuka",
+    "lemmaId": 3390
+  },
+  {
+    "id": 1424,
+    "lemma": "حُبّ",
+    "meaning": "love",
+    "transliteration": "ḥubb",
+    "lemmaId": 886
+  },
+  {
+    "id": 1425,
+    "lemma": "حُجُرَة",
+    "meaning": "private chamber",
+    "transliteration": "ḥujurata",
+    "lemmaId": 3391
+  },
+  {
+    "id": 1426,
+    "lemma": "حُجُور",
+    "meaning": "guardianship",
+    "transliteration": "ḥujūr",
+    "lemmaId": 3392
+  },
+  {
+    "id": 1427,
+    "lemma": "حُجَّة",
+    "meaning": "argument",
+    "transliteration": "ḥujjata",
+    "lemmaId": 1057
+  },
+  {
+    "id": 1428,
+    "lemma": "حُدُود",
+    "meaning": "limit",
+    "transliteration": "ḥudūd",
+    "lemmaId": 643
+  },
+  {
+    "id": 1429,
+    "lemma": "حُرُمَة",
+    "meaning": "sacred rite, violations",
+    "transliteration": "ḥurumah",
+    "lemmaId": 2314
+  },
+  {
+    "id": 1430,
+    "lemma": "حُرّ",
+    "meaning": "free person",
+    "transliteration": "ḥurr",
+    "lemmaId": 2315
+  },
+  {
+    "id": 1431,
+    "lemma": "حُزْن",
+    "meaning": "grief",
+    "transliteration": "ḥuzn",
+    "lemmaId": 2316
+  },
+  {
+    "id": 1432,
+    "lemma": "حُسُوم",
+    "meaning": "to cut off entirely",
+    "transliteration": "ḥusūm",
+    "lemmaId": 3393
+  },
+  {
+    "id": 1433,
+    "lemma": "حُسْبان",
+    "meaning": "reckoning, calculation",
+    "transliteration": "ḥus'bān",
+    "lemmaId": 1804
+  },
+  {
+    "id": 1434,
+    "lemma": "حُسْن",
+    "meaning": "good, excellence, beauty",
+    "transliteration": "ḥusn",
+    "lemmaId": 675
+  },
+  {
+    "id": 1435,
+    "lemma": "حُسْنَى",
+    "meaning": "best, beautiful, good",
+    "transliteration": "ḥusnā",
+    "lemmaId": 564
+  },
+  {
+    "id": 1436,
+    "lemma": "حُسْنَيَيْن",
+    "meaning": "the two best things",
+    "transliteration": "ḥusnayayn",
+    "lemmaId": 3394
+  },
+  {
+    "id": 1437,
+    "lemma": "حُصُون",
+    "meaning": "fortresses",
+    "transliteration": "ḥuṣūn",
+    "lemmaId": 3395
+  },
+  {
+    "id": 1438,
+    "lemma": "حُصِّلَ",
+    "meaning": "to be brought forth",
+    "transliteration": "ḥuṣṣila",
+    "lemmaId": 3396
+  },
+  {
+    "id": 1439,
+    "lemma": "حُطام",
+    "meaning": "debris",
+    "transliteration": "ḥuṭām",
+    "lemmaId": 1805
+  },
+  {
+    "id": 1440,
+    "lemma": "حُطَمَة",
+    "meaning": "crusher",
+    "transliteration": "ḥuṭamah",
+    "lemmaId": 2317
+  },
+  {
+    "id": 1441,
+    "lemma": "حُفْرَة",
+    "meaning": "pit",
+    "transliteration": "ḥufrata",
+    "lemmaId": 3397
+  },
+  {
+    "id": 1442,
+    "lemma": "حُقُب",
+    "meaning": "a long period",
+    "transliteration": "ḥuqub",
+    "lemmaId": 3398
+  },
+  {
+    "id": 1443,
+    "lemma": "حُكّام",
+    "meaning": "authorities",
+    "transliteration": "ḥukkām",
+    "lemmaId": 3399
+  },
+  {
+    "id": 1444,
+    "lemma": "حُكْم",
+    "meaning": "judgment, command, wisdom",
+    "transliteration": "ḥukm",
+    "lemmaId": 360
+  },
+  {
+    "id": 1445,
+    "lemma": "حُلُم",
+    "meaning": "dream, puberty, intelligence",
+    "transliteration": "ḥuluma",
+    "lemmaId": 1150
+  },
+  {
+    "id": 1446,
+    "lemma": "حُلِيّ",
+    "meaning": "ornaments",
+    "transliteration": "ḥuliyy",
+    "lemmaId": 3400
+  },
+  {
+    "id": 1447,
+    "lemma": "حُلُّ",
+    "meaning": "to be adorned",
+    "transliteration": "ḥullu",
+    "lemmaId": 1510
+  },
+  {
+    "id": 1448,
+    "lemma": "حُلْقُوم",
+    "meaning": "throat",
+    "transliteration": "ḥulqūm",
+    "lemmaId": 3401
+  },
+  {
+    "id": 1449,
+    "lemma": "حُمِّلَ",
+    "meaning": "to be made to carry",
+    "transliteration": "ḥummila",
+    "lemmaId": 1306
+  },
+  {
+    "id": 1450,
+    "lemma": "حُمْر",
+    "meaning": "red ones",
+    "transliteration": "ḥumr",
+    "lemmaId": 3402
+  },
+  {
+    "id": 1451,
+    "lemma": "حُنَيْن",
+    "meaning": "Ḥunayn",
+    "transliteration": "ḥunayn",
+    "lemmaId": 3403
+  },
+  {
+    "id": 1452,
+    "lemma": "حُوب",
+    "meaning": "sin",
+    "transliteration": "ḥūb",
+    "lemmaId": 3404
+  },
+  {
+    "id": 1453,
+    "lemma": "حُوت",
+    "meaning": "whale",
+    "transliteration": "ḥūt",
+    "lemmaId": 1307
+  },
+  {
+    "id": 1454,
+    "lemma": "حُور",
+    "meaning": "fair ones",
+    "transliteration": "ḥūr",
+    "lemmaId": 1511
+  },
+  {
+    "id": 1455,
+    "lemma": "حِجاب",
+    "meaning": "veil, screen, barrier",
+    "transliteration": "ḥijāb",
+    "lemmaId": 1058
+  },
+  {
+    "id": 1456,
+    "lemma": "حِجارَة",
+    "meaning": "stones",
+    "transliteration": "ḥijāratun",
+    "lemmaId": 814
+  },
+  {
+    "id": 1457,
+    "lemma": "حِجَج",
+    "meaning": "years",
+    "transliteration": "ḥijaj",
+    "lemmaId": 3405
+  },
+  {
+    "id": 1458,
+    "lemma": "حِجّ",
+    "meaning": "pilgrimage",
+    "transliteration": "ḥijj",
+    "lemmaId": 3406
+  },
+  {
+    "id": 1459,
+    "lemma": "حِجْر",
+    "meaning": "forbidden, sacred, Hijr",
+    "transliteration": "ḥijr",
+    "lemmaId": 1308
+  },
+  {
+    "id": 1460,
+    "lemma": "حِداد",
+    "meaning": "harsh",
+    "transliteration": "ḥidād",
+    "lemmaId": 3407
+  },
+  {
+    "id": 1461,
+    "lemma": "حِذْر",
+    "meaning": "caution",
+    "transliteration": "ḥiẓr",
+    "lemmaId": 1806
+  },
+  {
+    "id": 1462,
+    "lemma": "حِزْب",
+    "meaning": "party, faction, group",
+    "transliteration": "ḥizb",
+    "lemmaId": 500
+  },
+  {
+    "id": 1463,
+    "lemma": "حِساب",
+    "meaning": "account, reckoning",
+    "transliteration": "ḥisāb",
+    "lemmaId": 299
+  },
+  {
+    "id": 1464,
+    "lemma": "حِطَّة",
+    "meaning": "relieve us of our burdens'",
+    "transliteration": "ḥiṭṭa",
+    "lemmaId": 2318
+  },
+  {
+    "id": 1465,
+    "lemma": "حِفْظ",
+    "meaning": "guarding",
+    "transliteration": "ḥifẓ",
+    "lemmaId": 1807
+  },
+  {
+    "id": 1466,
+    "lemma": "حِكْمَة",
+    "meaning": "wisdom",
+    "transliteration": "ḥikmatun",
+    "lemmaId": 501
+  },
+  {
+    "id": 1467,
+    "lemma": "حِلّ",
+    "meaning": "permissible, free from restrictions",
+    "transliteration": "ḥill",
+    "lemmaId": 1309
+  },
+  {
+    "id": 1468,
+    "lemma": "حِلْيَة",
+    "meaning": "ornament",
+    "transliteration": "ḥilya",
+    "lemmaId": 1512
+  },
+  {
+    "id": 1469,
+    "lemma": "حِمار",
+    "meaning": "donkey",
+    "transliteration": "ḥimār",
+    "lemmaId": 1310
+  },
+  {
+    "id": 1470,
+    "lemma": "حِمْل",
+    "meaning": "load",
+    "transliteration": "ḥiml",
+    "lemmaId": 1808
+  },
+  {
+    "id": 1471,
+    "lemma": "حِنث",
+    "meaning": "sin",
+    "transliteration": "ḥintha",
+    "lemmaId": 3408
+  },
+  {
+    "id": 1472,
+    "lemma": "حِوَل",
+    "meaning": "transfer",
+    "transliteration": "ḥiwal",
+    "lemmaId": 3409
+  },
+  {
+    "id": 1473,
+    "lemma": "حِيلَة",
+    "meaning": "strategy",
+    "transliteration": "ḥīlatun",
+    "lemmaId": 3410
+  },
+  {
+    "id": 1474,
+    "lemma": "حِين",
+    "meaning": "time, period, at the time",
+    "transliteration": "ḥīn",
+    "lemmaId": 328
+  },
+  {
+    "id": 1475,
+    "lemma": "خائِب",
+    "meaning": "disappointed",
+    "transliteration": "khāʾib",
+    "lemmaId": 3411
+  },
+  {
+    "id": 1476,
+    "lemma": "خائِض",
+    "meaning": "vain talkers",
+    "transliteration": "khāiḍ",
+    "lemmaId": 3412
+  },
+  {
+    "id": 1477,
+    "lemma": "خائِف",
+    "meaning": "one who fears",
+    "transliteration": "khāʾif",
+    "lemmaId": 1809
+  },
+  {
+    "id": 1478,
+    "lemma": "خائِنَة",
+    "meaning": "treachery",
+    "transliteration": "khāinata",
+    "lemmaId": 2319
+  },
+  {
+    "id": 1479,
+    "lemma": "خابَ",
+    "meaning": "to fail",
+    "transliteration": "khāba",
+    "lemmaId": 1513
+  },
+  {
+    "id": 1480,
+    "lemma": "خاتَم",
+    "meaning": "seal",
+    "transliteration": "khātam",
+    "lemmaId": 3413
+  },
+  {
+    "id": 1481,
+    "lemma": "خادِع",
+    "meaning": "deceiver",
+    "transliteration": "khādiʿ",
+    "lemmaId": 3414
+  },
+  {
+    "id": 1482,
+    "lemma": "خارِج",
+    "meaning": "exiting",
+    "transliteration": "khārij",
+    "lemmaId": 1811
+  },
+  {
+    "id": 1483,
+    "lemma": "خازِن",
+    "meaning": "keepers",
+    "transliteration": "khāzin",
+    "lemmaId": 3415
+  },
+  {
+    "id": 1484,
+    "lemma": "خاسِئ",
+    "meaning": "despised, rejected",
+    "transliteration": "khāsiʾ",
+    "lemmaId": 1812
+  },
+  {
+    "id": 1485,
+    "lemma": "خاسِر",
+    "meaning": "losers",
+    "transliteration": "khāsir",
+    "lemmaId": 346
+  },
+  {
+    "id": 1486,
+    "lemma": "خاسِرَة",
+    "meaning": "in a state of loss",
+    "transliteration": "khāsirata",
+    "lemmaId": 3416
+  },
+  {
+    "id": 1487,
+    "lemma": "خاشِع",
+    "meaning": "humble ones, humbled, submissive",
+    "transliteration": "khāshiʿ",
+    "lemmaId": 644
+  },
+  {
+    "id": 1488,
+    "lemma": "خاصَّة",
+    "meaning": "exclusively",
+    "transliteration": "khāṣṣata",
+    "lemmaId": 3417
+  },
+  {
+    "id": 1489,
+    "lemma": "خاضُ",
+    "meaning": "to engage in idle talk, to converse vainly",
+    "transliteration": "khāḍu",
+    "lemmaId": 887
+  },
+  {
+    "id": 1490,
+    "lemma": "خاضِع",
+    "meaning": "humbled",
+    "transliteration": "khāḍiʿ",
+    "lemmaId": 3418
+  },
+  {
+    "id": 1491,
+    "lemma": "خاطَبَ",
+    "meaning": "to address",
+    "transliteration": "khāṭaba",
+    "lemmaId": 1813
+  },
+  {
+    "id": 1492,
+    "lemma": "خاطِئ",
+    "meaning": "sinners",
+    "transliteration": "khāṭiʾ",
+    "lemmaId": 1311
+  },
+  {
+    "id": 1493,
+    "lemma": "خاطِئَة",
+    "meaning": "sin",
+    "transliteration": "khāṭiʾata",
+    "lemmaId": 2320
+  },
+  {
+    "id": 1494,
+    "lemma": "خافَ",
+    "meaning": "to fear, to be afraid",
+    "transliteration": "khāfa",
+    "lemmaId": 135
+  },
+  {
+    "id": 1495,
+    "lemma": "خافِضَة",
+    "meaning": "one that abases",
+    "transliteration": "khāfiḍa",
+    "lemmaId": 3419
+  },
+  {
+    "id": 1496,
+    "lemma": "خافِيَة",
+    "meaning": "secret",
+    "transliteration": "khāfiya",
+    "lemmaId": 3420
+  },
+  {
+    "id": 1497,
+    "lemma": "خال",
+    "meaning": "maternal uncle",
+    "transliteration": "khāl",
+    "lemmaId": 2321
+  },
+  {
+    "id": 1498,
+    "lemma": "خالَة",
+    "meaning": "maternal aunt",
+    "transliteration": "khālata",
+    "lemmaId": 1814
+  },
+  {
+    "id": 1499,
+    "lemma": "خالِد",
+    "meaning": "to remain, to remain forever",
+    "transliteration": "khālid",
+    "lemmaId": 157
+  },
+  {
+    "id": 1500,
+    "lemma": "خالِص",
+    "meaning": "pure",
+    "transliteration": "khāliṣ",
+    "lemmaId": 2322
+  },
+  {
+    "id": 1501,
+    "lemma": "خالِصَة",
+    "meaning": "exclusively, sincerity",
+    "transliteration": "khāliṣa",
+    "lemmaId": 1312
+  },
+  {
+    "id": 1502,
+    "lemma": "خالِف",
+    "meaning": "those who lag behind",
+    "transliteration": "khālif",
+    "lemmaId": 3421
+  },
+  {
+    "id": 1503,
+    "lemma": "خالِق",
+    "meaning": "to create, creator, the Creator",
+    "transliteration": "khāliq",
+    "lemmaId": 719
+  },
+  {
+    "id": 1504,
+    "lemma": "خالِيَة",
+    "meaning": "past",
+    "transliteration": "khāliya",
+    "lemmaId": 3422
+  },
+  {
+    "id": 1505,
+    "lemma": "خامِد",
+    "meaning": "extinct, extinguished",
+    "transliteration": "khāmid",
+    "lemmaId": 2323
+  },
+  {
+    "id": 1506,
+    "lemma": "خامِسَة",
+    "meaning": "fifth",
+    "transliteration": "khāmisah",
+    "lemmaId": 2324
+  },
+  {
+    "id": 1507,
+    "lemma": "خانُ",
+    "meaning": "to betray",
+    "transliteration": "khānu",
+    "lemmaId": 1313
+  },
+  {
+    "id": 1508,
+    "lemma": "خاوِيَة",
+    "meaning": "collapsed, hollowed out",
+    "transliteration": "khāwiyah",
+    "lemmaId": 1314
+  },
+  {
+    "id": 1509,
+    "lemma": "خَبال",
+    "meaning": "corruption, disorder",
+    "transliteration": "khābāl",
+    "lemmaId": 2325
+  },
+  {
+    "id": 1510,
+    "lemma": "خَبَتْ",
+    "meaning": "to subside",
+    "transliteration": "khabat",
+    "lemmaId": 3423
+  },
+  {
+    "id": 1511,
+    "lemma": "خَبَر",
+    "meaning": "information",
+    "transliteration": "khabar",
+    "lemmaId": 2326
+  },
+  {
+    "id": 1512,
+    "lemma": "خَبُثَ",
+    "meaning": "to be corrupt",
+    "transliteration": "khabutha",
+    "lemmaId": 3424
+  },
+  {
+    "id": 1513,
+    "lemma": "خَبِيث",
+    "meaning": "evil",
+    "transliteration": "khabīth",
+    "lemmaId": 888
+  },
+  {
+    "id": 1514,
+    "lemma": "خَبِيثَة",
+    "meaning": "evil",
+    "transliteration": "khabīthatun",
+    "lemmaId": 1151
+  },
+  {
+    "id": 1515,
+    "lemma": "خَبِير",
+    "meaning": "All-Aware",
+    "transliteration": "khabīr",
+    "lemmaId": 254
+  },
+  {
+    "id": 1516,
+    "lemma": "خَبْء",
+    "meaning": "hidden thing",
+    "transliteration": "khabʾ",
+    "lemmaId": 3425
+  },
+  {
+    "id": 1517,
+    "lemma": "خَتَمَ",
+    "meaning": "to seal",
+    "transliteration": "khatama",
+    "lemmaId": 1315
+  },
+  {
+    "id": 1518,
+    "lemma": "خَتّار",
+    "meaning": "extremely treacherous",
+    "transliteration": "khattār",
+    "lemmaId": 3426
+  },
+  {
+    "id": 1519,
+    "lemma": "خَدّ",
+    "meaning": "cheek",
+    "transliteration": "khadd",
+    "lemmaId": 3427
+  },
+  {
+    "id": 1520,
+    "lemma": "خَذُول",
+    "meaning": "habitual deserter",
+    "transliteration": "khadhūl",
+    "lemmaId": 3428
+  },
+  {
+    "id": 1521,
+    "lemma": "خَراب",
+    "meaning": "destruction",
+    "transliteration": "khurāb",
+    "lemmaId": 3429
+  },
+  {
+    "id": 1522,
+    "lemma": "خَراج",
+    "meaning": "tribute",
+    "transliteration": "khurāj",
+    "lemmaId": 3430
+  },
+  {
+    "id": 1523,
+    "lemma": "خَرَجَ",
+    "meaning": "to go out, to come out, to depart, to leave",
+    "transliteration": "kharaja",
+    "lemmaId": 220
+  },
+  {
+    "id": 1524,
+    "lemma": "خَرَقَ",
+    "meaning": "to forge, to tear",
+    "transliteration": "kharaqa",
+    "lemmaId": 1514
+  },
+  {
+    "id": 1525,
+    "lemma": "خَرّاص",
+    "meaning": "habitual speculators",
+    "transliteration": "kharrāṣ",
+    "lemmaId": 3431
+  },
+  {
+    "id": 1526,
+    "lemma": "خَرَّ",
+    "meaning": "to fall, to prostrate",
+    "transliteration": "kharra",
+    "lemmaId": 720
+  },
+  {
+    "id": 1527,
+    "lemma": "خَرْج",
+    "meaning": "expenditure",
+    "transliteration": "kharj",
+    "lemmaId": 2327
+  },
+  {
+    "id": 1528,
+    "lemma": "خَرْدَل",
+    "meaning": "mustard seed",
+    "transliteration": "khardal",
+    "lemmaId": 2328
+  },
+  {
+    "id": 1529,
+    "lemma": "خَزائِن",
+    "meaning": "treasuries",
+    "transliteration": "khazāʾin",
+    "lemmaId": 963
+  },
+  {
+    "id": 1530,
+    "lemma": "خَزَنَت",
+    "meaning": "gatekeepers",
+    "transliteration": "khazanat",
+    "lemmaId": 1515
+  },
+  {
+    "id": 1531,
+    "lemma": "خَسار",
+    "meaning": "in loss",
+    "transliteration": "khāsār",
+    "lemmaId": 1815
+  },
+  {
+    "id": 1532,
+    "lemma": "خَسَفَ",
+    "meaning": "to cause to sink, to be eclipsed",
+    "transliteration": "khasafa",
+    "lemmaId": 964
+  },
+  {
+    "id": 1533,
+    "lemma": "خَسِرَ",
+    "meaning": "to lose",
+    "transliteration": "khasira",
+    "lemmaId": 584
+  },
+  {
+    "id": 1534,
+    "lemma": "خَشَعَتِ",
+    "meaning": "to become humble, to become subdued",
+    "transliteration": "khashaʿati",
+    "lemmaId": 2329
+  },
+  {
+    "id": 1535,
+    "lemma": "خَشِيَ",
+    "meaning": "to fear",
+    "transliteration": "khashiya",
+    "lemmaId": 290
+  },
+  {
+    "id": 1536,
+    "lemma": "خَشْيَة",
+    "meaning": "fear",
+    "transliteration": "khashiya",
+    "lemmaId": 965
+  },
+  {
+    "id": 1537,
+    "lemma": "خَصاصَة",
+    "meaning": "poverty",
+    "transliteration": "kh​aṣāṣa",
+    "lemmaId": 3432
+  },
+  {
+    "id": 1538,
+    "lemma": "خَصِم",
+    "meaning": "argumentative",
+    "transliteration": "khāṣim",
+    "lemmaId": 3433
+  },
+  {
+    "id": 1539,
+    "lemma": "خَصِيم",
+    "meaning": "adversary, litigant",
+    "transliteration": "khāṣīm",
+    "lemmaId": 1316
+  },
+  {
+    "id": 1540,
+    "lemma": "خَصْم",
+    "meaning": "adversaries",
+    "transliteration": "khawṣm",
+    "lemmaId": 1816
+  },
+  {
+    "id": 1541,
+    "lemma": "خَضِر",
+    "meaning": "greenery",
+    "transliteration": "kh-ḍir",
+    "lemmaId": 3434
+  },
+  {
+    "id": 1542,
+    "lemma": "خَطَأ",
+    "meaning": "mistake",
+    "transliteration": "kh-ṭaʾ",
+    "lemmaId": 2330
+  },
+  {
+    "id": 1543,
+    "lemma": "خَطِفَ",
+    "meaning": "to snatch away",
+    "transliteration": "khafifa",
+    "lemmaId": 1817
+  },
+  {
+    "id": 1544,
+    "lemma": "خَطِيئَة",
+    "meaning": "sin",
+    "transliteration": "kh-aṭīʾa",
+    "lemmaId": 815
+  },
+  {
+    "id": 1545,
+    "lemma": "خَطْفَة",
+    "meaning": "a sudden snatching",
+    "transliteration": "kh-aṭ'fata",
+    "lemmaId": 3435
+  },
+  {
+    "id": 1546,
+    "lemma": "خَفِيف",
+    "meaning": "light",
+    "transliteration": "khafīf",
+    "lemmaId": 2331
+  },
+  {
+    "id": 1547,
+    "lemma": "خَفِيّ",
+    "meaning": "secret, concealed",
+    "transliteration": "khafiyy",
+    "lemmaId": 2332
+  },
+  {
+    "id": 1548,
+    "lemma": "خَفَّتْ",
+    "meaning": "to become light",
+    "transliteration": "khaffat",
+    "lemmaId": 1818
+  },
+  {
+    "id": 1549,
+    "lemma": "خَفَّفَ",
+    "meaning": "to lighten",
+    "transliteration": "khaffafa",
+    "lemmaId": 966
+  },
+  {
+    "id": 1550,
+    "lemma": "خَلا",
+    "meaning": "to be alone, to pass away",
+    "transliteration": "khāla",
+    "lemmaId": 423
+  },
+  {
+    "id": 1551,
+    "lemma": "خَلاق",
+    "meaning": "share, portion",
+    "transliteration": "khālāq",
+    "lemmaId": 1152
+  },
+  {
+    "id": 1552,
+    "lemma": "خَلَصُ",
+    "meaning": "to withdraw",
+    "transliteration": "khal-ṣu",
+    "lemmaId": 3436
+  },
+  {
+    "id": 1553,
+    "lemma": "خَلَطُ",
+    "meaning": "to mix",
+    "transliteration": "khal-ṭu",
+    "lemmaId": 3437
+  },
+  {
+    "id": 1554,
+    "lemma": "خَلَفَ",
+    "meaning": "to succeed, to come after",
+    "transliteration": "khalafa",
+    "lemmaId": 1318
+  },
+  {
+    "id": 1555,
+    "lemma": "خَلَقَ",
+    "meaning": "to create",
+    "transliteration": "khalaqa",
+    "lemmaId": 66
+  },
+  {
+    "id": 1556,
+    "lemma": "خَلِيفَة",
+    "meaning": "vicegerent, successor, inheritor",
+    "transliteration": "khilīfata",
+    "lemmaId": 889
+  },
+  {
+    "id": 1557,
+    "lemma": "خَلِيل",
+    "meaning": "intimate friend",
+    "transliteration": "khalīl",
+    "lemmaId": 1516
+  },
+  {
+    "id": 1558,
+    "lemma": "خَلّاق",
+    "meaning": "Supreme Creator",
+    "transliteration": "khallāq",
+    "lemmaId": 2333
+  },
+  {
+    "id": 1559,
+    "lemma": "خَلُّ",
+    "meaning": "to leave alone",
+    "transliteration": "khallu",
+    "lemmaId": 3438
+  },
+  {
+    "id": 1560,
+    "lemma": "خَلْف",
+    "meaning": "behind, successors",
+    "transliteration": "khalf",
+    "lemmaId": 461
+  },
+  {
+    "id": 1561,
+    "lemma": "خَلْق",
+    "meaning": "creation",
+    "transliteration": "khalq",
+    "lemmaId": 224
+  },
+  {
+    "id": 1562,
+    "lemma": "خَمْر",
+    "meaning": "intoxicant, wine",
+    "transliteration": "khamr",
+    "lemmaId": 1153
+  },
+  {
+    "id": 1563,
+    "lemma": "خَمْسَة",
+    "meaning": "five",
+    "transliteration": "khamsata",
+    "lemmaId": 1819
+  },
+  {
+    "id": 1564,
+    "lemma": "خَمْسِين",
+    "meaning": "fifty",
+    "transliteration": "khamsīna",
+    "lemmaId": 2334
+  },
+  {
+    "id": 1565,
+    "lemma": "خَمْط",
+    "meaning": "bitter",
+    "transliteration": "khamṭ",
+    "lemmaId": 3439
+  },
+  {
+    "id": 1566,
+    "lemma": "خَنّاس",
+    "meaning": "one who retreats",
+    "transliteration": "khannās",
+    "lemmaId": 3440
+  },
+  {
+    "id": 1567,
+    "lemma": "خَوالِف",
+    "meaning": "those who stay behind",
+    "transliteration": "khawālif",
+    "lemmaId": 2335
+  },
+  {
+    "id": 1568,
+    "lemma": "خَوّان",
+    "meaning": "great betrayer",
+    "transliteration": "khawwān",
+    "lemmaId": 2336
+  },
+  {
+    "id": 1569,
+    "lemma": "خَوْض",
+    "meaning": "vain discourse",
+    "transliteration": "khawḍ",
+    "lemmaId": 2337
+  },
+  {
+    "id": 1570,
+    "lemma": "خَوْف",
+    "meaning": "fear",
+    "transliteration": "khawf",
+    "lemmaId": 411
+  },
+  {
+    "id": 1571,
+    "lemma": "خَيْر",
+    "meaning": "goodness, better, best",
+    "transliteration": "khayr",
+    "lemmaId": 68
+  },
+  {
+    "id": 1572,
+    "lemma": "خَيْرَة",
+    "meaning": "good, good deeds",
+    "transliteration": "khayrata",
+    "lemmaId": 816
+  },
+  {
+    "id": 1573,
+    "lemma": "خَيْط",
+    "meaning": "thread",
+    "transliteration": "khayṭ",
+    "lemmaId": 2338
+  },
+  {
+    "id": 1574,
+    "lemma": "خَيْل",
+    "meaning": "horses",
+    "transliteration": "khayl",
+    "lemmaId": 1319
+  },
+  {
+    "id": 1575,
+    "lemma": "خُبْر",
+    "meaning": "knowledge",
+    "transliteration": "khubr",
+    "lemmaId": 2339
+  },
+  {
+    "id": 1576,
+    "lemma": "خُبْز",
+    "meaning": "bread",
+    "transliteration": "khubz",
+    "lemmaId": 3441
+  },
+  {
+    "id": 1577,
+    "lemma": "خُرُوج",
+    "meaning": "departure, exit",
+    "transliteration": "khurūj",
+    "lemmaId": 1320
+  },
+  {
+    "id": 1578,
+    "lemma": "خُرْطُوم",
+    "meaning": "snout",
+    "transliteration": "khurṭūm",
+    "lemmaId": 3442
+  },
+  {
+    "id": 1579,
+    "lemma": "خُسْر",
+    "meaning": "loss",
+    "transliteration": "khusr",
+    "lemmaId": 2340
+  },
+  {
+    "id": 1580,
+    "lemma": "خُسْران",
+    "meaning": "utter loss",
+    "transliteration": "khusrān",
+    "lemmaId": 1821
+  },
+  {
+    "id": 1581,
+    "lemma": "خُشُب",
+    "meaning": "planks",
+    "transliteration": "khushub",
+    "lemmaId": 3443
+  },
+  {
+    "id": 1582,
+    "lemma": "خُشُوع",
+    "meaning": "humility",
+    "transliteration": "khushūʿ",
+    "lemmaId": 3444
+  },
+  {
+    "id": 1583,
+    "lemma": "خُضْر",
+    "meaning": "green",
+    "transliteration": "khuḍr",
+    "lemmaId": 1321
+  },
+  {
+    "id": 1584,
+    "lemma": "خُطُوَة",
+    "meaning": "footsteps",
+    "transliteration": "khuṭūwata",
+    "lemmaId": 1322
+  },
+  {
+    "id": 1585,
+    "lemma": "خُلَطاء",
+    "meaning": "partners",
+    "transliteration": "khul'atā",
+    "lemmaId": 3445
+  },
+  {
+    "id": 1586,
+    "lemma": "خُلُق",
+    "meaning": "moral character, moral customs",
+    "transliteration": "khuluq",
+    "lemmaId": 2342
+  },
+  {
+    "id": 1587,
+    "lemma": "خُلُود",
+    "meaning": "Eternity",
+    "transliteration": "khulūd",
+    "lemmaId": 3446
+  },
+  {
+    "id": 1588,
+    "lemma": "خُلَّة",
+    "meaning": "intimate friendship",
+    "transliteration": "khullata",
+    "lemmaId": 3447
+  },
+  {
+    "id": 1589,
+    "lemma": "خُلِّفُ",
+    "meaning": "to be left behind",
+    "transliteration": "khullifu",
+    "lemmaId": 3448
+  },
+  {
+    "id": 1590,
+    "lemma": "خُلْد",
+    "meaning": "eternity",
+    "transliteration": "khul'd",
+    "lemmaId": 1154
+  },
+  {
+    "id": 1591,
+    "lemma": "خُمُر",
+    "meaning": "head coverings",
+    "transliteration": "khumur",
+    "lemmaId": 3449
+  },
+  {
+    "id": 1592,
+    "lemma": "خُمُس",
+    "meaning": "one fifth",
+    "transliteration": "khumus",
+    "lemmaId": 3450
+  },
+  {
+    "id": 1593,
+    "lemma": "خُنَّس",
+    "meaning": "retreating planets",
+    "transliteration": "khunnas",
+    "lemmaId": 3451
+  },
+  {
+    "id": 1594,
+    "lemma": "خُوار",
+    "meaning": "lowing sound",
+    "transliteration": "khūār",
+    "lemmaId": 2343
+  },
+  {
+    "id": 1595,
+    "lemma": "خِتام",
+    "meaning": "end",
+    "transliteration": "khitām",
+    "lemmaId": 3452
+  },
+  {
+    "id": 1596,
+    "lemma": "خِزْى",
+    "meaning": "disgrace",
+    "transliteration": "khizy",
+    "lemmaId": 760
+  },
+  {
+    "id": 1597,
+    "lemma": "خِطاب",
+    "meaning": "speech",
+    "transliteration": "khiṭāb",
+    "lemmaId": 1822
+  },
+  {
+    "id": 1598,
+    "lemma": "خِطْء",
+    "meaning": "sin",
+    "transliteration": "khiaṭ",
+    "lemmaId": 3453
+  },
+  {
+    "id": 1599,
+    "lemma": "خِطْبَة",
+    "meaning": "marriage proposal",
+    "transliteration": "kh-ṭ'bat",
+    "lemmaId": 3454
+  },
+  {
+    "id": 1600,
+    "lemma": "خِلاف",
+    "meaning": "opposite, behind",
+    "transliteration": "khilāf",
+    "lemmaId": 1155
+  },
+  {
+    "id": 1601,
+    "lemma": "خِلال",
+    "meaning": "amidst",
+    "transliteration": "khilāl",
+    "lemmaId": 967
+  },
+  {
+    "id": 1602,
+    "lemma": "خِلْفَة",
+    "meaning": "succession",
+    "transliteration": "khil'fata",
+    "lemmaId": 3455
+  },
+  {
+    "id": 1603,
+    "lemma": "خِنزِير",
+    "meaning": "swine",
+    "transliteration": "khinzīr",
+    "lemmaId": 1323
+  },
+  {
+    "id": 1604,
+    "lemma": "خِياط",
+    "meaning": "needle",
+    "transliteration": "khīyāṭ",
+    "lemmaId": 3456
+  },
+  {
+    "id": 1605,
+    "lemma": "خِيام",
+    "meaning": "tents",
+    "transliteration": "khīyām",
+    "lemmaId": 3457
+  },
+  {
+    "id": 1606,
+    "lemma": "خِيانَة",
+    "meaning": "betrayal",
+    "transliteration": "khīānata",
+    "lemmaId": 2344
+  },
+  {
+    "id": 1607,
+    "lemma": "خِيفَة",
+    "meaning": "fear",
+    "transliteration": "khīfata",
+    "lemmaId": 1156
+  },
+  {
+    "id": 1608,
+    "lemma": "خِيَرَة",
+    "meaning": "choice",
+    "transliteration": "khīyarat",
+    "lemmaId": 2345
+  },
+  {
+    "id": 1609,
+    "lemma": "دائِبَيْن",
+    "meaning": "constantly moving",
+    "transliteration": "dāibayn",
+    "lemmaId": 3458
+  },
+  {
+    "id": 1610,
+    "lemma": "دائِرَة",
+    "meaning": "turn, misfortune",
+    "transliteration": "dāʾira",
+    "lemmaId": 1823
+  },
+  {
+    "id": 1611,
+    "lemma": "دائِم",
+    "meaning": "everlasting, constant",
+    "transliteration": "dāim",
+    "lemmaId": 2346
+  },
+  {
+    "id": 1612,
+    "lemma": "دابِر",
+    "meaning": "last remnant",
+    "transliteration": "dābir",
+    "lemmaId": 1517
+  },
+  {
+    "id": 1613,
+    "lemma": "دابَّة",
+    "meaning": "creature",
+    "transliteration": "dābbah",
+    "lemmaId": 534
+  },
+  {
+    "id": 1614,
+    "lemma": "داحِضَة",
+    "meaning": "invalid",
+    "transliteration": "dāḥiḍata",
+    "lemmaId": 3459
+  },
+  {
+    "id": 1615,
+    "lemma": "داخِر",
+    "meaning": "humble, humiliated",
+    "transliteration": "dākhir",
+    "lemmaId": 1518
+  },
+  {
+    "id": 1616,
+    "lemma": "داخِل",
+    "meaning": "ones who enter",
+    "transliteration": "dākhil",
+    "lemmaId": 2347
+  },
+  {
+    "id": 1617,
+    "lemma": "دار",
+    "meaning": "house",
+    "transliteration": "dār",
+    "lemmaId": 244
+  },
+  {
+    "id": 1618,
+    "lemma": "داع",
+    "meaning": "caller",
+    "transliteration": "dāʿ",
+    "lemmaId": 1824
+  },
+  {
+    "id": 1619,
+    "lemma": "داعِي",
+    "meaning": "caller, inviter",
+    "transliteration": "dāʿī",
+    "lemmaId": 1519
+  },
+  {
+    "id": 1620,
+    "lemma": "دافِع",
+    "meaning": "defender",
+    "transliteration": "dāfiʿ",
+    "lemmaId": 2348
+  },
+  {
+    "id": 1621,
+    "lemma": "دافِق",
+    "meaning": "gushing",
+    "transliteration": "dāfiq",
+    "lemmaId": 3460
+  },
+  {
+    "id": 1622,
+    "lemma": "دامُ",
+    "meaning": "they remain",
+    "transliteration": "dāmu",
+    "lemmaId": 1059
+  },
+  {
+    "id": 1623,
+    "lemma": "دان",
+    "meaning": "close",
+    "transliteration": "dān",
+    "lemmaId": 3461
+  },
+  {
+    "id": 1624,
+    "lemma": "دانِيَة",
+    "meaning": "near",
+    "transliteration": "dāniyahtun",
+    "lemmaId": 1825
+  },
+  {
+    "id": 1625,
+    "lemma": "داوُد",
+    "meaning": "Dāwūd",
+    "transliteration": "dāwūd",
+    "lemmaId": 585
+  },
+  {
+    "id": 1626,
+    "lemma": "دَأَب",
+    "meaning": "continuously",
+    "transliteration": "daʾba",
+    "lemmaId": 3462
+  },
+  {
+    "id": 1627,
+    "lemma": "دَأْب",
+    "meaning": "persistent behaviour",
+    "transliteration": "daʾb",
+    "lemmaId": 1520
+  },
+  {
+    "id": 1628,
+    "lemma": "دَحَى",
+    "meaning": "to spread out",
+    "transliteration": "daḥā",
+    "lemmaId": 3463
+  },
+  {
+    "id": 1629,
+    "lemma": "دَخَل",
+    "meaning": "deception",
+    "transliteration": "dakhala",
+    "lemmaId": 2349
+  },
+  {
+    "id": 1630,
+    "lemma": "دَخَلَ",
+    "meaning": "to enter",
+    "transliteration": "dakhala",
+    "lemmaId": 149
+  },
+  {
+    "id": 1631,
+    "lemma": "دَراهِم",
+    "meaning": "dirham",
+    "transliteration": "darāhim",
+    "lemmaId": 3464
+  },
+  {
+    "id": 1632,
+    "lemma": "دَرَجَة",
+    "meaning": "degree, rank",
+    "transliteration": "darajah",
+    "lemmaId": 535
+  },
+  {
+    "id": 1633,
+    "lemma": "دَرَسُ",
+    "meaning": "to study, to learn",
+    "transliteration": "darasu",
+    "lemmaId": 1324
+  },
+  {
+    "id": 1634,
+    "lemma": "دَرَك",
+    "meaning": "to be overtaken",
+    "transliteration": "daraka",
+    "lemmaId": 3465
+  },
+  {
+    "id": 1635,
+    "lemma": "دَرْك",
+    "meaning": "depth",
+    "transliteration": "dark",
+    "lemmaId": 3466
+  },
+  {
+    "id": 1636,
+    "lemma": "دَسَّى",
+    "meaning": "to deeply suppress",
+    "transliteration": "dassā",
+    "lemmaId": 3467
+  },
+  {
+    "id": 1637,
+    "lemma": "دَعا",
+    "meaning": "to call, to invite, to supplicate",
+    "transliteration": "daʿā",
+    "lemmaId": 71
+  },
+  {
+    "id": 1638,
+    "lemma": "دَعّ",
+    "meaning": "violent rejection",
+    "transliteration": "daʿʿ",
+    "lemmaId": 3468
+  },
+  {
+    "id": 1639,
+    "lemma": "دَعْ",
+    "meaning": "dismiss",
+    "transliteration": "daʿ",
+    "lemmaId": 3469
+  },
+  {
+    "id": 1640,
+    "lemma": "دَعْوَة",
+    "meaning": "call, supplication, claim",
+    "transliteration": "daʿwatu",
+    "lemmaId": 1157
+  },
+  {
+    "id": 1641,
+    "lemma": "دَفَعْ",
+    "meaning": "to defend, to deliver, to repel",
+    "transliteration": "dafʿ",
+    "lemmaId": 1325
+  },
+  {
+    "id": 1642,
+    "lemma": "دَفْع",
+    "meaning": "repelling",
+    "transliteration": "dafʿ",
+    "lemmaId": 2350
+  },
+  {
+    "id": 1643,
+    "lemma": "دَكّ",
+    "meaning": "crushed, leveled",
+    "transliteration": "dakk",
+    "lemmaId": 1826
+  },
+  {
+    "id": 1644,
+    "lemma": "دَكّاء",
+    "meaning": "leveled to the ground",
+    "transliteration": "dakkā",
+    "lemmaId": 3470
+  },
+  {
+    "id": 1645,
+    "lemma": "دَكَّة",
+    "meaning": "crushing",
+    "transliteration": "dakkah",
+    "lemmaId": 3471
+  },
+  {
+    "id": 1646,
+    "lemma": "دَلِيل",
+    "meaning": "guide",
+    "transliteration": "dalīl",
+    "lemmaId": 3472
+  },
+  {
+    "id": 1647,
+    "lemma": "دَلَّ",
+    "meaning": "to indicate, to guide",
+    "transliteration": "dalla",
+    "lemmaId": 1060
+  },
+  {
+    "id": 1648,
+    "lemma": "دَلْو",
+    "meaning": "bucket",
+    "transliteration": "dalwu",
+    "lemmaId": 3473
+  },
+  {
+    "id": 1649,
+    "lemma": "دَم",
+    "meaning": "blood",
+    "transliteration": "dam",
+    "lemmaId": 817
+  },
+  {
+    "id": 1650,
+    "lemma": "دَمَّرَ",
+    "meaning": "to destroy",
+    "transliteration": "dammara",
+    "lemmaId": 968
+  },
+  {
+    "id": 1651,
+    "lemma": "دَمْدَمَ",
+    "meaning": "to annihilate",
+    "transliteration": "damdama",
+    "lemmaId": 3474
+  },
+  {
+    "id": 1652,
+    "lemma": "دَمْع",
+    "meaning": "tears",
+    "transliteration": "damʿ",
+    "lemmaId": 2351
+  },
+  {
+    "id": 1653,
+    "lemma": "دَنا",
+    "meaning": "to come near, approach",
+    "transliteration": "danā",
+    "lemmaId": 2352
+  },
+  {
+    "id": 1654,
+    "lemma": "دَهْر",
+    "meaning": "time",
+    "transliteration": "dahr",
+    "lemmaId": 2353
+  },
+  {
+    "id": 1655,
+    "lemma": "دَوائِر",
+    "meaning": "turns of misfortune",
+    "transliteration": "dawāir",
+    "lemmaId": 3475
+  },
+  {
+    "id": 1656,
+    "lemma": "دَيّار",
+    "meaning": "inhabitant",
+    "transliteration": "dayyār",
+    "lemmaId": 3476
+  },
+  {
+    "id": 1657,
+    "lemma": "دَيْن",
+    "meaning": "debt",
+    "transliteration": "dayn",
+    "lemmaId": 1326
+  },
+  {
+    "id": 1658,
+    "lemma": "دُبُر",
+    "meaning": "back",
+    "transliteration": "dubur",
+    "lemmaId": 536
+  },
+  {
+    "id": 1659,
+    "lemma": "دُحُور",
+    "meaning": "repelled",
+    "transliteration": "duḥūr",
+    "lemmaId": 3477
+  },
+  {
+    "id": 1660,
+    "lemma": "دُخان",
+    "meaning": "smoke",
+    "transliteration": "dukhān",
+    "lemmaId": 2354
+  },
+  {
+    "id": 1661,
+    "lemma": "دُرِّيّ",
+    "meaning": "luminous",
+    "transliteration": "durriyy",
+    "lemmaId": 3478
+  },
+  {
+    "id": 1662,
+    "lemma": "دُسُر",
+    "meaning": "nails",
+    "transliteration": "dusur",
+    "lemmaId": 3479
+  },
+  {
+    "id": 1663,
+    "lemma": "دُعاء",
+    "meaning": "prayer, supplication, call",
+    "transliteration": "duʿā",
+    "lemmaId": 462
+  },
+  {
+    "id": 1664,
+    "lemma": "دُكَّتِ",
+    "meaning": "pounded",
+    "transliteration": "dukkati",
+    "lemmaId": 2355
+  },
+  {
+    "id": 1665,
+    "lemma": "دُلُوك",
+    "meaning": "decline",
+    "transliteration": "dulūk",
+    "lemmaId": 3480
+  },
+  {
+    "id": 1666,
+    "lemma": "دُنْيا",
+    "meaning": "world, nearest",
+    "transliteration": "dunyā",
+    "lemmaId": 106
+  },
+  {
+    "id": 1667,
+    "lemma": "دُهْن",
+    "meaning": "oil",
+    "transliteration": "duhn",
+    "lemmaId": 3481
+  },
+  {
+    "id": 1668,
+    "lemma": "دُولَة",
+    "meaning": "circulating wealth",
+    "transliteration": "dūlata",
+    "lemmaId": 3482
+  },
+  {
+    "id": 1669,
+    "lemma": "دُون",
+    "meaning": "other than, besides, instead of, without",
+    "transliteration": "dūn",
+    "lemmaId": 85
+  },
+  {
+    "id": 1670,
+    "lemma": "دِراسَت",
+    "meaning": "study",
+    "transliteration": "dirāsat",
+    "lemmaId": 3483
+  },
+  {
+    "id": 1671,
+    "lemma": "دِفْء",
+    "meaning": "warmth",
+    "transliteration": "difʾ",
+    "lemmaId": 3484
+  },
+  {
+    "id": 1672,
+    "lemma": "دِهاق",
+    "meaning": "full to the brim",
+    "transliteration": "dihāq",
+    "lemmaId": 3485
+  },
+  {
+    "id": 1673,
+    "lemma": "دِهان",
+    "meaning": "molten oil",
+    "transliteration": "dihān",
+    "lemmaId": 3486
+  },
+  {
+    "id": 1674,
+    "lemma": "دِين",
+    "meaning": "religion, judgment",
+    "transliteration": "dīn",
+    "lemmaId": 120
+  },
+  {
+    "id": 1675,
+    "lemma": "دِينار",
+    "meaning": "gold coin",
+    "transliteration": "dīnār",
+    "lemmaId": 3487
+  },
+  {
+    "id": 1676,
+    "lemma": "دِيَة",
+    "meaning": "blood money",
+    "transliteration": "dīya",
+    "lemmaId": 2356
+  },
+  {
+    "id": 1677,
+    "lemma": "ذا",
+    "meaning": "the one, the one with, the one of, one of, of, that",
+    "transliteration": "dhā",
+    "lemmaId": 16
+  },
+  {
+    "id": 1678,
+    "lemma": "ذائِقَة",
+    "meaning": "tasting",
+    "transliteration": "dhāiqah",
+    "lemmaId": 1827
+  },
+  {
+    "id": 1679,
+    "lemma": "ذائِقُوا",
+    "meaning": "those who taste",
+    "transliteration": "dhāqiyqū",
+    "lemmaId": 2357
+  },
+  {
+    "id": 1680,
+    "lemma": "ذارِيَة",
+    "meaning": "scattering winds",
+    "transliteration": "dhāriyah",
+    "lemmaId": 3488
+  },
+  {
+    "id": 1681,
+    "lemma": "ذاقُ",
+    "meaning": "to taste",
+    "transliteration": "dhāqu",
+    "lemmaId": 321
+  },
+  {
+    "id": 1682,
+    "lemma": "ذاكِر",
+    "meaning": "ones who remember, men who remember",
+    "transliteration": "dhākir",
+    "lemmaId": 2358
+  },
+  {
+    "id": 1683,
+    "lemma": "ذاكِرَة",
+    "meaning": "women who remember",
+    "transliteration": "dhākirah",
+    "lemmaId": 3489
+  },
+  {
+    "id": 1684,
+    "lemma": "ذاهِب",
+    "meaning": "going",
+    "transliteration": "dhāhib",
+    "lemmaId": 3490
+  },
+  {
+    "id": 1685,
+    "lemma": "ذَرَأَ",
+    "meaning": "to create, to produce, to multiply",
+    "transliteration": "dharā",
+    "lemmaId": 1158
+  },
+  {
+    "id": 1686,
+    "lemma": "ذَرَّة",
+    "meaning": "atom",
+    "transliteration": "dharrata",
+    "lemmaId": 1159
+  },
+  {
+    "id": 1687,
+    "lemma": "ذَرْع",
+    "meaning": "length, capacity",
+    "transliteration": "ḏarʿ",
+    "lemmaId": 1828
+  },
+  {
+    "id": 1688,
+    "lemma": "ذَرْو",
+    "meaning": "dispersing",
+    "transliteration": "ḏarwo",
+    "lemmaId": 3491
+  },
+  {
+    "id": 1689,
+    "lemma": "ذَكَر",
+    "meaning": "male",
+    "transliteration": "dhakar",
+    "lemmaId": 537
+  },
+  {
+    "id": 1690,
+    "lemma": "ذَكَرَ",
+    "meaning": "to remember, to mention",
+    "transliteration": "dhakara",
+    "lemmaId": 132
+  },
+  {
+    "id": 1691,
+    "lemma": "ذَكَّيْ",
+    "meaning": "to properly slaughter",
+    "transliteration": "dhakay",
+    "lemmaId": 3492
+  },
+  {
+    "id": 1692,
+    "lemma": "ذَلُول",
+    "meaning": "subservient, tamed",
+    "transliteration": "dhalūl",
+    "lemmaId": 2359
+  },
+  {
+    "id": 1693,
+    "lemma": "ذَنب",
+    "meaning": "sin",
+    "transliteration": "dhambi",
+    "lemmaId": 310
+  },
+  {
+    "id": 1694,
+    "lemma": "ذَنُوب",
+    "meaning": "portion",
+    "transliteration": "dhanoūb",
+    "lemmaId": 2360
+  },
+  {
+    "id": 1695,
+    "lemma": "ذَهاب",
+    "meaning": "to take away",
+    "transliteration": "dhāb",
+    "lemmaId": 3493
+  },
+  {
+    "id": 1696,
+    "lemma": "ذَهَب",
+    "meaning": "gold",
+    "transliteration": "dhahaba",
+    "lemmaId": 969
+  },
+  {
+    "id": 1697,
+    "lemma": "ذَهَبَ",
+    "meaning": "to go, to take away",
+    "transliteration": "ḏahaba",
+    "lemmaId": 329
+  },
+  {
+    "id": 1698,
+    "lemma": "ذُباب",
+    "meaning": "fly",
+    "transliteration": "dhubāb",
+    "lemmaId": 2361
+  },
+  {
+    "id": 1699,
+    "lemma": "ذُبِحَ",
+    "meaning": "to be slaughtered, to be sacrificed",
+    "transliteration": "dhubiḥa",
+    "lemmaId": 1327
+  },
+  {
+    "id": 1700,
+    "lemma": "ذُرِّيَّة",
+    "meaning": "offspring, descendants",
+    "transliteration": "dhurriyya",
+    "lemmaId": 347
+  },
+  {
+    "id": 1701,
+    "lemma": "ذُكِّرَ",
+    "meaning": "to be reminded",
+    "transliteration": "dhukkira",
+    "lemmaId": 538
+  },
+  {
+    "id": 1702,
+    "lemma": "ذُلُل",
+    "meaning": "to make smooth",
+    "transliteration": "dhulul",
+    "lemmaId": 3494
+  },
+  {
+    "id": 1703,
+    "lemma": "ذُلّ",
+    "meaning": "humiliation, weakness, disgrace",
+    "transliteration": "dhull",
+    "lemmaId": 1829
+  },
+  {
+    "id": 1704,
+    "lemma": "ذُو",
+    "meaning": "possessor of",
+    "transliteration": "dhū",
+    "lemmaId": 78
+  },
+  {
+    "id": 1705,
+    "lemma": "ذِئْب",
+    "meaning": "wolf",
+    "transliteration": "dhīʾb",
+    "lemmaId": 1830
+  },
+  {
+    "id": 1706,
+    "lemma": "ذِبْح",
+    "meaning": "sacrifice",
+    "transliteration": "dhibḥ",
+    "lemmaId": 3495
+  },
+  {
+    "id": 1707,
+    "lemma": "ذِراع",
+    "meaning": "cubit, forearm",
+    "transliteration": "dhirāʿ",
+    "lemmaId": 2363
+  },
+  {
+    "id": 1708,
+    "lemma": "ذِكْر",
+    "meaning": "remembrance, reminder, mention",
+    "transliteration": "dhikr",
+    "lemmaId": 150
+  },
+  {
+    "id": 1709,
+    "lemma": "ذِكْرَى",
+    "meaning": "reminder, remembrance",
+    "transliteration": "dhik'rā",
+    "lemmaId": 445
+  },
+  {
+    "id": 1710,
+    "lemma": "ذِلَّة",
+    "meaning": "humiliation",
+    "transliteration": "dhillah",
+    "lemmaId": 1061
+  },
+  {
+    "id": 1711,
+    "lemma": "ذِمَّة",
+    "meaning": "covenant of protection",
+    "transliteration": "dhimmatun",
+    "lemmaId": 2364
+  },
+  {
+    "id": 1712,
+    "lemma": "رابِطُ",
+    "meaning": "stand firm",
+    "transliteration": "rābiṭu",
+    "lemmaId": 3496
+  },
+  {
+    "id": 1713,
+    "lemma": "رابِي",
+    "meaning": "rising",
+    "transliteration": "rābī",
+    "lemmaId": 3497
+  },
+  {
+    "id": 1714,
+    "lemma": "رابِيَة",
+    "meaning": "exceeding",
+    "transliteration": "rābīya",
+    "lemmaId": 3498
+  },
+  {
+    "id": 1715,
+    "lemma": "راجِع",
+    "meaning": "returning",
+    "transliteration": "rājic",
+    "lemmaId": 1522
+  },
+  {
+    "id": 1716,
+    "lemma": "راجِفَة",
+    "meaning": "the quaking one",
+    "transliteration": "rājifah",
+    "lemmaId": 3499
+  },
+  {
+    "id": 1717,
+    "lemma": "راحِم",
+    "meaning": "those who show mercy",
+    "transliteration": "rāḥim",
+    "lemmaId": 1160
+  },
+  {
+    "id": 1718,
+    "lemma": "رادِفَة",
+    "meaning": "subsequent",
+    "transliteration": "rādifah",
+    "lemmaId": 3500
+  },
+  {
+    "id": 1719,
+    "lemma": "رادّ",
+    "meaning": "to repel, to restore, to take back",
+    "transliteration": "rādd",
+    "lemmaId": 1831
+  },
+  {
+    "id": 1720,
+    "lemma": "رادِّي",
+    "meaning": "return",
+    "transliteration": "rāddī",
+    "lemmaId": 3501
+  },
+  {
+    "id": 1721,
+    "lemma": "رازِق",
+    "meaning": "providers",
+    "transliteration": "rāziq",
+    "lemmaId": 1161
+  },
+  {
+    "id": 1722,
+    "lemma": "راسِخ",
+    "meaning": "firm",
+    "transliteration": "rāsik",
+    "lemmaId": 2366
+  },
+  {
+    "id": 1723,
+    "lemma": "راشِد",
+    "meaning": "the guided ones",
+    "transliteration": "rāshid",
+    "lemmaId": 3502
+  },
+  {
+    "id": 1724,
+    "lemma": "راضِيَة",
+    "meaning": "satisfied, pleased",
+    "transliteration": "rāḍiyahtu",
+    "lemmaId": 1523
+  },
+  {
+    "id": 1725,
+    "lemma": "راعي",
+    "meaning": "observers",
+    "transliteration": "rāʿi",
+    "lemmaId": 2367
+  },
+  {
+    "id": 1726,
+    "lemma": "راعِ",
+    "meaning": "hear us",
+    "transliteration": "rāʿi",
+    "lemmaId": 2368
+  },
+  {
+    "id": 1727,
+    "lemma": "راغِب",
+    "meaning": "those who long for, to turn away",
+    "transliteration": "rāghib",
+    "lemmaId": 1833
+  },
+  {
+    "id": 1728,
+    "lemma": "رافِع",
+    "meaning": "one who raises",
+    "transliteration": "rāfiʿ",
+    "lemmaId": 3503
+  },
+  {
+    "id": 1729,
+    "lemma": "رافِعَة",
+    "meaning": "that which raises",
+    "transliteration": "rāfiʿa",
+    "lemmaId": 3504
+  },
+  {
+    "id": 1730,
+    "lemma": "راق",
+    "meaning": "spiritual healer",
+    "transliteration": "rāq",
+    "lemmaId": 3505
+  },
+  {
+    "id": 1731,
+    "lemma": "راكِع",
+    "meaning": "to bow",
+    "transliteration": "rākʿ",
+    "lemmaId": 970
+  },
+  {
+    "id": 1732,
+    "lemma": "رانَ",
+    "meaning": "to cover",
+    "transliteration": "rāna",
+    "lemmaId": 3506
+  },
+  {
+    "id": 1733,
+    "lemma": "راوَدُ",
+    "meaning": "to seduce, to demand, to get permission",
+    "transliteration": "rāwadu",
+    "lemmaId": 971
+  },
+  {
+    "id": 1734,
+    "lemma": "رَءُوف",
+    "meaning": "Most Kind",
+    "transliteration": "raʾūf",
+    "lemmaId": 761
+  },
+  {
+    "id": 1735,
+    "lemma": "رَأَى",
+    "meaning": "to see",
+    "transliteration": "raʾā",
+    "lemmaId": 52
+  },
+  {
+    "id": 1736,
+    "lemma": "رَأْس",
+    "meaning": "head",
+    "transliteration": "raʾs",
+    "lemmaId": 539
+  },
+  {
+    "id": 1737,
+    "lemma": "رَأْفَة",
+    "meaning": "pity, compassion",
+    "transliteration": "raʾfata",
+    "lemmaId": 2369
+  },
+  {
+    "id": 1738,
+    "lemma": "رَأْى",
+    "meaning": "sight, opinion",
+    "transliteration": "raʾā",
+    "lemmaId": 2370
+  },
+  {
+    "id": 1739,
+    "lemma": "رَبائِب",
+    "meaning": "stepdaughters",
+    "transliteration": "rabāʾib",
+    "lemmaId": 3507
+  },
+  {
+    "id": 1740,
+    "lemma": "رَبَتْ",
+    "meaning": "to increase, to swell",
+    "transliteration": "rabat",
+    "lemmaId": 1524
+  },
+  {
+    "id": 1741,
+    "lemma": "رَبِحَت",
+    "meaning": "to profit",
+    "transliteration": "rabiḥat",
+    "lemmaId": 3508
+  },
+  {
+    "id": 1742,
+    "lemma": "رَبّ",
+    "meaning": "Lord, master",
+    "transliteration": "rabb",
+    "lemmaId": 17
+  },
+  {
+    "id": 1743,
+    "lemma": "رَبّانِيِّن",
+    "meaning": "learned scholars",
+    "transliteration": "rabbāniyyin",
+    "lemmaId": 1835
+  },
+  {
+    "id": 1744,
+    "lemma": "رَبَّيَ",
+    "meaning": "to raise",
+    "transliteration": "rabbaya",
+    "lemmaId": 2371
+  },
+  {
+    "id": 1745,
+    "lemma": "رَتْق",
+    "meaning": "joined",
+    "transliteration": "ratq",
+    "lemmaId": 3509
+  },
+  {
+    "id": 1746,
+    "lemma": "رَجَعَ",
+    "meaning": "to return",
+    "transliteration": "rajʿa",
+    "lemmaId": 142
+  },
+  {
+    "id": 1747,
+    "lemma": "رَجَمْ",
+    "meaning": "to stone",
+    "transliteration": "rajam",
+    "lemmaId": 1328
+  },
+  {
+    "id": 1748,
+    "lemma": "رَجُل",
+    "meaning": "man",
+    "transliteration": "rajul",
+    "lemmaId": 374
+  },
+  {
+    "id": 1749,
+    "lemma": "رَجِل",
+    "meaning": "infantry",
+    "transliteration": "rajil",
+    "lemmaId": 3510
+  },
+  {
+    "id": 1750,
+    "lemma": "رَجِيم",
+    "meaning": "accursed, rejected, expelled",
+    "transliteration": "rajīm",
+    "lemmaId": 1162
+  },
+  {
+    "id": 1751,
+    "lemma": "رَجّ",
+    "meaning": "shaking",
+    "transliteration": "rajj",
+    "lemmaId": 3511
+  },
+  {
+    "id": 1752,
+    "lemma": "رَجْع",
+    "meaning": "return",
+    "transliteration": "rajʿ",
+    "lemmaId": 1836
+  },
+  {
+    "id": 1753,
+    "lemma": "رَجْفَة",
+    "meaning": "the earthquake",
+    "transliteration": "raj'fata",
+    "lemmaId": 1525
+  },
+  {
+    "id": 1754,
+    "lemma": "رَجْم",
+    "meaning": "to guess",
+    "transliteration": "rajm",
+    "lemmaId": 3512
+  },
+  {
+    "id": 1755,
+    "lemma": "رَحُبَتْ",
+    "meaning": "to be vast",
+    "transliteration": "raḥubat",
+    "lemmaId": 2374
+  },
+  {
+    "id": 1756,
+    "lemma": "رَحِمَ",
+    "meaning": "to show mercy",
+    "transliteration": "raḥima",
+    "lemmaId": 386
+  },
+  {
+    "id": 1757,
+    "lemma": "رَحِيق",
+    "meaning": "pure wine",
+    "transliteration": "raḥīq",
+    "lemmaId": 3513
+  },
+  {
+    "id": 1758,
+    "lemma": "رَحِيم",
+    "meaning": "Most Compassionate",
+    "transliteration": "raḥīm",
+    "lemmaId": 105
+  },
+  {
+    "id": 1759,
+    "lemma": "رَحْل",
+    "meaning": "pack-saddle",
+    "transliteration": "raḥl",
+    "lemmaId": 1837
+  },
+  {
+    "id": 1760,
+    "lemma": "رَحْمَة",
+    "meaning": "mercy",
+    "transliteration": "raḥma",
+    "lemmaId": 107
+  },
+  {
+    "id": 1761,
+    "lemma": "رَحْمٰن",
+    "meaning": "Most Merciful",
+    "transliteration": "raḥmān",
+    "lemmaId": 205
+  },
+  {
+    "id": 1762,
+    "lemma": "رَدِفَ",
+    "meaning": "to follow closely",
+    "transliteration": "radifa",
+    "lemmaId": 3514
+  },
+  {
+    "id": 1763,
+    "lemma": "رَدَّ",
+    "meaning": "to turn back, to return",
+    "transliteration": "radda",
+    "lemmaId": 322
+  },
+  {
+    "id": 1764,
+    "lemma": "رَدْم",
+    "meaning": "barrier",
+    "transliteration": "radm",
+    "lemmaId": 3515
+  },
+  {
+    "id": 1765,
+    "lemma": "رَزَقَ",
+    "meaning": "to provide",
+    "transliteration": "razāqa",
+    "lemmaId": 196
+  },
+  {
+    "id": 1766,
+    "lemma": "رَزّاق",
+    "meaning": "All-Provider",
+    "transliteration": "razzāq",
+    "lemmaId": 3516
+  },
+  {
+    "id": 1767,
+    "lemma": "رَسُول",
+    "meaning": "Messenger, Messengers",
+    "transliteration": "rasūl",
+    "lemmaId": 40
+  },
+  {
+    "id": 1768,
+    "lemma": "رَسّ",
+    "meaning": "Ar-Rass",
+    "transliteration": "rass",
+    "lemmaId": 2376
+  },
+  {
+    "id": 1769,
+    "lemma": "رَشاد",
+    "meaning": "right direction",
+    "transliteration": "rashād",
+    "lemmaId": 2377
+  },
+  {
+    "id": 1770,
+    "lemma": "رَشَد",
+    "meaning": "right guidance",
+    "transliteration": "rashada",
+    "lemmaId": 1329
+  },
+  {
+    "id": 1771,
+    "lemma": "رَشِيد",
+    "meaning": "rightly guided, wise",
+    "transliteration": "rashīd",
+    "lemmaId": 1838
+  },
+  {
+    "id": 1772,
+    "lemma": "رَصَد",
+    "meaning": "to wait, to guard",
+    "transliteration": "raṣad",
+    "lemmaId": 2378
+  },
+  {
+    "id": 1773,
+    "lemma": "رَضِيَ",
+    "meaning": "to be pleased, to approve",
+    "transliteration": "raḍiya",
+    "lemmaId": 303
+  },
+  {
+    "id": 1774,
+    "lemma": "رَضِيّ",
+    "meaning": "pleasing",
+    "transliteration": "raḍiyy",
+    "lemmaId": 3517
+  },
+  {
+    "id": 1775,
+    "lemma": "رَطْب",
+    "meaning": "moist",
+    "transliteration": "raṭb",
+    "lemmaId": 3518
+  },
+  {
+    "id": 1776,
+    "lemma": "رَعَ",
+    "meaning": "to pasture, to observe",
+    "transliteration": "raʿa",
+    "lemmaId": 2380
+  },
+  {
+    "id": 1777,
+    "lemma": "رَعْد",
+    "meaning": "thunder",
+    "transliteration": "raʿd",
+    "lemmaId": 2381
+  },
+  {
+    "id": 1778,
+    "lemma": "رَغَب",
+    "meaning": "in hope",
+    "transliteration": "raghab",
+    "lemmaId": 3519
+  },
+  {
+    "id": 1779,
+    "lemma": "رَغَد",
+    "meaning": "abundance",
+    "transliteration": "raghad",
+    "lemmaId": 1839
+  },
+  {
+    "id": 1780,
+    "lemma": "رَفَث",
+    "meaning": "intimate relations",
+    "transliteration": "rafath",
+    "lemmaId": 2382
+  },
+  {
+    "id": 1781,
+    "lemma": "رَفَعَ",
+    "meaning": "to raise",
+    "transliteration": "rafaʿ",
+    "lemmaId": 463
+  },
+  {
+    "id": 1782,
+    "lemma": "رَفِيع",
+    "meaning": "possessor of the highest rank",
+    "transliteration": "rafīʿ",
+    "lemmaId": 3520
+  },
+  {
+    "id": 1783,
+    "lemma": "رَفِيق",
+    "meaning": "companion",
+    "transliteration": "rafīq",
+    "lemmaId": 3521
+  },
+  {
+    "id": 1784,
+    "lemma": "رَفْرَف",
+    "meaning": "spread-out luxurious fabric",
+    "transliteration": "raf'raf",
+    "lemmaId": 3522
+  },
+  {
+    "id": 1785,
+    "lemma": "رَقَبَة",
+    "meaning": "neck, slave",
+    "transliteration": "raqabata",
+    "lemmaId": 890
+  },
+  {
+    "id": 1786,
+    "lemma": "رَقِيب",
+    "meaning": "watcher, observer",
+    "transliteration": "raqīb",
+    "lemmaId": 1330
+  },
+  {
+    "id": 1787,
+    "lemma": "رَقِيم",
+    "meaning": "inscription",
+    "transliteration": "raqīm",
+    "lemmaId": 3523
+  },
+  {
+    "id": 1788,
+    "lemma": "رَقّ",
+    "meaning": "parchment",
+    "transliteration": "raqq",
+    "lemmaId": 3524
+  },
+  {
+    "id": 1789,
+    "lemma": "رَكُوب",
+    "meaning": "riding, mount",
+    "transliteration": "rakūb",
+    "lemmaId": 3525
+  },
+  {
+    "id": 1790,
+    "lemma": "رَكِبَ",
+    "meaning": "to ride, to embark",
+    "transliteration": "rakiba",
+    "lemmaId": 891
+  },
+  {
+    "id": 1791,
+    "lemma": "رَكَّبَ",
+    "meaning": "to assemble",
+    "transliteration": "rakkaba",
+    "lemmaId": 3526
+  },
+  {
+    "id": 1792,
+    "lemma": "رَكْب",
+    "meaning": "caravan",
+    "transliteration": "rakb",
+    "lemmaId": 3527
+  },
+  {
+    "id": 1793,
+    "lemma": "رَماد",
+    "meaning": "ashes",
+    "transliteration": "ramād",
+    "lemmaId": 3528
+  },
+  {
+    "id": 1794,
+    "lemma": "رَمَضان",
+    "meaning": "Ramadan",
+    "transliteration": "ramaḍān",
+    "lemmaId": 3529
+  },
+  {
+    "id": 1795,
+    "lemma": "رَمَى",
+    "meaning": "to throw, to accuse",
+    "transliteration": "ramā",
+    "lemmaId": 892
+  },
+  {
+    "id": 1796,
+    "lemma": "رَمِيم",
+    "meaning": "decayed remains",
+    "transliteration": "ramīm",
+    "lemmaId": 2383
+  },
+  {
+    "id": 1797,
+    "lemma": "رَمْز",
+    "meaning": "gesture",
+    "transliteration": "ramz",
+    "lemmaId": 3530
+  },
+  {
+    "id": 1798,
+    "lemma": "رَهَب",
+    "meaning": "intense fear",
+    "transliteration": "rahaba",
+    "lemmaId": 3531
+  },
+  {
+    "id": 1799,
+    "lemma": "رَهَق",
+    "meaning": "oppressive burden",
+    "transliteration": "rahaqa",
+    "lemmaId": 2384
+  },
+  {
+    "id": 1800,
+    "lemma": "رَهِين",
+    "meaning": "pledged",
+    "transliteration": "rahīn",
+    "lemmaId": 3532
+  },
+  {
+    "id": 1801,
+    "lemma": "رَهِينَة",
+    "meaning": "pledged",
+    "transliteration": "rahīnata",
+    "lemmaId": 3533
+  },
+  {
+    "id": 1802,
+    "lemma": "رَهْب",
+    "meaning": "fear",
+    "transliteration": "rahb",
+    "lemmaId": 3534
+  },
+  {
+    "id": 1803,
+    "lemma": "رَهْبانِيَّة",
+    "meaning": "monasticism",
+    "transliteration": "rahbāniyya",
+    "lemmaId": 3535
+  },
+  {
+    "id": 1804,
+    "lemma": "رَهْبَة",
+    "meaning": "fear",
+    "transliteration": "rahbat",
+    "lemmaId": 3536
+  },
+  {
+    "id": 1805,
+    "lemma": "رَهْط",
+    "meaning": "close kin, inner circle",
+    "transliteration": "raht",
+    "lemmaId": 1840
+  },
+  {
+    "id": 1806,
+    "lemma": "رَهْو",
+    "meaning": "calm state",
+    "transliteration": "rahwo",
+    "lemmaId": 3537
+  },
+  {
+    "id": 1807,
+    "lemma": "رَواح",
+    "meaning": "afternoon journey",
+    "transliteration": "rawāḥ",
+    "lemmaId": 3538
+  },
+  {
+    "id": 1808,
+    "lemma": "رَواسِي",
+    "meaning": "fixed mountains",
+    "transliteration": "rawāsī",
+    "lemmaId": 818
+  },
+  {
+    "id": 1809,
+    "lemma": "رَواكِد",
+    "meaning": "motionless",
+    "transliteration": "rawākid",
+    "lemmaId": 3539
+  },
+  {
+    "id": 1810,
+    "lemma": "رَوْح",
+    "meaning": "mercy, rest",
+    "transliteration": "rawḥ",
+    "lemmaId": 1841
+  },
+  {
+    "id": 1811,
+    "lemma": "رَوْضَة",
+    "meaning": "garden, meadow",
+    "transliteration": "rawḍata",
+    "lemmaId": 2385
+  },
+  {
+    "id": 1812,
+    "lemma": "رَوْع",
+    "meaning": "fright",
+    "transliteration": "rawʿ",
+    "lemmaId": 3540
+  },
+  {
+    "id": 1813,
+    "lemma": "رَيْب",
+    "meaning": "doubt, suspicion",
+    "transliteration": "rayb",
+    "lemmaId": 540
+  },
+  {
+    "id": 1814,
+    "lemma": "رُءْيا",
+    "meaning": "vision, dream",
+    "transliteration": "ruyā",
+    "lemmaId": 1062
+  },
+  {
+    "id": 1815,
+    "lemma": "رُب",
+    "meaning": "perhaps",
+    "transliteration": "rub",
+    "lemmaId": 3541
+  },
+  {
+    "id": 1816,
+    "lemma": "رُباع",
+    "meaning": "fourfold",
+    "transliteration": "rubāʿ",
+    "lemmaId": 2387
+  },
+  {
+    "id": 1817,
+    "lemma": "رُبُع",
+    "meaning": "fourth",
+    "transliteration": "rubu",
+    "lemmaId": 2388
+  },
+  {
+    "id": 1818,
+    "lemma": "رُجُوم",
+    "meaning": "means of stoning",
+    "transliteration": "rujūm",
+    "lemmaId": 3542
+  },
+  {
+    "id": 1819,
+    "lemma": "رُجَّتِ",
+    "meaning": "to be shaken",
+    "transliteration": "rujatि",
+    "lemmaId": 3543
+  },
+  {
+    "id": 1820,
+    "lemma": "رُجْز",
+    "meaning": "moral impurity",
+    "transliteration": "rujz",
+    "lemmaId": 3544
+  },
+  {
+    "id": 1821,
+    "lemma": "رُجْعَى",
+    "meaning": "return",
+    "transliteration": "rujʿā",
+    "lemmaId": 3545
+  },
+  {
+    "id": 1822,
+    "lemma": "رُحْم",
+    "meaning": "compassion",
+    "transliteration": "ruḥm",
+    "lemmaId": 3546
+  },
+  {
+    "id": 1823,
+    "lemma": "رُخاء",
+    "meaning": "gently",
+    "transliteration": "rukḥā",
+    "lemmaId": 3547
+  },
+  {
+    "id": 1824,
+    "lemma": "رُشْد",
+    "meaning": "right, guidance",
+    "transliteration": "rušd",
+    "lemmaId": 1163
+  },
+  {
+    "id": 1825,
+    "lemma": "رُطَب",
+    "meaning": "fresh dates",
+    "transliteration": "ruṭab",
+    "lemmaId": 3548
+  },
+  {
+    "id": 1826,
+    "lemma": "رُعْب",
+    "meaning": "terror",
+    "transliteration": "ruʿb",
+    "lemmaId": 1331
+  },
+  {
+    "id": 1827,
+    "lemma": "رُفات",
+    "meaning": "crumbled particles",
+    "transliteration": "rufāt",
+    "lemmaId": 2389
+  },
+  {
+    "id": 1828,
+    "lemma": "رُقُود",
+    "meaning": "to be asleep",
+    "transliteration": "ruqūd",
+    "lemmaId": 3549
+  },
+  {
+    "id": 1829,
+    "lemma": "رُقِيّ",
+    "meaning": "ascension",
+    "transliteration": "ruqiyy",
+    "lemmaId": 3550
+  },
+  {
+    "id": 1830,
+    "lemma": "رُكام",
+    "meaning": "mass",
+    "transliteration": "rukām",
+    "lemmaId": 3551
+  },
+  {
+    "id": 1831,
+    "lemma": "رُكْبان",
+    "meaning": "riding",
+    "transliteration": "ruk'bān",
+    "lemmaId": 3552
+  },
+  {
+    "id": 1832,
+    "lemma": "رُكْن",
+    "meaning": "support",
+    "transliteration": "ruk'nu",
+    "lemmaId": 2390
+  },
+  {
+    "id": 1833,
+    "lemma": "رُمّان",
+    "meaning": "pomegranate",
+    "transliteration": "rummān",
+    "lemmaId": 1842
+  },
+  {
+    "id": 1834,
+    "lemma": "رُهْبان",
+    "meaning": "monks",
+    "transliteration": "ruh'bān",
+    "lemmaId": 1843
+  },
+  {
+    "id": 1835,
+    "lemma": "رُوح",
+    "meaning": "spirit, soul",
+    "transliteration": "rūḥ",
+    "lemmaId": 479
+  },
+  {
+    "id": 1836,
+    "lemma": "رُوم",
+    "meaning": "the Romans",
+    "transliteration": "rūm",
+    "lemmaId": 3553
+  },
+  {
+    "id": 1837,
+    "lemma": "رُوَيْد",
+    "meaning": "little",
+    "transliteration": "rūwayd",
+    "lemmaId": 3554
+  },
+  {
+    "id": 1838,
+    "lemma": "رِءْي",
+    "meaning": "appearance",
+    "transliteration": "riy",
+    "lemmaId": 3555
+  },
+  {
+    "id": 1839,
+    "lemma": "رِئاء",
+    "meaning": "to be seen",
+    "transliteration": "riyā'",
+    "lemmaId": 1844
+  },
+  {
+    "id": 1840,
+    "lemma": "رِب",
+    "meaning": "usury",
+    "transliteration": "rib",
+    "lemmaId": 3556
+  },
+  {
+    "id": 1841,
+    "lemma": "رِبا",
+    "meaning": "usury",
+    "transliteration": "ribā",
+    "lemmaId": 1063
+  },
+  {
+    "id": 1842,
+    "lemma": "رِباط",
+    "meaning": "tethered",
+    "transliteration": "ribāṭ",
+    "lemmaId": 3557
+  },
+  {
+    "id": 1843,
+    "lemma": "رِبِّيّ",
+    "meaning": "devout followers",
+    "transliteration": "ribbiyy",
+    "lemmaId": 3558
+  },
+  {
+    "id": 1844,
+    "lemma": "رِجال",
+    "meaning": "men",
+    "transliteration": "rijāl",
+    "lemmaId": 387
+  },
+  {
+    "id": 1845,
+    "lemma": "رِجْز",
+    "meaning": "torment, impurity",
+    "transliteration": "rijz",
+    "lemmaId": 893
+  },
+  {
+    "id": 1846,
+    "lemma": "رِجْس",
+    "meaning": "abomination, filth, impurity",
+    "transliteration": "rij's",
+    "lemmaId": 819
+  },
+  {
+    "id": 1847,
+    "lemma": "رِجْل",
+    "meaning": "foot, leg",
+    "transliteration": "rijl",
+    "lemmaId": 613
+  },
+  {
+    "id": 1848,
+    "lemma": "رِحْلَة",
+    "meaning": "journey",
+    "transliteration": "riḥlatun",
+    "lemmaId": 3559
+  },
+  {
+    "id": 1849,
+    "lemma": "رِدْء",
+    "meaning": "helper",
+    "transliteration": "rid'",
+    "lemmaId": 3560
+  },
+  {
+    "id": 1850,
+    "lemma": "رِزْق",
+    "meaning": "provision, sustenance",
+    "transliteration": "rizq",
+    "lemmaId": 214
+  },
+  {
+    "id": 1851,
+    "lemma": "رِسالَة",
+    "meaning": "message",
+    "transliteration": "risālatun",
+    "lemmaId": 820
+  },
+  {
+    "id": 1852,
+    "lemma": "رِضْوان",
+    "meaning": "great pleasure",
+    "transliteration": "riḍwān",
+    "lemmaId": 676
+  },
+  {
+    "id": 1853,
+    "lemma": "رِعاء",
+    "meaning": "shepherding",
+    "transliteration": "riʿā",
+    "lemmaId": 3561
+  },
+  {
+    "id": 1854,
+    "lemma": "رِعايَت",
+    "meaning": "observance",
+    "transliteration": "riʿāyat",
+    "lemmaId": 3562
+  },
+  {
+    "id": 1855,
+    "lemma": "رِفْد",
+    "meaning": "bestowed gift",
+    "transliteration": "rifd",
+    "lemmaId": 3563
+  },
+  {
+    "id": 1856,
+    "lemma": "رِكاب",
+    "meaning": "camels",
+    "transliteration": "rikāb",
+    "lemmaId": 3564
+  },
+  {
+    "id": 1857,
+    "lemma": "رِكْز",
+    "meaning": "faint sound",
+    "transliteration": "rikz",
+    "lemmaId": 3565
+  },
+  {
+    "id": 1858,
+    "lemma": "رِماح",
+    "meaning": "spears",
+    "transliteration": "rimāḥ",
+    "lemmaId": 3566
+  },
+  {
+    "id": 1859,
+    "lemma": "رِهان",
+    "meaning": "collateral",
+    "transliteration": "rihān",
+    "lemmaId": 3567
+  },
+  {
+    "id": 1860,
+    "lemma": "رِيبَة",
+    "meaning": "doubt",
+    "transliteration": "rībata",
+    "lemmaId": 3568
+  },
+  {
+    "id": 1861,
+    "lemma": "رِيح",
+    "meaning": "wind, smell",
+    "transliteration": "rīḥ",
+    "lemmaId": 375
+  },
+  {
+    "id": 1862,
+    "lemma": "رِيش",
+    "meaning": "adornment",
+    "transliteration": "rīsh",
+    "lemmaId": 3569
+  },
+  {
+    "id": 1863,
+    "lemma": "رِيع",
+    "meaning": "elevated land",
+    "transliteration": "rīʿ",
+    "lemmaId": 3570
+  },
+  {
+    "id": 1864,
+    "lemma": "زاجِرَة",
+    "meaning": "to admonish",
+    "transliteration": "zājirah",
+    "lemmaId": 3571
+  },
+  {
+    "id": 1865,
+    "lemma": "زاد",
+    "meaning": "provision",
+    "transliteration": "zād",
+    "lemmaId": 3572
+  },
+  {
+    "id": 1866,
+    "lemma": "زادَ",
+    "meaning": "to increase",
+    "transliteration": "zāda",
+    "lemmaId": 237
+  },
+  {
+    "id": 1867,
+    "lemma": "زارِع",
+    "meaning": "ones who cause growth",
+    "transliteration": "zāri",
+    "lemmaId": 3573
+  },
+  {
+    "id": 1868,
+    "lemma": "زاغَ",
+    "meaning": "to deviate, to turn away, to swerve",
+    "transliteration": "zāgha",
+    "lemmaId": 1164
+  },
+  {
+    "id": 1869,
+    "lemma": "زالَ",
+    "meaning": "to cease",
+    "transliteration": "zāla",
+    "lemmaId": 1845
+  },
+  {
+    "id": 1870,
+    "lemma": "زالَت",
+    "meaning": "to cease",
+    "transliteration": "zālat",
+    "lemmaId": 972
+  },
+  {
+    "id": 1871,
+    "lemma": "زان",
+    "meaning": "one guilty of unlawful intimate relations",
+    "transliteration": "zān",
+    "lemmaId": 1846
+  },
+  {
+    "id": 1872,
+    "lemma": "زانِيَة",
+    "meaning": "one guilty of unlawful intimate relations",
+    "transliteration": "zāniyatun",
+    "lemmaId": 1847
+  },
+  {
+    "id": 1873,
+    "lemma": "زاهِد",
+    "meaning": "one who abstains",
+    "transliteration": "zāhid",
+    "lemmaId": 3574
+  },
+  {
+    "id": 1874,
+    "lemma": "زاهِق",
+    "meaning": "perishing",
+    "transliteration": "zāhiq",
+    "lemmaId": 3575
+  },
+  {
+    "id": 1875,
+    "lemma": "زَبانِيَة",
+    "meaning": "Angels of Hell",
+    "transliteration": "zabāniyat",
+    "lemmaId": 3576
+  },
+  {
+    "id": 1876,
+    "lemma": "زَبَد",
+    "meaning": "foam",
+    "transliteration": "zabada",
+    "lemmaId": 1848
+  },
+  {
+    "id": 1877,
+    "lemma": "زَبُور",
+    "meaning": "Zabūr",
+    "transliteration": "zabūr",
+    "lemmaId": 1849
+  },
+  {
+    "id": 1878,
+    "lemma": "زَجْر",
+    "meaning": "with sternness",
+    "transliteration": "zajr",
+    "lemmaId": 3577
+  },
+  {
+    "id": 1879,
+    "lemma": "زَحْف",
+    "meaning": "to advance",
+    "transliteration": "zaḥf",
+    "lemmaId": 3578
+  },
+  {
+    "id": 1880,
+    "lemma": "زَرابِيّ",
+    "meaning": "luxurious carpets",
+    "transliteration": "zarābiyy",
+    "lemmaId": 3579
+  },
+  {
+    "id": 1881,
+    "lemma": "زَرْع",
+    "meaning": "crops",
+    "transliteration": "zarʿ",
+    "lemmaId": 821
+  },
+  {
+    "id": 1882,
+    "lemma": "زَعَمَ",
+    "meaning": "to claim",
+    "transliteration": "zaʿama",
+    "lemmaId": 677
+  },
+  {
+    "id": 1883,
+    "lemma": "زَعِيم",
+    "meaning": "guarantor",
+    "transliteration": "zaʿīm",
+    "lemmaId": 2392
+  },
+  {
+    "id": 1884,
+    "lemma": "زَعْم",
+    "meaning": "claim",
+    "transliteration": "zaʿm",
+    "lemmaId": 2393
+  },
+  {
+    "id": 1885,
+    "lemma": "زَفِير",
+    "meaning": "sigh, roar",
+    "transliteration": "zafīr",
+    "lemmaId": 1850
+  },
+  {
+    "id": 1886,
+    "lemma": "زَقُّوم",
+    "meaning": "Tree of Hell",
+    "transliteration": "zaqqūm",
+    "lemmaId": 1851
+  },
+  {
+    "id": 1887,
+    "lemma": "زَكاة",
+    "meaning": "purifying alms",
+    "transliteration": "zakāta",
+    "lemmaId": 348
+  },
+  {
+    "id": 1888,
+    "lemma": "زَكَرِيّا",
+    "meaning": "Zakariyyā",
+    "transliteration": "zakarīyā",
+    "lemmaId": 1064
+  },
+  {
+    "id": 1889,
+    "lemma": "زَكَى",
+    "meaning": "to be pure",
+    "transliteration": "zakā",
+    "lemmaId": 3580
+  },
+  {
+    "id": 1890,
+    "lemma": "زَكِيّ",
+    "meaning": "pure",
+    "transliteration": "zakīyy",
+    "lemmaId": 3581
+  },
+  {
+    "id": 1891,
+    "lemma": "زَكِيَّة",
+    "meaning": "pure",
+    "transliteration": "zakīyat",
+    "lemmaId": 3582
+  },
+  {
+    "id": 1892,
+    "lemma": "زَكَّى",
+    "meaning": "to purify",
+    "transliteration": "zakkā",
+    "lemmaId": 721
+  },
+  {
+    "id": 1893,
+    "lemma": "زَلَق",
+    "meaning": "slippery",
+    "transliteration": "zalaq",
+    "lemmaId": 3583
+  },
+  {
+    "id": 1894,
+    "lemma": "زَلَلْ",
+    "meaning": "to slip",
+    "transliteration": "zalal",
+    "lemmaId": 2394
+  },
+  {
+    "id": 1895,
+    "lemma": "زَلْزَلَة",
+    "meaning": "convulsion",
+    "transliteration": "zalzalata",
+    "lemmaId": 3584
+  },
+  {
+    "id": 1896,
+    "lemma": "زَمْهَرِير",
+    "meaning": "intense cold",
+    "transliteration": "zamharīr",
+    "lemmaId": 3585
+  },
+  {
+    "id": 1897,
+    "lemma": "زَنجَبِيل",
+    "meaning": "ginger",
+    "transliteration": "zanjabīl",
+    "lemmaId": 3586
+  },
+  {
+    "id": 1898,
+    "lemma": "زَنِيم",
+    "meaning": "marked by dishonour",
+    "transliteration": "zanīm",
+    "lemmaId": 3587
+  },
+  {
+    "id": 1899,
+    "lemma": "زَهَقَ",
+    "meaning": "to perish",
+    "transliteration": "zahaqa",
+    "lemmaId": 1852
+  },
+  {
+    "id": 1900,
+    "lemma": "زَهُوق",
+    "meaning": "bound to perish",
+    "transliteration": "zahūq",
+    "lemmaId": 3588
+  },
+  {
+    "id": 1901,
+    "lemma": "زَهْرَة",
+    "meaning": "beauty and splendour",
+    "transliteration": "zahrahtu",
+    "lemmaId": 3589
+  },
+  {
+    "id": 1902,
+    "lemma": "زَوال",
+    "meaning": "end",
+    "transliteration": "zawāl",
+    "lemmaId": 3590
+  },
+  {
+    "id": 1903,
+    "lemma": "زَوْج",
+    "meaning": "spouse, wife, pair",
+    "transliteration": "zawj",
+    "lemmaId": 151
+  },
+  {
+    "id": 1904,
+    "lemma": "زَيَّلْ",
+    "meaning": "to seperate",
+    "transliteration": "zayyal",
+    "lemmaId": 3591
+  },
+  {
+    "id": 1905,
+    "lemma": "زَيَّنَ",
+    "meaning": "to make appealing, to beautify, to adorn",
+    "transliteration": "zayyana",
+    "lemmaId": 412
+  },
+  {
+    "id": 1906,
+    "lemma": "زَيْت",
+    "meaning": "oil",
+    "transliteration": "zayt",
+    "lemmaId": 3592
+  },
+  {
+    "id": 1907,
+    "lemma": "زَيْتُونَة",
+    "meaning": "olive tree",
+    "transliteration": "zaytūnata",
+    "lemmaId": 3593
+  },
+  {
+    "id": 1908,
+    "lemma": "زَيْد",
+    "meaning": "Zayd",
+    "transliteration": "zayd",
+    "lemmaId": 3594
+  },
+  {
+    "id": 1909,
+    "lemma": "زَيْغ",
+    "meaning": "deviation",
+    "transliteration": "zayḡ",
+    "lemmaId": 3595
+  },
+  {
+    "id": 1910,
+    "lemma": "زُبَر",
+    "meaning": "sheets",
+    "transliteration": "zubar",
+    "lemmaId": 3596
+  },
+  {
+    "id": 1911,
+    "lemma": "زُبُر",
+    "meaning": "scriptures, books, written records",
+    "transliteration": "zubur",
+    "lemmaId": 1065
+  },
+  {
+    "id": 1912,
+    "lemma": "زُجاجَة",
+    "meaning": "glass",
+    "transliteration": "zujājata",
+    "lemmaId": 2395
+  },
+  {
+    "id": 1913,
+    "lemma": "زُحْزِحَ",
+    "meaning": "to be moved away",
+    "transliteration": "zuḥ'ziḥa",
+    "lemmaId": 3597
+  },
+  {
+    "id": 1914,
+    "lemma": "زُخْرُف",
+    "meaning": "gold, adorned, adornment",
+    "transliteration": "zukhruf",
+    "lemmaId": 1526
+  },
+  {
+    "id": 1915,
+    "lemma": "زُرّاع",
+    "meaning": "sowers",
+    "transliteration": "zurrāʿ",
+    "lemmaId": 3598
+  },
+  {
+    "id": 1916,
+    "lemma": "زُرْ",
+    "meaning": "to visit",
+    "transliteration": "zur",
+    "lemmaId": 3599
+  },
+  {
+    "id": 1917,
+    "lemma": "زُرْق",
+    "meaning": "blue-eyed",
+    "transliteration": "zurq",
+    "lemmaId": 3600
+  },
+  {
+    "id": 1918,
+    "lemma": "زُلْزِلُ",
+    "meaning": "to be shaken",
+    "transliteration": "zul'zilu",
+    "lemmaId": 1853
+  },
+  {
+    "id": 1919,
+    "lemma": "زُلْفَة",
+    "meaning": "approaching",
+    "transliteration": "zul'fata",
+    "lemmaId": 2396
+  },
+  {
+    "id": 1920,
+    "lemma": "زُلْفَى",
+    "meaning": "nearness, near access, position",
+    "transliteration": "zul'fā",
+    "lemmaId": 1527
+  },
+  {
+    "id": 1921,
+    "lemma": "زُمَر",
+    "meaning": "in groups",
+    "transliteration": "zumara",
+    "lemmaId": 2397
+  },
+  {
+    "id": 1922,
+    "lemma": "زُور",
+    "meaning": "falsehood, lie",
+    "transliteration": "zūr",
+    "lemmaId": 1528
+  },
+  {
+    "id": 1923,
+    "lemma": "زُوِّجَتْ",
+    "meaning": "to marry, to be paired",
+    "transliteration": "zūwijat",
+    "lemmaId": 1333
+  },
+  {
+    "id": 1924,
+    "lemma": "زِلْزال",
+    "meaning": "earthquake",
+    "transliteration": "zilzāl",
+    "lemmaId": 2398
+  },
+  {
+    "id": 1925,
+    "lemma": "زِنَى",
+    "meaning": "unlawful intimate relations",
+    "transliteration": "zinā",
+    "lemmaId": 3601
+  },
+  {
+    "id": 1926,
+    "lemma": "زِيادَة",
+    "meaning": "increase",
+    "transliteration": "zīādata",
+    "lemmaId": 2399
+  },
+  {
+    "id": 1927,
+    "lemma": "زِينَة",
+    "meaning": "adornment",
+    "transliteration": "zīnata",
+    "lemmaId": 515
+  },
+  {
+    "id": 1928,
+    "lemma": "س",
+    "meaning": "will, shall",
+    "transliteration": "s",
+    "lemmaId": 103
+  },
+  {
+    "id": 1929,
+    "lemma": "ساءَ",
+    "meaning": "to be evil",
+    "transliteration": "sāa",
+    "lemmaId": 361
+  },
+  {
+    "id": 1930,
+    "lemma": "سائِبَة",
+    "meaning": "Sāʾibah",
+    "transliteration": "sāibah",
+    "lemmaId": 3602
+  },
+  {
+    "id": 1931,
+    "lemma": "سائِح",
+    "meaning": "devotees to acts of worship",
+    "transliteration": "sā'iḥ",
+    "lemmaId": 3603
+  },
+  {
+    "id": 1932,
+    "lemma": "سائِحَة",
+    "meaning": "devotees to acts of worship",
+    "transliteration": "sāiḥa",
+    "lemmaId": 3604
+  },
+  {
+    "id": 1933,
+    "lemma": "سائِغ",
+    "meaning": "pleasant, palatable",
+    "transliteration": "sāigh",
+    "lemmaId": 2400
+  },
+  {
+    "id": 1934,
+    "lemma": "سائِق",
+    "meaning": "driver",
+    "transliteration": "sāʾiq",
+    "lemmaId": 3605
+  },
+  {
+    "id": 1935,
+    "lemma": "سائِل",
+    "meaning": "one who asks",
+    "transliteration": "sāil",
+    "lemmaId": 1066
+  },
+  {
+    "id": 1936,
+    "lemma": "سابِحَة",
+    "meaning": "to glide",
+    "transliteration": "sābiḥata",
+    "lemmaId": 3606
+  },
+  {
+    "id": 1937,
+    "lemma": "سابِغَة",
+    "meaning": "full coat of mail",
+    "transliteration": "sābigha",
+    "lemmaId": 3607
+  },
+  {
+    "id": 1938,
+    "lemma": "سابِق",
+    "meaning": "to be foremost, to outstrip",
+    "transliteration": "sābiq",
+    "lemmaId": 1067
+  },
+  {
+    "id": 1939,
+    "lemma": "سابِقَة",
+    "meaning": "to race",
+    "transliteration": "sābiqah",
+    "lemmaId": 3608
+  },
+  {
+    "id": 1940,
+    "lemma": "سابِقُ",
+    "meaning": "to race",
+    "transliteration": "sābiqu",
+    "lemmaId": 3609
+  },
+  {
+    "id": 1941,
+    "lemma": "ساجِد",
+    "meaning": "to prostrate",
+    "transliteration": "sājid",
+    "lemmaId": 446
+  },
+  {
+    "id": 1942,
+    "lemma": "ساحَت",
+    "meaning": "territory",
+    "transliteration": "sāḥat",
+    "lemmaId": 3610
+  },
+  {
+    "id": 1943,
+    "lemma": "ساحِر",
+    "meaning": "magician",
+    "transliteration": "sāḥir",
+    "lemmaId": 464
+  },
+  {
+    "id": 1944,
+    "lemma": "ساحِل",
+    "meaning": "bank, shore",
+    "transliteration": "sāḥil",
+    "lemmaId": 3611
+  },
+  {
+    "id": 1945,
+    "lemma": "ساخِر",
+    "meaning": "mocker",
+    "transliteration": "sākhir",
+    "lemmaId": 3612
+  },
+  {
+    "id": 1946,
+    "lemma": "سادِس",
+    "meaning": "sixth",
+    "transliteration": "sādis",
+    "lemmaId": 2401
+  },
+  {
+    "id": 1947,
+    "lemma": "سارَ",
+    "meaning": "to travel",
+    "transliteration": "sāra",
+    "lemmaId": 586
+  },
+  {
+    "id": 1948,
+    "lemma": "سارِب",
+    "meaning": "to go freely",
+    "transliteration": "sārib",
+    "lemmaId": 3613
+  },
+  {
+    "id": 1949,
+    "lemma": "سارِق",
+    "meaning": "thief",
+    "transliteration": "sāriq",
+    "lemmaId": 1854
+  },
+  {
+    "id": 1950,
+    "lemma": "سارِقَة",
+    "meaning": "thief",
+    "transliteration": "sāriqah",
+    "lemmaId": 3614
+  },
+  {
+    "id": 1951,
+    "lemma": "ساعَة",
+    "meaning": "hour, the Hour",
+    "transliteration": "sāʿa",
+    "lemmaId": 245
+  },
+  {
+    "id": 1952,
+    "lemma": "ساق",
+    "meaning": "leg, shin",
+    "transliteration": "sāq",
+    "lemmaId": 1529
+  },
+  {
+    "id": 1953,
+    "lemma": "ساقِط",
+    "meaning": "falling",
+    "transliteration": "sāqiṭ",
+    "lemmaId": 3615
+  },
+  {
+    "id": 1954,
+    "lemma": "ساكِن",
+    "meaning": "stationary",
+    "transliteration": "sākin",
+    "lemmaId": 3616
+  },
+  {
+    "id": 1955,
+    "lemma": "سالَتْ",
+    "meaning": "to flow",
+    "transliteration": "sālat",
+    "lemmaId": 3617
+  },
+  {
+    "id": 1956,
+    "lemma": "سالِم",
+    "meaning": "sound",
+    "transliteration": "sālim",
+    "lemmaId": 3618
+  },
+  {
+    "id": 1957,
+    "lemma": "سامِد",
+    "meaning": "heedlessly indulging",
+    "transliteration": "sāmid",
+    "lemmaId": 3619
+  },
+  {
+    "id": 1958,
+    "lemma": "سامِر",
+    "meaning": "conversing idly by night",
+    "transliteration": "sāmir",
+    "lemmaId": 3620
+  },
+  {
+    "id": 1959,
+    "lemma": "سامِرِيّ",
+    "meaning": "Sāmirī",
+    "transliteration": "sāmiriyy",
+    "lemmaId": 1856
+  },
+  {
+    "id": 1960,
+    "lemma": "ساهي",
+    "meaning": "unmindful",
+    "transliteration": "sāhī",
+    "lemmaId": 2402
+  },
+  {
+    "id": 1961,
+    "lemma": "ساهَمَ",
+    "meaning": "to draw lots",
+    "transliteration": "sāhama",
+    "lemmaId": 3621
+  },
+  {
+    "id": 1962,
+    "lemma": "ساهِرَة",
+    "meaning": "the waking place",
+    "transliteration": "sāhirah",
+    "lemmaId": 3622
+  },
+  {
+    "id": 1963,
+    "lemma": "ساوَى",
+    "meaning": "to level",
+    "transliteration": "sāwā",
+    "lemmaId": 3623
+  },
+  {
+    "id": 1964,
+    "lemma": "سَأَلَ",
+    "meaning": "to ask",
+    "transliteration": "sa-ala",
+    "lemmaId": 110
+  },
+  {
+    "id": 1965,
+    "lemma": "سَبَإ",
+    "meaning": "Saba'",
+    "transliteration": "saba",
+    "lemmaId": 2403
+  },
+  {
+    "id": 1966,
+    "lemma": "سَبَب",
+    "meaning": "means, course",
+    "transliteration": "sabab",
+    "lemmaId": 894
+  },
+  {
+    "id": 1967,
+    "lemma": "سَبَقَ",
+    "meaning": "to precede",
+    "transliteration": "sabaqa",
+    "lemmaId": 502
+  },
+  {
+    "id": 1968,
+    "lemma": "سَبُع",
+    "meaning": "wild animal",
+    "transliteration": "sabʿ",
+    "lemmaId": 3624
+  },
+  {
+    "id": 1969,
+    "lemma": "سَبِيل",
+    "meaning": "way, path",
+    "transliteration": "sabīl",
+    "lemmaId": 69
+  },
+  {
+    "id": 1970,
+    "lemma": "سَبَّحَ",
+    "meaning": "to glorify, to praise",
+    "transliteration": "sabbaḥa",
+    "lemmaId": 272
+  },
+  {
+    "id": 1971,
+    "lemma": "سَبْت",
+    "meaning": "Sabbath",
+    "transliteration": "sabt",
+    "lemmaId": 1165
+  },
+  {
+    "id": 1972,
+    "lemma": "سَبْح",
+    "meaning": "occupation, swimming",
+    "transliteration": "sabḥ",
+    "lemmaId": 2404
+  },
+  {
+    "id": 1973,
+    "lemma": "سَبْع",
+    "meaning": "seven",
+    "transliteration": "sabʿ",
+    "lemmaId": 447
+  },
+  {
+    "id": 1974,
+    "lemma": "سَبْعَة",
+    "meaning": "seven",
+    "transliteration": "sabʿahtu",
+    "lemmaId": 1530
+  },
+  {
+    "id": 1975,
+    "lemma": "سَبْق",
+    "meaning": "race",
+    "transliteration": "sabqa",
+    "lemmaId": 3625
+  },
+  {
+    "id": 1976,
+    "lemma": "سَجَدَ",
+    "meaning": "to prostrate",
+    "transliteration": "sajada",
+    "lemmaId": 330
+  },
+  {
+    "id": 1977,
+    "lemma": "سَجَى",
+    "meaning": "to cover with darkness",
+    "transliteration": "sajā",
+    "lemmaId": 3626
+  },
+  {
+    "id": 1978,
+    "lemma": "سَحاب",
+    "meaning": "cloud",
+    "transliteration": "saḥāb",
+    "lemmaId": 895
+  },
+  {
+    "id": 1979,
+    "lemma": "سَحَر",
+    "meaning": "before dawn",
+    "transliteration": "saḥar",
+    "lemmaId": 1857
+  },
+  {
+    "id": 1980,
+    "lemma": "سَحِيق",
+    "meaning": "far off",
+    "transliteration": "saḥīq",
+    "lemmaId": 3627
+  },
+  {
+    "id": 1981,
+    "lemma": "سَحّار",
+    "meaning": "great magician",
+    "transliteration": "saḥḥār",
+    "lemmaId": 3628
+  },
+  {
+    "id": 1982,
+    "lemma": "سَخَط",
+    "meaning": "severe displeasure, intense wrath",
+    "transliteration": "sakhaṭ",
+    "lemmaId": 3629
+  },
+  {
+    "id": 1983,
+    "lemma": "سَخِرَ",
+    "meaning": "to ridicule, to mock",
+    "transliteration": "sakhira",
+    "lemmaId": 762
+  },
+  {
+    "id": 1984,
+    "lemma": "سَخِطَ",
+    "meaning": "to be intensely displeased, to be angry",
+    "transliteration": "sakhiṭa",
+    "lemmaId": 2405
+  },
+  {
+    "id": 1985,
+    "lemma": "سَخَّرَ",
+    "meaning": "to make subservient, to subject",
+    "transliteration": "sakhkhara",
+    "lemmaId": 465
+  },
+  {
+    "id": 1986,
+    "lemma": "سَدِيد",
+    "meaning": "appropriate, right",
+    "transliteration": "sadīd",
+    "lemmaId": 2406
+  },
+  {
+    "id": 1987,
+    "lemma": "سَدّ",
+    "meaning": "barrier",
+    "transliteration": "sadd",
+    "lemmaId": 1531
+  },
+  {
+    "id": 1988,
+    "lemma": "سَرائِر",
+    "meaning": "secrets",
+    "transliteration": "sarāʾir",
+    "lemmaId": 3630
+  },
+  {
+    "id": 1989,
+    "lemma": "سَراب",
+    "meaning": "mirage",
+    "transliteration": "sarāb",
+    "lemmaId": 2407
+  },
+  {
+    "id": 1990,
+    "lemma": "سَرابِيل",
+    "meaning": "garment",
+    "transliteration": "sarābīl",
+    "lemmaId": 1859
+  },
+  {
+    "id": 1991,
+    "lemma": "سَراح",
+    "meaning": "release",
+    "transliteration": "sarāḥ",
+    "lemmaId": 2408
+  },
+  {
+    "id": 1992,
+    "lemma": "سَرَب",
+    "meaning": "to slip away",
+    "transliteration": "saraba",
+    "lemmaId": 3631
+  },
+  {
+    "id": 1993,
+    "lemma": "سَرَقَ",
+    "meaning": "to steal",
+    "transliteration": "sarāqa",
+    "lemmaId": 1532
+  },
+  {
+    "id": 1994,
+    "lemma": "سَرِيع",
+    "meaning": "swift",
+    "transliteration": "sarīʿ",
+    "lemmaId": 822
+  },
+  {
+    "id": 1995,
+    "lemma": "سَرِيّ",
+    "meaning": "stream",
+    "transliteration": "sarriyy",
+    "lemmaId": 3632
+  },
+  {
+    "id": 1996,
+    "lemma": "سَرّاء",
+    "meaning": "ease",
+    "transliteration": "sarrā",
+    "lemmaId": 2409
+  },
+  {
+    "id": 1997,
+    "lemma": "سَرِّحُ",
+    "meaning": "release",
+    "transliteration": "sarriḥu",
+    "lemmaId": 1860
+  },
+  {
+    "id": 1998,
+    "lemma": "سَرْد",
+    "meaning": "link",
+    "transliteration": "sard",
+    "lemmaId": 3633
+  },
+  {
+    "id": 1999,
+    "lemma": "سَرْمَد",
+    "meaning": "continuous",
+    "transliteration": "sarmad",
+    "lemmaId": 2410
+  },
+  {
+    "id": 2000,
+    "lemma": "سَعَة",
+    "meaning": "abundance, ample means",
+    "transliteration": "saʿa",
+    "lemmaId": 1166
+  },
+  {
+    "id": 2001,
+    "lemma": "سَعَى",
+    "meaning": "to strive, to run",
+    "transliteration": "saʿā",
+    "lemmaId": 503
+  },
+  {
+    "id": 2002,
+    "lemma": "سَعِيد",
+    "meaning": "glad",
+    "transliteration": "saʿīd",
+    "lemmaId": 3634
+  },
+  {
+    "id": 2003,
+    "lemma": "سَعِير",
+    "meaning": "blazing fire, blaze",
+    "transliteration": "saʿīr",
+    "lemmaId": 587
+  },
+  {
+    "id": 2004,
+    "lemma": "سَعْي",
+    "meaning": "effort, striving",
+    "transliteration": "saʿy",
+    "lemmaId": 823
+  },
+  {
+    "id": 2005,
+    "lemma": "سَفاهَة",
+    "meaning": "foolishness",
+    "transliteration": "safāhatun",
+    "lemmaId": 2411
+  },
+  {
+    "id": 2006,
+    "lemma": "سَفَر",
+    "meaning": "journey",
+    "transliteration": "safar",
+    "lemmaId": 1068
+  },
+  {
+    "id": 2007,
+    "lemma": "سَفَرَة",
+    "meaning": "scribe",
+    "transliteration": "safarata",
+    "lemmaId": 3635
+  },
+  {
+    "id": 2008,
+    "lemma": "سَفَه",
+    "meaning": "foolishness",
+    "transliteration": "safaha",
+    "lemmaId": 3636
+  },
+  {
+    "id": 2009,
+    "lemma": "سَفِهَ",
+    "meaning": "to fool",
+    "transliteration": "safiha",
+    "lemmaId": 3637
+  },
+  {
+    "id": 2010,
+    "lemma": "سَفِينَة",
+    "meaning": "ship",
+    "transliteration": "safīnahtu",
+    "lemmaId": 1533
+  },
+  {
+    "id": 2011,
+    "lemma": "سَفِيه",
+    "meaning": "foolish",
+    "transliteration": "safīh",
+    "lemmaId": 1069
+  },
+  {
+    "id": 2012,
+    "lemma": "سَقَر",
+    "meaning": "hell",
+    "transliteration": "saqar",
+    "lemmaId": 1534
+  },
+  {
+    "id": 2013,
+    "lemma": "سَقَى",
+    "meaning": "to water, to give drink",
+    "transliteration": "saqā",
+    "lemmaId": 722
+  },
+  {
+    "id": 2014,
+    "lemma": "سَقِيم",
+    "meaning": "sick, ill",
+    "transliteration": "saqīm",
+    "lemmaId": 2412
+  },
+  {
+    "id": 2015,
+    "lemma": "سَقْف",
+    "meaning": "roof",
+    "transliteration": "saqf",
+    "lemmaId": 1535
+  },
+  {
+    "id": 2016,
+    "lemma": "سَكَتَ",
+    "meaning": "to calm",
+    "transliteration": "sakata",
+    "lemmaId": 3638
+  },
+  {
+    "id": 2017,
+    "lemma": "سَكَر",
+    "meaning": "intoxicant",
+    "transliteration": "sakar",
+    "lemmaId": 3639
+  },
+  {
+    "id": 2018,
+    "lemma": "سَكَن",
+    "meaning": "to rest, resting place",
+    "transliteration": "sakan",
+    "lemmaId": 1861
+  },
+  {
+    "id": 2019,
+    "lemma": "سَكَنَ",
+    "meaning": "to dwell, to live, to rest",
+    "transliteration": "sakana",
+    "lemmaId": 614
+  },
+  {
+    "id": 2020,
+    "lemma": "سَكِينَة",
+    "meaning": "tranquility",
+    "transliteration": "sakīna",
+    "lemmaId": 1167
+  },
+  {
+    "id": 2021,
+    "lemma": "سَكْرَة",
+    "meaning": "stupor, intoxication",
+    "transliteration": "sakratun",
+    "lemmaId": 2413
+  },
+  {
+    "id": 2022,
+    "lemma": "سَلام",
+    "meaning": "peace",
+    "transliteration": "salām",
+    "lemmaId": 273
+  },
+  {
+    "id": 2023,
+    "lemma": "سَلَف",
+    "meaning": "precedent",
+    "transliteration": "salaf",
+    "lemmaId": 3640
+  },
+  {
+    "id": 2024,
+    "lemma": "سَلَفَ",
+    "meaning": "to pass (before)",
+    "transliteration": "salafa",
+    "lemmaId": 1334
+  },
+  {
+    "id": 2025,
+    "lemma": "سَلَقُ",
+    "meaning": "to smite",
+    "transliteration": "salaqu",
+    "lemmaId": 3641
+  },
+  {
+    "id": 2026,
+    "lemma": "سَلَكَ",
+    "meaning": "to insert, to make enter",
+    "transliteration": "salaka",
+    "lemmaId": 723
+  },
+  {
+    "id": 2027,
+    "lemma": "سَلِيم",
+    "meaning": "sound",
+    "transliteration": "salīm",
+    "lemmaId": 2414
+  },
+  {
+    "id": 2028,
+    "lemma": "سَلَّطَ",
+    "meaning": "to give power",
+    "transliteration": "sallAṭa",
+    "lemmaId": 2415
+  },
+  {
+    "id": 2029,
+    "lemma": "سَلَّمَ",
+    "meaning": "to submit, to greet, to pay",
+    "transliteration": "sallama",
+    "lemmaId": 1168
+  },
+  {
+    "id": 2030,
+    "lemma": "سَلْسَبِيل",
+    "meaning": "Salsabīl",
+    "transliteration": "sal-sabīl",
+    "lemmaId": 3642
+  },
+  {
+    "id": 2031,
+    "lemma": "سَلْم",
+    "meaning": "peace",
+    "transliteration": "salm",
+    "lemmaId": 2416
+  },
+  {
+    "id": 2032,
+    "lemma": "سَلْوَى",
+    "meaning": "quail",
+    "transliteration": "salwā",
+    "lemmaId": 1862
+  },
+  {
+    "id": 2033,
+    "lemma": "سَماء",
+    "meaning": "sky, heavens",
+    "transliteration": "samāʾ",
+    "lemmaId": 42
+  },
+  {
+    "id": 2034,
+    "lemma": "سَمُوم",
+    "meaning": "scorching, scorching fire",
+    "transliteration": "samūm",
+    "lemmaId": 1863
+  },
+  {
+    "id": 2035,
+    "lemma": "سَمِعَ",
+    "meaning": "to hear, to listen",
+    "transliteration": "samia",
+    "lemmaId": 145
+  },
+  {
+    "id": 2036,
+    "lemma": "سَمِيع",
+    "meaning": "All-Hearing",
+    "transliteration": "samīʿ",
+    "lemmaId": 247
+  },
+  {
+    "id": 2037,
+    "lemma": "سَمِين",
+    "meaning": "fat",
+    "transliteration": "samīn",
+    "lemmaId": 1864
+  },
+  {
+    "id": 2038,
+    "lemma": "سَمِيّ",
+    "meaning": "name, similarity",
+    "transliteration": "samīyy",
+    "lemmaId": 2417
+  },
+  {
+    "id": 2039,
+    "lemma": "سَمّ",
+    "meaning": "eye",
+    "transliteration": "samm",
+    "lemmaId": 3643
+  },
+  {
+    "id": 2040,
+    "lemma": "سَمّاع",
+    "meaning": "to listen",
+    "transliteration": "sammāʿ",
+    "lemmaId": 1536
+  },
+  {
+    "id": 2041,
+    "lemma": "سَمَّى",
+    "meaning": "to name",
+    "transliteration": "sammā",
+    "lemmaId": 973
+  },
+  {
+    "id": 2042,
+    "lemma": "سَمْع",
+    "meaning": "hearing",
+    "transliteration": "samʿ",
+    "lemmaId": 466
+  },
+  {
+    "id": 2043,
+    "lemma": "سَمْك",
+    "meaning": "ceiling",
+    "transliteration": "samk",
+    "lemmaId": 3644
+  },
+  {
+    "id": 2044,
+    "lemma": "سَنا",
+    "meaning": "flash",
+    "transliteration": "sanā",
+    "lemmaId": 3645
+  },
+  {
+    "id": 2045,
+    "lemma": "سَنَة",
+    "meaning": "year",
+    "transliteration": "sanata",
+    "lemmaId": 1070
+  },
+  {
+    "id": 2046,
+    "lemma": "سَواء",
+    "meaning": "same, even, equal, balanced",
+    "transliteration": "sawā",
+    "lemmaId": 396
+  },
+  {
+    "id": 2047,
+    "lemma": "سَوَّلَ",
+    "meaning": "to entice, to suggest",
+    "transliteration": "sawwala",
+    "lemmaId": 1537
+  },
+  {
+    "id": 2048,
+    "lemma": "سَوَّى",
+    "meaning": "to fashion, to proportion",
+    "transliteration": "sawwā",
+    "lemmaId": 678
+  },
+  {
+    "id": 2049,
+    "lemma": "سَوْء",
+    "meaning": "evil",
+    "transliteration": "sawʾ",
+    "lemmaId": 896
+  },
+  {
+    "id": 2050,
+    "lemma": "سَوْءَة",
+    "meaning": "shameful parts",
+    "transliteration": "sawʾahton",
+    "lemmaId": 1071
+  },
+  {
+    "id": 2051,
+    "lemma": "سَوْط",
+    "meaning": "whip",
+    "transliteration": "sawṭ",
+    "lemmaId": 3646
+  },
+  {
+    "id": 2052,
+    "lemma": "سَيّارَة",
+    "meaning": "caravan",
+    "transliteration": "sayyāra",
+    "lemmaId": 1865
+  },
+  {
+    "id": 2053,
+    "lemma": "سَيِّئ",
+    "meaning": "evil",
+    "transliteration": "sayyiʾ",
+    "lemmaId": 1538
+  },
+  {
+    "id": 2054,
+    "lemma": "سَيِّئَة",
+    "meaning": "evil deed, evil",
+    "transliteration": "sayyiyata",
+    "lemmaId": 201
+  },
+  {
+    "id": 2055,
+    "lemma": "سَيِّد",
+    "meaning": "chief, noble leader, husband",
+    "transliteration": "sayyid",
+    "lemmaId": 1866
+  },
+  {
+    "id": 2056,
+    "lemma": "سَيْر",
+    "meaning": "journey, movement",
+    "transliteration": "sayr",
+    "lemmaId": 2418
+  },
+  {
+    "id": 2057,
+    "lemma": "سَيْل",
+    "meaning": "flood, torrent",
+    "transliteration": "sayl",
+    "lemmaId": 2419
+  },
+  {
+    "id": 2058,
+    "lemma": "سَيْناء",
+    "meaning": "Saynā'",
+    "transliteration": "saynāʾ",
+    "lemmaId": 3647
+  },
+  {
+    "id": 2059,
+    "lemma": "سُؤال",
+    "meaning": "to demand",
+    "transliteration": "suʾāl",
+    "lemmaId": 3648
+  },
+  {
+    "id": 2060,
+    "lemma": "سُؤْل",
+    "meaning": "request",
+    "transliteration": "suol",
+    "lemmaId": 3649
+  },
+  {
+    "id": 2061,
+    "lemma": "سُبات",
+    "meaning": "rest",
+    "transliteration": "subāt",
+    "lemmaId": 2420
+  },
+  {
+    "id": 2062,
+    "lemma": "سُبْحان",
+    "meaning": "glory, glorified",
+    "transliteration": "subḥāna",
+    "lemmaId": 278
+  },
+  {
+    "id": 2063,
+    "lemma": "سُجُود",
+    "meaning": "prostration",
+    "transliteration": "sujūd",
+    "lemmaId": 1169
+  },
+  {
+    "id": 2064,
+    "lemma": "سُجِّرَتْ",
+    "meaning": "to be filled with fire",
+    "transliteration": "sujjirat",
+    "lemmaId": 3650
+  },
+  {
+    "id": 2065,
+    "lemma": "سُحْت",
+    "meaning": "unlawful earnings",
+    "transliteration": "suḥtu",
+    "lemmaId": 1867
+  },
+  {
+    "id": 2066,
+    "lemma": "سُحْق",
+    "meaning": "to do away",
+    "transliteration": "suḥq",
+    "lemmaId": 3651
+  },
+  {
+    "id": 2067,
+    "lemma": "سُخْرِيّ",
+    "meaning": "in service",
+    "transliteration": "sukhriyy",
+    "lemmaId": 3652
+  },
+  {
+    "id": 2068,
+    "lemma": "سُدًى",
+    "meaning": "neglect",
+    "transliteration": "sudan",
+    "lemmaId": 3653
+  },
+  {
+    "id": 2069,
+    "lemma": "سُدُس",
+    "meaning": "sixth",
+    "transliteration": "sudus",
+    "lemmaId": 1868
+  },
+  {
+    "id": 2070,
+    "lemma": "سُرادِق",
+    "meaning": "wall",
+    "transliteration": "surādīq",
+    "lemmaId": 3654
+  },
+  {
+    "id": 2071,
+    "lemma": "سُرُر",
+    "meaning": "thrones, couches",
+    "transliteration": "surur",
+    "lemmaId": 1170
+  },
+  {
+    "id": 2072,
+    "lemma": "سُرُور",
+    "meaning": "happiness",
+    "transliteration": "surūr",
+    "lemmaId": 3655
+  },
+  {
+    "id": 2073,
+    "lemma": "سُطِحَتْ",
+    "meaning": "to be spread out",
+    "transliteration": "suṭiḥat",
+    "lemmaId": 3656
+  },
+  {
+    "id": 2074,
+    "lemma": "سُعُر",
+    "meaning": "madness",
+    "transliteration": "suʿur",
+    "lemmaId": 2421
+  },
+  {
+    "id": 2075,
+    "lemma": "سُعِدُ",
+    "meaning": "to be glad",
+    "transliteration": "suʿidu",
+    "lemmaId": 3657
+  },
+  {
+    "id": 2076,
+    "lemma": "سُعِّرَتْ",
+    "meaning": "to set ablaze",
+    "transliteration": "suʿirat",
+    "lemmaId": 3658
+  },
+  {
+    "id": 2077,
+    "lemma": "سُفْلَى",
+    "meaning": "lowest",
+    "transliteration": "suf'lā",
+    "lemmaId": 3659
+  },
+  {
+    "id": 2078,
+    "lemma": "سُقِطَ",
+    "meaning": "to fall, to regret",
+    "transliteration": "suqiṭa",
+    "lemmaId": 1869
+  },
+  {
+    "id": 2079,
+    "lemma": "سُقْيا",
+    "meaning": "drink",
+    "transliteration": "suqyā",
+    "lemmaId": 3660
+  },
+  {
+    "id": 2080,
+    "lemma": "سُكارَى",
+    "meaning": "intoxicated",
+    "transliteration": "sukārā",
+    "lemmaId": 1870
+  },
+  {
+    "id": 2081,
+    "lemma": "سُكِّرَتْ",
+    "meaning": "to dazzle",
+    "transliteration": "sukkirat",
+    "lemmaId": 3661
+  },
+  {
+    "id": 2082,
+    "lemma": "سُلالَة",
+    "meaning": "extract, essence",
+    "transliteration": "sulālatun",
+    "lemmaId": 2422
+  },
+  {
+    "id": 2083,
+    "lemma": "سُلَيْمان",
+    "meaning": "Sulaymān",
+    "transliteration": "sulaymān",
+    "lemmaId": 565
+  },
+  {
+    "id": 2084,
+    "lemma": "سُلْطان",
+    "meaning": "authority",
+    "transliteration": "sul'ṭān",
+    "lemmaId": 311
+  },
+  {
+    "id": 2085,
+    "lemma": "سُنبُل",
+    "meaning": "ear",
+    "transliteration": "sunbul",
+    "lemmaId": 3662
+  },
+  {
+    "id": 2086,
+    "lemma": "سُنبُلَة",
+    "meaning": "ear, ear of corn",
+    "transliteration": "sunbulata",
+    "lemmaId": 1539
+  },
+  {
+    "id": 2087,
+    "lemma": "سُندُس",
+    "meaning": "fine silk",
+    "transliteration": "sundus",
+    "lemmaId": 1871
+  },
+  {
+    "id": 2088,
+    "lemma": "سُنَّة",
+    "meaning": "way, practice",
+    "transliteration": "sunna",
+    "lemmaId": 588
+  },
+  {
+    "id": 2089,
+    "lemma": "سُهُول",
+    "meaning": "plains",
+    "transliteration": "suhūl",
+    "lemmaId": 3663
+  },
+  {
+    "id": 2090,
+    "lemma": "سُوء",
+    "meaning": "evil, harmful",
+    "transliteration": "sū",
+    "lemmaId": 232
+  },
+  {
+    "id": 2091,
+    "lemma": "سُواع",
+    "meaning": "Suwāʿ",
+    "transliteration": "sūā",
+    "lemmaId": 3664
+  },
+  {
+    "id": 2092,
+    "lemma": "سُود",
+    "meaning": "intensely black",
+    "transliteration": "sūd",
+    "lemmaId": 3665
+  },
+  {
+    "id": 2093,
+    "lemma": "سُور",
+    "meaning": "enclosure",
+    "transliteration": "sūr",
+    "lemmaId": 3666
+  },
+  {
+    "id": 2094,
+    "lemma": "سُورَة",
+    "meaning": "surah",
+    "transliteration": "sūratun",
+    "lemmaId": 824
+  },
+  {
+    "id": 2095,
+    "lemma": "سُوق",
+    "meaning": "market, leg, stem",
+    "transliteration": "sūq",
+    "lemmaId": 1540
+  },
+  {
+    "id": 2096,
+    "lemma": "سُوٓأَى",
+    "meaning": "most grievous evil",
+    "transliteration": "sūā",
+    "lemmaId": 3668
+  },
+  {
+    "id": 2097,
+    "lemma": "سُيِّرَتْ",
+    "meaning": "to be caused to move",
+    "transliteration": "suyyirat",
+    "lemmaId": 1337
+  },
+  {
+    "id": 2098,
+    "lemma": "سِتَّة",
+    "meaning": "six",
+    "transliteration": "sittata",
+    "lemmaId": 1072
+  },
+  {
+    "id": 2099,
+    "lemma": "سِتِّين",
+    "meaning": "sixty",
+    "transliteration": "sittīn",
+    "lemmaId": 3669
+  },
+  {
+    "id": 2100,
+    "lemma": "سِتْر",
+    "meaning": "shelter",
+    "transliteration": "sitr",
+    "lemmaId": 3670
+  },
+  {
+    "id": 2101,
+    "lemma": "سِجِلّ",
+    "meaning": "scroll",
+    "transliteration": "sijill",
+    "lemmaId": 3671
+  },
+  {
+    "id": 2102,
+    "lemma": "سِجِّيل",
+    "meaning": "baked clay",
+    "transliteration": "sijjīl",
+    "lemmaId": 1872
+  },
+  {
+    "id": 2103,
+    "lemma": "سِجِّين",
+    "meaning": "Sijjīn",
+    "transliteration": "sijjīn",
+    "lemmaId": 2424
+  },
+  {
+    "id": 2104,
+    "lemma": "سِجْن",
+    "meaning": "prison",
+    "transliteration": "sijna",
+    "lemmaId": 1171
+  },
+  {
+    "id": 2105,
+    "lemma": "سِحْر",
+    "meaning": "magic",
+    "transliteration": "siḥr",
+    "lemmaId": 388
+  },
+  {
+    "id": 2106,
+    "lemma": "سِخْرِيّ",
+    "meaning": "ridicule, mockery",
+    "transliteration": "sikhriyy",
+    "lemmaId": 2425
+  },
+  {
+    "id": 2107,
+    "lemma": "سِدْر",
+    "meaning": "lote tree",
+    "transliteration": "sidr",
+    "lemmaId": 2426
+  },
+  {
+    "id": 2108,
+    "lemma": "سِدْرَة",
+    "meaning": "lote tree",
+    "transliteration": "sid'rata",
+    "lemmaId": 2427
+  },
+  {
+    "id": 2109,
+    "lemma": "سِراج",
+    "meaning": "lamp",
+    "transliteration": "sirāj",
+    "lemmaId": 1541
+  },
+  {
+    "id": 2110,
+    "lemma": "سِراع",
+    "meaning": "swiftly",
+    "transliteration": "sirāʿ",
+    "lemmaId": 2428
+  },
+  {
+    "id": 2111,
+    "lemma": "سِرّ",
+    "meaning": "secret",
+    "transliteration": "sirr",
+    "lemmaId": 763
+  },
+  {
+    "id": 2112,
+    "lemma": "سِكِّين",
+    "meaning": "knife",
+    "transliteration": "sikkīn",
+    "lemmaId": 3672
+  },
+  {
+    "id": 2113,
+    "lemma": "سِلْسِلَة",
+    "meaning": "chain",
+    "transliteration": "silsilata",
+    "lemmaId": 1873
+  },
+  {
+    "id": 2114,
+    "lemma": "سِلْم",
+    "meaning": "Islam",
+    "transliteration": "silma",
+    "lemmaId": 3673
+  },
+  {
+    "id": 2115,
+    "lemma": "سِنَة",
+    "meaning": "slumber",
+    "transliteration": "sinata",
+    "lemmaId": 3674
+  },
+  {
+    "id": 2116,
+    "lemma": "سِنِين",
+    "meaning": "years",
+    "transliteration": "sinīn",
+    "lemmaId": 724
+  },
+  {
+    "id": 2117,
+    "lemma": "سِنّ",
+    "meaning": "tooth",
+    "transliteration": "sinn",
+    "lemmaId": 2430
+  },
+  {
+    "id": 2118,
+    "lemma": "سِيحُ",
+    "meaning": "to move about",
+    "transliteration": "sīḥu",
+    "lemmaId": 3675
+  },
+  {
+    "id": 2119,
+    "lemma": "سِيرَت",
+    "meaning": "state",
+    "transliteration": "sīrat",
+    "lemmaId": 3676
+  },
+  {
+    "id": 2120,
+    "lemma": "سِيقَ",
+    "meaning": "to drive",
+    "transliteration": "sīqa",
+    "lemmaId": 1073
+  },
+  {
+    "id": 2121,
+    "lemma": "سِيما",
+    "meaning": "mark",
+    "transliteration": "sīmā",
+    "lemmaId": 1172
+  },
+  {
+    "id": 2122,
+    "lemma": "سِينِين",
+    "meaning": "Sīnīn",
+    "transliteration": "sīnīn",
+    "lemmaId": 3677
+  },
+  {
+    "id": 2123,
+    "lemma": "شاءَ",
+    "meaning": "to will, to wish",
+    "transliteration": "shāa",
+    "lemmaId": 60
+  },
+  {
+    "id": 2124,
+    "lemma": "شاخِصَة",
+    "meaning": "to stare",
+    "transliteration": "shākhiṣa",
+    "lemmaId": 3678
+  },
+  {
+    "id": 2125,
+    "lemma": "شارِب",
+    "meaning": "to drink",
+    "transliteration": "shārib",
+    "lemmaId": 1338
+  },
+  {
+    "id": 2126,
+    "lemma": "شارِكْ",
+    "meaning": "to partner",
+    "transliteration": "shārik",
+    "lemmaId": 3679
+  },
+  {
+    "id": 2127,
+    "lemma": "شاطِئ",
+    "meaning": "side",
+    "transliteration": "shāṭiʾ",
+    "lemmaId": 3680
+  },
+  {
+    "id": 2128,
+    "lemma": "شاعِر",
+    "meaning": "poet",
+    "transliteration": "shāʿir",
+    "lemmaId": 1339
+  },
+  {
+    "id": 2129,
+    "lemma": "شافِع",
+    "meaning": "intercessor",
+    "transliteration": "shāfiʿ",
+    "lemmaId": 2431
+  },
+  {
+    "id": 2130,
+    "lemma": "شاقُّ",
+    "meaning": "to oppose",
+    "transliteration": "shāqqu",
+    "lemmaId": 1074
+  },
+  {
+    "id": 2131,
+    "lemma": "شاكِر",
+    "meaning": "grateful, thankful",
+    "transliteration": "shākir",
+    "lemmaId": 645
+  },
+  {
+    "id": 2132,
+    "lemma": "شاكِلَت",
+    "meaning": "manner",
+    "transliteration": "shākilat",
+    "lemmaId": 3681
+  },
+  {
+    "id": 2133,
+    "lemma": "شامِخَة",
+    "meaning": "lofty",
+    "transliteration": "shāmikhatun",
+    "lemmaId": 3682
+  },
+  {
+    "id": 2134,
+    "lemma": "شانِئ",
+    "meaning": "enemy",
+    "transliteration": "shāni'i",
+    "lemmaId": 3683
+  },
+  {
+    "id": 2135,
+    "lemma": "شاهِد",
+    "meaning": "witness",
+    "transliteration": "shāhid",
+    "lemmaId": 480
+  },
+  {
+    "id": 2136,
+    "lemma": "شاوِرْ",
+    "meaning": "to consult",
+    "transliteration": "shāwir",
+    "lemmaId": 3684
+  },
+  {
+    "id": 2137,
+    "lemma": "شَأْن",
+    "meaning": "matter, situation",
+    "transliteration": "shaan",
+    "lemmaId": 1542
+  },
+  {
+    "id": 2138,
+    "lemma": "شَتَّى",
+    "meaning": "diverse, divided",
+    "transliteration": "shattā",
+    "lemmaId": 1874
+  },
+  {
+    "id": 2139,
+    "lemma": "شَجَر",
+    "meaning": "trees",
+    "transliteration": "shajar",
+    "lemmaId": 1075
+  },
+  {
+    "id": 2140,
+    "lemma": "شَجَرَ",
+    "meaning": "to arise",
+    "transliteration": "shajara",
+    "lemmaId": 3685
+  },
+  {
+    "id": 2141,
+    "lemma": "شَجَرَة",
+    "meaning": "tree",
+    "transliteration": "shajarat",
+    "lemmaId": 516
+  },
+  {
+    "id": 2142,
+    "lemma": "شَدَدْ",
+    "meaning": "to strengthen",
+    "transliteration": "shadad",
+    "lemmaId": 1173
+  },
+  {
+    "id": 2143,
+    "lemma": "شَدِيد",
+    "meaning": "severe, strong, mighty",
+    "transliteration": "shadīd",
+    "lemmaId": 209
+  },
+  {
+    "id": 2144,
+    "lemma": "شَراب",
+    "meaning": "drink",
+    "transliteration": "sharāb",
+    "lemmaId": 764
+  },
+  {
+    "id": 2145,
+    "lemma": "شَرَ",
+    "meaning": "to sell",
+    "transliteration": "shara",
+    "lemmaId": 1543
+  },
+  {
+    "id": 2146,
+    "lemma": "شَرَحَ",
+    "meaning": "to expand, to open",
+    "transliteration": "sharḥa",
+    "lemmaId": 1340
+  },
+  {
+    "id": 2147,
+    "lemma": "شَرَر",
+    "meaning": "sparks",
+    "transliteration": "sharar",
+    "lemmaId": 3686
+  },
+  {
+    "id": 2148,
+    "lemma": "شَرَعَ",
+    "meaning": "to ordain",
+    "transliteration": "sharaʿa",
+    "lemmaId": 2432
+  },
+  {
+    "id": 2149,
+    "lemma": "شَرِبَ",
+    "meaning": "to drink",
+    "transliteration": "shariba",
+    "lemmaId": 615
+  },
+  {
+    "id": 2150,
+    "lemma": "شَرِيعَة",
+    "meaning": "ordained way",
+    "transliteration": "sharīʿa",
+    "lemmaId": 3687
+  },
+  {
+    "id": 2151,
+    "lemma": "شَرِيك",
+    "meaning": "partner",
+    "transliteration": "sharīk",
+    "lemmaId": 291
+  },
+  {
+    "id": 2152,
+    "lemma": "شَرّ",
+    "meaning": "bad, worse, worst, evil",
+    "transliteration": "sharr",
+    "lemmaId": 362
+  },
+  {
+    "id": 2153,
+    "lemma": "شَرِّدْ",
+    "meaning": "to disperse",
+    "transliteration": "sharrid",
+    "lemmaId": 3688
+  },
+  {
+    "id": 2154,
+    "lemma": "شَرْقِيّ",
+    "meaning": "eastern",
+    "transliteration": "sharqiy",
+    "lemmaId": 3689
+  },
+  {
+    "id": 2155,
+    "lemma": "شَرْقِيَّة",
+    "meaning": "east",
+    "transliteration": "sharqīyah",
+    "lemmaId": 3690
+  },
+  {
+    "id": 2156,
+    "lemma": "شَطَط",
+    "meaning": "enormity, excessive transgression",
+    "transliteration": "shaṭaṭ",
+    "lemmaId": 2433
+  },
+  {
+    "id": 2157,
+    "lemma": "شَطْء",
+    "meaning": "shoot",
+    "transliteration": "shaṭʾ",
+    "lemmaId": 3691
+  },
+  {
+    "id": 2158,
+    "lemma": "شَطْر",
+    "meaning": "direction",
+    "transliteration": "shaṭr",
+    "lemmaId": 1341
+  },
+  {
+    "id": 2159,
+    "lemma": "شَعائِر",
+    "meaning": "symbol, rite",
+    "transliteration": "shaʿāir",
+    "lemmaId": 1544
+  },
+  {
+    "id": 2160,
+    "lemma": "شَغَفَ",
+    "meaning": "to impassion",
+    "transliteration": "shaghafa",
+    "lemmaId": 3692
+  },
+  {
+    "id": 2161,
+    "lemma": "شَغَلَتْ",
+    "meaning": "to keep busy",
+    "transliteration": "shaghalat",
+    "lemmaId": 3693
+  },
+  {
+    "id": 2162,
+    "lemma": "شَفا",
+    "meaning": "brink, edge",
+    "transliteration": "shafā",
+    "lemmaId": 2434
+  },
+  {
+    "id": 2163,
+    "lemma": "شَفاعَة",
+    "meaning": "intercession",
+    "transliteration": "shafāʿa",
+    "lemmaId": 679
+  },
+  {
+    "id": 2164,
+    "lemma": "شَفَتَيْن",
+    "meaning": "lip",
+    "transliteration": "shafatayn",
+    "lemmaId": 3694
+  },
+  {
+    "id": 2165,
+    "lemma": "شَفَق",
+    "meaning": "twilight glow",
+    "transliteration": "shafaq",
+    "lemmaId": 3695
+  },
+  {
+    "id": 2166,
+    "lemma": "شَفِيع",
+    "meaning": "intercessor",
+    "transliteration": "shafīʿ",
+    "lemmaId": 825
+  },
+  {
+    "id": 2167,
+    "lemma": "شَقَقْ",
+    "meaning": "to make difficult, to cleave",
+    "transliteration": "shaqaq",
+    "lemmaId": 2435
+  },
+  {
+    "id": 2168,
+    "lemma": "شَقُ",
+    "meaning": "to suffer, to be wretched, to be distressed",
+    "transliteration": "shaqu",
+    "lemmaId": 1545
+  },
+  {
+    "id": 2169,
+    "lemma": "شَقِيّ",
+    "meaning": "unblessed, wretched",
+    "transliteration": "shaqī",
+    "lemmaId": 1546
+  },
+  {
+    "id": 2170,
+    "lemma": "شَقّ",
+    "meaning": "to split",
+    "transliteration": "shaqq",
+    "lemmaId": 3697
+  },
+  {
+    "id": 2171,
+    "lemma": "شَكَرَ",
+    "meaning": "to be grateful, to give thanks",
+    "transliteration": "shakara",
+    "lemmaId": 250
+  },
+  {
+    "id": 2172,
+    "lemma": "شَكُور",
+    "meaning": "grateful, appreciative",
+    "transliteration": "shakūr",
+    "lemmaId": 826
+  },
+  {
+    "id": 2173,
+    "lemma": "شَكّ",
+    "meaning": "doubt",
+    "transliteration": "shakk",
+    "lemmaId": 616
+  },
+  {
+    "id": 2174,
+    "lemma": "شَكْل",
+    "meaning": "type",
+    "transliteration": "shakl",
+    "lemmaId": 3698
+  },
+  {
+    "id": 2175,
+    "lemma": "شَمائِل",
+    "meaning": "left",
+    "transliteration": "shamāil",
+    "lemmaId": 2436
+  },
+  {
+    "id": 2176,
+    "lemma": "شَمْس",
+    "meaning": "sun",
+    "transliteration": "shams",
+    "lemmaId": 340
+  },
+  {
+    "id": 2177,
+    "lemma": "شَنَآن",
+    "meaning": "hatred",
+    "transliteration": "shanān",
+    "lemmaId": 2437
+  },
+  {
+    "id": 2178,
+    "lemma": "شَهادَة",
+    "meaning": "testimony, evidence",
+    "transliteration": "shahādata",
+    "lemmaId": 413
+  },
+  {
+    "id": 2179,
+    "lemma": "شَهِدَ",
+    "meaning": "to testify, to bear witness",
+    "transliteration": "shahida",
+    "lemmaId": 260
+  },
+  {
+    "id": 2180,
+    "lemma": "شَهِيد",
+    "meaning": "witness, martyr",
+    "transliteration": "shahīd",
+    "lemmaId": 210
+  },
+  {
+    "id": 2181,
+    "lemma": "شَهِيق",
+    "meaning": "wailing, inhaling",
+    "transliteration": "shahīq",
+    "lemmaId": 2438
+  },
+  {
+    "id": 2182,
+    "lemma": "شَهْر",
+    "meaning": "month",
+    "transliteration": "shahru",
+    "lemmaId": 481
+  },
+  {
+    "id": 2183,
+    "lemma": "شَهْوَة",
+    "meaning": "lust",
+    "transliteration": "shahwata",
+    "lemmaId": 2439
+  },
+  {
+    "id": 2184,
+    "lemma": "شَوْب",
+    "meaning": "mixture",
+    "transliteration": "shawb",
+    "lemmaId": 3700
+  },
+  {
+    "id": 2185,
+    "lemma": "شَوْكَة",
+    "meaning": "armed",
+    "transliteration": "shawkata",
+    "lemmaId": 3701
+  },
+  {
+    "id": 2186,
+    "lemma": "شَىْء",
+    "meaning": "thing, anything",
+    "transliteration": "shayʾ",
+    "lemmaId": 47
+  },
+  {
+    "id": 2187,
+    "lemma": "شَيْب",
+    "meaning": "white",
+    "transliteration": "shayb",
+    "lemmaId": 3702
+  },
+  {
+    "id": 2188,
+    "lemma": "شَيْبَة",
+    "meaning": "white hair",
+    "transliteration": "shaybatun",
+    "lemmaId": 3703
+  },
+  {
+    "id": 2189,
+    "lemma": "شَيْخ",
+    "meaning": "old",
+    "transliteration": "shaykh",
+    "lemmaId": 1547
+  },
+  {
+    "id": 2190,
+    "lemma": "شَيْطان",
+    "meaning": "devil, Shayṭān",
+    "transliteration": "shayṭān",
+    "lemmaId": 124
+  },
+  {
+    "id": 2191,
+    "lemma": "شُبِّهَ",
+    "meaning": "to make appear",
+    "transliteration": "shubbiha",
+    "lemmaId": 3704
+  },
+  {
+    "id": 2192,
+    "lemma": "شُحُوم",
+    "meaning": "fat",
+    "transliteration": "shuḥūm",
+    "lemmaId": 3705
+  },
+  {
+    "id": 2193,
+    "lemma": "شُحّ",
+    "meaning": "greed, miserliness, stinginess",
+    "transliteration": "shuḥ",
+    "lemmaId": 1342
+  },
+  {
+    "id": 2194,
+    "lemma": "شُرَّع",
+    "meaning": "visibly",
+    "transliteration": "shurraʿ",
+    "lemmaId": 3706
+  },
+  {
+    "id": 2195,
+    "lemma": "شُرْب",
+    "meaning": "drinking",
+    "transliteration": "shurba",
+    "lemmaId": 3707
+  },
+  {
+    "id": 2196,
+    "lemma": "شُعَب",
+    "meaning": "column",
+    "transliteration": "shuʿab",
+    "lemmaId": 3708
+  },
+  {
+    "id": 2197,
+    "lemma": "شُعَيْب",
+    "meaning": "Shu'ayb",
+    "transliteration": "shuʿayb",
+    "lemmaId": 765
+  },
+  {
+    "id": 2198,
+    "lemma": "شُعُوب",
+    "meaning": "nation",
+    "transliteration": "shuʿūb",
+    "lemmaId": 3709
+  },
+  {
+    "id": 2199,
+    "lemma": "شُغُل",
+    "meaning": "to occupy",
+    "transliteration": "shugul",
+    "lemmaId": 3710
+  },
+  {
+    "id": 2200,
+    "lemma": "شُقَّة",
+    "meaning": "distance",
+    "transliteration": "shuqqa",
+    "lemmaId": 3711
+  },
+  {
+    "id": 2201,
+    "lemma": "شُكُور",
+    "meaning": "thanks, to be thankful",
+    "transliteration": "shukūr",
+    "lemmaId": 2440
+  },
+  {
+    "id": 2202,
+    "lemma": "شُكْر",
+    "meaning": "gratitude",
+    "transliteration": "shukr",
+    "lemmaId": 3712
+  },
+  {
+    "id": 2203,
+    "lemma": "شُهُب",
+    "meaning": "flaming fires",
+    "transliteration": "shuhubi",
+    "lemmaId": 3713
+  },
+  {
+    "id": 2204,
+    "lemma": "شُواظ",
+    "meaning": "flame",
+    "transliteration": "shūāẓ",
+    "lemmaId": 3714
+  },
+  {
+    "id": 2205,
+    "lemma": "شُورَى",
+    "meaning": "consultation",
+    "transliteration": "shūrā",
+    "lemmaId": 3715
+  },
+  {
+    "id": 2206,
+    "lemma": "شِتاء",
+    "meaning": "winter",
+    "transliteration": "shitā'",
+    "lemmaId": 3716
+  },
+  {
+    "id": 2207,
+    "lemma": "شِرْب",
+    "meaning": "to drink",
+    "transliteration": "shirb",
+    "lemmaId": 1876
+  },
+  {
+    "id": 2208,
+    "lemma": "شِرْذِمَة",
+    "meaning": "band",
+    "transliteration": "shir'ẓimah",
+    "lemmaId": 3717
+  },
+  {
+    "id": 2209,
+    "lemma": "شِرْعَة",
+    "meaning": "law",
+    "transliteration": "shirʿata",
+    "lemmaId": 3718
+  },
+  {
+    "id": 2210,
+    "lemma": "شِرْك",
+    "meaning": "association, partnership, share",
+    "transliteration": "shirki",
+    "lemmaId": 1343
+  },
+  {
+    "id": 2211,
+    "lemma": "شِعْر",
+    "meaning": "poetry, hair",
+    "transliteration": "shiʿr",
+    "lemmaId": 2441
+  },
+  {
+    "id": 2212,
+    "lemma": "شِعْرَى",
+    "meaning": "Sirius",
+    "transliteration": "shiʿrā",
+    "lemmaId": 3719
+  },
+  {
+    "id": 2213,
+    "lemma": "شِفاء",
+    "meaning": "healing",
+    "transliteration": "shifā",
+    "lemmaId": 1548
+  },
+  {
+    "id": 2214,
+    "lemma": "شِقاق",
+    "meaning": "dissension, opposition",
+    "transliteration": "shiqāq",
+    "lemmaId": 1076
+  },
+  {
+    "id": 2215,
+    "lemma": "شِقّ",
+    "meaning": "trouble",
+    "transliteration": "shiqq",
+    "lemmaId": 3720
+  },
+  {
+    "id": 2216,
+    "lemma": "شِقْوَت",
+    "meaning": "wretchedness",
+    "transliteration": "shiqwata",
+    "lemmaId": 3721
+  },
+  {
+    "id": 2217,
+    "lemma": "شِمال",
+    "meaning": "left",
+    "transliteration": "shimāl",
+    "lemmaId": 974
+  },
+  {
+    "id": 2218,
+    "lemma": "شِهاب",
+    "meaning": "flame, torch, fire",
+    "transliteration": "shihāb",
+    "lemmaId": 1549
+  },
+  {
+    "id": 2219,
+    "lemma": "شِيب",
+    "meaning": "white-haired",
+    "transliteration": "shīb",
+    "lemmaId": 3722
+  },
+  {
+    "id": 2220,
+    "lemma": "شِيعَة",
+    "meaning": "sect",
+    "transliteration": "shīʿa",
+    "lemmaId": 766
+  },
+  {
+    "id": 2221,
+    "lemma": "شِيَة",
+    "meaning": "blemish",
+    "transliteration": "shiyata",
+    "lemmaId": 3723
+  },
+  {
+    "id": 2222,
+    "lemma": "صائِم",
+    "meaning": "to fast",
+    "transliteration": "ṣāim",
+    "lemmaId": 3724
+  },
+  {
+    "id": 2223,
+    "lemma": "صائِمَة",
+    "meaning": "woman who fasts",
+    "transliteration": "ṣāimata",
+    "lemmaId": 3725
+  },
+  {
+    "id": 2224,
+    "lemma": "صابِئ",
+    "meaning": "aṣ-Ṣābi'ūn",
+    "transliteration": "ṣābiʾ",
+    "lemmaId": 1877
+  },
+  {
+    "id": 2225,
+    "lemma": "صابِر",
+    "meaning": "patient, steadfast",
+    "transliteration": "ṣābir",
+    "lemmaId": 504
+  },
+  {
+    "id": 2226,
+    "lemma": "صابِرَة",
+    "meaning": "steadfast, patient",
+    "transliteration": "ṣābirata",
+    "lemmaId": 2442
+  },
+  {
+    "id": 2227,
+    "lemma": "صابِرُ",
+    "meaning": "to be patient",
+    "transliteration": "ṣābiru",
+    "lemmaId": 3726
+  },
+  {
+    "id": 2228,
+    "lemma": "صاحِب",
+    "meaning": "companion",
+    "transliteration": "ṣāḥib",
+    "lemmaId": 725
+  },
+  {
+    "id": 2229,
+    "lemma": "صاحِبَة",
+    "meaning": "companion, spouse, wife",
+    "transliteration": "ṣāḥibah",
+    "lemmaId": 1550
+  },
+  {
+    "id": 2230,
+    "lemma": "صاخَّة",
+    "meaning": "deafening blast",
+    "transliteration": "ṣākhah",
+    "lemmaId": 3727
+  },
+  {
+    "id": 2231,
+    "lemma": "صادِق",
+    "meaning": "truthful, true",
+    "transliteration": "ṣādiq",
+    "lemmaId": 197
+  },
+  {
+    "id": 2232,
+    "lemma": "صادِقَة",
+    "meaning": "truthful",
+    "transliteration": "ṣādiqata",
+    "lemmaId": 3728
+  },
+  {
+    "id": 2233,
+    "lemma": "صارِم",
+    "meaning": "to pluck",
+    "transliteration": "ṣārim",
+    "lemmaId": 3729
+  },
+  {
+    "id": 2234,
+    "lemma": "صاعِقَة",
+    "meaning": "thunderbolt, thunderclap",
+    "transliteration": "ṣāʿiqa",
+    "lemmaId": 975
+  },
+  {
+    "id": 2235,
+    "lemma": "صاغِر",
+    "meaning": "to disgrace, to humiliate, to subdue",
+    "transliteration": "ṣāghir",
+    "lemmaId": 1344
+  },
+  {
+    "id": 2236,
+    "lemma": "صافِنَة",
+    "meaning": "noble horses",
+    "transliteration": "ṣāfinatu",
+    "lemmaId": 3730
+  },
+  {
+    "id": 2237,
+    "lemma": "صافّ",
+    "meaning": "to stand in rows",
+    "transliteration": "ṣāff",
+    "lemmaId": 3731
+  },
+  {
+    "id": 2238,
+    "lemma": "صافَّة",
+    "meaning": "to spread, lined up",
+    "transliteration": "ṣāffata",
+    "lemmaId": 1878
+  },
+  {
+    "id": 2239,
+    "lemma": "صال",
+    "meaning": "to burn",
+    "transliteration": "ṣāl",
+    "lemmaId": 3732
+  },
+  {
+    "id": 2240,
+    "lemma": "صالُوا",
+    "meaning": "to burn",
+    "transliteration": "ṣālū",
+    "lemmaId": 2443
+  },
+  {
+    "id": 2241,
+    "lemma": "صالِح",
+    "meaning": "righteous, good, Ṣāliḥ",
+    "transliteration": "ṣāliḥ",
+    "lemmaId": 158
+  },
+  {
+    "id": 2242,
+    "lemma": "صالِحَة",
+    "meaning": "righteous deeds, good deeds",
+    "transliteration": "ṣāliḥata",
+    "lemmaId": 192
+  },
+  {
+    "id": 2243,
+    "lemma": "صامِت",
+    "meaning": "to remain silent",
+    "transliteration": "ṣāmit",
+    "lemmaId": 3733
+  },
+  {
+    "id": 2244,
+    "lemma": "صَباح",
+    "meaning": "morning",
+    "transliteration": "ṣabāḥ",
+    "lemmaId": 3734
+  },
+  {
+    "id": 2245,
+    "lemma": "صَبَرَ",
+    "meaning": "to be patient",
+    "transliteration": "ṣabara",
+    "lemmaId": 202
+  },
+  {
+    "id": 2246,
+    "lemma": "صَبِيّ",
+    "meaning": "child",
+    "transliteration": "ṣabiyy",
+    "lemmaId": 2444
+  },
+  {
+    "id": 2247,
+    "lemma": "صَبّ",
+    "meaning": "abundance",
+    "transliteration": "ṣabb",
+    "lemmaId": 3735
+  },
+  {
+    "id": 2248,
+    "lemma": "صَبّار",
+    "meaning": "patient",
+    "transliteration": "ṣabbār",
+    "lemmaId": 1551
+  },
+  {
+    "id": 2249,
+    "lemma": "صَبَّ",
+    "meaning": "to pour",
+    "transliteration": "sabba",
+    "lemmaId": 1552
+  },
+  {
+    "id": 2250,
+    "lemma": "صَبَّحَ",
+    "meaning": "to seize in the morning",
+    "transliteration": "ṣabbaḥa",
+    "lemmaId": 3736
+  },
+  {
+    "id": 2251,
+    "lemma": "صَبْر",
+    "meaning": "patience",
+    "transliteration": "ṣabr",
+    "lemmaId": 617
+  },
+  {
+    "id": 2252,
+    "lemma": "صَخْر",
+    "meaning": "rock",
+    "transliteration": "ṣaḵr",
+    "lemmaId": 3737
+  },
+  {
+    "id": 2253,
+    "lemma": "صَخْرَة",
+    "meaning": "rock",
+    "transliteration": "ṣaḵratun",
+    "lemmaId": 2445
+  },
+  {
+    "id": 2254,
+    "lemma": "صَدَفَ",
+    "meaning": "to turn away",
+    "transliteration": "ṣadafa",
+    "lemmaId": 1553
+  },
+  {
+    "id": 2255,
+    "lemma": "صَدَفَيْن",
+    "meaning": "cliff",
+    "transliteration": "ṣadafayn",
+    "lemmaId": 3738
+  },
+  {
+    "id": 2256,
+    "lemma": "صَدَقَ",
+    "meaning": "to be truthful, to fulfill",
+    "transliteration": "ṣadaqa",
+    "lemmaId": 618
+  },
+  {
+    "id": 2257,
+    "lemma": "صَدَقَة",
+    "meaning": "charity",
+    "transliteration": "ṣadaqa",
+    "lemmaId": 680
+  },
+  {
+    "id": 2258,
+    "lemma": "صَدُقَة",
+    "meaning": "dower",
+    "transliteration": "ṣadūqah",
+    "lemmaId": 3739
+  },
+  {
+    "id": 2259,
+    "lemma": "صَدِيد",
+    "meaning": "purulent",
+    "transliteration": "ṣadīd",
+    "lemmaId": 3740
+  },
+  {
+    "id": 2260,
+    "lemma": "صَدِيق",
+    "meaning": "friend",
+    "transliteration": "ṣadīq",
+    "lemmaId": 2446
+  },
+  {
+    "id": 2261,
+    "lemma": "صَدّ",
+    "meaning": "to hinder",
+    "transliteration": "ṣadd",
+    "lemmaId": 2447
+  },
+  {
+    "id": 2262,
+    "lemma": "صَدَّ",
+    "meaning": "to turn away, to avert, to hinder",
+    "transliteration": "sadda",
+    "lemmaId": 312
+  },
+  {
+    "id": 2263,
+    "lemma": "صَدَّقَ",
+    "meaning": "to accept truth, to admit, to confirm, to believe",
+    "transliteration": "ṣaddaqa",
+    "lemmaId": 827
+  },
+  {
+    "id": 2264,
+    "lemma": "صَدْر",
+    "meaning": "breast, heart",
+    "transliteration": "ṣadra",
+    "lemmaId": 261
+  },
+  {
+    "id": 2265,
+    "lemma": "صَدْع",
+    "meaning": "to crack open",
+    "transliteration": "ṣadʿ",
+    "lemmaId": 3741
+  },
+  {
+    "id": 2266,
+    "lemma": "صَرَفَ",
+    "meaning": "to divert, to turn away",
+    "transliteration": "ṣarafa",
+    "lemmaId": 646
+  },
+  {
+    "id": 2267,
+    "lemma": "صَرِيم",
+    "meaning": "as if reaped",
+    "transliteration": "ṣarīm",
+    "lemmaId": 3743
+  },
+  {
+    "id": 2268,
+    "lemma": "صَرَّة",
+    "meaning": "loud voice",
+    "transliteration": "ṣarrata",
+    "lemmaId": 3744
+  },
+  {
+    "id": 2269,
+    "lemma": "صَرَّفْ",
+    "meaning": "to explain",
+    "transliteration": "ṣarraf",
+    "lemmaId": 828
+  },
+  {
+    "id": 2270,
+    "lemma": "صَرْح",
+    "meaning": "palace, tower",
+    "transliteration": "ṣarḥ",
+    "lemmaId": 1554
+  },
+  {
+    "id": 2271,
+    "lemma": "صَرْصَر",
+    "meaning": "furious, screaming",
+    "transliteration": "ṣarṣar",
+    "lemmaId": 1879
+  },
+  {
+    "id": 2272,
+    "lemma": "صَرْعَى",
+    "meaning": "to fall",
+    "transliteration": "ṣarʿā",
+    "lemmaId": 3745
+  },
+  {
+    "id": 2273,
+    "lemma": "صَرْف",
+    "meaning": "to avert",
+    "transliteration": "ṣarfa",
+    "lemmaId": 3746
+  },
+  {
+    "id": 2274,
+    "lemma": "صَعَد",
+    "meaning": "to be severe",
+    "transliteration": "ṣaʿada",
+    "lemmaId": 3747
+  },
+  {
+    "id": 2275,
+    "lemma": "صَعُود",
+    "meaning": "laborious punishment",
+    "transliteration": "ṣaʿūd",
+    "lemmaId": 3748
+  },
+  {
+    "id": 2276,
+    "lemma": "صَعِق",
+    "meaning": "unconscious",
+    "transliteration": "ṣaʿiq",
+    "lemmaId": 3749
+  },
+  {
+    "id": 2277,
+    "lemma": "صَعِقَ",
+    "meaning": "to faint, to fall dead",
+    "transliteration": "ṣaʿiqa",
+    "lemmaId": 2448
+  },
+  {
+    "id": 2278,
+    "lemma": "صَعِيد",
+    "meaning": "earth, soil, ground",
+    "transliteration": "ṣaʿīd",
+    "lemmaId": 1555
+  },
+  {
+    "id": 2279,
+    "lemma": "صَغار",
+    "meaning": "humiliation",
+    "transliteration": "ṣaghār",
+    "lemmaId": 3750
+  },
+  {
+    "id": 2280,
+    "lemma": "صَغَتْ",
+    "meaning": "to incline",
+    "transliteration": "ṣaḡat",
+    "lemmaId": 2449
+  },
+  {
+    "id": 2281,
+    "lemma": "صَغِير",
+    "meaning": "small",
+    "transliteration": "ṣaḡīr",
+    "lemmaId": 1880
+  },
+  {
+    "id": 2282,
+    "lemma": "صَغِيرَة",
+    "meaning": "small",
+    "transliteration": "ṣaḡīrahta",
+    "lemmaId": 2450
+  },
+  {
+    "id": 2283,
+    "lemma": "صَفا",
+    "meaning": "Ṣafā",
+    "transliteration": "ṣafā",
+    "lemmaId": 3751
+  },
+  {
+    "id": 2284,
+    "lemma": "صَفّ",
+    "meaning": "row, rank",
+    "transliteration": "ṣaff",
+    "lemmaId": 1077
+  },
+  {
+    "id": 2285,
+    "lemma": "صَفْح",
+    "meaning": "to forgive, to disregard",
+    "transliteration": "ṣafḥ",
+    "lemmaId": 2451
+  },
+  {
+    "id": 2286,
+    "lemma": "صَفْراء",
+    "meaning": "yellow",
+    "transliteration": "ṣafrāʾ",
+    "lemmaId": 3752
+  },
+  {
+    "id": 2287,
+    "lemma": "صَفْصَف",
+    "meaning": "plain",
+    "transliteration": "ṣafṣaf",
+    "lemmaId": 3753
+  },
+  {
+    "id": 2288,
+    "lemma": "صَفْوان",
+    "meaning": "smooth rock",
+    "transliteration": "ṣafwān",
+    "lemmaId": 3754
+  },
+  {
+    "id": 2289,
+    "lemma": "صَكَّتْ",
+    "meaning": "to strike",
+    "transliteration": "ṣakkat",
+    "lemmaId": 3755
+  },
+  {
+    "id": 2290,
+    "lemma": "صَلاة",
+    "meaning": "prayer, blessings",
+    "transliteration": "ṣalāt",
+    "lemmaId": 136
+  },
+  {
+    "id": 2291,
+    "lemma": "صَلَبُ",
+    "meaning": "to crucify",
+    "transliteration": "ṣalabu",
+    "lemmaId": 2452
+  },
+  {
+    "id": 2292,
+    "lemma": "صَلَحَ",
+    "meaning": "to be righteous",
+    "transliteration": "ṣalaḥ",
+    "lemmaId": 2453
+  },
+  {
+    "id": 2293,
+    "lemma": "صَلَّى",
+    "meaning": "to pray, to bless",
+    "transliteration": "ṣallā",
+    "lemmaId": 726
+  },
+  {
+    "id": 2294,
+    "lemma": "صَلُّ",
+    "meaning": "to burn",
+    "transliteration": "ṣallu",
+    "lemmaId": 3756
+  },
+  {
+    "id": 2295,
+    "lemma": "صَلْد",
+    "meaning": "bare",
+    "transliteration": "ṣalda",
+    "lemmaId": 3757
+  },
+  {
+    "id": 2296,
+    "lemma": "صَلْصال",
+    "meaning": "clay",
+    "transliteration": "ṣalṣāl",
+    "lemmaId": 1556
+  },
+  {
+    "id": 2297,
+    "lemma": "صَمُّ",
+    "meaning": "to become deaf",
+    "transliteration": "ṣammu",
+    "lemmaId": 2454
+  },
+  {
+    "id": 2298,
+    "lemma": "صَنَعُ",
+    "meaning": "to make, to construct, to do",
+    "transliteration": "ṣanaʿu",
+    "lemmaId": 619
+  },
+  {
+    "id": 2299,
+    "lemma": "صَنْعَة",
+    "meaning": "making",
+    "transliteration": "ṣanʿahton",
+    "lemmaId": 3759
+  },
+  {
+    "id": 2300,
+    "lemma": "صَواب",
+    "meaning": "correct",
+    "transliteration": "ṣawāb",
+    "lemmaId": 3760
+  },
+  {
+    "id": 2301,
+    "lemma": "صَوافّ",
+    "meaning": "lined up",
+    "transliteration": "ṣawāff",
+    "lemmaId": 3761
+  },
+  {
+    "id": 2302,
+    "lemma": "صَوامِع",
+    "meaning": "monasteries",
+    "transliteration": "ṣawāmiʿ",
+    "lemmaId": 3762
+  },
+  {
+    "id": 2303,
+    "lemma": "صَوَّرَ",
+    "meaning": "to form, to fashion, to shape",
+    "transliteration": "ṣawwara",
+    "lemmaId": 1557
+  },
+  {
+    "id": 2304,
+    "lemma": "صَوْت",
+    "meaning": "voice, sound",
+    "transliteration": "ṣawt",
+    "lemmaId": 976
+  },
+  {
+    "id": 2305,
+    "lemma": "صَوْم",
+    "meaning": "fast",
+    "transliteration": "ṣawm",
+    "lemmaId": 3763
+  },
+  {
+    "id": 2306,
+    "lemma": "صَياصِي",
+    "meaning": "fortresses",
+    "transliteration": "ṣayāṣī",
+    "lemmaId": 3764
+  },
+  {
+    "id": 2307,
+    "lemma": "صَيِّب",
+    "meaning": "like a rainstorm",
+    "transliteration": "ṣayyib",
+    "lemmaId": 3765
+  },
+  {
+    "id": 2308,
+    "lemma": "صَيْحَة",
+    "meaning": "shout, blast",
+    "transliteration": "ṣayḥah",
+    "lemmaId": 681
+  },
+  {
+    "id": 2309,
+    "lemma": "صَيْد",
+    "meaning": "game, to hunt",
+    "transliteration": "ṣayd",
+    "lemmaId": 1345
+  },
+  {
+    "id": 2310,
+    "lemma": "صَيْف",
+    "meaning": "summer",
+    "transliteration": "ṣayf",
+    "lemmaId": 3766
+  },
+  {
+    "id": 2311,
+    "lemma": "صُبْح",
+    "meaning": "morning, dawn",
+    "transliteration": "ṣubḥ",
+    "lemmaId": 1346
+  },
+  {
+    "id": 2312,
+    "lemma": "صُحُف",
+    "meaning": "scriptures, pages",
+    "transliteration": "ṣuḥuf",
+    "lemmaId": 977
+  },
+  {
+    "id": 2313,
+    "lemma": "صُدُود",
+    "meaning": "aversion",
+    "transliteration": "ṣudūd",
+    "lemmaId": 3767
+  },
+  {
+    "id": 2314,
+    "lemma": "صُدُّ",
+    "meaning": "to hinder",
+    "transliteration": "ṣuddu",
+    "lemmaId": 3768
+  },
+  {
+    "id": 2315,
+    "lemma": "صُرْ",
+    "meaning": "to incline",
+    "transliteration": "ṣur",
+    "lemmaId": 3769
+  },
+  {
+    "id": 2316,
+    "lemma": "صُفْر",
+    "meaning": "yellow",
+    "transliteration": "ṣufr",
+    "lemmaId": 3770
+  },
+  {
+    "id": 2317,
+    "lemma": "صُلْب",
+    "meaning": "backbone",
+    "transliteration": "ṣulba",
+    "lemmaId": 2455
+  },
+  {
+    "id": 2318,
+    "lemma": "صُلْح",
+    "meaning": "reconciliation",
+    "transliteration": "ṣulḥ",
+    "lemmaId": 2456
+  },
+  {
+    "id": 2319,
+    "lemma": "صُنْع",
+    "meaning": "work",
+    "transliteration": "ṣunʿ",
+    "lemmaId": 2457
+  },
+  {
+    "id": 2320,
+    "lemma": "صُواع",
+    "meaning": "cup",
+    "transliteration": "ṣūā",
+    "lemmaId": 3771
+  },
+  {
+    "id": 2321,
+    "lemma": "صُور",
+    "meaning": "trumpet",
+    "transliteration": "ṣūr",
+    "lemmaId": 829
+  },
+  {
+    "id": 2322,
+    "lemma": "صُورَة",
+    "meaning": "form",
+    "transliteration": "ṣūratun",
+    "lemmaId": 1881
+  },
+  {
+    "id": 2323,
+    "lemma": "صِبْغ",
+    "meaning": "relish",
+    "transliteration": "ṣibḡ",
+    "lemmaId": 3772
+  },
+  {
+    "id": 2324,
+    "lemma": "صِبْغَة",
+    "meaning": "color, coloring",
+    "transliteration": "ṣibgha",
+    "lemmaId": 2458
+  },
+  {
+    "id": 2325,
+    "lemma": "صِحاف",
+    "meaning": "plate",
+    "transliteration": "ṣiḥāf",
+    "lemmaId": 3773
+  },
+  {
+    "id": 2326,
+    "lemma": "صِدِّيق",
+    "meaning": "truthful",
+    "transliteration": "ṣiddīq",
+    "lemmaId": 1347
+  },
+  {
+    "id": 2327,
+    "lemma": "صِدِّيقَة",
+    "meaning": "to be truthful",
+    "transliteration": "ṣiddīqah",
+    "lemmaId": 3774
+  },
+  {
+    "id": 2328,
+    "lemma": "صِدْق",
+    "meaning": "truth, honesty, integrity",
+    "transliteration": "ṣidq",
+    "lemmaId": 647
+  },
+  {
+    "id": 2329,
+    "lemma": "صِراط",
+    "meaning": "path, way",
+    "transliteration": "ṣirāṭ",
+    "lemmaId": 255
+  },
+  {
+    "id": 2330,
+    "lemma": "صِرّ",
+    "meaning": "frost",
+    "transliteration": "ṣirr",
+    "lemmaId": 3775
+  },
+  {
+    "id": 2331,
+    "lemma": "صِلِيّ",
+    "meaning": "to burn",
+    "transliteration": "ṣiliyy",
+    "lemmaId": 3776
+  },
+  {
+    "id": 2332,
+    "lemma": "صِنْوان",
+    "meaning": "tree",
+    "transliteration": "ṣinwān",
+    "lemmaId": 2459
+  },
+  {
+    "id": 2333,
+    "lemma": "صِهْر",
+    "meaning": "marriage relationship",
+    "transliteration": "ṣihri",
+    "lemmaId": 3777
+  },
+  {
+    "id": 2334,
+    "lemma": "صِيام",
+    "meaning": "fasting",
+    "transliteration": "ṣiyām",
+    "lemmaId": 897
+  },
+  {
+    "id": 2335,
+    "lemma": "ضائِق",
+    "meaning": "constrained",
+    "transliteration": "ḍāʾiq",
+    "lemmaId": 3778
+  },
+  {
+    "id": 2336,
+    "lemma": "ضاحِك",
+    "meaning": "to laugh",
+    "transliteration": "ḍāḥik",
+    "lemmaId": 3779
+  },
+  {
+    "id": 2337,
+    "lemma": "ضاحِكَة",
+    "meaning": "laughing",
+    "transliteration": "ḍāḥikata",
+    "lemmaId": 3780
+  },
+  {
+    "id": 2338,
+    "lemma": "ضارّ",
+    "meaning": "to harm",
+    "transliteration": "ḍārr",
+    "lemmaId": 2460
+  },
+  {
+    "id": 2339,
+    "lemma": "ضاقَ",
+    "meaning": "to feel constricted",
+    "transliteration": "ḍāqa",
+    "lemmaId": 1078
+  },
+  {
+    "id": 2340,
+    "lemma": "ضالّ",
+    "meaning": "to go astray",
+    "transliteration": "ḍāll",
+    "lemmaId": 648
+  },
+  {
+    "id": 2341,
+    "lemma": "ضامِر",
+    "meaning": "lean camel",
+    "transliteration": "ḍāmir",
+    "lemmaId": 3781
+  },
+  {
+    "id": 2342,
+    "lemma": "ضَأْن",
+    "meaning": "sheep",
+    "transliteration": "ḍaʾn",
+    "lemmaId": 3782
+  },
+  {
+    "id": 2343,
+    "lemma": "ضَبْح",
+    "meaning": "to pant",
+    "transliteration": "ḍabḥ",
+    "lemmaId": 3783
+  },
+  {
+    "id": 2344,
+    "lemma": "ضَحِكَتْ",
+    "meaning": "to laugh",
+    "transliteration": "ḍaḥikat",
+    "lemmaId": 1079
+  },
+  {
+    "id": 2345,
+    "lemma": "ضَرَبَ",
+    "meaning": "to strike, to set forth",
+    "transliteration": "ḍaraba",
+    "lemmaId": 215
+  },
+  {
+    "id": 2346,
+    "lemma": "ضَرَر",
+    "meaning": "disabled",
+    "transliteration": "ḍarr",
+    "lemmaId": 3784
+  },
+  {
+    "id": 2347,
+    "lemma": "ضَرِيع",
+    "meaning": "bitter thorny plant",
+    "transliteration": "ḍarīʿ",
+    "lemmaId": 3785
+  },
+  {
+    "id": 2348,
+    "lemma": "ضَرّ",
+    "meaning": "harm",
+    "transliteration": "ḍarr",
+    "lemmaId": 830
+  },
+  {
+    "id": 2349,
+    "lemma": "ضَرّاء",
+    "meaning": "hardship, adversity",
+    "transliteration": "ḍarrā",
+    "lemmaId": 898
+  },
+  {
+    "id": 2350,
+    "lemma": "ضَرْب",
+    "meaning": "to strike, to move about",
+    "transliteration": "ḍarba",
+    "lemmaId": 1882
+  },
+  {
+    "id": 2351,
+    "lemma": "ضَعُفَ",
+    "meaning": "to weaken",
+    "transliteration": "ḍaʿufa",
+    "lemmaId": 2461
+  },
+  {
+    "id": 2352,
+    "lemma": "ضَعِيف",
+    "meaning": "weak",
+    "transliteration": "ḍaʿīf",
+    "lemmaId": 978
+  },
+  {
+    "id": 2353,
+    "lemma": "ضَعْف",
+    "meaning": "weakness",
+    "transliteration": "ḍaʿf",
+    "lemmaId": 1558
+  },
+  {
+    "id": 2354,
+    "lemma": "ضَفادِع",
+    "meaning": "frog",
+    "transliteration": "ḍafādiʿ",
+    "lemmaId": 3786
+  },
+  {
+    "id": 2355,
+    "lemma": "ضَلال",
+    "meaning": "error, astray",
+    "transliteration": "ḍalāl",
+    "lemmaId": 304
+  },
+  {
+    "id": 2356,
+    "lemma": "ضَلالَة",
+    "meaning": "error, astraying",
+    "transliteration": "ḍalālah",
+    "lemmaId": 899
+  },
+  {
+    "id": 2357,
+    "lemma": "ضَلَّ",
+    "meaning": "to go astray, to err, to lose",
+    "transliteration": "ḍallā",
+    "lemmaId": 221
+  },
+  {
+    "id": 2358,
+    "lemma": "ضَنك",
+    "meaning": "straitened",
+    "transliteration": "ḍank",
+    "lemmaId": 3787
+  },
+  {
+    "id": 2359,
+    "lemma": "ضَنِين",
+    "meaning": "withholder",
+    "transliteration": "ḍanīn",
+    "lemmaId": 3788
+  },
+  {
+    "id": 2360,
+    "lemma": "ضَيِّق",
+    "meaning": "tight, narrow",
+    "transliteration": "ḍayyiq",
+    "lemmaId": 2462
+  },
+  {
+    "id": 2361,
+    "lemma": "ضَيْر",
+    "meaning": "harm",
+    "transliteration": "ḍayr",
+    "lemmaId": 3789
+  },
+  {
+    "id": 2362,
+    "lemma": "ضَيْف",
+    "meaning": "guest",
+    "transliteration": "ḍayf",
+    "lemmaId": 1348
+  },
+  {
+    "id": 2363,
+    "lemma": "ضَيْق",
+    "meaning": "distress",
+    "transliteration": "ḍayq",
+    "lemmaId": 2463
+  },
+  {
+    "id": 2364,
+    "lemma": "ضُحًى",
+    "meaning": "morning, brightness",
+    "transliteration": "ḍuḥan",
+    "lemmaId": 1174
+  },
+  {
+    "id": 2365,
+    "lemma": "ضُرّ",
+    "meaning": "affliction, adversity, hardship, harm",
+    "transliteration": "ḍurr",
+    "lemmaId": 517
+  },
+  {
+    "id": 2366,
+    "lemma": "ضِدّ",
+    "meaning": "opponent",
+    "transliteration": "ḍidd",
+    "lemmaId": 3790
+  },
+  {
+    "id": 2367,
+    "lemma": "ضِرار",
+    "meaning": "to hurt, to cause harm",
+    "transliteration": "ḍirār",
+    "lemmaId": 2464
+  },
+  {
+    "id": 2368,
+    "lemma": "ضِعاف",
+    "meaning": "weak ones",
+    "transliteration": "ḍiʿāf",
+    "lemmaId": 3791
+  },
+  {
+    "id": 2369,
+    "lemma": "ضِعْف",
+    "meaning": "double, twofold, multiples",
+    "transliteration": "ḍiʿf",
+    "lemmaId": 767
+  },
+  {
+    "id": 2370,
+    "lemma": "ضِغْث",
+    "meaning": "bunch, confused",
+    "transliteration": "ḍiḡth",
+    "lemmaId": 1883
+  },
+  {
+    "id": 2371,
+    "lemma": "ضِياء",
+    "meaning": "light",
+    "transliteration": "ḍiyāʾ",
+    "lemmaId": 1884
+  },
+  {
+    "id": 2372,
+    "lemma": "ضِيزَى",
+    "meaning": "unfair",
+    "transliteration": "ḍīzā",
+    "lemmaId": 3792
+  },
+  {
+    "id": 2373,
+    "lemma": "طائِر",
+    "meaning": "bird, omen, fate",
+    "transliteration": "ṭāʾir",
+    "lemmaId": 1349
+  },
+  {
+    "id": 2374,
+    "lemma": "طائِع",
+    "meaning": "willing",
+    "transliteration": "ṭāʾi",
+    "lemmaId": 3793
+  },
+  {
+    "id": 2375,
+    "lemma": "طائِف",
+    "meaning": "circumambulate, evil thought, visitation",
+    "transliteration": "ṭāʾif",
+    "lemmaId": 1559
+  },
+  {
+    "id": 2376,
+    "lemma": "طائِفَة",
+    "meaning": "group, party",
+    "transliteration": "ṭāifata",
+    "lemmaId": 434
+  },
+  {
+    "id": 2377,
+    "lemma": "طابَ",
+    "meaning": "to seem suitable, to remit, to do well",
+    "transliteration": "ṭāba",
+    "lemmaId": 1885
+  },
+  {
+    "id": 2378,
+    "lemma": "طارِد",
+    "meaning": "one who drives away",
+    "transliteration": "ṭārid",
+    "lemmaId": 2465
+  },
+  {
+    "id": 2379,
+    "lemma": "طارِق",
+    "meaning": "night visitor",
+    "transliteration": "ṭāriq",
+    "lemmaId": 2466
+  },
+  {
+    "id": 2380,
+    "lemma": "طاعَة",
+    "meaning": "obedience",
+    "transliteration": "ṭāʿa",
+    "lemmaId": 1886
+  },
+  {
+    "id": 2381,
+    "lemma": "طاعِم",
+    "meaning": "eater",
+    "transliteration": "ṭāʿim",
+    "lemmaId": 3794
+  },
+  {
+    "id": 2382,
+    "lemma": "طاغي",
+    "meaning": "ones who exceed bounds",
+    "transliteration": "ṭāghī",
+    "lemmaId": 1175
+  },
+  {
+    "id": 2383,
+    "lemma": "طاغُوت",
+    "meaning": "false deity",
+    "transliteration": "ṭāghūt",
+    "lemmaId": 979
+  },
+  {
+    "id": 2384,
+    "lemma": "طاغِيَة",
+    "meaning": "the excessive blast",
+    "transliteration": "ṭāghiyata",
+    "lemmaId": 3795
+  },
+  {
+    "id": 2385,
+    "lemma": "طافَ",
+    "meaning": "to circulate, to go around",
+    "transliteration": "ṭāfa",
+    "lemmaId": 980
+  },
+  {
+    "id": 2386,
+    "lemma": "طاقَة",
+    "meaning": "strength",
+    "transliteration": "ṭāqah",
+    "lemmaId": 2467
+  },
+  {
+    "id": 2387,
+    "lemma": "طالَ",
+    "meaning": "to prolong, to grow long",
+    "transliteration": "ṭāla",
+    "lemmaId": 1887
+  },
+  {
+    "id": 2388,
+    "lemma": "طالُوت",
+    "meaning": "Tālūt",
+    "transliteration": "ṭālūt",
+    "lemmaId": 2468
+  },
+  {
+    "id": 2389,
+    "lemma": "طالِب",
+    "meaning": "seeker",
+    "transliteration": "ṭālib",
+    "lemmaId": 3796
+  },
+  {
+    "id": 2390,
+    "lemma": "طامَّة",
+    "meaning": "overwhelming calamity",
+    "transliteration": "ṭāmmah",
+    "lemmaId": 3797
+  },
+  {
+    "id": 2391,
+    "lemma": "طَبَعَ",
+    "meaning": "to seal",
+    "transliteration": "ṭabaʿa",
+    "lemmaId": 768
+  },
+  {
+    "id": 2392,
+    "lemma": "طَبَق",
+    "meaning": "stage, layer",
+    "transliteration": "ṭabaq",
+    "lemmaId": 1560
+  },
+  {
+    "id": 2393,
+    "lemma": "طَحَى",
+    "meaning": "to spread out",
+    "transliteration": "ṭaḥā",
+    "lemmaId": 3798
+  },
+  {
+    "id": 2394,
+    "lemma": "طَرَد",
+    "meaning": "to expel, to drive away",
+    "transliteration": "ṭarada",
+    "lemmaId": 1888
+  },
+  {
+    "id": 2395,
+    "lemma": "طَرَف",
+    "meaning": "edge, border",
+    "transliteration": "ṭaraf",
+    "lemmaId": 1350
+  },
+  {
+    "id": 2396,
+    "lemma": "طَرِيقَة",
+    "meaning": "way, path",
+    "transliteration": "ṭarīqah",
+    "lemmaId": 1351
+  },
+  {
+    "id": 2397,
+    "lemma": "طَرِيّ",
+    "meaning": "fresh",
+    "transliteration": "ṭarriyy",
+    "lemmaId": 2469
+  },
+  {
+    "id": 2398,
+    "lemma": "طَرْف",
+    "meaning": "glance",
+    "transliteration": "ṭarf",
+    "lemmaId": 1176
+  },
+  {
+    "id": 2399,
+    "lemma": "طَعام",
+    "meaning": "food, feeding",
+    "transliteration": "ṭaʿām",
+    "lemmaId": 435
+  },
+  {
+    "id": 2400,
+    "lemma": "طَعَنُ",
+    "meaning": "to defame",
+    "transliteration": "ṭaʿanu",
+    "lemmaId": 3799
+  },
+  {
+    "id": 2401,
+    "lemma": "طَعْم",
+    "meaning": "flavour, taste",
+    "transliteration": "ṭaʿm",
+    "lemmaId": 3800
+  },
+  {
+    "id": 2402,
+    "lemma": "طَعْن",
+    "meaning": "slander",
+    "transliteration": "ṭaʿn",
+    "lemmaId": 3801
+  },
+  {
+    "id": 2403,
+    "lemma": "طَغَى",
+    "meaning": "to transgress, to overflow",
+    "transliteration": "ṭaghā",
+    "lemmaId": 727
+  },
+  {
+    "id": 2404,
+    "lemma": "طَغْوَى",
+    "meaning": "persistent transgression",
+    "transliteration": "ṭaghwā",
+    "lemmaId": 3802
+  },
+  {
+    "id": 2405,
+    "lemma": "طَفِقَ",
+    "meaning": "to begin",
+    "transliteration": "ṭafiqa",
+    "lemmaId": 1889
+  },
+  {
+    "id": 2406,
+    "lemma": "طَلاق",
+    "meaning": "divorce",
+    "transliteration": "ṭalāq",
+    "lemmaId": 2470
+  },
+  {
+    "id": 2407,
+    "lemma": "طَلَعَ",
+    "meaning": "to look",
+    "transliteration": "ṭalʿa",
+    "lemmaId": 1080
+  },
+  {
+    "id": 2408,
+    "lemma": "طَلَعَت",
+    "meaning": "to rise",
+    "transliteration": "ṭalʿat",
+    "lemmaId": 2471
+  },
+  {
+    "id": 2409,
+    "lemma": "طَلّ",
+    "meaning": "drizzle",
+    "transliteration": "ṭall",
+    "lemmaId": 3804
+  },
+  {
+    "id": 2410,
+    "lemma": "طَلَّقَ",
+    "meaning": "to divorce",
+    "transliteration": "ṭallaq",
+    "lemmaId": 831
+  },
+  {
+    "id": 2411,
+    "lemma": "طَلْح",
+    "meaning": "banana tree",
+    "transliteration": "ṭalḥ",
+    "lemmaId": 3805
+  },
+  {
+    "id": 2412,
+    "lemma": "طَمَع",
+    "meaning": "hope",
+    "transliteration": "ṭamaʿ",
+    "lemmaId": 1563
+  },
+  {
+    "id": 2413,
+    "lemma": "طَهُور",
+    "meaning": "extremely pure",
+    "transliteration": "ṭahūr",
+    "lemmaId": 2472
+  },
+  {
+    "id": 2414,
+    "lemma": "طَهَّرَ",
+    "meaning": "to purify",
+    "transliteration": "ṭahhara",
+    "lemmaId": 900
+  },
+  {
+    "id": 2415,
+    "lemma": "طَوِيل",
+    "meaning": "long, prolonged",
+    "transliteration": "ṭawīl",
+    "lemmaId": 2473
+  },
+  {
+    "id": 2416,
+    "lemma": "طَوّاف",
+    "meaning": "to move about",
+    "transliteration": "ṭawwāf",
+    "lemmaId": 3806
+  },
+  {
+    "id": 2417,
+    "lemma": "طَوَّعَتْ",
+    "meaning": "to prompt",
+    "transliteration": "ṭawwaʿat",
+    "lemmaId": 3807
+  },
+  {
+    "id": 2418,
+    "lemma": "طَوْد",
+    "meaning": "mountain",
+    "transliteration": "ṭawd",
+    "lemmaId": 3808
+  },
+  {
+    "id": 2419,
+    "lemma": "طَوْع",
+    "meaning": "willing",
+    "transliteration": "ṭawʿ",
+    "lemmaId": 1564
+  },
+  {
+    "id": 2420,
+    "lemma": "طَوْل",
+    "meaning": "to afford, wealth, abundance",
+    "transliteration": "ṭawl",
+    "lemmaId": 1890
+  },
+  {
+    "id": 2421,
+    "lemma": "طَىّ",
+    "meaning": "to fold",
+    "transliteration": "ṭayy",
+    "lemmaId": 3809
+  },
+  {
+    "id": 2422,
+    "lemma": "طَيِّب",
+    "meaning": "good, pure",
+    "transliteration": "ṭayyib",
+    "lemmaId": 589
+  },
+  {
+    "id": 2423,
+    "lemma": "طَيِّبَة",
+    "meaning": "good, pure",
+    "transliteration": "ṭayyibata",
+    "lemmaId": 363
+  },
+  {
+    "id": 2424,
+    "lemma": "طَيْر",
+    "meaning": "birds",
+    "transliteration": "ṭayr",
+    "lemmaId": 518
+  },
+  {
+    "id": 2425,
+    "lemma": "طُغْيان",
+    "meaning": "excessive transgression",
+    "transliteration": "ṭughyān",
+    "lemmaId": 901
+  },
+  {
+    "id": 2426,
+    "lemma": "طُلُوع",
+    "meaning": "rising",
+    "transliteration": "ṭulūʿ",
+    "lemmaId": 2474
+  },
+  {
+    "id": 2427,
+    "lemma": "طُمِسَتْ",
+    "meaning": "to blind, to destory, to obliterate",
+    "transliteration": "ṭumisat",
+    "lemmaId": 1353
+  },
+  {
+    "id": 2428,
+    "lemma": "طُوبَى",
+    "meaning": "blessedness",
+    "transliteration": "ṭūbā",
+    "lemmaId": 3810
+  },
+  {
+    "id": 2429,
+    "lemma": "طُور",
+    "meaning": "mount, Mount Sīnā",
+    "transliteration": "ṭūr",
+    "lemmaId": 832
+  },
+  {
+    "id": 2430,
+    "lemma": "طُوفان",
+    "meaning": "flood",
+    "transliteration": "ṭūfān",
+    "lemmaId": 2475
+  },
+  {
+    "id": 2431,
+    "lemma": "طُول",
+    "meaning": "height",
+    "transliteration": "ṭūl",
+    "lemmaId": 3811
+  },
+  {
+    "id": 2432,
+    "lemma": "طُوًى",
+    "meaning": "Valley of Ṭuwā",
+    "transliteration": "ṭūny",
+    "lemmaId": 2476
+  },
+  {
+    "id": 2433,
+    "lemma": "طِفْل",
+    "meaning": "child",
+    "transliteration": "ṭifl",
+    "lemmaId": 1565
+  },
+  {
+    "id": 2434,
+    "lemma": "طِين",
+    "meaning": "clay",
+    "transliteration": "ṭīn",
+    "lemmaId": 728
+  },
+  {
+    "id": 2435,
+    "lemma": "ظالِم",
+    "meaning": "wrongdoers",
+    "transliteration": "ẓālim",
+    "lemmaId": 95
+  },
+  {
+    "id": 2436,
+    "lemma": "ظالِمَة",
+    "meaning": "to do wrong",
+    "transliteration": "ẓālima",
+    "lemmaId": 1566
+  },
+  {
+    "id": 2437,
+    "lemma": "ظالِمِي",
+    "meaning": "to wrong",
+    "transliteration": "ẓālimī",
+    "lemmaId": 2477
+  },
+  {
+    "id": 2438,
+    "lemma": "ظانّ",
+    "meaning": "to assume",
+    "transliteration": "ẓānn",
+    "lemmaId": 3812
+  },
+  {
+    "id": 2439,
+    "lemma": "ظاهَرُ",
+    "meaning": "to support, to back",
+    "transliteration": "ẓāharu",
+    "lemmaId": 1177
+  },
+  {
+    "id": 2440,
+    "lemma": "ظاهِر",
+    "meaning": "apparent",
+    "transliteration": "ẓāhir",
+    "lemmaId": 981
+  },
+  {
+    "id": 2441,
+    "lemma": "ظاهِرَة",
+    "meaning": "apparent, visible",
+    "transliteration": "ẓāhirah",
+    "lemmaId": 2478
+  },
+  {
+    "id": 2442,
+    "lemma": "ظَعْن",
+    "meaning": "travel",
+    "transliteration": "ẓaʿn",
+    "lemmaId": 3813
+  },
+  {
+    "id": 2443,
+    "lemma": "ظَلَمَ",
+    "meaning": "to oppress, to wrong",
+    "transliteration": "ẓalama",
+    "lemmaId": 108
+  },
+  {
+    "id": 2444,
+    "lemma": "ظَلُوم",
+    "meaning": "unjust",
+    "transliteration": "ẓalūm",
+    "lemmaId": 2479
+  },
+  {
+    "id": 2445,
+    "lemma": "ظَلِيل",
+    "meaning": "cool, thick shade",
+    "transliteration": "ẓalīl",
+    "lemmaId": 2480
+  },
+  {
+    "id": 2446,
+    "lemma": "ظَلّام",
+    "meaning": "unjust",
+    "transliteration": "ẓallām",
+    "lemmaId": 1354
+  },
+  {
+    "id": 2447,
+    "lemma": "ظَلَّ",
+    "meaning": "to continue, to remain",
+    "transliteration": "ẓallā",
+    "lemmaId": 902
+  },
+  {
+    "id": 2448,
+    "lemma": "ظَلَّلْ",
+    "meaning": "to shade",
+    "transliteration": "ẓallal",
+    "lemmaId": 2481
+  },
+  {
+    "id": 2449,
+    "lemma": "ظَمَأ",
+    "meaning": "thirst",
+    "transliteration": "ẓamā",
+    "lemmaId": 3814
+  },
+  {
+    "id": 2450,
+    "lemma": "ظَمْآن",
+    "meaning": "thirsty",
+    "transliteration": "ẓamān",
+    "lemmaId": 3815
+  },
+  {
+    "id": 2451,
+    "lemma": "ظَنّ",
+    "meaning": "assumption, thought",
+    "transliteration": "ẓann",
+    "lemmaId": 482
+  },
+  {
+    "id": 2452,
+    "lemma": "ظَنَّ",
+    "meaning": "to think, to assume, to guess",
+    "transliteration": "ẓanna",
+    "lemmaId": 248
+  },
+  {
+    "id": 2453,
+    "lemma": "ظَهَرَ",
+    "meaning": "to appear, to become manifest",
+    "transliteration": "ẓahara",
+    "lemmaId": 833
+  },
+  {
+    "id": 2454,
+    "lemma": "ظَهِير",
+    "meaning": "assistant, supporter",
+    "transliteration": "ẓahīr",
+    "lemmaId": 1178
+  },
+  {
+    "id": 2455,
+    "lemma": "ظَهِيرَة",
+    "meaning": "noon",
+    "transliteration": "ẓahīrata",
+    "lemmaId": 3816
+  },
+  {
+    "id": 2456,
+    "lemma": "ظَهْر",
+    "meaning": "back",
+    "transliteration": "ẓahr",
+    "lemmaId": 620
+  },
+  {
+    "id": 2457,
+    "lemma": "ظُفُر",
+    "meaning": "claw",
+    "transliteration": "ẓufur",
+    "lemmaId": 3817
+  },
+  {
+    "id": 2458,
+    "lemma": "ظُلُمَة",
+    "meaning": "darkness",
+    "transliteration": "ẓulumata",
+    "lemmaId": 448
+  },
+  {
+    "id": 2459,
+    "lemma": "ظُلَّة",
+    "meaning": "shadow, canopy",
+    "transliteration": "ẓullata",
+    "lemmaId": 1179
+  },
+  {
+    "id": 2460,
+    "lemma": "ظُلْم",
+    "meaning": "wrongdoing, injustice",
+    "transliteration": "ẓul'm",
+    "lemmaId": 505
+  },
+  {
+    "id": 2461,
+    "lemma": "ظِلّ",
+    "meaning": "shade, shadow",
+    "transliteration": "ẓill",
+    "lemmaId": 649
+  },
+  {
+    "id": 2462,
+    "lemma": "ظِهْرِيّ",
+    "meaning": "back",
+    "transliteration": "ẓih'rī",
+    "lemmaId": 3818
+  },
+  {
+    "id": 2463,
+    "lemma": "عائِد",
+    "meaning": "to return",
+    "transliteration": "ʿāid",
+    "lemmaId": 3819
+  },
+  {
+    "id": 2464,
+    "lemma": "عائِل",
+    "meaning": "in need",
+    "transliteration": "ʿāʾil",
+    "lemmaId": 3820
+  },
+  {
+    "id": 2465,
+    "lemma": "عابِد",
+    "meaning": "worshipper",
+    "transliteration": "ʿābid",
+    "lemmaId": 769
+  },
+  {
+    "id": 2466,
+    "lemma": "عابِدَة",
+    "meaning": "to worship",
+    "transliteration": "ʿābida",
+    "lemmaId": 3821
+  },
+  {
+    "id": 2467,
+    "lemma": "عابِرِي",
+    "meaning": "passersby",
+    "transliteration": "ʿābiri",
+    "lemmaId": 3822
+  },
+  {
+    "id": 2468,
+    "lemma": "عاتِيَة",
+    "meaning": "forceful",
+    "transliteration": "ʿātiya",
+    "lemmaId": 3823
+  },
+  {
+    "id": 2469,
+    "lemma": "عاجِلَة",
+    "meaning": "immediate",
+    "transliteration": "ʿājilata",
+    "lemmaId": 1891
+  },
+  {
+    "id": 2470,
+    "lemma": "عاد",
+    "meaning": "transgressor",
+    "transliteration": "ʿād",
+    "lemmaId": 364
+  },
+  {
+    "id": 2471,
+    "lemma": "عادَ",
+    "meaning": "to return",
+    "transliteration": "ʿāda",
+    "lemmaId": 541
+  },
+  {
+    "id": 2472,
+    "lemma": "عادَيْ",
+    "meaning": "to be enemies",
+    "transliteration": "ʿāday",
+    "lemmaId": 3824
+  },
+  {
+    "id": 2473,
+    "lemma": "عادِيَة",
+    "meaning": "racers",
+    "transliteration": "ʿādiyat",
+    "lemmaId": 3825
+  },
+  {
+    "id": 2474,
+    "lemma": "عادّ",
+    "meaning": "those who keep count",
+    "transliteration": "ʿādd",
+    "lemmaId": 3826
+  },
+  {
+    "id": 2475,
+    "lemma": "عارِض",
+    "meaning": "cloud",
+    "transliteration": "ʿāriḍ",
+    "lemmaId": 2482
+  },
+  {
+    "id": 2476,
+    "lemma": "عاشِرُ",
+    "meaning": "to live",
+    "transliteration": "ʿāshiru",
+    "lemmaId": 3827
+  },
+  {
+    "id": 2477,
+    "lemma": "عاصِف",
+    "meaning": "stormy",
+    "transliteration": "ʿāṣif",
+    "lemmaId": 2483
+  },
+  {
+    "id": 2478,
+    "lemma": "عاصِفَة",
+    "meaning": "storms, winds",
+    "transliteration": "ʿāṣifata",
+    "lemmaId": 2484
+  },
+  {
+    "id": 2479,
+    "lemma": "عاصِم",
+    "meaning": "defender, protector",
+    "transliteration": "ʿāṣim",
+    "lemmaId": 1892
+  },
+  {
+    "id": 2480,
+    "lemma": "عافي",
+    "meaning": "to pardon",
+    "transliteration": "ʿāfi",
+    "lemmaId": 3828
+  },
+  {
+    "id": 2481,
+    "lemma": "عاقَبَ",
+    "meaning": "to retaliate",
+    "transliteration": "ʿāqaba",
+    "lemmaId": 1180
+  },
+  {
+    "id": 2482,
+    "lemma": "عاقِبَة",
+    "meaning": "end",
+    "transliteration": "ʿāqibata",
+    "lemmaId": 349
+  },
+  {
+    "id": 2483,
+    "lemma": "عاقِر",
+    "meaning": "barren",
+    "transliteration": "ʿāqir",
+    "lemmaId": 1893
+  },
+  {
+    "id": 2484,
+    "lemma": "عاكِف",
+    "meaning": "to be devoted, to be secluded",
+    "transliteration": "ʿākif",
+    "lemmaId": 1081
+  },
+  {
+    "id": 2485,
+    "lemma": "عال",
+    "meaning": "tyrant",
+    "transliteration": "ʿāl",
+    "lemmaId": 3829
+  },
+  {
+    "id": 2486,
+    "lemma": "عالي",
+    "meaning": "those who elevate themselves, exalted",
+    "transliteration": "ʿāli",
+    "lemmaId": 2485
+  },
+  {
+    "id": 2487,
+    "lemma": "عالَم",
+    "meaning": "worlds, universe",
+    "transliteration": "ʿālama",
+    "lemmaId": 161
+  },
+  {
+    "id": 2488,
+    "lemma": "عالِم",
+    "meaning": "knower, knowledgeable",
+    "transliteration": "ʿālim",
+    "lemmaId": 542
+  },
+  {
+    "id": 2489,
+    "lemma": "عالِيَة",
+    "meaning": "elevated",
+    "transliteration": "ʿāliya",
+    "lemmaId": 2486
+  },
+  {
+    "id": 2490,
+    "lemma": "عام",
+    "meaning": "year",
+    "transliteration": "ʿām",
+    "lemmaId": 903
+  },
+  {
+    "id": 2491,
+    "lemma": "عامِل",
+    "meaning": "worker, doer",
+    "transliteration": "ʿāmil",
+    "lemmaId": 729
+  },
+  {
+    "id": 2492,
+    "lemma": "عامِلَة",
+    "meaning": "to labor",
+    "transliteration": "ʿāmila",
+    "lemmaId": 3830
+  },
+  {
+    "id": 2493,
+    "lemma": "عاهَدَ",
+    "meaning": "to make a covenant",
+    "transliteration": "ʿāhada",
+    "lemmaId": 770
+  },
+  {
+    "id": 2494,
+    "lemma": "عَبَث",
+    "meaning": "uselessly",
+    "transliteration": "ʿabath",
+    "lemmaId": 3831
+  },
+  {
+    "id": 2495,
+    "lemma": "عَبَدَ",
+    "meaning": "to worship",
+    "transliteration": "ʿabada",
+    "lemmaId": 101
+  },
+  {
+    "id": 2496,
+    "lemma": "عَبَسَ",
+    "meaning": "to frown",
+    "transliteration": "ʿabasa",
+    "lemmaId": 2487
+  },
+  {
+    "id": 2497,
+    "lemma": "عَبُوس",
+    "meaning": "harsh",
+    "transliteration": "ʿabūs",
+    "lemmaId": 3832
+  },
+  {
+    "id": 2498,
+    "lemma": "عَبَّد",
+    "meaning": "to enslave",
+    "transliteration": "ʿabbada",
+    "lemmaId": 3833
+  },
+  {
+    "id": 2499,
+    "lemma": "عَبْد",
+    "meaning": "slave, servant, worshipper",
+    "transliteration": "ʿabdu",
+    "lemmaId": 93
+  },
+  {
+    "id": 2500,
+    "lemma": "عَبْقَرِيّ",
+    "meaning": "carpet",
+    "transliteration": "ʿabqarI",
+    "lemmaId": 3834
+  },
+  {
+    "id": 2501,
+    "lemma": "عَتَ",
+    "meaning": "to behave proudly",
+    "transliteration": "ʿata",
+    "lemmaId": 1355
+  },
+  {
+    "id": 2502,
+    "lemma": "عَتِيد",
+    "meaning": "ready",
+    "transliteration": "ʿatīd",
+    "lemmaId": 2488
+  },
+  {
+    "id": 2503,
+    "lemma": "عَتِيق",
+    "meaning": "ancient",
+    "transliteration": "ʿatīq",
+    "lemmaId": 2489
+  },
+  {
+    "id": 2504,
+    "lemma": "عَجَب",
+    "meaning": "amazement, astonishment, wonder",
+    "transliteration": "ʿajab",
+    "lemmaId": 1356
+  },
+  {
+    "id": 2505,
+    "lemma": "عَجَزْ",
+    "meaning": "to be unable",
+    "transliteration": "ʿajaz",
+    "lemmaId": 3835
+  },
+  {
+    "id": 2506,
+    "lemma": "عَجَل",
+    "meaning": "haste",
+    "transliteration": "ʿajal",
+    "lemmaId": 3836
+  },
+  {
+    "id": 2507,
+    "lemma": "عَجُوز",
+    "meaning": "old woman",
+    "transliteration": "ʿajūz",
+    "lemmaId": 1568
+  },
+  {
+    "id": 2508,
+    "lemma": "عَجُول",
+    "meaning": "hasty",
+    "transliteration": "ʿajūl",
+    "lemmaId": 3837
+  },
+  {
+    "id": 2509,
+    "lemma": "عَجِبُ",
+    "meaning": "to wonder, to be amazed, to be astonished",
+    "transliteration": "ʿajibu",
+    "lemmaId": 982
+  },
+  {
+    "id": 2510,
+    "lemma": "عَجِلَ",
+    "meaning": "to hasten",
+    "transliteration": "ʿajila",
+    "lemmaId": 1357
+  },
+  {
+    "id": 2511,
+    "lemma": "عَجِيب",
+    "meaning": "amazing",
+    "transliteration": "ʿajīb",
+    "lemmaId": 2490
+  },
+  {
+    "id": 2512,
+    "lemma": "عَجَّلَ",
+    "meaning": "to hasten, to expedite",
+    "transliteration": "ʿajjala",
+    "lemmaId": 1358
+  },
+  {
+    "id": 2513,
+    "lemma": "عَداوَة",
+    "meaning": "enmity",
+    "transliteration": "ʿadāwata",
+    "lemmaId": 1181
+  },
+  {
+    "id": 2514,
+    "lemma": "عَدَد",
+    "meaning": "number",
+    "transliteration": "ʿadad",
+    "lemmaId": 1182
+  },
+  {
+    "id": 2515,
+    "lemma": "عَدَس",
+    "meaning": "lentil",
+    "transliteration": "ʿadas",
+    "lemmaId": 3838
+  },
+  {
+    "id": 2516,
+    "lemma": "عَدَلَ",
+    "meaning": "to be just, to balance, to deviate, to make another to be equal",
+    "transliteration": "ʿadala",
+    "lemmaId": 650
+  },
+  {
+    "id": 2517,
+    "lemma": "عَدُوّ",
+    "meaning": "enemy",
+    "transliteration": "ʿaduww",
+    "lemmaId": 233
+  },
+  {
+    "id": 2518,
+    "lemma": "عَدَّ",
+    "meaning": "to count",
+    "transliteration": "ʿadda",
+    "lemmaId": 1082
+  },
+  {
+    "id": 2519,
+    "lemma": "عَدَّدَ",
+    "meaning": "to count thoroughly",
+    "transliteration": "ʿaddada",
+    "lemmaId": 3839
+  },
+  {
+    "id": 2520,
+    "lemma": "عَدْل",
+    "meaning": "justice, ransom, compensation, measure",
+    "transliteration": "ʿadl",
+    "lemmaId": 651
+  },
+  {
+    "id": 2521,
+    "lemma": "عَدْن",
+    "meaning": "Eternity",
+    "transliteration": "ʿadn",
+    "lemmaId": 771
+  },
+  {
+    "id": 2522,
+    "lemma": "عَدْو",
+    "meaning": "enmity",
+    "transliteration": "ʿadw",
+    "lemmaId": 2492
+  },
+  {
+    "id": 2523,
+    "lemma": "عَذاب",
+    "meaning": "punishment",
+    "transliteration": "ʿadhāb",
+    "lemmaId": 41
+  },
+  {
+    "id": 2524,
+    "lemma": "عَذَّبَ",
+    "meaning": "to punish",
+    "transliteration": "ʿaẓẓaba",
+    "lemmaId": 279
+  },
+  {
+    "id": 2525,
+    "lemma": "عَذْب",
+    "meaning": "fresh, palatable",
+    "transliteration": "ʿaẓb",
+    "lemmaId": 2493
+  },
+  {
+    "id": 2526,
+    "lemma": "عَراء",
+    "meaning": "shore, naked",
+    "transliteration": "ʿarā",
+    "lemmaId": 2494
+  },
+  {
+    "id": 2527,
+    "lemma": "عَرَبِيّ",
+    "meaning": "Arabic",
+    "transliteration": "ʿarabī",
+    "lemmaId": 772
+  },
+  {
+    "id": 2528,
+    "lemma": "عَرَض",
+    "meaning": "gain, goods",
+    "transliteration": "ʿarad",
+    "lemmaId": 1183
+  },
+  {
+    "id": 2529,
+    "lemma": "عَرَضَ",
+    "meaning": "to display, to present, to expose, to turn away",
+    "transliteration": "ʿarada",
+    "lemmaId": 773
+  },
+  {
+    "id": 2530,
+    "lemma": "عَرَفات",
+    "meaning": "‘Arafāt",
+    "transliteration": "ʿarafāt",
+    "lemmaId": 3840
+  },
+  {
+    "id": 2531,
+    "lemma": "عَرَفَ",
+    "meaning": "to know, to recognize",
+    "transliteration": "ʿarafa",
+    "lemmaId": 506
+  },
+  {
+    "id": 2532,
+    "lemma": "عَرِم",
+    "meaning": "dam",
+    "transliteration": "ʿarim",
+    "lemmaId": 3841
+  },
+  {
+    "id": 2533,
+    "lemma": "عَرِيض",
+    "meaning": "lengthy",
+    "transliteration": "ʿarīḍ",
+    "lemmaId": 3842
+  },
+  {
+    "id": 2534,
+    "lemma": "عَرَّضْ",
+    "meaning": "to hint",
+    "transliteration": "ʿarraḍ",
+    "lemmaId": 3843
+  },
+  {
+    "id": 2535,
+    "lemma": "عَرَّفَ",
+    "meaning": "to make known",
+    "transliteration": "ʿarrafa",
+    "lemmaId": 2495
+  },
+  {
+    "id": 2536,
+    "lemma": "عَرْش",
+    "meaning": "throne",
+    "transliteration": "ʿarsh",
+    "lemmaId": 376
+  },
+  {
+    "id": 2537,
+    "lemma": "عَرْض",
+    "meaning": "width, display",
+    "transliteration": "ʿarḍ",
+    "lemmaId": 1569
+  },
+  {
+    "id": 2538,
+    "lemma": "عَزَلْ",
+    "meaning": "to set aside",
+    "transliteration": "ʿazal",
+    "lemmaId": 3844
+  },
+  {
+    "id": 2539,
+    "lemma": "عَزَمَ",
+    "meaning": "to resolve, to decide, to determine",
+    "transliteration": "ʿazama",
+    "lemmaId": 1570
+  },
+  {
+    "id": 2540,
+    "lemma": "عَزِيز",
+    "meaning": "mighty",
+    "transliteration": "ʿazīz",
+    "lemmaId": 115
+  },
+  {
+    "id": 2541,
+    "lemma": "عَزَّ",
+    "meaning": "to overpower",
+    "transliteration": "ʿazza",
+    "lemmaId": 3845
+  },
+  {
+    "id": 2542,
+    "lemma": "عَزَّرُ",
+    "meaning": "to honour, to assist",
+    "transliteration": "ʿazzaru",
+    "lemmaId": 1894
+  },
+  {
+    "id": 2543,
+    "lemma": "عَزَّزْ",
+    "meaning": "to strengthen",
+    "transliteration": "ʿazzaz",
+    "lemmaId": 3846
+  },
+  {
+    "id": 2544,
+    "lemma": "عَزْم",
+    "meaning": "determination",
+    "transliteration": "ʿazm",
+    "lemmaId": 1359
+  },
+  {
+    "id": 2545,
+    "lemma": "عَسَل",
+    "meaning": "honey",
+    "transliteration": "ʿasal",
+    "lemmaId": 3847
+  },
+  {
+    "id": 2546,
+    "lemma": "عَسَى",
+    "meaning": "hopefully",
+    "transliteration": "ʿasā",
+    "lemmaId": 365
+  },
+  {
+    "id": 2547,
+    "lemma": "عَسِر",
+    "meaning": "difficult",
+    "transliteration": "ʿasir",
+    "lemmaId": 3848
+  },
+  {
+    "id": 2548,
+    "lemma": "عَسِير",
+    "meaning": "difficult",
+    "transliteration": "ʿasīr",
+    "lemmaId": 2496
+  },
+  {
+    "id": 2549,
+    "lemma": "عَسْعَسَ",
+    "meaning": "to depart",
+    "transliteration": "ʿasʿasa",
+    "lemmaId": 3849
+  },
+  {
+    "id": 2550,
+    "lemma": "عَشَر",
+    "meaning": "ten",
+    "transliteration": "ʿashar",
+    "lemmaId": 1571
+  },
+  {
+    "id": 2551,
+    "lemma": "عَشَرَة",
+    "meaning": "ten",
+    "transliteration": "ʿashara",
+    "lemmaId": 2497
+  },
+  {
+    "id": 2552,
+    "lemma": "عَشِير",
+    "meaning": "friend",
+    "transliteration": "ʿashīr",
+    "lemmaId": 3850
+  },
+  {
+    "id": 2553,
+    "lemma": "عَشِيرَت",
+    "meaning": "kindred",
+    "transliteration": "ʿashīrat",
+    "lemmaId": 1895
+  },
+  {
+    "id": 2554,
+    "lemma": "عَشِيّ",
+    "meaning": "evening, night, afternoon",
+    "transliteration": "ʿashiyy",
+    "lemmaId": 834
+  },
+  {
+    "id": 2555,
+    "lemma": "عَشِيَّة",
+    "meaning": "evening",
+    "transliteration": "ʿashiyya",
+    "lemmaId": 3851
+  },
+  {
+    "id": 2556,
+    "lemma": "عَشْر",
+    "meaning": "ten",
+    "transliteration": "ʿashr",
+    "lemmaId": 1083
+  },
+  {
+    "id": 2557,
+    "lemma": "عَشْرَة",
+    "meaning": "ten",
+    "transliteration": "ʿashrata",
+    "lemmaId": 1896
+  },
+  {
+    "id": 2558,
+    "lemma": "عَصا",
+    "meaning": "staff",
+    "transliteration": "ʿaṣā",
+    "lemmaId": 313
+  },
+  {
+    "id": 2559,
+    "lemma": "عَصِيب",
+    "meaning": "distressful",
+    "transliteration": "ʿaṣīb",
+    "lemmaId": 3852
+  },
+  {
+    "id": 2560,
+    "lemma": "عَصِيّ",
+    "meaning": "disobedient",
+    "transliteration": "ʿaṣiyy",
+    "lemmaId": 2498
+  },
+  {
+    "id": 2561,
+    "lemma": "عَصْر",
+    "meaning": "time",
+    "transliteration": "ʿaṣr",
+    "lemmaId": 3853
+  },
+  {
+    "id": 2562,
+    "lemma": "عَصْف",
+    "meaning": "to sweep",
+    "transliteration": "ʿaṣf",
+    "lemmaId": 1897
+  },
+  {
+    "id": 2563,
+    "lemma": "عَضُد",
+    "meaning": "arm, helper",
+    "transliteration": "ʿaḍud",
+    "lemmaId": 2499
+  },
+  {
+    "id": 2564,
+    "lemma": "عَضُّ",
+    "meaning": "to bite",
+    "transliteration": "ʿaẓḍu",
+    "lemmaId": 2500
+  },
+  {
+    "id": 2565,
+    "lemma": "عَطاء",
+    "meaning": "gift, bestowal",
+    "transliteration": "ʿaṭā",
+    "lemmaId": 1360
+  },
+  {
+    "id": 2566,
+    "lemma": "عَظِيم",
+    "meaning": "great",
+    "transliteration": "ʿaẓīm",
+    "lemmaId": 109
+  },
+  {
+    "id": 2567,
+    "lemma": "عَظْم",
+    "meaning": "bone",
+    "transliteration": "ʿaẓm",
+    "lemmaId": 2501
+  },
+  {
+    "id": 2568,
+    "lemma": "عَفا",
+    "meaning": "to forgive, to pardon",
+    "transliteration": "ʿafā",
+    "lemmaId": 397
+  },
+  {
+    "id": 2569,
+    "lemma": "عَفُوّ",
+    "meaning": "oft-pardoning",
+    "transliteration": "ʿafū",
+    "lemmaId": 1361
+  },
+  {
+    "id": 2570,
+    "lemma": "عَفْو",
+    "meaning": "surplus, forgiveness",
+    "transliteration": "ʿafw",
+    "lemmaId": 2502
+  },
+  {
+    "id": 2571,
+    "lemma": "عَقَبَة",
+    "meaning": "steep path",
+    "transliteration": "ʿaqabata",
+    "lemmaId": 2503
+  },
+  {
+    "id": 2572,
+    "lemma": "عَقَدَتْ",
+    "meaning": "to pledge",
+    "transliteration": "ʿaqadat",
+    "lemmaId": 3854
+  },
+  {
+    "id": 2573,
+    "lemma": "عَقَرَ",
+    "meaning": "to hamstrung",
+    "transliteration": "ʿaqara",
+    "lemmaId": 1362
+  },
+  {
+    "id": 2574,
+    "lemma": "عَقَلُ",
+    "meaning": "to understand, to reason",
+    "transliteration": "ʿaqalu",
+    "lemmaId": 238
+  },
+  {
+    "id": 2575,
+    "lemma": "عَقِب",
+    "meaning": "heel, descendant",
+    "transliteration": "ʿaqib",
+    "lemmaId": 983
+  },
+  {
+    "id": 2576,
+    "lemma": "عَقِيم",
+    "meaning": "barren",
+    "transliteration": "ʿaqīm",
+    "lemmaId": 1572
+  },
+  {
+    "id": 2577,
+    "lemma": "عَقَّد",
+    "meaning": "to firmly bind",
+    "transliteration": "ʿaqqaد",
+    "lemmaId": 3855
+  },
+  {
+    "id": 2578,
+    "lemma": "عَلا",
+    "meaning": "to reach, to conquer, to overpower, to exalt",
+    "transliteration": "ʿalā",
+    "lemmaId": 1184
+  },
+  {
+    "id": 2579,
+    "lemma": "عَلامَة",
+    "meaning": "landmarks",
+    "transliteration": "ʿalāma",
+    "lemmaId": 3856
+  },
+  {
+    "id": 2580,
+    "lemma": "عَلَق",
+    "meaning": "clinging substance",
+    "transliteration": "ʿalaq",
+    "lemmaId": 3857
+  },
+  {
+    "id": 2581,
+    "lemma": "عَلَقَة",
+    "meaning": "clinging substance",
+    "transliteration": "ʿalaqata",
+    "lemmaId": 1363
+  },
+  {
+    "id": 2582,
+    "lemma": "عَلَى",
+    "meaning": "upon",
+    "transliteration": "ʿalā",
+    "lemmaId": 14
+  },
+  {
+    "id": 2583,
+    "lemma": "عَلِمَ",
+    "meaning": "to know",
+    "transliteration": "ʿalima",
+    "lemmaId": 33
+  },
+  {
+    "id": 2584,
+    "lemma": "عَلِيم",
+    "meaning": "All-Knowing",
+    "transliteration": "ʿalīm",
+    "lemmaId": 76
+  },
+  {
+    "id": 2585,
+    "lemma": "عَلِيّ",
+    "meaning": "high, exalted",
+    "transliteration": "ʿalī",
+    "lemmaId": 774
+  },
+  {
+    "id": 2586,
+    "lemma": "عَلّام",
+    "meaning": "knower",
+    "transliteration": "ʿallām",
+    "lemmaId": 1574
+  },
+  {
+    "id": 2587,
+    "lemma": "عَلَّمَ",
+    "meaning": "to teach",
+    "transliteration": "ʿallama",
+    "lemmaId": 280
+  },
+  {
+    "id": 2588,
+    "lemma": "عَمي",
+    "meaning": "blind",
+    "transliteration": "ʿamī",
+    "lemmaId": 2504
+  },
+  {
+    "id": 2589,
+    "lemma": "عَمًى",
+    "meaning": "blindness",
+    "transliteration": "ʿamyan",
+    "lemmaId": 2505
+  },
+  {
+    "id": 2590,
+    "lemma": "عَمَد",
+    "meaning": "pillars, columns",
+    "transliteration": "ʿamad",
+    "lemmaId": 1898
+  },
+  {
+    "id": 2591,
+    "lemma": "عَمَرُ",
+    "meaning": "to maintain, to build on",
+    "transliteration": "ʿamaru",
+    "lemmaId": 1575
+  },
+  {
+    "id": 2592,
+    "lemma": "عَمَل",
+    "meaning": "deed, work",
+    "transliteration": "ʿamal",
+    "lemmaId": 170
+  },
+  {
+    "id": 2593,
+    "lemma": "عَمِلَ",
+    "meaning": "to do, to work",
+    "transliteration": "ʿamila",
+    "lemmaId": 50
+  },
+  {
+    "id": 2594,
+    "lemma": "عَمِيق",
+    "meaning": "far-reaching",
+    "transliteration": "ʿamīq",
+    "lemmaId": 3858
+  },
+  {
+    "id": 2595,
+    "lemma": "عَمِيَ",
+    "meaning": "to be blind",
+    "transliteration": "ʿamiya",
+    "lemmaId": 1084
+  },
+  {
+    "id": 2596,
+    "lemma": "عَمّ",
+    "meaning": "paternal uncle",
+    "transliteration": "ʿamm",
+    "lemmaId": 2506
+  },
+  {
+    "id": 2597,
+    "lemma": "عَمَّة",
+    "meaning": "paternal aunt",
+    "transliteration": "ʿammata",
+    "lemmaId": 1899
+  },
+  {
+    "id": 2598,
+    "lemma": "عَمْر",
+    "meaning": "by your life",
+    "transliteration": "ʿamr",
+    "lemmaId": 3859
+  },
+  {
+    "id": 2599,
+    "lemma": "عَنكَبُوت",
+    "meaning": "spider",
+    "transliteration": "ʿankabūt",
+    "lemmaId": 2507
+  },
+  {
+    "id": 2600,
+    "lemma": "عَنَت",
+    "meaning": "sin",
+    "transliteration": "ʿanat",
+    "lemmaId": 3860
+  },
+  {
+    "id": 2601,
+    "lemma": "عَنَتِ",
+    "meaning": "to be humbled",
+    "transliteration": "ʿanati",
+    "lemmaId": 3861
+  },
+  {
+    "id": 2602,
+    "lemma": "عَنِيد",
+    "meaning": "stubborn",
+    "transliteration": "ʿanīd",
+    "lemmaId": 1576
+  },
+  {
+    "id": 2603,
+    "lemma": "عَهِدَ",
+    "meaning": "to make a covenant, to promise",
+    "transliteration": "ʿahida",
+    "lemmaId": 1185
+  },
+  {
+    "id": 2604,
+    "lemma": "عَهْد",
+    "meaning": "covenant, promise",
+    "transliteration": "ʿahd",
+    "lemmaId": 377
+  },
+  {
+    "id": 2605,
+    "lemma": "عَوان",
+    "meaning": "middle aged",
+    "transliteration": "ʿawān",
+    "lemmaId": 3862
+  },
+  {
+    "id": 2606,
+    "lemma": "عَوْرَة",
+    "meaning": "privacy, exposure",
+    "transliteration": "ʿawrat",
+    "lemmaId": 1577
+  },
+  {
+    "id": 2607,
+    "lemma": "عَيِي",
+    "meaning": "to tire",
+    "transliteration": "ʿayī",
+    "lemmaId": 2508
+  },
+  {
+    "id": 2608,
+    "lemma": "عَيْلَة",
+    "meaning": "poverty",
+    "transliteration": "ʿaylatun",
+    "lemmaId": 3863
+  },
+  {
+    "id": 2609,
+    "lemma": "عَيْن",
+    "meaning": "eye, spring",
+    "transliteration": "ʿayn",
+    "lemmaId": 206
+  },
+  {
+    "id": 2610,
+    "lemma": "عُتُلّ",
+    "meaning": "cruel",
+    "transliteration": "ʿutull",
+    "lemmaId": 3864
+  },
+  {
+    "id": 2611,
+    "lemma": "عُتُوّ",
+    "meaning": "pride",
+    "transliteration": "ʿutuww",
+    "lemmaId": 2509
+  },
+  {
+    "id": 2612,
+    "lemma": "عُثِرَ",
+    "meaning": "it was discovered",
+    "transliteration": "ʿuthira",
+    "lemmaId": 3865
+  },
+  {
+    "id": 2613,
+    "lemma": "عُجاب",
+    "meaning": "marvelous",
+    "transliteration": "ʿujāb",
+    "lemmaId": 3866
+  },
+  {
+    "id": 2614,
+    "lemma": "عُدَّة",
+    "meaning": "preparations",
+    "transliteration": "ʿuddata",
+    "lemmaId": 3867
+  },
+  {
+    "id": 2615,
+    "lemma": "عُدْوان",
+    "meaning": "aggression, hostility, injustice",
+    "transliteration": "ʿud'wān",
+    "lemmaId": 984
+  },
+  {
+    "id": 2616,
+    "lemma": "عُدْوَة",
+    "meaning": "side",
+    "transliteration": "ʿudwata",
+    "lemmaId": 2510
+  },
+  {
+    "id": 2617,
+    "lemma": "عُذْ",
+    "meaning": "to seek refuge",
+    "transliteration": "ʿudh",
+    "lemmaId": 835
+  },
+  {
+    "id": 2618,
+    "lemma": "عُذْر",
+    "meaning": "excuse, justification",
+    "transliteration": "ʿudhur",
+    "lemmaId": 2511
+  },
+  {
+    "id": 2619,
+    "lemma": "عُرُب",
+    "meaning": "devoted",
+    "transliteration": "ʿurub",
+    "lemmaId": 3868
+  },
+  {
+    "id": 2620,
+    "lemma": "عُرْجُون",
+    "meaning": "date stalk",
+    "transliteration": "ʿurjūn",
+    "lemmaId": 3869
+  },
+  {
+    "id": 2621,
+    "lemma": "عُرْضَة",
+    "meaning": "excuse",
+    "transliteration": "ʿurḍata",
+    "lemmaId": 3870
+  },
+  {
+    "id": 2622,
+    "lemma": "عُرْف",
+    "meaning": "good, one after another",
+    "transliteration": "ʿurfa",
+    "lemmaId": 2512
+  },
+  {
+    "id": 2623,
+    "lemma": "عُرْوَة",
+    "meaning": "handhold",
+    "transliteration": "ʿurwata",
+    "lemmaId": 2513
+  },
+  {
+    "id": 2624,
+    "lemma": "عُزَيْر",
+    "meaning": "ʿUzayr",
+    "transliteration": "ʿuzayr",
+    "lemmaId": 3871
+  },
+  {
+    "id": 2625,
+    "lemma": "عُسْر",
+    "meaning": "hardship, difficulty",
+    "transliteration": "ʿus'r",
+    "lemmaId": 1364
+  },
+  {
+    "id": 2626,
+    "lemma": "عُسْرَة",
+    "meaning": "difficulty",
+    "transliteration": "ʿusrata",
+    "lemmaId": 2514
+  },
+  {
+    "id": 2627,
+    "lemma": "عُسْرَى",
+    "meaning": "towards difficulty",
+    "transliteration": "ʿusrā",
+    "lemmaId": 3872
+  },
+  {
+    "id": 2628,
+    "lemma": "عُصْبَة",
+    "meaning": "group, company",
+    "transliteration": "ʿuṣ'batun",
+    "lemmaId": 1578
+  },
+  {
+    "id": 2629,
+    "lemma": "عُطِّلَتْ",
+    "meaning": "to be left untended",
+    "transliteration": "ʿuṭṭilat",
+    "lemmaId": 3873
+  },
+  {
+    "id": 2630,
+    "lemma": "عُقُود",
+    "meaning": "contract",
+    "transliteration": "ʿuqūd",
+    "lemmaId": 3874
+  },
+  {
+    "id": 2631,
+    "lemma": "عُقْب",
+    "meaning": "final end",
+    "transliteration": "ʿuqba",
+    "lemmaId": 3875
+  },
+  {
+    "id": 2632,
+    "lemma": "عُقْبَى",
+    "meaning": "end, consequence",
+    "transliteration": "ʿuq'bā",
+    "lemmaId": 1186
+  },
+  {
+    "id": 2633,
+    "lemma": "عُقْدَة",
+    "meaning": "knot",
+    "transliteration": "ʿuq'da",
+    "lemmaId": 1579
+  },
+  {
+    "id": 2634,
+    "lemma": "عُلُوّ",
+    "meaning": "haughtiness, height, exaltedness",
+    "transliteration": "ʿulūw",
+    "lemmaId": 1580
+  },
+  {
+    "id": 2635,
+    "lemma": "عُلْيا",
+    "meaning": "high, highest",
+    "transliteration": "ʿuliyā",
+    "lemmaId": 1901
+  },
+  {
+    "id": 2636,
+    "lemma": "عُمُر",
+    "meaning": "life, age",
+    "transliteration": "ʿumur",
+    "lemmaId": 1085
+  },
+  {
+    "id": 2637,
+    "lemma": "عُمِّيَتْ",
+    "meaning": "to obscure",
+    "transliteration": "ʿummiyat",
+    "lemmaId": 3876
+  },
+  {
+    "id": 2638,
+    "lemma": "عُمْرَة",
+    "meaning": "ʿUmrah",
+    "transliteration": "ʿum'ratun",
+    "lemmaId": 2515
+  },
+  {
+    "id": 2639,
+    "lemma": "عُنُق",
+    "meaning": "neck",
+    "transliteration": "ʿunuq",
+    "lemmaId": 904
+  },
+  {
+    "id": 2640,
+    "lemma": "عِبادَت",
+    "meaning": "worship",
+    "transliteration": "ʿibādat",
+    "lemmaId": 905
+  },
+  {
+    "id": 2641,
+    "lemma": "عِبْرَة",
+    "meaning": "lesson",
+    "transliteration": "ʿib'ratun",
+    "lemmaId": 1187
+  },
+  {
+    "id": 2642,
+    "lemma": "عِتِيّ",
+    "meaning": "excessive pride, advanced age",
+    "transliteration": "ʿitiyy",
+    "lemmaId": 2516
+  },
+  {
+    "id": 2643,
+    "lemma": "عِجاف",
+    "meaning": "lean",
+    "transliteration": "ʿijāf",
+    "lemmaId": 2517
+  },
+  {
+    "id": 2644,
+    "lemma": "عِجْل",
+    "meaning": "calf",
+    "transliteration": "ʿijl",
+    "lemmaId": 836
+  },
+  {
+    "id": 2645,
+    "lemma": "عِدَّة",
+    "meaning": "prescribed number, waiting period",
+    "transliteration": "ʿidda",
+    "lemmaId": 775
+  },
+  {
+    "id": 2646,
+    "lemma": "عِزِين",
+    "meaning": "separate group",
+    "transliteration": "ʿizīn",
+    "lemmaId": 3877
+  },
+  {
+    "id": 2647,
+    "lemma": "عِزّ",
+    "meaning": "honor",
+    "transliteration": "ʿizz",
+    "lemmaId": 3878
+  },
+  {
+    "id": 2648,
+    "lemma": "عِزَّة",
+    "meaning": "honor, pride, might",
+    "transliteration": "ʿizzata",
+    "lemmaId": 776
+  },
+  {
+    "id": 2649,
+    "lemma": "عِشاء",
+    "meaning": "night",
+    "transliteration": "ʿishā",
+    "lemmaId": 2518
+  },
+  {
+    "id": 2650,
+    "lemma": "عِشار",
+    "meaning": "full-term she-camels",
+    "transliteration": "ʿishār",
+    "lemmaId": 3879
+  },
+  {
+    "id": 2651,
+    "lemma": "عِشْرُون",
+    "meaning": "twenty",
+    "transliteration": "ʿishrūn",
+    "lemmaId": 3880
+  },
+  {
+    "id": 2652,
+    "lemma": "عِصَم",
+    "meaning": "to bond",
+    "transliteration": "ʿiṣama",
+    "lemmaId": 3881
+  },
+  {
+    "id": 2653,
+    "lemma": "عِصِيّ",
+    "meaning": "staffs",
+    "transliteration": "ʿiṣiyy",
+    "lemmaId": 2519
+  },
+  {
+    "id": 2654,
+    "lemma": "عِصْيان",
+    "meaning": "disobedience",
+    "transliteration": "ʿiṣyān",
+    "lemmaId": 3882
+  },
+  {
+    "id": 2655,
+    "lemma": "عِضِين",
+    "meaning": "parts",
+    "transliteration": "ʿiḍīn",
+    "lemmaId": 3883
+  },
+  {
+    "id": 2656,
+    "lemma": "عِطْف",
+    "meaning": "side",
+    "transliteration": "ʿiṭf",
+    "lemmaId": 3884
+  },
+  {
+    "id": 2657,
+    "lemma": "عِظام",
+    "meaning": "bones",
+    "transliteration": "ʿiẓām",
+    "lemmaId": 682
+  },
+  {
+    "id": 2658,
+    "lemma": "عِفْرِيت",
+    "meaning": "powerful cunning one",
+    "transliteration": "ʿif'rīt",
+    "lemmaId": 3885
+  },
+  {
+    "id": 2659,
+    "lemma": "عِقاب",
+    "meaning": "punishment, penalty",
+    "transliteration": "ʿiqāb",
+    "lemmaId": 507
+  },
+  {
+    "id": 2660,
+    "lemma": "عِلِّيّ",
+    "meaning": "‘Illiyyīn",
+    "transliteration": "ʿillī",
+    "lemmaId": 2520
+  },
+  {
+    "id": 2661,
+    "lemma": "عِلْم",
+    "meaning": "knowledge",
+    "transliteration": "ʿil'm",
+    "lemmaId": 114
+  },
+  {
+    "id": 2662,
+    "lemma": "عِماد",
+    "meaning": "lofty pillar",
+    "transliteration": "ʿimād",
+    "lemmaId": 3886
+  },
+  {
+    "id": 2663,
+    "lemma": "عِمارَة",
+    "meaning": "maintenance",
+    "transliteration": "ʿimāratun",
+    "lemmaId": 3887
+  },
+  {
+    "id": 2664,
+    "lemma": "عِمْران",
+    "meaning": "ʿImrān",
+    "transliteration": "ʿim'rān",
+    "lemmaId": 1902
+  },
+  {
+    "id": 2665,
+    "lemma": "عِند",
+    "meaning": "with, near, before",
+    "transliteration": "ʿind",
+    "lemmaId": 65
+  },
+  {
+    "id": 2666,
+    "lemma": "عِنَب",
+    "meaning": "grape",
+    "transliteration": "ʿinab",
+    "lemmaId": 777
+  },
+  {
+    "id": 2667,
+    "lemma": "عِهْن",
+    "meaning": "wool",
+    "transliteration": "ʿih'na",
+    "lemmaId": 2521
+  },
+  {
+    "id": 2668,
+    "lemma": "عِوَج",
+    "meaning": "crooked, crookedness, deviation",
+    "transliteration": "ʿiwaj",
+    "lemmaId": 906
+  },
+  {
+    "id": 2669,
+    "lemma": "عِيد",
+    "meaning": "festival",
+    "transliteration": "ʿīd",
+    "lemmaId": 3888
+  },
+  {
+    "id": 2670,
+    "lemma": "عِير",
+    "meaning": "caravan",
+    "transliteration": "ʿīr",
+    "lemmaId": 1903
+  },
+  {
+    "id": 2671,
+    "lemma": "عِيسَى",
+    "meaning": "ʿĪsā",
+    "transliteration": "ʿīsā",
+    "lemmaId": 424
+  },
+  {
+    "id": 2672,
+    "lemma": "عِيشَة",
+    "meaning": "life",
+    "transliteration": "ʿīshah",
+    "lemmaId": 2522
+  },
+  {
+    "id": 2673,
+    "lemma": "عِين",
+    "meaning": "eye",
+    "transliteration": "ʿīn",
+    "lemmaId": 1581
+  },
+  {
+    "id": 2674,
+    "lemma": "غائِب",
+    "meaning": "absent",
+    "transliteration": "ghāib",
+    "lemmaId": 1904
+  },
+  {
+    "id": 2675,
+    "lemma": "غائِبَة",
+    "meaning": "hidden",
+    "transliteration": "ghā'ibah",
+    "lemmaId": 3889
+  },
+  {
+    "id": 2676,
+    "lemma": "غائِط",
+    "meaning": "toilet",
+    "transliteration": "ghāiṭ",
+    "lemmaId": 2523
+  },
+  {
+    "id": 2677,
+    "lemma": "غائِظ",
+    "meaning": "one who is enraged",
+    "transliteration": "ghāiẓ",
+    "lemmaId": 3890
+  },
+  {
+    "id": 2678,
+    "lemma": "غابِر",
+    "meaning": "to stay behind",
+    "transliteration": "ghābir",
+    "lemmaId": 1086
+  },
+  {
+    "id": 2679,
+    "lemma": "غار",
+    "meaning": "cave",
+    "transliteration": "ghār",
+    "lemmaId": 3891
+  },
+  {
+    "id": 2680,
+    "lemma": "غارِم",
+    "meaning": "in debt",
+    "transliteration": "ghārim",
+    "lemmaId": 3892
+  },
+  {
+    "id": 2681,
+    "lemma": "غاسِق",
+    "meaning": "darkness",
+    "transliteration": "ghāsiq",
+    "lemmaId": 3893
+  },
+  {
+    "id": 2682,
+    "lemma": "غاشِيَة",
+    "meaning": "covering, overwhelming",
+    "transliteration": "ghāshiya",
+    "lemmaId": 1905
+  },
+  {
+    "id": 2683,
+    "lemma": "غافِر",
+    "meaning": "forgiver",
+    "transliteration": "ghāfir",
+    "lemmaId": 2524
+  },
+  {
+    "id": 2684,
+    "lemma": "غافِل",
+    "meaning": "unaware, heedless",
+    "transliteration": "ghāfil",
+    "lemmaId": 398
+  },
+  {
+    "id": 2685,
+    "lemma": "غافِلَة",
+    "meaning": "unaware women",
+    "transliteration": "ghāfila",
+    "lemmaId": 3894
+  },
+  {
+    "id": 2686,
+    "lemma": "غالِب",
+    "meaning": "to overcome, victorious, predominant",
+    "transliteration": "ghālib",
+    "lemmaId": 683
+  },
+  {
+    "id": 2687,
+    "lemma": "غاوي",
+    "meaning": "to go astray",
+    "transliteration": "ghāwī",
+    "lemmaId": 1188
+  },
+  {
+    "id": 2688,
+    "lemma": "غَبَرَة",
+    "meaning": "dust",
+    "transliteration": "ghabarata",
+    "lemmaId": 3895
+  },
+  {
+    "id": 2689,
+    "lemma": "غَد",
+    "meaning": "tomorrow",
+    "transliteration": "ghad",
+    "lemmaId": 1365
+  },
+  {
+    "id": 2690,
+    "lemma": "غَداء",
+    "meaning": "morning meal",
+    "transliteration": "ghadā",
+    "lemmaId": 3896
+  },
+  {
+    "id": 2691,
+    "lemma": "غَداة",
+    "meaning": "morning",
+    "transliteration": "ghadāta",
+    "lemmaId": 2525
+  },
+  {
+    "id": 2692,
+    "lemma": "غَدَ",
+    "meaning": "to leave early",
+    "transliteration": "ghada",
+    "lemmaId": 1906
+  },
+  {
+    "id": 2693,
+    "lemma": "غَدَق",
+    "meaning": "abundance",
+    "transliteration": "ghadaq",
+    "lemmaId": 3897
+  },
+  {
+    "id": 2694,
+    "lemma": "غَرابِيب",
+    "meaning": "intensely black",
+    "transliteration": "gharābīb",
+    "lemmaId": 3898
+  },
+  {
+    "id": 2695,
+    "lemma": "غَرام",
+    "meaning": "inseparable",
+    "transliteration": "gharām",
+    "lemmaId": 3899
+  },
+  {
+    "id": 2696,
+    "lemma": "غَرَبَت",
+    "meaning": "to set",
+    "transliteration": "gharabata",
+    "lemmaId": 2526
+  },
+  {
+    "id": 2697,
+    "lemma": "غَرَق",
+    "meaning": "drowning",
+    "transliteration": "gharaqa",
+    "lemmaId": 3900
+  },
+  {
+    "id": 2698,
+    "lemma": "غَرُور",
+    "meaning": "the Deceiver",
+    "transliteration": "gharūr",
+    "lemmaId": 1907
+  },
+  {
+    "id": 2699,
+    "lemma": "غَرَّ",
+    "meaning": "to deceive",
+    "transliteration": "gharra",
+    "lemmaId": 621
+  },
+  {
+    "id": 2700,
+    "lemma": "غَرْبِيّ",
+    "meaning": "western",
+    "transliteration": "gharbiyy",
+    "lemmaId": 3901
+  },
+  {
+    "id": 2701,
+    "lemma": "غَرْبِيَّة",
+    "meaning": "west",
+    "transliteration": "gharbiyya",
+    "lemmaId": 3902
+  },
+  {
+    "id": 2702,
+    "lemma": "غَرْق",
+    "meaning": "violently",
+    "transliteration": "gharq",
+    "lemmaId": 3903
+  },
+  {
+    "id": 2703,
+    "lemma": "غَزْل",
+    "meaning": "spun yarn",
+    "transliteration": "ghazl",
+    "lemmaId": 3904
+  },
+  {
+    "id": 2704,
+    "lemma": "غَسَق",
+    "meaning": "darkness",
+    "transliteration": "ghasaq",
+    "lemmaId": 3905
+  },
+  {
+    "id": 2705,
+    "lemma": "غَسّاق",
+    "meaning": "purulence",
+    "transliteration": "ghassāq",
+    "lemmaId": 2527
+  },
+  {
+    "id": 2706,
+    "lemma": "غَشِيَ",
+    "meaning": "to cover",
+    "transliteration": "ghashiya",
+    "lemmaId": 684
+  },
+  {
+    "id": 2707,
+    "lemma": "غَشَّى",
+    "meaning": "to cover",
+    "transliteration": "ghashā",
+    "lemmaId": 1908
+  },
+  {
+    "id": 2708,
+    "lemma": "غَصْب",
+    "meaning": "force",
+    "transliteration": "ghaṣb",
+    "lemmaId": 3906
+  },
+  {
+    "id": 2709,
+    "lemma": "غَضَب",
+    "meaning": "anger, wrath",
+    "transliteration": "ghaḍaba",
+    "lemmaId": 652
+  },
+  {
+    "id": 2710,
+    "lemma": "غَضِبَ",
+    "meaning": "to become angry",
+    "transliteration": "ghaḍiba",
+    "lemmaId": 1189
+  },
+  {
+    "id": 2711,
+    "lemma": "غَضْبان",
+    "meaning": "furious",
+    "transliteration": "ghaḍbān",
+    "lemmaId": 2528
+  },
+  {
+    "id": 2712,
+    "lemma": "غَفَرَ",
+    "meaning": "to forgive",
+    "transliteration": "ghafara",
+    "lemmaId": 179
+  },
+  {
+    "id": 2713,
+    "lemma": "غَفُور",
+    "meaning": "Oft-Forgiving",
+    "transliteration": "ghafūr",
+    "lemmaId": 122
+  },
+  {
+    "id": 2714,
+    "lemma": "غَفّار",
+    "meaning": "oft-forgiving",
+    "transliteration": "ghaffār",
+    "lemmaId": 1366
+  },
+  {
+    "id": 2715,
+    "lemma": "غَفْلَة",
+    "meaning": "heedlessness, inattention",
+    "transliteration": "ghaflata",
+    "lemmaId": 1367
+  },
+  {
+    "id": 2716,
+    "lemma": "غَلَب",
+    "meaning": "defeat",
+    "transliteration": "ghalaba",
+    "lemmaId": 3907
+  },
+  {
+    "id": 2717,
+    "lemma": "غَلَبُ",
+    "meaning": "to overcome, to defeat",
+    "transliteration": "ghalabu",
+    "lemmaId": 622
+  },
+  {
+    "id": 2718,
+    "lemma": "غَلِيظ",
+    "meaning": "harsh, strong, severe",
+    "transliteration": "ghalīẓ",
+    "lemmaId": 907
+  },
+  {
+    "id": 2719,
+    "lemma": "غَلَّ",
+    "meaning": "to defraud, to chain, to shackle",
+    "transliteration": "ghalla",
+    "lemmaId": 1368
+  },
+  {
+    "id": 2720,
+    "lemma": "غَلَّقَتِ",
+    "meaning": "to close",
+    "transliteration": "ghallaqati",
+    "lemmaId": 3908
+  },
+  {
+    "id": 2721,
+    "lemma": "غَلْى",
+    "meaning": "to boil",
+    "transliteration": "ghalā",
+    "lemmaId": 3909
+  },
+  {
+    "id": 2722,
+    "lemma": "غَمام",
+    "meaning": "clouds",
+    "transliteration": "ghamām",
+    "lemmaId": 1582
+  },
+  {
+    "id": 2723,
+    "lemma": "غَمَرَة",
+    "meaning": "agony",
+    "transliteration": "ghamarata",
+    "lemmaId": 3910
+  },
+  {
+    "id": 2724,
+    "lemma": "غَمّ",
+    "meaning": "distress, anguish",
+    "transliteration": "ghamm",
+    "lemmaId": 1190
+  },
+  {
+    "id": 2725,
+    "lemma": "غَمْرَة",
+    "meaning": "confusion, flood",
+    "transliteration": "ghamrat",
+    "lemmaId": 1909
+  },
+  {
+    "id": 2726,
+    "lemma": "غَنَم",
+    "meaning": "sheep",
+    "transliteration": "ghanam",
+    "lemmaId": 1910
+  },
+  {
+    "id": 2727,
+    "lemma": "غَنِمْ",
+    "meaning": "to take as war booty",
+    "transliteration": "ghanim",
+    "lemmaId": 2529
+  },
+  {
+    "id": 2728,
+    "lemma": "غَنِيّ",
+    "meaning": "self-sufficient, rich, free from need",
+    "transliteration": "ghaniyy",
+    "lemmaId": 436
+  },
+  {
+    "id": 2729,
+    "lemma": "غَوَى",
+    "meaning": "to err, to go astray",
+    "transliteration": "ghawā",
+    "lemmaId": 1911
+  },
+  {
+    "id": 2730,
+    "lemma": "غَوِيّ",
+    "meaning": "deviator",
+    "transliteration": "ghawiyy",
+    "lemmaId": 3911
+  },
+  {
+    "id": 2731,
+    "lemma": "غَوّاص",
+    "meaning": "diver",
+    "transliteration": "ghawwāṣ",
+    "lemmaId": 3912
+  },
+  {
+    "id": 2732,
+    "lemma": "غَوْر",
+    "meaning": "sunken",
+    "transliteration": "ghawr",
+    "lemmaId": 2530
+  },
+  {
+    "id": 2733,
+    "lemma": "غَوْل",
+    "meaning": "bad effect",
+    "transliteration": "ghawl",
+    "lemmaId": 3913
+  },
+  {
+    "id": 2734,
+    "lemma": "غَيابَت",
+    "meaning": "bottom",
+    "transliteration": "ghayābat",
+    "lemmaId": 2531
+  },
+  {
+    "id": 2735,
+    "lemma": "غَيّ",
+    "meaning": "error, evil",
+    "transliteration": "ghayy",
+    "lemmaId": 1583
+  },
+  {
+    "id": 2736,
+    "lemma": "غَيْب",
+    "meaning": "unseen, hidden",
+    "transliteration": "ghayb",
+    "lemmaId": 239
+  },
+  {
+    "id": 2737,
+    "lemma": "غَيْث",
+    "meaning": "rain",
+    "transliteration": "ghayth",
+    "lemmaId": 1912
+  },
+  {
+    "id": 2738,
+    "lemma": "غَيْر",
+    "meaning": "other than, not, without",
+    "transliteration": "ghayr",
+    "lemmaId": 83
+  },
+  {
+    "id": 2739,
+    "lemma": "غَيْظ",
+    "meaning": "rage",
+    "transliteration": "ghayẓ",
+    "lemmaId": 1191
+  },
+  {
+    "id": 2740,
+    "lemma": "غُثاء",
+    "meaning": "rubbish, stubble",
+    "transliteration": "ghuthā",
+    "lemmaId": 2532
+  },
+  {
+    "id": 2741,
+    "lemma": "غُدُوّ",
+    "meaning": "morning",
+    "transliteration": "ghudūw",
+    "lemmaId": 1369
+  },
+  {
+    "id": 2742,
+    "lemma": "غُراب",
+    "meaning": "crow",
+    "transliteration": "ghurāb",
+    "lemmaId": 2533
+  },
+  {
+    "id": 2743,
+    "lemma": "غُرُفَة",
+    "meaning": "lofty chambers",
+    "transliteration": "ghurufa",
+    "lemmaId": 3914
+  },
+  {
+    "id": 2744,
+    "lemma": "غُرُوب",
+    "meaning": "setting",
+    "transliteration": "ghurūb",
+    "lemmaId": 2534
+  },
+  {
+    "id": 2745,
+    "lemma": "غُرُور",
+    "meaning": "deception",
+    "transliteration": "ghurūr",
+    "lemmaId": 908
+  },
+  {
+    "id": 2746,
+    "lemma": "غُرْفَة",
+    "meaning": "chamber, lofty mansion",
+    "transliteration": "ghur'fata",
+    "lemmaId": 1370
+  },
+  {
+    "id": 2747,
+    "lemma": "غُزًّى",
+    "meaning": "fighting",
+    "transliteration": "ghuzzan",
+    "lemmaId": 3915
+  },
+  {
+    "id": 2748,
+    "lemma": "غُصَّة",
+    "meaning": "to choke",
+    "transliteration": "ghuṣṣa",
+    "lemmaId": 3916
+  },
+  {
+    "id": 2749,
+    "lemma": "غُفْران",
+    "meaning": "forgiveness",
+    "transliteration": "ghufrān",
+    "lemmaId": 3917
+  },
+  {
+    "id": 2750,
+    "lemma": "غُلام",
+    "meaning": "boy",
+    "transliteration": "ghulām",
+    "lemmaId": 685
+  },
+  {
+    "id": 2751,
+    "lemma": "غُلْب",
+    "meaning": "thick foliage",
+    "transliteration": "ghulb",
+    "lemmaId": 3918
+  },
+  {
+    "id": 2752,
+    "lemma": "غُلْف",
+    "meaning": "to wrap",
+    "transliteration": "ghulfa",
+    "lemmaId": 2535
+  },
+  {
+    "id": 2753,
+    "lemma": "غُمَّة",
+    "meaning": "doubt",
+    "transliteration": "ghummatun",
+    "lemmaId": 3919
+  },
+  {
+    "id": 2754,
+    "lemma": "غُيُوب",
+    "meaning": "unseen",
+    "transliteration": "ghuyūb",
+    "lemmaId": 1584
+  },
+  {
+    "id": 2755,
+    "lemma": "غِسْلِين",
+    "meaning": "discharge of wounds",
+    "transliteration": "ghislīn",
+    "lemmaId": 3920
+  },
+  {
+    "id": 2756,
+    "lemma": "غِشاوَة",
+    "meaning": "veil",
+    "transliteration": "ghishāwah",
+    "lemmaId": 2536
+  },
+  {
+    "id": 2757,
+    "lemma": "غِطاء",
+    "meaning": "cover",
+    "transliteration": "ghiṭā'",
+    "lemmaId": 2537
+  },
+  {
+    "id": 2758,
+    "lemma": "غِلّ",
+    "meaning": "malice, rancor, shackles",
+    "transliteration": "ghill",
+    "lemmaId": 909
+  },
+  {
+    "id": 2759,
+    "lemma": "غِلْظَة",
+    "meaning": "harshness",
+    "transliteration": "ghilẓata",
+    "lemmaId": 3921
+  },
+  {
+    "id": 2760,
+    "lemma": "غِيضَ",
+    "meaning": "to subside, to fall short",
+    "transliteration": "ghīḍa",
+    "lemmaId": 2538
+  },
+  {
+    "id": 2761,
+    "lemma": "ف",
+    "meaning": "so, then, and",
+    "transliteration": "fa",
+    "lemmaId": 5
+  },
+  {
+    "id": 2762,
+    "lemma": "فا",
+    "meaning": "mouth",
+    "transliteration": "fā",
+    "lemmaId": 3922
+  },
+  {
+    "id": 2763,
+    "lemma": "فاءُ",
+    "meaning": "to return",
+    "transliteration": "fāu",
+    "lemmaId": 1913
+  },
+  {
+    "id": 2764,
+    "lemma": "فائِز",
+    "meaning": "successful, achiever",
+    "transliteration": "fāʾiz",
+    "lemmaId": 1585
+  },
+  {
+    "id": 2765,
+    "lemma": "فاتَ",
+    "meaning": "to escape",
+    "transliteration": "fāta",
+    "lemmaId": 1914
+  },
+  {
+    "id": 2766,
+    "lemma": "فاتِح",
+    "meaning": "to decide",
+    "transliteration": "fātiḥ",
+    "lemmaId": 3923
+  },
+  {
+    "id": 2767,
+    "lemma": "فاتِن",
+    "meaning": "to tempt",
+    "transliteration": "fātin",
+    "lemmaId": 3924
+  },
+  {
+    "id": 2768,
+    "lemma": "فاجِر",
+    "meaning": "wicked",
+    "transliteration": "fājir",
+    "lemmaId": 3925
+  },
+  {
+    "id": 2769,
+    "lemma": "فاحِشَة",
+    "meaning": "immorality",
+    "transliteration": "fāḥisha",
+    "lemmaId": 566
+  },
+  {
+    "id": 2770,
+    "lemma": "فارِض",
+    "meaning": "old",
+    "transliteration": "fāriḍ",
+    "lemmaId": 3926
+  },
+  {
+    "id": 2771,
+    "lemma": "فارِغ",
+    "meaning": "empty",
+    "transliteration": "fāriḡ",
+    "lemmaId": 3927
+  },
+  {
+    "id": 2772,
+    "lemma": "فارِقَة",
+    "meaning": "to separate",
+    "transliteration": "fāriqah",
+    "lemmaId": 3928
+  },
+  {
+    "id": 2773,
+    "lemma": "فارِقُ",
+    "meaning": "to part",
+    "transliteration": "fāriqu",
+    "lemmaId": 3929
+  },
+  {
+    "id": 2774,
+    "lemma": "فارِه",
+    "meaning": "skillful",
+    "transliteration": "fārih",
+    "lemmaId": 3930
+  },
+  {
+    "id": 2775,
+    "lemma": "فازَ",
+    "meaning": "to be successful, to attain",
+    "transliteration": "fāza",
+    "lemmaId": 1916
+  },
+  {
+    "id": 2776,
+    "lemma": "فاسِق",
+    "meaning": "defiantly disobedient, wicked",
+    "transliteration": "fāsiq",
+    "lemmaId": 314
+  },
+  {
+    "id": 2777,
+    "lemma": "فاصِل",
+    "meaning": "decider",
+    "transliteration": "fāṣil",
+    "lemmaId": 3931
+  },
+  {
+    "id": 2778,
+    "lemma": "فاطِر",
+    "meaning": "creator, originator",
+    "transliteration": "fāṭir",
+    "lemmaId": 1192
+  },
+  {
+    "id": 2779,
+    "lemma": "فاعِل",
+    "meaning": "to do",
+    "transliteration": "fāʿil",
+    "lemmaId": 910
+  },
+  {
+    "id": 2780,
+    "lemma": "فاقِرَة",
+    "meaning": "backbreaking",
+    "transliteration": "fāqirata",
+    "lemmaId": 3932
+  },
+  {
+    "id": 2781,
+    "lemma": "فاقِع",
+    "meaning": "bright",
+    "transliteration": "fāqiʿ",
+    "lemmaId": 3933
+  },
+  {
+    "id": 2782,
+    "lemma": "فاكِه",
+    "meaning": "to enjoy, to take delight",
+    "transliteration": "fākiha",
+    "lemmaId": 1917
+  },
+  {
+    "id": 2783,
+    "lemma": "فاكِهَة",
+    "meaning": "fruit",
+    "transliteration": "fākihatun",
+    "lemmaId": 778
+  },
+  {
+    "id": 2784,
+    "lemma": "فالِق",
+    "meaning": "cleaver",
+    "transliteration": "fāliq",
+    "lemmaId": 2539
+  },
+  {
+    "id": 2785,
+    "lemma": "فان",
+    "meaning": "to perish",
+    "transliteration": "fān",
+    "lemmaId": 3934
+  },
+  {
+    "id": 2786,
+    "lemma": "فَتاة",
+    "meaning": "slave girl",
+    "transliteration": "fatāh",
+    "lemmaId": 2540
+  },
+  {
+    "id": 2787,
+    "lemma": "فَتًى",
+    "meaning": "youth",
+    "transliteration": "fatyan",
+    "lemmaId": 3935
+  },
+  {
+    "id": 2788,
+    "lemma": "فَتَحَ",
+    "meaning": "to open, to give victory",
+    "transliteration": "fataḥ",
+    "lemmaId": 590
+  },
+  {
+    "id": 2789,
+    "lemma": "فَتَقْ",
+    "meaning": "to part",
+    "transliteration": "fataq",
+    "lemmaId": 3936
+  },
+  {
+    "id": 2790,
+    "lemma": "فَتَنُ",
+    "meaning": "to persecute, to test, to try",
+    "transliteration": "fataniu",
+    "lemmaId": 449
+  },
+  {
+    "id": 2791,
+    "lemma": "فَتَى",
+    "meaning": "boy",
+    "transliteration": "fatā",
+    "lemmaId": 1918
+  },
+  {
+    "id": 2792,
+    "lemma": "فَتَيان",
+    "meaning": "young men",
+    "transliteration": "fatayān",
+    "lemmaId": 3937
+  },
+  {
+    "id": 2793,
+    "lemma": "فَتِيل",
+    "meaning": "hair on a date seed",
+    "transliteration": "fatīl",
+    "lemmaId": 1919
+  },
+  {
+    "id": 2794,
+    "lemma": "فَتّاح",
+    "meaning": "judge",
+    "transliteration": "fattāḥ",
+    "lemmaId": 3938
+  },
+  {
+    "id": 2795,
+    "lemma": "فَتْح",
+    "meaning": "victory, judgment, decision",
+    "transliteration": "fatḥ",
+    "lemmaId": 730
+  },
+  {
+    "id": 2796,
+    "lemma": "فَتْرَة",
+    "meaning": "interval",
+    "transliteration": "fat'ra",
+    "lemmaId": 3939
+  },
+  {
+    "id": 2797,
+    "lemma": "فَجّ",
+    "meaning": "wide, broad",
+    "transliteration": "fajj",
+    "lemmaId": 1920
+  },
+  {
+    "id": 2798,
+    "lemma": "فَجْر",
+    "meaning": "dawn",
+    "transliteration": "fajr",
+    "lemmaId": 1193
+  },
+  {
+    "id": 2799,
+    "lemma": "فَجْوَة",
+    "meaning": "open space",
+    "transliteration": "fajwata",
+    "lemmaId": 3940
+  },
+  {
+    "id": 2800,
+    "lemma": "فَحْشاء",
+    "meaning": "immorality",
+    "transliteration": "faḥshā",
+    "lemmaId": 1087
+  },
+  {
+    "id": 2801,
+    "lemma": "فَخُور",
+    "meaning": "boastful, boaster",
+    "transliteration": "fakhūr",
+    "lemmaId": 1586
+  },
+  {
+    "id": 2802,
+    "lemma": "فَخّار",
+    "meaning": "pottery",
+    "transliteration": "fakhhār",
+    "lemmaId": 3941
+  },
+  {
+    "id": 2803,
+    "lemma": "فَدَيْ",
+    "meaning": "to ransom",
+    "transliteration": "faday",
+    "lemmaId": 3942
+  },
+  {
+    "id": 2804,
+    "lemma": "فَراش",
+    "meaning": "moth",
+    "transliteration": "farāsh",
+    "lemmaId": 3943
+  },
+  {
+    "id": 2805,
+    "lemma": "فَرَشْ",
+    "meaning": "to spread out",
+    "transliteration": "farash",
+    "lemmaId": 3944
+  },
+  {
+    "id": 2806,
+    "lemma": "فَرَضَ",
+    "meaning": "to specify, to ordain, to make obligatory",
+    "transliteration": "farada",
+    "lemmaId": 911
+  },
+  {
+    "id": 2807,
+    "lemma": "فَرَغْ",
+    "meaning": "to finish",
+    "transliteration": "farag",
+    "lemmaId": 2541
+  },
+  {
+    "id": 2808,
+    "lemma": "فَرِح",
+    "meaning": "to rejoice",
+    "transliteration": "fariḥ",
+    "lemmaId": 1194
+  },
+  {
+    "id": 2809,
+    "lemma": "فَرِحَ",
+    "meaning": "to rejoice",
+    "transliteration": "fariḥa",
+    "lemmaId": 591
+  },
+  {
+    "id": 2810,
+    "lemma": "فَرِيضَة",
+    "meaning": "obligation",
+    "transliteration": "farīḍata",
+    "lemmaId": 1195
+  },
+  {
+    "id": 2811,
+    "lemma": "فَرِيق",
+    "meaning": "party, group",
+    "transliteration": "farīq",
+    "lemmaId": 341
+  },
+  {
+    "id": 2812,
+    "lemma": "فَرِيّ",
+    "meaning": "unprecedented",
+    "transliteration": "fariyy",
+    "lemmaId": 3945
+  },
+  {
+    "id": 2813,
+    "lemma": "فَرَّتْ",
+    "meaning": "to flee",
+    "transliteration": "farrat",
+    "lemmaId": 1196
+  },
+  {
+    "id": 2814,
+    "lemma": "فَرَّط",
+    "meaning": "to neglect, to fail",
+    "transliteration": "farr-ṭa",
+    "lemmaId": 1372
+  },
+  {
+    "id": 2815,
+    "lemma": "فَرَّقُ",
+    "meaning": "to differentiate, to make distinction",
+    "transliteration": "farraqu",
+    "lemmaId": 912
+  },
+  {
+    "id": 2816,
+    "lemma": "فَرْث",
+    "meaning": "bowels",
+    "transliteration": "farth",
+    "lemmaId": 3946
+  },
+  {
+    "id": 2817,
+    "lemma": "فَرْج",
+    "meaning": "modesty, chastity",
+    "transliteration": "farj",
+    "lemmaId": 985
+  },
+  {
+    "id": 2818,
+    "lemma": "فَرْد",
+    "meaning": "alone",
+    "transliteration": "fard",
+    "lemmaId": 1921
+  },
+  {
+    "id": 2819,
+    "lemma": "فَرْش",
+    "meaning": "spread out for provision",
+    "transliteration": "farš",
+    "lemmaId": 3947
+  },
+  {
+    "id": 2820,
+    "lemma": "فَرْع",
+    "meaning": "branch",
+    "transliteration": "farʿ",
+    "lemmaId": 3948
+  },
+  {
+    "id": 2821,
+    "lemma": "فَرْق",
+    "meaning": "criterion",
+    "transliteration": "farq",
+    "lemmaId": 3949
+  },
+  {
+    "id": 2822,
+    "lemma": "فَزَع",
+    "meaning": "terror",
+    "transliteration": "fazaع",
+    "lemmaId": 2542
+  },
+  {
+    "id": 2823,
+    "lemma": "فَزِعَ",
+    "meaning": "to be terrified, to be afraid",
+    "transliteration": "faziʿa",
+    "lemmaId": 1922
+  },
+  {
+    "id": 2824,
+    "lemma": "فَساد",
+    "meaning": "corruption",
+    "transliteration": "fasād",
+    "lemmaId": 779
+  },
+  {
+    "id": 2825,
+    "lemma": "فَسَدَتِ",
+    "meaning": "to become corrupt",
+    "transliteration": "fasadati",
+    "lemmaId": 1923
+  },
+  {
+    "id": 2826,
+    "lemma": "فَسَقَ",
+    "meaning": "to disobey defiantly",
+    "transliteration": "fasaqa",
+    "lemmaId": 837
+  },
+  {
+    "id": 2827,
+    "lemma": "فَشِلْ",
+    "meaning": "to lose courage",
+    "transliteration": "fashil",
+    "lemmaId": 1587
+  },
+  {
+    "id": 2828,
+    "lemma": "فَصَلَ",
+    "meaning": "to set out, to depart, to judge",
+    "transliteration": "faṣala",
+    "lemmaId": 1373
+  },
+  {
+    "id": 2829,
+    "lemma": "فَصِيلَت",
+    "meaning": "nearest kindred",
+    "transliteration": "faṣīlat",
+    "lemmaId": 3950
+  },
+  {
+    "id": 2830,
+    "lemma": "فَصَّلَ",
+    "meaning": "to make clear, to explain in detail",
+    "transliteration": "faṣṣala",
+    "lemmaId": 567
+  },
+  {
+    "id": 2831,
+    "lemma": "فَصْل",
+    "meaning": "judgment, decisive, Day of Judgment",
+    "transliteration": "faṣl",
+    "lemmaId": 913
+  },
+  {
+    "id": 2832,
+    "lemma": "فَضَّلَ",
+    "meaning": "to bestow, to prefer, to favor",
+    "transliteration": "faḍḍala",
+    "lemmaId": 568
+  },
+  {
+    "id": 2833,
+    "lemma": "فَضْل",
+    "meaning": "grace, bounty",
+    "transliteration": "faḍl",
+    "lemmaId": 133
+  },
+  {
+    "id": 2834,
+    "lemma": "فَطَرَ",
+    "meaning": "to create",
+    "transliteration": "faṭara",
+    "lemmaId": 838
+  },
+  {
+    "id": 2835,
+    "lemma": "فَظّ",
+    "meaning": "rude",
+    "transliteration": "faẓẓ",
+    "lemmaId": 3951
+  },
+  {
+    "id": 2836,
+    "lemma": "فَعَلَ",
+    "meaning": "to do",
+    "transliteration": "faʿala",
+    "lemmaId": 125
+  },
+  {
+    "id": 2837,
+    "lemma": "فَعّال",
+    "meaning": "doer, accomplisher",
+    "transliteration": "faʿʿāl",
+    "lemmaId": 2543
+  },
+  {
+    "id": 2838,
+    "lemma": "فَعْلَت",
+    "meaning": "deed",
+    "transliteration": "faʿlat",
+    "lemmaId": 3952
+  },
+  {
+    "id": 2839,
+    "lemma": "فَقِير",
+    "meaning": "poor, needy",
+    "transliteration": "faqīr",
+    "lemmaId": 731
+  },
+  {
+    "id": 2840,
+    "lemma": "فَقْر",
+    "meaning": "poverty",
+    "transliteration": "faqr",
+    "lemmaId": 3953
+  },
+  {
+    "id": 2841,
+    "lemma": "فَكِه",
+    "meaning": "jesting",
+    "transliteration": "fakih",
+    "lemmaId": 3954
+  },
+  {
+    "id": 2842,
+    "lemma": "فَكّ",
+    "meaning": "to free",
+    "transliteration": "fakk",
+    "lemmaId": 3955
+  },
+  {
+    "id": 2843,
+    "lemma": "فَكَّرَ",
+    "meaning": "to think",
+    "transliteration": "fakkara",
+    "lemmaId": 3956
+  },
+  {
+    "id": 2844,
+    "lemma": "فَلَق",
+    "meaning": "dawn",
+    "transliteration": "falqa",
+    "lemmaId": 3957
+  },
+  {
+    "id": 2845,
+    "lemma": "فَلَك",
+    "meaning": "orbit",
+    "transliteration": "falak",
+    "lemmaId": 2544
+  },
+  {
+    "id": 2846,
+    "lemma": "فَهَّمْ",
+    "meaning": "to give understanding",
+    "transliteration": "fahham",
+    "lemmaId": 3958
+  },
+  {
+    "id": 2847,
+    "lemma": "فَواق",
+    "meaning": "delay",
+    "transliteration": "fawāq",
+    "lemmaId": 3959
+  },
+  {
+    "id": 2848,
+    "lemma": "فَواكِه",
+    "meaning": "fruit",
+    "transliteration": "fawākih",
+    "lemmaId": 1924
+  },
+  {
+    "id": 2849,
+    "lemma": "فَوْت",
+    "meaning": "to escape",
+    "transliteration": "fawt",
+    "lemmaId": 3960
+  },
+  {
+    "id": 2850,
+    "lemma": "فَوْر",
+    "meaning": "suddenly",
+    "transliteration": "fawr",
+    "lemmaId": 3961
+  },
+  {
+    "id": 2851,
+    "lemma": "فَوْز",
+    "meaning": "success, attainment",
+    "transliteration": "fawz",
+    "lemmaId": 519
+  },
+  {
+    "id": 2852,
+    "lemma": "فَوْق",
+    "meaning": "above, over",
+    "transliteration": "fawqa",
+    "lemmaId": 281
+  },
+  {
+    "id": 2853,
+    "lemma": "فُؤاد",
+    "meaning": "heart",
+    "transliteration": "fuād",
+    "lemmaId": 592
+  },
+  {
+    "id": 2854,
+    "lemma": "فُتُون",
+    "meaning": "trials",
+    "transliteration": "futūn",
+    "lemmaId": 3962
+  },
+  {
+    "id": 2855,
+    "lemma": "فُجُور",
+    "meaning": "wickedness",
+    "transliteration": "fujūr",
+    "lemmaId": 3963
+  },
+  {
+    "id": 2856,
+    "lemma": "فُجّار",
+    "meaning": "wicked",
+    "transliteration": "fujjār",
+    "lemmaId": 1588
+  },
+  {
+    "id": 2857,
+    "lemma": "فُجِّرَتْ",
+    "meaning": "to cause gush",
+    "transliteration": "fujjirat",
+    "lemmaId": 1197
+  },
+  {
+    "id": 2858,
+    "lemma": "فُرات",
+    "meaning": "sweet",
+    "transliteration": "furāt",
+    "lemmaId": 1925
+  },
+  {
+    "id": 2859,
+    "lemma": "فُرادَى",
+    "meaning": "alone, individual",
+    "transliteration": "furādā",
+    "lemmaId": 2545
+  },
+  {
+    "id": 2860,
+    "lemma": "فُرُط",
+    "meaning": "excess",
+    "transliteration": "furuṭ",
+    "lemmaId": 3964
+  },
+  {
+    "id": 2861,
+    "lemma": "فُرِجَتْ",
+    "meaning": "to be cleft asunder",
+    "transliteration": "furijat",
+    "lemmaId": 3965
+  },
+  {
+    "id": 2862,
+    "lemma": "فُرْقان",
+    "meaning": "criterion",
+    "transliteration": "fur'qān",
+    "lemmaId": 1088
+  },
+  {
+    "id": 2863,
+    "lemma": "فُزِّعَ",
+    "meaning": "to remove fear",
+    "transliteration": "fuzziʿa",
+    "lemmaId": 3966
+  },
+  {
+    "id": 2864,
+    "lemma": "فُسُوق",
+    "meaning": "wickedness, sinful conduct, defiance, disobedience",
+    "transliteration": "fusūq",
+    "lemmaId": 1589
+  },
+  {
+    "id": 2865,
+    "lemma": "فُطُور",
+    "meaning": "flaw",
+    "transliteration": "fuṭūr",
+    "lemmaId": 3967
+  },
+  {
+    "id": 2866,
+    "lemma": "فُلان",
+    "meaning": "that one",
+    "transliteration": "fulān",
+    "lemmaId": 3968
+  },
+  {
+    "id": 2867,
+    "lemma": "فُلْك",
+    "meaning": "ship, ships",
+    "transliteration": "fulku",
+    "lemmaId": 450
+  },
+  {
+    "id": 2868,
+    "lemma": "فُوم",
+    "meaning": "garlic",
+    "transliteration": "fūm",
+    "lemmaId": 3969
+  },
+  {
+    "id": 2869,
+    "lemma": "فِئَة",
+    "meaning": "group, force",
+    "transliteration": "fiʾata",
+    "lemmaId": 839
+  },
+  {
+    "id": 2870,
+    "lemma": "فِئَت",
+    "meaning": "force",
+    "transliteration": "fi'ta",
+    "lemmaId": 3970
+  },
+  {
+    "id": 2871,
+    "lemma": "فِتْنَة",
+    "meaning": "trial, oppression, temptation",
+    "transliteration": "fit'na",
+    "lemmaId": 337
+  },
+  {
+    "id": 2872,
+    "lemma": "فِتْيَة",
+    "meaning": "youth, servant",
+    "transliteration": "fit'ya",
+    "lemmaId": 1926
+  },
+  {
+    "id": 2873,
+    "lemma": "فِداء",
+    "meaning": "ransom",
+    "transliteration": "fidā'",
+    "lemmaId": 3971
+  },
+  {
+    "id": 2874,
+    "lemma": "فِدْيَة",
+    "meaning": "ransom",
+    "transliteration": "fidyata",
+    "lemmaId": 1927
+  },
+  {
+    "id": 2875,
+    "lemma": "فِرار",
+    "meaning": "to flee, fleeing",
+    "transliteration": "firār",
+    "lemmaId": 1590
+  },
+  {
+    "id": 2876,
+    "lemma": "فِراش",
+    "meaning": "couch, resting place",
+    "transliteration": "firāsh",
+    "lemmaId": 1928
+  },
+  {
+    "id": 2877,
+    "lemma": "فِراق",
+    "meaning": "parting",
+    "transliteration": "firāq",
+    "lemmaId": 2546
+  },
+  {
+    "id": 2878,
+    "lemma": "فِرْدَوْس",
+    "meaning": "al-Firdaws",
+    "transliteration": "fir'daws",
+    "lemmaId": 2547
+  },
+  {
+    "id": 2879,
+    "lemma": "فِرْعَوْن",
+    "meaning": "Fir'awn",
+    "transliteration": "firʿawn",
+    "lemmaId": 159
+  },
+  {
+    "id": 2880,
+    "lemma": "فِرْق",
+    "meaning": "part",
+    "transliteration": "firqa",
+    "lemmaId": 3972
+  },
+  {
+    "id": 2881,
+    "lemma": "فِرْقَة",
+    "meaning": "group",
+    "transliteration": "firqata",
+    "lemmaId": 3973
+  },
+  {
+    "id": 2882,
+    "lemma": "فِسْق",
+    "meaning": "disobedience",
+    "transliteration": "fisq",
+    "lemmaId": 1929
+  },
+  {
+    "id": 2883,
+    "lemma": "فِصال",
+    "meaning": "weaning",
+    "transliteration": "fiṣāl",
+    "lemmaId": 1930
+  },
+  {
+    "id": 2884,
+    "lemma": "فِضَّة",
+    "meaning": "silver",
+    "transliteration": "fiḍḍata",
+    "lemmaId": 1198
+  },
+  {
+    "id": 2885,
+    "lemma": "فِطْرَت",
+    "meaning": "nature",
+    "transliteration": "fiṭ'rat",
+    "lemmaId": 3974
+  },
+  {
+    "id": 2886,
+    "lemma": "فِعْل",
+    "meaning": "doing",
+    "transliteration": "fiʿl",
+    "lemmaId": 3975
+  },
+  {
+    "id": 2887,
+    "lemma": "فِي",
+    "meaning": "in",
+    "transliteration": "fī",
+    "lemmaId": 10
+  },
+  {
+    "id": 2888,
+    "lemma": "فِيل",
+    "meaning": "elephant",
+    "transliteration": "fīl",
+    "lemmaId": 3976
+  },
+  {
+    "id": 2889,
+    "lemma": "قائِل",
+    "meaning": "resting at noon",
+    "transliteration": "qāʾil",
+    "lemmaId": 1199
+  },
+  {
+    "id": 2890,
+    "lemma": "قائِم",
+    "meaning": "support, establishment, oversight, standing, steadfast, those who stand",
+    "transliteration": "qāim",
+    "lemmaId": 569
+  },
+  {
+    "id": 2891,
+    "lemma": "قائِمَة",
+    "meaning": "standing, established",
+    "transliteration": "qāimah",
+    "lemmaId": 1375
+  },
+  {
+    "id": 2892,
+    "lemma": "قاب",
+    "meaning": "distance",
+    "transliteration": "qāb",
+    "lemmaId": 3977
+  },
+  {
+    "id": 2893,
+    "lemma": "قابِل",
+    "meaning": "accept",
+    "transliteration": "qābil",
+    "lemmaId": 3978
+  },
+  {
+    "id": 2894,
+    "lemma": "قاتَلَ",
+    "meaning": "to fight",
+    "transliteration": "qātala",
+    "lemmaId": 217
+  },
+  {
+    "id": 2895,
+    "lemma": "قادِر",
+    "meaning": "able",
+    "transliteration": "qādir",
+    "lemmaId": 653
+  },
+  {
+    "id": 2896,
+    "lemma": "قارُون",
+    "meaning": "Qārūn",
+    "transliteration": "qārūn",
+    "lemmaId": 1591
+  },
+  {
+    "id": 2897,
+    "lemma": "قارِعَة",
+    "meaning": "calamity, Striking Calamity",
+    "transliteration": "qāriʿa",
+    "lemmaId": 1376
+  },
+  {
+    "id": 2898,
+    "lemma": "قاسَمَ",
+    "meaning": "to swear",
+    "transliteration": "qāsama",
+    "lemmaId": 3979
+  },
+  {
+    "id": 2899,
+    "lemma": "قاسِط",
+    "meaning": "unjust",
+    "transliteration": "qāsiṭ",
+    "lemmaId": 2548
+  },
+  {
+    "id": 2900,
+    "lemma": "قاسِيَة",
+    "meaning": "hard, to harden",
+    "transliteration": "qāsiya",
+    "lemmaId": 1931
+  },
+  {
+    "id": 2901,
+    "lemma": "قاصِد",
+    "meaning": "easy",
+    "transliteration": "qāṣid",
+    "lemmaId": 3980
+  },
+  {
+    "id": 2902,
+    "lemma": "قاصِرَة",
+    "meaning": "companion of modest gaze",
+    "transliteration": "qāṣirah",
+    "lemmaId": 1932
+  },
+  {
+    "id": 2903,
+    "lemma": "قاصِف",
+    "meaning": "storm",
+    "transliteration": "qāṣif",
+    "lemmaId": 3981
+  },
+  {
+    "id": 2904,
+    "lemma": "قاض",
+    "meaning": "to decree",
+    "transliteration": "qāḍ",
+    "lemmaId": 3982
+  },
+  {
+    "id": 2905,
+    "lemma": "قاضِيَة",
+    "meaning": "end",
+    "transliteration": "qāḍiyah",
+    "lemmaId": 3983
+  },
+  {
+    "id": 2906,
+    "lemma": "قاطِعَة",
+    "meaning": "decisive",
+    "transliteration": "qāṭiʿa",
+    "lemmaId": 3984
+  },
+  {
+    "id": 2907,
+    "lemma": "قاع",
+    "meaning": "level plain",
+    "transliteration": "qāʿ",
+    "lemmaId": 3985
+  },
+  {
+    "id": 2908,
+    "lemma": "قاعِد",
+    "meaning": "to sit",
+    "transliteration": "qāʿid",
+    "lemmaId": 1089
+  },
+  {
+    "id": 2909,
+    "lemma": "قالي",
+    "meaning": "those who detest",
+    "transliteration": "qālī",
+    "lemmaId": 3986
+  },
+  {
+    "id": 2910,
+    "lemma": "قالَ",
+    "meaning": "to say",
+    "transliteration": "qāla",
+    "lemmaId": 12
+  },
+  {
+    "id": 2911,
+    "lemma": "قامَ",
+    "meaning": "to stand up, to rise, to establish",
+    "transliteration": "qāma",
+    "lemmaId": 342
+  },
+  {
+    "id": 2912,
+    "lemma": "قانِت",
+    "meaning": "devoutly obedient",
+    "transliteration": "qānit",
+    "lemmaId": 986
+  },
+  {
+    "id": 2913,
+    "lemma": "قانِتَة",
+    "meaning": "devoutly obedient women",
+    "transliteration": "qānitata",
+    "lemmaId": 1933
+  },
+  {
+    "id": 2914,
+    "lemma": "قانِط",
+    "meaning": "despairing",
+    "transliteration": "qāniṭ",
+    "lemmaId": 3987
+  },
+  {
+    "id": 2915,
+    "lemma": "قانِع",
+    "meaning": "poor person who does not ask",
+    "transliteration": "qāniʿ",
+    "lemmaId": 3988
+  },
+  {
+    "id": 2916,
+    "lemma": "قاهِر",
+    "meaning": "subduer",
+    "transliteration": "qāhir",
+    "lemmaId": 1934
+  },
+  {
+    "id": 2917,
+    "lemma": "قَبائِل",
+    "meaning": "tribes",
+    "transliteration": "qabāʾil",
+    "lemmaId": 3989
+  },
+  {
+    "id": 2918,
+    "lemma": "قَبَس",
+    "meaning": "burning brand",
+    "transliteration": "qabas",
+    "lemmaId": 2549
+  },
+  {
+    "id": 2919,
+    "lemma": "قَبُول",
+    "meaning": "acceptance",
+    "transliteration": "qabūl",
+    "lemmaId": 3990
+  },
+  {
+    "id": 2920,
+    "lemma": "قَبِيل",
+    "meaning": "tribe",
+    "transliteration": "qabīl",
+    "lemmaId": 2550
+  },
+  {
+    "id": 2921,
+    "lemma": "قَبْر",
+    "meaning": "grave",
+    "transliteration": "qabr",
+    "lemmaId": 1200
+  },
+  {
+    "id": 2922,
+    "lemma": "قَبْض",
+    "meaning": "withdrawal",
+    "transliteration": "qabḍ",
+    "lemmaId": 3991
+  },
+  {
+    "id": 2923,
+    "lemma": "قَبْضَة",
+    "meaning": "handful, grip",
+    "transliteration": "qabḍata",
+    "lemmaId": 2551
+  },
+  {
+    "id": 2924,
+    "lemma": "قَبْل",
+    "meaning": "before",
+    "transliteration": "qabla",
+    "lemmaId": 58
+  },
+  {
+    "id": 2925,
+    "lemma": "قَتَر",
+    "meaning": "dust",
+    "transliteration": "qatar",
+    "lemmaId": 3992
+  },
+  {
+    "id": 2926,
+    "lemma": "قَتَرَة",
+    "meaning": "darkness",
+    "transliteration": "qatara",
+    "lemmaId": 3993
+  },
+  {
+    "id": 2927,
+    "lemma": "قَتَلَ",
+    "meaning": "to kill",
+    "transliteration": "qatala",
+    "lemmaId": 137
+  },
+  {
+    "id": 2928,
+    "lemma": "قَتُور",
+    "meaning": "stingy",
+    "transliteration": "qatūr",
+    "lemmaId": 3994
+  },
+  {
+    "id": 2929,
+    "lemma": "قَتْل",
+    "meaning": "killing, to kill",
+    "transliteration": "qatla",
+    "lemmaId": 840
+  },
+  {
+    "id": 2930,
+    "lemma": "قَتْلَى",
+    "meaning": "the slain",
+    "transliteration": "qatlā",
+    "lemmaId": 3995
+  },
+  {
+    "id": 2931,
+    "lemma": "قَدَر",
+    "meaning": "measure, decree, period",
+    "transliteration": "qadara",
+    "lemmaId": 780
+  },
+  {
+    "id": 2932,
+    "lemma": "قَدَرَ",
+    "meaning": "to restrict, to control, to have power",
+    "transliteration": "qadara",
+    "lemmaId": 425
+  },
+  {
+    "id": 2933,
+    "lemma": "قَدَم",
+    "meaning": "foot, feet, position",
+    "transliteration": "qadam",
+    "lemmaId": 987
+  },
+  {
+    "id": 2934,
+    "lemma": "قَدِير",
+    "meaning": "All-Powerful",
+    "transliteration": "qadīr",
+    "lemmaId": 256
+  },
+  {
+    "id": 2935,
+    "lemma": "قَدِيم",
+    "meaning": "old, ancient",
+    "transliteration": "qadīm",
+    "lemmaId": 1935
+  },
+  {
+    "id": 2936,
+    "lemma": "قَدَّرَ",
+    "meaning": "to determine, to plot",
+    "transliteration": "qaddara",
+    "lemmaId": 593
+  },
+  {
+    "id": 2937,
+    "lemma": "قَدَّمَ",
+    "meaning": "to send forth, to offer",
+    "transliteration": "qaddama",
+    "lemmaId": 399
+  },
+  {
+    "id": 2938,
+    "lemma": "قَدْح",
+    "meaning": "striking",
+    "transliteration": "qadḥ",
+    "lemmaId": 3996
+  },
+  {
+    "id": 2939,
+    "lemma": "قَدْر",
+    "meaning": "appraisal, estimation, measure, power",
+    "transliteration": "qadra",
+    "lemmaId": 1090
+  },
+  {
+    "id": 2940,
+    "lemma": "قَذَفَ",
+    "meaning": "to cast, to throw, to hurl",
+    "transliteration": "qaḏafa",
+    "lemmaId": 914
+  },
+  {
+    "id": 2941,
+    "lemma": "قَرار",
+    "meaning": "settlement, abode, resting place",
+    "transliteration": "qarār",
+    "lemmaId": 915
+  },
+  {
+    "id": 2942,
+    "lemma": "قَرَأَ",
+    "meaning": "to read, to recite",
+    "transliteration": "qara'a",
+    "lemmaId": 594
+  },
+  {
+    "id": 2943,
+    "lemma": "قَرِيب",
+    "meaning": "near, close",
+    "transliteration": "qarīb",
+    "lemmaId": 414
+  },
+  {
+    "id": 2944,
+    "lemma": "قَرِين",
+    "meaning": "companion",
+    "transliteration": "qarīn",
+    "lemmaId": 988
+  },
+  {
+    "id": 2945,
+    "lemma": "قَرَّبَ",
+    "meaning": "to bring near",
+    "transliteration": "qarraba",
+    "lemmaId": 1378
+  },
+  {
+    "id": 2946,
+    "lemma": "قَرْح",
+    "meaning": "wound",
+    "transliteration": "qarḥ",
+    "lemmaId": 1936
+  },
+  {
+    "id": 2947,
+    "lemma": "قَرْض",
+    "meaning": "loan",
+    "transliteration": "qarḍ",
+    "lemmaId": 1201
+  },
+  {
+    "id": 2948,
+    "lemma": "قَرْن",
+    "meaning": "generation",
+    "transliteration": "qarn",
+    "lemmaId": 451
+  },
+  {
+    "id": 2949,
+    "lemma": "قَرْيَة",
+    "meaning": "town",
+    "transliteration": "qaryata",
+    "lemmaId": 207
+  },
+  {
+    "id": 2950,
+    "lemma": "قَسَتْ",
+    "meaning": "to harden",
+    "transliteration": "qasat",
+    "lemmaId": 1937
+  },
+  {
+    "id": 2951,
+    "lemma": "قَسَم",
+    "meaning": "oath",
+    "transliteration": "qasama",
+    "lemmaId": 2553
+  },
+  {
+    "id": 2952,
+    "lemma": "قَسَمْ",
+    "meaning": "to distribute",
+    "transliteration": "qasam",
+    "lemmaId": 2554
+  },
+  {
+    "id": 2953,
+    "lemma": "قَسْوَة",
+    "meaning": "hardness",
+    "transliteration": "qaswata",
+    "lemmaId": 3997
+  },
+  {
+    "id": 2954,
+    "lemma": "قَسْوَرَة",
+    "meaning": "lion",
+    "transliteration": "qaswāra",
+    "lemmaId": 3998
+  },
+  {
+    "id": 2955,
+    "lemma": "قَصَص",
+    "meaning": "stories, narrations, retracing",
+    "transliteration": "qaṣaṣ",
+    "lemmaId": 1202
+  },
+  {
+    "id": 2956,
+    "lemma": "قَصَمْ",
+    "meaning": "to shatter",
+    "transliteration": "qaṣam",
+    "lemmaId": 3999
+  },
+  {
+    "id": 2957,
+    "lemma": "قَصِيّ",
+    "meaning": "remote",
+    "transliteration": "qasīy",
+    "lemmaId": 4000
+  },
+  {
+    "id": 2958,
+    "lemma": "قَصَّ",
+    "meaning": "to narrate",
+    "transliteration": "qaṣṣa",
+    "lemmaId": 508
+  },
+  {
+    "id": 2959,
+    "lemma": "قَصْد",
+    "meaning": "direction",
+    "transliteration": "qaṣd",
+    "lemmaId": 4001
+  },
+  {
+    "id": 2960,
+    "lemma": "قَصْر",
+    "meaning": "palace, castle, fortress",
+    "transliteration": "qaṣr",
+    "lemmaId": 1592
+  },
+  {
+    "id": 2961,
+    "lemma": "قَضَى",
+    "meaning": "to decree, to decide, to judge",
+    "transliteration": "qaḍā",
+    "lemmaId": 198
+  },
+  {
+    "id": 2962,
+    "lemma": "قَضْب",
+    "meaning": "green fodder",
+    "transliteration": "qaḍb",
+    "lemmaId": 4002
+  },
+  {
+    "id": 2963,
+    "lemma": "قَطِران",
+    "meaning": "tar",
+    "transliteration": "qaṭirān",
+    "lemmaId": 4003
+  },
+  {
+    "id": 2964,
+    "lemma": "قَطَّعَ",
+    "meaning": "to cut into pieces, to divide",
+    "transliteration": "qaṭṭaʿa",
+    "lemmaId": 732
+  },
+  {
+    "id": 2965,
+    "lemma": "قَعَدَ",
+    "meaning": "to sit",
+    "transliteration": "qaʿada",
+    "lemmaId": 733
+  },
+  {
+    "id": 2966,
+    "lemma": "قَعِيد",
+    "meaning": "seated",
+    "transliteration": "qāʿīd",
+    "lemmaId": 4004
+  },
+  {
+    "id": 2967,
+    "lemma": "قَلَم",
+    "meaning": "pen",
+    "transliteration": "qalam",
+    "lemmaId": 1594
+  },
+  {
+    "id": 2968,
+    "lemma": "قَلَى",
+    "meaning": "to turn away in aversion",
+    "transliteration": "qalā",
+    "lemmaId": 4005
+  },
+  {
+    "id": 2969,
+    "lemma": "قَلِيل",
+    "meaning": "little, few",
+    "transliteration": "qalīl",
+    "lemmaId": 172
+  },
+  {
+    "id": 2970,
+    "lemma": "قَلِيلَة",
+    "meaning": "small in number",
+    "transliteration": "qalīlatā",
+    "lemmaId": 4006
+  },
+  {
+    "id": 2971,
+    "lemma": "قَلَّ",
+    "meaning": "to be little",
+    "transliteration": "qalla",
+    "lemmaId": 4007
+  },
+  {
+    "id": 2972,
+    "lemma": "قَلَّبُ",
+    "meaning": "to turn, to alternate",
+    "transliteration": "qallabu",
+    "lemmaId": 1203
+  },
+  {
+    "id": 2973,
+    "lemma": "قَلْب",
+    "meaning": "heart",
+    "transliteration": "qalba",
+    "lemmaId": 92
+  },
+  {
+    "id": 2974,
+    "lemma": "قَمَر",
+    "meaning": "moon",
+    "transliteration": "qamar",
+    "lemmaId": 400
+  },
+  {
+    "id": 2975,
+    "lemma": "قَمِيص",
+    "meaning": "shirt",
+    "transliteration": "qamīṣ",
+    "lemmaId": 1204
+  },
+  {
+    "id": 2976,
+    "lemma": "قَمْطَرِير",
+    "meaning": "distressing",
+    "transliteration": "qamṭarīr",
+    "lemmaId": 4008
+  },
+  {
+    "id": 2977,
+    "lemma": "قَنَطُ",
+    "meaning": "to despair",
+    "transliteration": "qanaṭu",
+    "lemmaId": 1595
+  },
+  {
+    "id": 2978,
+    "lemma": "قَنُوط",
+    "meaning": "in despair",
+    "transliteration": "qanūṭ",
+    "lemmaId": 4009
+  },
+  {
+    "id": 2979,
+    "lemma": "قَهّار",
+    "meaning": "Ever-Dominating",
+    "transliteration": "qahhār",
+    "lemmaId": 1205
+  },
+  {
+    "id": 2980,
+    "lemma": "قَوارِيرا",
+    "meaning": "glass vessels, crystals",
+    "transliteration": "qawārīrā",
+    "lemmaId": 1938
+  },
+  {
+    "id": 2981,
+    "lemma": "قَواعِد",
+    "meaning": "foundation, postmenopausal",
+    "transliteration": "qawāʿid",
+    "lemmaId": 1939
+  },
+  {
+    "id": 2982,
+    "lemma": "قَوام",
+    "meaning": "moderate",
+    "transliteration": "qāwam",
+    "lemmaId": 4010
+  },
+  {
+    "id": 2983,
+    "lemma": "قَوِيّ",
+    "meaning": "strong, All-Powerful",
+    "transliteration": "qawiyy",
+    "lemmaId": 781
+  },
+  {
+    "id": 2984,
+    "lemma": "قَوّام",
+    "meaning": "protector, custodian, steadfast",
+    "transliteration": "qawwām",
+    "lemmaId": 1940
+  },
+  {
+    "id": 2985,
+    "lemma": "قَوْسَيْن",
+    "meaning": "two bows' length",
+    "transliteration": "qawsayn",
+    "lemmaId": 4011
+  },
+  {
+    "id": 2986,
+    "lemma": "قَوْل",
+    "meaning": "word, saying, speech",
+    "transliteration": "qawli",
+    "lemmaId": 121
+  },
+  {
+    "id": 2987,
+    "lemma": "قَوْم",
+    "meaning": "people",
+    "transliteration": "qawm",
+    "lemmaId": 31
+  },
+  {
+    "id": 2988,
+    "lemma": "قَيُّوم",
+    "meaning": "Absolute Sustainer",
+    "transliteration": "qayyūm",
+    "lemmaId": 1941
+  },
+  {
+    "id": 2989,
+    "lemma": "قَيِّم",
+    "meaning": "upright",
+    "transliteration": "qayyim",
+    "lemmaId": 1379
+  },
+  {
+    "id": 2990,
+    "lemma": "قَيِّمَة",
+    "meaning": "upright",
+    "transliteration": "qayyimah",
+    "lemmaId": 2557
+  },
+  {
+    "id": 2991,
+    "lemma": "قُبُل",
+    "meaning": "front, before",
+    "transliteration": "qubul",
+    "lemmaId": 1942
+  },
+  {
+    "id": 2992,
+    "lemma": "قُدُس",
+    "meaning": "Holy",
+    "transliteration": "qudus",
+    "lemmaId": 1597
+  },
+  {
+    "id": 2993,
+    "lemma": "قُدُور",
+    "meaning": "cooking pots",
+    "transliteration": "qudūr",
+    "lemmaId": 4012
+  },
+  {
+    "id": 2994,
+    "lemma": "قُدَّ",
+    "meaning": "to tear",
+    "transliteration": "qudda",
+    "lemmaId": 1598
+  },
+  {
+    "id": 2995,
+    "lemma": "قُدُّوس",
+    "meaning": "Most Holy",
+    "transliteration": "quddūs",
+    "lemmaId": 2558
+  },
+  {
+    "id": 2996,
+    "lemma": "قُرَيْش",
+    "meaning": "Quraysh",
+    "transliteration": "quraysh",
+    "lemmaId": 4013
+  },
+  {
+    "id": 2997,
+    "lemma": "قُرُبَة",
+    "meaning": "means of nearness",
+    "transliteration": "qurubata",
+    "lemmaId": 4014
+  },
+  {
+    "id": 2998,
+    "lemma": "قُرُوء",
+    "meaning": "periods",
+    "transliteration": "qurū",
+    "lemmaId": 4015
+  },
+  {
+    "id": 2999,
+    "lemma": "قُرَّة",
+    "meaning": "coolness",
+    "transliteration": "qurrata",
+    "lemmaId": 1943
+  },
+  {
+    "id": 3000,
+    "lemma": "قُرْءان",
+    "meaning": "Qur'ān",
+    "transliteration": "qur'ān",
+    "lemmaId": 173
+  },
+  {
+    "id": 3001,
+    "lemma": "قُرْبان",
+    "meaning": "a sacrificial offering",
+    "transliteration": "qur'bān",
+    "lemmaId": 1944
+  },
+  {
+    "id": 3002,
+    "lemma": "قُرْبَة",
+    "meaning": "means of nearness",
+    "transliteration": "qur'ba",
+    "lemmaId": 4016
+  },
+  {
+    "id": 3003,
+    "lemma": "قُرْبَى",
+    "meaning": "kinship, close relatives",
+    "transliteration": "qur'abā",
+    "lemmaId": 595
+  },
+  {
+    "id": 3004,
+    "lemma": "قُصْوَى",
+    "meaning": "farthest",
+    "transliteration": "quṣwā",
+    "lemmaId": 4017
+  },
+  {
+    "id": 3005,
+    "lemma": "قُطُوف",
+    "meaning": "cluster of fruits",
+    "transliteration": "quṭūf",
+    "lemmaId": 2559
+  },
+  {
+    "id": 3006,
+    "lemma": "قُطِعَ",
+    "meaning": "to cut",
+    "transliteration": "quṭiʿa",
+    "lemmaId": 734
+  },
+  {
+    "id": 3007,
+    "lemma": "قُعُود",
+    "meaning": "to sit",
+    "transliteration": "quʿūd",
+    "lemmaId": 1599
+  },
+  {
+    "id": 3008,
+    "lemma": "قُمَّل",
+    "meaning": "lice",
+    "transliteration": "qummal",
+    "lemmaId": 4018
+  },
+  {
+    "id": 3009,
+    "lemma": "قُوَّة",
+    "meaning": "strength, power, firmness",
+    "transliteration": "qūwah",
+    "lemmaId": 366
+  },
+  {
+    "id": 3010,
+    "lemma": "قِبَل",
+    "meaning": "towards, facing",
+    "transliteration": "qibla",
+    "lemmaId": 1600
+  },
+  {
+    "id": 3011,
+    "lemma": "قِبْلَة",
+    "meaning": "direction of prayer, place of worship",
+    "transliteration": "qib'lat",
+    "lemmaId": 1091
+  },
+  {
+    "id": 3012,
+    "lemma": "قِتال",
+    "meaning": "fighting, battle",
+    "transliteration": "qitāl",
+    "lemmaId": 686
+  },
+  {
+    "id": 3013,
+    "lemma": "قِثّائ",
+    "meaning": "cucumber",
+    "transliteration": "qiṯāi",
+    "lemmaId": 4019
+  },
+  {
+    "id": 3014,
+    "lemma": "قِدَد",
+    "meaning": "different",
+    "transliteration": "qidad",
+    "lemmaId": 4020
+  },
+  {
+    "id": 3015,
+    "lemma": "قِرَدَة",
+    "meaning": "apes",
+    "transliteration": "qiradah",
+    "lemmaId": 1945
+  },
+  {
+    "id": 3016,
+    "lemma": "قِرْطاس",
+    "meaning": "papyrus",
+    "transliteration": "qirṭās",
+    "lemmaId": 2560
+  },
+  {
+    "id": 3017,
+    "lemma": "قِسِّيس",
+    "meaning": "priests",
+    "transliteration": "qissīs",
+    "lemmaId": 4021
+  },
+  {
+    "id": 3018,
+    "lemma": "قِسْط",
+    "meaning": "justice",
+    "transliteration": "qisṭ",
+    "lemmaId": 623
+  },
+  {
+    "id": 3019,
+    "lemma": "قِسْطاس",
+    "meaning": "balance",
+    "transliteration": "qisṭās",
+    "lemmaId": 2561
+  },
+  {
+    "id": 3020,
+    "lemma": "قِسْمَة",
+    "meaning": "division, to be shared",
+    "transliteration": "qismata",
+    "lemmaId": 1946
+  },
+  {
+    "id": 3021,
+    "lemma": "قِصاص",
+    "meaning": "retribution",
+    "transliteration": "qiṣāṣ",
+    "lemmaId": 1601
+  },
+  {
+    "id": 3022,
+    "lemma": "قِطَع",
+    "meaning": "pieces, tracts",
+    "transliteration": "qiṭaʿ",
+    "lemmaId": 2562
+  },
+  {
+    "id": 3023,
+    "lemma": "قِطّ",
+    "meaning": "share",
+    "transliteration": "qiṭṭ",
+    "lemmaId": 4022
+  },
+  {
+    "id": 3024,
+    "lemma": "قِطْر",
+    "meaning": "molten metal",
+    "transliteration": "qiṭr",
+    "lemmaId": 2563
+  },
+  {
+    "id": 3025,
+    "lemma": "قِطْمِير",
+    "meaning": "membrane",
+    "transliteration": "qiṭmīr",
+    "lemmaId": 4023
+  },
+  {
+    "id": 3026,
+    "lemma": "قِنطار",
+    "meaning": "great amount of wealth",
+    "transliteration": "qinṭār",
+    "lemmaId": 1947
+  },
+  {
+    "id": 3027,
+    "lemma": "قِنْوان",
+    "meaning": "clusters of dates",
+    "transliteration": "qinwān",
+    "lemmaId": 4024
+  },
+  {
+    "id": 3028,
+    "lemma": "قِيامَة",
+    "meaning": "Resurrection",
+    "transliteration": "qiyāmatā",
+    "lemmaId": 174
+  },
+  {
+    "id": 3029,
+    "lemma": "قِيعَة",
+    "meaning": "open plain",
+    "transliteration": "qīʿahton",
+    "lemmaId": 4025
+  },
+  {
+    "id": 3030,
+    "lemma": "قِيل",
+    "meaning": "saying, statement, word",
+    "transliteration": "qīl",
+    "lemmaId": 1602
+  },
+  {
+    "id": 3031,
+    "lemma": "قِيَم",
+    "meaning": "right",
+    "transliteration": "qīyam",
+    "lemmaId": 4026
+  },
+  {
+    "id": 3032,
+    "lemma": "ك",
+    "meaning": "like, as",
+    "transliteration": "k",
+    "lemmaId": 46
+  },
+  {
+    "id": 3033,
+    "lemma": "كاتِب",
+    "meaning": "scribe, recorder",
+    "transliteration": "kātib",
+    "lemmaId": 1206
+  },
+  {
+    "id": 3034,
+    "lemma": "كاتِبُ",
+    "meaning": "to write a contract",
+    "transliteration": "kātibu",
+    "lemmaId": 4027
+  },
+  {
+    "id": 3035,
+    "lemma": "كادَ",
+    "meaning": "to be near to, to nearly do, to almost do",
+    "transliteration": "kāda",
+    "lemmaId": 437
+  },
+  {
+    "id": 3036,
+    "lemma": "كادِح",
+    "meaning": "striving",
+    "transliteration": "kādiḥ",
+    "lemmaId": 4028
+  },
+  {
+    "id": 3037,
+    "lemma": "كاذِب",
+    "meaning": "liar",
+    "transliteration": "kāḏib",
+    "lemmaId": 350
+  },
+  {
+    "id": 3038,
+    "lemma": "كارِه",
+    "meaning": "unwilling, averse",
+    "transliteration": "kārih",
+    "lemmaId": 1092
+  },
+  {
+    "id": 3039,
+    "lemma": "كاشِف",
+    "meaning": "remover",
+    "transliteration": "kāshif",
+    "lemmaId": 1948
+  },
+  {
+    "id": 3040,
+    "lemma": "كاشِفَة",
+    "meaning": "remover",
+    "transliteration": "kāshifah",
+    "lemmaId": 2565
+  },
+  {
+    "id": 3041,
+    "lemma": "كاظِم",
+    "meaning": "those who suppress emotions",
+    "transliteration": "kāẓim",
+    "lemmaId": 2566
+  },
+  {
+    "id": 3042,
+    "lemma": "كاف",
+    "meaning": "One who suffices",
+    "transliteration": "kāf",
+    "lemmaId": 4029
+  },
+  {
+    "id": 3043,
+    "lemma": "كافُور",
+    "meaning": "camphor",
+    "transliteration": "kāfūr",
+    "lemmaId": 4030
+  },
+  {
+    "id": 3044,
+    "lemma": "كافِر",
+    "meaning": "disbeliever, disbelieving",
+    "transliteration": "kāfir",
+    "lemmaId": 79
+  },
+  {
+    "id": 3045,
+    "lemma": "كافِرَة",
+    "meaning": "disbeliever",
+    "transliteration": "kāfirata",
+    "lemmaId": 4031
+  },
+  {
+    "id": 3046,
+    "lemma": "كافَّة",
+    "meaning": "wholly, all together, universally, entirely",
+    "transliteration": "kāffah",
+    "lemmaId": 1380
+  },
+  {
+    "id": 3047,
+    "lemma": "كالُ",
+    "meaning": "to measure",
+    "transliteration": "kālu",
+    "lemmaId": 2567
+  },
+  {
+    "id": 3048,
+    "lemma": "كالِح",
+    "meaning": "grimacing",
+    "transliteration": "kāliḥ",
+    "lemmaId": 4032
+  },
+  {
+    "id": 3049,
+    "lemma": "كامِلَة",
+    "meaning": "in full, complete",
+    "transliteration": "kāmilata",
+    "lemmaId": 2568
+  },
+  {
+    "id": 3050,
+    "lemma": "كامِلَيْن",
+    "meaning": "complete",
+    "transliteration": "kāmilayn",
+    "lemmaId": 4033
+  },
+  {
+    "id": 3051,
+    "lemma": "كانَ",
+    "meaning": "to be",
+    "transliteration": "kāna",
+    "lemmaId": 15
+  },
+  {
+    "id": 3052,
+    "lemma": "كاهِن",
+    "meaning": "soothsayer",
+    "transliteration": "kāhin",
+    "lemmaId": 2569
+  },
+  {
+    "id": 3053,
+    "lemma": "كَأَيِّن",
+    "meaning": "how many",
+    "transliteration": "kaayyin",
+    "lemmaId": 1093
+  },
+  {
+    "id": 3054,
+    "lemma": "كَأْس",
+    "meaning": "cup",
+    "transliteration": "kaʾs",
+    "lemmaId": 1207
+  },
+  {
+    "id": 3055,
+    "lemma": "كَبَد",
+    "meaning": "hardship",
+    "transliteration": "kabad",
+    "lemmaId": 4034
+  },
+  {
+    "id": 3056,
+    "lemma": "كَبُرَ",
+    "meaning": "to become great, to grow up, burdensome, great, greatly",
+    "transliteration": "kabura",
+    "lemmaId": 989
+  },
+  {
+    "id": 3057,
+    "lemma": "كَبِير",
+    "meaning": "great, large, chief, Grand, eldest, great age, Most Great",
+    "transliteration": "kabīr",
+    "lemmaId": 292
+  },
+  {
+    "id": 3058,
+    "lemma": "كَبِيرَة",
+    "meaning": "great, big, heavy",
+    "transliteration": "kabīrahtu",
+    "lemmaId": 1094
+  },
+  {
+    "id": 3059,
+    "lemma": "كَبِّرْ",
+    "meaning": "glorify",
+    "transliteration": "kabbir",
+    "lemmaId": 1603
+  },
+  {
+    "id": 3060,
+    "lemma": "كَتَبَ",
+    "meaning": "to write, to prescribe, to decree",
+    "transliteration": "kataba",
+    "lemmaId": 240
+  },
+  {
+    "id": 3061,
+    "lemma": "كَتَمَ",
+    "meaning": "to conceal",
+    "transliteration": "katama",
+    "lemmaId": 483
+  },
+  {
+    "id": 3062,
+    "lemma": "كَثُرَ",
+    "meaning": "to be much, to be numerous",
+    "transliteration": "kathura",
+    "lemmaId": 2570
+  },
+  {
+    "id": 3063,
+    "lemma": "كَثِيب",
+    "meaning": "heap of sand",
+    "transliteration": "kathīb",
+    "lemmaId": 4035
+  },
+  {
+    "id": 3064,
+    "lemma": "كَثِير",
+    "meaning": "many, much, abundant, abundance",
+    "transliteration": "kathīr",
+    "lemmaId": 190
+  },
+  {
+    "id": 3065,
+    "lemma": "كَثِيرَة",
+    "meaning": "many, much, abundant, large",
+    "transliteration": "kathīrata",
+    "lemmaId": 782
+  },
+  {
+    "id": 3066,
+    "lemma": "كَثَّرَ",
+    "meaning": "to increase",
+    "transliteration": "kaththara",
+    "lemmaId": 4036
+  },
+  {
+    "id": 3067,
+    "lemma": "كَثْرَة",
+    "meaning": "abundance",
+    "transliteration": "kath'ra",
+    "lemmaId": 2571
+  },
+  {
+    "id": 3068,
+    "lemma": "كَدْح",
+    "meaning": "continuous exertion",
+    "transliteration": "kadḥ",
+    "lemmaId": 4037
+  },
+  {
+    "id": 3069,
+    "lemma": "كَذَبَ",
+    "meaning": "to lie, to deny",
+    "transliteration": "kaḏaba",
+    "lemmaId": 783
+  },
+  {
+    "id": 3070,
+    "lemma": "كَذِب",
+    "meaning": "falsehood, lie",
+    "transliteration": "kaḏib",
+    "lemmaId": 343
+  },
+  {
+    "id": 3071,
+    "lemma": "كَذّاب",
+    "meaning": "habitual liar",
+    "transliteration": "kaḏḏāb",
+    "lemmaId": 1381
+  },
+  {
+    "id": 3072,
+    "lemma": "كَذَّبَ",
+    "meaning": "to reject, to deny",
+    "transliteration": "kaḏḏaba",
+    "lemmaId": 70
+  },
+  {
+    "id": 3073,
+    "lemma": "كَرِهَ",
+    "meaning": "to dislike, to hate",
+    "transliteration": "kariha",
+    "lemmaId": 570
+  },
+  {
+    "id": 3074,
+    "lemma": "كَرِيم",
+    "meaning": "noble, nobility, honorable",
+    "transliteration": "karīm",
+    "lemmaId": 367
+  },
+  {
+    "id": 3075,
+    "lemma": "كَرَّة",
+    "meaning": "return, another chance, another return",
+    "transliteration": "karrata",
+    "lemmaId": 1208
+  },
+  {
+    "id": 3076,
+    "lemma": "كَرَّمْ",
+    "meaning": "to honor",
+    "transliteration": "karram",
+    "lemmaId": 2572
+  },
+  {
+    "id": 3077,
+    "lemma": "كَرَّهَ",
+    "meaning": "to make hateful",
+    "transliteration": "karraha",
+    "lemmaId": 4038
+  },
+  {
+    "id": 3078,
+    "lemma": "كَرْب",
+    "meaning": "distress",
+    "transliteration": "karb",
+    "lemmaId": 1604
+  },
+  {
+    "id": 3079,
+    "lemma": "كَرْه",
+    "meaning": "reluctantly, by compulsion",
+    "transliteration": "karh",
+    "lemmaId": 1382
+  },
+  {
+    "id": 3080,
+    "lemma": "كَساد",
+    "meaning": "stagnation",
+    "transliteration": "kasād",
+    "lemmaId": 4039
+  },
+  {
+    "id": 3081,
+    "lemma": "كَسَبَ",
+    "meaning": "to earn",
+    "transliteration": "kasaba",
+    "lemmaId": 193
+  },
+  {
+    "id": 3082,
+    "lemma": "كَشَفَ",
+    "meaning": "to remove, to uncover",
+    "transliteration": "kashafa",
+    "lemmaId": 654
+  },
+  {
+    "id": 3083,
+    "lemma": "كَشْف",
+    "meaning": "removal",
+    "transliteration": "kashf",
+    "lemmaId": 4040
+  },
+  {
+    "id": 3084,
+    "lemma": "كَظِيم",
+    "meaning": "filled with suppressed grief",
+    "transliteration": "kaẓīm",
+    "lemmaId": 1950
+  },
+  {
+    "id": 3085,
+    "lemma": "كَعْبَة",
+    "meaning": "Al-Ka'bah",
+    "transliteration": "kaʿbat",
+    "lemmaId": 2573
+  },
+  {
+    "id": 3086,
+    "lemma": "كَعْبَيْن",
+    "meaning": "two ankles",
+    "transliteration": "kaʿbayn",
+    "lemmaId": 4041
+  },
+  {
+    "id": 3087,
+    "lemma": "كَفَرَ",
+    "meaning": "to disbelieve",
+    "transliteration": "kafara",
+    "lemmaId": 45
+  },
+  {
+    "id": 3088,
+    "lemma": "كَفَى",
+    "meaning": "to be sufficient",
+    "transliteration": "kafā",
+    "lemmaId": 351
+  },
+  {
+    "id": 3089,
+    "lemma": "كَفُور",
+    "meaning": "inherently ungrateful, inherent disbeliever",
+    "transliteration": "kafūr",
+    "lemmaId": 735
+  },
+  {
+    "id": 3090,
+    "lemma": "كَفِيل",
+    "meaning": "guarantor",
+    "transliteration": "kafīl",
+    "lemmaId": 4042
+  },
+  {
+    "id": 3091,
+    "lemma": "كَفّار",
+    "meaning": "habitually ungrateful, habitual disbeliever",
+    "transliteration": "kaffār",
+    "lemmaId": 1383
+  },
+  {
+    "id": 3092,
+    "lemma": "كَفّارَة",
+    "meaning": "expiation",
+    "transliteration": "kaffāra",
+    "lemmaId": 1605
+  },
+  {
+    "id": 3093,
+    "lemma": "كَفَّ",
+    "meaning": "to restrain",
+    "transliteration": "kaffa",
+    "lemmaId": 990
+  },
+  {
+    "id": 3094,
+    "lemma": "كَفَّرَ",
+    "meaning": "to expiate",
+    "transliteration": "kaffara",
+    "lemmaId": 655
+  },
+  {
+    "id": 3095,
+    "lemma": "كَفَّلَ",
+    "meaning": "to entrust",
+    "transliteration": "kaffala",
+    "lemmaId": 4043
+  },
+  {
+    "id": 3096,
+    "lemma": "كَفَّي",
+    "meaning": "two palms",
+    "transliteration": "kaffaya",
+    "lemmaId": 2574
+  },
+  {
+    "id": 3097,
+    "lemma": "كَلالَة",
+    "meaning": "one without parent or child",
+    "transliteration": "kalālat",
+    "lemmaId": 2575
+  },
+  {
+    "id": 3098,
+    "lemma": "كَلام",
+    "meaning": "speech",
+    "transliteration": "kalam",
+    "lemmaId": 1606
+  },
+  {
+    "id": 3099,
+    "lemma": "كَلِم",
+    "meaning": "words",
+    "transliteration": "kalimi",
+    "lemmaId": 1607
+  },
+  {
+    "id": 3100,
+    "lemma": "كَلِمَة",
+    "meaning": "word",
+    "transliteration": "kalimata",
+    "lemmaId": 275
+  },
+  {
+    "id": 3101,
+    "lemma": "كَلّ",
+    "meaning": "burden",
+    "transliteration": "kall",
+    "lemmaId": 4044
+  },
+  {
+    "id": 3102,
+    "lemma": "كَلَّمَ",
+    "meaning": "to speak",
+    "transliteration": "kallama",
+    "lemmaId": 509
+  },
+  {
+    "id": 3103,
+    "lemma": "كَلْب",
+    "meaning": "dog",
+    "transliteration": "kalb",
+    "lemmaId": 1384
+  },
+  {
+    "id": 3104,
+    "lemma": "كَم",
+    "meaning": "how many",
+    "transliteration": "kama",
+    "lemmaId": 484
+  },
+  {
+    "id": 3105,
+    "lemma": "كَنز",
+    "meaning": "treasure",
+    "transliteration": "kanz",
+    "lemmaId": 1209
+  },
+  {
+    "id": 3106,
+    "lemma": "كَنَزْ",
+    "meaning": "to hoard",
+    "transliteration": "kanaz",
+    "lemmaId": 1951
+  },
+  {
+    "id": 3107,
+    "lemma": "كَنُود",
+    "meaning": "ungrateful",
+    "transliteration": "kanūd",
+    "lemmaId": 4045
+  },
+  {
+    "id": 3108,
+    "lemma": "كَهْف",
+    "meaning": "cave",
+    "transliteration": "kahf",
+    "lemmaId": 1210
+  },
+  {
+    "id": 3109,
+    "lemma": "كَهْل",
+    "meaning": "maturity",
+    "transliteration": "kahla",
+    "lemmaId": 2576
+  },
+  {
+    "id": 3110,
+    "lemma": "كَواعِب",
+    "meaning": "graceful companions",
+    "transliteration": "kawāʿib",
+    "lemmaId": 4046
+  },
+  {
+    "id": 3111,
+    "lemma": "كَوافِر",
+    "meaning": "disbelieving women",
+    "transliteration": "kawāfir",
+    "lemmaId": 4047
+  },
+  {
+    "id": 3112,
+    "lemma": "كَوْثَر",
+    "meaning": "al-Kawthar",
+    "transliteration": "kawthar",
+    "lemmaId": 4048
+  },
+  {
+    "id": 3113,
+    "lemma": "كَوْكَب",
+    "meaning": "star",
+    "transliteration": "kawkab",
+    "lemmaId": 1385
+  },
+  {
+    "id": 3114,
+    "lemma": "كَيْد",
+    "meaning": "plot, plan, scheme",
+    "transliteration": "kayd",
+    "lemmaId": 415
+  },
+  {
+    "id": 3115,
+    "lemma": "كَيْف",
+    "meaning": "how",
+    "transliteration": "kayfa",
+    "lemmaId": 138
+  },
+  {
+    "id": 3116,
+    "lemma": "كَيْل",
+    "meaning": "measure",
+    "transliteration": "kayl",
+    "lemmaId": 842
+  },
+  {
+    "id": 3117,
+    "lemma": "كُبَراء",
+    "meaning": "prominent ones",
+    "transliteration": "kubārā",
+    "lemmaId": 4049
+  },
+  {
+    "id": 3118,
+    "lemma": "كُبِتَ",
+    "meaning": "to be disgraced",
+    "transliteration": "kubita",
+    "lemmaId": 1952
+  },
+  {
+    "id": 3119,
+    "lemma": "كُبّار",
+    "meaning": "immense",
+    "transliteration": "kubbār",
+    "lemmaId": 4050
+  },
+  {
+    "id": 3120,
+    "lemma": "كُبَّتْ",
+    "meaning": "to be cast down",
+    "transliteration": "kubbat",
+    "lemmaId": 4051
+  },
+  {
+    "id": 3121,
+    "lemma": "كُبْكِبُ",
+    "meaning": "to be cast down one upon another",
+    "transliteration": "kubkibu",
+    "lemmaId": 4052
+  },
+  {
+    "id": 3122,
+    "lemma": "كُرْه",
+    "meaning": "with hardship, disliked",
+    "transliteration": "kurh",
+    "lemmaId": 1953
+  },
+  {
+    "id": 3123,
+    "lemma": "كُسالَى",
+    "meaning": "lazy",
+    "transliteration": "kusālā",
+    "lemmaId": 2578
+  },
+  {
+    "id": 3124,
+    "lemma": "كُشِطَتْ",
+    "meaning": "stripped away",
+    "transliteration": "kušiṭat",
+    "lemmaId": 4053
+  },
+  {
+    "id": 3125,
+    "lemma": "كُفُو",
+    "meaning": "equal",
+    "transliteration": "kufū",
+    "lemmaId": 4054
+  },
+  {
+    "id": 3126,
+    "lemma": "كُفُور",
+    "meaning": "acts of disbelief",
+    "transliteration": "kufūr",
+    "lemmaId": 1954
+  },
+  {
+    "id": 3127,
+    "lemma": "كُفْر",
+    "meaning": "disbelief",
+    "transliteration": "kuf'r",
+    "lemmaId": 315
+  },
+  {
+    "id": 3128,
+    "lemma": "كُفْران",
+    "meaning": "denial",
+    "transliteration": "kuf'rān",
+    "lemmaId": 4055
+  },
+  {
+    "id": 3129,
+    "lemma": "كُلّ",
+    "meaning": "every, all",
+    "transliteration": "kull",
+    "lemmaId": 36
+  },
+  {
+    "id": 3130,
+    "lemma": "كُلَّما",
+    "meaning": "whenever, every time",
+    "transliteration": "kullamā",
+    "lemmaId": 624
+  },
+  {
+    "id": 3131,
+    "lemma": "كُنَّس",
+    "meaning": "withdraw",
+    "transliteration": "kunnas",
+    "lemmaId": 4056
+  },
+  {
+    "id": 3132,
+    "lemma": "كُوِّرَتْ",
+    "meaning": "to wrap, to be folded up",
+    "transliteration": "kūwirat",
+    "lemmaId": 1955
+  },
+  {
+    "id": 3133,
+    "lemma": "كِبَر",
+    "meaning": "old age",
+    "transliteration": "kibar",
+    "lemmaId": 1211
+  },
+  {
+    "id": 3134,
+    "lemma": "كِبْر",
+    "meaning": "arrogance",
+    "transliteration": "kib'r",
+    "lemmaId": 2579
+  },
+  {
+    "id": 3135,
+    "lemma": "كِبْرِياء",
+    "meaning": "grandeur, supremacy",
+    "transliteration": "kib'rīā",
+    "lemmaId": 2580
+  },
+  {
+    "id": 3136,
+    "lemma": "كِتاب",
+    "meaning": "book, scripture, record, decree, decreed",
+    "transliteration": "kitāb",
+    "lemmaId": 55
+  },
+  {
+    "id": 3137,
+    "lemma": "كِتابِي",
+    "meaning": "letter",
+    "transliteration": "kitābī",
+    "lemmaId": 4057
+  },
+  {
+    "id": 3138,
+    "lemma": "كِذّاب",
+    "meaning": "persistent rejection, falsehood",
+    "transliteration": "kiḏḏāb",
+    "lemmaId": 2581
+  },
+  {
+    "id": 3139,
+    "lemma": "كِسَف",
+    "meaning": "fragments",
+    "transliteration": "kisaf",
+    "lemmaId": 1608
+  },
+  {
+    "id": 3140,
+    "lemma": "كِسْف",
+    "meaning": "fragment",
+    "transliteration": "kisf",
+    "lemmaId": 4058
+  },
+  {
+    "id": 3141,
+    "lemma": "كِسْوَت",
+    "meaning": "clothing",
+    "transliteration": "kiswat",
+    "lemmaId": 2582
+  },
+  {
+    "id": 3142,
+    "lemma": "كِفات",
+    "meaning": "a place of containment",
+    "transliteration": "kifāt",
+    "lemmaId": 4059
+  },
+  {
+    "id": 3143,
+    "lemma": "كِفْل",
+    "meaning": "portion, Dhu al-Kifl",
+    "transliteration": "kifl",
+    "lemmaId": 1609
+  },
+  {
+    "id": 3144,
+    "lemma": "كِلْتا",
+    "meaning": "each of",
+    "transliteration": "kil'tā",
+    "lemmaId": 4061
+  },
+  {
+    "id": 3145,
+    "lemma": "كِيدُ",
+    "meaning": "to scheme, to plot, to plan",
+    "transliteration": "kīdu",
+    "lemmaId": 991
+  },
+  {
+    "id": 3146,
+    "lemma": "ل",
+    "meaning": "for, to, so that, surely",
+    "transliteration": "li",
+    "lemmaId": 3
+  },
+  {
+    "id": 3147,
+    "lemma": "لا",
+    "meaning": "no, not",
+    "transliteration": "lā",
+    "lemmaId": 9
+  },
+  {
+    "id": 3148,
+    "lemma": "لائِم",
+    "meaning": "one who blames",
+    "transliteration": "lāim",
+    "lemmaId": 4062
+  },
+  {
+    "id": 3149,
+    "lemma": "لابِث",
+    "meaning": "remaining",
+    "transliteration": "lābit",
+    "lemmaId": 4063
+  },
+  {
+    "id": 3150,
+    "lemma": "لاتَ",
+    "meaning": "no longer",
+    "transliteration": "lāta",
+    "lemmaId": 4064
+  },
+  {
+    "id": 3151,
+    "lemma": "لازِب",
+    "meaning": "cohesive",
+    "transliteration": "lāzib",
+    "lemmaId": 4065
+  },
+  {
+    "id": 3152,
+    "lemma": "لاعِب",
+    "meaning": "in play, those who jest",
+    "transliteration": "lāʿib",
+    "lemmaId": 1956
+  },
+  {
+    "id": 3153,
+    "lemma": "لاعِن",
+    "meaning": "those who curse",
+    "transliteration": "lāʿin",
+    "lemmaId": 4066
+  },
+  {
+    "id": 3154,
+    "lemma": "لاغِيَة",
+    "meaning": "vain utterance",
+    "transliteration": "lāghiyah",
+    "lemmaId": 4067
+  },
+  {
+    "id": 3155,
+    "lemma": "لاقِي",
+    "meaning": "will meet",
+    "transliteration": "lāqī",
+    "lemmaId": 4068
+  },
+  {
+    "id": 3156,
+    "lemma": "لاهِيَة",
+    "meaning": "distracted",
+    "transliteration": "lāhīya",
+    "lemmaId": 4069
+  },
+  {
+    "id": 3157,
+    "lemma": "لَبَسْ",
+    "meaning": "to obscure, to confuse, to wear, to mix",
+    "transliteration": "labas",
+    "lemmaId": 784
+  },
+  {
+    "id": 3158,
+    "lemma": "لَبَن",
+    "meaning": "milk",
+    "transliteration": "laban",
+    "lemmaId": 2583
+  },
+  {
+    "id": 3159,
+    "lemma": "لَبُوس",
+    "meaning": "coat of armor",
+    "transliteration": "labūs",
+    "lemmaId": 4070
+  },
+  {
+    "id": 3160,
+    "lemma": "لَبِثَ",
+    "meaning": "to remain, to stay, to delay",
+    "transliteration": "labitha",
+    "lemmaId": 368
+  },
+  {
+    "id": 3161,
+    "lemma": "لَبْس",
+    "meaning": "confusion",
+    "transliteration": "labsa",
+    "lemmaId": 4071
+  },
+  {
+    "id": 3162,
+    "lemma": "لَجُّ",
+    "meaning": "to persist",
+    "transliteration": "lajju",
+    "lemmaId": 2584
+  },
+  {
+    "id": 3163,
+    "lemma": "لَحْم",
+    "meaning": "flesh, meat",
+    "transliteration": "laḥm",
+    "lemmaId": 736
+  },
+  {
+    "id": 3164,
+    "lemma": "لَحْن",
+    "meaning": "tone",
+    "transliteration": "laḥn",
+    "lemmaId": 4072
+  },
+  {
+    "id": 3165,
+    "lemma": "لَدُن",
+    "meaning": "presence, directly",
+    "transliteration": "ladun",
+    "lemmaId": 543
+  },
+  {
+    "id": 3166,
+    "lemma": "لَذَّة",
+    "meaning": "delight",
+    "transliteration": "ladhdha",
+    "lemmaId": 2585
+  },
+  {
+    "id": 3167,
+    "lemma": "لَطِيف",
+    "meaning": "Subtle and Most Gentle",
+    "transliteration": "laṭīf",
+    "lemmaId": 1096
+  },
+  {
+    "id": 3168,
+    "lemma": "لَظَى",
+    "meaning": "flame of Hell",
+    "transliteration": "laẓā",
+    "lemmaId": 4073
+  },
+  {
+    "id": 3169,
+    "lemma": "لَعَنَ",
+    "meaning": "to curse",
+    "transliteration": "laʿana",
+    "lemmaId": 452
+  },
+  {
+    "id": 3170,
+    "lemma": "لَعِب",
+    "meaning": "amusement",
+    "transliteration": "laʿiba",
+    "lemmaId": 992
+  },
+  {
+    "id": 3171,
+    "lemma": "لَعْن",
+    "meaning": "curse",
+    "transliteration": "laʿn",
+    "lemmaId": 4074
+  },
+  {
+    "id": 3172,
+    "lemma": "لَعْنَة",
+    "meaning": "curse",
+    "transliteration": "laʿnata",
+    "lemmaId": 656
+  },
+  {
+    "id": 3173,
+    "lemma": "لَغْو",
+    "meaning": "vain talk",
+    "transliteration": "laghwa",
+    "lemmaId": 917
+  },
+  {
+    "id": 3174,
+    "lemma": "لَفِيف",
+    "meaning": "mixed gathering",
+    "transliteration": "lafīf",
+    "lemmaId": 4075
+  },
+  {
+    "id": 3175,
+    "lemma": "لَقُ",
+    "meaning": "to receive, to meet",
+    "transliteration": "laqu",
+    "lemmaId": 657
+  },
+  {
+    "id": 3176,
+    "lemma": "لَقَّى",
+    "meaning": "to cause to meet, to grant, to receive",
+    "transliteration": "laqā",
+    "lemmaId": 1212
+  },
+  {
+    "id": 3177,
+    "lemma": "لَم",
+    "meaning": "did not",
+    "transliteration": "lam",
+    "lemmaId": 37
+  },
+  {
+    "id": 3178,
+    "lemma": "لَمَسُ",
+    "meaning": "to touch, to seek out",
+    "transliteration": "lamasu",
+    "lemmaId": 1610
+  },
+  {
+    "id": 3179,
+    "lemma": "لَمَم",
+    "meaning": "minor sins",
+    "transliteration": "lamama",
+    "lemmaId": 4076
+  },
+  {
+    "id": 3180,
+    "lemma": "لَمّ",
+    "meaning": "completely",
+    "transliteration": "lamm",
+    "lemmaId": 4077
+  },
+  {
+    "id": 3181,
+    "lemma": "لَمْح",
+    "meaning": "twinkling",
+    "transliteration": "lamḥ",
+    "lemmaId": 2586
+  },
+  {
+    "id": 3182,
+    "lemma": "لَهَب",
+    "meaning": "blazing flame, Lahab",
+    "transliteration": "lahab",
+    "lemmaId": 1957
+  },
+  {
+    "id": 3183,
+    "lemma": "لَهْو",
+    "meaning": "amusement, diversion, idle pastime",
+    "transliteration": "lahw",
+    "lemmaId": 843
+  },
+  {
+    "id": 3184,
+    "lemma": "لَواقِح",
+    "meaning": "fertilizing",
+    "transliteration": "lawāqiḥ",
+    "lemmaId": 4078
+  },
+  {
+    "id": 3185,
+    "lemma": "لَوّاحَة",
+    "meaning": "scorching",
+    "transliteration": "lawwāḥa",
+    "lemmaId": 4079
+  },
+  {
+    "id": 3186,
+    "lemma": "لَوّامَة",
+    "meaning": "self-reproaching",
+    "transliteration": "lawwāmatun",
+    "lemmaId": 4080
+  },
+  {
+    "id": 3187,
+    "lemma": "لَوَّ",
+    "meaning": "to turn aside",
+    "transliteration": "lawwa",
+    "lemmaId": 4081
+  },
+  {
+    "id": 3188,
+    "lemma": "لَوْح",
+    "meaning": "tablet, plank",
+    "transliteration": "lawḥ",
+    "lemmaId": 1386
+  },
+  {
+    "id": 3189,
+    "lemma": "لَوْمَة",
+    "meaning": "blame",
+    "transliteration": "lawmatun",
+    "lemmaId": 4082
+  },
+  {
+    "id": 3190,
+    "lemma": "لَوْن",
+    "meaning": "color",
+    "transliteration": "lawn",
+    "lemmaId": 918
+  },
+  {
+    "id": 3191,
+    "lemma": "لَيّ",
+    "meaning": "to distort",
+    "transliteration": "layy",
+    "lemmaId": 4083
+  },
+  {
+    "id": 3192,
+    "lemma": "لَيِّن",
+    "meaning": "gentle",
+    "transliteration": "layyin",
+    "lemmaId": 4084
+  },
+  {
+    "id": 3193,
+    "lemma": "لَيْت",
+    "meaning": "if only",
+    "transliteration": "layta",
+    "lemmaId": 658
+  },
+  {
+    "id": 3194,
+    "lemma": "لَيْل",
+    "meaning": "night",
+    "transliteration": "layl",
+    "lemmaId": 134
+  },
+  {
+    "id": 3195,
+    "lemma": "لَيْلَة",
+    "meaning": "night",
+    "transliteration": "laylat",
+    "lemmaId": 993
+  },
+  {
+    "id": 3196,
+    "lemma": "لُؤْلُؤ",
+    "meaning": "pearls",
+    "transliteration": "lu'lū",
+    "lemmaId": 1213
+  },
+  {
+    "id": 3197,
+    "lemma": "لُبَد",
+    "meaning": "heaps",
+    "transliteration": "lubada",
+    "lemmaId": 4085
+  },
+  {
+    "id": 3198,
+    "lemma": "لُجَّة",
+    "meaning": "expanse of water",
+    "transliteration": "lujjata",
+    "lemmaId": 4086
+  },
+  {
+    "id": 3199,
+    "lemma": "لُجِّيّ",
+    "meaning": "vast and deep",
+    "transliteration": "lujjiyy",
+    "lemmaId": 4087
+  },
+  {
+    "id": 3200,
+    "lemma": "لُدّ",
+    "meaning": "argumentative",
+    "transliteration": "ludd",
+    "lemmaId": 4088
+  },
+  {
+    "id": 3201,
+    "lemma": "لُغُوب",
+    "meaning": "exhaustion",
+    "transliteration": "lughūb",
+    "lemmaId": 2587
+  },
+  {
+    "id": 3202,
+    "lemma": "لُقْمان",
+    "meaning": "Luqmān",
+    "transliteration": "luq'mān",
+    "lemmaId": 2588
+  },
+  {
+    "id": 3203,
+    "lemma": "لُمَزَة",
+    "meaning": "insulter",
+    "transliteration": "lumazata",
+    "lemmaId": 4089
+  },
+  {
+    "id": 3204,
+    "lemma": "لُمْ",
+    "meaning": "to blame",
+    "transliteration": "lum",
+    "lemmaId": 1958
+  },
+  {
+    "id": 3205,
+    "lemma": "لُوط",
+    "meaning": "Lūṭ",
+    "transliteration": "lūṭ",
+    "lemmaId": 401
+  },
+  {
+    "id": 3206,
+    "lemma": "لِباس",
+    "meaning": "clothing, garment, covering",
+    "transliteration": "libās",
+    "lemmaId": 844
+  },
+  {
+    "id": 3207,
+    "lemma": "لِبَد",
+    "meaning": "compact mass",
+    "transliteration": "libada",
+    "lemmaId": 4090
+  },
+  {
+    "id": 3208,
+    "lemma": "لِحْيَت",
+    "meaning": "beard",
+    "transliteration": "liḥyata",
+    "lemmaId": 4091
+  },
+  {
+    "id": 3209,
+    "lemma": "لِزام",
+    "meaning": "binding",
+    "transliteration": "lizām",
+    "lemmaId": 2589
+  },
+  {
+    "id": 3210,
+    "lemma": "لِسان",
+    "meaning": "tongue, language, speech",
+    "transliteration": "lisān",
+    "lemmaId": 426
+  },
+  {
+    "id": 3211,
+    "lemma": "لِقاء",
+    "meaning": "meeting",
+    "transliteration": "liqāʾ",
+    "lemmaId": 438
+  },
+  {
+    "id": 3212,
+    "lemma": "لِن",
+    "meaning": "to deal gently, to become soft",
+    "transliteration": "lin",
+    "lemmaId": 2590
+  },
+  {
+    "id": 3213,
+    "lemma": "لِواذ",
+    "meaning": "seeking cover",
+    "transliteration": "liwādh",
+    "lemmaId": 4092
+  },
+  {
+    "id": 3214,
+    "lemma": "لِينَة",
+    "meaning": "palm tree",
+    "transliteration": "līnata",
+    "lemmaId": 4093
+  },
+  {
+    "id": 3215,
+    "lemma": "ما",
+    "meaning": "what, not",
+    "transliteration": "mā",
+    "lemmaId": 7
+  },
+  {
+    "id": 3216,
+    "lemma": "ماء",
+    "meaning": "water",
+    "transliteration": "māʾ",
+    "lemmaId": 191
+  },
+  {
+    "id": 3217,
+    "lemma": "مائِدَة",
+    "meaning": "table spread with food",
+    "transliteration": "māidata",
+    "lemmaId": 2591
+  },
+  {
+    "id": 3218,
+    "lemma": "ماتَ",
+    "meaning": "to die",
+    "transliteration": "māta",
+    "lemmaId": 300
+  },
+  {
+    "id": 3219,
+    "lemma": "مارُوت",
+    "meaning": "Mārūt",
+    "transliteration": "mārūt",
+    "lemmaId": 4094
+  },
+  {
+    "id": 3220,
+    "lemma": "مارِج",
+    "meaning": "smokeless flame",
+    "transliteration": "mārij",
+    "lemmaId": 4095
+  },
+  {
+    "id": 3221,
+    "lemma": "مارِد",
+    "meaning": "rebellious",
+    "transliteration": "mārid",
+    "lemmaId": 4096
+  },
+  {
+    "id": 3222,
+    "lemma": "ماعُون",
+    "meaning": "small kindness",
+    "transliteration": "māʿūn",
+    "lemmaId": 4097
+  },
+  {
+    "id": 3223,
+    "lemma": "ماكِث",
+    "meaning": "remaining, abiding",
+    "transliteration": "mākith",
+    "lemmaId": 2592
+  },
+  {
+    "id": 3224,
+    "lemma": "ماكِر",
+    "meaning": "strategic planners",
+    "transliteration": "mākir",
+    "lemmaId": 2593
+  },
+  {
+    "id": 3225,
+    "lemma": "مال",
+    "meaning": "wealth",
+    "transliteration": "māl",
+    "lemmaId": 129
+  },
+  {
+    "id": 3226,
+    "lemma": "مالِك",
+    "meaning": "owner, master, Malik",
+    "transliteration": "mālik",
+    "lemmaId": 1611
+  },
+  {
+    "id": 3227,
+    "lemma": "مانِعَت",
+    "meaning": "defending",
+    "transliteration": "māniʿat",
+    "lemmaId": 4098
+  },
+  {
+    "id": 3228,
+    "lemma": "ماهِد",
+    "meaning": "Preparers",
+    "transliteration": "māhid",
+    "lemmaId": 4099
+  },
+  {
+    "id": 3229,
+    "lemma": "مَآب",
+    "meaning": "return, abode",
+    "transliteration": "māb",
+    "lemmaId": 919
+  },
+  {
+    "id": 3230,
+    "lemma": "مَآرِب",
+    "meaning": "needs",
+    "transliteration": "mārib",
+    "lemmaId": 4100
+  },
+  {
+    "id": 3231,
+    "lemma": "مَأْتِيّ",
+    "meaning": "sure to come",
+    "transliteration": "ma'tiyy",
+    "lemmaId": 4101
+  },
+  {
+    "id": 3232,
+    "lemma": "مَأْجُوج",
+    "meaning": "Ma’jūj",
+    "transliteration": "maʾjūj",
+    "lemmaId": 2595
+  },
+  {
+    "id": 3233,
+    "lemma": "مَأْكُول",
+    "meaning": "eaten",
+    "transliteration": "maʾkūl",
+    "lemmaId": 4102
+  },
+  {
+    "id": 3234,
+    "lemma": "مَأْمَن",
+    "meaning": "place of safety",
+    "transliteration": "ma'mana",
+    "lemmaId": 4103
+  },
+  {
+    "id": 3235,
+    "lemma": "مَأْمُون",
+    "meaning": "secure",
+    "transliteration": "maʾmūn",
+    "lemmaId": 4104
+  },
+  {
+    "id": 3236,
+    "lemma": "مَأْوَى",
+    "meaning": "refuge",
+    "transliteration": "maʾwā",
+    "lemmaId": 468
+  },
+  {
+    "id": 3237,
+    "lemma": "مَبْثُوث",
+    "meaning": "scattered",
+    "transliteration": "mabthūth",
+    "lemmaId": 4105
+  },
+  {
+    "id": 3238,
+    "lemma": "مَبْثُوثَة",
+    "meaning": "spread out",
+    "transliteration": "mabthūtha",
+    "lemmaId": 4106
+  },
+  {
+    "id": 3239,
+    "lemma": "مَبْسُوطَتان",
+    "meaning": "two outstretched",
+    "transliteration": "mab'sūṭatan",
+    "lemmaId": 4107
+  },
+  {
+    "id": 3240,
+    "lemma": "مَبْعُوث",
+    "meaning": "resurrected",
+    "transliteration": "mabʿūth",
+    "lemmaId": 920
+  },
+  {
+    "id": 3241,
+    "lemma": "مَبْلَغ",
+    "meaning": "extent",
+    "transliteration": "mablagh",
+    "lemmaId": 4108
+  },
+  {
+    "id": 3242,
+    "lemma": "مَبْنِيَّة",
+    "meaning": "constructed in layers",
+    "transliteration": "mabniyya",
+    "lemmaId": 4109
+  },
+  {
+    "id": 3243,
+    "lemma": "مَتاب",
+    "meaning": "place of return",
+    "transliteration": "matāb",
+    "lemmaId": 2596
+  },
+  {
+    "id": 3244,
+    "lemma": "مَتاع",
+    "meaning": "provisions, enjoyment",
+    "transliteration": "matā",
+    "lemmaId": 331
+  },
+  {
+    "id": 3245,
+    "lemma": "مَتِين",
+    "meaning": "firm",
+    "transliteration": "matīn",
+    "lemmaId": 1959
+  },
+  {
+    "id": 3246,
+    "lemma": "مَتَّعْ",
+    "meaning": "to grant provision, to allow enjoyment, to provide a gift",
+    "transliteration": "mattʿ",
+    "lemmaId": 544
+  },
+  {
+    "id": 3247,
+    "lemma": "مَتْرَبَة",
+    "meaning": "extreme destitution",
+    "transliteration": "matrabah",
+    "lemmaId": 4110
+  },
+  {
+    "id": 3248,
+    "lemma": "مَثابَة",
+    "meaning": "place of return",
+    "transliteration": "mathābata",
+    "lemmaId": 4111
+  },
+  {
+    "id": 3249,
+    "lemma": "مَثانِي",
+    "meaning": "oft-repeated, repetition",
+    "transliteration": "mathānī",
+    "lemmaId": 2597
+  },
+  {
+    "id": 3250,
+    "lemma": "مَثَل",
+    "meaning": "example, likeness",
+    "transliteration": "mathal",
+    "lemmaId": 126
+  },
+  {
+    "id": 3251,
+    "lemma": "مَثُلَة",
+    "meaning": "examples",
+    "transliteration": "mathulah",
+    "lemmaId": 4112
+  },
+  {
+    "id": 3252,
+    "lemma": "مَثُوبَة",
+    "meaning": "reward",
+    "transliteration": "mathūbata",
+    "lemmaId": 2598
+  },
+  {
+    "id": 3253,
+    "lemma": "مَثْبُور",
+    "meaning": "destroyed",
+    "transliteration": "mathbūr",
+    "lemmaId": 4113
+  },
+  {
+    "id": 3254,
+    "lemma": "مَثْنَى",
+    "meaning": "pairs, two",
+    "transliteration": "mathnā",
+    "lemmaId": 1960
+  },
+  {
+    "id": 3255,
+    "lemma": "مَثْوًى",
+    "meaning": "place of stay",
+    "transliteration": "mathwā",
+    "lemmaId": 687
+  },
+  {
+    "id": 3256,
+    "lemma": "مَجالِس",
+    "meaning": "assemblies",
+    "transliteration": "majālis",
+    "lemmaId": 4114
+  },
+  {
+    "id": 3257,
+    "lemma": "مَجُوس",
+    "meaning": "Magians",
+    "transliteration": "majūs",
+    "lemmaId": 4115
+  },
+  {
+    "id": 3258,
+    "lemma": "مَجِيد",
+    "meaning": "Glorious",
+    "transliteration": "majīd",
+    "lemmaId": 1612
+  },
+  {
+    "id": 3259,
+    "lemma": "مَجْذُوذ",
+    "meaning": "cut short",
+    "transliteration": "majdhūth",
+    "lemmaId": 4116
+  },
+  {
+    "id": 3260,
+    "lemma": "مَجْرى",
+    "meaning": "course",
+    "transliteration": "majrā",
+    "lemmaId": 4117
+  },
+  {
+    "id": 3261,
+    "lemma": "مَجْمَع",
+    "meaning": "meeting point",
+    "transliteration": "majmaʿ",
+    "lemmaId": 2599
+  },
+  {
+    "id": 3262,
+    "lemma": "مَجْمُوع",
+    "meaning": "gathered",
+    "transliteration": "majmūʿ",
+    "lemmaId": 2600
+  },
+  {
+    "id": 3263,
+    "lemma": "مَجْنُون",
+    "meaning": "insane",
+    "transliteration": "majnūn",
+    "lemmaId": 785
+  },
+  {
+    "id": 3264,
+    "lemma": "مَحارِيب",
+    "meaning": "elevated chambers",
+    "transliteration": "maḥārīb",
+    "lemmaId": 4118
+  },
+  {
+    "id": 3265,
+    "lemma": "مَحَبَّة",
+    "meaning": "affection",
+    "transliteration": "maḥabbata",
+    "lemmaId": 4119
+  },
+  {
+    "id": 3266,
+    "lemma": "مَحَوْ",
+    "meaning": "to erase",
+    "transliteration": "maḥaw",
+    "lemmaId": 1961
+  },
+  {
+    "id": 3267,
+    "lemma": "مَحِلّ",
+    "meaning": "place of sacrifice",
+    "transliteration": "maḥill",
+    "lemmaId": 1962
+  },
+  {
+    "id": 3268,
+    "lemma": "مَحِيص",
+    "meaning": "place of refuge",
+    "transliteration": "maḥīṣ",
+    "lemmaId": 1388
+  },
+  {
+    "id": 3269,
+    "lemma": "مَحِيض",
+    "meaning": "time of menstruation",
+    "transliteration": "maḥīḍ",
+    "lemmaId": 1963
+  },
+  {
+    "id": 3270,
+    "lemma": "مَحْجُوب",
+    "meaning": "veiled",
+    "transliteration": "maḥjūb",
+    "lemmaId": 4120
+  },
+  {
+    "id": 3271,
+    "lemma": "مَحْجُور",
+    "meaning": "prohibited",
+    "transliteration": "maḥjūr",
+    "lemmaId": 2601
+  },
+  {
+    "id": 3272,
+    "lemma": "مَحْذُور",
+    "meaning": "feared",
+    "transliteration": "maḥdhūr",
+    "lemmaId": 4121
+  },
+  {
+    "id": 3273,
+    "lemma": "مَحْرُوم",
+    "meaning": "deprived",
+    "transliteration": "maḥrūm",
+    "lemmaId": 1613
+  },
+  {
+    "id": 3274,
+    "lemma": "مَحْسُور",
+    "meaning": "insolvent",
+    "transliteration": "maḥsūr",
+    "lemmaId": 4122
+  },
+  {
+    "id": 3275,
+    "lemma": "مَحْشُورَة",
+    "meaning": "assembled",
+    "transliteration": "maḥshūra",
+    "lemmaId": 4123
+  },
+  {
+    "id": 3276,
+    "lemma": "مَحْظُور",
+    "meaning": "restricted",
+    "transliteration": "maḥẓūr",
+    "lemmaId": 4124
+  },
+  {
+    "id": 3277,
+    "lemma": "مَحْفُوظ",
+    "meaning": "guarded, protected",
+    "transliteration": "maḥfūẓ",
+    "lemmaId": 2602
+  },
+  {
+    "id": 3278,
+    "lemma": "مَحْمُود",
+    "meaning": "praised",
+    "transliteration": "maḥmūd",
+    "lemmaId": 4125
+  },
+  {
+    "id": 3279,
+    "lemma": "مَحْيا",
+    "meaning": "manner of living, life",
+    "transliteration": "maḥyā",
+    "lemmaId": 2603
+  },
+  {
+    "id": 3280,
+    "lemma": "مَخاض",
+    "meaning": "labor pains",
+    "transliteration": "makhāḍ",
+    "lemmaId": 4126
+  },
+  {
+    "id": 3281,
+    "lemma": "مَخْتُوم",
+    "meaning": "sealed",
+    "transliteration": "makh'tūm",
+    "lemmaId": 4127
+  },
+  {
+    "id": 3282,
+    "lemma": "مَخْذُول",
+    "meaning": "forsaken",
+    "transliteration": "makhḏūl",
+    "lemmaId": 4128
+  },
+  {
+    "id": 3283,
+    "lemma": "مَخْرَج",
+    "meaning": "way out",
+    "transliteration": "makhraj",
+    "lemmaId": 4129
+  },
+  {
+    "id": 3284,
+    "lemma": "مَخْضُود",
+    "meaning": "thornless",
+    "transliteration": "makhḍūd",
+    "lemmaId": 4130
+  },
+  {
+    "id": 3285,
+    "lemma": "مَخْمَصَة",
+    "meaning": "extreme hunger",
+    "transliteration": "makhmasah",
+    "lemmaId": 2604
+  },
+  {
+    "id": 3286,
+    "lemma": "مَدائِن",
+    "meaning": "cities",
+    "transliteration": "madāʾin",
+    "lemmaId": 1964
+  },
+  {
+    "id": 3287,
+    "lemma": "مَدَد",
+    "meaning": "supply",
+    "transliteration": "madad",
+    "lemmaId": 4131
+  },
+  {
+    "id": 3288,
+    "lemma": "مَدِين",
+    "meaning": "held accountable",
+    "transliteration": "madīn",
+    "lemmaId": 2605
+  },
+  {
+    "id": 3289,
+    "lemma": "مَدِينَة",
+    "meaning": "city, town",
+    "transliteration": "madīnat",
+    "lemmaId": 659
+  },
+  {
+    "id": 3290,
+    "lemma": "مَدّ",
+    "meaning": "extension, extensively",
+    "transliteration": "madd",
+    "lemmaId": 2606
+  },
+  {
+    "id": 3291,
+    "lemma": "مَدَّ",
+    "meaning": "to stretch, to extend, to prolong",
+    "transliteration": "madda",
+    "lemmaId": 688
+  },
+  {
+    "id": 3292,
+    "lemma": "مَدْحُور",
+    "meaning": "banished, repelled",
+    "transliteration": "madḥūr",
+    "lemmaId": 1965
+  },
+  {
+    "id": 3293,
+    "lemma": "مَدْيَن",
+    "meaning": "Madyan",
+    "transliteration": "madyan",
+    "lemmaId": 845
+  },
+  {
+    "id": 3294,
+    "lemma": "مَذْءُوم",
+    "meaning": "disgraced",
+    "transliteration": "maḏʾūm",
+    "lemmaId": 4132
+  },
+  {
+    "id": 3295,
+    "lemma": "مَذْكُور",
+    "meaning": "mentioned",
+    "transliteration": "maḏkūr",
+    "lemmaId": 4133
+  },
+  {
+    "id": 3296,
+    "lemma": "مَذْمُوم",
+    "meaning": "blameworthy",
+    "transliteration": "maḏmūm",
+    "lemmaId": 1966
+  },
+  {
+    "id": 3297,
+    "lemma": "مَراضِع",
+    "meaning": "wet nurses",
+    "transliteration": "marāḍiʿ",
+    "lemmaId": 4134
+  },
+  {
+    "id": 3298,
+    "lemma": "مَرافِق",
+    "meaning": "elbows",
+    "transliteration": "marāfiq",
+    "lemmaId": 4135
+  },
+  {
+    "id": 3299,
+    "lemma": "مَرَجَ",
+    "meaning": "to let loose",
+    "transliteration": "maraja",
+    "lemmaId": 2607
+  },
+  {
+    "id": 3300,
+    "lemma": "مَرَح",
+    "meaning": "arrogantly",
+    "transliteration": "maraḥ",
+    "lemmaId": 2608
+  },
+  {
+    "id": 3301,
+    "lemma": "مَرَدُ",
+    "meaning": "to persist",
+    "transliteration": "maradu",
+    "lemmaId": 4136
+  },
+  {
+    "id": 3302,
+    "lemma": "مَرَدّ",
+    "meaning": "to turn away, to avert, to return",
+    "transliteration": "maradd",
+    "lemmaId": 1214
+  },
+  {
+    "id": 3303,
+    "lemma": "مَرَض",
+    "meaning": "disease",
+    "transliteration": "maraḍ",
+    "lemmaId": 689
+  },
+  {
+    "id": 3304,
+    "lemma": "مَرِضْ",
+    "meaning": "to be ill",
+    "transliteration": "mariḍ",
+    "lemmaId": 4137
+  },
+  {
+    "id": 3305,
+    "lemma": "مَرِيئ",
+    "meaning": "ease of digestion",
+    "transliteration": "mariya",
+    "lemmaId": 4138
+  },
+  {
+    "id": 3306,
+    "lemma": "مَرِيج",
+    "meaning": "confused",
+    "transliteration": "marīj",
+    "lemmaId": 4139
+  },
+  {
+    "id": 3307,
+    "lemma": "مَرِيد",
+    "meaning": "rebellious",
+    "transliteration": "marīd",
+    "lemmaId": 2609
+  },
+  {
+    "id": 3308,
+    "lemma": "مَرِيض",
+    "meaning": "sick person, one who is ill",
+    "transliteration": "marīḍ",
+    "lemmaId": 846
+  },
+  {
+    "id": 3309,
+    "lemma": "مَرّ",
+    "meaning": "passing",
+    "transliteration": "marr",
+    "lemmaId": 4140
+  },
+  {
+    "id": 3310,
+    "lemma": "مَرَّ",
+    "meaning": "to pass by, to move along",
+    "transliteration": "marr",
+    "lemmaId": 847
+  },
+  {
+    "id": 3311,
+    "lemma": "مَرَّة",
+    "meaning": "time, once",
+    "transliteration": "marrata",
+    "lemmaId": 510
+  },
+  {
+    "id": 3312,
+    "lemma": "مَرْء",
+    "meaning": "man, person",
+    "transliteration": "marʾ",
+    "lemmaId": 1614
+  },
+  {
+    "id": 3313,
+    "lemma": "مَرْجان",
+    "meaning": "coral",
+    "transliteration": "marjān",
+    "lemmaId": 2610
+  },
+  {
+    "id": 3314,
+    "lemma": "مَرْجُوم",
+    "meaning": "those who are stoned",
+    "transliteration": "marjūm",
+    "lemmaId": 4141
+  },
+  {
+    "id": 3315,
+    "lemma": "مَرْجُوّ",
+    "meaning": "one in whom hope is placed",
+    "transliteration": "marjūw",
+    "lemmaId": 4142
+  },
+  {
+    "id": 3316,
+    "lemma": "مَرْجِع",
+    "meaning": "place of return",
+    "transliteration": "marjiʿ",
+    "lemmaId": 596
+  },
+  {
+    "id": 3317,
+    "lemma": "مَرْحَب",
+    "meaning": "welcome",
+    "transliteration": "marḥaba",
+    "lemmaId": 2611
+  },
+  {
+    "id": 3318,
+    "lemma": "مَرْحَمَة",
+    "meaning": "compassionate deed",
+    "transliteration": "marḥamata",
+    "lemmaId": 4143
+  },
+  {
+    "id": 3319,
+    "lemma": "مَرْدُود",
+    "meaning": "returned, repelled",
+    "transliteration": "mardūd",
+    "lemmaId": 2612
+  },
+  {
+    "id": 3320,
+    "lemma": "مَرْصَد",
+    "meaning": "place of ambush",
+    "transliteration": "marṣad",
+    "lemmaId": 4144
+  },
+  {
+    "id": 3321,
+    "lemma": "مَرْصُوص",
+    "meaning": "joined firmly",
+    "transliteration": "marṣūṣ",
+    "lemmaId": 4145
+  },
+  {
+    "id": 3322,
+    "lemma": "مَرْضات",
+    "meaning": "that which pleases",
+    "transliteration": "marḍāt",
+    "lemmaId": 1389
+  },
+  {
+    "id": 3323,
+    "lemma": "مَرْضِيّ",
+    "meaning": "approved",
+    "transliteration": "marḍiyy",
+    "lemmaId": 4146
+  },
+  {
+    "id": 3324,
+    "lemma": "مَرْضِيَّة",
+    "meaning": "approved",
+    "transliteration": "marḍiyya",
+    "lemmaId": 4147
+  },
+  {
+    "id": 3325,
+    "lemma": "مَرْعَى",
+    "meaning": "pasture",
+    "transliteration": "marʿā",
+    "lemmaId": 2613
+  },
+  {
+    "id": 3326,
+    "lemma": "مَرْفُود",
+    "meaning": "granted as aid",
+    "transliteration": "marfūd",
+    "lemmaId": 4148
+  },
+  {
+    "id": 3327,
+    "lemma": "مَرْفُوع",
+    "meaning": "raised",
+    "transliteration": "marfūʿ",
+    "lemmaId": 4149
+  },
+  {
+    "id": 3328,
+    "lemma": "مَرْفُوعَة",
+    "meaning": "raised, exalted",
+    "transliteration": "marfūʿa",
+    "lemmaId": 1967
+  },
+  {
+    "id": 3329,
+    "lemma": "مَرْقَد",
+    "meaning": "sleeping place",
+    "transliteration": "marqad",
+    "lemmaId": 4150
+  },
+  {
+    "id": 3330,
+    "lemma": "مَرْقُوم",
+    "meaning": "written",
+    "transliteration": "marqūm",
+    "lemmaId": 2614
+  },
+  {
+    "id": 3331,
+    "lemma": "مَرْكُوم",
+    "meaning": "heaped up",
+    "transliteration": "markūm",
+    "lemmaId": 4151
+  },
+  {
+    "id": 3332,
+    "lemma": "مَرْوَة",
+    "meaning": "Marwah",
+    "transliteration": "marwata",
+    "lemmaId": 4152
+  },
+  {
+    "id": 3333,
+    "lemma": "مَرْيَم",
+    "meaning": "Maryam",
+    "transliteration": "maryam",
+    "lemmaId": 338
+  },
+  {
+    "id": 3334,
+    "lemma": "مَزِيد",
+    "meaning": "more",
+    "transliteration": "mazīd",
+    "lemmaId": 2615
+  },
+  {
+    "id": 3335,
+    "lemma": "مَساق",
+    "meaning": "driving",
+    "transliteration": "masāq",
+    "lemmaId": 4153
+  },
+  {
+    "id": 3336,
+    "lemma": "مَسَخْ",
+    "meaning": "to transform",
+    "transliteration": "masakh",
+    "lemmaId": 4154
+  },
+  {
+    "id": 3337,
+    "lemma": "مَسَد",
+    "meaning": "twisted fibers",
+    "transliteration": "masad",
+    "lemmaId": 4155
+  },
+  {
+    "id": 3338,
+    "lemma": "مَسِيح",
+    "meaning": "Messiah",
+    "transliteration": "masīḥ",
+    "lemmaId": 786
+  },
+  {
+    "id": 3339,
+    "lemma": "مَسّ",
+    "meaning": "touch",
+    "transliteration": "mass",
+    "lemmaId": 2616
+  },
+  {
+    "id": 3340,
+    "lemma": "مَسَّ",
+    "meaning": "to touch",
+    "transliteration": "massa",
+    "lemmaId": 211
+  },
+  {
+    "id": 3341,
+    "lemma": "مَسْئُول",
+    "meaning": "to question",
+    "transliteration": "masʾūl",
+    "lemmaId": 1390
+  },
+  {
+    "id": 3342,
+    "lemma": "مَسْبُوق",
+    "meaning": "one who is surpassed",
+    "transliteration": "masbūq",
+    "lemmaId": 2617
+  },
+  {
+    "id": 3343,
+    "lemma": "مَسْتُور",
+    "meaning": "hidden",
+    "transliteration": "mastūr",
+    "lemmaId": 4156
+  },
+  {
+    "id": 3344,
+    "lemma": "مَسْجُور",
+    "meaning": "filled with fire",
+    "transliteration": "masjūr",
+    "lemmaId": 4157
+  },
+  {
+    "id": 3345,
+    "lemma": "مَسْجُون",
+    "meaning": "imprisoned",
+    "transliteration": "masjūn",
+    "lemmaId": 4158
+  },
+  {
+    "id": 3346,
+    "lemma": "مَسْجِد",
+    "meaning": "mosque, place of worship, Al-Masjid Al-Aqsa, Al-Masjid Al-Haraam",
+    "transliteration": "masjid",
+    "lemmaId": 389
+  },
+  {
+    "id": 3347,
+    "lemma": "مَسْح",
+    "meaning": "stroking",
+    "transliteration": "masḥ",
+    "lemmaId": 4159
+  },
+  {
+    "id": 3348,
+    "lemma": "مَسْحُور",
+    "meaning": "bewitched",
+    "transliteration": "masḥūr",
+    "lemmaId": 1615
+  },
+  {
+    "id": 3349,
+    "lemma": "مَسْرُور",
+    "meaning": "happy",
+    "transliteration": "masrūr",
+    "lemmaId": 2618
+  },
+  {
+    "id": 3350,
+    "lemma": "مَسْطُور",
+    "meaning": "written",
+    "transliteration": "masṭūr",
+    "lemmaId": 1968
+  },
+  {
+    "id": 3351,
+    "lemma": "مَسْغَبَة",
+    "meaning": "severe hunger",
+    "transliteration": "masghabata",
+    "lemmaId": 4160
+  },
+  {
+    "id": 3352,
+    "lemma": "مَسْفُوح",
+    "meaning": "poured out",
+    "transliteration": "masfūḥ",
+    "lemmaId": 4161
+  },
+  {
+    "id": 3353,
+    "lemma": "مَسْكَن",
+    "meaning": "dwelling",
+    "transliteration": "maskan",
+    "lemmaId": 737
+  },
+  {
+    "id": 3354,
+    "lemma": "مَسْكُوب",
+    "meaning": "to pour forth",
+    "transliteration": "mas'kūb",
+    "lemmaId": 4162
+  },
+  {
+    "id": 3355,
+    "lemma": "مَسْكُونَة",
+    "meaning": "inhabited",
+    "transliteration": "maskūnata",
+    "lemmaId": 4163
+  },
+  {
+    "id": 3356,
+    "lemma": "مَسْنُون",
+    "meaning": "altered",
+    "transliteration": "masnūn",
+    "lemmaId": 1969
+  },
+  {
+    "id": 3357,
+    "lemma": "مَشَ",
+    "meaning": "to walk, go forth",
+    "transliteration": "masha",
+    "lemmaId": 485
+  },
+  {
+    "id": 3358,
+    "lemma": "مَشِيد",
+    "meaning": "lofty",
+    "transliteration": "mashīd",
+    "lemmaId": 4164
+  },
+  {
+    "id": 3359,
+    "lemma": "مَشّاء",
+    "meaning": "walking about",
+    "transliteration": "mashshā",
+    "lemmaId": 4165
+  },
+  {
+    "id": 3360,
+    "lemma": "مَشْأَمَة",
+    "meaning": "left hand",
+    "transliteration": "mashāmata",
+    "lemmaId": 1970
+  },
+  {
+    "id": 3361,
+    "lemma": "مَشْحُون",
+    "meaning": "laden",
+    "transliteration": "mashhūn",
+    "lemmaId": 1971
+  },
+  {
+    "id": 3362,
+    "lemma": "مَشْرَب",
+    "meaning": "drinking place, drinks",
+    "transliteration": "mashrab",
+    "lemmaId": 1972
+  },
+  {
+    "id": 3363,
+    "lemma": "مَشْرِق",
+    "meaning": "east",
+    "transliteration": "mashriq",
+    "lemmaId": 787
+  },
+  {
+    "id": 3364,
+    "lemma": "مَشْعَر",
+    "meaning": "monument",
+    "transliteration": "mashʿar",
+    "lemmaId": 4166
+  },
+  {
+    "id": 3365,
+    "lemma": "مَشْكُور",
+    "meaning": "appreciated",
+    "transliteration": "mashkūr",
+    "lemmaId": 2620
+  },
+  {
+    "id": 3366,
+    "lemma": "مَشْهَد",
+    "meaning": "witnessing",
+    "transliteration": "mashhad",
+    "lemmaId": 4167
+  },
+  {
+    "id": 3367,
+    "lemma": "مَشْهُود",
+    "meaning": "to witness",
+    "transliteration": "mashhūd",
+    "lemmaId": 1973
+  },
+  {
+    "id": 3368,
+    "lemma": "مَشْي",
+    "meaning": "way of walking",
+    "transliteration": "mashyi",
+    "lemmaId": 4168
+  },
+  {
+    "id": 3369,
+    "lemma": "مَصانِع",
+    "meaning": "stronghold",
+    "transliteration": "maṣānif",
+    "lemmaId": 4169
+  },
+  {
+    "id": 3370,
+    "lemma": "مَصِير",
+    "meaning": "destination",
+    "transliteration": "maṣīr",
+    "lemmaId": 390
+  },
+  {
+    "id": 3371,
+    "lemma": "مَصْرُوف",
+    "meaning": "to avert",
+    "transliteration": "maṣrūf",
+    "lemmaId": 4170
+  },
+  {
+    "id": 3372,
+    "lemma": "مَصْرِف",
+    "meaning": "way of escape",
+    "transliteration": "maṣrif",
+    "lemmaId": 4171
+  },
+  {
+    "id": 3373,
+    "lemma": "مَصْفُوفَة",
+    "meaning": "lined up",
+    "transliteration": "maṣfūfah",
+    "lemmaId": 2621
+  },
+  {
+    "id": 3374,
+    "lemma": "مَضاجِع",
+    "meaning": "bed",
+    "transliteration": "maḍājiʿ",
+    "lemmaId": 1974
+  },
+  {
+    "id": 3375,
+    "lemma": "مَطَر",
+    "meaning": "rain",
+    "transliteration": "maṭar",
+    "lemmaId": 1097
+  },
+  {
+    "id": 3376,
+    "lemma": "مَطْلَع",
+    "meaning": "emergence",
+    "transliteration": "maṭlaʿ",
+    "lemmaId": 4172
+  },
+  {
+    "id": 3377,
+    "lemma": "مَطْلُوب",
+    "meaning": "to seek",
+    "transliteration": "maṭlūb",
+    "lemmaId": 4173
+  },
+  {
+    "id": 3378,
+    "lemma": "مَطْلِع",
+    "meaning": "rising",
+    "transliteration": "maṭliʿ",
+    "lemmaId": 4174
+  },
+  {
+    "id": 3379,
+    "lemma": "مَطْوِيَّة",
+    "meaning": "folded",
+    "transliteration": "maṭwīyah",
+    "lemmaId": 4175
+  },
+  {
+    "id": 3380,
+    "lemma": "مَظْلُوم",
+    "meaning": "wrongful",
+    "transliteration": "maẓlūm",
+    "lemmaId": 4176
+  },
+  {
+    "id": 3381,
+    "lemma": "مَعاد",
+    "meaning": "place of return",
+    "transliteration": "maʿād",
+    "lemmaId": 4177
+  },
+  {
+    "id": 3382,
+    "lemma": "مَعاذِير",
+    "meaning": "excuses",
+    "transliteration": "maʿādhīr",
+    "lemmaId": 4178
+  },
+  {
+    "id": 3383,
+    "lemma": "مَعارِج",
+    "meaning": "ways of ascent",
+    "transliteration": "maʿārij",
+    "lemmaId": 2623
+  },
+  {
+    "id": 3384,
+    "lemma": "مَعاش",
+    "meaning": "livelihood",
+    "transliteration": "maʿāsh",
+    "lemmaId": 4179
+  },
+  {
+    "id": 3385,
+    "lemma": "مَعايِش",
+    "meaning": "livelihoods, means of living",
+    "transliteration": "maʿāyiš",
+    "lemmaId": 2624
+  },
+  {
+    "id": 3386,
+    "lemma": "مَعَرَّة",
+    "meaning": "dishonour",
+    "transliteration": "maʿarrata",
+    "lemmaId": 4180
+  },
+  {
+    "id": 3387,
+    "lemma": "مَعِيشَة",
+    "meaning": "livelihood",
+    "transliteration": "maʿīshah",
+    "lemmaId": 1975
+  },
+  {
+    "id": 3388,
+    "lemma": "مَعِين",
+    "meaning": "flowing, spring",
+    "transliteration": "maʿīn",
+    "lemmaId": 1617
+  },
+  {
+    "id": 3389,
+    "lemma": "مَعْدُود",
+    "meaning": "limited",
+    "transliteration": "maʿdūd",
+    "lemmaId": 4181
+  },
+  {
+    "id": 3390,
+    "lemma": "مَعْدُودَة",
+    "meaning": "numbered, determined, few",
+    "transliteration": "maʿdūdata",
+    "lemmaId": 1215
+  },
+  {
+    "id": 3391,
+    "lemma": "مَعْرُوشَة",
+    "meaning": "trellised",
+    "transliteration": "maʿrūshah",
+    "lemmaId": 2625
+  },
+  {
+    "id": 3392,
+    "lemma": "مَعْرُوف",
+    "meaning": "kind, right, fair",
+    "transliteration": "maʿrūf",
+    "lemmaId": 305
+  },
+  {
+    "id": 3393,
+    "lemma": "مَعْرُوفَة",
+    "meaning": "to be known",
+    "transliteration": "maʿrūfah",
+    "lemmaId": 4182
+  },
+  {
+    "id": 3394,
+    "lemma": "مَعْز",
+    "meaning": "goats",
+    "transliteration": "maʿz",
+    "lemmaId": 4183
+  },
+  {
+    "id": 3395,
+    "lemma": "مَعْزُول",
+    "meaning": "to banish",
+    "transliteration": "maʿzūl",
+    "lemmaId": 4184
+  },
+  {
+    "id": 3396,
+    "lemma": "مَعْزِل",
+    "meaning": "apart",
+    "transliteration": "maʿzil",
+    "lemmaId": 4185
+  },
+  {
+    "id": 3397,
+    "lemma": "مَعْشَر",
+    "meaning": "assembly",
+    "transliteration": "maʿshar",
+    "lemmaId": 1977
+  },
+  {
+    "id": 3398,
+    "lemma": "مَعْصِيَت",
+    "meaning": "act of disobedience",
+    "transliteration": "maʿṣīyat",
+    "lemmaId": 2626
+  },
+  {
+    "id": 3399,
+    "lemma": "مَعْكُوف",
+    "meaning": "to prevent",
+    "transliteration": "maʿkūf",
+    "lemmaId": 4186
+  },
+  {
+    "id": 3400,
+    "lemma": "مَعْلُوم",
+    "meaning": "known",
+    "transliteration": "maʿlūm",
+    "lemmaId": 788
+  },
+  {
+    "id": 3401,
+    "lemma": "مَعْلُومَة",
+    "meaning": "known",
+    "transliteration": "maʿlūmata",
+    "lemmaId": 2627
+  },
+  {
+    "id": 3402,
+    "lemma": "مَعْمُور",
+    "meaning": "frequented",
+    "transliteration": "maʿmūr",
+    "lemmaId": 4187
+  },
+  {
+    "id": 3403,
+    "lemma": "مَغارَة",
+    "meaning": "mountain hollows",
+    "transliteration": "maghāra",
+    "lemmaId": 4188
+  },
+  {
+    "id": 3404,
+    "lemma": "مَغانِم",
+    "meaning": "spoils of war",
+    "transliteration": "maghānim",
+    "lemmaId": 1618
+  },
+  {
+    "id": 3405,
+    "lemma": "مَغْرَم",
+    "meaning": "debt, loss",
+    "transliteration": "maghram",
+    "lemmaId": 1978
+  },
+  {
+    "id": 3406,
+    "lemma": "مَغْرِب",
+    "meaning": "west, setting",
+    "transliteration": "maghrib",
+    "lemmaId": 848
+  },
+  {
+    "id": 3407,
+    "lemma": "مَغْشِيّ",
+    "meaning": "one fainting",
+    "transliteration": "maghshī",
+    "lemmaId": 4189
+  },
+  {
+    "id": 3408,
+    "lemma": "مَغْضُوب",
+    "meaning": "one who has incurred wrath",
+    "transliteration": "maghḍūbi",
+    "lemmaId": 4190
+  },
+  {
+    "id": 3409,
+    "lemma": "مَغْفِرَة",
+    "meaning": "forgiveness",
+    "transliteration": "maghfirata",
+    "lemmaId": 391
+  },
+  {
+    "id": 3410,
+    "lemma": "مَغْلُوب",
+    "meaning": "overpower",
+    "transliteration": "maghlūb",
+    "lemmaId": 4191
+  },
+  {
+    "id": 3411,
+    "lemma": "مَغْلُولَة",
+    "meaning": "chained",
+    "transliteration": "maghlūlata",
+    "lemmaId": 2628
+  },
+  {
+    "id": 3412,
+    "lemma": "مَفاز",
+    "meaning": "success",
+    "transliteration": "mafāz",
+    "lemmaId": 4192
+  },
+  {
+    "id": 3413,
+    "lemma": "مَفازَة",
+    "meaning": "to escape, to find salvation",
+    "transliteration": "mafāzah",
+    "lemmaId": 2629
+  },
+  {
+    "id": 3414,
+    "lemma": "مَفَرّ",
+    "meaning": "escape",
+    "transliteration": "mafarr",
+    "lemmaId": 4193
+  },
+  {
+    "id": 3415,
+    "lemma": "مَفْتُون",
+    "meaning": "afflicted",
+    "transliteration": "maftūn",
+    "lemmaId": 4194
+  },
+  {
+    "id": 3416,
+    "lemma": "مَفْرُوض",
+    "meaning": "obligatory, appointed",
+    "transliteration": "maf'rūḍ",
+    "lemmaId": 2630
+  },
+  {
+    "id": 3417,
+    "lemma": "مَفْعُول",
+    "meaning": "to fulfill",
+    "transliteration": "mafʿūl",
+    "lemmaId": 1098
+  },
+  {
+    "id": 3418,
+    "lemma": "مَقابِر",
+    "meaning": "cemeteries",
+    "transliteration": "maqābir",
+    "lemmaId": 4195
+  },
+  {
+    "id": 3419,
+    "lemma": "مَقام",
+    "meaning": "place, standing",
+    "transliteration": "maqām",
+    "lemmaId": 660
+  },
+  {
+    "id": 3420,
+    "lemma": "مَقامِع",
+    "meaning": "maces",
+    "transliteration": "maqāmiʿ",
+    "lemmaId": 4196
+  },
+  {
+    "id": 3421,
+    "lemma": "مَقِيل",
+    "meaning": "resting-place",
+    "transliteration": "maqīl",
+    "lemmaId": 4197
+  },
+  {
+    "id": 3422,
+    "lemma": "مَقْبُوح",
+    "meaning": "despised",
+    "transliteration": "maq'būḥ",
+    "lemmaId": 4198
+  },
+  {
+    "id": 3423,
+    "lemma": "مَقْبُوضَة",
+    "meaning": "in hand",
+    "transliteration": "maq'​būḍah",
+    "lemmaId": 4199
+  },
+  {
+    "id": 3424,
+    "lemma": "مَقْت",
+    "meaning": "intense hatred",
+    "transliteration": "maqtu",
+    "lemmaId": 1216
+  },
+  {
+    "id": 3425,
+    "lemma": "مَقْدُور",
+    "meaning": "predestined",
+    "transliteration": "maqdūr",
+    "lemmaId": 4200
+  },
+  {
+    "id": 3426,
+    "lemma": "مَقْرَبَة",
+    "meaning": "near in kinship",
+    "transliteration": "maqrabata",
+    "lemmaId": 4201
+  },
+  {
+    "id": 3427,
+    "lemma": "مَقْسُوم",
+    "meaning": "assigned",
+    "transliteration": "maq'sūm",
+    "lemmaId": 4202
+  },
+  {
+    "id": 3428,
+    "lemma": "مَقْصُورَة",
+    "meaning": "private chambers",
+    "transliteration": "maqṣūrata",
+    "lemmaId": 4203
+  },
+  {
+    "id": 3429,
+    "lemma": "مَقْضِيّ",
+    "meaning": "to decree",
+    "transliteration": "maqḍiyy",
+    "lemmaId": 2632
+  },
+  {
+    "id": 3430,
+    "lemma": "مَقْطُوع",
+    "meaning": "to cut off",
+    "transliteration": "maqṭūʿ",
+    "lemmaId": 4204
+  },
+  {
+    "id": 3431,
+    "lemma": "مَقْطُوعَة",
+    "meaning": "limited",
+    "transliteration": "maqṭūʿa",
+    "lemmaId": 4205
+  },
+  {
+    "id": 3432,
+    "lemma": "مَقْعَد",
+    "meaning": "position, seat",
+    "transliteration": "maqʿad",
+    "lemmaId": 1619
+  },
+  {
+    "id": 3433,
+    "lemma": "مَكان",
+    "meaning": "place, position",
+    "transliteration": "makān",
+    "lemmaId": 402
+  },
+  {
+    "id": 3434,
+    "lemma": "مَكانَت",
+    "meaning": "position, place",
+    "transliteration": "makānat",
+    "lemmaId": 1391
+  },
+  {
+    "id": 3435,
+    "lemma": "مَكَثَ",
+    "meaning": "to stay, to remain",
+    "transliteration": "makatha",
+    "lemmaId": 1620
+  },
+  {
+    "id": 3436,
+    "lemma": "مَكَرَ",
+    "meaning": "to plot, to scheme",
+    "transliteration": "makara",
+    "lemmaId": 469
+  },
+  {
+    "id": 3437,
+    "lemma": "مَكِيد",
+    "meaning": "ones who are plotted against",
+    "transliteration": "makīd",
+    "lemmaId": 4206
+  },
+  {
+    "id": 3438,
+    "lemma": "مَكِين",
+    "meaning": "firmly established",
+    "transliteration": "makīn",
+    "lemmaId": 1621
+  },
+  {
+    "id": 3439,
+    "lemma": "مَكَّ",
+    "meaning": "to establish",
+    "transliteration": "makka",
+    "lemmaId": 690
+  },
+  {
+    "id": 3440,
+    "lemma": "مَكَّة",
+    "meaning": "Makkah",
+    "transliteration": "makkah",
+    "lemmaId": 4207
+  },
+  {
+    "id": 3441,
+    "lemma": "مَكْتُوب",
+    "meaning": "written",
+    "transliteration": "mak'tūb",
+    "lemmaId": 4208
+  },
+  {
+    "id": 3442,
+    "lemma": "مَكْذُوب",
+    "meaning": "denied",
+    "transliteration": "makḏūb",
+    "lemmaId": 4209
+  },
+  {
+    "id": 3443,
+    "lemma": "مَكْر",
+    "meaning": "plot, scheme, plan",
+    "transliteration": "makr",
+    "lemmaId": 520
+  },
+  {
+    "id": 3444,
+    "lemma": "مَكْرُوه",
+    "meaning": "detested",
+    "transliteration": "makrūh",
+    "lemmaId": 4210
+  },
+  {
+    "id": 3445,
+    "lemma": "مَكْظُوم",
+    "meaning": "overwhelmed by suppressed distress",
+    "transliteration": "makẓūm",
+    "lemmaId": 4211
+  },
+  {
+    "id": 3446,
+    "lemma": "مَكْنُون",
+    "meaning": "well-protected",
+    "transliteration": "maknūn",
+    "lemmaId": 1622
+  },
+  {
+    "id": 3447,
+    "lemma": "مَلَأ",
+    "meaning": "chiefs",
+    "transliteration": "malā",
+    "lemmaId": 369
+  },
+  {
+    "id": 3448,
+    "lemma": "مَلَك",
+    "meaning": "angel",
+    "transliteration": "malak",
+    "lemmaId": 127
+  },
+  {
+    "id": 3449,
+    "lemma": "مَلَكَتْ",
+    "meaning": "to possess",
+    "transliteration": "malakat",
+    "lemmaId": 262
+  },
+  {
+    "id": 3450,
+    "lemma": "مَلَكُوت",
+    "meaning": "dominion",
+    "transliteration": "malakūt",
+    "lemmaId": 1623
+  },
+  {
+    "id": 3451,
+    "lemma": "مَلُوم",
+    "meaning": "blamed",
+    "transliteration": "malūm",
+    "lemmaId": 1392
+  },
+  {
+    "id": 3452,
+    "lemma": "مَلِك",
+    "meaning": "king",
+    "transliteration": "malik",
+    "lemmaId": 625
+  },
+  {
+    "id": 3453,
+    "lemma": "مَلِيك",
+    "meaning": "Supreme King",
+    "transliteration": "malīk",
+    "lemmaId": 4212
+  },
+  {
+    "id": 3454,
+    "lemma": "مَلِيّ",
+    "meaning": "prolonged time",
+    "transliteration": "maliyy",
+    "lemmaId": 4213
+  },
+  {
+    "id": 3455,
+    "lemma": "مَلْجَإ",
+    "meaning": "refuge",
+    "transliteration": "maljā",
+    "lemmaId": 1980
+  },
+  {
+    "id": 3456,
+    "lemma": "مَلْعُون",
+    "meaning": "accursed",
+    "transliteration": "malʿūn",
+    "lemmaId": 4214
+  },
+  {
+    "id": 3457,
+    "lemma": "مَلْعُونَة",
+    "meaning": "accursed",
+    "transliteration": "malʿūnata",
+    "lemmaId": 4215
+  },
+  {
+    "id": 3458,
+    "lemma": "مَلْك",
+    "meaning": "will",
+    "transliteration": "malik",
+    "lemmaId": 4216
+  },
+  {
+    "id": 3459,
+    "lemma": "مَمات",
+    "meaning": "death",
+    "transliteration": "mamāt",
+    "lemmaId": 1981
+  },
+  {
+    "id": 3460,
+    "lemma": "مَمْدُود",
+    "meaning": "extended, extensive",
+    "transliteration": "mamdūd",
+    "lemmaId": 2633
+  },
+  {
+    "id": 3461,
+    "lemma": "مَمْلُوك",
+    "meaning": "owned",
+    "transliteration": "mamlūk",
+    "lemmaId": 4217
+  },
+  {
+    "id": 3462,
+    "lemma": "مَمْنُوعَة",
+    "meaning": "forbidden",
+    "transliteration": "mamnūʿa",
+    "lemmaId": 4218
+  },
+  {
+    "id": 3463,
+    "lemma": "مَمْنُون",
+    "meaning": "end",
+    "transliteration": "mamnūn",
+    "lemmaId": 1624
+  },
+  {
+    "id": 3464,
+    "lemma": "مَن",
+    "meaning": "who, whom, whoever",
+    "transliteration": "man",
+    "lemmaId": 18
+  },
+  {
+    "id": 3465,
+    "lemma": "مَناة",
+    "meaning": "Manāt",
+    "transliteration": "manāt",
+    "lemmaId": 4219
+  },
+  {
+    "id": 3466,
+    "lemma": "مَنازِل",
+    "meaning": "phases",
+    "transliteration": "manāzil",
+    "lemmaId": 2634
+  },
+  {
+    "id": 3467,
+    "lemma": "مَناص",
+    "meaning": "place of safety",
+    "transliteration": "manāṣ",
+    "lemmaId": 4220
+  },
+  {
+    "id": 3468,
+    "lemma": "مَنافِع",
+    "meaning": "benefits",
+    "transliteration": "manāfiʿ",
+    "lemmaId": 994
+  },
+  {
+    "id": 3469,
+    "lemma": "مَناكِب",
+    "meaning": "high paths",
+    "transliteration": "manākib",
+    "lemmaId": 4221
+  },
+  {
+    "id": 3470,
+    "lemma": "مَنام",
+    "meaning": "sleep, dream",
+    "transliteration": "manām",
+    "lemmaId": 1625
+  },
+  {
+    "id": 3471,
+    "lemma": "مَنثُور",
+    "meaning": "scattered",
+    "transliteration": "manthūr",
+    "lemmaId": 2635
+  },
+  {
+    "id": 3472,
+    "lemma": "مَنسَك",
+    "meaning": "rite of worship",
+    "transliteration": "mansak",
+    "lemmaId": 1626
+  },
+  {
+    "id": 3473,
+    "lemma": "مَنسِيّ",
+    "meaning": "entirely disregarded",
+    "transliteration": "mansiyy",
+    "lemmaId": 4222
+  },
+  {
+    "id": 3474,
+    "lemma": "مَنشُور",
+    "meaning": "unrolled, spread open",
+    "transliteration": "manshūr",
+    "lemmaId": 2636
+  },
+  {
+    "id": 3475,
+    "lemma": "مَنصُور",
+    "meaning": "helped, victorious",
+    "transliteration": "manṣūr",
+    "lemmaId": 2637
+  },
+  {
+    "id": 3476,
+    "lemma": "مَنضُود",
+    "meaning": "layered",
+    "transliteration": "manḍūd",
+    "lemmaId": 2638
+  },
+  {
+    "id": 3477,
+    "lemma": "مَنطِق",
+    "meaning": "language",
+    "transliteration": "manṭiq",
+    "lemmaId": 4223
+  },
+  {
+    "id": 3478,
+    "lemma": "مَنفُوش",
+    "meaning": "fluffed up",
+    "transliteration": "manfūsh",
+    "lemmaId": 4224
+  },
+  {
+    "id": 3479,
+    "lemma": "مَنقُوص",
+    "meaning": "to be diminished",
+    "transliteration": "manqūṣ",
+    "lemmaId": 4225
+  },
+  {
+    "id": 3480,
+    "lemma": "مَنَعَ",
+    "meaning": "to prevent",
+    "transliteration": "manaʿ",
+    "lemmaId": 738
+  },
+  {
+    "id": 3481,
+    "lemma": "مَنُوع",
+    "meaning": "withholds",
+    "transliteration": "manūʿ",
+    "lemmaId": 4226
+  },
+  {
+    "id": 3482,
+    "lemma": "مَنُون",
+    "meaning": "death",
+    "transliteration": "manūn",
+    "lemmaId": 4227
+  },
+  {
+    "id": 3483,
+    "lemma": "مَنِيّ",
+    "meaning": "semen",
+    "transliteration": "maniyy",
+    "lemmaId": 4228
+  },
+  {
+    "id": 3484,
+    "lemma": "مَنّ",
+    "meaning": "favor, manna",
+    "transliteration": "mann",
+    "lemmaId": 1217
+  },
+  {
+    "id": 3485,
+    "lemma": "مَنّاع",
+    "meaning": "preventer",
+    "transliteration": "mannāʿ",
+    "lemmaId": 2639
+  },
+  {
+    "id": 3486,
+    "lemma": "مَنَّ",
+    "meaning": "to bestow a favor, to remind of a favor, to consider as a favor",
+    "transliteration": "manna",
+    "lemmaId": 597
+  },
+  {
+    "id": 3487,
+    "lemma": "مَهِيل",
+    "meaning": "pouring forth",
+    "transliteration": "mahīl",
+    "lemmaId": 4229
+  },
+  {
+    "id": 3488,
+    "lemma": "مَهِين",
+    "meaning": "insignificant, despicable, ",
+    "transliteration": "mahīn",
+    "lemmaId": 1627
+  },
+  {
+    "id": 3489,
+    "lemma": "مَهَّد",
+    "meaning": "to thoroughly prepare",
+    "transliteration": "mahhad",
+    "lemmaId": 4230
+  },
+  {
+    "id": 3490,
+    "lemma": "مَهِّلِ",
+    "meaning": "to give respite",
+    "transliteration": "mahhili",
+    "lemmaId": 2640
+  },
+  {
+    "id": 3491,
+    "lemma": "مَهْجُور",
+    "meaning": "forsaken",
+    "transliteration": "mahjūr",
+    "lemmaId": 4231
+  },
+  {
+    "id": 3492,
+    "lemma": "مَهْد",
+    "meaning": "bed, cradle",
+    "transliteration": "mahd",
+    "lemmaId": 1393
+  },
+  {
+    "id": 3493,
+    "lemma": "مَهْزُوم",
+    "meaning": "defeated",
+    "transliteration": "mahzūm",
+    "lemmaId": 4232
+  },
+  {
+    "id": 3494,
+    "lemma": "مَهْلِك",
+    "meaning": "destruction, place of destruction",
+    "transliteration": "mahlik",
+    "lemmaId": 2641
+  },
+  {
+    "id": 3495,
+    "lemma": "مَهْما",
+    "meaning": "no matter what",
+    "transliteration": "mahmā",
+    "lemmaId": 4233
+  },
+  {
+    "id": 3496,
+    "lemma": "مَواخِر",
+    "meaning": "cleaving",
+    "transliteration": "mawākhir",
+    "lemmaId": 2642
+  },
+  {
+    "id": 3497,
+    "lemma": "مَواضِع",
+    "meaning": "place, context",
+    "transliteration": "mawāḍiʿ",
+    "lemmaId": 1982
+  },
+  {
+    "id": 3498,
+    "lemma": "مَواطِن",
+    "meaning": "region",
+    "transliteration": "mawāṭin",
+    "lemmaId": 4234
+  },
+  {
+    "id": 3499,
+    "lemma": "مَواقِع",
+    "meaning": "positions",
+    "transliteration": "mawāqiʿ",
+    "lemmaId": 4235
+  },
+  {
+    "id": 3500,
+    "lemma": "مَوالِي",
+    "meaning": "heirs, successors, allies",
+    "transliteration": "mawālī",
+    "lemmaId": 1983
+  },
+  {
+    "id": 3501,
+    "lemma": "مَوَدَّة",
+    "meaning": "affection, love",
+    "transliteration": "mawaddata",
+    "lemmaId": 995
+  },
+  {
+    "id": 3502,
+    "lemma": "مَوْءُدَة",
+    "meaning": "female infant buried alive",
+    "transliteration": "mawuḏata",
+    "lemmaId": 4236
+  },
+  {
+    "id": 3503,
+    "lemma": "مَوْئِل",
+    "meaning": "place of refuge",
+    "transliteration": "mawʾil",
+    "lemmaId": 4237
+  },
+  {
+    "id": 3504,
+    "lemma": "مَوْبِق",
+    "meaning": "barrier of destruction",
+    "transliteration": "mawbiq",
+    "lemmaId": 4238
+  },
+  {
+    "id": 3505,
+    "lemma": "مَوْت",
+    "meaning": "death",
+    "transliteration": "mawtu",
+    "lemmaId": 234
+  },
+  {
+    "id": 3506,
+    "lemma": "مَوْتَت",
+    "meaning": "death",
+    "transliteration": "mawtata",
+    "lemmaId": 1984
+  },
+  {
+    "id": 3507,
+    "lemma": "مَوْثِق",
+    "meaning": "promise",
+    "transliteration": "mawthiq",
+    "lemmaId": 1985
+  },
+  {
+    "id": 3508,
+    "lemma": "مَوْج",
+    "meaning": "wave",
+    "transliteration": "mawj",
+    "lemmaId": 1218
+  },
+  {
+    "id": 3509,
+    "lemma": "مَوْر",
+    "meaning": "tumultuously",
+    "transliteration": "mawr",
+    "lemmaId": 4239
+  },
+  {
+    "id": 3510,
+    "lemma": "مَوْرُود",
+    "meaning": "to lead",
+    "transliteration": "mawrūd",
+    "lemmaId": 4240
+  },
+  {
+    "id": 3511,
+    "lemma": "مَوْزُون",
+    "meaning": "well-balanced",
+    "transliteration": "mawzūn",
+    "lemmaId": 4241
+  },
+  {
+    "id": 3512,
+    "lemma": "مَوْضُوعَة",
+    "meaning": "to put in place",
+    "transliteration": "mawḍūʿahton",
+    "lemmaId": 4242
+  },
+  {
+    "id": 3513,
+    "lemma": "مَوْضُونَة",
+    "meaning": "decorated",
+    "transliteration": "mawḍūnata",
+    "lemmaId": 4243
+  },
+  {
+    "id": 3514,
+    "lemma": "مَوْطِئ",
+    "meaning": "surface",
+    "transliteration": "maw-ṭi'i",
+    "lemmaId": 4244
+  },
+  {
+    "id": 3515,
+    "lemma": "مَوْعُود",
+    "meaning": "promised",
+    "transliteration": "mawʿūd",
+    "lemmaId": 4245
+  },
+  {
+    "id": 3516,
+    "lemma": "مَوْعِد",
+    "meaning": "appointment, appointed time, promise",
+    "transliteration": "mawʿid",
+    "lemmaId": 739
+  },
+  {
+    "id": 3517,
+    "lemma": "مَوْعِدَة",
+    "meaning": "promise",
+    "transliteration": "mawʿidah",
+    "lemmaId": 4246
+  },
+  {
+    "id": 3518,
+    "lemma": "مَوْعِظَة",
+    "meaning": "admonition, instruction",
+    "transliteration": "mawʿiẓata",
+    "lemmaId": 922
+  },
+  {
+    "id": 3519,
+    "lemma": "مَوْفُور",
+    "meaning": "ample",
+    "transliteration": "mawfūr",
+    "lemmaId": 4247
+  },
+  {
+    "id": 3520,
+    "lemma": "مَوْقُوت",
+    "meaning": "fixed time",
+    "transliteration": "mawqūt",
+    "lemmaId": 4248
+  },
+  {
+    "id": 3521,
+    "lemma": "مَوْقُوذَة",
+    "meaning": "an animal beaten to death",
+    "transliteration": "mawqūdah",
+    "lemmaId": 4249
+  },
+  {
+    "id": 3522,
+    "lemma": "مَوْقُوف",
+    "meaning": "those made to stand",
+    "transliteration": "mawqūf",
+    "lemmaId": 4250
+  },
+  {
+    "id": 3523,
+    "lemma": "مَوْلَى",
+    "meaning": "protector, master",
+    "transliteration": "mawlā",
+    "lemmaId": 545
+  },
+  {
+    "id": 3524,
+    "lemma": "مَوْلُود",
+    "meaning": "child, one to whom a child is born",
+    "transliteration": "mawlūd",
+    "lemmaId": 1986
+  },
+  {
+    "id": 3525,
+    "lemma": "مَيِّت",
+    "meaning": "dead",
+    "transliteration": "mayyit",
+    "lemmaId": 306
+  },
+  {
+    "id": 3526,
+    "lemma": "مَيْت",
+    "meaning": "dead",
+    "transliteration": "mayt",
+    "lemmaId": 1394
+  },
+  {
+    "id": 3527,
+    "lemma": "مَيْتَة",
+    "meaning": "dead, dead animal",
+    "transliteration": "maytata",
+    "lemmaId": 1219
+  },
+  {
+    "id": 3528,
+    "lemma": "مَيْسَرَة",
+    "meaning": "ease",
+    "transliteration": "mayasara",
+    "lemmaId": 4251
+  },
+  {
+    "id": 3529,
+    "lemma": "مَيْسُور",
+    "meaning": "gently",
+    "transliteration": "maysūr",
+    "lemmaId": 4252
+  },
+  {
+    "id": 3530,
+    "lemma": "مَيْسِر",
+    "meaning": "gambling",
+    "transliteration": "may sir",
+    "lemmaId": 1987
+  },
+  {
+    "id": 3531,
+    "lemma": "مَيْل",
+    "meaning": "deviation, inclination",
+    "transliteration": "mayl",
+    "lemmaId": 2643
+  },
+  {
+    "id": 3532,
+    "lemma": "مَيْلَة",
+    "meaning": "attack",
+    "transliteration": "maylatun",
+    "lemmaId": 4253
+  },
+  {
+    "id": 3533,
+    "lemma": "مَيْمَنَة",
+    "meaning": "right-hand side",
+    "transliteration": "maymanata",
+    "lemmaId": 1988
+  },
+  {
+    "id": 3534,
+    "lemma": "مُؤَجَّل",
+    "meaning": "deferred",
+    "transliteration": "mu'ajjal",
+    "lemmaId": 4254
+  },
+  {
+    "id": 3535,
+    "lemma": "مُؤَذِّن",
+    "meaning": "announcer",
+    "transliteration": "muadh'dhin",
+    "lemmaId": 2644
+  },
+  {
+    "id": 3536,
+    "lemma": "مُؤَلَّفَة",
+    "meaning": "one who is made to incline",
+    "transliteration": "mu",
+    "lemmaId": 4255
+  },
+  {
+    "id": 3537,
+    "lemma": "مُؤْتي",
+    "meaning": "ones who give",
+    "transliteration": "muyti",
+    "lemmaId": 4256
+  },
+  {
+    "id": 3538,
+    "lemma": "مُؤْتَفِكَة",
+    "meaning": "overturned cities",
+    "transliteration": "mūtafikata",
+    "lemmaId": 1989
+  },
+  {
+    "id": 3539,
+    "lemma": "مُؤْصَدَة",
+    "meaning": "to close",
+    "transliteration": "muoṣadah",
+    "lemmaId": 2645
+  },
+  {
+    "id": 3540,
+    "lemma": "مُؤْمِن",
+    "meaning": "believer, believing man",
+    "transliteration": "mu'min",
+    "lemmaId": 62
+  },
+  {
+    "id": 3541,
+    "lemma": "مُؤْمِنَة",
+    "meaning": "believer, believing woman",
+    "transliteration": "mūminata",
+    "lemmaId": 392
+  },
+  {
+    "id": 3542,
+    "lemma": "مُبارَك",
+    "meaning": "blessed",
+    "transliteration": "mubārak",
+    "lemmaId": 996
+  },
+  {
+    "id": 3543,
+    "lemma": "مُبارَكَة",
+    "meaning": "blessed",
+    "transliteration": "mubārakah",
+    "lemmaId": 1628
+  },
+  {
+    "id": 3544,
+    "lemma": "مُبَدِّل",
+    "meaning": "one who alters",
+    "transliteration": "mubaddil",
+    "lemmaId": 1990
+  },
+  {
+    "id": 3545,
+    "lemma": "مُبَذِّر",
+    "meaning": "squanderer",
+    "transliteration": "mubadhhir",
+    "lemmaId": 4257
+  },
+  {
+    "id": 3546,
+    "lemma": "مُبَرَّء",
+    "meaning": "ones who are exonerated",
+    "transliteration": "mubarraʾ",
+    "lemmaId": 4258
+  },
+  {
+    "id": 3547,
+    "lemma": "مُبَشِّر",
+    "meaning": "bearer of good news",
+    "transliteration": "mubashir",
+    "lemmaId": 923
+  },
+  {
+    "id": 3548,
+    "lemma": "مُبَشِّرَة",
+    "meaning": "bearer of good news",
+    "transliteration": "mubashshirah",
+    "lemmaId": 4259
+  },
+  {
+    "id": 3549,
+    "lemma": "مُبَوَّأ",
+    "meaning": "settlement",
+    "transliteration": "mubawwa",
+    "lemmaId": 4260
+  },
+  {
+    "id": 3550,
+    "lemma": "مُبَيِّنَة",
+    "meaning": "clear",
+    "transliteration": "mubayyinata",
+    "lemmaId": 1220
+  },
+  {
+    "id": 3551,
+    "lemma": "مُبِين",
+    "meaning": "manifestly clear",
+    "transliteration": "mubīn",
+    "lemmaId": 104
+  },
+  {
+    "id": 3552,
+    "lemma": "مُبْتَلِي",
+    "meaning": "the Ones who test",
+    "transliteration": "mub'talī",
+    "lemmaId": 2646
+  },
+  {
+    "id": 3553,
+    "lemma": "مُبْدِي",
+    "meaning": "one who reveals",
+    "transliteration": "mub'dī",
+    "lemmaId": 4261
+  },
+  {
+    "id": 3554,
+    "lemma": "مُبْرِم",
+    "meaning": "firm planners",
+    "transliteration": "mubrim",
+    "lemmaId": 4262
+  },
+  {
+    "id": 3555,
+    "lemma": "مُبْصِر",
+    "meaning": "insightful, enabling sight",
+    "transliteration": "mubṣir",
+    "lemmaId": 1629
+  },
+  {
+    "id": 3556,
+    "lemma": "مُبْصِرَة",
+    "meaning": "enabling sight, giving insight",
+    "transliteration": "mubṣirata",
+    "lemmaId": 1991
+  },
+  {
+    "id": 3557,
+    "lemma": "مُبْطِل",
+    "meaning": "falsifiers",
+    "transliteration": "mubṭil",
+    "lemmaId": 1395
+  },
+  {
+    "id": 3558,
+    "lemma": "مُبْعَد",
+    "meaning": "to be kept away",
+    "transliteration": "mubʿad",
+    "lemmaId": 4263
+  },
+  {
+    "id": 3559,
+    "lemma": "مُبْلِس",
+    "meaning": "ones in despair",
+    "transliteration": "mublisa",
+    "lemmaId": 1630
+  },
+  {
+    "id": 3560,
+    "lemma": "مُتَبَرِّجَة",
+    "meaning": "women who display their beauty",
+    "transliteration": "mutabarrijah",
+    "lemmaId": 4264
+  },
+  {
+    "id": 3561,
+    "lemma": "مُتَبَّر",
+    "meaning": "destroyed",
+    "transliteration": "mutabbar",
+    "lemmaId": 4265
+  },
+  {
+    "id": 3562,
+    "lemma": "مُتَتابِعَيْن",
+    "meaning": "following one another",
+    "transliteration": "mutatābiʿayn",
+    "lemmaId": 2647
+  },
+  {
+    "id": 3563,
+    "lemma": "مُتَجانِف",
+    "meaning": "inclining",
+    "transliteration": "mutajānif",
+    "lemmaId": 4266
+  },
+  {
+    "id": 3564,
+    "lemma": "مُتَجاوِرَة",
+    "meaning": "neighboring",
+    "transliteration": "mutajāwirah",
+    "lemmaId": 4267
+  },
+  {
+    "id": 3565,
+    "lemma": "مُتَحَرِّف",
+    "meaning": "one who maneuvers",
+    "transliteration": "mutaḥarrif",
+    "lemmaId": 4268
+  },
+  {
+    "id": 3566,
+    "lemma": "مُتَراكِب",
+    "meaning": "layered upon each other",
+    "transliteration": "mutarākib",
+    "lemmaId": 4270
+  },
+  {
+    "id": 3567,
+    "lemma": "مُتَرَبِّص",
+    "meaning": "one who waits",
+    "transliteration": "mutarabb-iṣ",
+    "lemmaId": 1992
+  },
+  {
+    "id": 3568,
+    "lemma": "مُتَرَدِّيَة",
+    "meaning": "fatal fall",
+    "transliteration": "mutaraddīyah",
+    "lemmaId": 4271
+  },
+  {
+    "id": 3569,
+    "lemma": "مُتَشابِه",
+    "meaning": "to resemble",
+    "transliteration": "mutashābih",
+    "lemmaId": 1221
+  },
+  {
+    "id": 3570,
+    "lemma": "مُتَشاكِس",
+    "meaning": "quarreling",
+    "transliteration": "mutashākis",
+    "lemmaId": 4272
+  },
+  {
+    "id": 3571,
+    "lemma": "مُتَصَدِّع",
+    "meaning": "to break asunder",
+    "transliteration": "mutaṣaddiʿ",
+    "lemmaId": 4273
+  },
+  {
+    "id": 3572,
+    "lemma": "مُتَصَدِّقَة",
+    "meaning": "women who voluntarily give in charity",
+    "transliteration": "mutaṣaddiqah",
+    "lemmaId": 4274
+  },
+  {
+    "id": 3573,
+    "lemma": "مُتَطَهِّر",
+    "meaning": "those who purify themselves",
+    "transliteration": "mutaṭahhir",
+    "lemmaId": 4275
+  },
+  {
+    "id": 3574,
+    "lemma": "مُتَعال",
+    "meaning": "the Most High",
+    "transliteration": "mutaʿāl",
+    "lemmaId": 4276
+  },
+  {
+    "id": 3575,
+    "lemma": "مُتَعَمِّد",
+    "meaning": "intentionally",
+    "transliteration": "mutaʿammid",
+    "lemmaId": 2649
+  },
+  {
+    "id": 3576,
+    "lemma": "مُتَفَرِّق",
+    "meaning": "separate",
+    "transliteration": "mutafarriq",
+    "lemmaId": 4277
+  },
+  {
+    "id": 3577,
+    "lemma": "مُتَفَرِّقَة",
+    "meaning": "separate",
+    "transliteration": "mutafarriqata",
+    "lemmaId": 4278
+  },
+  {
+    "id": 3578,
+    "lemma": "مُتَقابِل",
+    "meaning": "facing each other",
+    "transliteration": "mutaqābil",
+    "lemmaId": 1631
+  },
+  {
+    "id": 3579,
+    "lemma": "مُتَقَلَّب",
+    "meaning": "movement",
+    "transliteration": "mutaqallab",
+    "lemmaId": 4279
+  },
+  {
+    "id": 3580,
+    "lemma": "مُتَكَبِّر",
+    "meaning": "arrogant, Supreme",
+    "transliteration": "mutakabbir",
+    "lemmaId": 1099
+  },
+  {
+    "id": 3581,
+    "lemma": "مُتَكَلِّف",
+    "meaning": "those who overburden themselves unnecessarily",
+    "transliteration": "mutakallif",
+    "lemmaId": 4280
+  },
+  {
+    "id": 3582,
+    "lemma": "مُتَلَقِّيان",
+    "meaning": "two receivers",
+    "transliteration": "mutalqiyān",
+    "lemmaId": 4281
+  },
+  {
+    "id": 3583,
+    "lemma": "مُتَنافِس",
+    "meaning": "aspirers",
+    "transliteration": "mutanāfis",
+    "lemmaId": 4282
+  },
+  {
+    "id": 3584,
+    "lemma": "مُتَوَسِّم",
+    "meaning": "those who discern",
+    "transliteration": "mutawassim",
+    "lemmaId": 4283
+  },
+  {
+    "id": 3585,
+    "lemma": "مُتَوَفِّي",
+    "meaning": "one to take fully",
+    "transliteration": "mutawaffī",
+    "lemmaId": 4284
+  },
+  {
+    "id": 3586,
+    "lemma": "مُتَوَكِّل",
+    "meaning": "ones who put trust",
+    "transliteration": "mutawakkil",
+    "lemmaId": 1632
+  },
+  {
+    "id": 3587,
+    "lemma": "مُتِمّ",
+    "meaning": "perfecter",
+    "transliteration": "mutimm",
+    "lemmaId": 4285
+  },
+  {
+    "id": 3588,
+    "lemma": "مُتَّبَع",
+    "meaning": "to be followed",
+    "transliteration": "muttabaʿ",
+    "lemmaId": 2650
+  },
+  {
+    "id": 3589,
+    "lemma": "مُتَّخِذ",
+    "meaning": "one who takes for oneself",
+    "transliteration": "muttakhidh",
+    "lemmaId": 1993
+  },
+  {
+    "id": 3590,
+    "lemma": "مُتَّقي",
+    "meaning": "ones who guard themselves",
+    "transliteration": "muttaqī",
+    "lemmaId": 241
+  },
+  {
+    "id": 3591,
+    "lemma": "مُتَّكَأ",
+    "meaning": "a place for reclining",
+    "transliteration": "muttakā",
+    "lemmaId": 4286
+  },
+  {
+    "id": 3592,
+    "lemma": "مُتَّكِئ",
+    "meaning": "reclining",
+    "transliteration": "muttakif",
+    "lemmaId": 997
+  },
+  {
+    "id": 3593,
+    "lemma": "مُتْرَف",
+    "meaning": "privileged",
+    "transliteration": "mutraf",
+    "lemmaId": 1396
+  },
+  {
+    "id": 3594,
+    "lemma": "مُثْقَل",
+    "meaning": "those who are burdened",
+    "transliteration": "muth'qal",
+    "lemmaId": 2651
+  },
+  {
+    "id": 3595,
+    "lemma": "مُثْقَلَة",
+    "meaning": "a burdened one",
+    "transliteration": "muth'qalata",
+    "lemmaId": 4287
+  },
+  {
+    "id": 3596,
+    "lemma": "مُثْلَى",
+    "meaning": "most exemplary",
+    "transliteration": "muth'lā",
+    "lemmaId": 4288
+  },
+  {
+    "id": 3597,
+    "lemma": "مُجاهِد",
+    "meaning": "those who strive",
+    "transliteration": "mujāhid",
+    "lemmaId": 1633
+  },
+  {
+    "id": 3598,
+    "lemma": "مُجِيب",
+    "meaning": "responder",
+    "transliteration": "mujīb",
+    "lemmaId": 2652
+  },
+  {
+    "id": 3599,
+    "lemma": "مُجْتَمِع",
+    "meaning": "to assemble",
+    "transliteration": "mujtamiʿ",
+    "lemmaId": 4289
+  },
+  {
+    "id": 3600,
+    "lemma": "مُجْرِم",
+    "meaning": "criminal",
+    "transliteration": "mujrim",
+    "lemmaId": 225
+  },
+  {
+    "id": 3601,
+    "lemma": "مُحَرَّر",
+    "meaning": "dedicated",
+    "transliteration": "muḥarrar",
+    "lemmaId": 4290
+  },
+  {
+    "id": 3602,
+    "lemma": "مُحَرَّم",
+    "meaning": "forbidden, Sacred House",
+    "transliteration": "muḥarram",
+    "lemmaId": 1634
+  },
+  {
+    "id": 3603,
+    "lemma": "مُحَرَّمَة",
+    "meaning": "to forbid",
+    "transliteration": "muḥarramah",
+    "lemmaId": 4291
+  },
+  {
+    "id": 3604,
+    "lemma": "مُحَصَّنَة",
+    "meaning": "fortified",
+    "transliteration": "muḥaṣṣanata",
+    "lemmaId": 4292
+  },
+  {
+    "id": 3605,
+    "lemma": "مُحَلِّق",
+    "meaning": "shaved",
+    "transliteration": "muḥalliq",
+    "lemmaId": 4293
+  },
+  {
+    "id": 3606,
+    "lemma": "مُحَمَّد",
+    "meaning": "Muhammad",
+    "transliteration": "muḥammad",
+    "lemmaId": 1635
+  },
+  {
+    "id": 3607,
+    "lemma": "مُحِلِّي",
+    "meaning": "permitted",
+    "transliteration": "muḥillī",
+    "lemmaId": 4294
+  },
+  {
+    "id": 3608,
+    "lemma": "مُحِيط",
+    "meaning": "encompassing, all-encompassing",
+    "transliteration": "muḥīṭ",
+    "lemmaId": 924
+  },
+  {
+    "id": 3609,
+    "lemma": "مُحْتَضَر",
+    "meaning": "attended",
+    "transliteration": "muḥ'tadar",
+    "lemmaId": 4295
+  },
+  {
+    "id": 3610,
+    "lemma": "مُحْتَظِر",
+    "meaning": "animal enclosure",
+    "transliteration": "muḥ'taẓir",
+    "lemmaId": 4296
+  },
+  {
+    "id": 3611,
+    "lemma": "مُحْدَث",
+    "meaning": "newly created",
+    "transliteration": "muḥdath",
+    "lemmaId": 2654
+  },
+  {
+    "id": 3612,
+    "lemma": "مُحْسِن",
+    "meaning": "good-doer",
+    "transliteration": "muḥsin",
+    "lemmaId": 307
+  },
+  {
+    "id": 3613,
+    "lemma": "مُحْسِنَة",
+    "meaning": "good-doers",
+    "transliteration": "muḥsinah",
+    "lemmaId": 4297
+  },
+  {
+    "id": 3614,
+    "lemma": "مُحْصَنَة",
+    "meaning": "chaste women",
+    "transliteration": "muḥṣanata",
+    "lemmaId": 998
+  },
+  {
+    "id": 3615,
+    "lemma": "مُحْصِن",
+    "meaning": "those who seek chastity",
+    "transliteration": "muḥṣin",
+    "lemmaId": 2655
+  },
+  {
+    "id": 3616,
+    "lemma": "مُحْضَر",
+    "meaning": "one who is brought, one who is presented",
+    "transliteration": "muḥḍar",
+    "lemmaId": 849
+  },
+  {
+    "id": 3617,
+    "lemma": "مُحْكَمَة",
+    "meaning": "clear, decisive",
+    "transliteration": "muḥkamata",
+    "lemmaId": 2656
+  },
+  {
+    "id": 3618,
+    "lemma": "مُحْى",
+    "meaning": "one who gives life",
+    "transliteration": "muḥyā",
+    "lemmaId": 2657
+  },
+  {
+    "id": 3619,
+    "lemma": "مُخَلَّد",
+    "meaning": "made eternal",
+    "transliteration": "mukhallad",
+    "lemmaId": 2658
+  },
+  {
+    "id": 3620,
+    "lemma": "مُخَلَّف",
+    "meaning": "left behind",
+    "transliteration": "mukhallaf",
+    "lemmaId": 1636
+  },
+  {
+    "id": 3621,
+    "lemma": "مُخَلَّقَة",
+    "meaning": "formed",
+    "transliteration": "mukhallaqah",
+    "lemmaId": 2659
+  },
+  {
+    "id": 3622,
+    "lemma": "مُخْبِت",
+    "meaning": "humble ones",
+    "transliteration": "mukhbit",
+    "lemmaId": 4298
+  },
+  {
+    "id": 3623,
+    "lemma": "مُخْتال",
+    "meaning": "arrogant, conceited",
+    "transliteration": "mukhtāl",
+    "lemmaId": 1994
+  },
+  {
+    "id": 3624,
+    "lemma": "مُخْتَلِف",
+    "meaning": "different, differing, various",
+    "transliteration": "mukhtalif",
+    "lemmaId": 850
+  },
+  {
+    "id": 3625,
+    "lemma": "مُخْرَج",
+    "meaning": "brought out, extracted",
+    "transliteration": "mukh'raj",
+    "lemmaId": 1397
+  },
+  {
+    "id": 3626,
+    "lemma": "مُخْرِج",
+    "meaning": "one who brings out",
+    "transliteration": "mukh'rij",
+    "lemmaId": 1995
+  },
+  {
+    "id": 3627,
+    "lemma": "مُخْزِي",
+    "meaning": "disgracing",
+    "transliteration": "mukhzī",
+    "lemmaId": 4299
+  },
+  {
+    "id": 3628,
+    "lemma": "مُخْسِر",
+    "meaning": "those who cause loss",
+    "transliteration": "mukhsir",
+    "lemmaId": 4300
+  },
+  {
+    "id": 3629,
+    "lemma": "مُخْضَرَّة",
+    "meaning": "lush",
+    "transliteration": "mukẖḍarrata",
+    "lemmaId": 4301
+  },
+  {
+    "id": 3630,
+    "lemma": "مُخْلَص",
+    "meaning": "chosen ones",
+    "transliteration": "mukh'las",
+    "lemmaId": 925
+  },
+  {
+    "id": 3631,
+    "lemma": "مُخْلِص",
+    "meaning": "sincere",
+    "transliteration": "mukhlis",
+    "lemmaId": 789
+  },
+  {
+    "id": 3632,
+    "lemma": "مُخْلِف",
+    "meaning": "leave behind",
+    "transliteration": "mukhlifi",
+    "lemmaId": 4302
+  },
+  {
+    "id": 3633,
+    "lemma": "مُدَبِّرَة",
+    "meaning": "those who manage",
+    "transliteration": "mudabbirata",
+    "lemmaId": 4303
+  },
+  {
+    "id": 3634,
+    "lemma": "مُدَّت",
+    "meaning": "term",
+    "transliteration": "muddata",
+    "lemmaId": 4304
+  },
+  {
+    "id": 3635,
+    "lemma": "مُدَّثِّر",
+    "meaning": "one who is wrapped up",
+    "transliteration": "muddaththir",
+    "lemmaId": 4305
+  },
+  {
+    "id": 3636,
+    "lemma": "مُدَّخَل",
+    "meaning": "place of entry",
+    "transliteration": "mudakhala",
+    "lemmaId": 4306
+  },
+  {
+    "id": 3637,
+    "lemma": "مُدَّكِر",
+    "meaning": "one who takes heed",
+    "transliteration": "mud'dakir",
+    "lemmaId": 1222
+  },
+  {
+    "id": 3638,
+    "lemma": "مُدْبِر",
+    "meaning": "fleeing, retreating, withdrawing",
+    "transliteration": "mud'bir",
+    "lemmaId": 999
+  },
+  {
+    "id": 3639,
+    "lemma": "مُدْحَض",
+    "meaning": "overcome",
+    "transliteration": "mudḥaḍ",
+    "lemmaId": 4307
+  },
+  {
+    "id": 3640,
+    "lemma": "مُدْخَل",
+    "meaning": "entrance",
+    "transliteration": "mudkhala",
+    "lemmaId": 1996
+  },
+  {
+    "id": 3641,
+    "lemma": "مُدْرَك",
+    "meaning": "overtaken",
+    "transliteration": "mud'rak",
+    "lemmaId": 4308
+  },
+  {
+    "id": 3642,
+    "lemma": "مُدْهامَّتان",
+    "meaning": "dark green",
+    "transliteration": "mud'hāmmatān",
+    "lemmaId": 4309
+  },
+  {
+    "id": 3643,
+    "lemma": "مُدْهِن",
+    "meaning": "compromising",
+    "transliteration": "mud'hin",
+    "lemmaId": 4310
+  },
+  {
+    "id": 3644,
+    "lemma": "مُذَبْذَب",
+    "meaning": "wavering",
+    "transliteration": "mudhabdhab",
+    "lemmaId": 4311
+  },
+  {
+    "id": 3645,
+    "lemma": "مُذَكِّر",
+    "meaning": "one who reminds",
+    "transliteration": "mudhakkir",
+    "lemmaId": 4312
+  },
+  {
+    "id": 3646,
+    "lemma": "مُذْعِن",
+    "meaning": "promptly obedient",
+    "transliteration": "muḏ'ʿin",
+    "lemmaId": 4313
+  },
+  {
+    "id": 3647,
+    "lemma": "مُراغَم",
+    "meaning": "place of refuge",
+    "transliteration": "murāgham",
+    "lemmaId": 4314
+  },
+  {
+    "id": 3648,
+    "lemma": "مُرِيب",
+    "meaning": "in unsettling doubt, one who casts doubt",
+    "transliteration": "murīb",
+    "lemmaId": 1100
+  },
+  {
+    "id": 3649,
+    "lemma": "مُرْتاب",
+    "meaning": "doubter",
+    "transliteration": "mur'āba",
+    "lemmaId": 4315
+  },
+  {
+    "id": 3650,
+    "lemma": "مُرْتَفَق",
+    "meaning": "resting place",
+    "transliteration": "murtafaq",
+    "lemmaId": 2660
+  },
+  {
+    "id": 3651,
+    "lemma": "مُرْتَقِب",
+    "meaning": "ones who watch in wait",
+    "transliteration": "mur'taqib",
+    "lemmaId": 4316
+  },
+  {
+    "id": 3652,
+    "lemma": "مُرْجَوْن",
+    "meaning": "those deferred",
+    "transliteration": "murjawn",
+    "lemmaId": 4317
+  },
+  {
+    "id": 3653,
+    "lemma": "مُرْجِف",
+    "meaning": "one who spreads rumors, agitator",
+    "transliteration": "murjif",
+    "lemmaId": 4318
+  },
+  {
+    "id": 3654,
+    "lemma": "مُرْدِف",
+    "meaning": "one after another",
+    "transliteration": "murdifi",
+    "lemmaId": 4319
+  },
+  {
+    "id": 3655,
+    "lemma": "مُرْسَل",
+    "meaning": "messenger, sent",
+    "transliteration": "mursal",
+    "lemmaId": 332
+  },
+  {
+    "id": 3656,
+    "lemma": "مُرْسَلَة",
+    "meaning": "ones sent forth",
+    "transliteration": "mur'salata",
+    "lemmaId": 4320
+  },
+  {
+    "id": 3657,
+    "lemma": "مُرْسِل",
+    "meaning": "to send",
+    "transliteration": "mursil",
+    "lemmaId": 1637
+  },
+  {
+    "id": 3658,
+    "lemma": "مُرْسِلَة",
+    "meaning": "to send",
+    "transliteration": "mur'silah",
+    "lemmaId": 4321
+  },
+  {
+    "id": 3659,
+    "lemma": "مُرْشِد",
+    "meaning": "guide",
+    "transliteration": "murshidi",
+    "lemmaId": 4322
+  },
+  {
+    "id": 3660,
+    "lemma": "مُرْضِعَة",
+    "meaning": "nursing mother",
+    "transliteration": "murḍiʿa",
+    "lemmaId": 4323
+  },
+  {
+    "id": 3661,
+    "lemma": "مُزَحْزِح",
+    "meaning": "to remove",
+    "transliteration": "muz-aḥziḥ",
+    "lemmaId": 4324
+  },
+  {
+    "id": 3662,
+    "lemma": "مُزَّمِّل",
+    "meaning": "enwrapped one",
+    "transliteration": "muzzammil",
+    "lemmaId": 4325
+  },
+  {
+    "id": 3663,
+    "lemma": "مُزِّقْ",
+    "meaning": "to tear apart, to be torn apart",
+    "transliteration": "muzziq",
+    "lemmaId": 2661
+  },
+  {
+    "id": 3664,
+    "lemma": "مُزْجاة",
+    "meaning": "of little value",
+    "transliteration": "muz'jāta",
+    "lemmaId": 4326
+  },
+  {
+    "id": 3665,
+    "lemma": "مُزْدَجَر",
+    "meaning": "deterrence",
+    "transliteration": "muzdajar",
+    "lemmaId": 4327
+  },
+  {
+    "id": 3666,
+    "lemma": "مُزْن",
+    "meaning": "rain clouds",
+    "transliteration": "muzn",
+    "lemmaId": 4328
+  },
+  {
+    "id": 3667,
+    "lemma": "مُسافِح",
+    "meaning": "those who commit unlawful intimate acts",
+    "transliteration": "musāfiḥ",
+    "lemmaId": 2662
+  },
+  {
+    "id": 3668,
+    "lemma": "مُسافِحَة",
+    "meaning": "those who commit unlawful intimate acts",
+    "transliteration": "musāfiḥata",
+    "lemmaId": 4329
+  },
+  {
+    "id": 3669,
+    "lemma": "مُسَبِّح",
+    "meaning": "one who glorifies",
+    "transliteration": "musabbiḥ",
+    "lemmaId": 2663
+  },
+  {
+    "id": 3670,
+    "lemma": "مُسَحَّر",
+    "meaning": "bewitched",
+    "transliteration": "musahhar",
+    "lemmaId": 2664
+  },
+  {
+    "id": 3671,
+    "lemma": "مُسَخَّر",
+    "meaning": "made subservient",
+    "transliteration": "musakhkhar",
+    "lemmaId": 4330
+  },
+  {
+    "id": 3672,
+    "lemma": "مُسَخَّرَة",
+    "meaning": "made subservient",
+    "transliteration": "musakhkharata",
+    "lemmaId": 1998
+  },
+  {
+    "id": 3673,
+    "lemma": "مُسَلَّمَة",
+    "meaning": "submitted, unblemished",
+    "transliteration": "musallamata",
+    "lemmaId": 1999
+  },
+  {
+    "id": 3674,
+    "lemma": "مُسَمًّى",
+    "meaning": "to fix, to specify, to appoint, to determine",
+    "transliteration": "musamman",
+    "lemmaId": 486
+  },
+  {
+    "id": 3675,
+    "lemma": "مُسَنَّدَة",
+    "meaning": "to prop up",
+    "transliteration": "musannadata",
+    "lemmaId": 4331
+  },
+  {
+    "id": 3676,
+    "lemma": "مُسَوَّمَة",
+    "meaning": "marked, branded",
+    "transliteration": "musawwamah",
+    "lemmaId": 2000
+  },
+  {
+    "id": 3677,
+    "lemma": "مُسَوِّم",
+    "meaning": "to have marks",
+    "transliteration": "musawwim",
+    "lemmaId": 4332
+  },
+  {
+    "id": 3678,
+    "lemma": "مُسِيء",
+    "meaning": "evildoer",
+    "transliteration": "musīu",
+    "lemmaId": 4333
+  },
+  {
+    "id": 3679,
+    "lemma": "مُسْتَأْخِر",
+    "meaning": "later ones",
+    "transliteration": "mustaʾkhir",
+    "lemmaId": 4334
+  },
+  {
+    "id": 3680,
+    "lemma": "مُسْتَأْنِس",
+    "meaning": "to seek sociability",
+    "transliteration": "mustaʾnis",
+    "lemmaId": 4335
+  },
+  {
+    "id": 3681,
+    "lemma": "مُسْتَبِين",
+    "meaning": "made clear",
+    "transliteration": "mustabīn",
+    "lemmaId": 4336
+  },
+  {
+    "id": 3682,
+    "lemma": "مُسْتَبْشِرَة",
+    "meaning": "rejoicing at good news",
+    "transliteration": "mustabshirata",
+    "lemmaId": 4337
+  },
+  {
+    "id": 3683,
+    "lemma": "مُسْتَبْصِر",
+    "meaning": "endowed with insight",
+    "transliteration": "mustabṣir",
+    "lemmaId": 4338
+  },
+  {
+    "id": 3684,
+    "lemma": "مُسْتَخْف",
+    "meaning": "hides himself",
+    "transliteration": "mustakhf",
+    "lemmaId": 4339
+  },
+  {
+    "id": 3685,
+    "lemma": "مُسْتَخْلَف",
+    "meaning": "trustees",
+    "transliteration": "mustakhlaf",
+    "lemmaId": 4340
+  },
+  {
+    "id": 3686,
+    "lemma": "مُسْتَسْلِم",
+    "meaning": "surrendering",
+    "transliteration": "mustaslim",
+    "lemmaId": 4341
+  },
+  {
+    "id": 3687,
+    "lemma": "مُسْتَضْعَف",
+    "meaning": "considered weak, oppressed",
+    "transliteration": "mustaḍʿaf",
+    "lemmaId": 1398
+  },
+  {
+    "id": 3688,
+    "lemma": "مُسْتَطَر",
+    "meaning": "to write",
+    "transliteration": "mustaṭar",
+    "lemmaId": 4342
+  },
+  {
+    "id": 3689,
+    "lemma": "مُسْتَطِير",
+    "meaning": "widespread",
+    "transliteration": "mustaṭīr",
+    "lemmaId": 4343
+  },
+  {
+    "id": 3690,
+    "lemma": "مُسْتَعان",
+    "meaning": "the One sought for help",
+    "transliteration": "mustaʿān",
+    "lemmaId": 2665
+  },
+  {
+    "id": 3691,
+    "lemma": "مُسْتَغْفِر",
+    "meaning": "to seek forgiveness",
+    "transliteration": "mustaghfir",
+    "lemmaId": 4344
+  },
+  {
+    "id": 3692,
+    "lemma": "مُسْتَقَرّ",
+    "meaning": "dwelling place, fixed time",
+    "transliteration": "mustaqarr",
+    "lemmaId": 851
+  },
+  {
+    "id": 3693,
+    "lemma": "مُسْتَقِرّ",
+    "meaning": "to place, to settle, to abide",
+    "transliteration": "mustaqirr",
+    "lemmaId": 2001
+  },
+  {
+    "id": 3694,
+    "lemma": "مُسْتَقِيم",
+    "meaning": "straight",
+    "transliteration": "mustaqīm",
+    "lemmaId": 316
+  },
+  {
+    "id": 3695,
+    "lemma": "مُسْتَقْبِل",
+    "meaning": "approaching",
+    "transliteration": "mustaqbil",
+    "lemmaId": 4345
+  },
+  {
+    "id": 3696,
+    "lemma": "مُسْتَقْدِم",
+    "meaning": "preceding",
+    "transliteration": "mustaqdim",
+    "lemmaId": 4346
+  },
+  {
+    "id": 3697,
+    "lemma": "مُسْتَكْبِر",
+    "meaning": "to seek to exalt oneself, to seek arrogance",
+    "transliteration": "mustakbir",
+    "lemmaId": 1223
+  },
+  {
+    "id": 3698,
+    "lemma": "مُسْتَمِرّ",
+    "meaning": "persistent, continuous",
+    "transliteration": "mustamirr",
+    "lemmaId": 2666
+  },
+  {
+    "id": 3699,
+    "lemma": "مُسْتَمِع",
+    "meaning": "listener",
+    "transliteration": "mustamia",
+    "lemmaId": 2667
+  },
+  {
+    "id": 3700,
+    "lemma": "مُسْتَمْسِك",
+    "meaning": "clinging firmly",
+    "transliteration": "mustam sik",
+    "lemmaId": 4347
+  },
+  {
+    "id": 3701,
+    "lemma": "مُسْتَنفِرَة",
+    "meaning": "startled",
+    "transliteration": "mustanfirata",
+    "lemmaId": 4348
+  },
+  {
+    "id": 3702,
+    "lemma": "مُسْتَهْزِء",
+    "meaning": "mocker",
+    "transliteration": "mustaḥziʾ",
+    "lemmaId": 2668
+  },
+  {
+    "id": 3703,
+    "lemma": "مُسْتَوْدَع",
+    "meaning": "resting place, place of storage",
+    "transliteration": "mustawda",
+    "lemmaId": 2669
+  },
+  {
+    "id": 3704,
+    "lemma": "مُسْتَيْقِن",
+    "meaning": "ones who are fully convinced",
+    "transliteration": "mustayqin",
+    "lemmaId": 4349
+  },
+  {
+    "id": 3705,
+    "lemma": "مُسْرِف",
+    "meaning": "transgressor, extravagant",
+    "transliteration": "mus'rifa",
+    "lemmaId": 626
+  },
+  {
+    "id": 3706,
+    "lemma": "مُسْفِرَة",
+    "meaning": "to be bright",
+    "transliteration": "mus'firate",
+    "lemmaId": 4350
+  },
+  {
+    "id": 3707,
+    "lemma": "مُسْلِم",
+    "meaning": "Muslim, submissive",
+    "transliteration": "muslim",
+    "lemmaId": 301
+  },
+  {
+    "id": 3708,
+    "lemma": "مُسْلِمَة",
+    "meaning": "submissive, Muslim woman",
+    "transliteration": "muslima",
+    "lemmaId": 2002
+  },
+  {
+    "id": 3709,
+    "lemma": "مُسْمَع",
+    "meaning": "to hear",
+    "transliteration": "mus'ma",
+    "lemmaId": 4351
+  },
+  {
+    "id": 3710,
+    "lemma": "مُسْمِع",
+    "meaning": "to make hear",
+    "transliteration": "mus'miʿ",
+    "lemmaId": 4352
+  },
+  {
+    "id": 3711,
+    "lemma": "مُسْوَدّ",
+    "meaning": "darkened",
+    "transliteration": "muswadd",
+    "lemmaId": 2670
+  },
+  {
+    "id": 3712,
+    "lemma": "مُسْوَدَّة",
+    "meaning": "blackened",
+    "transliteration": "muswadda",
+    "lemmaId": 4353
+  },
+  {
+    "id": 3713,
+    "lemma": "مُشَيَّدَة",
+    "meaning": "fortified",
+    "transliteration": "mushayyadah",
+    "lemmaId": 4354
+  },
+  {
+    "id": 3714,
+    "lemma": "مُشْتَبِه",
+    "meaning": "to resemble",
+    "transliteration": "mushtabi",
+    "lemmaId": 4355
+  },
+  {
+    "id": 3715,
+    "lemma": "مُشْتَرِك",
+    "meaning": "to share",
+    "transliteration": "mushtarik",
+    "lemmaId": 2671
+  },
+  {
+    "id": 3716,
+    "lemma": "مُشْرِق",
+    "meaning": "sunrise",
+    "transliteration": "mushriq",
+    "lemmaId": 2672
+  },
+  {
+    "id": 3717,
+    "lemma": "مُشْرِك",
+    "meaning": "polytheists",
+    "transliteration": "mušrik",
+    "lemmaId": 263
+  },
+  {
+    "id": 3718,
+    "lemma": "مُشْرِكَة",
+    "meaning": "polytheistic woman",
+    "transliteration": "mushrikah",
+    "lemmaId": 1399
+  },
+  {
+    "id": 3719,
+    "lemma": "مُشْفِق",
+    "meaning": "to be fearful, to be afraid, to be cautious",
+    "transliteration": "mushfiq",
+    "lemmaId": 1000
+  },
+  {
+    "id": 3720,
+    "lemma": "مُصَدِّق",
+    "meaning": "to confirm",
+    "transliteration": "muṣaddiq",
+    "lemmaId": 521
+  },
+  {
+    "id": 3721,
+    "lemma": "مُصَفًّى",
+    "meaning": "to purify",
+    "transliteration": "muṣaffan",
+    "lemmaId": 4356
+  },
+  {
+    "id": 3722,
+    "lemma": "مُصَلّي",
+    "meaning": "those who pray",
+    "transliteration": "muṣallī",
+    "lemmaId": 2003
+  },
+  {
+    "id": 3723,
+    "lemma": "مُصَلًّى",
+    "meaning": "place of prayer",
+    "transliteration": "muṣallan",
+    "lemmaId": 4357
+  },
+  {
+    "id": 3724,
+    "lemma": "مُصَوِّر",
+    "meaning": "fashioner",
+    "transliteration": "muṣawwir",
+    "lemmaId": 4358
+  },
+  {
+    "id": 3725,
+    "lemma": "مُصَيْطِر",
+    "meaning": "controller",
+    "transliteration": "muṣayṭir",
+    "lemmaId": 2673
+  },
+  {
+    "id": 3726,
+    "lemma": "مُصِيب",
+    "meaning": "to strike",
+    "transliteration": "muṣīb",
+    "lemmaId": 4359
+  },
+  {
+    "id": 3727,
+    "lemma": "مُصِيبَة",
+    "meaning": "misfortune, disaster, calamity",
+    "transliteration": "muṣībata",
+    "lemmaId": 852
+  },
+  {
+    "id": 3728,
+    "lemma": "مُصَّدِّق",
+    "meaning": "men who faithfully give in charity",
+    "transliteration": "muṣaddiq",
+    "lemmaId": 4360
+  },
+  {
+    "id": 3729,
+    "lemma": "مُصَّدِّقَة",
+    "meaning": "women who faithfully give in charity",
+    "transliteration": "muṣaddiqata",
+    "lemmaId": 4361
+  },
+  {
+    "id": 3730,
+    "lemma": "مُصْبِح",
+    "meaning": "morning",
+    "transliteration": "muṣbiḥ",
+    "lemmaId": 1400
+  },
+  {
+    "id": 3731,
+    "lemma": "مُصْرِخ",
+    "meaning": "to be a helper",
+    "transliteration": "muṣrikh",
+    "lemmaId": 2674
+  },
+  {
+    "id": 3732,
+    "lemma": "مُصْطَفَيْن",
+    "meaning": "chosen",
+    "transliteration": "muṣṭafayn",
+    "lemmaId": 4362
+  },
+  {
+    "id": 3733,
+    "lemma": "مُصْفَرّ",
+    "meaning": "turned yellow",
+    "transliteration": "muṣfarr",
+    "lemmaId": 2004
+  },
+  {
+    "id": 3734,
+    "lemma": "مُصْلِح",
+    "meaning": "reformers",
+    "transliteration": "muṣliḥ",
+    "lemmaId": 1401
+  },
+  {
+    "id": 3735,
+    "lemma": "مُضارّ",
+    "meaning": "harmful",
+    "transliteration": "muḍārr",
+    "lemmaId": 4363
+  },
+  {
+    "id": 3736,
+    "lemma": "مُضاعَفَة",
+    "meaning": "multiplied",
+    "transliteration": "muḍāʿafaة",
+    "lemmaId": 4364
+  },
+  {
+    "id": 3737,
+    "lemma": "مُضِلّ",
+    "meaning": "misleader",
+    "transliteration": "muḍill",
+    "lemmaId": 2005
+  },
+  {
+    "id": 3738,
+    "lemma": "مُضِيّ",
+    "meaning": "to proceed",
+    "transliteration": "muḍiyy",
+    "lemmaId": 4365
+  },
+  {
+    "id": 3739,
+    "lemma": "مُضْطَرّ",
+    "meaning": "distressed",
+    "transliteration": "muḍṭarr",
+    "lemmaId": 4366
+  },
+  {
+    "id": 3740,
+    "lemma": "مُضْعِف",
+    "meaning": "ones whose efforts are multiplied",
+    "transliteration": "muḍʿif",
+    "lemmaId": 4367
+  },
+  {
+    "id": 3741,
+    "lemma": "مُضْغَة",
+    "meaning": "embryonic lump",
+    "transliteration": "muḍghata",
+    "lemmaId": 2006
+  },
+  {
+    "id": 3742,
+    "lemma": "مُطاع",
+    "meaning": "to be obeyed",
+    "transliteration": "muṭāʿ",
+    "lemmaId": 4368
+  },
+  {
+    "id": 3743,
+    "lemma": "مُطَفِّف",
+    "meaning": "to give less",
+    "transliteration": "muṭaffif",
+    "lemmaId": 4369
+  },
+  {
+    "id": 3744,
+    "lemma": "مُطَلَّقَة",
+    "meaning": "divorced woman",
+    "transliteration": "muṭallaqata",
+    "lemmaId": 2675
+  },
+  {
+    "id": 3745,
+    "lemma": "مُطَهَّر",
+    "meaning": "purified",
+    "transliteration": "muṭahhar",
+    "lemmaId": 4370
+  },
+  {
+    "id": 3746,
+    "lemma": "مُطَهَّرَة",
+    "meaning": "pure, purified",
+    "transliteration": "muṭahharata",
+    "lemmaId": 1402
+  },
+  {
+    "id": 3747,
+    "lemma": "مُطَهِّر",
+    "meaning": "to purify",
+    "transliteration": "muṭahhir",
+    "lemmaId": 4371
+  },
+  {
+    "id": 3748,
+    "lemma": "مُطَّلِع",
+    "meaning": "to look",
+    "transliteration": "muṭṭaliʿ",
+    "lemmaId": 4372
+  },
+  {
+    "id": 3749,
+    "lemma": "مُطَّهِّر",
+    "meaning": "ones who thoroughly purify themselves",
+    "transliteration": "muṭṭahir",
+    "lemmaId": 4373
+  },
+  {
+    "id": 3750,
+    "lemma": "مُطَّوِّع",
+    "meaning": "to give willingly",
+    "transliteration": "muṭṭawwiʿ",
+    "lemmaId": 4374
+  },
+  {
+    "id": 3751,
+    "lemma": "مُطْمَئِنّ",
+    "meaning": "to be content, to be secure",
+    "transliteration": "muṭ'maʾinn",
+    "lemmaId": 2676
+  },
+  {
+    "id": 3752,
+    "lemma": "مُطْمَئِنَّة",
+    "meaning": "at peace",
+    "transliteration": "muṭ'ma'innah",
+    "lemmaId": 2677
+  },
+  {
+    "id": 3753,
+    "lemma": "مُظْلِم",
+    "meaning": "darkness",
+    "transliteration": "muẓlim",
+    "lemmaId": 2678
+  },
+  {
+    "id": 3754,
+    "lemma": "مُعاجِز",
+    "meaning": "to cause failure",
+    "transliteration": "muʿājiz",
+    "lemmaId": 2007
+  },
+  {
+    "id": 3755,
+    "lemma": "مُعَذَّب",
+    "meaning": "one who is punished",
+    "transliteration": "muʿaẓẓab",
+    "lemmaId": 1638
+  },
+  {
+    "id": 3756,
+    "lemma": "مُعَذِّب",
+    "meaning": "one who punishes",
+    "transliteration": "muʿaẓẓib",
+    "lemmaId": 1639
+  },
+  {
+    "id": 3757,
+    "lemma": "مُعَذِّر",
+    "meaning": "ones who make excuses",
+    "transliteration": "muʿaẓẓir",
+    "lemmaId": 4375
+  },
+  {
+    "id": 3758,
+    "lemma": "مُعَطَّلَة",
+    "meaning": "abandoned",
+    "transliteration": "muʿaṭṭalata",
+    "lemmaId": 4376
+  },
+  {
+    "id": 3759,
+    "lemma": "مُعَقِّب",
+    "meaning": "adjuster",
+    "transliteration": "muʿaqqib",
+    "lemmaId": 4377
+  },
+  {
+    "id": 3760,
+    "lemma": "مُعَقِّبَة",
+    "meaning": "successive",
+    "transliteration": "muʿaqqibata",
+    "lemmaId": 4378
+  },
+  {
+    "id": 3761,
+    "lemma": "مُعَلَّقَة",
+    "meaning": "suspended",
+    "transliteration": "muʿallaqah",
+    "lemmaId": 4379
+  },
+  {
+    "id": 3762,
+    "lemma": "مُعَلَّم",
+    "meaning": "taught",
+    "transliteration": "muʿallam",
+    "lemmaId": 4380
+  },
+  {
+    "id": 3763,
+    "lemma": "مُعَمَّر",
+    "meaning": "aged",
+    "transliteration": "muʿammar",
+    "lemmaId": 4381
+  },
+  {
+    "id": 3764,
+    "lemma": "مُعَوِّق",
+    "meaning": "to hinder",
+    "transliteration": "muʿawwiq",
+    "lemmaId": 4382
+  },
+  {
+    "id": 3765,
+    "lemma": "مُعْتَب",
+    "meaning": "those who receive favor",
+    "transliteration": "muʿtab",
+    "lemmaId": 4383
+  },
+  {
+    "id": 3766,
+    "lemma": "مُعْتَد",
+    "meaning": "transgressor",
+    "transliteration": "muʿtad",
+    "lemmaId": 2008
+  },
+  {
+    "id": 3767,
+    "lemma": "مُعْتَدي",
+    "meaning": "transgressors",
+    "transliteration": "muʿtadi",
+    "lemmaId": 1224
+  },
+  {
+    "id": 3768,
+    "lemma": "مُعْتَرّ",
+    "meaning": "needy person who shows interest in receiving",
+    "transliteration": "muʿtarr",
+    "lemmaId": 4384
+  },
+  {
+    "id": 3769,
+    "lemma": "مُعْجِز",
+    "meaning": "overpower",
+    "transliteration": "muʿjiz",
+    "lemmaId": 740
+  },
+  {
+    "id": 3770,
+    "lemma": "مُعْرِض",
+    "meaning": "one who turns away, to be averse",
+    "transliteration": "muʿriḍ",
+    "lemmaId": 522
+  },
+  {
+    "id": 3771,
+    "lemma": "مُعْصِرَة",
+    "meaning": "rain cloud",
+    "transliteration": "muʿṣirah",
+    "lemmaId": 4385
+  },
+  {
+    "id": 3772,
+    "lemma": "مُغاضِب",
+    "meaning": "distancing oneself due to anger",
+    "transliteration": "mughāḍib",
+    "lemmaId": 4386
+  },
+  {
+    "id": 3773,
+    "lemma": "مُغَيِّر",
+    "meaning": "one who changes",
+    "transliteration": "mughayyir",
+    "lemmaId": 4387
+  },
+  {
+    "id": 3774,
+    "lemma": "مُغِيرَة",
+    "meaning": "charger",
+    "transliteration": "mughīrata",
+    "lemmaId": 4388
+  },
+  {
+    "id": 3775,
+    "lemma": "مُغْتَسَل",
+    "meaning": "to bathe",
+    "transliteration": "mugh'tasal",
+    "lemmaId": 4389
+  },
+  {
+    "id": 3776,
+    "lemma": "مُغْرَق",
+    "meaning": "to be drowned",
+    "transliteration": "mughraq",
+    "lemmaId": 1640
+  },
+  {
+    "id": 3777,
+    "lemma": "مُغْرَم",
+    "meaning": "to be laden with debt",
+    "transliteration": "mughram",
+    "lemmaId": 4390
+  },
+  {
+    "id": 3778,
+    "lemma": "مُغْني",
+    "meaning": "to avail, to avert",
+    "transliteration": "mughni",
+    "lemmaId": 2679
+  },
+  {
+    "id": 3779,
+    "lemma": "مُفَتَّحَة",
+    "meaning": "to open",
+    "transliteration": "mufattaḥata",
+    "lemmaId": 4391
+  },
+  {
+    "id": 3780,
+    "lemma": "مُفَصَّل",
+    "meaning": "distinctly explained",
+    "transliteration": "mufaṣṣal",
+    "lemmaId": 4392
+  },
+  {
+    "id": 3781,
+    "lemma": "مُفَصَّلَة",
+    "meaning": "distinctly explained",
+    "transliteration": "mufaṣṣalata",
+    "lemmaId": 4393
+  },
+  {
+    "id": 3782,
+    "lemma": "مُفْتَر",
+    "meaning": "fabricator",
+    "transliteration": "muftara",
+    "lemmaId": 4394
+  },
+  {
+    "id": 3783,
+    "lemma": "مُفْتَري",
+    "meaning": "fabricated",
+    "transliteration": "muftari",
+    "lemmaId": 2680
+  },
+  {
+    "id": 3784,
+    "lemma": "مُفْتَرًى",
+    "meaning": "fabricated",
+    "transliteration": "muftaran",
+    "lemmaId": 2681
+  },
+  {
+    "id": 3785,
+    "lemma": "مُفْتَرَيَة",
+    "meaning": "fabricated",
+    "transliteration": "muftarayata",
+    "lemmaId": 4395
+  },
+  {
+    "id": 3786,
+    "lemma": "مُفْرَط",
+    "meaning": "to abandon",
+    "transliteration": "muf'raṭ",
+    "lemmaId": 4396
+  },
+  {
+    "id": 3787,
+    "lemma": "مُفْسِد",
+    "meaning": "to spread corruption",
+    "transliteration": "muf'sid",
+    "lemmaId": 487
+  },
+  {
+    "id": 3788,
+    "lemma": "مُفْلِح",
+    "meaning": "successful",
+    "transliteration": "muf'liḥ",
+    "lemmaId": 691
+  },
+  {
+    "id": 3789,
+    "lemma": "مُقام",
+    "meaning": "resting place, stand",
+    "transliteration": "muqām",
+    "lemmaId": 2009
+  },
+  {
+    "id": 3790,
+    "lemma": "مُقامَة",
+    "meaning": "eternity",
+    "transliteration": "muqāmah",
+    "lemmaId": 4397
+  },
+  {
+    "id": 3791,
+    "lemma": "مُقَدَّس",
+    "meaning": "sanctified",
+    "transliteration": "muqaddas",
+    "lemmaId": 2682
+  },
+  {
+    "id": 3792,
+    "lemma": "مُقَدَّسَة",
+    "meaning": "sanctified",
+    "transliteration": "muqaddasata",
+    "lemmaId": 4398
+  },
+  {
+    "id": 3793,
+    "lemma": "مُقَرَّب",
+    "meaning": "ones who are brought near",
+    "transliteration": "muqarrab",
+    "lemmaId": 1001
+  },
+  {
+    "id": 3794,
+    "lemma": "مُقَرَّن",
+    "meaning": "bound together",
+    "transliteration": "muqarran",
+    "lemmaId": 2010
+  },
+  {
+    "id": 3795,
+    "lemma": "مُقَسِّمَة",
+    "meaning": "to distribute",
+    "transliteration": "muqassimah",
+    "lemmaId": 4399
+  },
+  {
+    "id": 3796,
+    "lemma": "مُقَصِّر",
+    "meaning": "to shorten",
+    "transliteration": "muqAṣṣir",
+    "lemmaId": 4400
+  },
+  {
+    "id": 3797,
+    "lemma": "مُقَنطَرَة",
+    "meaning": "amassed",
+    "transliteration": "muqanṭarata",
+    "lemmaId": 4401
+  },
+  {
+    "id": 3798,
+    "lemma": "مُقِيت",
+    "meaning": "Preserver",
+    "transliteration": "muqīt",
+    "lemmaId": 4402
+  },
+  {
+    "id": 3799,
+    "lemma": "مُقِيم",
+    "meaning": "one who establishes, enduring, lasting, established",
+    "transliteration": "muqīm",
+    "lemmaId": 853
+  },
+  {
+    "id": 3800,
+    "lemma": "مُقْتَحِم",
+    "meaning": "rushing in",
+    "transliteration": "muq'taḥim",
+    "lemmaId": 4403
+  },
+  {
+    "id": 3801,
+    "lemma": "مُقْتَدي",
+    "meaning": "to follow",
+    "transliteration": "muq'tadī",
+    "lemmaId": 4404
+  },
+  {
+    "id": 3802,
+    "lemma": "مُقْتَدِر",
+    "meaning": "powerful, able",
+    "transliteration": "muq'tadir",
+    "lemmaId": 1641
+  },
+  {
+    "id": 3803,
+    "lemma": "مُقْتَرِف",
+    "meaning": "committing",
+    "transliteration": "muq'tarif",
+    "lemmaId": 4405
+  },
+  {
+    "id": 3804,
+    "lemma": "مُقْتَرِن",
+    "meaning": "closely joined",
+    "transliteration": "muq'tarin",
+    "lemmaId": 4406
+  },
+  {
+    "id": 3805,
+    "lemma": "مُقْتَسِم",
+    "meaning": "those who divide",
+    "transliteration": "muq'tasim",
+    "lemmaId": 4407
+  },
+  {
+    "id": 3806,
+    "lemma": "مُقْتَصِد",
+    "meaning": "moderate",
+    "transliteration": "muq'taṣid",
+    "lemmaId": 2683
+  },
+  {
+    "id": 3807,
+    "lemma": "مُقْتَصِدَة",
+    "meaning": "moderate",
+    "transliteration": "muq'taṣidata",
+    "lemmaId": 4408
+  },
+  {
+    "id": 3808,
+    "lemma": "مُقْتِر",
+    "meaning": "poor",
+    "transliteration": "muq'tir",
+    "lemmaId": 4409
+  },
+  {
+    "id": 3809,
+    "lemma": "مُقْرِن",
+    "meaning": "capable",
+    "transliteration": "muqrin",
+    "lemmaId": 4410
+  },
+  {
+    "id": 3810,
+    "lemma": "مُقْسِط",
+    "meaning": "just",
+    "transliteration": "muq'siṭ",
+    "lemmaId": 2011
+  },
+  {
+    "id": 3811,
+    "lemma": "مُقْمَح",
+    "meaning": "heads raised up",
+    "transliteration": "muq'maḥ",
+    "lemmaId": 4411
+  },
+  {
+    "id": 3812,
+    "lemma": "مُقْنِعِي",
+    "meaning": "raised up",
+    "transliteration": "muqniʿī",
+    "lemmaId": 4412
+  },
+  {
+    "id": 3813,
+    "lemma": "مُكاء",
+    "meaning": "whistling",
+    "transliteration": "mukā",
+    "lemmaId": 4414
+  },
+  {
+    "id": 3814,
+    "lemma": "مُكَذِّب",
+    "meaning": "deniers",
+    "transliteration": "mukażżib",
+    "lemmaId": 488
+  },
+  {
+    "id": 3815,
+    "lemma": "مُكَرَّمَة",
+    "meaning": "honored",
+    "transliteration": "mukarramata",
+    "lemmaId": 4415
+  },
+  {
+    "id": 3816,
+    "lemma": "مُكَلِّب",
+    "meaning": "trainers of hunting animals",
+    "transliteration": "mukallib",
+    "lemmaId": 4416
+  },
+  {
+    "id": 3817,
+    "lemma": "مُكِبّ",
+    "meaning": "turned downward",
+    "transliteration": "mukibba",
+    "lemmaId": 4417
+  },
+  {
+    "id": 3818,
+    "lemma": "مُكْث",
+    "meaning": "duration",
+    "transliteration": "mukth",
+    "lemmaId": 4418
+  },
+  {
+    "id": 3819,
+    "lemma": "مُكْرَم",
+    "meaning": "honored",
+    "transliteration": "mukram",
+    "lemmaId": 1403
+  },
+  {
+    "id": 3820,
+    "lemma": "مُكْرِم",
+    "meaning": "bestower of honor",
+    "transliteration": "mukrim",
+    "lemmaId": 4419
+  },
+  {
+    "id": 3821,
+    "lemma": "مُلاق",
+    "meaning": "meeting",
+    "transliteration": "mulāq",
+    "lemmaId": 4420
+  },
+  {
+    "id": 3822,
+    "lemma": "مُلاقُوا",
+    "meaning": "meeting, those who meet",
+    "transliteration": "mulāqū",
+    "lemmaId": 1642
+  },
+  {
+    "id": 3823,
+    "lemma": "مُلاقِي",
+    "meaning": "will meet",
+    "transliteration": "mulāqī",
+    "lemmaId": 2684
+  },
+  {
+    "id": 3824,
+    "lemma": "مُلِئَتْ",
+    "meaning": "to fill",
+    "transliteration": "muli't",
+    "lemmaId": 1225
+  },
+  {
+    "id": 3825,
+    "lemma": "مُلِيم",
+    "meaning": "blameworthy",
+    "transliteration": "mulīm",
+    "lemmaId": 2685
+  },
+  {
+    "id": 3826,
+    "lemma": "مُلْتَحَد",
+    "meaning": "place of refuge",
+    "transliteration": "mul'taḥad",
+    "lemmaId": 2686
+  },
+  {
+    "id": 3827,
+    "lemma": "مُلْقي",
+    "meaning": "those who throw, throwing",
+    "transliteration": "mulqā",
+    "lemmaId": 2012
+  },
+  {
+    "id": 3828,
+    "lemma": "مُلْقِيَة",
+    "meaning": "those who bring down",
+    "transliteration": "mul'qiyah",
+    "lemmaId": 4421
+  },
+  {
+    "id": 3829,
+    "lemma": "مُلْك",
+    "meaning": "kingdom, dominion, sovereignty",
+    "transliteration": "mulku",
+    "lemmaId": 246
+  },
+  {
+    "id": 3830,
+    "lemma": "مُمَدَّدَة",
+    "meaning": "extended",
+    "transliteration": "mumaddadah",
+    "lemmaId": 4422
+  },
+  {
+    "id": 3831,
+    "lemma": "مُمَرَّد",
+    "meaning": "made smooth",
+    "transliteration": "mumarrad",
+    "lemmaId": 4423
+  },
+  {
+    "id": 3832,
+    "lemma": "مُمَزَّق",
+    "meaning": "dispersal",
+    "transliteration": "mumazzaq",
+    "lemmaId": 2687
+  },
+  {
+    "id": 3833,
+    "lemma": "مُمِدّ",
+    "meaning": "supply",
+    "transliteration": "mumidd",
+    "lemmaId": 4424
+  },
+  {
+    "id": 3834,
+    "lemma": "مُمْتَري",
+    "meaning": "doubters",
+    "transliteration": "mumtari",
+    "lemmaId": 1643
+  },
+  {
+    "id": 3835,
+    "lemma": "مُمْسِك",
+    "meaning": "withholder",
+    "transliteration": "mum'siki",
+    "lemmaId": 4425
+  },
+  {
+    "id": 3836,
+    "lemma": "مُمْسِكَة",
+    "meaning": "withholders",
+    "transliteration": "mum'ṣikata",
+    "lemmaId": 4426
+  },
+  {
+    "id": 3837,
+    "lemma": "مُمْطِر",
+    "meaning": "bringing rain",
+    "transliteration": "mumṭir",
+    "lemmaId": 4427
+  },
+  {
+    "id": 3838,
+    "lemma": "مُناد",
+    "meaning": "caller",
+    "transliteration": "munād",
+    "lemmaId": 4428
+  },
+  {
+    "id": 3839,
+    "lemma": "مُنادِي",
+    "meaning": "caller",
+    "transliteration": "munādī",
+    "lemmaId": 4429
+  },
+  {
+    "id": 3840,
+    "lemma": "مُنافِق",
+    "meaning": "hypocrites",
+    "transliteration": "munāfiq",
+    "lemmaId": 403
+  },
+  {
+    "id": 3841,
+    "lemma": "مُنافِقَة",
+    "meaning": "hypocrites",
+    "transliteration": "munāfiqata",
+    "lemmaId": 1404
+  },
+  {
+    "id": 3842,
+    "lemma": "مُنبَثّ",
+    "meaning": "scattered",
+    "transliteration": "munbabth",
+    "lemmaId": 4430
+  },
+  {
+    "id": 3843,
+    "lemma": "مُنتَشِر",
+    "meaning": "dispersing",
+    "transliteration": "mun'tashir",
+    "lemmaId": 4431
+  },
+  {
+    "id": 3844,
+    "lemma": "مُنتَصِر",
+    "meaning": "victorious, one who defends himself",
+    "transliteration": "mun'taṣir",
+    "lemmaId": 1644
+  },
+  {
+    "id": 3845,
+    "lemma": "مُنتَظِر",
+    "meaning": "waiting",
+    "transliteration": "mun'taẓir",
+    "lemmaId": 1226
+  },
+  {
+    "id": 3846,
+    "lemma": "مُنتَقِم",
+    "meaning": "Ones who takes retribution",
+    "transliteration": "mun'taqim",
+    "lemmaId": 2013
+  },
+  {
+    "id": 3847,
+    "lemma": "مُنتَهي",
+    "meaning": "those who refrain",
+    "transliteration": "mun'tahī",
+    "lemmaId": 4432
+  },
+  {
+    "id": 3848,
+    "lemma": "مُنذَر",
+    "meaning": "one who is warned",
+    "transliteration": "munzara",
+    "lemmaId": 1405
+  },
+  {
+    "id": 3849,
+    "lemma": "مُنذِر",
+    "meaning": "warner, warning",
+    "transliteration": "munziri",
+    "lemmaId": 627
+  },
+  {
+    "id": 3850,
+    "lemma": "مُنزَل",
+    "meaning": "place of settlement, ones caused to descend",
+    "transliteration": "munzal",
+    "lemmaId": 2688
+  },
+  {
+    "id": 3851,
+    "lemma": "مُنزِل",
+    "meaning": "ones who bring down, facilitator of settlement, host",
+    "transliteration": "munzil",
+    "lemmaId": 1406
+  },
+  {
+    "id": 3852,
+    "lemma": "مُنشَآت",
+    "meaning": "elevated sails",
+    "transliteration": "munshāʾāt",
+    "lemmaId": 4433
+  },
+  {
+    "id": 3853,
+    "lemma": "مُنشَر",
+    "meaning": "resurrected",
+    "transliteration": "munshar",
+    "lemmaId": 4434
+  },
+  {
+    "id": 3854,
+    "lemma": "مُنشِئ",
+    "meaning": "producers",
+    "transliteration": "munshiʾ",
+    "lemmaId": 4435
+  },
+  {
+    "id": 3855,
+    "lemma": "مُنظَر",
+    "meaning": "those given respite",
+    "transliteration": "munẓar",
+    "lemmaId": 1227
+  },
+  {
+    "id": 3856,
+    "lemma": "مُنفَطِر",
+    "meaning": "to break apart",
+    "transliteration": "mun'faṭir",
+    "lemmaId": 4436
+  },
+  {
+    "id": 3857,
+    "lemma": "مُنفَكّ",
+    "meaning": "to abandon",
+    "transliteration": "munfakk",
+    "lemmaId": 4437
+  },
+  {
+    "id": 3858,
+    "lemma": "مُنفِق",
+    "meaning": "those who spend",
+    "transliteration": "munfiq",
+    "lemmaId": 4438
+  },
+  {
+    "id": 3859,
+    "lemma": "مُنقَعِر",
+    "meaning": "to uproot",
+    "transliteration": "munqaʿir",
+    "lemmaId": 4439
+  },
+  {
+    "id": 3860,
+    "lemma": "مُنقَلَب",
+    "meaning": "return",
+    "transliteration": "munqalab",
+    "lemmaId": 2689
+  },
+  {
+    "id": 3861,
+    "lemma": "مُنقَلِب",
+    "meaning": "to return",
+    "transliteration": "munqalib",
+    "lemmaId": 2015
+  },
+  {
+    "id": 3862,
+    "lemma": "مُنكَر",
+    "meaning": "reprehensible, unrecognizable",
+    "transliteration": "munkar",
+    "lemmaId": 546
+  },
+  {
+    "id": 3863,
+    "lemma": "مُنكِرَة",
+    "meaning": "denying",
+    "transliteration": "munkirata",
+    "lemmaId": 4440
+  },
+  {
+    "id": 3864,
+    "lemma": "مُنَجُّو",
+    "meaning": "to save",
+    "transliteration": "munajjū",
+    "lemmaId": 2690
+  },
+  {
+    "id": 3865,
+    "lemma": "مُنَزَّل",
+    "meaning": "revealed",
+    "transliteration": "munazzal",
+    "lemmaId": 4441
+  },
+  {
+    "id": 3866,
+    "lemma": "مُنَزِّل",
+    "meaning": "one who sends down",
+    "transliteration": "munazzil",
+    "lemmaId": 4442
+  },
+  {
+    "id": 3867,
+    "lemma": "مُنَشَّرَة",
+    "meaning": "spread out",
+    "transliteration": "munashsharata",
+    "lemmaId": 4443
+  },
+  {
+    "id": 3868,
+    "lemma": "مُنِيب",
+    "meaning": "turns repeatedly, returning repeatedly",
+    "transliteration": "munīb",
+    "lemmaId": 1101
+  },
+  {
+    "id": 3869,
+    "lemma": "مُنِير",
+    "meaning": "luminous, illuminating, enlightening",
+    "transliteration": "munīr",
+    "lemmaId": 1228
+  },
+  {
+    "id": 3870,
+    "lemma": "مُنْخَنِقَة",
+    "meaning": "strangled animal",
+    "transliteration": "munkhaniqa",
+    "lemmaId": 4444
+  },
+  {
+    "id": 3871,
+    "lemma": "مُنْهَمِر",
+    "meaning": "pouring abundantly",
+    "transliteration": "munhamir",
+    "lemmaId": 4445
+  },
+  {
+    "id": 3872,
+    "lemma": "مُهاجِر",
+    "meaning": "emigrant, emigrating",
+    "transliteration": "muhājir",
+    "lemmaId": 1102
+  },
+  {
+    "id": 3873,
+    "lemma": "مُهاجِرَة",
+    "meaning": "emigrants",
+    "transliteration": "muhājirah",
+    "lemmaId": 4446
+  },
+  {
+    "id": 3874,
+    "lemma": "مُهان",
+    "meaning": "humiliated",
+    "transliteration": "muhān",
+    "lemmaId": 4447
+  },
+  {
+    "id": 3875,
+    "lemma": "مُهَيْمِن",
+    "meaning": "Overseer",
+    "transliteration": "muhaymin",
+    "lemmaId": 2691
+  },
+  {
+    "id": 3876,
+    "lemma": "مُهِين",
+    "meaning": "humiliating",
+    "transliteration": "muhīn",
+    "lemmaId": 661
+  },
+  {
+    "id": 3877,
+    "lemma": "مُهْتَد",
+    "meaning": "guided one",
+    "transliteration": "muh'tad",
+    "lemmaId": 2017
+  },
+  {
+    "id": 3878,
+    "lemma": "مُهْتَدي",
+    "meaning": "guided ones",
+    "transliteration": "muh'tadī",
+    "lemmaId": 571
+  },
+  {
+    "id": 3879,
+    "lemma": "مُهْتَدِي",
+    "meaning": "guided one",
+    "transliteration": "muh'tadī",
+    "lemmaId": 4448
+  },
+  {
+    "id": 3880,
+    "lemma": "مُهْطِع",
+    "meaning": "those who rush",
+    "transliteration": "muh'ṭiʿ",
+    "lemmaId": 2018
+  },
+  {
+    "id": 3881,
+    "lemma": "مُهْل",
+    "meaning": "molten metal",
+    "transliteration": "muhla",
+    "lemmaId": 2019
+  },
+  {
+    "id": 3882,
+    "lemma": "مُهْلَك",
+    "meaning": "those who are destroyed",
+    "transliteration": "muh'lak",
+    "lemmaId": 4449
+  },
+  {
+    "id": 3883,
+    "lemma": "مُهْلِك",
+    "meaning": "one who destroys",
+    "transliteration": "muhlik",
+    "lemmaId": 1407
+  },
+  {
+    "id": 3884,
+    "lemma": "مُهْلِكِي",
+    "meaning": "one to destroy",
+    "transliteration": "muhliki",
+    "lemmaId": 4450
+  },
+  {
+    "id": 3885,
+    "lemma": "مُواقِعُو",
+    "meaning": "those who fall into",
+    "transliteration": "mūqiʿū",
+    "lemmaId": 4451
+  },
+  {
+    "id": 3886,
+    "lemma": "مُورِيَة",
+    "meaning": "producers of sparks",
+    "transliteration": "mūriya",
+    "lemmaId": 4452
+  },
+  {
+    "id": 3887,
+    "lemma": "مُوسَى",
+    "meaning": "Mūsā",
+    "transliteration": "mūsā",
+    "lemmaId": 91
+  },
+  {
+    "id": 3888,
+    "lemma": "مُوسِع",
+    "meaning": "expander, wealthy",
+    "transliteration": "mūsiʿ",
+    "lemmaId": 2692
+  },
+  {
+    "id": 3889,
+    "lemma": "مُوص",
+    "meaning": "testator",
+    "transliteration": "mūṣ",
+    "lemmaId": 4453
+  },
+  {
+    "id": 3890,
+    "lemma": "مُوفي",
+    "meaning": "ones who fulfill",
+    "transliteration": "mūfī",
+    "lemmaId": 4454
+  },
+  {
+    "id": 3891,
+    "lemma": "مُوقَدَة",
+    "meaning": "kindled",
+    "transliteration": "mūqadata",
+    "lemmaId": 4455
+  },
+  {
+    "id": 3892,
+    "lemma": "مُوقِن",
+    "meaning": "ones who are certain",
+    "transliteration": "mūqin",
+    "lemmaId": 1408
+  },
+  {
+    "id": 3893,
+    "lemma": "مُوهِن",
+    "meaning": "one who weakens",
+    "transliteration": "mūhin",
+    "lemmaId": 4456
+  },
+  {
+    "id": 3894,
+    "lemma": "مُوَفُّو",
+    "meaning": "ones who pay in full completely",
+    "transliteration": "mūwaffū",
+    "lemmaId": 4457
+  },
+  {
+    "id": 3895,
+    "lemma": "مُوَلِّي",
+    "meaning": "one who turns",
+    "transliteration": "mūwalī",
+    "lemmaId": 4458
+  },
+  {
+    "id": 3896,
+    "lemma": "مِائَة",
+    "meaning": "hundred",
+    "transliteration": "miāata",
+    "lemmaId": 854
+  },
+  {
+    "id": 3897,
+    "lemma": "مِثْقال",
+    "meaning": "weight",
+    "transliteration": "mith'qāl",
+    "lemmaId": 1002
+  },
+  {
+    "id": 3898,
+    "lemma": "مِحال",
+    "meaning": "strategy",
+    "transliteration": "miḥāl",
+    "lemmaId": 4459
+  },
+  {
+    "id": 3899,
+    "lemma": "مِحْراب",
+    "meaning": "prayer chamber",
+    "transliteration": "miḥrāb",
+    "lemmaId": 1645
+  },
+  {
+    "id": 3900,
+    "lemma": "مِداد",
+    "meaning": "ink",
+    "transliteration": "midād",
+    "lemmaId": 4460
+  },
+  {
+    "id": 3901,
+    "lemma": "مِدْرار",
+    "meaning": "abundant",
+    "transliteration": "midrār",
+    "lemmaId": 2020
+  },
+  {
+    "id": 3902,
+    "lemma": "مِراء",
+    "meaning": "argument",
+    "transliteration": "mirā",
+    "lemmaId": 4461
+  },
+  {
+    "id": 3903,
+    "lemma": "مِرَّة",
+    "meaning": "strength",
+    "transliteration": "mirra",
+    "lemmaId": 4462
+  },
+  {
+    "id": 3904,
+    "lemma": "مِرْصاد",
+    "meaning": "to lie in wait, to be watchful",
+    "transliteration": "mirṣād",
+    "lemmaId": 2693
+  },
+  {
+    "id": 3905,
+    "lemma": "مِرْفَق",
+    "meaning": "ease",
+    "transliteration": "mirfaq",
+    "lemmaId": 4463
+  },
+  {
+    "id": 3906,
+    "lemma": "مِرْيَة",
+    "meaning": "doubt",
+    "transliteration": "miryata",
+    "lemmaId": 1409
+  },
+  {
+    "id": 3907,
+    "lemma": "مِزاج",
+    "meaning": "mixture",
+    "transliteration": "mizāj",
+    "lemmaId": 2021
+  },
+  {
+    "id": 3908,
+    "lemma": "مِساس",
+    "meaning": "contact",
+    "transliteration": "misās",
+    "lemmaId": 4464
+  },
+  {
+    "id": 3909,
+    "lemma": "مِسْك",
+    "meaning": "musk",
+    "transliteration": "misk",
+    "lemmaId": 4465
+  },
+  {
+    "id": 3910,
+    "lemma": "مِسْكِين",
+    "meaning": "needy, poor",
+    "transliteration": "mis'kīn",
+    "lemmaId": 453
+  },
+  {
+    "id": 3911,
+    "lemma": "مِشْكاة",
+    "meaning": "like a niche",
+    "transliteration": "mishkāt",
+    "lemmaId": 4466
+  },
+  {
+    "id": 3912,
+    "lemma": "مِصْباح",
+    "meaning": "lamp",
+    "transliteration": "miṣbāḥ",
+    "lemmaId": 1646
+  },
+  {
+    "id": 3913,
+    "lemma": "مِصْر",
+    "meaning": "Egypt, a city",
+    "transliteration": "miṣr",
+    "lemmaId": 1410
+  },
+  {
+    "id": 3914,
+    "lemma": "مِعْشار",
+    "meaning": "tenth",
+    "transliteration": "miʿshār",
+    "lemmaId": 4467
+  },
+  {
+    "id": 3915,
+    "lemma": "مِقْدار",
+    "meaning": "measure",
+    "transliteration": "miqdār",
+    "lemmaId": 2022
+  },
+  {
+    "id": 3916,
+    "lemma": "مِكْيال",
+    "meaning": "measure",
+    "transliteration": "mikyāl",
+    "lemmaId": 2694
+  },
+  {
+    "id": 3917,
+    "lemma": "مِلَّة",
+    "meaning": "religion",
+    "transliteration": "millata",
+    "lemmaId": 628
+  },
+  {
+    "id": 3918,
+    "lemma": "مِلْء",
+    "meaning": "capacity",
+    "transliteration": "milʾ",
+    "lemmaId": 4468
+  },
+  {
+    "id": 3919,
+    "lemma": "مِلْح",
+    "meaning": "salty",
+    "transliteration": "milḥ",
+    "lemmaId": 2695
+  },
+  {
+    "id": 3920,
+    "lemma": "مِن",
+    "meaning": "from, of",
+    "transliteration": "min",
+    "lemmaId": 4
+  },
+  {
+    "id": 3921,
+    "lemma": "مِنسَأَت",
+    "meaning": "staff",
+    "transliteration": "minsāat",
+    "lemmaId": 4469
+  },
+  {
+    "id": 3922,
+    "lemma": "مِنْهاج",
+    "meaning": "way",
+    "transliteration": "min'hāj",
+    "lemmaId": 4470
+  },
+  {
+    "id": 3923,
+    "lemma": "مِهاد",
+    "meaning": "resting place, bed",
+    "transliteration": "mihād",
+    "lemmaId": 1103
+  },
+  {
+    "id": 3924,
+    "lemma": "مِيثاق",
+    "meaning": "covenant, treaty, contract",
+    "transliteration": "mīthāq",
+    "lemmaId": 427
+  },
+  {
+    "id": 3925,
+    "lemma": "مِيراث",
+    "meaning": "heritage",
+    "transliteration": "mīrāth",
+    "lemmaId": 2696
+  },
+  {
+    "id": 3926,
+    "lemma": "مِيزان",
+    "meaning": "balance, scale, weight",
+    "transliteration": "mīzān",
+    "lemmaId": 598
+  },
+  {
+    "id": 3927,
+    "lemma": "مِيعاد",
+    "meaning": "appointment, promise",
+    "transliteration": "mīʿād",
+    "lemmaId": 1229
+  },
+  {
+    "id": 3928,
+    "lemma": "مِيقات",
+    "meaning": "appointment, appointed time",
+    "transliteration": "mīqāt",
+    "lemmaId": 1003
+  },
+  {
+    "id": 3929,
+    "lemma": "مِيكال",
+    "meaning": "Mikā'īl",
+    "transliteration": "mīkāl",
+    "lemmaId": 4471
+  },
+  {
+    "id": 3930,
+    "lemma": "ن",
+    "meaning": "surely",
+    "transliteration": "n",
+    "lemmaId": 57
+  },
+  {
+    "id": 3931,
+    "lemma": "نائِم",
+    "meaning": "sleeping",
+    "transliteration": "nāim",
+    "lemmaId": 2697
+  },
+  {
+    "id": 3932,
+    "lemma": "ناج",
+    "meaning": "saved",
+    "transliteration": "nāj",
+    "lemmaId": 4472
+  },
+  {
+    "id": 3933,
+    "lemma": "ناجَيْ",
+    "meaning": "to converse privately",
+    "transliteration": "nājay",
+    "lemmaId": 4473
+  },
+  {
+    "id": 3934,
+    "lemma": "نادَى",
+    "meaning": "to call out",
+    "transliteration": "nādā",
+    "lemmaId": 264
+  },
+  {
+    "id": 3935,
+    "lemma": "نادِم",
+    "meaning": "regretful",
+    "transliteration": "nādim",
+    "lemmaId": 1411
+  },
+  {
+    "id": 3936,
+    "lemma": "نادِي",
+    "meaning": "assembly",
+    "transliteration": "nādī",
+    "lemmaId": 2698
+  },
+  {
+    "id": 3937,
+    "lemma": "نار",
+    "meaning": "fire",
+    "transliteration": "nār",
+    "lemmaId": 84
+  },
+  {
+    "id": 3938,
+    "lemma": "نازِعَة",
+    "meaning": "those who extract",
+    "transliteration": "nāziʿa",
+    "lemmaId": 4474
+  },
+  {
+    "id": 3939,
+    "lemma": "ناس",
+    "meaning": "people",
+    "transliteration": "nās",
+    "lemmaId": 59
+  },
+  {
+    "id": 3940,
+    "lemma": "ناسِكُو",
+    "meaning": "devoted to",
+    "transliteration": "nāsikū",
+    "lemmaId": 4475
+  },
+  {
+    "id": 3941,
+    "lemma": "ناشِئَة",
+    "meaning": "rising",
+    "transliteration": "nāshiʾa",
+    "lemmaId": 4476
+  },
+  {
+    "id": 3942,
+    "lemma": "ناشِرَة",
+    "meaning": "those that disperse",
+    "transliteration": "nāshirah",
+    "lemmaId": 4477
+  },
+  {
+    "id": 3943,
+    "lemma": "ناشِطَة",
+    "meaning": "those who loosen",
+    "transliteration": "nāshiṭa",
+    "lemmaId": 4478
+  },
+  {
+    "id": 3944,
+    "lemma": "ناصِبَة",
+    "meaning": "fatigued",
+    "transliteration": "nāṣibah",
+    "lemmaId": 4479
+  },
+  {
+    "id": 3945,
+    "lemma": "ناصِح",
+    "meaning": "sincere advisor",
+    "transliteration": "nāṣiḥ",
+    "lemmaId": 1230
+  },
+  {
+    "id": 3946,
+    "lemma": "ناصِر",
+    "meaning": "helper",
+    "transliteration": "nāṣir",
+    "lemmaId": 790
+  },
+  {
+    "id": 3947,
+    "lemma": "ناصِيَة",
+    "meaning": "forelock",
+    "transliteration": "nāṣiyah",
+    "lemmaId": 2023
+  },
+  {
+    "id": 3948,
+    "lemma": "ناضِرَة",
+    "meaning": "radiant",
+    "transliteration": "nāḍirah",
+    "lemmaId": 4480
+  },
+  {
+    "id": 3949,
+    "lemma": "ناظِر",
+    "meaning": "ones who look, observers, awaiting",
+    "transliteration": "nāẓir",
+    "lemmaId": 1412
+  },
+  {
+    "id": 3950,
+    "lemma": "ناظِرَة",
+    "meaning": "looking, see",
+    "transliteration": "nāẓirah",
+    "lemmaId": 2699
+  },
+  {
+    "id": 3951,
+    "lemma": "ناعِمَة",
+    "meaning": "serene with bliss",
+    "transliteration": "nāʿimah",
+    "lemmaId": 4481
+  },
+  {
+    "id": 3952,
+    "lemma": "نافَقُ",
+    "meaning": "to act hypocritically",
+    "transliteration": "nāfaqu",
+    "lemmaId": 2700
+  },
+  {
+    "id": 3953,
+    "lemma": "نافِلَة",
+    "meaning": "addition",
+    "transliteration": "nāfila",
+    "lemmaId": 2701
+  },
+  {
+    "id": 3954,
+    "lemma": "ناقَة",
+    "meaning": "she-camel",
+    "transliteration": "nāqah",
+    "lemmaId": 1104
+  },
+  {
+    "id": 3955,
+    "lemma": "ناقُور",
+    "meaning": "trumpet",
+    "transliteration": "nāqūr",
+    "lemmaId": 4482
+  },
+  {
+    "id": 3956,
+    "lemma": "ناكِب",
+    "meaning": "deviators",
+    "transliteration": "nākib",
+    "lemmaId": 4483
+  },
+  {
+    "id": 3957,
+    "lemma": "ناكِسُوا",
+    "meaning": "hanging down",
+    "transliteration": "nākisū",
+    "lemmaId": 4484
+  },
+  {
+    "id": 3958,
+    "lemma": "ناهي",
+    "meaning": "those who forbid",
+    "transliteration": "nāhī",
+    "lemmaId": 4485
+  },
+  {
+    "id": 3959,
+    "lemma": "نَبات",
+    "meaning": "vegetation, plants, growth",
+    "transliteration": "nabāt",
+    "lemmaId": 926
+  },
+  {
+    "id": 3960,
+    "lemma": "نَبَأ",
+    "meaning": "news, significant information",
+    "transliteration": "naba",
+    "lemmaId": 378
+  },
+  {
+    "id": 3961,
+    "lemma": "نَبَذَ",
+    "meaning": "to throw away, to cast aside",
+    "transliteration": "nabatha",
+    "lemmaId": 855
+  },
+  {
+    "id": 3962,
+    "lemma": "نَبِيّ",
+    "meaning": "Prophet",
+    "transliteration": "nabī",
+    "lemmaId": 155
+  },
+  {
+    "id": 3963,
+    "lemma": "نَبَّأَ",
+    "meaning": "to inform thoroughly",
+    "transliteration": "nabba'a",
+    "lemmaId": 251
+  },
+  {
+    "id": 3964,
+    "lemma": "نَبْتَهِلْ",
+    "meaning": "to mutually invoke a curse",
+    "transliteration": "nabtahil",
+    "lemmaId": 4486
+  },
+  {
+    "id": 3965,
+    "lemma": "نَبْرَأَ",
+    "meaning": "to bring into existence",
+    "transliteration": "nab'raa",
+    "lemmaId": 4487
+  },
+  {
+    "id": 3966,
+    "lemma": "نَتَجاوَزُ",
+    "meaning": "to overlook",
+    "transliteration": "natajāwazu",
+    "lemmaId": 4488
+  },
+  {
+    "id": 3967,
+    "lemma": "نَتَقْ",
+    "meaning": "to uproot",
+    "transliteration": "nataq",
+    "lemmaId": 4489
+  },
+  {
+    "id": 3968,
+    "lemma": "نَجا",
+    "meaning": "to be saved, to escape",
+    "transliteration": "najā",
+    "lemmaId": 2702
+  },
+  {
+    "id": 3969,
+    "lemma": "نَجاة",
+    "meaning": "salvation",
+    "transliteration": "najāta",
+    "lemmaId": 4490
+  },
+  {
+    "id": 3970,
+    "lemma": "نَجَس",
+    "meaning": "impure",
+    "transliteration": "najasa",
+    "lemmaId": 4491
+  },
+  {
+    "id": 3971,
+    "lemma": "نَجِيّ",
+    "meaning": "confidants in private counsel, intimate discourse",
+    "transliteration": "najiyy",
+    "lemmaId": 2703
+  },
+  {
+    "id": 3972,
+    "lemma": "نَجَّى",
+    "meaning": "to save, to deliver",
+    "transliteration": "najjā",
+    "lemmaId": 317
+  },
+  {
+    "id": 3973,
+    "lemma": "نَجْدَيْن",
+    "meaning": "two paths",
+    "transliteration": "najdayn",
+    "lemmaId": 4492
+  },
+  {
+    "id": 3974,
+    "lemma": "نَجْم",
+    "meaning": "star",
+    "transliteration": "najm",
+    "lemmaId": 692
+  },
+  {
+    "id": 3975,
+    "lemma": "نَجْوَى",
+    "meaning": "secret conversation, private conversation, private counsel",
+    "transliteration": "najwā",
+    "lemmaId": 791
+  },
+  {
+    "id": 3976,
+    "lemma": "نَحِسَة",
+    "meaning": "ill-omened",
+    "transliteration": "naḥisata",
+    "lemmaId": 4493
+  },
+  {
+    "id": 3977,
+    "lemma": "نَحْب",
+    "meaning": "vow",
+    "transliteration": "naḥba",
+    "lemmaId": 4494
+  },
+  {
+    "id": 3978,
+    "lemma": "نَحْس",
+    "meaning": "misfortune",
+    "transliteration": "naḥs",
+    "lemmaId": 4495
+  },
+  {
+    "id": 3979,
+    "lemma": "نَحْل",
+    "meaning": "bee",
+    "transliteration": "naḥl",
+    "lemmaId": 4496
+  },
+  {
+    "id": 3980,
+    "lemma": "نَخِرَة",
+    "meaning": "decayed",
+    "transliteration": "nakhirata",
+    "lemmaId": 4497
+  },
+  {
+    "id": 3981,
+    "lemma": "نَخِيل",
+    "meaning": "palm groves",
+    "transliteration": "nakhīl",
+    "lemmaId": 1105
+  },
+  {
+    "id": 3982,
+    "lemma": "نَخْزَى",
+    "meaning": "to be disgraced",
+    "transliteration": "nakhzā",
+    "lemmaId": 4498
+  },
+  {
+    "id": 3983,
+    "lemma": "نَخْل",
+    "meaning": "palm trees",
+    "transliteration": "nakhl",
+    "lemmaId": 792
+  },
+  {
+    "id": 3984,
+    "lemma": "نَخْلَة",
+    "meaning": "palm tree",
+    "transliteration": "nakhlatun",
+    "lemmaId": 2704
+  },
+  {
+    "id": 3985,
+    "lemma": "نَدامَة",
+    "meaning": "regret",
+    "transliteration": "nadāmatun",
+    "lemmaId": 2705
+  },
+  {
+    "id": 3986,
+    "lemma": "نَدِيّ",
+    "meaning": "assembly",
+    "transliteration": "nadīyy",
+    "lemmaId": 4499
+  },
+  {
+    "id": 3987,
+    "lemma": "نَذَرْ",
+    "meaning": "to vow, to warn",
+    "transliteration": "naḏar",
+    "lemmaId": 1647
+  },
+  {
+    "id": 3988,
+    "lemma": "نَذِلَّ",
+    "meaning": "to become humiliated",
+    "transliteration": "naḏilla",
+    "lemmaId": 4500
+  },
+  {
+    "id": 3989,
+    "lemma": "نَذِير",
+    "meaning": "warner, warning",
+    "transliteration": "nadīr",
+    "lemmaId": 203
+  },
+  {
+    "id": 3990,
+    "lemma": "نَذْر",
+    "meaning": "vow",
+    "transliteration": "naḏr",
+    "lemmaId": 2706
+  },
+  {
+    "id": 3991,
+    "lemma": "نَزَعَ",
+    "meaning": "to pull out, to extract, to tear away",
+    "transliteration": "nazʿa",
+    "lemmaId": 856
+  },
+  {
+    "id": 3992,
+    "lemma": "نَزَغَ",
+    "meaning": "to incite discord",
+    "transliteration": "nazagha",
+    "lemmaId": 1648
+  },
+  {
+    "id": 3993,
+    "lemma": "نَزَلَ",
+    "meaning": "to descend, to come down",
+    "transliteration": "nazala",
+    "lemmaId": 1231
+  },
+  {
+    "id": 3994,
+    "lemma": "نَزّاعَة",
+    "meaning": "relentlessly pulling out",
+    "transliteration": "nazzāʿaht",
+    "lemmaId": 4501
+  },
+  {
+    "id": 3995,
+    "lemma": "نَزَّلَ",
+    "meaning": "to send down gradually, to reveal",
+    "transliteration": "nazzala",
+    "lemmaId": 194
+  },
+  {
+    "id": 3996,
+    "lemma": "نَزْغ",
+    "meaning": "evil provocations",
+    "transliteration": "nazgh",
+    "lemmaId": 2707
+  },
+  {
+    "id": 3997,
+    "lemma": "نَزْلَة",
+    "meaning": "descent",
+    "transliteration": "nazlatun",
+    "lemmaId": 4502
+  },
+  {
+    "id": 3998,
+    "lemma": "نَسَب",
+    "meaning": "lineage",
+    "transliteration": "nasab",
+    "lemmaId": 2025
+  },
+  {
+    "id": 3999,
+    "lemma": "نَسِمُ",
+    "meaning": "to brand",
+    "transliteration": "nasimu",
+    "lemmaId": 4503
+  },
+  {
+    "id": 4000,
+    "lemma": "نَسِيء",
+    "meaning": "postponement",
+    "transliteration": "nasīʾ",
+    "lemmaId": 4504
+  },
+  {
+    "id": 4001,
+    "lemma": "نَسِيَ",
+    "meaning": "to forget",
+    "transliteration": "nasiya",
+    "lemmaId": 333
+  },
+  {
+    "id": 4002,
+    "lemma": "نَسِيّ",
+    "meaning": "forgetful",
+    "transliteration": "nasīy",
+    "lemmaId": 4505
+  },
+  {
+    "id": 4003,
+    "lemma": "نَسْتَدْرِجُ",
+    "meaning": "to lead gradually",
+    "transliteration": "nastadriju",
+    "lemmaId": 2708
+  },
+  {
+    "id": 4004,
+    "lemma": "نَسْتَنسِخُ",
+    "meaning": "to transcribe",
+    "transliteration": "nastansikhu",
+    "lemmaId": 4506
+  },
+  {
+    "id": 4005,
+    "lemma": "نَسْر",
+    "meaning": "Nasr",
+    "transliteration": "nasr",
+    "lemmaId": 4507
+  },
+  {
+    "id": 4006,
+    "lemma": "نَسْف",
+    "meaning": "complete pulverization",
+    "transliteration": "nasf",
+    "lemmaId": 2709
+  },
+  {
+    "id": 4007,
+    "lemma": "نَسْفَعًۢ",
+    "meaning": "to drag",
+    "transliteration": "nasfaʿan",
+    "lemmaId": 4508
+  },
+  {
+    "id": 4008,
+    "lemma": "نَسْل",
+    "meaning": "progeny",
+    "transliteration": "nasl",
+    "lemmaId": 2710
+  },
+  {
+    "id": 4009,
+    "lemma": "نَسْلَخُ",
+    "meaning": "to withdraw",
+    "transliteration": "naslakhu",
+    "lemmaId": 4509
+  },
+  {
+    "id": 4010,
+    "lemma": "نَسْي",
+    "meaning": "a thing forgotten",
+    "transliteration": "nasyi",
+    "lemmaId": 4510
+  },
+  {
+    "id": 4011,
+    "lemma": "نَشْأَة",
+    "meaning": "creation",
+    "transliteration": "nash'ata",
+    "lemmaId": 2026
+  },
+  {
+    "id": 4012,
+    "lemma": "نَشْر",
+    "meaning": "spreading",
+    "transliteration": "nashr",
+    "lemmaId": 4511
+  },
+  {
+    "id": 4013,
+    "lemma": "نَشْط",
+    "meaning": "gently",
+    "transliteration": "našṭ",
+    "lemmaId": 4512
+  },
+  {
+    "id": 4014,
+    "lemma": "نَصَب",
+    "meaning": "fatigue",
+    "transliteration": "naṣaba",
+    "lemmaId": 1649
+  },
+  {
+    "id": 4015,
+    "lemma": "نَصَحُ",
+    "meaning": "to advise sincerely",
+    "transliteration": "naṣaḥu",
+    "lemmaId": 1413
+  },
+  {
+    "id": 4016,
+    "lemma": "نَصَرَ",
+    "meaning": "to help",
+    "transliteration": "naṣara",
+    "lemmaId": 199
+  },
+  {
+    "id": 4017,
+    "lemma": "نَصُوح",
+    "meaning": "truly sincere",
+    "transliteration": "naṣūḥ",
+    "lemmaId": 4513
+  },
+  {
+    "id": 4018,
+    "lemma": "نَصِيب",
+    "meaning": "share, portion",
+    "transliteration": "naṣīb",
+    "lemmaId": 489
+  },
+  {
+    "id": 4019,
+    "lemma": "نَصِير",
+    "meaning": "strong helper",
+    "transliteration": "naṣīr",
+    "lemmaId": 334
+  },
+  {
+    "id": 4020,
+    "lemma": "نَصْر",
+    "meaning": "help, victory",
+    "transliteration": "naṣr",
+    "lemmaId": 470
+  },
+  {
+    "id": 4021,
+    "lemma": "نَصْرانِيّ",
+    "meaning": "Christian",
+    "transliteration": "naṣrāniyy",
+    "lemmaId": 629
+  },
+  {
+    "id": 4022,
+    "lemma": "نَضِجَتْ",
+    "meaning": "to become fully burned",
+    "transliteration": "naḍijat",
+    "lemmaId": 4514
+  },
+  {
+    "id": 4023,
+    "lemma": "نَضِيد",
+    "meaning": "arranged in layers",
+    "transliteration": "naḍīd",
+    "lemmaId": 4515
+  },
+  {
+    "id": 4024,
+    "lemma": "نَضّاخَتان",
+    "meaning": "two gushing springs",
+    "transliteration": "naḍḍākhatān",
+    "lemmaId": 4516
+  },
+  {
+    "id": 4025,
+    "lemma": "نَضْرَة",
+    "meaning": "radiance",
+    "transliteration": "naḍrata",
+    "lemmaId": 2711
+  },
+  {
+    "id": 4026,
+    "lemma": "نَطِيحَة",
+    "meaning": "an animal that has been gored",
+    "transliteration": "naṭīḥata",
+    "lemmaId": 4517
+  },
+  {
+    "id": 4027,
+    "lemma": "نَطْوِي",
+    "meaning": "to fold",
+    "transliteration": "naṭwī",
+    "lemmaId": 4518
+  },
+  {
+    "id": 4028,
+    "lemma": "نَظَر",
+    "meaning": "the look",
+    "transliteration": "naẓar",
+    "lemmaId": 4519
+  },
+  {
+    "id": 4029,
+    "lemma": "نَظَرَ",
+    "meaning": "to look, to see",
+    "transliteration": "naẓara",
+    "lemmaId": 128
+  },
+  {
+    "id": 4030,
+    "lemma": "نَظِرَة",
+    "meaning": "respite",
+    "transliteration": "naẓirata",
+    "lemmaId": 4520
+  },
+  {
+    "id": 4031,
+    "lemma": "نَظْرَة",
+    "meaning": "glance",
+    "transliteration": "naẓrata",
+    "lemmaId": 4521
+  },
+  {
+    "id": 4032,
+    "lemma": "نَعَم",
+    "meaning": "yes",
+    "transliteration": "naʿam",
+    "lemmaId": 318
+  },
+  {
+    "id": 4033,
+    "lemma": "نَعِيم",
+    "meaning": "bliss, delight, luxury",
+    "transliteration": "naʿīm",
+    "lemmaId": 572
+  },
+  {
+    "id": 4034,
+    "lemma": "نَعَّمَ",
+    "meaning": "to bestow ease",
+    "transliteration": "naʿʿama",
+    "lemmaId": 4522
+  },
+  {
+    "id": 4035,
+    "lemma": "نَعْجَة",
+    "meaning": "ewe",
+    "transliteration": "naʿjata",
+    "lemmaId": 1650
+  },
+  {
+    "id": 4036,
+    "lemma": "نَعْلَي",
+    "meaning": "two sandals",
+    "transliteration": "naʿlay",
+    "lemmaId": 4523
+  },
+  {
+    "id": 4037,
+    "lemma": "نَعْماء",
+    "meaning": "favor",
+    "transliteration": "naʿmā",
+    "lemmaId": 4524
+  },
+  {
+    "id": 4038,
+    "lemma": "نَعْمَة",
+    "meaning": "ease, luxury",
+    "transliteration": "naʿmahton",
+    "lemmaId": 2712
+  },
+  {
+    "id": 4039,
+    "lemma": "نَفاد",
+    "meaning": "depletion",
+    "transliteration": "nāfād",
+    "lemmaId": 4525
+  },
+  {
+    "id": 4040,
+    "lemma": "نَفَخَ",
+    "meaning": "to blow, to breathe",
+    "transliteration": "nafakha",
+    "lemmaId": 523
+  },
+  {
+    "id": 4041,
+    "lemma": "نَفَرَ",
+    "meaning": "to set out, to go forth",
+    "transliteration": "nafara",
+    "lemmaId": 1004
+  },
+  {
+    "id": 4042,
+    "lemma": "نَفَشَتْ",
+    "meaning": "to stray",
+    "transliteration": "nafashat",
+    "lemmaId": 4526
+  },
+  {
+    "id": 4043,
+    "lemma": "نَفَعَ",
+    "meaning": "to profit, to benefit",
+    "transliteration": "nafaʿ",
+    "lemmaId": 358
+  },
+  {
+    "id": 4044,
+    "lemma": "نَفَق",
+    "meaning": "tunnel",
+    "transliteration": "nafaqa",
+    "lemmaId": 4527
+  },
+  {
+    "id": 4045,
+    "lemma": "نَفَقَة",
+    "meaning": "expenditure, spending",
+    "transliteration": "nafaqata",
+    "lemmaId": 2028
+  },
+  {
+    "id": 4046,
+    "lemma": "نَفِدَ",
+    "meaning": "to be exhausted",
+    "transliteration": "nafida",
+    "lemmaId": 1651
+  },
+  {
+    "id": 4047,
+    "lemma": "نَفِير",
+    "meaning": "manpower",
+    "transliteration": "nafīr",
+    "lemmaId": 4528
+  },
+  {
+    "id": 4048,
+    "lemma": "نَفّاثَة",
+    "meaning": "blowers",
+    "transliteration": "naffātha",
+    "lemmaId": 4529
+  },
+  {
+    "id": 4049,
+    "lemma": "نَفْحَة",
+    "meaning": "whiff",
+    "transliteration": "nafḥata",
+    "lemmaId": 4530
+  },
+  {
+    "id": 4050,
+    "lemma": "نَفْخَة",
+    "meaning": "blast",
+    "transliteration": "nafkhata",
+    "lemmaId": 4531
+  },
+  {
+    "id": 4051,
+    "lemma": "نَفْس",
+    "meaning": "self, soul",
+    "transliteration": "nafsu",
+    "lemmaId": 44
+  },
+  {
+    "id": 4052,
+    "lemma": "نَفْع",
+    "meaning": "benefit",
+    "transliteration": "nafʿ",
+    "lemmaId": 793
+  },
+  {
+    "id": 4053,
+    "lemma": "نَقَضَتْ",
+    "meaning": "to break",
+    "transliteration": "naqaḍat",
+    "lemmaId": 1232
+  },
+  {
+    "id": 4054,
+    "lemma": "نَقِيب",
+    "meaning": "leader",
+    "transliteration": "naqīb",
+    "lemmaId": 4532
+  },
+  {
+    "id": 4055,
+    "lemma": "نَقِير",
+    "meaning": "speck on the back of a date seed",
+    "transliteration": "naqīr",
+    "lemmaId": 2713
+  },
+  {
+    "id": 4056,
+    "lemma": "نَقَّبُ",
+    "meaning": "to explore thoroughly",
+    "transliteration": "naqqabu",
+    "lemmaId": 4533
+  },
+  {
+    "id": 4057,
+    "lemma": "نَقْب",
+    "meaning": "breach",
+    "transliteration": "naqba",
+    "lemmaId": 4534
+  },
+  {
+    "id": 4058,
+    "lemma": "نَقْتَبِسْ",
+    "meaning": "to acquire",
+    "transliteration": "naqtabis",
+    "lemmaId": 4535
+  },
+  {
+    "id": 4059,
+    "lemma": "نَقْض",
+    "meaning": "breaking",
+    "transliteration": "naqḍ",
+    "lemmaId": 2715
+  },
+  {
+    "id": 4060,
+    "lemma": "نَقْع",
+    "meaning": "dust",
+    "transliteration": "naqʿ",
+    "lemmaId": 4536
+  },
+  {
+    "id": 4061,
+    "lemma": "نَكال",
+    "meaning": "deterrent punishment",
+    "transliteration": "nakāl",
+    "lemmaId": 2029
+  },
+  {
+    "id": 4062,
+    "lemma": "نَكَثَ",
+    "meaning": "to break",
+    "transliteration": "nakatha",
+    "lemmaId": 1233
+  },
+  {
+    "id": 4063,
+    "lemma": "نَكَحَ",
+    "meaning": "to marry",
+    "transliteration": "nakaha",
+    "lemmaId": 662
+  },
+  {
+    "id": 4064,
+    "lemma": "نَكَصَ",
+    "meaning": "to turn",
+    "transliteration": "nakasa",
+    "lemmaId": 2716
+  },
+  {
+    "id": 4065,
+    "lemma": "نَكِد",
+    "meaning": "difficulty",
+    "transliteration": "nakid",
+    "lemmaId": 4537
+  },
+  {
+    "id": 4066,
+    "lemma": "نَكِرَ",
+    "meaning": "to regard as unfamiliar",
+    "transliteration": "nakira",
+    "lemmaId": 4538
+  },
+  {
+    "id": 4067,
+    "lemma": "نَكِير",
+    "meaning": "rejection, denial, punishment",
+    "transliteration": "nakīr",
+    "lemmaId": 1414
+  },
+  {
+    "id": 4068,
+    "lemma": "نَكِّرُ",
+    "meaning": "disguise",
+    "transliteration": "nakkiru",
+    "lemmaId": 4539
+  },
+  {
+    "id": 4069,
+    "lemma": "نَمارِق",
+    "meaning": "cushions",
+    "transliteration": "namāriq",
+    "lemmaId": 4540
+  },
+  {
+    "id": 4070,
+    "lemma": "نَمِيرُ",
+    "meaning": "to get provision",
+    "transliteration": "namīru",
+    "lemmaId": 4541
+  },
+  {
+    "id": 4071,
+    "lemma": "نَمِيم",
+    "meaning": "malicious gossip",
+    "transliteration": "namīm",
+    "lemmaId": 4542
+  },
+  {
+    "id": 4072,
+    "lemma": "نَمْل",
+    "meaning": "ants",
+    "transliteration": "naml",
+    "lemmaId": 2717
+  },
+  {
+    "id": 4073,
+    "lemma": "نَمْلَة",
+    "meaning": "ant",
+    "transliteration": "namlat",
+    "lemmaId": 4543
+  },
+  {
+    "id": 4074,
+    "lemma": "نَهار",
+    "meaning": "day",
+    "transliteration": "nahār",
+    "lemmaId": 208
+  },
+  {
+    "id": 4075,
+    "lemma": "نَهَر",
+    "meaning": "river",
+    "transliteration": "nahar",
+    "lemmaId": 218
+  },
+  {
+    "id": 4076,
+    "lemma": "نَهَى",
+    "meaning": "to forbid",
+    "transliteration": "nahā",
+    "lemmaId": 352
+  },
+  {
+    "id": 4077,
+    "lemma": "نَواصِي",
+    "meaning": "forelocks",
+    "transliteration": "nawāṣī",
+    "lemmaId": 4544
+  },
+  {
+    "id": 4078,
+    "lemma": "نَوَى",
+    "meaning": "date-seed",
+    "transliteration": "nawā",
+    "lemmaId": 4545
+  },
+  {
+    "id": 4079,
+    "lemma": "نَوْم",
+    "meaning": "sleep",
+    "transliteration": "nawm",
+    "lemmaId": 2030
+  },
+  {
+    "id": 4080,
+    "lemma": "نَيْل",
+    "meaning": "a gain",
+    "transliteration": "nayl",
+    "lemmaId": 4546
+  },
+  {
+    "id": 4081,
+    "lemma": "نُبُوَّة",
+    "meaning": "prophethood",
+    "transliteration": "nubūwata",
+    "lemmaId": 1415
+  },
+  {
+    "id": 4082,
+    "lemma": "نُجازِي",
+    "meaning": "to recompense",
+    "transliteration": "nujāzī",
+    "lemmaId": 4547
+  },
+  {
+    "id": 4083,
+    "lemma": "نُحاس",
+    "meaning": "smoke",
+    "transliteration": "nuḥās",
+    "lemmaId": 4548
+  },
+  {
+    "id": 4084,
+    "lemma": "نُداوِلُ",
+    "meaning": "to alternate",
+    "transliteration": "nudāwilu",
+    "lemmaId": 4549
+  },
+  {
+    "id": 4085,
+    "lemma": "نُذُور",
+    "meaning": "vows",
+    "transliteration": "nuḏūr",
+    "lemmaId": 4550
+  },
+  {
+    "id": 4086,
+    "lemma": "نُذْر",
+    "meaning": "warnings",
+    "transliteration": "nuḏr",
+    "lemmaId": 4551
+  },
+  {
+    "id": 4087,
+    "lemma": "نُزُل",
+    "meaning": "hospitality",
+    "transliteration": "nuzul",
+    "lemmaId": 1005
+  },
+  {
+    "id": 4088,
+    "lemma": "نُسُك",
+    "meaning": "ritual sacrifice, acts of devotion",
+    "transliteration": "nusuku",
+    "lemmaId": 2718
+  },
+  {
+    "id": 4089,
+    "lemma": "نُسْخَت",
+    "meaning": "inscription",
+    "transliteration": "nus'khata",
+    "lemmaId": 4552
+  },
+  {
+    "id": 4090,
+    "lemma": "نُشُور",
+    "meaning": "resurrection, rising",
+    "transliteration": "nushūr",
+    "lemmaId": 1416
+  },
+  {
+    "id": 4091,
+    "lemma": "نُشُوز",
+    "meaning": "ill-conduct",
+    "transliteration": "nushūz",
+    "lemmaId": 2719
+  },
+  {
+    "id": 4092,
+    "lemma": "نُشِرَتْ",
+    "meaning": "to be spread open, to spread out",
+    "transliteration": "nuširat",
+    "lemmaId": 2032
+  },
+  {
+    "id": 4093,
+    "lemma": "نُصُب",
+    "meaning": "erected idols",
+    "transliteration": "nuṣubi",
+    "lemmaId": 2033
+  },
+  {
+    "id": 4094,
+    "lemma": "نُصِبَتْ",
+    "meaning": "to be set up, exert yourself",
+    "transliteration": "nuṣibat",
+    "lemmaId": 2720
+  },
+  {
+    "id": 4095,
+    "lemma": "نُصْب",
+    "meaning": "hardship",
+    "transliteration": "nuṣ'ba",
+    "lemmaId": 4553
+  },
+  {
+    "id": 4096,
+    "lemma": "نُصْح",
+    "meaning": "sincere advice",
+    "transliteration": "nuṣḥ",
+    "lemmaId": 4554
+  },
+  {
+    "id": 4097,
+    "lemma": "نُطْفَة",
+    "meaning": "semen drop",
+    "transliteration": "nuṭ'fata",
+    "lemmaId": 741
+  },
+  {
+    "id": 4098,
+    "lemma": "نُعاس",
+    "meaning": "slumber",
+    "transliteration": "nuʿās",
+    "lemmaId": 2721
+  },
+  {
+    "id": 4099,
+    "lemma": "نُفُور",
+    "meaning": "aversion",
+    "transliteration": "nufūr",
+    "lemmaId": 1417
+  },
+  {
+    "id": 4100,
+    "lemma": "نُقَدِّسُ",
+    "meaning": "to sanctify",
+    "transliteration": "nuqaddisu",
+    "lemmaId": 4555
+  },
+  {
+    "id": 4101,
+    "lemma": "نُقِرَ",
+    "meaning": "to be blown",
+    "transliteration": "nuqira",
+    "lemmaId": 4556
+  },
+  {
+    "id": 4102,
+    "lemma": "نُقْرِئُ",
+    "meaning": "to make recite",
+    "transliteration": "nuq'riu",
+    "lemmaId": 4557
+  },
+  {
+    "id": 4103,
+    "lemma": "نُكُر",
+    "meaning": "dreadful",
+    "transliteration": "nukur",
+    "lemmaId": 4558
+  },
+  {
+    "id": 4104,
+    "lemma": "نُكِسُ",
+    "meaning": "to be turned back",
+    "transliteration": "nukisu",
+    "lemmaId": 4559
+  },
+  {
+    "id": 4105,
+    "lemma": "نُكْر",
+    "meaning": "terrible, reprehensible",
+    "transliteration": "nukr",
+    "lemmaId": 2034
+  },
+  {
+    "id": 4106,
+    "lemma": "نُنشِزُ",
+    "meaning": "to raise",
+    "transliteration": "nunshizu",
+    "lemmaId": 4560
+  },
+  {
+    "id": 4107,
+    "lemma": "نُهَى",
+    "meaning": "intelligence",
+    "transliteration": "nuhā",
+    "lemmaId": 2722
+  },
+  {
+    "id": 4108,
+    "lemma": "نُوح",
+    "meaning": "Nūḥ",
+    "transliteration": "nūḥ",
+    "lemmaId": 267
+  },
+  {
+    "id": 4109,
+    "lemma": "نُور",
+    "meaning": "light",
+    "transliteration": "nūr",
+    "lemmaId": 268
+  },
+  {
+    "id": 4110,
+    "lemma": "نُون",
+    "meaning": "the one of the fish",
+    "transliteration": "nūn",
+    "lemmaId": 4562
+  },
+  {
+    "id": 4111,
+    "lemma": "نِحْلَة",
+    "meaning": "gracious gift",
+    "transliteration": "niḥlatun",
+    "lemmaId": 4563
+  },
+  {
+    "id": 4112,
+    "lemma": "نِساء",
+    "meaning": "women",
+    "transliteration": "nisā'",
+    "lemmaId": 200
+  },
+  {
+    "id": 4113,
+    "lemma": "نِصْف",
+    "meaning": "half",
+    "transliteration": "niṣf",
+    "lemmaId": 1106
+  },
+  {
+    "id": 4114,
+    "lemma": "نِعْمَ",
+    "meaning": "how excellent",
+    "transliteration": "niʿma",
+    "lemmaId": 547
+  },
+  {
+    "id": 4115,
+    "lemma": "نِعْمَة",
+    "meaning": "favor, blessing",
+    "transliteration": "niʿmata",
+    "lemmaId": 235
+  },
+  {
+    "id": 4116,
+    "lemma": "نِفاق",
+    "meaning": "hypocrisy",
+    "transliteration": "nifāq",
+    "lemmaId": 2035
+  },
+  {
+    "id": 4117,
+    "lemma": "نِكاح",
+    "meaning": "marriage",
+    "transliteration": "nikāḥ",
+    "lemmaId": 1418
+  },
+  {
+    "id": 4118,
+    "lemma": "ه",
+    "meaning": "this, O",
+    "transliteration": "ha",
+    "lemmaId": 25
+  },
+  {
+    "id": 4119,
+    "lemma": "هاؤُم",
+    "meaning": "here it is",
+    "transliteration": "hā'ūm",
+    "lemmaId": 4564
+  },
+  {
+    "id": 4120,
+    "lemma": "هاتُ",
+    "meaning": "bring",
+    "transliteration": "hātu",
+    "lemmaId": 1653
+  },
+  {
+    "id": 4121,
+    "lemma": "هاجَرَ",
+    "meaning": "to emigrate",
+    "transliteration": "hājara",
+    "lemmaId": 599
+  },
+  {
+    "id": 4122,
+    "lemma": "هاد",
+    "meaning": "guide",
+    "transliteration": "hād",
+    "lemmaId": 1107
+  },
+  {
+    "id": 4123,
+    "lemma": "هادُ",
+    "meaning": "to become a Jew",
+    "transliteration": "hādu",
+    "lemmaId": 794
+  },
+  {
+    "id": 4124,
+    "lemma": "هادِي",
+    "meaning": "guide",
+    "transliteration": "hādī",
+    "lemmaId": 2036
+  },
+  {
+    "id": 4125,
+    "lemma": "هار",
+    "meaning": "to crumble",
+    "transliteration": "hār",
+    "lemmaId": 4565
+  },
+  {
+    "id": 4126,
+    "lemma": "هارُوت",
+    "meaning": "Hārūt",
+    "transliteration": "hārūt",
+    "lemmaId": 4566
+  },
+  {
+    "id": 4127,
+    "lemma": "هارُون",
+    "meaning": "Hārūn",
+    "transliteration": "hārūn",
+    "lemmaId": 511
+  },
+  {
+    "id": 4128,
+    "lemma": "هالِك",
+    "meaning": "perishing one",
+    "transliteration": "hālik",
+    "lemmaId": 2724
+  },
+  {
+    "id": 4129,
+    "lemma": "هامان",
+    "meaning": "Hāmān",
+    "transliteration": "hāmān",
+    "lemmaId": 1234
+  },
+  {
+    "id": 4130,
+    "lemma": "هامِدَة",
+    "meaning": "barren",
+    "transliteration": "hāmidah",
+    "lemmaId": 4567
+  },
+  {
+    "id": 4131,
+    "lemma": "هاوِيَة",
+    "meaning": "abyss",
+    "transliteration": "hāwiyat",
+    "lemmaId": 4568
+  },
+  {
+    "id": 4132,
+    "lemma": "هَباء",
+    "meaning": "fine dust",
+    "transliteration": "habā",
+    "lemmaId": 2725
+  },
+  {
+    "id": 4133,
+    "lemma": "هَجْر",
+    "meaning": "avoidance",
+    "transliteration": "hajr",
+    "lemmaId": 4569
+  },
+  {
+    "id": 4134,
+    "lemma": "هَدَى",
+    "meaning": "to guide",
+    "transliteration": "hadā",
+    "lemmaId": 86
+  },
+  {
+    "id": 4135,
+    "lemma": "هَدِيَّة",
+    "meaning": "gift",
+    "transliteration": "hadīyah",
+    "lemmaId": 2726
+  },
+  {
+    "id": 4136,
+    "lemma": "هَدّ",
+    "meaning": "devastation",
+    "transliteration": "hadd",
+    "lemmaId": 4570
+  },
+  {
+    "id": 4137,
+    "lemma": "هَدْي",
+    "meaning": "sacrificial animal, offering",
+    "transliteration": "hadyi",
+    "lemmaId": 1108
+  },
+  {
+    "id": 4138,
+    "lemma": "هَرَب",
+    "meaning": "flight",
+    "transliteration": "haraba",
+    "lemmaId": 4571
+  },
+  {
+    "id": 4139,
+    "lemma": "هَزَمُ",
+    "meaning": "to defeat",
+    "transliteration": "hazamu",
+    "lemmaId": 2727
+  },
+  {
+    "id": 4140,
+    "lemma": "هَزْل",
+    "meaning": "frivolity",
+    "transliteration": "hazl",
+    "lemmaId": 4572
+  },
+  {
+    "id": 4141,
+    "lemma": "هَشِيم",
+    "meaning": "dry stubble",
+    "transliteration": "hashīm",
+    "lemmaId": 2728
+  },
+  {
+    "id": 4142,
+    "lemma": "هَضِيم",
+    "meaning": "soft",
+    "transliteration": "haḍīm",
+    "lemmaId": 4573
+  },
+  {
+    "id": 4143,
+    "lemma": "هَضْم",
+    "meaning": "diminishment",
+    "transliteration": "haḍm",
+    "lemmaId": 4574
+  },
+  {
+    "id": 4144,
+    "lemma": "هَل",
+    "meaning": "is there, is",
+    "transliteration": "hal",
+    "lemmaId": 119
+  },
+  {
+    "id": 4145,
+    "lemma": "هَلَكَ",
+    "meaning": "to die, to perish, to be destroyed",
+    "transliteration": "halaka",
+    "lemmaId": 1419
+  },
+  {
+    "id": 4146,
+    "lemma": "هَلُمّ",
+    "meaning": "come, bring forward",
+    "transliteration": "halummu",
+    "lemmaId": 2729
+  },
+  {
+    "id": 4147,
+    "lemma": "هَلُوع",
+    "meaning": "anxiously impatient",
+    "transliteration": "halūʿ",
+    "lemmaId": 4575
+  },
+  {
+    "id": 4148,
+    "lemma": "هَمَزَة",
+    "meaning": "malicious suggestions",
+    "transliteration": "hamazata",
+    "lemmaId": 4576
+  },
+  {
+    "id": 4149,
+    "lemma": "هَمّاز",
+    "meaning": "habitual slanderer",
+    "transliteration": "hammāz",
+    "lemmaId": 4577
+  },
+  {
+    "id": 4150,
+    "lemma": "هَمَّ",
+    "meaning": "to intend, to desire, to be concerned with",
+    "transliteration": "hamma",
+    "lemmaId": 1006
+  },
+  {
+    "id": 4151,
+    "lemma": "هَمْس",
+    "meaning": "faint sound",
+    "transliteration": "hams",
+    "lemmaId": 4578
+  },
+  {
+    "id": 4152,
+    "lemma": "هَنِيئ",
+    "meaning": "pleasantly",
+    "transliteration": "hanīʾ",
+    "lemmaId": 1654
+  },
+  {
+    "id": 4153,
+    "lemma": "هَواء",
+    "meaning": "desire, empty",
+    "transliteration": "hawā",
+    "lemmaId": 795
+  },
+  {
+    "id": 4154,
+    "lemma": "هَوَى",
+    "meaning": "to desire, to yearn, to descend, to be brought down, to hurl, to fall into ruin",
+    "transliteration": "hawā",
+    "lemmaId": 1007
+  },
+  {
+    "id": 4155,
+    "lemma": "هَوْن",
+    "meaning": "humility",
+    "transliteration": "hawun",
+    "lemmaId": 4579
+  },
+  {
+    "id": 4156,
+    "lemma": "هَيِّن",
+    "meaning": "easy, insignificant",
+    "transliteration": "hayyin",
+    "lemmaId": 2037
+  },
+  {
+    "id": 4157,
+    "lemma": "هَيْتَ",
+    "meaning": "Come",
+    "transliteration": "hayta",
+    "lemmaId": 4580
+  },
+  {
+    "id": 4158,
+    "lemma": "هَيْهات",
+    "meaning": "far-fetched",
+    "transliteration": "hayhāt",
+    "lemmaId": 2731
+  },
+  {
+    "id": 4159,
+    "lemma": "هُدًى",
+    "meaning": "guidance",
+    "transliteration": "hudan",
+    "lemmaId": 131
+  },
+  {
+    "id": 4160,
+    "lemma": "هُدِّمَتْ",
+    "meaning": "to demolish",
+    "transliteration": "huddimat",
+    "lemmaId": 4581
+  },
+  {
+    "id": 4161,
+    "lemma": "هُدْهُد",
+    "meaning": "hoopoe",
+    "transliteration": "hudhud",
+    "lemmaId": 4582
+  },
+  {
+    "id": 4162,
+    "lemma": "هُزُو",
+    "meaning": "mockery, jest, ridicule",
+    "transliteration": "huzū",
+    "lemmaId": 796
+  },
+  {
+    "id": 4163,
+    "lemma": "هُزِّ",
+    "meaning": "shake",
+    "transliteration": "huzzi",
+    "lemmaId": 4583
+  },
+  {
+    "id": 4164,
+    "lemma": "هُمَزَة",
+    "meaning": "backbiter",
+    "transliteration": "humāzata",
+    "lemmaId": 4584
+  },
+  {
+    "id": 4165,
+    "lemma": "هُنا",
+    "meaning": "here",
+    "transliteration": "hunā",
+    "lemmaId": 1655
+  },
+  {
+    "id": 4166,
+    "lemma": "هُنالِك",
+    "meaning": "there",
+    "transliteration": "hunālika",
+    "lemmaId": 927
+  },
+  {
+    "id": 4167,
+    "lemma": "هُود",
+    "meaning": "Jews, Hūd",
+    "transliteration": "hūd",
+    "lemmaId": 857
+  },
+  {
+    "id": 4168,
+    "lemma": "هُون",
+    "meaning": "humiliation",
+    "transliteration": "hūn",
+    "lemmaId": 1656
+  },
+  {
+    "id": 4169,
+    "lemma": "هِيم",
+    "meaning": "thirsty camel",
+    "transliteration": "hīm",
+    "lemmaId": 4585
+  },
+  {
+    "id": 4170,
+    "lemma": "و",
+    "meaning": "and",
+    "transliteration": "wa",
+    "lemmaId": 1
+  },
+  {
+    "id": 4171,
+    "lemma": "وابِل",
+    "meaning": "violent rain",
+    "transliteration": "wābil",
+    "lemmaId": 2038
+  },
+  {
+    "id": 4172,
+    "lemma": "واثَقَ",
+    "meaning": "to bound",
+    "transliteration": "wāthaqa",
+    "lemmaId": 4586
+  },
+  {
+    "id": 4173,
+    "lemma": "واجِفَة",
+    "meaning": "to palpitate",
+    "transliteration": "wājifah",
+    "lemmaId": 4587
+  },
+  {
+    "id": 4174,
+    "lemma": "واحِد",
+    "meaning": "one",
+    "transliteration": "wāḥid",
+    "lemmaId": 370
+  },
+  {
+    "id": 4175,
+    "lemma": "واحِدَة",
+    "meaning": "one",
+    "transliteration": "wāḥidata",
+    "lemmaId": 359
+  },
+  {
+    "id": 4176,
+    "lemma": "واد",
+    "meaning": "valley",
+    "transliteration": "wād",
+    "lemmaId": 1109
+  },
+  {
+    "id": 4177,
+    "lemma": "وادِي",
+    "meaning": "valley",
+    "transliteration": "wādī",
+    "lemmaId": 4588
+  },
+  {
+    "id": 4178,
+    "lemma": "وارِث",
+    "meaning": "heir, inheritor",
+    "transliteration": "wārith",
+    "lemmaId": 1110
+  },
+  {
+    "id": 4179,
+    "lemma": "وارِد",
+    "meaning": "to come, to pass",
+    "transliteration": "wārid",
+    "lemmaId": 2039
+  },
+  {
+    "id": 4180,
+    "lemma": "وازِرَة",
+    "meaning": "bearer of burden",
+    "transliteration": "wāzirah",
+    "lemmaId": 1420
+  },
+  {
+    "id": 4181,
+    "lemma": "واسِع",
+    "meaning": "vast, all-encompassing",
+    "transliteration": "wāsiʿ",
+    "lemmaId": 928
+  },
+  {
+    "id": 4182,
+    "lemma": "واسِعَة",
+    "meaning": "spacious, vast",
+    "transliteration": "wāsiʿa",
+    "lemmaId": 1657
+  },
+  {
+    "id": 4183,
+    "lemma": "واصِب",
+    "meaning": "constant, perpetual",
+    "transliteration": "wāṣib",
+    "lemmaId": 2732
+  },
+  {
+    "id": 4184,
+    "lemma": "واعَدْ",
+    "meaning": "to mutually agree upon",
+    "transliteration": "wāʿad",
+    "lemmaId": 1658
+  },
+  {
+    "id": 4185,
+    "lemma": "واعِظ",
+    "meaning": "advisor",
+    "transliteration": "wāʿiẓ",
+    "lemmaId": 4589
+  },
+  {
+    "id": 4186,
+    "lemma": "واعِيَة",
+    "meaning": "attentive",
+    "transliteration": "wāʿiya",
+    "lemmaId": 4590
+  },
+  {
+    "id": 4187,
+    "lemma": "واق",
+    "meaning": "protector",
+    "transliteration": "wāq",
+    "lemmaId": 2040
+  },
+  {
+    "id": 4188,
+    "lemma": "واقِع",
+    "meaning": "to happen, to fall upon",
+    "transliteration": "wāqiʿ",
+    "lemmaId": 1235
+  },
+  {
+    "id": 4189,
+    "lemma": "وال",
+    "meaning": "protector",
+    "transliteration": "wāl",
+    "lemmaId": 4591
+  },
+  {
+    "id": 4190,
+    "lemma": "والِد",
+    "meaning": "parent, father",
+    "transliteration": "wālid",
+    "lemmaId": 663
+  },
+  {
+    "id": 4191,
+    "lemma": "والِدَة",
+    "meaning": "mother",
+    "transliteration": "wālidata",
+    "lemmaId": 2041
+  },
+  {
+    "id": 4192,
+    "lemma": "والِدَي",
+    "meaning": "parents",
+    "transliteration": "wālidaya",
+    "lemmaId": 858
+  },
+  {
+    "id": 4193,
+    "lemma": "واهِيَة",
+    "meaning": "fragile",
+    "transliteration": "wāhīya",
+    "lemmaId": 4592
+  },
+  {
+    "id": 4194,
+    "lemma": "وَبال",
+    "meaning": "evil consequence",
+    "transliteration": "wabāl",
+    "lemmaId": 1659
+  },
+  {
+    "id": 4195,
+    "lemma": "وَبِيل",
+    "meaning": "harsh",
+    "transliteration": "wabīl",
+    "lemmaId": 4593
+  },
+  {
+    "id": 4196,
+    "lemma": "وَتِين",
+    "meaning": "aorta",
+    "transliteration": "watīn",
+    "lemmaId": 4594
+  },
+  {
+    "id": 4197,
+    "lemma": "وَتْر",
+    "meaning": "odd",
+    "transliteration": "watr",
+    "lemmaId": 4595
+  },
+  {
+    "id": 4198,
+    "lemma": "وَثاق",
+    "meaning": "bond, binding",
+    "transliteration": "wathāq",
+    "lemmaId": 2734
+  },
+  {
+    "id": 4199,
+    "lemma": "وَجَبَتْ",
+    "meaning": "to fall down on the ground",
+    "transliteration": "wajabat",
+    "lemmaId": 4596
+  },
+  {
+    "id": 4200,
+    "lemma": "وَجَدَ",
+    "meaning": "to find",
+    "transliteration": "wajada",
+    "lemmaId": 112
+  },
+  {
+    "id": 4201,
+    "lemma": "وَجِل",
+    "meaning": "afraid",
+    "transliteration": "wajil",
+    "lemmaId": 4597
+  },
+  {
+    "id": 4202,
+    "lemma": "وَجِلَة",
+    "meaning": "fearful",
+    "transliteration": "wajilata",
+    "lemmaId": 4598
+  },
+  {
+    "id": 4203,
+    "lemma": "وَجِلَتْ",
+    "meaning": "to feel fear, to be afraid",
+    "transliteration": "wajilat",
+    "lemmaId": 2042
+  },
+  {
+    "id": 4204,
+    "lemma": "وَجِيه",
+    "meaning": "honorable",
+    "transliteration": "wajīh",
+    "lemmaId": 2735
+  },
+  {
+    "id": 4205,
+    "lemma": "وَجَّهْ",
+    "meaning": "to direct, to turn",
+    "transliteration": "wajjah",
+    "lemmaId": 2736
+  },
+  {
+    "id": 4206,
+    "lemma": "وَجْه",
+    "meaning": "face, beginning, countenance",
+    "transliteration": "wajh",
+    "lemmaId": 165
+  },
+  {
+    "id": 4207,
+    "lemma": "وَحِيد",
+    "meaning": "alone",
+    "transliteration": "waḥīd",
+    "lemmaId": 4599
+  },
+  {
+    "id": 4208,
+    "lemma": "وَحْد",
+    "meaning": "alone",
+    "transliteration": "waḥd",
+    "lemmaId": 1236
+  },
+  {
+    "id": 4209,
+    "lemma": "وَحْى",
+    "meaning": "revelation",
+    "transliteration": "waḥy",
+    "lemmaId": 1237
+  },
+  {
+    "id": 4210,
+    "lemma": "وَدُود",
+    "meaning": "most loving",
+    "transliteration": "wadūd",
+    "lemmaId": 2737
+  },
+  {
+    "id": 4211,
+    "lemma": "وَدّ",
+    "meaning": "Wadd",
+    "transliteration": "wadd",
+    "lemmaId": 4600
+  },
+  {
+    "id": 4212,
+    "lemma": "وَدَّ",
+    "meaning": "to love, to wish",
+    "transliteration": "wadda",
+    "lemmaId": 573
+  },
+  {
+    "id": 4213,
+    "lemma": "وَدَّعَ",
+    "meaning": "to forsake",
+    "transliteration": "waddaʿa",
+    "lemmaId": 4601
+  },
+  {
+    "id": 4214,
+    "lemma": "وَدْق",
+    "meaning": "rain",
+    "transliteration": "wadq",
+    "lemmaId": 2738
+  },
+  {
+    "id": 4215,
+    "lemma": "وَراء",
+    "meaning": "behind, beyond, ahead",
+    "transliteration": "warā",
+    "lemmaId": 439
+  },
+  {
+    "id": 4216,
+    "lemma": "وَرَدَ",
+    "meaning": "to come",
+    "transliteration": "warada",
+    "lemmaId": 2739
+  },
+  {
+    "id": 4217,
+    "lemma": "وَرَق",
+    "meaning": "leaf",
+    "transliteration": "waraq",
+    "lemmaId": 2740
+  },
+  {
+    "id": 4218,
+    "lemma": "وَرَقَة",
+    "meaning": "leaf",
+    "transliteration": "waraqah",
+    "lemmaId": 4602
+  },
+  {
+    "id": 4219,
+    "lemma": "وَرِثَ",
+    "meaning": "to inherit",
+    "transliteration": "waritha",
+    "lemmaId": 693
+  },
+  {
+    "id": 4220,
+    "lemma": "وَرِق",
+    "meaning": "silver coin",
+    "transliteration": "warq",
+    "lemmaId": 4603
+  },
+  {
+    "id": 4221,
+    "lemma": "وَرِيد",
+    "meaning": "jugular vein",
+    "transliteration": "warīd",
+    "lemmaId": 4604
+  },
+  {
+    "id": 4222,
+    "lemma": "وَرْدَة",
+    "meaning": "rose-colored",
+    "transliteration": "warda",
+    "lemmaId": 4605
+  },
+  {
+    "id": 4223,
+    "lemma": "وَزَر",
+    "meaning": "refuge",
+    "transliteration": "wazar",
+    "lemmaId": 4606
+  },
+  {
+    "id": 4224,
+    "lemma": "وَزَنُ",
+    "meaning": "to weigh",
+    "transliteration": "wazanu",
+    "lemmaId": 2043
+  },
+  {
+    "id": 4225,
+    "lemma": "وَزِير",
+    "meaning": "minister, assistant",
+    "transliteration": "wazīr",
+    "lemmaId": 2741
+  },
+  {
+    "id": 4226,
+    "lemma": "وَزْن",
+    "meaning": "weight",
+    "transliteration": "wazn",
+    "lemmaId": 2044
+  },
+  {
+    "id": 4227,
+    "lemma": "وَسَط",
+    "meaning": "middle way",
+    "transliteration": "wasaṭ",
+    "lemmaId": 4607
+  },
+  {
+    "id": 4228,
+    "lemma": "وَسَطْ",
+    "meaning": "to penetrate the center",
+    "transliteration": "wasaṭ",
+    "lemmaId": 4608
+  },
+  {
+    "id": 4229,
+    "lemma": "وَسَقَ",
+    "meaning": "to envelops",
+    "transliteration": "wasaqa",
+    "lemmaId": 4609
+  },
+  {
+    "id": 4230,
+    "lemma": "وَسِعَ",
+    "meaning": "to encompass, to extend",
+    "transliteration": "wasiʿa",
+    "lemmaId": 1238
+  },
+  {
+    "id": 4231,
+    "lemma": "وَسِيلَة",
+    "meaning": "means, means of access",
+    "transliteration": "wasīlahton",
+    "lemmaId": 2742
+  },
+  {
+    "id": 4232,
+    "lemma": "وَسْواس",
+    "meaning": "whisperer",
+    "transliteration": "waswās",
+    "lemmaId": 4610
+  },
+  {
+    "id": 4233,
+    "lemma": "وَسْوَسَ",
+    "meaning": "to whisper",
+    "transliteration": "waswasa",
+    "lemmaId": 1660
+  },
+  {
+    "id": 4234,
+    "lemma": "وَصِيد",
+    "meaning": "entrance",
+    "transliteration": "waṣīd",
+    "lemmaId": 4611
+  },
+  {
+    "id": 4235,
+    "lemma": "وَصِيلَة",
+    "meaning": "Waṣīlah",
+    "transliteration": "waṣīlatun",
+    "lemmaId": 4612
+  },
+  {
+    "id": 4236,
+    "lemma": "وَصِيَّة",
+    "meaning": "will, ordinance",
+    "transliteration": "waṣiyya",
+    "lemmaId": 1008
+  },
+  {
+    "id": 4237,
+    "lemma": "وَصَّلْ",
+    "meaning": "to repeatedly convey",
+    "transliteration": "waṣṣal",
+    "lemmaId": 4613
+  },
+  {
+    "id": 4238,
+    "lemma": "وَصَّى",
+    "meaning": "to enjoin",
+    "transliteration": "waṣṣā",
+    "lemmaId": 797
+  },
+  {
+    "id": 4239,
+    "lemma": "وَصْف",
+    "meaning": "attribution",
+    "transliteration": "waṣf",
+    "lemmaId": 4614
+  },
+  {
+    "id": 4240,
+    "lemma": "وَضَعَ",
+    "meaning": "to deliver, to give birth",
+    "transliteration": "waḍaʿa",
+    "lemmaId": 490
+  },
+  {
+    "id": 4241,
+    "lemma": "وَطَر",
+    "meaning": "necessary",
+    "transliteration": "waṭar",
+    "lemmaId": 2743
+  },
+  {
+    "id": 4242,
+    "lemma": "وَطْء",
+    "meaning": "impact",
+    "transliteration": "waṭʾ",
+    "lemmaId": 4615
+  },
+  {
+    "id": 4243,
+    "lemma": "وَعَدَ",
+    "meaning": "to promise",
+    "transliteration": "waʿada",
+    "lemmaId": 175
+  },
+  {
+    "id": 4244,
+    "lemma": "وَعَظْ",
+    "meaning": "to instruct, to advise, to preach",
+    "transliteration": "waʿaẓ",
+    "lemmaId": 630
+  },
+  {
+    "id": 4245,
+    "lemma": "وَعِيد",
+    "meaning": "threat, warning",
+    "transliteration": "waʿīd",
+    "lemmaId": 1239
+  },
+  {
+    "id": 4246,
+    "lemma": "وَعْد",
+    "meaning": "promise",
+    "transliteration": "waʿd",
+    "lemmaId": 242
+  },
+  {
+    "id": 4247,
+    "lemma": "وَفَّى",
+    "meaning": "to fulfill completely",
+    "transliteration": "waffā",
+    "lemmaId": 548
+  },
+  {
+    "id": 4248,
+    "lemma": "وَفْد",
+    "meaning": "delegation",
+    "transliteration": "wafda",
+    "lemmaId": 4616
+  },
+  {
+    "id": 4249,
+    "lemma": "وَقار",
+    "meaning": "majestic greatness",
+    "transliteration": "waqār",
+    "lemmaId": 4617
+  },
+  {
+    "id": 4250,
+    "lemma": "وَقَبَ",
+    "meaning": "to enter",
+    "transliteration": "waqaba",
+    "lemmaId": 4618
+  },
+  {
+    "id": 4251,
+    "lemma": "وَقَعَ",
+    "meaning": "to fall, to occur, to be fulfilled",
+    "transliteration": "waqaʿ",
+    "lemmaId": 742
+  },
+  {
+    "id": 4252,
+    "lemma": "وَقَى",
+    "meaning": "to guard, to preserve",
+    "transliteration": "waqā",
+    "lemmaId": 600
+  },
+  {
+    "id": 4253,
+    "lemma": "وَقُود",
+    "meaning": "fuel",
+    "transliteration": "waqūd",
+    "lemmaId": 1661
+  },
+  {
+    "id": 4254,
+    "lemma": "وَقْت",
+    "meaning": "time",
+    "transliteration": "waqti",
+    "lemmaId": 2045
+  },
+  {
+    "id": 4255,
+    "lemma": "وَقْر",
+    "meaning": "deafness",
+    "transliteration": "waqra",
+    "lemmaId": 1240
+  },
+  {
+    "id": 4256,
+    "lemma": "وَقْعَت",
+    "meaning": "occurrence",
+    "transliteration": "waqʿat",
+    "lemmaId": 4619
+  },
+  {
+    "id": 4257,
+    "lemma": "وَكَزَ",
+    "meaning": "to strike",
+    "transliteration": "wakaza",
+    "lemmaId": 4620
+  },
+  {
+    "id": 4258,
+    "lemma": "وَكِيل",
+    "meaning": "guardian, trustee",
+    "transliteration": "wakīl",
+    "lemmaId": 440
+  },
+  {
+    "id": 4259,
+    "lemma": "وَلايَت",
+    "meaning": "protective authority",
+    "transliteration": "walāyat",
+    "lemmaId": 2744
+  },
+  {
+    "id": 4260,
+    "lemma": "وَلَد",
+    "meaning": "son, child",
+    "transliteration": "walad",
+    "lemmaId": 212
+  },
+  {
+    "id": 4261,
+    "lemma": "وَلَدَ",
+    "meaning": "to give birth, to beget",
+    "transliteration": "walada",
+    "lemmaId": 929
+  },
+  {
+    "id": 4262,
+    "lemma": "وَلِيجَة",
+    "meaning": "intimate associate",
+    "transliteration": "walījata",
+    "lemmaId": 4621
+  },
+  {
+    "id": 4263,
+    "lemma": "وَلِيد",
+    "meaning": "child, young one",
+    "transliteration": "walīd",
+    "lemmaId": 1111
+  },
+  {
+    "id": 4264,
+    "lemma": "وَلِيّ",
+    "meaning": "Guardian, ally",
+    "transliteration": "waliyy",
+    "lemmaId": 130
+  },
+  {
+    "id": 4265,
+    "lemma": "وَلَّى",
+    "meaning": "to turn",
+    "transliteration": "wallā",
+    "lemmaId": 371
+  },
+  {
+    "id": 4266,
+    "lemma": "وَهَبَ",
+    "meaning": "to grant, to bestow",
+    "transliteration": "wahaba",
+    "lemmaId": 471
+  },
+  {
+    "id": 4267,
+    "lemma": "وَهَنَ",
+    "meaning": "to weaken",
+    "transliteration": "wahana",
+    "lemmaId": 1421
+  },
+  {
+    "id": 4268,
+    "lemma": "وَهّاب",
+    "meaning": "Bestower",
+    "transliteration": "wahhāb",
+    "lemmaId": 2046
+  },
+  {
+    "id": 4269,
+    "lemma": "وَهّاج",
+    "meaning": "blazing",
+    "transliteration": "wahhāj",
+    "lemmaId": 4622
+  },
+  {
+    "id": 4270,
+    "lemma": "وَهْن",
+    "meaning": "weakness",
+    "transliteration": "wahnan",
+    "lemmaId": 2745
+  },
+  {
+    "id": 4271,
+    "lemma": "وَيْ",
+    "meaning": "Oh!",
+    "transliteration": "way",
+    "lemmaId": 2746
+  },
+  {
+    "id": 4272,
+    "lemma": "وَيْل",
+    "meaning": "destruction be upon",
+    "transliteration": "wayl",
+    "lemmaId": 293
+  },
+  {
+    "id": 4273,
+    "lemma": "وُجْد",
+    "meaning": "means",
+    "transliteration": "wuj'd",
+    "lemmaId": 4623
+  },
+  {
+    "id": 4274,
+    "lemma": "وُحُوش",
+    "meaning": "wild beast",
+    "transliteration": "wuḥūsh",
+    "lemmaId": 4624
+  },
+  {
+    "id": 4275,
+    "lemma": "وُدّ",
+    "meaning": "affection",
+    "transliteration": "wudd",
+    "lemmaId": 4625
+  },
+  {
+    "id": 4276,
+    "lemma": "وُسْطَى",
+    "meaning": "middle",
+    "transliteration": "wusṭā",
+    "lemmaId": 4626
+  },
+  {
+    "id": 4277,
+    "lemma": "وُسْع",
+    "meaning": "capacity",
+    "transliteration": "wusʿ",
+    "lemmaId": 1422
+  },
+  {
+    "id": 4278,
+    "lemma": "وُقِفُ",
+    "meaning": "to be made to stand",
+    "transliteration": "wuqifu",
+    "lemmaId": 2047
+  },
+  {
+    "id": 4279,
+    "lemma": "وُكِّلَ",
+    "meaning": "to entrust, to put in charge",
+    "transliteration": "wukkila",
+    "lemmaId": 2748
+  },
+  {
+    "id": 4280,
+    "lemma": "وُۥرِيَ",
+    "meaning": "to be concealed",
+    "transliteration": "wuriya",
+    "lemmaId": 1662
+  },
+  {
+    "id": 4281,
+    "lemma": "وِجْهَة",
+    "meaning": "direction",
+    "transliteration": "wij'hta",
+    "lemmaId": 4627
+  },
+  {
+    "id": 4282,
+    "lemma": "وِرْد",
+    "meaning": "place, thirsty",
+    "transliteration": "wird",
+    "lemmaId": 2749
+  },
+  {
+    "id": 4283,
+    "lemma": "وِزْر",
+    "meaning": "burden",
+    "transliteration": "wizr",
+    "lemmaId": 743
+  },
+  {
+    "id": 4284,
+    "lemma": "وِعاء",
+    "meaning": "bag",
+    "transliteration": "wiʿā",
+    "lemmaId": 2048
+  },
+  {
+    "id": 4285,
+    "lemma": "وِفاق",
+    "meaning": "fitting",
+    "transliteration": "wifāq",
+    "lemmaId": 4628
+  },
+  {
+    "id": 4286,
+    "lemma": "وِقْر",
+    "meaning": "load",
+    "transliteration": "wiqra",
+    "lemmaId": 4629
+  },
+  {
+    "id": 4287,
+    "lemma": "ي",
+    "meaning": "O",
+    "transliteration": "ya",
+    "lemmaId": 35
+  },
+  {
+    "id": 4288,
+    "lemma": "يابِس",
+    "meaning": "dry",
+    "transliteration": "yābis",
+    "lemmaId": 4630
+  },
+  {
+    "id": 4289,
+    "lemma": "يابِسَة",
+    "meaning": "dry",
+    "transliteration": "yābisah",
+    "lemmaId": 2750
+  },
+  {
+    "id": 4290,
+    "lemma": "ياقُوت",
+    "meaning": "precious gemstone",
+    "transliteration": "yāqūt",
+    "lemmaId": 4631
+  },
+  {
+    "id": 4291,
+    "lemma": "يَأْتَلِ",
+    "meaning": "to refuse",
+    "transliteration": "ya'tali",
+    "lemmaId": 4632
+  },
+  {
+    "id": 4292,
+    "lemma": "يَأْتَمِرُ",
+    "meaning": "to consult",
+    "transliteration": "ya'tamiru",
+    "lemmaId": 2751
+  },
+  {
+    "id": 4293,
+    "lemma": "يَأْجُوج",
+    "meaning": "Yaʾjūj",
+    "transliteration": "yaajūj",
+    "lemmaId": 2752
+  },
+  {
+    "id": 4294,
+    "lemma": "يَأْلَمُ",
+    "meaning": "to suffer",
+    "transliteration": "yaalamu",
+    "lemmaId": 2049
+  },
+  {
+    "id": 4295,
+    "lemma": "يَأْلُ",
+    "meaning": "to fall short",
+    "transliteration": "ya'lud",
+    "lemmaId": 4633
+  },
+  {
+    "id": 4296,
+    "lemma": "يَأْنِ",
+    "meaning": "it is time",
+    "transliteration": "yaani",
+    "lemmaId": 4634
+  },
+  {
+    "id": 4297,
+    "lemma": "يَئُودُ",
+    "meaning": "to overwhelm",
+    "transliteration": "yayūdu",
+    "lemmaId": 4635
+  },
+  {
+    "id": 4298,
+    "lemma": "يَئُوس",
+    "meaning": "despairing, extremely hopeless",
+    "transliteration": "yaʾūs",
+    "lemmaId": 2050
+  },
+  {
+    "id": 4299,
+    "lemma": "يَئِسَ",
+    "meaning": "to despair",
+    "transliteration": "yaʾisa",
+    "lemmaId": 1009
+  },
+  {
+    "id": 4300,
+    "lemma": "يَبَس",
+    "meaning": "dry",
+    "transliteration": "yabasa",
+    "lemmaId": 4636
+  },
+  {
+    "id": 4301,
+    "lemma": "يَبُورُ",
+    "meaning": "to become futile",
+    "transliteration": "yabūru",
+    "lemmaId": 2753
+  },
+  {
+    "id": 4302,
+    "lemma": "يَبِيتُ",
+    "meaning": "to spend the night",
+    "transliteration": "yabītu",
+    "lemmaId": 4637
+  },
+  {
+    "id": 4303,
+    "lemma": "يَبْحَثُ",
+    "meaning": "to dig",
+    "transliteration": "yabḥathu",
+    "lemmaId": 4638
+  },
+  {
+    "id": 4304,
+    "lemma": "يَبْخَسْ",
+    "meaning": "to diminish, to deprive",
+    "transliteration": "yabkhas",
+    "lemmaId": 1423
+  },
+  {
+    "id": 4305,
+    "lemma": "يَتَبَدَّلِ",
+    "meaning": "to substitute for himself",
+    "transliteration": "yatabaddalि",
+    "lemmaId": 2051
+  },
+  {
+    "id": 4306,
+    "lemma": "يَتَبَوَّأُ",
+    "meaning": "to settle oneself",
+    "transliteration": "yatabawwau",
+    "lemmaId": 1663
+  },
+  {
+    "id": 4307,
+    "lemma": "يَتَجَرَّعُ",
+    "meaning": "to sip",
+    "transliteration": "yatajarraʿu",
+    "lemmaId": 4639
+  },
+  {
+    "id": 4308,
+    "lemma": "يَتَجَنَّبُ",
+    "meaning": "to avoid",
+    "transliteration": "yatajanabbu",
+    "lemmaId": 4640
+  },
+  {
+    "id": 4309,
+    "lemma": "يَتَحاجُّ",
+    "meaning": "to dispute with one another",
+    "transliteration": "yataḥājju",
+    "lemmaId": 4641
+  },
+  {
+    "id": 4310,
+    "lemma": "يَتَحاكَمُ",
+    "meaning": "to seek judgment",
+    "transliteration": "yataḥākamu",
+    "lemmaId": 4642
+  },
+  {
+    "id": 4311,
+    "lemma": "يَتَخافَتُ",
+    "meaning": "to speak to one another in low voices",
+    "transliteration": "yatakhāfatu",
+    "lemmaId": 2754
+  },
+  {
+    "id": 4312,
+    "lemma": "يَتَخَبَّطُ",
+    "meaning": "struck into confusion",
+    "transliteration": "yatakhabbatu",
+    "lemmaId": 4643
+  },
+  {
+    "id": 4313,
+    "lemma": "يَتَخَطَّفَ",
+    "meaning": "to repeatedly snatch away and disperse",
+    "transliteration": "yatakh-ṭaf",
+    "lemmaId": 2052
+  },
+  {
+    "id": 4314,
+    "lemma": "يَتَخَلَّفُ",
+    "meaning": "to lag behind",
+    "transliteration": "yatakhallafu",
+    "lemmaId": 4644
+  },
+  {
+    "id": 4315,
+    "lemma": "يَتَخَيَّرُ",
+    "meaning": "to select, to choose",
+    "transliteration": "yatakhayyaru",
+    "lemmaId": 2755
+  },
+  {
+    "id": 4316,
+    "lemma": "يَتَدَبَّرُ",
+    "meaning": "to reflect",
+    "transliteration": "yatadabbaru",
+    "lemmaId": 1664
+  },
+  {
+    "id": 4317,
+    "lemma": "يَتَراجَعَ",
+    "meaning": "to return to one another",
+    "transliteration": "yatārājaʿa",
+    "lemmaId": 4645
+  },
+  {
+    "id": 4318,
+    "lemma": "يَتَرَدَّدُ",
+    "meaning": "to waver",
+    "transliteration": "yatarraddad",
+    "lemmaId": 4646
+  },
+  {
+    "id": 4319,
+    "lemma": "يَتَرَقَّبُ",
+    "meaning": "to keep waiting in anticipation",
+    "transliteration": "yataraqqabu",
+    "lemmaId": 2756
+  },
+  {
+    "id": 4320,
+    "lemma": "يَتَساءَلُ",
+    "meaning": "to question, to ask, to inquire [one another]",
+    "transliteration": "yatasāalu",
+    "lemmaId": 930
+  },
+  {
+    "id": 4321,
+    "lemma": "يَتَسَلَّلُ",
+    "meaning": "to slip away",
+    "transliteration": "yatatalallu",
+    "lemmaId": 4647
+  },
+  {
+    "id": 4322,
+    "lemma": "يَتَسَنَّهْ",
+    "meaning": "to change with time",
+    "transliteration": "yatasannah",
+    "lemmaId": 4648
+  },
+  {
+    "id": 4323,
+    "lemma": "يَتَضَرَّعُ",
+    "meaning": "to humble",
+    "transliteration": "yatadarraʿu",
+    "lemmaId": 2053
+  },
+  {
+    "id": 4324,
+    "lemma": "يَتَعارَفُ",
+    "meaning": "to know, to recognize",
+    "transliteration": "yatāʿārfu",
+    "lemmaId": 2757
+  },
+  {
+    "id": 4325,
+    "lemma": "يَتَعَدَّ",
+    "meaning": "to transgress",
+    "transliteration": "yataʿadda",
+    "lemmaId": 2054
+  },
+  {
+    "id": 4326,
+    "lemma": "يَتَعَلَّمُ",
+    "meaning": "to learn",
+    "transliteration": "yataʿallamu",
+    "lemmaId": 2758
+  },
+  {
+    "id": 4327,
+    "lemma": "يَتَغامَزُ",
+    "meaning": "to wink",
+    "transliteration": "yataghāmazu",
+    "lemmaId": 4649
+  },
+  {
+    "id": 4328,
+    "lemma": "يَتَغَيَّرْ",
+    "meaning": "to change",
+    "transliteration": "yataghayyar",
+    "lemmaId": 4650
+  },
+  {
+    "id": 4329,
+    "lemma": "يَتَفَجَّرُ",
+    "meaning": "to gush forth",
+    "transliteration": "yatfajjaru",
+    "lemmaId": 4651
+  },
+  {
+    "id": 4330,
+    "lemma": "يَتَفَضَّلَ",
+    "meaning": "to assert superiority",
+    "transliteration": "yatafaḍḍala",
+    "lemmaId": 4652
+  },
+  {
+    "id": 4331,
+    "lemma": "يَتَفَقَّهُ",
+    "meaning": "to obtain understanding",
+    "transliteration": "yatafaffahu",
+    "lemmaId": 4653
+  },
+  {
+    "id": 4332,
+    "lemma": "يَتَفَكَّرُ",
+    "meaning": "to ponder, to reflect",
+    "transliteration": "yatafakkaru",
+    "lemmaId": 574
+  },
+  {
+    "id": 4333,
+    "lemma": "يَتَفَيَّؤُا۟",
+    "meaning": "to incline",
+    "transliteration": "yatafayyaū",
+    "lemmaId": 4654
+  },
+  {
+    "id": 4334,
+    "lemma": "يَتَكَبَّرُ",
+    "meaning": "to be arrogant",
+    "transliteration": "yatakabbaru",
+    "lemmaId": 2759
+  },
+  {
+    "id": 4335,
+    "lemma": "يَتَكَلَّمُ",
+    "meaning": "to speak",
+    "transliteration": "yatakallamu",
+    "lemmaId": 1665
+  },
+  {
+    "id": 4336,
+    "lemma": "يَتَلاوَمُ",
+    "meaning": "to blame each other",
+    "transliteration": "yatadawamu",
+    "lemmaId": 4655
+  },
+  {
+    "id": 4337,
+    "lemma": "يَتَلَطَّفْ",
+    "meaning": "to act with subtlety",
+    "transliteration": "yatallaṭṭaf",
+    "lemmaId": 4656
+  },
+  {
+    "id": 4338,
+    "lemma": "يَتَماسَّ",
+    "meaning": "to touch each other",
+    "transliteration": "yatamassā",
+    "lemmaId": 2760
+  },
+  {
+    "id": 4339,
+    "lemma": "يَتَمَطَّى",
+    "meaning": "to swagger",
+    "transliteration": "yatamaṭṭā",
+    "lemmaId": 4657
+  },
+  {
+    "id": 4340,
+    "lemma": "يَتَمَنَّ",
+    "meaning": "to wish",
+    "transliteration": "yatamanna",
+    "lemmaId": 1241
+  },
+  {
+    "id": 4341,
+    "lemma": "يَتَنافَسِ",
+    "meaning": "to compete earnestly",
+    "transliteration": "yatānāfasi",
+    "lemmaId": 4658
+  },
+  {
+    "id": 4342,
+    "lemma": "يَتَناهَ",
+    "meaning": "to forbid one another",
+    "transliteration": "yatānāha",
+    "lemmaId": 4659
+  },
+  {
+    "id": 4343,
+    "lemma": "يَتِرَ",
+    "meaning": "to deprive",
+    "transliteration": "yatira",
+    "lemmaId": 4660
+  },
+  {
+    "id": 4344,
+    "lemma": "يَتِيم",
+    "meaning": "orphan",
+    "transliteration": "yatīm",
+    "lemmaId": 454
+  },
+  {
+    "id": 4345,
+    "lemma": "يَتِيهُ",
+    "meaning": "to wander aimlessly",
+    "transliteration": "yatīhu",
+    "lemmaId": 4661
+  },
+  {
+    "id": 4346,
+    "lemma": "يَتَّكِئُ",
+    "meaning": "to recline",
+    "transliteration": "yattakifuru",
+    "lemmaId": 4662
+  },
+  {
+    "id": 4347,
+    "lemma": "يَثْرِب",
+    "meaning": "Yathrib",
+    "transliteration": "yathrib",
+    "lemmaId": 4663
+  },
+  {
+    "id": 4348,
+    "lemma": "يَثْنُ",
+    "meaning": "to fold",
+    "transliteration": "yathnu",
+    "lemmaId": 4664
+  },
+  {
+    "id": 4349,
+    "lemma": "يَجُرُّ",
+    "meaning": "to drag",
+    "transliteration": "yajurru",
+    "lemmaId": 4665
+  },
+  {
+    "id": 4350,
+    "lemma": "يَجْأَرُ",
+    "meaning": "to cry out",
+    "transliteration": "yaj'āru",
+    "lemmaId": 2055
+  },
+  {
+    "id": 4351,
+    "lemma": "يَجْمَحُ",
+    "meaning": "to rush heedlessly",
+    "transliteration": "yajmaḥ",
+    "lemmaId": 4666
+  },
+  {
+    "id": 4352,
+    "lemma": "يَجْهَلُ",
+    "meaning": "to be ignorant",
+    "transliteration": "yajhalu",
+    "lemmaId": 1424
+  },
+  {
+    "id": 4353,
+    "lemma": "يَحُضُّ",
+    "meaning": "to urge",
+    "transliteration": "yaḥuḍu",
+    "lemmaId": 2761
+  },
+  {
+    "id": 4354,
+    "lemma": "يَحُورَ",
+    "meaning": "to return",
+    "transliteration": "yaḥūra",
+    "lemmaId": 4667
+  },
+  {
+    "id": 4355,
+    "lemma": "يَحِضْ",
+    "meaning": "to menstruate",
+    "transliteration": "yaḥiḍ",
+    "lemmaId": 4668
+  },
+  {
+    "id": 4356,
+    "lemma": "يَحِيفَ",
+    "meaning": "to be unjust",
+    "transliteration": "yaḥīfa",
+    "lemmaId": 4669
+  },
+  {
+    "id": 4357,
+    "lemma": "يَحْبِسُ",
+    "meaning": "to detain",
+    "transliteration": "yaḥbisu",
+    "lemmaId": 2762
+  },
+  {
+    "id": 4358,
+    "lemma": "يَحْتَسِبُ",
+    "meaning": "to expect",
+    "transliteration": "yaḥtasibu",
+    "lemmaId": 2057
+  },
+  {
+    "id": 4359,
+    "lemma": "يَحْذَرُ",
+    "meaning": "to fear, to beware",
+    "transliteration": "yaḥdharu",
+    "lemmaId": 744
+  },
+  {
+    "id": 4360,
+    "lemma": "يَحْزُن",
+    "meaning": "to grieve",
+    "transliteration": "yaḥzun",
+    "lemmaId": 319
+  },
+  {
+    "id": 4361,
+    "lemma": "يَحْطِمَ",
+    "meaning": "to crush",
+    "transliteration": "yaḥṭima",
+    "lemmaId": 4670
+  },
+  {
+    "id": 4362,
+    "lemma": "يَحْمُوم",
+    "meaning": "black smoke",
+    "transliteration": "yaḥmūm",
+    "lemmaId": 4671
+  },
+  {
+    "id": 4363,
+    "lemma": "يَحْيَى",
+    "meaning": "Yaḥyā",
+    "transliteration": "yaḥyā",
+    "lemmaId": 1425
+  },
+  {
+    "id": 4364,
+    "lemma": "يَخْتانُ",
+    "meaning": "to act treacherously",
+    "transliteration": "yakh'tānu",
+    "lemmaId": 2763
+  },
+  {
+    "id": 4365,
+    "lemma": "يَخْتَصُّ",
+    "meaning": "to choose exclusively",
+    "transliteration": "yak'taṣṣu",
+    "lemmaId": 2764
+  },
+  {
+    "id": 4366,
+    "lemma": "يَخْدَعُ",
+    "meaning": "to deceive",
+    "transliteration": "yakhdaʿu",
+    "lemmaId": 2765
+  },
+  {
+    "id": 4367,
+    "lemma": "يَخْذُلْ",
+    "meaning": "to forsake",
+    "transliteration": "yakh'ẓul",
+    "lemmaId": 4672
+  },
+  {
+    "id": 4368,
+    "lemma": "يَخْرُصُ",
+    "meaning": "to speculate, to lie",
+    "transliteration": "yakhruṣu",
+    "lemmaId": 1666
+  },
+  {
+    "id": 4369,
+    "lemma": "يَخْصِفَ",
+    "meaning": "to patch together",
+    "transliteration": "yakhṣifa",
+    "lemmaId": 2766
+  },
+  {
+    "id": 4370,
+    "lemma": "يَخْفَى",
+    "meaning": "to be hidden",
+    "transliteration": "yakhfā",
+    "lemmaId": 1242
+  },
+  {
+    "id": 4371,
+    "lemma": "يَخْلُدْ",
+    "meaning": "to remain forever",
+    "transliteration": "yakhlud",
+    "lemmaId": 2767
+  },
+  {
+    "id": 4372,
+    "lemma": "يَد",
+    "meaning": "hand",
+    "transliteration": "yad",
+    "lemmaId": 102
+  },
+  {
+    "id": 4373,
+    "lemma": "يَدُسُّ",
+    "meaning": "to bury",
+    "transliteration": "yadussu",
+    "lemmaId": 4673
+  },
+  {
+    "id": 4374,
+    "lemma": "يَدُعُّ",
+    "meaning": "to repel, to push away",
+    "transliteration": "yaduʿu",
+    "lemmaId": 2768
+  },
+  {
+    "id": 4375,
+    "lemma": "يَدِينُ",
+    "meaning": "to obey",
+    "transliteration": "yadīnu",
+    "lemmaId": 4674
+  },
+  {
+    "id": 4376,
+    "lemma": "يَدَّعُ",
+    "meaning": "to call for",
+    "transliteration": "yaddaʿu",
+    "lemmaId": 2058
+  },
+  {
+    "id": 4377,
+    "lemma": "يَدْرَؤُا۟",
+    "meaning": "to avert, to repel",
+    "transliteration": "yadraʾu",
+    "lemmaId": 1667
+  },
+  {
+    "id": 4378,
+    "lemma": "يَدْمَغُ",
+    "meaning": "to crush",
+    "transliteration": "yadmaghu",
+    "lemmaId": 4675
+  },
+  {
+    "id": 4379,
+    "lemma": "يَذَرَ",
+    "meaning": "to leave, to forsake",
+    "transliteration": "yadara",
+    "lemmaId": 257
+  },
+  {
+    "id": 4380,
+    "lemma": "يَرْتَعْ",
+    "meaning": "to enjoy",
+    "transliteration": "yartʿ",
+    "lemmaId": 4676
+  },
+  {
+    "id": 4381,
+    "lemma": "يَرْتَقُ",
+    "meaning": "to ascend",
+    "transliteration": "yartaqu",
+    "lemmaId": 4677
+  },
+  {
+    "id": 4382,
+    "lemma": "يَرْجُوا۟",
+    "meaning": "to hope, to expect, to desire",
+    "transliteration": "yarjū",
+    "lemmaId": 472
+  },
+  {
+    "id": 4383,
+    "lemma": "يَرْشُدُ",
+    "meaning": "to be rightly guided",
+    "transliteration": "yarshudu",
+    "lemmaId": 4678
+  },
+  {
+    "id": 4384,
+    "lemma": "يَرْغَبُ",
+    "meaning": "to desire, to prefer, to turn away",
+    "transliteration": "yarghabu",
+    "lemmaId": 1668
+  },
+  {
+    "id": 4385,
+    "lemma": "يَرْقُبُ",
+    "meaning": "to watch",
+    "transliteration": "yarqubu",
+    "lemmaId": 2059
+  },
+  {
+    "id": 4386,
+    "lemma": "يَرْكَعُ",
+    "meaning": "to bow",
+    "transliteration": "yarkaʿu",
+    "lemmaId": 1426
+  },
+  {
+    "id": 4387,
+    "lemma": "يَرْكُضُ",
+    "meaning": "to flee, to strike",
+    "transliteration": "yarkuḍu",
+    "lemmaId": 2060
+  },
+  {
+    "id": 4388,
+    "lemma": "يَرْكُمَ",
+    "meaning": "to heap up",
+    "transliteration": "yarkuma",
+    "lemmaId": 4679
+  },
+  {
+    "id": 4389,
+    "lemma": "يَرْهَبُ",
+    "meaning": "to fear",
+    "transliteration": "yarhabu",
+    "lemmaId": 2061
+  },
+  {
+    "id": 4390,
+    "lemma": "يَرْهَقُ",
+    "meaning": "to be overwhelmed, to be overtaken",
+    "transliteration": "yarhaqu",
+    "lemmaId": 1427
+  },
+  {
+    "id": 4391,
+    "lemma": "يَزِرُ",
+    "meaning": "to bear",
+    "transliteration": "yaziru",
+    "lemmaId": 1112
+  },
+  {
+    "id": 4392,
+    "lemma": "يَزِفُّ",
+    "meaning": "to hasten",
+    "transliteration": "yaziffu",
+    "lemmaId": 4680
+  },
+  {
+    "id": 4393,
+    "lemma": "يَزْنُ",
+    "meaning": "to commit unlawful intimate relations",
+    "transliteration": "yaznu",
+    "lemmaId": 2769
+  },
+  {
+    "id": 4394,
+    "lemma": "يَسُبُّ",
+    "meaning": "to insult",
+    "transliteration": "yasubbu",
+    "lemmaId": 2770
+  },
+  {
+    "id": 4395,
+    "lemma": "يَسُومُ",
+    "meaning": "to afflict",
+    "transliteration": "yasūmu",
+    "lemmaId": 1669
+  },
+  {
+    "id": 4396,
+    "lemma": "يَسِير",
+    "meaning": "easy, with ease",
+    "transliteration": "yasīr",
+    "lemmaId": 631
+  },
+  {
+    "id": 4397,
+    "lemma": "يَسَّرَ",
+    "meaning": "to make easy",
+    "transliteration": "yassara",
+    "lemmaId": 798
+  },
+  {
+    "id": 4398,
+    "lemma": "يَسَّمَّعُ",
+    "meaning": "to listen",
+    "transliteration": "yassammu",
+    "lemmaId": 4681
+  },
+  {
+    "id": 4399,
+    "lemma": "يَسْأَمُ",
+    "meaning": "to tire",
+    "transliteration": "yasʾamu",
+    "lemmaId": 2062
+  },
+  {
+    "id": 4400,
+    "lemma": "يَسْبَحُ",
+    "meaning": "to swim, to float",
+    "transliteration": "yasbaḥu",
+    "lemmaId": 2771
+  },
+  {
+    "id": 4401,
+    "lemma": "يَسْبِتُ",
+    "meaning": "to have Sabbath",
+    "transliteration": "yasbitu",
+    "lemmaId": 4682
+  },
+  {
+    "id": 4402,
+    "lemma": "يَسْتَأْخِرُ",
+    "meaning": "to seek to delay, to try to postpone",
+    "transliteration": "yastakhiru",
+    "lemmaId": 1243
+  },
+  {
+    "id": 4403,
+    "lemma": "يَسْتَبْدِلْ",
+    "meaning": "to seek to replace",
+    "transliteration": "yastabdil",
+    "lemmaId": 2063
+  },
+  {
+    "id": 4404,
+    "lemma": "يَسْتَبْشِرُ",
+    "meaning": "to rejoice at good news",
+    "transliteration": "yastabshiru",
+    "lemmaId": 1113
+  },
+  {
+    "id": 4405,
+    "lemma": "يَسْتَثْنُ",
+    "meaning": "to make an exception",
+    "transliteration": "yastathnu",
+    "lemmaId": 4683
+  },
+  {
+    "id": 4406,
+    "lemma": "يَسْتَحْسِرُ",
+    "meaning": "to become too exhausted to continue",
+    "transliteration": "yast-aḥsiru",
+    "lemmaId": 4684
+  },
+  {
+    "id": 4407,
+    "lemma": "يَسْتَحْىِۦ",
+    "meaning": "to be shy, to let live",
+    "transliteration": "yastAḥyi",
+    "lemmaId": 931
+  },
+  {
+    "id": 4408,
+    "lemma": "يَسْتَخْفُ",
+    "meaning": "to seek to hide",
+    "transliteration": "yastakhfu",
+    "lemmaId": 2064
+  },
+  {
+    "id": 4409,
+    "lemma": "يَسْتَسْخِرُ",
+    "meaning": "to mock excessively",
+    "transliteration": "yastaskhiru",
+    "lemmaId": 4685
+  },
+  {
+    "id": 4410,
+    "lemma": "يَسْتَصْرِخُ",
+    "meaning": "to cry for help",
+    "transliteration": "yastaghriku",
+    "lemmaId": 4686
+  },
+  {
+    "id": 4411,
+    "lemma": "يَسْتَعْتِبُ",
+    "meaning": "to ask for favor",
+    "transliteration": "yastuʿtibu",
+    "lemmaId": 1670
+  },
+  {
+    "id": 4412,
+    "lemma": "يَسْتَعْفِفْ",
+    "meaning": "to refrain, to be chaste",
+    "transliteration": "yastaf'if",
+    "lemmaId": 2065
+  },
+  {
+    "id": 4413,
+    "lemma": "يَسْتَفِزَّ",
+    "meaning": "to incite, to scare, to drive out",
+    "transliteration": "yastafizza",
+    "lemmaId": 2066
+  },
+  {
+    "id": 4414,
+    "lemma": "يَسْتَفْتُ",
+    "meaning": "to seek ruling, to inquire, to ask",
+    "transliteration": "yastaf'tu",
+    "lemmaId": 1244
+  },
+  {
+    "id": 4415,
+    "lemma": "يَسْتَقْدِمُ",
+    "meaning": "to advance, to precede",
+    "transliteration": "yastaqdimu",
+    "lemmaId": 1671
+  },
+  {
+    "id": 4416,
+    "lemma": "يَسْتَنقِذُ",
+    "meaning": "to attempt to recover",
+    "transliteration": "yastanqidhu",
+    "lemmaId": 4687
+  },
+  {
+    "id": 4417,
+    "lemma": "يَسْتَنكِحَ",
+    "meaning": "to seek to marry",
+    "transliteration": "yastankiḥa",
+    "lemmaId": 4688
+  },
+  {
+    "id": 4418,
+    "lemma": "يَسْتَنۢبِئُ",
+    "meaning": "to seek to be informed",
+    "transliteration": "yastanbiu",
+    "lemmaId": 4689
+  },
+  {
+    "id": 4419,
+    "lemma": "يَسْتَنۢبِطُ",
+    "meaning": "to deduce",
+    "transliteration": "yastanibṭu",
+    "lemmaId": 4690
+  },
+  {
+    "id": 4420,
+    "lemma": "يَسْتَوْفُ",
+    "meaning": "to take in full",
+    "transliteration": "yastawfu",
+    "lemmaId": 4691
+  },
+  {
+    "id": 4421,
+    "lemma": "يَسْرِ",
+    "meaning": "to pass, to set out",
+    "transliteration": "yasri",
+    "lemmaId": 4692
+  },
+  {
+    "id": 4422,
+    "lemma": "يَسْطُ",
+    "meaning": "to attack",
+    "transliteration": "yasṭu",
+    "lemmaId": 4693
+  },
+  {
+    "id": 4423,
+    "lemma": "يَسْطُرُ",
+    "meaning": "to write",
+    "transliteration": "yasṭuru",
+    "lemmaId": 4694
+  },
+  {
+    "id": 4424,
+    "lemma": "يَسْفِكُ",
+    "meaning": "to shed",
+    "transliteration": "yasfiku",
+    "lemmaId": 2772
+  },
+  {
+    "id": 4425,
+    "lemma": "يَسْلُبْ",
+    "meaning": "to snatch away",
+    "transliteration": "yaslub",
+    "lemmaId": 4695
+  },
+  {
+    "id": 4426,
+    "lemma": "يَشَّقَّقُ",
+    "meaning": "to split",
+    "transliteration": "yashshaqqaqu",
+    "lemmaId": 2067
+  },
+  {
+    "id": 4427,
+    "lemma": "يَشْعُرُ",
+    "meaning": "to perceive, to realize",
+    "transliteration": "yash'uru",
+    "lemmaId": 428
+  },
+  {
+    "id": 4428,
+    "lemma": "يَشْفَعُ",
+    "meaning": "to intercede",
+    "transliteration": "yashfaʿu",
+    "lemmaId": 1428
+  },
+  {
+    "id": 4429,
+    "lemma": "يَشْفِ",
+    "meaning": "to heal, to cure",
+    "transliteration": "yashfi",
+    "lemmaId": 2773
+  },
+  {
+    "id": 4430,
+    "lemma": "يَشْوِي",
+    "meaning": "to scald",
+    "transliteration": "yashwī",
+    "lemmaId": 4696
+  },
+  {
+    "id": 4431,
+    "lemma": "يَصُمْ",
+    "meaning": "to fast",
+    "transliteration": "yaṣum",
+    "lemmaId": 2774
+  },
+  {
+    "id": 4432,
+    "lemma": "يَصِفُ",
+    "meaning": "to attribute, to ascribe",
+    "transliteration": "yaṣifu",
+    "lemmaId": 694
+  },
+  {
+    "id": 4433,
+    "lemma": "يَصِلُ",
+    "meaning": "to join, to reach",
+    "transliteration": "yaṣilu",
+    "lemmaId": 859
+  },
+  {
+    "id": 4434,
+    "lemma": "يَصَّدَّعُ",
+    "meaning": "to be divided",
+    "transliteration": "yaṣṣaddaʿu",
+    "lemmaId": 4697
+  },
+  {
+    "id": 4435,
+    "lemma": "يَصَّعَّدُ",
+    "meaning": "to climb",
+    "transliteration": "yaṣṣaʿdadu",
+    "lemmaId": 4698
+  },
+  {
+    "id": 4436,
+    "lemma": "يَصْدُرُ",
+    "meaning": "to proceed",
+    "transliteration": "yaṣduru",
+    "lemmaId": 4699
+  },
+  {
+    "id": 4437,
+    "lemma": "يَصْرِمُ",
+    "meaning": "to pluck",
+    "transliteration": "yaṣrimu",
+    "lemmaId": 4700
+  },
+  {
+    "id": 4438,
+    "lemma": "يَصْطَرِخُ",
+    "meaning": "to cry",
+    "transliteration": "yaṣṭarikhu",
+    "lemmaId": 4701
+  },
+  {
+    "id": 4439,
+    "lemma": "يَصْعَدُ",
+    "meaning": "to ascend",
+    "transliteration": "yaṣʿadu",
+    "lemmaId": 4702
+  },
+  {
+    "id": 4440,
+    "lemma": "يَصْفَحُ",
+    "meaning": "to overlook",
+    "transliteration": "yaṣfaḥu",
+    "lemmaId": 1245
+  },
+  {
+    "id": 4441,
+    "lemma": "يَصْلَى",
+    "meaning": "to burn",
+    "transliteration": "yaṣlā",
+    "lemmaId": 695
+  },
+  {
+    "id": 4442,
+    "lemma": "يَضُرَّ",
+    "meaning": "to harm",
+    "transliteration": "yaḍurra",
+    "lemmaId": 524
+  },
+  {
+    "id": 4443,
+    "lemma": "يَطِيرُ",
+    "meaning": "to fly",
+    "transliteration": "yaṭīru",
+    "lemmaId": 4703
+  },
+  {
+    "id": 4444,
+    "lemma": "يَطَّوَّفَ",
+    "meaning": "to walk, to circumambulate",
+    "transliteration": "yaṭṭawwafa",
+    "lemmaId": 2775
+  },
+  {
+    "id": 4445,
+    "lemma": "يَطْلُبُ",
+    "meaning": "to seek",
+    "transliteration": "yaṭlubu",
+    "lemmaId": 4704
+  },
+  {
+    "id": 4446,
+    "lemma": "يَطْمَعُ",
+    "meaning": "to hope, to desire",
+    "transliteration": "yaṭmaʿu",
+    "lemmaId": 1010
+  },
+  {
+    "id": 4447,
+    "lemma": "يَطْمِثْ",
+    "meaning": "to touch",
+    "transliteration": "yaṭmith",
+    "lemmaId": 2776
+  },
+  {
+    "id": 4448,
+    "lemma": "يَطْهُرْ",
+    "meaning": "to purify",
+    "transliteration": "yaṭhur",
+    "lemmaId": 4705
+  },
+  {
+    "id": 4449,
+    "lemma": "يَعُوق",
+    "meaning": "Yāʿūq",
+    "transliteration": "yaʿūq",
+    "lemmaId": 4706
+  },
+  {
+    "id": 4450,
+    "lemma": "يَعْبَؤُا۟",
+    "meaning": "to care",
+    "transliteration": "yaʿbaū",
+    "lemmaId": 4707
+  },
+  {
+    "id": 4451,
+    "lemma": "يَعْتَذِرُ",
+    "meaning": "to make excuse",
+    "transliteration": "yaʿtadhiru",
+    "lemmaId": 1429
+  },
+  {
+    "id": 4452,
+    "lemma": "يَعْدُ",
+    "meaning": "to transgress, to pass beyond",
+    "transliteration": "yaʿdu",
+    "lemmaId": 2069
+  },
+  {
+    "id": 4453,
+    "lemma": "يَعْرُجُ",
+    "meaning": "to ascend",
+    "transliteration": "yaʿruju",
+    "lemmaId": 1430
+  },
+  {
+    "id": 4454,
+    "lemma": "يَعْرِشُ",
+    "meaning": "to erect, to construct",
+    "transliteration": "yaʿrishu",
+    "lemmaId": 2777
+  },
+  {
+    "id": 4455,
+    "lemma": "يَعْزُبُ",
+    "meaning": "to escape",
+    "transliteration": "yaʿzubu",
+    "lemmaId": 2778
+  },
+  {
+    "id": 4456,
+    "lemma": "يَعْشُ",
+    "meaning": "to turn away",
+    "transliteration": "yaʿshu",
+    "lemmaId": 4708
+  },
+  {
+    "id": 4457,
+    "lemma": "يَعْصِرُ",
+    "meaning": "to press",
+    "transliteration": "yaʿṣiru",
+    "lemmaId": 2779
+  },
+  {
+    "id": 4458,
+    "lemma": "يَعْصِمُ",
+    "meaning": "to save, to protect",
+    "transliteration": "yaʿṣimu",
+    "lemmaId": 2070
+  },
+  {
+    "id": 4459,
+    "lemma": "يَعْقُوب",
+    "meaning": "Yaʿqūb",
+    "transliteration": "yaʿqūb",
+    "lemmaId": 601
+  },
+  {
+    "id": 4460,
+    "lemma": "يَعْكُفُ",
+    "meaning": "to devote",
+    "transliteration": "yaʿkufu",
+    "lemmaId": 4709
+  },
+  {
+    "id": 4461,
+    "lemma": "يَعْمَهُ",
+    "meaning": "to wander blindly",
+    "transliteration": "yaʿmahu",
+    "lemmaId": 1114
+  },
+  {
+    "id": 4462,
+    "lemma": "يَغُضُّ",
+    "meaning": "to lower",
+    "transliteration": "yaghuddu",
+    "lemmaId": 1672
+  },
+  {
+    "id": 4463,
+    "lemma": "يَغُوث",
+    "meaning": "Yaghūth",
+    "transliteration": "yaghūth",
+    "lemmaId": 4710
+  },
+  {
+    "id": 4464,
+    "lemma": "يَغُوصُ",
+    "meaning": "to dive",
+    "transliteration": "yaghūsu",
+    "lemmaId": 4711
+  },
+  {
+    "id": 4465,
+    "lemma": "يَغْتَب",
+    "meaning": "to backbite",
+    "transliteration": "yagh tab",
+    "lemmaId": 4712
+  },
+  {
+    "id": 4466,
+    "lemma": "يَغْلِي",
+    "meaning": "to boil",
+    "transliteration": "yaghli",
+    "lemmaId": 4713
+  },
+  {
+    "id": 4467,
+    "lemma": "يَفْتَرِي",
+    "meaning": "to fabricate",
+    "transliteration": "yaf'tarī",
+    "lemmaId": 4714
+  },
+  {
+    "id": 4468,
+    "lemma": "يَفْتُرُ",
+    "meaning": "to slacken",
+    "transliteration": "yaf'uru",
+    "lemmaId": 4715
+  },
+  {
+    "id": 4469,
+    "lemma": "يَفْرُطَ",
+    "meaning": "to hasten",
+    "transliteration": "yaf'ruṭa",
+    "lemmaId": 4716
+  },
+  {
+    "id": 4470,
+    "lemma": "يَفْسَحِ",
+    "meaning": "to make room",
+    "transliteration": "yafsaḥi",
+    "lemmaId": 2781
+  },
+  {
+    "id": 4471,
+    "lemma": "يَفْقَهُ",
+    "meaning": "to understand",
+    "transliteration": "yafqahu",
+    "lemmaId": 525
+  },
+  {
+    "id": 4472,
+    "lemma": "يَقِين",
+    "meaning": "certainty",
+    "transliteration": "yaqīn",
+    "lemmaId": 1011
+  },
+  {
+    "id": 4473,
+    "lemma": "يَقْبَلُ",
+    "meaning": "to accept",
+    "transliteration": "yaqbalu",
+    "lemmaId": 932
+  },
+  {
+    "id": 4474,
+    "lemma": "يَقْتُرُ",
+    "meaning": "to be stingy",
+    "transliteration": "yaqture",
+    "lemmaId": 4717
+  },
+  {
+    "id": 4475,
+    "lemma": "يَقْرَبُ",
+    "meaning": "to approach",
+    "transliteration": "yaqrabu",
+    "lemmaId": 799
+  },
+  {
+    "id": 4476,
+    "lemma": "يَقْطِين",
+    "meaning": "gourd",
+    "transliteration": "yaqṭīn",
+    "lemmaId": 4718
+  },
+  {
+    "id": 4477,
+    "lemma": "يَقْنُتْ",
+    "meaning": "to be devoutly obedient",
+    "transliteration": "yaqnut",
+    "lemmaId": 2782
+  },
+  {
+    "id": 4478,
+    "lemma": "يَكْفُلُ",
+    "meaning": "to take responsibility for",
+    "transliteration": "yakfulu",
+    "lemmaId": 2072
+  },
+  {
+    "id": 4479,
+    "lemma": "يَكْلَؤُ",
+    "meaning": "to guard",
+    "transliteration": "yaklau",
+    "lemmaId": 4719
+  },
+  {
+    "id": 4480,
+    "lemma": "يَلُ",
+    "meaning": "to be close",
+    "transliteration": "yalu",
+    "lemmaId": 4720
+  },
+  {
+    "id": 4481,
+    "lemma": "يَلِتْ",
+    "meaning": "to diminish",
+    "transliteration": "yalit",
+    "lemmaId": 4721
+  },
+  {
+    "id": 4482,
+    "lemma": "يَلِجَ",
+    "meaning": "to enter",
+    "transliteration": "yalija",
+    "lemmaId": 2073
+  },
+  {
+    "id": 4483,
+    "lemma": "يَلْ",
+    "meaning": "to twist, to turn, to distort",
+    "transliteration": "yal",
+    "lemmaId": 2074
+  },
+  {
+    "id": 4484,
+    "lemma": "يَلْتَفِتْ",
+    "meaning": "to look back",
+    "transliteration": "yaltafit",
+    "lemmaId": 2783
+  },
+  {
+    "id": 4485,
+    "lemma": "يَلْحَقُ",
+    "meaning": "to join",
+    "transliteration": "yalḥaqu",
+    "lemmaId": 2784
+  },
+  {
+    "id": 4486,
+    "lemma": "يَلْعَبْ",
+    "meaning": "to play",
+    "transliteration": "yalʿab",
+    "lemmaId": 933
+  },
+  {
+    "id": 4487,
+    "lemma": "يَلْفِظُ",
+    "meaning": "to utter",
+    "transliteration": "yal'fiẓu",
+    "lemmaId": 4722
+  },
+  {
+    "id": 4488,
+    "lemma": "يَلْمِزُ",
+    "meaning": "to criticize, to insult",
+    "transliteration": "yalmizu",
+    "lemmaId": 2075
+  },
+  {
+    "id": 4489,
+    "lemma": "يَلْهَثْ",
+    "meaning": "to pant",
+    "transliteration": "yalhath",
+    "lemmaId": 2785
+  },
+  {
+    "id": 4490,
+    "lemma": "يَمُوجُ",
+    "meaning": "to surge",
+    "transliteration": "yamūju",
+    "lemmaId": 4723
+  },
+  {
+    "id": 4491,
+    "lemma": "يَمِيزَ",
+    "meaning": "to separate, to distinguish, to stand apart",
+    "transliteration": "yamīza",
+    "lemmaId": 2786
+  },
+  {
+    "id": 4492,
+    "lemma": "يَمِيلُ",
+    "meaning": "to deviate, to attack, to incline",
+    "transliteration": "yamīlu",
+    "lemmaId": 2076
+  },
+  {
+    "id": 4493,
+    "lemma": "يَمِين",
+    "meaning": "right, right hand",
+    "transliteration": "yamīn",
+    "lemmaId": 182
+  },
+  {
+    "id": 4494,
+    "lemma": "يَمْتَرُ",
+    "meaning": "to dispute, to doubt",
+    "transliteration": "yamtaru",
+    "lemmaId": 1431
+  },
+  {
+    "id": 4495,
+    "lemma": "يَمْحَقُ",
+    "meaning": "to eradicate",
+    "transliteration": "yamḥaqu",
+    "lemmaId": 2787
+  },
+  {
+    "id": 4496,
+    "lemma": "يَمْهَدُ",
+    "meaning": "to prepare",
+    "transliteration": "yamhadu",
+    "lemmaId": 4724
+  },
+  {
+    "id": 4497,
+    "lemma": "يَنالُ",
+    "meaning": "to attain, to reach, to grant",
+    "transliteration": "yanālu",
+    "lemmaId": 800
+  },
+  {
+    "id": 4498,
+    "lemma": "يَنبُوع",
+    "meaning": "spring",
+    "transliteration": "yanbūʿ",
+    "lemmaId": 2788
+  },
+  {
+    "id": 4499,
+    "lemma": "يَنتَظِرُ",
+    "meaning": "to wait",
+    "transliteration": "yantazhiru",
+    "lemmaId": 1013
+  },
+  {
+    "id": 4500,
+    "lemma": "يَنسَخُ",
+    "meaning": "to abolish, to abrogate",
+    "transliteration": "yansakhu",
+    "lemmaId": 2789
+  },
+  {
+    "id": 4501,
+    "lemma": "يَنسِلُ",
+    "meaning": "to rush forth, to hasten",
+    "transliteration": "yansilu",
+    "lemmaId": 2790
+  },
+  {
+    "id": 4502,
+    "lemma": "يَنطِقُ",
+    "meaning": "to speak",
+    "transliteration": "yanṭiqu",
+    "lemmaId": 934
+  },
+  {
+    "id": 4503,
+    "lemma": "يَنقَضَّ",
+    "meaning": "to collapse",
+    "transliteration": "yanqaḍّa",
+    "lemmaId": 4725
+  },
+  {
+    "id": 4504,
+    "lemma": "يَنْحِتُ",
+    "meaning": "to carve",
+    "transliteration": "yanḥitu",
+    "lemmaId": 1673
+  },
+  {
+    "id": 4505,
+    "lemma": "يَنْع",
+    "meaning": "ripeness",
+    "transliteration": "yanʿ",
+    "lemmaId": 4726
+  },
+  {
+    "id": 4506,
+    "lemma": "يَنْعِقُ",
+    "meaning": "to shout",
+    "transliteration": "yanʿiqu",
+    "lemmaId": 4727
+  },
+  {
+    "id": 4507,
+    "lemma": "يَهُود",
+    "meaning": "Jews",
+    "transliteration": "yahūda",
+    "lemmaId": 935
+  },
+  {
+    "id": 4508,
+    "lemma": "يَهِيجُ",
+    "meaning": "to dry up",
+    "transliteration": "yahīju",
+    "lemmaId": 2791
+  },
+  {
+    "id": 4509,
+    "lemma": "يَهِيمُ",
+    "meaning": "to wander aimlessly",
+    "transliteration": "yahīmu",
+    "lemmaId": 4728
+  },
+  {
+    "id": 4510,
+    "lemma": "يَهْبِطُ",
+    "meaning": "to come down",
+    "transliteration": "yah'biṭu",
+    "lemmaId": 1014
+  },
+  {
+    "id": 4511,
+    "lemma": "يَهْجَعُ",
+    "meaning": "to sleep",
+    "transliteration": "yah'jau",
+    "lemmaId": 4729
+  },
+  {
+    "id": 4512,
+    "lemma": "يَوْم",
+    "meaning": "day",
+    "transliteration": "yawm",
+    "lemmaId": 26
+  },
+  {
+    "id": 4513,
+    "lemma": "يُؤاخِذُ",
+    "meaning": "to take to account",
+    "transliteration": "yu'ākhidu",
+    "lemmaId": 936
+  },
+  {
+    "id": 4514,
+    "lemma": "يُؤَدِّ",
+    "meaning": "to discharge",
+    "transliteration": "yu'addi",
+    "lemmaId": 1432
+  },
+  {
+    "id": 4515,
+    "lemma": "يُؤْثَرُ",
+    "meaning": "to transmit",
+    "transliteration": "yu'tharu",
+    "lemmaId": 4730
+  },
+  {
+    "id": 4516,
+    "lemma": "يُؤْلُ",
+    "meaning": "to swear an oath",
+    "transliteration": "yu'ludh",
+    "lemmaId": 4731
+  },
+  {
+    "id": 4517,
+    "lemma": "يُبَتِّكُ",
+    "meaning": "to mutilate",
+    "transliteration": "yubattiku",
+    "lemmaId": 4732
+  },
+  {
+    "id": 4518,
+    "lemma": "يُبَصَّرُ",
+    "meaning": "to be made to see",
+    "transliteration": "yubas'aru",
+    "lemmaId": 4733
+  },
+  {
+    "id": 4519,
+    "lemma": "يُبَطِّئَ",
+    "meaning": "to hold back",
+    "transliteration": "yub​aṭṭiʾa",
+    "lemmaId": 4734
+  },
+  {
+    "id": 4520,
+    "lemma": "يُبِينُ",
+    "meaning": "to clarify",
+    "transliteration": "yubīnu",
+    "lemmaId": 4735
+  },
+  {
+    "id": 4521,
+    "lemma": "يُبْدِئُ",
+    "meaning": "to begin",
+    "transliteration": "yub'di'u",
+    "lemmaId": 2077
+  },
+  {
+    "id": 4522,
+    "lemma": "يُبْدِلَ",
+    "meaning": "to substitute",
+    "transliteration": "yub'dila",
+    "lemmaId": 2078
+  },
+  {
+    "id": 4523,
+    "lemma": "يُبْدِيَ",
+    "meaning": "to reveal",
+    "transliteration": "yub'diya",
+    "lemmaId": 632
+  },
+  {
+    "id": 4524,
+    "lemma": "يُبْطِلَ",
+    "meaning": "to nullify",
+    "transliteration": "yubṭila",
+    "lemmaId": 1674
+  },
+  {
+    "id": 4525,
+    "lemma": "يُبْلِسُ",
+    "meaning": "to fall into despair",
+    "transliteration": "yublisu",
+    "lemmaId": 4736
+  },
+  {
+    "id": 4526,
+    "lemma": "يُبْلِيَ",
+    "meaning": "to test",
+    "transliteration": "yub'liya",
+    "lemmaId": 2792
+  },
+  {
+    "id": 4527,
+    "lemma": "يُثْبِتُ",
+    "meaning": "to firmly bind, to firmly establish",
+    "transliteration": "yuth'bitu",
+    "lemmaId": 2793
+  },
+  {
+    "id": 4528,
+    "lemma": "يُجاوِرُ",
+    "meaning": "to dwell near",
+    "transliteration": "yujāwiru",
+    "lemmaId": 4737
+  },
+  {
+    "id": 4529,
+    "lemma": "يُجَنَّبُ",
+    "meaning": "to be made to avoid",
+    "transliteration": "yujannabu",
+    "lemmaId": 4738
+  },
+  {
+    "id": 4530,
+    "lemma": "يُجِيرُ",
+    "meaning": "to protect",
+    "transliteration": "yujīru",
+    "lemmaId": 1247
+  },
+  {
+    "id": 4531,
+    "lemma": "يُجْبَى",
+    "meaning": "to be brought forth",
+    "transliteration": "yuj'bā",
+    "lemmaId": 4739
+  },
+  {
+    "id": 4532,
+    "lemma": "يُحادُّ",
+    "meaning": "to oppose",
+    "transliteration": "yuḥāddu",
+    "lemmaId": 2794
+  },
+  {
+    "id": 4533,
+    "lemma": "يُحافِظُ",
+    "meaning": "to carefully guard",
+    "transliteration": "yuḥāfiẓu",
+    "lemmaId": 1675
+  },
+  {
+    "id": 4534,
+    "lemma": "يُحاوِرُ",
+    "meaning": "to converse",
+    "transliteration": "yuḥāwiru",
+    "lemmaId": 2795
+  },
+  {
+    "id": 4535,
+    "lemma": "يُحَذِّرُ",
+    "meaning": "to warn",
+    "transliteration": "yuḥadhdhiru",
+    "lemmaId": 2796
+  },
+  {
+    "id": 4536,
+    "lemma": "يُحَرِّفُ",
+    "meaning": "to distort",
+    "transliteration": "yuḥarribu",
+    "lemmaId": 1676
+  },
+  {
+    "id": 4537,
+    "lemma": "يُحَكِّمُ",
+    "meaning": "to appoint as judge, to seek judgment",
+    "transliteration": "yuḥakkimu",
+    "lemmaId": 2797
+  },
+  {
+    "id": 4538,
+    "lemma": "يُحِقَّ",
+    "meaning": "to establish",
+    "transliteration": "yuḥiqqa",
+    "lemmaId": 1677
+  },
+  {
+    "id": 4539,
+    "lemma": "يُحْبَرُ",
+    "meaning": "to be delighted",
+    "transliteration": "yuḥ'baru",
+    "lemmaId": 2798
+  },
+  {
+    "id": 4540,
+    "lemma": "يُحْدِثُ",
+    "meaning": "to cause, to bring about",
+    "transliteration": "yuḥdithu",
+    "lemmaId": 2079
+  },
+  {
+    "id": 4541,
+    "lemma": "يُحْفِ",
+    "meaning": "to press persistently",
+    "transliteration": "yuḥfi",
+    "lemmaId": 4740
+  },
+  {
+    "id": 4542,
+    "lemma": "يُحْمَدُ",
+    "meaning": "to be praised",
+    "transliteration": "yuḥmadu",
+    "lemmaId": 4741
+  },
+  {
+    "id": 4543,
+    "lemma": "يُخادِعُ",
+    "meaning": "to seek to deceive",
+    "transliteration": "yukhādiʿu",
+    "lemmaId": 2799
+  },
+  {
+    "id": 4544,
+    "lemma": "يُخالِفُ",
+    "meaning": "to oppose, to differ",
+    "transliteration": "yukhālifu",
+    "lemmaId": 2800
+  },
+  {
+    "id": 4545,
+    "lemma": "يُخَوِّفُ",
+    "meaning": "to frighten, to intimidate",
+    "transliteration": "yukhawwifu",
+    "lemmaId": 1678
+  },
+  {
+    "id": 4546,
+    "lemma": "يُخَيَّلُ",
+    "meaning": "to be made to appear",
+    "transliteration": "yukhayyalu",
+    "lemmaId": 4743
+  },
+  {
+    "id": 4547,
+    "lemma": "يُخْرِبُ",
+    "meaning": "to destroy",
+    "transliteration": "yukhribu",
+    "lemmaId": 4744
+  },
+  {
+    "id": 4548,
+    "lemma": "يُخْسِرُ",
+    "meaning": "to cause loss",
+    "transliteration": "yukhsiru",
+    "lemmaId": 2801
+  },
+  {
+    "id": 4549,
+    "lemma": "يُدافِعُ",
+    "meaning": "to defend",
+    "transliteration": "yudāfiʿu",
+    "lemmaId": 4745
+  },
+  {
+    "id": 4550,
+    "lemma": "يُدْحِضُ",
+    "meaning": "to refute",
+    "transliteration": "yudḥiḍu",
+    "lemmaId": 2802
+  },
+  {
+    "id": 4551,
+    "lemma": "يُدْهِنُ",
+    "meaning": "to compromise",
+    "transliteration": "yud'hinu",
+    "lemmaId": 2803
+  },
+  {
+    "id": 4552,
+    "lemma": "يُذَبِّحُ",
+    "meaning": "to massacre",
+    "transliteration": "yudh'abbiḥu",
+    "lemmaId": 2080
+  },
+  {
+    "id": 4553,
+    "lemma": "يُراءُ",
+    "meaning": "to make themselves seen",
+    "transliteration": "yurāu",
+    "lemmaId": 2804
+  },
+  {
+    "id": 4554,
+    "lemma": "يُرْضُ",
+    "meaning": "to please, to satisfy",
+    "transliteration": "yurḍu",
+    "lemmaId": 2081
+  },
+  {
+    "id": 4555,
+    "lemma": "يُرْضِعْ",
+    "meaning": "to suckle",
+    "transliteration": "yurḍiʿ",
+    "lemmaId": 4746
+  },
+  {
+    "id": 4556,
+    "lemma": "يُرْهِقَ",
+    "meaning": "to impose a burden, to overwhelm with hardship",
+    "transliteration": "yur'hiqa",
+    "lemmaId": 2082
+  },
+  {
+    "id": 4557,
+    "lemma": "يُزْجِي",
+    "meaning": "to drive",
+    "transliteration": "yuz'jī",
+    "lemmaId": 2805
+  },
+  {
+    "id": 4558,
+    "lemma": "يُزْلِقُ",
+    "meaning": "to cause to slip",
+    "transliteration": "yuzli'qu",
+    "lemmaId": 4747
+  },
+  {
+    "id": 4559,
+    "lemma": "يُسارِعُ",
+    "meaning": "to hasten",
+    "transliteration": "yusāriʿu",
+    "lemmaId": 937
+  },
+  {
+    "id": 4560,
+    "lemma": "يُسِيغُ",
+    "meaning": "to swallow",
+    "transliteration": "yusīghu",
+    "lemmaId": 4748
+  },
+  {
+    "id": 4561,
+    "lemma": "يُسْجَرُ",
+    "meaning": "to be filled with fire",
+    "transliteration": "yus'jaru",
+    "lemmaId": 4749
+  },
+  {
+    "id": 4562,
+    "lemma": "يُسْجَنَ",
+    "meaning": "to be imprisoned",
+    "transliteration": "yus'jana",
+    "lemmaId": 2083
+  },
+  {
+    "id": 4563,
+    "lemma": "يُسْحَبُ",
+    "meaning": "to be dragged",
+    "transliteration": "yus'ḥabu",
+    "lemmaId": 2806
+  },
+  {
+    "id": 4564,
+    "lemma": "يُسْحِتَ",
+    "meaning": "to destroy",
+    "transliteration": "yus'ḥita",
+    "lemmaId": 4750
+  },
+  {
+    "id": 4565,
+    "lemma": "يُسْر",
+    "meaning": "ease",
+    "transliteration": "yus'run",
+    "lemmaId": 1115
+  },
+  {
+    "id": 4566,
+    "lemma": "يُسْرَى",
+    "meaning": "the path of ease",
+    "transliteration": "yus'rā",
+    "lemmaId": 2807
+  },
+  {
+    "id": 4567,
+    "lemma": "يُسْمِنُ",
+    "meaning": "to nourish",
+    "transliteration": "yusminu",
+    "lemmaId": 4751
+  },
+  {
+    "id": 4568,
+    "lemma": "يُشْعِرُ",
+    "meaning": "to perceive, to be aware",
+    "transliteration": "yush'iru",
+    "lemmaId": 2808
+  },
+  {
+    "id": 4569,
+    "lemma": "يُصَدَّعُ",
+    "meaning": "to have headache",
+    "transliteration": "yuṣaddaʿu",
+    "lemmaId": 4752
+  },
+  {
+    "id": 4570,
+    "lemma": "يُصَلَّبُ",
+    "meaning": "to crucify",
+    "transliteration": "yuṣallabu",
+    "lemmaId": 1680
+  },
+  {
+    "id": 4571,
+    "lemma": "يُصْحَبُ",
+    "meaning": "to protect",
+    "transliteration": "yuṣ'ḥabu",
+    "lemmaId": 4753
+  },
+  {
+    "id": 4572,
+    "lemma": "يُصْدِرَ",
+    "meaning": "to take away",
+    "transliteration": "yuṣ'dira",
+    "lemmaId": 4754
+  },
+  {
+    "id": 4573,
+    "lemma": "يُصْهَرُ",
+    "meaning": "to melt",
+    "transliteration": "yuṣ'haru",
+    "lemmaId": 4755
+  },
+  {
+    "id": 4574,
+    "lemma": "يُضارَّ",
+    "meaning": "to suffer, to be harmed",
+    "transliteration": "yuḍārra",
+    "lemmaId": 2084
+  },
+  {
+    "id": 4575,
+    "lemma": "يُضاعِفُ",
+    "meaning": "to double, to multiply",
+    "transliteration": "yuḍāʿifu",
+    "lemmaId": 938
+  },
+  {
+    "id": 4576,
+    "lemma": "يُضاهِئُ",
+    "meaning": "to imitate",
+    "transliteration": "yuḍāhiū",
+    "lemmaId": 4756
+  },
+  {
+    "id": 4577,
+    "lemma": "يُضَيِّفُ",
+    "meaning": "to offer hospitality",
+    "transliteration": "yuḍayyifu",
+    "lemmaId": 4757
+  },
+  {
+    "id": 4578,
+    "lemma": "يُطاعُ",
+    "meaning": "to be obeyed",
+    "transliteration": "yuṭāʿu",
+    "lemmaId": 2809
+  },
+  {
+    "id": 4579,
+    "lemma": "يُطَوَّقُ",
+    "meaning": "to encircle the neck",
+    "transliteration": "yuṭawwaqu",
+    "lemmaId": 4758
+  },
+  {
+    "id": 4580,
+    "lemma": "يُطِيقُ",
+    "meaning": "to afford",
+    "transliteration": "yuṭīqu",
+    "lemmaId": 4759
+  },
+  {
+    "id": 4581,
+    "lemma": "يُطْلِعَ",
+    "meaning": "to inform",
+    "transliteration": "yuṭliʿa",
+    "lemmaId": 4760
+  },
+  {
+    "id": 4582,
+    "lemma": "يُعَظِّمْ",
+    "meaning": "to honor",
+    "transliteration": "yuʿaẓẓim",
+    "lemmaId": 2810
+  },
+  {
+    "id": 4583,
+    "lemma": "يُعَقِّبْ",
+    "meaning": "to look back, to return",
+    "transliteration": "yuʿaqqib",
+    "lemmaId": 2811
+  },
+  {
+    "id": 4584,
+    "lemma": "يُعَمَّرُ",
+    "meaning": "to grant life",
+    "transliteration": "yuʿammaru",
+    "lemmaId": 1433
+  },
+  {
+    "id": 4585,
+    "lemma": "يُعْجِزَ",
+    "meaning": "to cause failure",
+    "transliteration": "yuʿjiza",
+    "lemmaId": 1681
+  },
+  {
+    "id": 4586,
+    "lemma": "يُعْظِمْ",
+    "meaning": "to make great",
+    "transliteration": "yuʿẓim",
+    "lemmaId": 4761
+  },
+  {
+    "id": 4587,
+    "lemma": "يُغاثُ",
+    "meaning": "to be given relief",
+    "transliteration": "yughāthu",
+    "lemmaId": 2812
+  },
+  {
+    "id": 4588,
+    "lemma": "يُغادِرُ",
+    "meaning": "to leave behind",
+    "transliteration": "yughādiru",
+    "lemmaId": 2813
+  },
+  {
+    "id": 4589,
+    "lemma": "يُغَيِّرُ",
+    "meaning": "to change",
+    "transliteration": "yughayyiru",
+    "lemmaId": 1682
+  },
+  {
+    "id": 4590,
+    "lemma": "يُفَتَّرُ",
+    "meaning": "to subside",
+    "transliteration": "yufattaru",
+    "lemmaId": 4762
+  },
+  {
+    "id": 4591,
+    "lemma": "يُفْتِي",
+    "meaning": "to give ruling, to explain, to advise",
+    "transliteration": "yuf'tī",
+    "lemmaId": 1434
+  },
+  {
+    "id": 4592,
+    "lemma": "يُقَلِّلُ",
+    "meaning": "to make few",
+    "transliteration": "yuqallil",
+    "lemmaId": 4763
+  },
+  {
+    "id": 4593,
+    "lemma": "يُقْصِرُ",
+    "meaning": "to cease",
+    "transliteration": "yuqṣiru",
+    "lemmaId": 4764
+  },
+  {
+    "id": 4594,
+    "lemma": "يُكَلِّفُ",
+    "meaning": "to burden",
+    "transliteration": "yukallifu",
+    "lemmaId": 1116
+  },
+  {
+    "id": 4595,
+    "lemma": "يُلاقُ",
+    "meaning": "to meet",
+    "transliteration": "yulāqu",
+    "lemmaId": 2085
+  },
+  {
+    "id": 4596,
+    "lemma": "يُلْحِدُ",
+    "meaning": "to deviate, to falsely attribute",
+    "transliteration": "yulḥidu",
+    "lemmaId": 2086
+  },
+  {
+    "id": 4597,
+    "lemma": "يُمَسِّكُ",
+    "meaning": "to hold firmly",
+    "transliteration": "yumassiku",
+    "lemmaId": 4765
+  },
+  {
+    "id": 4598,
+    "lemma": "يُمَنِّي",
+    "meaning": "to fill with false hopes",
+    "transliteration": "yumannī",
+    "lemmaId": 2815
+  },
+  {
+    "id": 4599,
+    "lemma": "يُمِلَّ",
+    "meaning": "to dictate",
+    "transliteration": "yumilla",
+    "lemmaId": 2087
+  },
+  {
+    "id": 4600,
+    "lemma": "يُمْنَى",
+    "meaning": "to emit",
+    "transliteration": "yum'nā",
+    "lemmaId": 2088
+  },
+  {
+    "id": 4601,
+    "lemma": "يُنازِعُ",
+    "meaning": "to dispute",
+    "transliteration": "yunāziʿu",
+    "lemmaId": 4766
+  },
+  {
+    "id": 4602,
+    "lemma": "يُنزَفُ",
+    "meaning": "to be impaired",
+    "transliteration": "yunzafu",
+    "lemmaId": 2816
+  },
+  {
+    "id": 4603,
+    "lemma": "يُنظَرُ",
+    "meaning": "to be given respite",
+    "transliteration": "yunzaru",
+    "lemmaId": 745
+  },
+  {
+    "id": 4604,
+    "lemma": "يُنفَ",
+    "meaning": "to be exiled",
+    "transliteration": "yunfa",
+    "lemmaId": 4767
+  },
+  {
+    "id": 4605,
+    "lemma": "يُنقَصُ",
+    "meaning": "to decrease, to reduce, to lessen",
+    "transliteration": "yunq-ṣu",
+    "lemmaId": 1117
+  },
+  {
+    "id": 4606,
+    "lemma": "يُنكِرُ",
+    "meaning": "to deny",
+    "transliteration": "yunkiru",
+    "lemmaId": 2089
+  },
+  {
+    "id": 4607,
+    "lemma": "يُنَشَّؤُا۟",
+    "meaning": "to be brought up",
+    "transliteration": "yunashshaū",
+    "lemmaId": 4768
+  },
+  {
+    "id": 4608,
+    "lemma": "يُنْغِضُ",
+    "meaning": "to nod",
+    "transliteration": "yunghiḍu",
+    "lemmaId": 4769
+  },
+  {
+    "id": 4609,
+    "lemma": "يُهَيِّئْ",
+    "meaning": "to facilitate",
+    "transliteration": "yuhayyiʾ",
+    "lemmaId": 2817
+  },
+  {
+    "id": 4610,
+    "lemma": "يُهْرَعُ",
+    "meaning": "to be rushed, to be hastened",
+    "transliteration": "yuh'ra'u",
+    "lemmaId": 2818
+  },
+  {
+    "id": 4611,
+    "lemma": "يُواطِئُ",
+    "meaning": "to conform to",
+    "transliteration": "yūwāṭiʾu",
+    "lemmaId": 4770
+  },
+  {
+    "id": 4612,
+    "lemma": "يُوبِقْ",
+    "meaning": "to destroy",
+    "transliteration": "yūbiq",
+    "lemmaId": 4771
+  },
+  {
+    "id": 4613,
+    "lemma": "يُوثِقُ",
+    "meaning": "to bind",
+    "transliteration": "yūthiqu",
+    "lemmaId": 4772
+  },
+  {
+    "id": 4614,
+    "lemma": "يُوزَعُ",
+    "meaning": "to be held back",
+    "transliteration": "yūzaʿu",
+    "lemmaId": 2090
+  },
+  {
+    "id": 4615,
+    "lemma": "يُوسُف",
+    "meaning": "Yūsuf",
+    "transliteration": "yūsuf",
+    "lemmaId": 404
+  },
+  {
+    "id": 4616,
+    "lemma": "يُوصِي",
+    "meaning": "to make",
+    "transliteration": "yūṣī",
+    "lemmaId": 4773
+  },
+  {
+    "id": 4617,
+    "lemma": "يُوفِضُ",
+    "meaning": "to hasten",
+    "transliteration": "yūfiḍu",
+    "lemmaId": 4774
+  },
+  {
+    "id": 4618,
+    "lemma": "يُوقِعَ",
+    "meaning": "to cause",
+    "transliteration": "yūqia",
+    "lemmaId": 4775
+  },
+  {
+    "id": 4619,
+    "lemma": "يُوقِنُ",
+    "meaning": "to be certain",
+    "transliteration": "yūqinu",
+    "lemmaId": 746
+  },
+  {
+    "id": 4620,
+    "lemma": "يُولِجُ",
+    "meaning": "to cause to enter",
+    "transliteration": "yūliju",
+    "lemmaId": 860
+  },
+  {
+    "id": 4621,
+    "lemma": "يُونُس",
+    "meaning": "Yūnus",
+    "transliteration": "yūnus",
+    "lemmaId": 1683
+  },
+  {
+    "id": 4622,
+    "lemma": "مَع",
+    "meaning": "with, among",
+    "transliteration": "maa",
+    "lemmaId": 75
+  },
+  {
+    "id": 4624,
+    "lemma": "آذَن",
+    "meaning": "to announce",
+    "transliteration": "ādan",
+    "lemmaId": 2091
+  },
+  {
+    "id": 4625,
+    "lemma": "أَخْبَتُ",
+    "meaning": "to humble oneself",
+    "transliteration": "akhbatu",
+    "lemmaId": 2101
+  },
+  {
+    "id": 4626,
+    "lemma": "أَذَلّ",
+    "meaning": "most humiliated",
+    "transliteration": "aḏall",
+    "lemmaId": 2107
+  },
+  {
+    "id": 4627,
+    "lemma": "أَسْباط",
+    "meaning": "tribe, descendant",
+    "transliteration": "asbāṭ",
+    "lemmaId": 1258
+  },
+  {
+    "id": 4628,
+    "lemma": "أَسْلَفَتْ",
+    "meaning": "to do before, to send before",
+    "transliteration": "aslafat",
+    "lemmaId": 2116
+  },
+  {
+    "id": 4629,
+    "lemma": "أَضاءَ",
+    "meaning": "to light, to flash, to glow",
+    "transliteration": "aḍā",
+    "lemmaId": 1702
+  },
+  {
+    "id": 4630,
+    "lemma": "أَعْلَى",
+    "meaning": "highest, superior, exalted",
+    "transliteration": "aʿlā",
+    "lemmaId": 868
+  },
+  {
+    "id": 4631,
+    "lemma": "أَغْرَيْ",
+    "meaning": "to urge on, to cause to cling",
+    "transliteration": "aghray",
+    "lemmaId": 2134
+  },
+  {
+    "id": 4632,
+    "lemma": "أَكْثَرُ",
+    "meaning": "increased",
+    "transliteration": "aktharu",
+    "lemmaId": 2139
+  },
+  {
+    "id": 4633,
+    "lemma": "أَلْزَمَ",
+    "meaning": "to cause to adhere, to bind",
+    "transliteration": "alzama",
+    "lemmaId": 1712
+  },
+  {
+    "id": 4634,
+    "lemma": "أَلْهَى",
+    "meaning": "to distract, to divert",
+    "transliteration": "alhā",
+    "lemmaId": 1455
+  },
+  {
+    "id": 4635,
+    "lemma": "أَم",
+    "meaning": "or",
+    "transliteration": "am",
+    "lemmaId": 89
+  },
+  {
+    "id": 4636,
+    "lemma": "أَمَة",
+    "meaning": "female slave",
+    "transliteration": "amah",
+    "lemmaId": 2145
+  },
+  {
+    "id": 4637,
+    "lemma": "أَمّا",
+    "meaning": "as for",
+    "transliteration": "ammā",
+    "lemmaId": 213
+  },
+  {
+    "id": 4638,
+    "lemma": "أَن",
+    "meaning": "that, so that, in order to",
+    "transliteration": "an",
+    "lemmaId": 22
+  },
+  {
+    "id": 4639,
+    "lemma": "أَنتَ",
+    "meaning": "you",
+    "transliteration": "anta",
+    "lemmaId": 4781
+  },
+  {
+    "id": 4640,
+    "lemma": "أَنتُمْ",
+    "meaning": "you all",
+    "transliteration": "antum",
+    "lemmaId": 4779
+  },
+  {
+    "id": 4641,
+    "lemma": "أَنَا۠",
+    "meaning": "I",
+    "transliteration": "anā",
+    "lemmaId": 4782
+  },
+  {
+    "id": 4642,
+    "lemma": "أَو",
+    "meaning": "or",
+    "transliteration": "aw",
+    "lemmaId": 48
+  },
+  {
+    "id": 4643,
+    "lemma": "أَوَى",
+    "meaning": "to seek refuge",
+    "transliteration": "awā",
+    "lemmaId": 1263
+  },
+  {
+    "id": 4644,
+    "lemma": "أَوْقَدُ",
+    "meaning": "to kindle, to heat, to ignite, to light",
+    "transliteration": "awqadu",
+    "lemmaId": 1265
+  },
+  {
+    "id": 4645,
+    "lemma": "أَيّان",
+    "meaning": "when",
+    "transliteration": "ayyān",
+    "lemmaId": 1127
+  },
+  {
+    "id": 4646,
+    "lemma": "إِذا",
+    "meaning": "when, if",
+    "transliteration": "idhā",
+    "lemmaId": 29
+  },
+  {
+    "id": 4647,
+    "lemma": "إِذًا",
+    "meaning": "then, in that case",
+    "transliteration": "idhan",
+    "lemmaId": 354
+  },
+  {
+    "id": 4648,
+    "lemma": "إِقام",
+    "meaning": "establishing",
+    "transliteration": "iqām",
+    "lemmaId": 2168
+  },
+  {
+    "id": 4649,
+    "lemma": "إِلّا",
+    "meaning": "except, but",
+    "transliteration": "illā",
+    "lemmaId": 21
+  },
+  {
+    "id": 4650,
+    "lemma": "إِمّا",
+    "meaning": "either, if, when",
+    "transliteration": "immā",
+    "lemmaId": 443
+  },
+  {
+    "id": 4651,
+    "lemma": "إِن",
+    "meaning": "if",
+    "transliteration": "in",
+    "lemmaId": 20
+  },
+  {
+    "id": 4652,
+    "lemma": "إِي",
+    "meaning": "absolutely",
+    "transliteration": "ī",
+    "lemmaId": 2971
+  },
+  {
+    "id": 4653,
+    "lemma": "اسْتَكانُ",
+    "meaning": "to submit, to humble oneself",
+    "transliteration": "istakānu",
+    "lemmaId": 2184
+  },
+  {
+    "id": 4654,
+    "lemma": "اللَّهُمَّ",
+    "meaning": "O Allah",
+    "transliteration": "allāhumma",
+    "lemmaId": 1272
+  },
+  {
+    "id": 4655,
+    "lemma": "الْتَقَطَ",
+    "meaning": "to pick up",
+    "transliteration": "al-taqaṭ",
+    "lemmaId": 2196
+  },
+  {
+    "id": 4656,
+    "lemma": "انفَضُّ",
+    "meaning": "to rush, to disperse",
+    "transliteration": "infaddu",
+    "lemmaId": 1743
+  },
+  {
+    "id": 4657,
+    "lemma": "باطِن",
+    "meaning": "The Hidden, concealed",
+    "transliteration": "bāṭin",
+    "lemmaId": 1745
+  },
+  {
+    "id": 4658,
+    "lemma": "باقي",
+    "meaning": "the remaining ones",
+    "transliteration": "bāqī",
+    "lemmaId": 2205
+  },
+  {
+    "id": 4659,
+    "lemma": "باقِيَة",
+    "meaning": "remaining, remnant",
+    "transliteration": "bāqiyah",
+    "lemmaId": 1481
+  },
+  {
+    "id": 4660,
+    "lemma": "بَعِير",
+    "meaning": "camel",
+    "transliteration": "baʿīr",
+    "lemmaId": 2216
+  },
+  {
+    "id": 4661,
+    "lemma": "بَل",
+    "meaning": "rather",
+    "transliteration": "bal",
+    "lemmaId": 99
+  },
+  {
+    "id": 4662,
+    "lemma": "بَلَى",
+    "meaning": "yes indeed",
+    "transliteration": "balā",
+    "lemmaId": 458
+  },
+  {
+    "id": 4663,
+    "lemma": "بُدْن",
+    "meaning": "sacrificial animals",
+    "transliteration": "bud'na",
+    "lemmaId": 3087
+  },
+  {
+    "id": 4664,
+    "lemma": "تابُوت",
+    "meaning": "al-Tābūt",
+    "transliteration": "tābūt",
+    "lemmaId": 2228
+  },
+  {
+    "id": 4665,
+    "lemma": "تَبَرُّ",
+    "meaning": "to act kindly",
+    "transliteration": "tabarru",
+    "lemmaId": 2232
+  },
+  {
+    "id": 4666,
+    "lemma": "تَحاوُر",
+    "meaning": "dialogue",
+    "transliteration": "taḥāwur",
+    "lemmaId": 3124
+  },
+  {
+    "id": 4667,
+    "lemma": "تَظاهَرُ",
+    "meaning": "to support one another",
+    "transliteration": "taẓāharu",
+    "lemmaId": 2253
+  },
+  {
+    "id": 4668,
+    "lemma": "تَعْضُلُ",
+    "meaning": "to hinder, to constrain",
+    "transliteration": "taʿḍulu",
+    "lemmaId": 2255
+  },
+  {
+    "id": 4669,
+    "lemma": "تَقَوَّلَ",
+    "meaning": "to fabricate, to falsely attribute",
+    "transliteration": "taqawwala",
+    "lemmaId": 2262
+  },
+  {
+    "id": 4670,
+    "lemma": "تَمَنَّى",
+    "meaning": "to wish, to aspire for, to recite",
+    "transliteration": "tamanā",
+    "lemmaId": 1767
+  },
+  {
+    "id": 4671,
+    "lemma": "تُبْرِئُ",
+    "meaning": "to restore",
+    "transliteration": "tub'riu",
+    "lemmaId": 2272
+  },
+  {
+    "id": 4672,
+    "lemma": "ثُمّ",
+    "meaning": "then",
+    "transliteration": "thumma",
+    "lemmaId": 39
+  },
+  {
+    "id": 4673,
+    "lemma": "جَلَّى",
+    "meaning": "to reveal, to make manifest",
+    "transliteration": "jallā",
+    "lemmaId": 2284
+  },
+  {
+    "id": 4674,
+    "lemma": "جُنُب",
+    "meaning": "to be far, to be impure",
+    "transliteration": "junub",
+    "lemmaId": 1502
+  },
+  {
+    "id": 4675,
+    "lemma": "حالَ",
+    "meaning": "to come",
+    "transliteration": "ḥāla",
+    "lemmaId": 1793
+  },
+  {
+    "id": 4676,
+    "lemma": "حَتَّى",
+    "meaning": "until",
+    "transliteration": "ḥattā",
+    "lemmaId": 87
+  },
+  {
+    "id": 4677,
+    "lemma": "خائِن",
+    "meaning": "traitors",
+    "transliteration": "khāin",
+    "lemmaId": 1810
+  },
+  {
+    "id": 4678,
+    "lemma": "خَطْب",
+    "meaning": "affair, business, matter, mission",
+    "transliteration": "kh-ṭb",
+    "lemmaId": 1317
+  },
+  {
+    "id": 4679,
+    "lemma": "خَوَّلَ",
+    "meaning": "to bestow",
+    "transliteration": "khawwala",
+    "lemmaId": 1820
+  },
+  {
+    "id": 4680,
+    "lemma": "خُفْيَة",
+    "meaning": "secretly, privately",
+    "transliteration": "khufyata",
+    "lemmaId": 2341
+  },
+  {
+    "id": 4681,
+    "lemma": "دَعْوَى",
+    "meaning": "plea, cry, supplication, call",
+    "transliteration": "daʿwā",
+    "lemmaId": 1521
+  },
+  {
+    "id": 4682,
+    "lemma": "ذُلِّلَتْ",
+    "meaning": "to be subdued",
+    "transliteration": "dhullilat",
+    "lemmaId": 2362
+  },
+  {
+    "id": 4683,
+    "lemma": "رابِع",
+    "meaning": "fourth",
+    "transliteration": "rābiʿ",
+    "lemmaId": 2365
+  },
+  {
+    "id": 4684,
+    "lemma": "راغَ",
+    "meaning": "to turn",
+    "transliteration": "rāgha",
+    "lemmaId": 1832
+  },
+  {
+    "id": 4685,
+    "lemma": "رَبَطْ",
+    "meaning": "to make firm",
+    "transliteration": "rabaṭ",
+    "lemmaId": 1834
+  },
+  {
+    "id": 4686,
+    "lemma": "رَبْوَة",
+    "meaning": "height, high ground",
+    "transliteration": "rabwata",
+    "lemmaId": 2372
+  },
+  {
+    "id": 4687,
+    "lemma": "رَتَّلْ",
+    "meaning": "recite",
+    "transliteration": "rattal",
+    "lemmaId": 2373
+  },
+  {
+    "id": 4688,
+    "lemma": "رَدّ",
+    "meaning": "to take back, to repel",
+    "transliteration": "radd",
+    "lemmaId": 2375
+  },
+  {
+    "id": 4689,
+    "lemma": "رَضاعَة",
+    "meaning": "nursing, suckling",
+    "transliteration": "raḍāʿa",
+    "lemmaId": 2379
+  },
+  {
+    "id": 4690,
+    "lemma": "رَيْحان",
+    "meaning": "fragrant herb, bounty",
+    "transliteration": "rayḥān",
+    "lemmaId": 2386
+  },
+  {
+    "id": 4691,
+    "lemma": "زَجْرَة",
+    "meaning": "shout, cry",
+    "transliteration": "zaj'ratun",
+    "lemmaId": 2391
+  },
+  {
+    "id": 4692,
+    "lemma": "زَيْتُون",
+    "meaning": "olive",
+    "transliteration": "zaytūn",
+    "lemmaId": 1332
+  },
+  {
+    "id": 4693,
+    "lemma": "سافِل",
+    "meaning": "low",
+    "transliteration": "sāfil",
+    "lemmaId": 1855
+  },
+  {
+    "id": 4694,
+    "lemma": "سَحَرُ",
+    "meaning": "to bewitch, to delude",
+    "transliteration": "saḥaru",
+    "lemmaId": 1858
+  },
+  {
+    "id": 4695,
+    "lemma": "سَلَم",
+    "meaning": "peace, submitting",
+    "transliteration": "salama",
+    "lemmaId": 1335
+  },
+  {
+    "id": 4696,
+    "lemma": "سَوِيّ",
+    "meaning": "sound, well-proportioned, even, upright",
+    "transliteration": "sawiyy",
+    "lemmaId": 1336
+  },
+  {
+    "id": 4697,
+    "lemma": "سَوْف",
+    "meaning": "will, shall",
+    "transliteration": "sawfa",
+    "lemmaId": 274
+  },
+  {
+    "id": 4698,
+    "lemma": "سُلَّم",
+    "meaning": "ladder, stairway",
+    "transliteration": "sullama",
+    "lemmaId": 2423
+  },
+  {
+    "id": 4699,
+    "lemma": "سُوًى",
+    "meaning": "even",
+    "transliteration": "sūnya",
+    "lemmaId": 3667
+  },
+  {
+    "id": 4700,
+    "lemma": "سِقايَة",
+    "meaning": "provision of water, drinking cup",
+    "transliteration": "siqāyata",
+    "lemmaId": 2429
+  },
+  {
+    "id": 4701,
+    "lemma": "شَفْع",
+    "meaning": "even",
+    "transliteration": "shafʿ",
+    "lemmaId": 3696
+  },
+  {
+    "id": 4702,
+    "lemma": "شَهَوَة",
+    "meaning": "desire, passion, lust",
+    "transliteration": "shahawata",
+    "lemmaId": 1875
+  },
+  {
+    "id": 4703,
+    "lemma": "شَوَى",
+    "meaning": "skin of the head",
+    "transliteration": "shawā",
+    "lemmaId": 3699
+  },
+  {
+    "id": 4704,
+    "lemma": "صَرِيخ",
+    "meaning": "responder",
+    "transliteration": "ṣarīkh",
+    "lemmaId": 3742
+  },
+  {
+    "id": 4705,
+    "lemma": "صَمَد",
+    "meaning": "eternal, absolute",
+    "transliteration": "ṣamad",
+    "lemmaId": 3758
+  },
+  {
+    "id": 4706,
+    "lemma": "طَرِيق",
+    "meaning": "way, path",
+    "transliteration": "ṭarīq",
+    "lemmaId": 1561
+  },
+  {
+    "id": 4707,
+    "lemma": "طَعِمُ",
+    "meaning": "to eat, to taste",
+    "transliteration": "ṭaʿimu",
+    "lemmaId": 1352
+  },
+  {
+    "id": 4708,
+    "lemma": "طَلَب",
+    "meaning": "to find",
+    "transliteration": "ṭalab",
+    "lemmaId": 3803
+  },
+  {
+    "id": 4709,
+    "lemma": "طَلْع",
+    "meaning": "spathe, spadix, emerging fruit, layers",
+    "transliteration": "ṭalʿ",
+    "lemmaId": 1562
+  },
+  {
+    "id": 4710,
+    "lemma": "عالِي",
+    "meaning": "high, elevated",
+    "transliteration": "ʿālī",
+    "lemmaId": 1567
+  },
+  {
+    "id": 4711,
+    "lemma": "عَدّ",
+    "meaning": "number, counting",
+    "transliteration": "ʿadd",
+    "lemmaId": 2491
+  },
+  {
+    "id": 4712,
+    "lemma": "عَلانِيَة",
+    "meaning": "openly, publicly",
+    "transliteration": "ʿalānīya",
+    "lemmaId": 1573
+  },
+  {
+    "id": 4713,
+    "lemma": "عَن",
+    "meaning": "from, about",
+    "transliteration": "ʿan",
+    "lemmaId": 27
+  },
+  {
+    "id": 4714,
+    "lemma": "عَنِ",
+    "meaning": "to be burdened",
+    "transliteration": "ʿani",
+    "lemmaId": 1900
+  },
+  {
+    "id": 4715,
+    "lemma": "فارَ",
+    "meaning": "to overflow, to gush forth, to boil up",
+    "transliteration": "fāra",
+    "lemmaId": 1915
+  },
+  {
+    "id": 4716,
+    "lemma": "فَرَقْ",
+    "meaning": "to divide",
+    "transliteration": "faraq",
+    "lemmaId": 1371
+  },
+  {
+    "id": 4717,
+    "lemma": "فَوْج",
+    "meaning": "troop, company, group, crowd, multitude",
+    "transliteration": "fawj",
+    "lemmaId": 1374
+  },
+  {
+    "id": 4718,
+    "lemma": "قَبَضْ",
+    "meaning": "to withhold, to withdraw, to close",
+    "transliteration": "qabaḍ",
+    "lemmaId": 1377
+  },
+  {
+    "id": 4719,
+    "lemma": "قَد",
+    "meaning": "Indeed, already, perhaps",
+    "transliteration": "qad",
+    "lemmaId": 30
+  },
+  {
+    "id": 4720,
+    "lemma": "قَدِمْ",
+    "meaning": "to precede, to proceed",
+    "transliteration": "qadim",
+    "lemmaId": 2552
+  },
+  {
+    "id": 4721,
+    "lemma": "قَفَّيْ",
+    "meaning": "to send, to follow",
+    "transliteration": "qaffay",
+    "lemmaId": 1593
+  },
+  {
+    "id": 4722,
+    "lemma": "قَلائِد",
+    "meaning": "collars",
+    "transliteration": "qalāid",
+    "lemmaId": 2555
+  },
+  {
+    "id": 4723,
+    "lemma": "قَيَّضْ",
+    "meaning": "to appoint, to destine",
+    "transliteration": "qayyaḍ",
+    "lemmaId": 2556
+  },
+  {
+    "id": 4724,
+    "lemma": "قُتِّلُ",
+    "meaning": "to kill",
+    "transliteration": "qutilu",
+    "lemmaId": 1596
+  },
+  {
+    "id": 4725,
+    "lemma": "قِطْع",
+    "meaning": "part, portion",
+    "transliteration": "qiṭʿ",
+    "lemmaId": 2564
+  },
+  {
+    "id": 4726,
+    "lemma": "كَأَنّ",
+    "meaning": "as if",
+    "transliteration": "kaan",
+    "lemmaId": 357
+  },
+  {
+    "id": 4727,
+    "lemma": "كَأَنْ",
+    "meaning": "as if",
+    "transliteration": "kaan",
+    "lemmaId": 916
+  },
+  {
+    "id": 4728,
+    "lemma": "كَسَوْ",
+    "meaning": "to clothe, to cover",
+    "transliteration": "kasaw",
+    "lemmaId": 1949
+  },
+  {
+    "id": 4729,
+    "lemma": "كَلّا",
+    "meaning": "Not at all",
+    "transliteration": "kallā",
+    "lemmaId": 344
+  },
+  {
+    "id": 4730,
+    "lemma": "كَي",
+    "meaning": "so that",
+    "transliteration": "kay",
+    "lemmaId": 841
+  },
+  {
+    "id": 4731,
+    "lemma": "كُبْرَى",
+    "meaning": "the greatest",
+    "transliteration": "kub'rā",
+    "lemmaId": 1095
+  },
+  {
+    "id": 4732,
+    "lemma": "كُرْسِيّ",
+    "meaning": "Kursī, throne",
+    "transliteration": "kur-siyy",
+    "lemmaId": 2577
+  },
+  {
+    "id": 4733,
+    "lemma": "كِلا",
+    "meaning": "both",
+    "transliteration": "kilā",
+    "lemmaId": 4060
+  },
+  {
+    "id": 4734,
+    "lemma": "لَدَى",
+    "meaning": "at, with me, in my presence",
+    "transliteration": "ladā",
+    "lemmaId": 467
+  },
+  {
+    "id": 4735,
+    "lemma": "لَعَلّ",
+    "meaning": "maybe",
+    "transliteration": "laʿalla",
+    "lemmaId": 96
+  },
+  {
+    "id": 4736,
+    "lemma": "لَمّا",
+    "meaning": "when, not yet",
+    "transliteration": "lammā",
+    "lemmaId": 74
+  },
+  {
+    "id": 4737,
+    "lemma": "لَن",
+    "meaning": "will never",
+    "transliteration": "lan",
+    "lemmaId": 111
+  },
+  {
+    "id": 4738,
+    "lemma": "لَو",
+    "meaning": "if, even if",
+    "transliteration": "law",
+    "lemmaId": 63
+  },
+  {
+    "id": 4739,
+    "lemma": "لَوْلا",
+    "meaning": "if not, where it not for, why not",
+    "transliteration": "lawlā",
+    "lemmaId": 153
+  },
+  {
+    "id": 4740,
+    "lemma": "لَيْسَ",
+    "meaning": "is not",
+    "transliteration": "lay-sa",
+    "lemmaId": 123
+  },
+  {
+    "id": 4741,
+    "lemma": "لٰكِن",
+    "meaning": "but",
+    "transliteration": "lākin",
+    "lemmaId": 180
+  },
+  {
+    "id": 4742,
+    "lemma": "لٰكِنّ",
+    "meaning": "but",
+    "transliteration": "lākinna",
+    "lemmaId": 181
+  },
+  {
+    "id": 4743,
+    "lemma": "م",
+    "meaning": "O Allah",
+    "transliteration": "ma",
+    "lemmaId": 1387
+  },
+  {
+    "id": 4744,
+    "lemma": "ماذا",
+    "meaning": "what",
+    "transliteration": "mādhā",
+    "lemmaId": 416
+  },
+  {
+    "id": 4745,
+    "lemma": "مالِئ",
+    "meaning": "fill",
+    "transliteration": "māli'i",
+    "lemmaId": 2594
+  },
+  {
+    "id": 4746,
+    "lemma": "مَتَى",
+    "meaning": "when",
+    "transliteration": "matā",
+    "lemmaId": 921
+  },
+  {
+    "id": 4747,
+    "lemma": "مَسْكَنَة",
+    "meaning": "misery, poverty",
+    "transliteration": "maskanah",
+    "lemmaId": 2619
+  },
+  {
+    "id": 4748,
+    "lemma": "مَضَى",
+    "meaning": "to go on, to continue, to pass",
+    "transliteration": "maḍā",
+    "lemmaId": 1616
+  },
+  {
+    "id": 4749,
+    "lemma": "مَعاذ",
+    "meaning": "to seek refuge, to forbid",
+    "transliteration": "maʿādh",
+    "lemmaId": 2622
+  },
+  {
+    "id": 4750,
+    "lemma": "مَعْذِرَة",
+    "meaning": "excuse",
+    "transliteration": "maʿdhirata",
+    "lemmaId": 1976
+  },
+  {
+    "id": 4751,
+    "lemma": "مَفاتِح",
+    "meaning": "key",
+    "transliteration": "mafātiḥ",
+    "lemmaId": 1979
+  },
+  {
+    "id": 4752,
+    "lemma": "مَقالِيد",
+    "meaning": "keys",
+    "transliteration": "maqālīd",
+    "lemmaId": 2631
+  },
+  {
+    "id": 4753,
+    "lemma": "مُتَحَيِّز",
+    "meaning": "to take a position",
+    "transliteration": "mutaḥayyiz",
+    "lemmaId": 4269
+  },
+  {
+    "id": 4754,
+    "lemma": "مُتَصَدِّق",
+    "meaning": "men who voluntarily give in charity",
+    "transliteration": "mutaṣaddiq",
+    "lemmaId": 2648
+  },
+  {
+    "id": 4755,
+    "lemma": "مُحِيطَة",
+    "meaning": "encompassing, surrounding",
+    "transliteration": "muḥīṭa",
+    "lemmaId": 2653
+  },
+  {
+    "id": 4756,
+    "lemma": "مُرْسَى",
+    "meaning": "anchorage, fixed time",
+    "transliteration": "mur'sā",
+    "lemmaId": 1997
+  },
+  {
+    "id": 4757,
+    "lemma": "مُقْوي",
+    "meaning": "travelers through barren lands",
+    "transliteration": "muq'wī",
+    "lemmaId": 4413
+  },
+  {
+    "id": 4758,
+    "lemma": "مُنتَهَى",
+    "meaning": "utmost boundary, final goal, finality",
+    "transliteration": "mun'tahā",
+    "lemmaId": 2014
+  },
+  {
+    "id": 4759,
+    "lemma": "مُنكِر",
+    "meaning": "denying, not recognizing",
+    "transliteration": "munkir",
+    "lemmaId": 2016
+  },
+  {
+    "id": 4760,
+    "lemma": "مِثْل",
+    "meaning": "like, similar",
+    "transliteration": "mithl",
+    "lemmaId": 154
+  },
+  {
+    "id": 4761,
+    "lemma": "نَأَى",
+    "meaning": "to distance oneself",
+    "transliteration": "naa",
+    "lemmaId": 2024
+  },
+  {
+    "id": 4762,
+    "lemma": "نَحْنُ",
+    "meaning": "we",
+    "transliteration": "naḥnu",
+    "lemmaId": 4780
+  },
+  {
+    "id": 4763,
+    "lemma": "نَفَر",
+    "meaning": "manpower, group",
+    "transliteration": "nafar",
+    "lemmaId": 2027
+  },
+  {
+    "id": 4764,
+    "lemma": "نَقَمُ",
+    "meaning": "to resent",
+    "transliteration": "naqamu",
+    "lemmaId": 1652
+  },
+  {
+    "id": 4765,
+    "lemma": "نَقْص",
+    "meaning": "loss, decrease",
+    "transliteration": "naqṣ",
+    "lemmaId": 2714
+  },
+  {
+    "id": 4766,
+    "lemma": "نُسِفَتْ",
+    "meaning": "to be scattered into fragments, to scatter into fragments",
+    "transliteration": "nusifat",
+    "lemmaId": 2031
+  },
+  {
+    "id": 4767,
+    "lemma": "نُنَكِّسْ",
+    "meaning": "to reverse",
+    "transliteration": "nunak-kis",
+    "lemmaId": 4561
+  },
+  {
+    "id": 4768,
+    "lemma": "نِداء",
+    "meaning": "call, cry",
+    "transliteration": "nidāʾ",
+    "lemmaId": 2723
+  },
+  {
+    "id": 4769,
+    "lemma": "هَيْئَة",
+    "meaning": "form",
+    "transliteration": "hayyata",
+    "lemmaId": 2730
+  },
+  {
+    "id": 4770,
+    "lemma": "هُمْ",
+    "meaning": "they",
+    "transliteration": "hum",
+    "lemmaId": 4778
+  },
+  {
+    "id": 4771,
+    "lemma": "هُنَّ",
+    "meaning": "they",
+    "transliteration": "hunna",
+    "lemmaId": 4784
+  },
+  {
+    "id": 4772,
+    "lemma": "هُوَ",
+    "meaning": "he",
+    "transliteration": "hū",
+    "lemmaId": 4777
+  },
+  {
+    "id": 4773,
+    "lemma": "هِىَ",
+    "meaning": "she",
+    "transliteration": "hīya",
+    "lemmaId": 4783
+  },
+  {
+    "id": 4774,
+    "lemma": "واقِعَة",
+    "meaning": "Occurrence",
+    "transliteration": "wāqiʿa",
+    "lemmaId": 2733
+  },
+  {
+    "id": 4775,
+    "lemma": "وُثْقَى",
+    "meaning": "firm, trustworthy",
+    "transliteration": "wuth'qā",
+    "lemmaId": 2747
+  },
+  {
+    "id": 4776,
+    "lemma": "يَجْرِمَ",
+    "meaning": "to let incite",
+    "transliteration": "yajrima",
+    "lemmaId": 2056
+  },
+  {
+    "id": 4777,
+    "lemma": "يَطَأُ",
+    "meaning": "to step, to trod, to trample",
+    "transliteration": "yaṭaun",
+    "lemmaId": 2068
+  },
+  {
+    "id": 4778,
+    "lemma": "يَغِيظُ",
+    "meaning": "to enrage",
+    "transliteration": "yaghīẓu",
+    "lemmaId": 2071
+  },
+  {
+    "id": 4779,
+    "lemma": "يَفْجُرَ",
+    "meaning": "to give lie",
+    "transliteration": "yafjura",
+    "lemmaId": 2780
+  },
+  {
+    "id": 4780,
+    "lemma": "يَمّ",
+    "meaning": "sea, river",
+    "transliteration": "yamm",
+    "lemmaId": 1012
+  },
+  {
+    "id": 4781,
+    "lemma": "يَنۢبَغِي",
+    "meaning": "to be befitting",
+    "transliteration": "yanbaghī",
+    "lemmaId": 1246
+  },
+  {
+    "id": 4782,
+    "lemma": "يُحْمَى",
+    "meaning": "to be heated",
+    "transliteration": "yuḥ'mā",
+    "lemmaId": 4742
+  },
+  {
+    "id": 4783,
+    "lemma": "يُدَبِّرُ",
+    "meaning": "to contemplate",
+    "transliteration": "yudabbir",
+    "lemmaId": 1679
+  },
+  {
+    "id": 4784,
+    "lemma": "يُمَحِّصَ",
+    "meaning": "to purify",
+    "transliteration": "yumahḥiṣa",
+    "lemmaId": 2814
+  },
+  {
+    "id": 4785,
+    "lemma": "يُوَفِّقِ",
+    "meaning": "to facilitate harmony",
+    "transliteration": "yūwaffiqi",
+    "lemmaId": 4776
+  }
+];

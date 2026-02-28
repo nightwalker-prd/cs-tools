@@ -1,0 +1,4318 @@
+[
+  {
+    "id": "abu-tammam-66",
+    "poetId": "abu-tammam",
+    "titleAr": "كان لنفسي أمل فانقضى",
+    "titleEn": "I Had a Hope That Has Now Passed",
+    "genre": "hikma",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "كان لنفسي أمل فانقضى",
+        "ajuz": "فأصبح اليأس لها معرضا"
+      },
+      {
+        "sadr": "اسخطني دهري بعد الرضا",
+        "ajuz": "وارتجع العرف الذي قد مضى"
+      },
+      {
+        "sadr": "لم يظلم الدهر ولكنه",
+        "ajuz": "أقرضني الإحسان ثم اقتضى !"
+      }
+    ],
+    "translationEn": "I had a hope that has now passed away, and despair has taken its place before me. My fate angered me after contentment, reclaiming the favor that had already gone. Time did not wrong me, but rather it lent me its kindness and then demanded repayment!",
+    "vocabularyHighlights": [
+      {
+        "word": "أمل",
+        "meaning": "hope, expectation"
+      },
+      {
+        "word": "اليأس",
+        "meaning": "despair, hopelessness"
+      },
+      {
+        "word": "اسخطني",
+        "meaning": "angered me, displeased me"
+      },
+      {
+        "word": "العرف",
+        "meaning": "kindness, favor"
+      },
+      {
+        "word": "أقرضني",
+        "meaning": "lent me, loaned me"
+      },
+      {
+        "word": "اقتضى",
+        "meaning": "demanded repayment, reclaimed"
+      }
+    ],
+    "context": "A short philosophical poem in rajaz meter reflecting on the transience of fortune. Abu Tammam employs the metaphor of fate as a creditor who lends kindness only to demand it back, a conceit typical of Abbasid-era wisdom poetry."
+  },
+  {
+    "id": "abu-tammam-67",
+    "poetId": "abu-tammam",
+    "titleAr": "يا مغرس الظرف وفرع الحسب",
+    "titleEn": "O Nursery of Elegance, Branch of Noble Lineage",
+    "genre": "madih",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "يا مغرس الظرف وفرع الحسب",
+        "ajuz": "ومن به طال لسان الأدب"
+      },
+      {
+        "sadr": "إنا عهدناك أخا علة",
+        "ajuz": "بالإمس نالتك ببعض الوصب"
+      },
+      {
+        "sadr": "فكيف أصبحت ولا زلت في",
+        "ajuz": "عافي أذيالها تنسحب"
+      }
+    ],
+    "translationEn": "O nursery of elegance and branch of noble descent, you through whom the tongue of literature has flourished! We knew you yesterday as a companion of illness, when some ailment befell you. How have you risen this morning? May you ever trail the hems of lasting health.",
+    "vocabularyHighlights": [
+      {
+        "word": "مغرس",
+        "meaning": "nursery, planting place"
+      },
+      {
+        "word": "الظرف",
+        "meaning": "elegance, refinement"
+      },
+      {
+        "word": "الحسب",
+        "meaning": "noble lineage, pedigree"
+      },
+      {
+        "word": "علة",
+        "meaning": "illness, ailment"
+      },
+      {
+        "word": "الوصب",
+        "meaning": "pain, suffering"
+      },
+      {
+        "word": "عافية",
+        "meaning": "health, well-being"
+      }
+    ],
+    "context": "A brief social poem of inquiry after the health of a refined companion, composed in the sari' meter. The poem exemplifies the ikhwaniyyat genre common in Abbasid literary circles, where poets maintained relationships through elegant epistolary verses."
+  },
+  {
+    "id": "abu-tammam-68",
+    "poetId": "abu-tammam",
+    "titleAr": "ألم يأن أن تروى الظماء الحوائم",
+    "titleEn": "Has It Not Come Time for the Thirsting to Drink",
+    "genre": "madih",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "ألم يأن أن تروى الظماء الحوائم",
+        "ajuz": "وأن ينظم الشمل المشتت ناظم ؟ !"
+      },
+      {
+        "sadr": "لئن أرقأ الدمع الغيور وقد جرى",
+        "ajuz": "لقد رويت منه خدود نواعم"
+      },
+      {
+        "sadr": "لقد كان ينسى عهد ظمياء باللوى",
+        "ajuz": "ولكن أملته عليه الحمائم"
+      },
+      {
+        "sadr": "بعثن الهوى في قلب من ليس هائما",
+        "ajuz": "فقل في فؤاد رعنه وهو هائم"
+      },
+      {
+        "sadr": "لها نغم ليست دموعا فإن علت",
+        "ajuz": "مضت حيث لاتمضي الدموع السواجم"
+      },
+      {
+        "sadr": "أما وأبيها لو رأتني لأيقنت",
+        "ajuz": "بطول جوى ينفض منه الحيازم"
+      },
+      {
+        "sadr": "رأت قسمات قد تقسم نضرها",
+        "ajuz": "سرى الليل والإسآد فهي سواهم"
+      },
+      {
+        "sadr": "وتلويح أجسام تصدع تحتها",
+        "ajuz": "قلوب رياح الشوق فيها سمائم"
+      },
+      {
+        "sadr": "ينال الفتى من عيشه وهو جاهل",
+        "ajuz": "ويكدي الفتى في دهره وهو عالم"
+      },
+      {
+        "sadr": "ولو كانت الأرزاق تجري على الحجا",
+        "ajuz": "هلكن إذن من جهلهن البهائم"
+      },
+      {
+        "sadr": "جزى الله كفا ملؤها من سعادة",
+        "ajuz": "سعت في هلاك المال والمال نائم"
+      },
+      {
+        "sadr": "فلم يجتمع شرق وغرب لقاصد",
+        "ajuz": "ولا المجد في كف امرئ والدراهم"
+      },
+      {
+        "sadr": "ولم أر كالمعروف تدعى حقوقه",
+        "ajuz": "مغارم في الأقوام وهي مغانم"
+      },
+      {
+        "sadr": "ولا كالعلى مالم ير الشعر بينها",
+        "ajuz": "فكالأرض غفلا ليس فيها معالم"
+      },
+      {
+        "sadr": "وما هو إلا القول يسري فتغتدي",
+        "ajuz": "له غرر في أوجه ومواسم"
+      },
+      {
+        "sadr": "يرى حكمة مافيه وهو فكاهة",
+        "ajuz": "ويقضي بما يقضي به ، وهو ظالم"
+      },
+      {
+        "sadr": "إلى أحمد المحمود رامت بنا السرى",
+        "ajuz": "نواعب في عرض الفلا ورواسم"
+      },
+      {
+        "sadr": "خوانف يظلمن الظليم إذا عدا",
+        "ajuz": "وسيج أبيه وهو للبرق شائم"
+      },
+      {
+        "sadr": "نجائب قد كانت نعائم مرة",
+        "ajuz": "من المر أو أماتهن نعائم"
+      },
+      {
+        "sadr": "إلى سالم الأخلاق من كل عائب",
+        "ajuz": "وليس له مال على الجود سالم"
+      },
+      {
+        "sadr": "جدير بأن لا يصبح المال عنده",
+        "ajuz": "جديرا بأن يبقى وفي الأرض غارم"
+      },
+      {
+        "sadr": "وليس ببان للعلى خلق امرئ",
+        "ajuz": "وإن جل إلا وهو للمال هادم"
+      },
+      {
+        "sadr": "له من إياد قمة المجد حيثما",
+        "ajuz": "سمت ولها منه البنا والدعائم"
+      },
+      {
+        "sadr": "أناس إذا راحوا إلى الروع لم ترح",
+        "ajuz": "مسالمة أسيافهم والجماجم"
+      },
+      {
+        "sadr": "بنو كل مشبوح الذراع إذ القنا",
+        "ajuz": "ثنت أذرع الأبطال ، وهي معاصم"
+      },
+      {
+        "sadr": "إذا سيفه أضحى على الهام حاكما",
+        "ajuz": "غدا العفو منه وهو في السيف حاكم"
+      },
+      {
+        "sadr": "أخذت بأعضاد العريب وقد خوت",
+        "ajuz": "عيون كليلات وذلت جماجم"
+      },
+      {
+        "sadr": "فأضحوا لو استطاعوا لفرط محبة",
+        "ajuz": "لقد علقت خوفا عليك التمائم"
+      },
+      {
+        "sadr": "ولو علم الشيخان أد ويعرب",
+        "ajuz": "لسرت إذن تلك العظام الرمائم"
+      },
+      {
+        "sadr": "تلاقى بك الحيان في كل محفل",
+        "ajuz": "جليل وعاشت في ذراك العماعم"
+      },
+      {
+        "sadr": "فما بال وجه الشعر أغبر قاتما",
+        "ajuz": "وأنف العلى من عطلة الشعر راغم"
+      },
+      {
+        "sadr": "تداركه إن المكرمات أصابع",
+        "ajuz": "وإن حلى الأشعار فيها خواتم"
+      },
+      {
+        "sadr": "إذا أنت لم تحفظه لم يك بدعة",
+        "ajuz": "ولا عجبا أن ضيعته الأعاجم"
+      },
+      {
+        "sadr": "فقد هز عطفيه القريض توقعا",
+        "ajuz": "لعدلك مذ صارت إليك المظالم"
+      },
+      {
+        "sadr": "ولولا خلال سنها الشعر ما درى",
+        "ajuz": "بغاة الندى من أين تؤتى المكارم"
+      }
+    ],
+    "translationEn": "Has the time not come for the thirsting and thirsty ones to drink their fill, for the scattered assembly to be gathered by one who can string it together? If the jealous tear has stopped, even after it flowed, the cheeks of soft-faced beauties have drunk deeply from it. The dove reminded him of his love at al-Lawā, for the doves recited her name to him. The youth gains from life while ignorant, and the youth is frustrated in his era while knowledgeable — had provisions flowed according to wisdom, the cattle would have perished for their lack of wit. God reward a hand filled with felicity that labored to destroy wealth while wealth was sleeping, for honor and money do not unite in the palm of one seeker. O Ahmad, the praised one, swift mounts carried us across the wide desert to you, the leader who preserves honor even in humiliation.",
+    "vocabularyHighlights": [
+      {
+        "word": "الظماء",
+        "meaning": "the thirsty ones"
+      },
+      {
+        "word": "الحوائم",
+        "meaning": "the extremely thirsty, the circling ones"
+      },
+      {
+        "word": "الشمل",
+        "meaning": "the company, the gathering"
+      },
+      {
+        "word": "ناظم",
+        "meaning": "one who strings, an organizer"
+      },
+      {
+        "word": "الحمائم",
+        "meaning": "the doves"
+      },
+      {
+        "word": "الأرزاق",
+        "meaning": "provisions, livelihoods"
+      },
+      {
+        "word": "الحجا",
+        "meaning": "intellect, wisdom"
+      },
+      {
+        "word": "المكرمات",
+        "meaning": "honorable deeds, noble acts"
+      }
+    ],
+    "context": "A long panegyric in al-tawil meter praising Ahmad, a generous patron. Abu Tammam opens with the conventional nasib (amatory prelude) evoking thirst and longing before pivoting to praise the patron's generosity, linking it to the revival of poetry itself."
+  },
+  {
+    "id": "abu-tammam-69",
+    "poetId": "abu-tammam",
+    "titleAr": "أصب بحميا كأسها مقتل العذل",
+    "titleEn": "Strike the Reproacher Dead with This Cup's Intoxication",
+    "genre": "wasf",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "أصب بحميا كأسها مقتل العذل",
+        "ajuz": "تكن عوضا إن عنفوك من النبل"
+      },
+      {
+        "sadr": "وكأس كمعسول الأماني شربتها",
+        "ajuz": "ولكنها اجلت وقد شربت عقلي"
+      },
+      {
+        "sadr": "إذا عوتبت بالماء كان اعتذارها",
+        "ajuz": "لهيبا كوقع النار في الحطب الجزل"
+      },
+      {
+        "sadr": "اذا هيت دبت في القتى خال جسمه",
+        "ajuz": "لما دب فيه قرية من قرى النمل"
+      },
+      {
+        "sadr": "اذا ذاقها وهي الحياة رأيته",
+        "ajuz": "يعبس تعبيس المقدم للقتل"
+      },
+      {
+        "sadr": "إذا اليد نالتها بوتر توقرت",
+        "ajuz": "على ضعفها ثم استقادت من الرجل"
+      },
+      {
+        "sadr": "وتصرع ساقيها بانصاف شربها",
+        "ajuz": "وصرعهم بالجور في صورة العدل"
+      },
+      {
+        "sadr": "سقى الرائح الغدي المهجر بلدة",
+        "ajuz": "سقتني أنفاس الصبابة والخيل"
+      },
+      {
+        "sadr": "سحاب اذا ألقت عل خلفه الصبا",
+        "ajuz": "يدا قالت الدنيا أتى قاتل المحل"
+      },
+      {
+        "sadr": "اذا ما ارتدى بالبرق لم يزل الندى",
+        "ajuz": "له تبعا أو يرتدي الروض بالبقل"
+      },
+      {
+        "sadr": "إذا انتشرت أعلامه حوله انطوت",
+        "ajuz": "بطون الثرى منه وشيكا على حمل"
+      },
+      {
+        "sadr": "ترى الأرض تهتز ارتياحا لوقعه",
+        "ajuz": "كما ارتاحت البكر الهدي إلى البعل"
+      },
+      {
+        "sadr": "فجاد دمشقا كلها جود أهلها",
+        "ajuz": "بأنفسهم عند الكريهة والبذل"
+      },
+      {
+        "sadr": "سقاهم كما أسقاهم في لظى الوغى",
+        "ajuz": "ببيض صفيح الهند والسمر الذبل"
+      },
+      {
+        "sadr": "فلم يبق في أرض البقاعين بقعة",
+        "ajuz": "وجاد قرى الجولان بالمسبل الوبل"
+      },
+      {
+        "sadr": "بنفسي أرض الشام لا أيمن الحمى",
+        "ajuz": "ولا أيسرث الدهنا ولا أوسط الرمل"
+      },
+      {
+        "sadr": "ولم أر مثلي مستهاما بمثلكم",
+        "ajuz": "ولا مثل قلبي فيه لا يغلي"
+      },
+      {
+        "sadr": "عدتني عنكم مكرها غربة النوى",
+        "ajuz": "لها طربة في أن تمر ولا تحلي"
+      },
+      {
+        "sadr": "اذا لحظت حبلا من الحي محصدا",
+        "ajuz": "رمته فلم تسلم بناقضة الفتل"
+      },
+      {
+        "sadr": "أتت بعد هجر من حبيب فحركت",
+        "ajuz": "صبابة ما أبقى الصدود من الوصل"
+      },
+      {
+        "sadr": "أخمسة أحوال مضت لمغيبه",
+        "ajuz": "وشهران بل يومان نكل من النكل !"
+      },
+      {
+        "sadr": "توانى وشيك النجع عنه ووكلت",
+        "ajuz": "به عزمات أوقفته على رجل"
+      },
+      {
+        "sadr": "ويمنعه من أن يبيت زماعه",
+        "ajuz": "على عجل ان القضاء على رسل"
+      },
+      {
+        "sadr": "قضى الدهر مني نحبه يوم فتله",
+        "ajuz": "هواي بارقال الغريرية الفتل"
+      },
+      {
+        "sadr": "لقد طلعت في وجه مصر بوجهه",
+        "ajuz": "بلا طالع سعد ولا طائر سهل"
+      },
+      {
+        "sadr": "وساوس آمال ومذهب همة",
+        "ajuz": "تخيل لي بين المطية والرحل"
+      },
+      {
+        "sadr": "وسورة علم لم تسدد فأصبحت",
+        "ajuz": "وما يتمارى أنها سورة الجهل"
+      },
+      {
+        "sadr": "نأيت فلا مالا حويت ولم أقم",
+        "ajuz": "فأمتع إذ فجعت بالمال والأهل"
+      },
+      {
+        "sadr": "بخلت على عرضي بما فيه صونه",
+        "ajuz": "رجاء اجتناء الجود من شجر البخل"
+      },
+      {
+        "sadr": "عصيت شبا عزمي لطاعة حيرة",
+        "ajuz": "دعتني إلى أن افتح القفل بالقفل"
+      },
+      {
+        "sadr": "وأبسط من وجهي الذي لو بذلته",
+        "ajuz": "إلى الأرض من نعلي لما نقبت نعلي"
+      },
+      {
+        "sadr": "عدات كريعان السراب إذا جرى",
+        "ajuz": "تنشر عن منع وتطوى على مطل"
+      },
+      {
+        "sadr": "لئام طغام أو كرام بزعمهم",
+        "ajuz": "سواسية ما أشبه الحول بالقبل !"
+      },
+      {
+        "sadr": "فلو شاء من لو شاء لم يثن أمره",
+        "ajuz": "لصيرت فضل المال عند ذوي الفضل"
+      },
+      {
+        "sadr": "ولو أنني اعطيت بأسي نصيبه",
+        "ajuz": "إذن لأخذت الحزم من مأخذ سهل"
+      },
+      {
+        "sadr": "وكان ورائي من صريمة طييء",
+        "ajuz": "ومعن ووهب عن أمامي ما يسلي"
+      },
+      {
+        "sadr": "فلم يك ما جزعت نفسي من الأسى",
+        "ajuz": "ولم يك ما جرعت قومي من الثكل !"
+      }
+    ],
+    "translationEn": "Strike the reproacher's heart dead with the intoxication of this cup — it shall be a recompense to you instead of their censure and arrows. A cup like the sweetness of wishes I drank from it, but it carried off my reason. When reproached with water, its defense is a flame like fire falling on green firewood. When stirred it crawls through the limbs as if it were an ant colony entering a body. When tasted — and it is life itself — you see the drinker grimace like one advancing to slaughter. The rainy cloud watered Damascus as her people water it with their very souls when crisis and sacrifice demand it.",
+    "vocabularyHighlights": [
+      {
+        "word": "حميا",
+        "meaning": "intoxicating effect of wine"
+      },
+      {
+        "word": "العذل",
+        "meaning": "reproach, blame"
+      },
+      {
+        "word": "الحطب الجزل",
+        "meaning": "dry, thick firewood"
+      },
+      {
+        "word": "دبت",
+        "meaning": "crawled, crept"
+      },
+      {
+        "word": "تصرع",
+        "meaning": "strikes down, topples"
+      },
+      {
+        "word": "الصبابة",
+        "meaning": "passionate longing"
+      },
+      {
+        "word": "المسبل",
+        "meaning": "continuous rain, downpour"
+      },
+      {
+        "word": "الوبل",
+        "meaning": "heavy rain"
+      }
+    ],
+    "context": "A wine-and-nature poem in al-tawil meter blending khamriyya (wine poetry) with wasf (descriptive poetry) of rain and landscape. Abu Tammam describes the power of wine over the drinker before pivoting to the generosity of rain over Damascus, merging the two motifs."
+  },
+  {
+    "id": "abu-tammam-70",
+    "poetId": "abu-tammam",
+    "titleAr": "أبا جعفر أضحى بك الظن ممرعا",
+    "titleEn": "Abu Ja'far, Hope Has Grown Verdant Through You",
+    "genre": "madih",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "أبا جعفر أضحى بك الظن ممرعا",
+        "ajuz": "فمل برواعيه عن الأمل الجذب"
+      },
+      {
+        "sadr": "فو الله ما شيء سوى الحب وحده",
+        "ajuz": "بأعلى محلا من رجائك في قلبي"
+      }
+    ],
+    "translationEn": "Abu Ja'far, hope has grown verdant through you, so let its pastures turn away from the barren ambition. By God, nothing save love itself holds a higher station than my hope in you within my heart.",
+    "vocabularyHighlights": [
+      {
+        "word": "ممرعا",
+        "meaning": "verdant, lush, fertile"
+      },
+      {
+        "word": "رواعيه",
+        "meaning": "its pastures, its grounds"
+      },
+      {
+        "word": "الأمل الجذب",
+        "meaning": "barren/fruitless ambition"
+      },
+      {
+        "word": "محل",
+        "meaning": "station, position, worth"
+      },
+      {
+        "word": "رجاء",
+        "meaning": "hope, expectation"
+      }
+    ],
+    "context": "A two-verse poem (mukhayyam) of panegyric and devotion addressed to Abu Ja'far. Despite its brevity, it encapsulates Abu Tammam's skill in condensing deep praise into minimal verses — the patron's generosity is compared to a fertile land that revives hope."
+  },
+  {
+    "id": "abu-tammam-71",
+    "poetId": "abu-tammam",
+    "titleAr": "سلم على الربع من سلمى بذي سلم",
+    "titleEn": "Offer Peace to the Encampment of Salma at Dhi Salam",
+    "genre": "madih",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "سلم على الربع من سلمى بذي سلم",
+        "ajuz": "عليه وسم من الأيام والقدم"
+      },
+      {
+        "sadr": "ما دام عيش لبسناه بساكنه",
+        "ajuz": "لدنا ولو أن عيشا دام لم يدم"
+      },
+      {
+        "sadr": "يامنزلا أعنقت فيه الجنوب على",
+        "ajuz": "رسم محيل وشعب غير ملتئم"
+      },
+      {
+        "sadr": "هرمت بعدي والربع الذي أفلت",
+        "ajuz": "منه بدورك معذور على الهرم"
+      },
+      {
+        "sadr": "عهدي بمغناك حسان المعالم من",
+        "ajuz": "حسانة الورد والبردي والعنم"
+      },
+      {
+        "sadr": "بيضاء كان لها من غيرنا حرم",
+        "ajuz": "فلم تكن نستحل الصيد في الحرم"
+      },
+      {
+        "sadr": "كانت لنا صنما نحتو عليه ، ولم",
+        "ajuz": "نسجد كما سجد إلافشين للصنم"
+      },
+      {
+        "sadr": "زار الخيال لها لابل أزاركه",
+        "ajuz": "فكر إذا نام فكر الخلق لم ينم"
+      },
+      {
+        "sadr": "ظبي تقنصته لما نصبت له",
+        "ajuz": "في آخر الليل أشراكا من الحلم"
+      },
+      {
+        "sadr": "ثم اغتدى وبنا من ذكر سقم",
+        "ajuz": "باق ، وإن كان مشغولا عن السقم"
+      },
+      {
+        "sadr": "اليوم يسليك عن طيف ألم وعن",
+        "ajuz": "بلى الرسوم بلاء الأينق الرسم"
+      },
+      {
+        "sadr": "من القلاص اللواتي في حقائبها",
+        "ajuz": "بضاعة غير مزجاة من الكلم"
+      },
+      {
+        "sadr": "إذا بلغن أبا كلثوم اتصلت",
+        "ajuz": "تلك المنى وأخذنا لحاج من أمم"
+      },
+      {
+        "sadr": "بنى به الله في بدو وفي حضر",
+        "ajuz": "لوائل سور عز غير منهدم"
+      },
+      {
+        "sadr": "رأته في المهد عتاب ، فقال لها",
+        "ajuz": "ذوو الفراسة : هذا صفوة الكرم"
+      },
+      {
+        "sadr": "خذوا هنيئا مرئيا يا بني جشم",
+        "ajuz": "منه أمانين من خوف ومن عدم"
+      },
+      {
+        "sadr": "فجاء والنسب الوضاح جاء به",
+        "ajuz": "كأنه بهمة فيهم من البهم"
+      },
+      {
+        "sadr": "طعان عمرو بن كلثوم ونائله",
+        "ajuz": "حذو السيور التي قدت من الأدم"
+      },
+      {
+        "sadr": "لو كان يملك عمرو مثله شبها",
+        "ajuz": "من صلبه لم يجد للموت من ألم"
+      },
+      {
+        "sadr": "بنانه خلج تجري وغيرته",
+        "ajuz": "ستر من الله ممدود على الحرم"
+      },
+      {
+        "sadr": "نال الجزيرة إمحال فقلت لهم",
+        "ajuz": "شيموا نداه إذا ما البرق لم يشم"
+      },
+      {
+        "sadr": "فما الربيع على أنس البلاد به",
+        "ajuz": "أشد خضرة عود منه في القحم"
+      },
+      {
+        "sadr": "ولا أرى ديمة أمحى لمسغبة",
+        "ajuz": "منه على أن ذكرا طار للديم"
+      },
+      {
+        "sadr": "لغلب سؤدد طابت منابته",
+        "ajuz": "في منتهى قلل منها وفي قمم"
+      },
+      {
+        "sadr": "مجد رعى تلعات الدهر وهو فتى",
+        "ajuz": "حتى غدا الدهر يمشي مشية الهرم"
+      },
+      {
+        "sadr": "بناه جود وبأس صادق ومتى",
+        "ajuz": "تبن العلى بسوى هذين تنهدم"
+      },
+      {
+        "sadr": "وقف على آل سعد إن أيديهم",
+        "ajuz": "سم لمستكبر شهد لمؤتدم"
+      },
+      {
+        "sadr": "لاجارهم للرزايا في جوارهم",
+        "ajuz": "ولاعهودهم مذمومة الذمم"
+      },
+      {
+        "sadr": "أصفوا ملوك بني العباس كلهم",
+        "ajuz": "ذخيرة ذخروها عن بني الحكم"
+      },
+      {
+        "sadr": "مهلا بني مالك لاتجلبن إلى",
+        "ajuz": "حي الأراقم دؤلول ابنة الرقم"
+      },
+      {
+        "sadr": "فأي حقد أثرتم من مكامنه",
+        "ajuz": "وأي عوصاء جشمتم بني جشم"
+      },
+      {
+        "sadr": "لم يألكم مالك صفحا ومغفرة",
+        "ajuz": "لو كان ينفخ قين الحي في فحم"
+      },
+      {
+        "sadr": "لا بالمعاود ولغا في دمائكم",
+        "ajuz": "ولا إلى لحم خلق منكم قرم"
+      },
+      {
+        "sadr": "أخرجتموه بكره من شجيته",
+        "ajuz": "والنار قد تنتضى من ناضر السلم"
+      },
+      {
+        "sadr": "أوطأتموه على جمر العقوق ولو",
+        "ajuz": "لم يحرج الليث لم يبرح من الأجم"
+      },
+      {
+        "sadr": "قذعتم فمشيتم مشية أمما",
+        "ajuz": "كذاك يحسن مشي الخيل في اللجم"
+      },
+      {
+        "sadr": "إذ لا معول إلا كل معتدل",
+        "ajuz": "أصم يبرئ أقواما من الصمم"
+      },
+      {
+        "sadr": "من الردينية اللاتي إذا عسلت",
+        "ajuz": "تشم بو صغار الأنف ذا الشمم"
+      },
+      {
+        "sadr": "إن أجرمت لم تنصل من جرائمها",
+        "ajuz": "وإن أساءت إلى الأقوام لم تلم"
+      },
+      {
+        "sadr": "كان الزمان بكم كلبا فادركم",
+        "ajuz": "بالسيف والدهر فيكم أشهر الحرم"
+      },
+      {
+        "sadr": "أمن عمى نزل الناس الربا فنجوا",
+        "ajuz": "وأنتم نصب سيل الفتنة العرم ؟ !"
+      },
+      {
+        "sadr": "أم ذاك من همم جاشت ، فكم ضعة",
+        "ajuz": "أدى إليها علو القوم في الهمم !"
+      },
+      {
+        "sadr": "تنبون عنه وتعطون القياد إذا",
+        "ajuz": "كلب عوى وسطكم من أكلب العجم ! !"
+      },
+      {
+        "sadr": "قد انثنى بالمنايا في أسنته",
+        "ajuz": "وقد أقام حياراكم على اللقم !"
+      },
+      {
+        "sadr": "جذلان من ظفر حران إن رجعت",
+        "ajuz": "مخضوبة منكم أظفاره بدم"
+      },
+      {
+        "sadr": "دين يكفكف منه كل بائقة",
+        "ajuz": "ورحمة رفرفت منه على الرحم !"
+      },
+      {
+        "sadr": "لولا مناشدة القربى لغادركم",
+        "ajuz": "حصائد المرهفين : السيف والقلم"
+      },
+      {
+        "sadr": "لأصبحت كالأثافي السفع أو جهكم",
+        "ajuz": "سودا من العار لا سودا من الحمم"
+      },
+      {
+        "sadr": "لا تجعلوا البغي ظهرا إنه جمل",
+        "ajuz": "من القطيعة يرعى وادي النقم"
+      },
+      {
+        "sadr": "نظرت في السير الأولى خلت فإذا",
+        "ajuz": "أيامه أكلت باكورة الأمم"
+      },
+      {
+        "sadr": "أفنى جديسا وطمسما كلها وسطا",
+        "ajuz": "بأنجم الدهر من عاد ومن إرم"
+      },
+      {
+        "sadr": "أردى كليبا وهماما وهاج به",
+        "ajuz": "يوم الذنائب والتحلاق للمم"
+      },
+      {
+        "sadr": "سقى شرحبيل من سم الذعاف على",
+        "ajuz": "أيديكم غير رعديد ولابرم"
+      },
+      {
+        "sadr": "بز التحية من لخم فلا ملك",
+        "ajuz": "متوج في عمامات ولا عمم"
+      },
+      {
+        "sadr": "ياعثرة ما وقيتم شر مصرعها",
+        "ajuz": "وذلة الرأي تنسي ذلة القدم"
+      },
+      {
+        "sadr": "حين استوى الملك واهتزت مضاربه",
+        "ajuz": "في دولة الأسد لافي دولة الخدم"
+      },
+      {
+        "sadr": "أبناء دلفاء مهلا إن أمكم",
+        "ajuz": "دافت لكم علقم الأخلاق والشيم"
+      },
+      {
+        "sadr": "طائية لا أبوها كان مهتضما",
+        "ajuz": "ولامضى بعلها لحما على وضم"
+      },
+      {
+        "sadr": "لاتوقظوا الشر من قوم فقد غنيت",
+        "ajuz": "دياركم وهي تدعى موطن النعم"
+      },
+      {
+        "sadr": "هذا ابن خالكم يهدي نصيحته",
+        "ajuz": "من يتهم فهو فيكم غير متهم !"
+      }
+    ],
+    "translationEn": "Offer peace to the encampment of Salma at Dhi Salam — upon it the marks of days and ancient times remain. As long as life cloaked its inhabitants, we were young; even if life were lasting it would not last. O dwelling where the south wind swept freely over an effaced inscription and a gaping ravine! You have aged after my departure — and the encampment whose moons have escaped its orbit may be excused for aging. In its prime I knew your landmarks as lovely as a beautiful rose, silk-cotton, and red tree-branches. White she was, as though holding a sanctuary belonging to others, and we did not deem it lawful to hunt within the sacred precinct.",
+    "vocabularyHighlights": [
+      {
+        "word": "الربع",
+        "meaning": "the encampment, the dwelling"
+      },
+      {
+        "word": "القدم",
+        "meaning": "ancient times, oldness"
+      },
+      {
+        "word": "المغنى",
+        "meaning": "abode, dwelling place"
+      },
+      {
+        "word": "حسانة الورد",
+        "meaning": "beauty of the rose"
+      },
+      {
+        "word": "الحرم",
+        "meaning": "sacred precinct, inviolable space"
+      },
+      {
+        "word": "الخيال",
+        "meaning": "phantom, vision"
+      },
+      {
+        "word": "القلاص",
+        "meaning": "young she-camels"
+      },
+      {
+        "word": "الكرم",
+        "meaning": "generosity, nobility"
+      }
+    ],
+    "context": "A major panegyric in al-basit meter dedicated to a member of the noble Taghlib tribe, praising Malik ibn Abi al-Samt. Abu Tammam opens with the conventional ruins prelude (atlal nasib) before building to an elaborate praise of the patron's valor, lineage, and generosity in 60 verses."
+  },
+  {
+    "id": "abu-tammam-72",
+    "poetId": "abu-tammam",
+    "titleAr": "لن يبق للصيف لا رسم ولا طلل",
+    "titleEn": "Summer Will Leave No Trace or Ancient Ruin",
+    "genre": "wasf",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "لن يبق للصيف لا رسم ولا طلل",
+        "ajuz": "ولا قشيب فيستكسى ولا سمل"
+      },
+      {
+        "sadr": "عدل من الدمع ان يبكي المصيف كما",
+        "ajuz": "يبكى الشباب ويبكى اللهو والغزل"
+      },
+      {
+        "sadr": "يمنى الزمان طوت معروفها وغدت",
+        "ajuz": "يسراه وهي لنا من بعدها بدل"
+      },
+      {
+        "sadr": "ما للشتاء ولا للصيف من مثل",
+        "ajuz": "يرضى به السمع إلا الجود والبخل"
+      },
+      {
+        "sadr": "أما ترى الأرض غضبي والحصى قلق",
+        "ajuz": "والأفق بالحرجف النكباء يقتتل"
+      },
+      {
+        "sadr": "من يزعم الصيف لم تذهب بشاشته",
+        "ajuz": "فغير ذلك أمسى يزعم الجبل"
+      },
+      {
+        "sadr": "غدا له مغفر في رأسه يقق",
+        "ajuz": "لا تهتك البيض فوديه ولا الأسل"
+      },
+      {
+        "sadr": "اذا خراسان عن صنبيرها كشرت",
+        "ajuz": "كانت قيادا لنا أنيابه العضل"
+      },
+      {
+        "sadr": "يمسي ويضحي م قيما في مبائته",
+        "ajuz": "وبأسه في كلى الأقوام مرتحل"
+      },
+      {
+        "sadr": "من كان يجهل منه جد سورته",
+        "ajuz": "في لاقريتين وأمر الحق مكتهل"
+      },
+      {
+        "sadr": "فما الضلوع ولا الأحشاء جاهلة",
+        "ajuz": "ولا الكلى أنه المقدامة البطل"
+      },
+      {
+        "sadr": "هذا ولم يتزر للحرب ديدنه",
+        "ajuz": "وأي قرن تراه حين يشتمل"
+      },
+      {
+        "sadr": "إن يسر الله أمرا أثمرت معه",
+        "ajuz": "من حيث أورقت الحاجات والأمل"
+      },
+      {
+        "sadr": "فما صلائي ان كان الصلاء بها",
+        "ajuz": "جمر الغضا الجزل الا السير والابل"
+      },
+      {
+        "sadr": "المرضياتك ما أرغمت آنفها",
+        "ajuz": "والهادياتك وهي الرشد والضلل"
+      },
+      {
+        "sadr": "تقرب الشقة القصوى أذا أخذت",
+        "ajuz": "سلاحها وهو الإرقال والرمل"
+      },
+      {
+        "sadr": "إذا تظلمت من أرض فصلت بها",
+        "ajuz": "كانت هي العز إلا انها ذلل !"
+      }
+    ],
+    "translationEn": "Summer will leave no trace or ruin, no new garment to put on and no old worn one. It is only right that the rain weep for the summer as one weeps over youth, play, and love. Time's right hand folded its gifts away, and now its left hand has come forth as a substitute for us. Winter and summer have no equal that would satisfy hearing, save generosity and miserliness. Do you not see the earth is angry, the pebbles restless, the horizon fighting with the stormy cross-wind? Who claims the summer has not lost its charm — the mountain makes a different claim this morning!",
+    "vocabularyHighlights": [
+      {
+        "word": "طلل",
+        "meaning": "ruins, traces of an encampment"
+      },
+      {
+        "word": "قشيب",
+        "meaning": "new garment"
+      },
+      {
+        "word": "سمل",
+        "meaning": "old worn-out garment"
+      },
+      {
+        "word": "الحرجف",
+        "meaning": "cold, violent wind"
+      },
+      {
+        "word": "النكباء",
+        "meaning": "cross-wind, oblique wind"
+      },
+      {
+        "word": "صنبير",
+        "meaning": "harsh winter, biting cold"
+      },
+      {
+        "word": "الأينق",
+        "meaning": "she-camels"
+      },
+      {
+        "word": "الرسم",
+        "meaning": "tireless journey, swift travel"
+      }
+    ],
+    "context": "A descriptive poem in al-basit meter celebrating the arrival of winter after the departure of summer. Abu Tammam personifies the seasons and uses vivid meteorological imagery before transitioning to praise of a patron who, like winter rain, revives what summer has parched."
+  },
+  {
+    "id": "abu-tammam-73",
+    "poetId": "abu-tammam",
+    "titleAr": "نسائلها أي المواطن حلت",
+    "titleEn": "We Ask Her: To Which Homelands Has She Gone",
+    "genre": "madih",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "نسائلها أي المواطن حلت",
+        "ajuz": "وأي ديار أوطنتها وأيت"
+      },
+      {
+        "sadr": "وماذا عليها لو أشارت فودعت",
+        "ajuz": "إلينا بأطراف البنان وأومت"
+      },
+      {
+        "sadr": "وما كان إلا أن تولت بها النوى",
+        "ajuz": "فولى عزاء القلب لما تولت"
+      },
+      {
+        "sadr": "فأما عيون العاشقين فأسخنت",
+        "ajuz": "وأما عيون الشامتين فقرت"
+      },
+      {
+        "sadr": "ولما دعاني البين وليت إذ دعا",
+        "ajuz": "ولما دعاها طاوعته ولبت"
+      },
+      {
+        "sadr": "فلم أر مثلي كان أوفى بذمة",
+        "ajuz": "ولا مثلها لم ترع عهدي وذمتي"
+      },
+      {
+        "sadr": "مشوق رمته أسهم البين فانثنى",
+        "ajuz": "صريعا لها لما رمته فأصمت"
+      },
+      {
+        "sadr": "ولو أنها غير النوى فوقت له",
+        "ajuz": "بأسهمها لم تصم فيه واشوت"
+      },
+      {
+        "sadr": "كأن عليها الدمع ضربة لازب",
+        "ajuz": "إذا ما حمام الأيك في الأيك غنت"
+      },
+      {
+        "sadr": "لئن ظمئت أجفان عيني إلى البكا",
+        "ajuz": "لقد شربت عيني دما فتروت"
+      },
+      {
+        "sadr": "عليها سلام الله أني استقلت",
+        "ajuz": "وأنى استقرت دارها واطمأنت"
+      },
+      {
+        "sadr": "ومجهولة الأعلام طامسة الصوى",
+        "ajuz": "إذا اعتسفتها العيس بالركب ضلت"
+      },
+      {
+        "sadr": "إذا ما تنادى الركب في فلواتها",
+        "ajuz": "أجابت نداء الركب فيها فاصدت"
+      },
+      {
+        "sadr": "تعسفتها والليل ملق جرانه",
+        "ajuz": "وجوزاؤه في الأفق حين استقلت"
+      },
+      {
+        "sadr": "بمفعمة الأنساع موجدة القرا",
+        "ajuz": "أمون السرى تنجو إذا العيس كلت"
+      },
+      {
+        "sadr": "طموح بأثناء الزمام كانما",
+        "ajuz": "تخال بها من عدوها طيف جنة"
+      },
+      {
+        "sadr": "إلى حيث يلفى الجود سهلا مناله",
+        "ajuz": "وخير امرى شدت إليه وحطت"
+      },
+      {
+        "sadr": "إلى خير من ساس الرعية عدله",
+        "ajuz": "ووطد أعلام الهدى فاستقرت"
+      },
+      {
+        "sadr": "حبيش حبيش بن المعافى الذي به",
+        "ajuz": "أمرت حبال الدين حتى استمرت"
+      },
+      {
+        "sadr": "ولولا أبو الليث الهمام لأخلقت",
+        "ajuz": "من الدين أسباب الهدى وأرثت"
+      },
+      {
+        "sadr": "أقر عمود الدين في مستقره",
+        "ajuz": "وقد نهلت منه الليالي وعلت"
+      },
+      {
+        "sadr": "ونادى المعالي فاستجابت نداءه",
+        "ajuz": "ولو غيره نادى المعالي لصمت"
+      },
+      {
+        "sadr": "ونيطت بحقويه الأمور فأصبحت",
+        "ajuz": "بظل جناحيه الأمور استظلت"
+      },
+      {
+        "sadr": "وأحيا سبيل العدل بعد دثوره",
+        "ajuz": "وأنهج سبل الجود حين تعفت"
+      },
+      {
+        "sadr": "ويلوي بأحداث الزمان انتقامه",
+        "ajuz": "إذا ما خطوب الدهر بالناس ألوت"
+      },
+      {
+        "sadr": "ويجزيك بالحسنى إذا كنت محسنا",
+        "ajuz": "ويغتفر العظمى إذا النعل زلت"
+      },
+      {
+        "sadr": "يلم اختلال المعتفين بجوده",
+        "ajuz": "إذا ما ملمات الأمور ألمت"
+      },
+      {
+        "sadr": "همام ، وري الزند ، مستحصد القوى",
+        "ajuz": "إذا ما الأمور المشكلات أظلت"
+      },
+      {
+        "sadr": "إذا ظلمات الرأي أسدل ثوبها",
+        "ajuz": "تطلع فيها فجره فتجلت"
+      },
+      {
+        "sadr": "به انكشفت عنا الغيابة وانفرت",
+        "ajuz": "جلابيب جور عمنا فاضمحلت"
+      },
+      {
+        "sadr": "أغر ربيط الجأش ، ماض جنانه",
+        "ajuz": "إذا ما القلوب الماضيات ارجحنت"
+      },
+      {
+        "sadr": "نهوض بثقل العبء مضطلع به",
+        "ajuz": "وإن عظمت فيه الخطوب وجلت"
+      },
+      {
+        "sadr": "تطوع له الأيام خوفا ورهبة",
+        "ajuz": "إذا امتنعت من غيره وتأبت"
+      },
+      {
+        "sadr": "له ، كل يوم ، شمل مجد مؤلف",
+        "ajuz": "وشمل ندى بين العفاة مشتت"
+      },
+      {
+        "sadr": "أبا الليث ، لولا أنت لانصرم الندى",
+        "ajuz": "وأدركت الأحداث ما قد تمنت"
+      },
+      {
+        "sadr": "أخاف فؤاد الدهر بطشك فانطوت",
+        "ajuz": "على رعب أحشاؤه وأجنت"
+      },
+      {
+        "sadr": "حللت من العز المنيف محلة",
+        "ajuz": "أقامت بفوديها العلى فأبنت"
+      },
+      {
+        "sadr": "ليهنىء تنوخا خير أسرة",
+        "ajuz": "إذا أحصيت أولى البيوت وعدت"
+      },
+      {
+        "sadr": "وأنك منها في اللباب الذي له",
+        "ajuz": "تطأطأت الأحياء صغرا وذلت"
+      },
+      {
+        "sadr": "بنى لتنوخ الله عزا مؤبدا",
+        "ajuz": "تزل عليه وطأة المتثبت"
+      },
+      {
+        "sadr": "إذا ماحلوم الناس حلمك وازنت",
+        "ajuz": "رجحت بأحلام الرجال وخفت"
+      },
+      {
+        "sadr": "إذا ما يد الأيام مدت بنانها",
+        "ajuz": "إليك بخطب لم تنلك وشلت"
+      },
+      {
+        "sadr": "وإن أزمات الدهر حلت بمعشر",
+        "ajuz": "أرقت دماء المحل فيها فطلت"
+      },
+      {
+        "sadr": "إذا ما امتطينا العيس نحوك لم نخف",
+        "ajuz": "عثارا ولم نخش اللتيا ولا التي"
+      }
+    ],
+    "translationEn": "We ask her: to which homelands has she gone and which lands has she settled and departed? What would it cost her if she gestured to bid us farewell, waving the tips of her fingers and nodding? The separation came and the heart's consolation departed when she departed. The eyes of lovers grew hot while the eyes of gloaters cooled. An unknown wasteland with effaced landmarks — when the caravans traverse it they lose their way. When the riders call out in its empty spaces, their call echoes back, deceiving them. I crossed it while night had laid down its chest, and the Orion constellation stood upright in the sky. The noble lord Abu al-Layth, the resolute — if not for him, the ropes of faith would have unraveled.",
+    "vocabularyHighlights": [
+      {
+        "word": "المواطن",
+        "meaning": "homelands, settlements"
+      },
+      {
+        "word": "البين",
+        "meaning": "separation, departure"
+      },
+      {
+        "word": "العزاء",
+        "meaning": "consolation, patience in grief"
+      },
+      {
+        "word": "الصوى",
+        "meaning": "stone markers, road signs"
+      },
+      {
+        "word": "العيس",
+        "meaning": "white she-camels"
+      },
+      {
+        "word": "جرانه",
+        "meaning": "its chest (of the night, metaphor)"
+      },
+      {
+        "word": "المعافى",
+        "meaning": "the one kept safe, the sound"
+      },
+      {
+        "word": "الهمام",
+        "meaning": "the resolute, the great leader"
+      }
+    ],
+    "context": "A 44-verse panegyric in al-tawil meter addressed to Habish ibn al-Mu'afa. The poem opens with a conventional amatory prelude (nasib) lamenting the departure of the beloved before transitioning to elaborate praise of the patron's justice, valor, and protection of the faith."
+  },
+  {
+    "id": "abu-tammam-74",
+    "poetId": "abu-tammam",
+    "titleAr": "أرض مصردة وأخرى تثجم",
+    "titleEn": "One Land Is Parched and Another Pours with Rain",
+    "genre": "madih",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "أرض مصردة وأخرى تثجم",
+        "ajuz": "منها التي رزقت وأخرى تحرم"
+      },
+      {
+        "sadr": "فإذا تأملت البلاد رأيتها",
+        "ajuz": "تثري كما تثري الرجال وتعدم"
+      },
+      {
+        "sadr": "حظ تعاوره البقاع لوقته",
+        "ajuz": "واد به صفر وواد مفعم !"
+      },
+      {
+        "sadr": "لولاه لم تكن النبوة ترتقي",
+        "ajuz": "شرف الحجاز ولا الرسالة تتهم"
+      },
+      {
+        "sadr": "ولذاك أعرقت الخلافة بعدما",
+        "ajuz": "عمرت عصورا وهي علق مشئم"
+      },
+      {
+        "sadr": "وبه رأينا كعبة الله التي",
+        "ajuz": "هي كوكب الدنيا تحل وتحرم"
+      },
+      {
+        "sadr": "تلك الجزيرة مذ تحمل مالك",
+        "ajuz": "أمست وباب الغيث عنها مبهم"
+      },
+      {
+        "sadr": "ولعت قراها غبرة ولقد ترى",
+        "ajuz": "في ظله وكأنما هي أنجم"
+      },
+      {
+        "sadr": "غنيت زمانا جنة فكأنما",
+        "ajuz": "فتحت إليها منذ سار جهنم"
+      },
+      {
+        "sadr": "الجو أكلف والجناب لفقده",
+        "ajuz": "محل وذاك الشق شق مظلم"
+      },
+      {
+        "sadr": "أقوت فلم أذكر بها لما خلت",
+        "ajuz": "إلا مني لما تقضى الموسم"
+      },
+      {
+        "sadr": "ولقد أراها وهي عرس كاعب",
+        "ajuz": "فاليوم أضحت وهي ثكلى أيم"
+      },
+      {
+        "sadr": "إذ في ديار ربيعة المطر الحيا",
+        "ajuz": "وعلى نصيبين الطريق الأعظم"
+      },
+      {
+        "sadr": "ذل الحمى مذ أوطئت تلك الربا",
+        "ajuz": "والغاب مذ أخلاه ذاك الضيغم"
+      },
+      {
+        "sadr": "إن القباب المستقلة بينها",
+        "ajuz": "ملك يطيب به الزمان ويكرم"
+      },
+      {
+        "sadr": "لا تألف الفحشاء برديه ولا",
+        "ajuz": "يسري إليه مع الظلام المأثم"
+      },
+      {
+        "sadr": "متبذل في القوم وهو مبجل",
+        "ajuz": "متواضع في الحي وهو معظم"
+      },
+      {
+        "sadr": "يعلو فيعلم أن ذلك حقه",
+        "ajuz": "ويذيل فيهم نفسه فيكرم"
+      },
+      {
+        "sadr": "مهلا بني عمرو بن غنم إنكم",
+        "ajuz": "هدف الأسنة والقنا يتحطم"
+      },
+      {
+        "sadr": "المجد أعنق والديار فسيحة",
+        "ajuz": "والعز أقعس والعديد عرمرم"
+      },
+      {
+        "sadr": "ما منكم إلا مردى بالحجا",
+        "ajuz": "أو مبشر بالأحوذية مؤدم"
+      },
+      {
+        "sadr": "عمرو بن كلثوم بن مالك بن عت",
+        "ajuz": "اب بن سعد سهمكم لا يسهم"
+      },
+      {
+        "sadr": "خلقت ربيعة مذ لدن خلقت يدا",
+        "ajuz": "جشم بن بكر كف ها والمعصم"
+      },
+      {
+        "sadr": "تغزو فتغلب تغلب مثل اسمها",
+        "ajuz": "وتسيح غنم في البلا فتغنم"
+      },
+      {
+        "sadr": "وستذكرون غدا صنائع مالك",
+        "ajuz": "إن جل خطب أو تدوفع مغرم"
+      },
+      {
+        "sadr": "فمن النقي من العيوب وقد غدا",
+        "ajuz": "عن داركم ومن العفيف المسلم"
+      },
+      {
+        "sadr": "ما لي رأيت ترابكم يبسا له",
+        "ajuz": "مالي أرى أطوادكم تتهدم ؟"
+      },
+      {
+        "sadr": "ما هذه القربى التي لا تصطفى",
+        "ajuz": "ما هذه الرحم التي لا ترحم ؟ !"
+      },
+      {
+        "sadr": "حسد القرابة للقرابة قرحة",
+        "ajuz": "أعيت عواندها وجرح أقدم"
+      },
+      {
+        "sadr": "تلكم قريش لم تكن آراؤها",
+        "ajuz": "تهفو ولا أحلامها تتقسم"
+      },
+      {
+        "sadr": "حتى إذا بعث النبي محمد",
+        "ajuz": "فيهم غدت شحناؤهم تتضرم"
+      },
+      {
+        "sadr": "عزبت عقولهم وما من معشر",
+        "ajuz": "إلا وهم منه ألب وأحزم !"
+      },
+      {
+        "sadr": "لما أقام الوحي بين ظهورهم",
+        "ajuz": "ورأوا رسول الله أحمد منهم"
+      },
+      {
+        "sadr": "ومن الحزامة لو تكون حزامة",
+        "ajuz": "ألا يؤخر من به يتقدم"
+      },
+      {
+        "sadr": "إن تذهبوا عن مالك أو تجهلوا",
+        "ajuz": "نعماه فالرحم القريبة تعلم"
+      },
+      {
+        "sadr": "هي تلك مشكاة بكم لو تشتكي",
+        "ajuz": "مظلومة لو أنها تتظلم"
+      },
+      {
+        "sadr": "كانت لكم أخلاقه معسولة",
+        "ajuz": "فتركتموها وهي ملح علقم"
+      },
+      {
+        "sadr": "حتى إذا أجنت لكم داوتكم",
+        "ajuz": "من دائكم إن الثقاف يقوم"
+      },
+      {
+        "sadr": "فقسا لتزدجروا ومن يك حازما",
+        "ajuz": "فليقس أحيانا وحينا يرحم"
+      },
+      {
+        "sadr": "واخافكم كي تغمدوا أسيافكم",
+        "ajuz": "إن الدم المغتر يحرسه الدم"
+      },
+      {
+        "sadr": "ولقد جهدتم أن تزيلوا عزه",
+        "ajuz": "فإذا أبان قد رسا ويلملم"
+      },
+      {
+        "sadr": "وطعنتم في مجده فثنتكم",
+        "ajuz": "زعف يفل بها السنان اللهذم"
+      },
+      {
+        "sadr": "أعزز عليه إذا ابتأستم بعده",
+        "ajuz": "وتذكرت بالأمس تلك الأنعم"
+      },
+      {
+        "sadr": "ووجدتم قيظ الأذى ورميتم",
+        "ajuz": "بعيونكم أين الربيع المرهم"
+      },
+      {
+        "sadr": "وندمتم ولو استطاع على جوى",
+        "ajuz": "أحشائكم لوقاكم أن تندموا"
+      },
+      {
+        "sadr": "ولو انها من هضبة تدنو له",
+        "ajuz": "لدنا لها أو كان عرق يحسم"
+      },
+      {
+        "sadr": "ما ذغذغت تلك السروب وأصبحت",
+        "ajuz": "فرقين في قرنين تلك الأسهم"
+      },
+      {
+        "sadr": "ولقد علمت لدن لجحتم أنه",
+        "ajuz": "ما بعد ذاك العرس إلا المأتم"
+      },
+      {
+        "sadr": "علما طلبت رسومه فوجدتها",
+        "ajuz": "في الظن ، إن الألمعي منجم"
+      },
+      {
+        "sadr": "ما زلت أعرف وبله من عارض",
+        "ajuz": "لما رأيتسماءه تتغيم"
+      },
+      {
+        "sadr": "يا مال قد علمت نزار كلها",
+        "ajuz": "ما كان مثلك في الأراقم أرقم"
+      },
+      {
+        "sadr": "طالت يدي لما رأيتك سالما",
+        "ajuz": "وانحت عن خدي ذاك العظلم"
+      },
+      {
+        "sadr": "وشممت ترب الرحبة العبق الثرى",
+        "ajuz": "وسقى صداي البحر فيها الخضرم"
+      },
+      {
+        "sadr": "كم حل في أكنافها من معدم",
+        "ajuz": "أمسى به يأوي إليه المعدم"
+      },
+      {
+        "sadr": "وصنيعة لك قد كتمت جزيلها",
+        "ajuz": "فأبى تضوعها الذي لا يكتم"
+      },
+      {
+        "sadr": "مجد تلوح فضوله وفضيلة",
+        "ajuz": "لك سافر والحق لا يتلثم"
+      },
+      {
+        "sadr": "تتكلف الجلى ومن أضحى له",
+        "ajuz": "بيتاك في جشم فلا يتجشم"
+      },
+      {
+        "sadr": "وتشرف العليا وهل بك مذهب",
+        "ajuz": "عنها وأنت على المكارم قيم ؟ !"
+      },
+      {
+        "sadr": "أثنيت إذ كان الثناء حبالة",
+        "ajuz": "شركا يصاد به الكريم المنعم"
+      },
+      {
+        "sadr": "ووفيت إن من الوفاء تجارة",
+        "ajuz": "وشكرت إن الشكر حرت مطعم"
+      }
+    ],
+    "translationEn": "One land is parched and withheld while another pours with rain — one is given provision while the other is denied. When you contemplate the lands you see them enriching and impoverishing like men. Fortune takes turns with regions in its season: one valley holds only emptiness while another brims full. Had it not been for this land, prophethood would not have risen to the nobility of the Hijaz, nor would the message have descended on Tihama. The island has been in drought since Malik departed, its gates of rain shut tight.",
+    "vocabularyHighlights": [
+      {
+        "word": "مصردة",
+        "meaning": "parched, withheld of rain"
+      },
+      {
+        "word": "تثجم",
+        "meaning": "pours with rain, is soaked"
+      },
+      {
+        "word": "المحل",
+        "meaning": "drought, barrenness"
+      },
+      {
+        "word": "الجزيرة",
+        "meaning": "the island (al-Jazira region)"
+      },
+      {
+        "word": "الضيغم",
+        "meaning": "the fierce lion"
+      },
+      {
+        "word": "مهلا",
+        "meaning": "slowly, gently (warning)"
+      },
+      {
+        "word": "الأراقم",
+        "meaning": "a branch of the Taghlib tribe"
+      },
+      {
+        "word": "الحسد",
+        "meaning": "envy, jealousy"
+      }
+    ],
+    "context": "A 60-verse panegyric in the kamil meter comparing the generosity of the patron Malik to rain that revives parched land. Abu Tammam draws on the theme of the Jazira region's drought to highlight how the patron's presence was its sole source of life and abundance."
+  },
+  {
+    "id": "abu-tammam-75",
+    "poetId": "abu-tammam",
+    "titleAr": "لعلك ذاكر الطلل القديم",
+    "titleEn": "Perhaps You Will Remember the Ancient Ruins",
+    "genre": "madih",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "لعلك ذاكر الطلل القديم",
+        "ajuz": "وموف بالعهود على الرسوم"
+      },
+      {
+        "sadr": "وواصف ناقة تذر المهارى",
+        "ajuz": "موكلة بوخد أو رسيم"
+      },
+      {
+        "sadr": "وقد أممت بيت الله نضوا",
+        "ajuz": "على عيرانة حرف سعوم"
+      },
+      {
+        "sadr": "أتيت القادسية وهي ترنو",
+        "ajuz": "الي بعين شيطان رجيم"
+      },
+      {
+        "sadr": "فما بلغت بنا عسفان حتى",
+        "ajuz": "رنت بلحاظ لقمان الحكيم"
+      },
+      {
+        "sadr": "وبدلها السى بالجهل حلما",
+        "ajuz": "وقد أديمها قد الأديم"
+      },
+      {
+        "sadr": "أذاب سنامها قطع الفيافي",
+        "ajuz": "ومزق جلدها نضج العصيم"
+      },
+      {
+        "sadr": "طواها طيها الموماة وخدا",
+        "ajuz": "الى أجبال مكة والحطيم"
+      },
+      {
+        "sadr": "رمت خطواتها ببني خطايا",
+        "ajuz": "مواشكة إلى رب كريم"
+      },
+      {
+        "sadr": "بكل بعيدة الأرجاء تيه",
+        "ajuz": "كأن أوارها وهج الجحيم"
+      },
+      {
+        "sadr": "أقول بها وقد أوحت بعين",
+        "ajuz": "إلي تشكي الدنف السقيم"
+      },
+      {
+        "sadr": "بكورك أشعر الثقلين طرا",
+        "ajuz": "وأوفى الناس في حسب صميم"
+      },
+      {
+        "sadr": "لمالك تشتكين وأنت تحتي",
+        "ajuz": "وتحت محمد بدر النجوم ؟"
+      },
+      {
+        "sadr": "متى أظمتك هاجرة فشيمي",
+        "ajuz": "أنامله تروك بالنسيم"
+      },
+      {
+        "sadr": "وإنغشيتك ظلماء فجلي",
+        "ajuz": "بغرته دجى الليل البهيم"
+      },
+      {
+        "sadr": "فمرت مثلما يمشي شهيد",
+        "ajuz": "سويا إلى صراط مستقيم"
+      },
+      {
+        "sadr": "ولولا الله يوم منى لأبدت",
+        "ajuz": "هواها كل ذات حشا هضيم"
+      },
+      {
+        "sadr": "رمين أخا اغتراب واكتئاب",
+        "ajuz": "بعيني جؤذر وبجيد ريم"
+      }
+    ],
+    "translationEn": "Perhaps you will remember the ancient ruins and fulfill your promises at the effaced traces. You will describe a she-camel that outpaces the swift riding-beasts, entrusted with an urgent or steady gait. I made for the House of God on a worn-out she-camel, a strong and sturdy beast. I arrived at Qadisiyya while it gazed at me with the eye of a rebellious demon. It had not reached us at 'Usfan before it looked with the glance of Luqman the Wise. The wastelands replaced its wildness with forbearance and tanned its hide like leather. It folded itself through the desert expanses, pressing on toward the mountains of Mecca and the Sacred Wall.",
+    "vocabularyHighlights": [
+      {
+        "word": "الطلل",
+        "meaning": "ruins, traces of a camp"
+      },
+      {
+        "word": "الرسوم",
+        "meaning": "effaced traces, marks"
+      },
+      {
+        "word": "نضو",
+        "meaning": "worn-out camel, emaciated beast"
+      },
+      {
+        "word": "عيرانة",
+        "meaning": "strong she-camel"
+      },
+      {
+        "word": "الحطيم",
+        "meaning": "the sacred wall of the Ka'ba"
+      },
+      {
+        "word": "الفيافي",
+        "meaning": "vast deserts, wildernesses"
+      },
+      {
+        "word": "العصيم",
+        "meaning": "old, caked grease on a camel"
+      },
+      {
+        "word": "الجؤذر",
+        "meaning": "young antelope"
+      }
+    ],
+    "context": "A 18-verse poem in al-wafir meter describing a pilgrimage journey to Mecca on a worn she-camel. The poem blends the rihla (travel poem) genre with praise of Malik ibn Muhammad, suggesting that patronage of poetry is itself a sacred duty analogous to the pilgrimage."
+  },
+  {
+    "id": "abu-tammam-76",
+    "poetId": "abu-tammam",
+    "titleAr": "أقول لمرتاد الندى عند مالك",
+    "titleEn": "I Say to the Seeker of Generosity at Malik's Door",
+    "genre": "madih",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "أقول لمرتاد الندى عند مالك",
+        "ajuz": "تعوذ بجدوى مالك وصلاته"
+      },
+      {
+        "sadr": "فتى جعل المعروف من دون عرضه",
+        "ajuz": "سريعا إلى الممتاح قبل عداته"
+      },
+      {
+        "sadr": "ولو قصرت أمواله عن سماحه",
+        "ajuz": "لقاسم من يرجوه شطر حياته"
+      },
+      {
+        "sadr": "وإن لم يجد في قسمة العمر حيلة",
+        "ajuz": "وجاز له الإعطاء من حسناته"
+      },
+      {
+        "sadr": "لجاد بها غير كفر بربه",
+        "ajuz": "وآساهم من صومه وصلاته"
+      }
+    ],
+    "translationEn": "I say to the seeker of generosity at Malik's door: take refuge in Malik's bounty and intercession! A young man who placed virtue as a shield before his honor, swift to the supplicant before his promise. If his wealth fell short of his generosity, he would share half his very life with those who seek him. And if he found no means to divide his lifespan, and giving from his pious deeds were permitted, he would give them freely — not from ingratitude to his Lord — and be their companion in his fasting and his prayers.",
+    "vocabularyHighlights": [
+      {
+        "word": "مرتاد",
+        "meaning": "seeker, one who seeks out"
+      },
+      {
+        "word": "الندى",
+        "meaning": "generosity, bounty"
+      },
+      {
+        "word": "صلاته",
+        "meaning": "his connection, his intercession"
+      },
+      {
+        "word": "الممتاح",
+        "meaning": "the supplicant, the one drawing water"
+      },
+      {
+        "word": "عداته",
+        "meaning": "his promises"
+      },
+      {
+        "word": "سماحه",
+        "meaning": "his generosity, liberality"
+      },
+      {
+        "word": "قاسم",
+        "meaning": "he would share, divide"
+      }
+    ],
+    "context": "A brief 5-verse encomium in al-tawil meter praising Malik's generosity in hyperbolic terms common to Abbasid panegyric. Abu Tammam suggests the patron would share not just wealth but his very lifespan and pious deeds — an extreme conceit illustrating boundless liberality."
+  },
+  {
+    "id": "abu-tammam-77",
+    "poetId": "abu-tammam",
+    "titleAr": "ما للدموع تروم كل مرام",
+    "titleEn": "What Ails the Tears Seeking Every Direction",
+    "genre": "madih",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "ما للدموع تروم كل مرام",
+        "ajuz": "والجفن ثاكل هجعة ومنام !"
+      },
+      {
+        "sadr": "يا حفرة المعصوم تربك مودع",
+        "ajuz": "ماء الحياة وقاتل الإعدام"
+      },
+      {
+        "sadr": "إن الصفائح منك قد نضدت على",
+        "ajuz": "ملقى عظام لو علمت عظام !"
+      },
+      {
+        "sadr": "فتق المدامع أن لحدك حله",
+        "ajuz": "سكن الزمان وممسك الأيام"
+      },
+      {
+        "sadr": "ومصرف الملك الجموح كأنه",
+        "ajuz": "قد زم مصعبه له بزمام"
+      },
+      {
+        "sadr": "هدمت صروف الموت أرفع حائط",
+        "ajuz": "ضربت دعائمه على الإسلام"
+      },
+      {
+        "sadr": "دخلت على ملك الملوك رواقه",
+        "ajuz": "وتشزنت لمقوم القوام"
+      },
+      {
+        "sadr": "مفتاح كل مدينة قد أبهمت",
+        "ajuz": "غلقا ومخلي كل دار مقام"
+      },
+      {
+        "sadr": "ومعرف الخلفاء أن حظوظها",
+        "ajuz": "في حيز الإسراج والإلجام"
+      },
+      {
+        "sadr": "أخذ الخلافة عن أسنته التي",
+        "ajuz": "منعت حمى الآباء والأعمام"
+      },
+      {
+        "sadr": "فلسورة الأنفال في ميراثه",
+        "ajuz": "آثارها ولسورة الأنعام"
+      },
+      {
+        "sadr": "ما دام هارون الخليفة فالهدى",
+        "ajuz": "في غبطة موصولة بداوم"
+      },
+      {
+        "sadr": "إنا رحلنا واثقين بواثق",
+        "ajuz": "بالله شمس ضحى وبدر تمام"
+      },
+      {
+        "sadr": "لله أي حياة انبعثت لنا",
+        "ajuz": "يوم الخميس وبعد أي حمام !"
+      },
+      {
+        "sadr": "أودى بخير إمام اضطربت به",
+        "ajuz": "شعب الرجال وقام خير إمام"
+      },
+      {
+        "sadr": "تلك الرزية لا رزية مثلها",
+        "ajuz": "والقسم ليس كسائر الأقسام"
+      },
+      {
+        "sadr": "أو ي فتقد ذو النون في الهيجا فقد",
+        "ajuz": "دفع الإله لنا عن الصمصام"
+      },
+      {
+        "sadr": "أو جب منا غارب غدوا فقد",
+        "ajuz": "رحنا بأتمك ذروة وسنام"
+      },
+      {
+        "sadr": "هل غير بؤسى ساعة ألبستها",
+        "ajuz": "بنداك ما لبست من الإنعام !"
+      },
+      {
+        "sadr": "نقض كرجع الطرف قد أبرمته",
+        "ajuz": "يا ابن الخلائف أيما إبرام"
+      },
+      {
+        "sadr": "ما إن رأى الأقوام شمسا قبلها",
+        "ajuz": "أفلت فلم تعقبهم بظلام"
+      },
+      {
+        "sadr": "أكرم بيومهم الذي ملكتهم",
+        "ajuz": "في صدره وبعامهم من عام"
+      },
+      {
+        "sadr": "لو لم يكن بدعا لقد نصبوا له",
+        "ajuz": "سمة يبين بها من الأعوام"
+      },
+      {
+        "sadr": "لغدوا وذاك الحول حول عبادة",
+        "ajuz": "فيهم وذاك الشهر شهر صيام"
+      },
+      {
+        "sadr": "لما دعوتهم لأخذ عهودهم",
+        "ajuz": "طار السرور بمعرق وشآم"
+      },
+      {
+        "sadr": "فكان هذا قادم من غيبة",
+        "ajuz": "وكأن ذاك مبشر بغلام"
+      },
+      {
+        "sadr": "قسمت أمير المؤمنين قلوبهم",
+        "ajuz": "بين المحبة فيك والإعظام"
+      },
+      {
+        "sadr": "شرحت بدولتك الصدور وأصبحت",
+        "ajuz": "خشع العيون إليك وهي سوام"
+      },
+      {
+        "sadr": "ما أحسب القمر المنير إذا بدا",
+        "ajuz": "بدرا بأضوأ منك في الأوهام"
+      },
+      {
+        "sadr": "هي بيعة الرضوان يشرع وسطها",
+        "ajuz": "باب السلامة فادخلوا بسلام"
+      },
+      {
+        "sadr": "والمركب المنجي فمن يعدل به",
+        "ajuz": "يركب جموحا غير ذات لجام"
+      },
+      {
+        "sadr": "يتبع هواه ولا لقاح لرهطه",
+        "ajuz": "بسل وليست أرضه بحرام"
+      },
+      {
+        "sadr": "وعبادة الأهواء في تطويحها",
+        "ajuz": "بالدين فوق عبادة الأصنام"
+      },
+      {
+        "sadr": "إن الخلافة أصبحت حجراتها",
+        "ajuz": "ضربت على ضخم الهموم همام"
+      },
+      {
+        "sadr": "ملك يرى الدنيا بأيسر لحظة",
+        "ajuz": "ويرى التقى رحما من الأرحام"
+      },
+      {
+        "sadr": "لا قدح في عود الإمامة بعدما",
+        "ajuz": "متت إليك بحرمة وذمام"
+      },
+      {
+        "sadr": "هيهات تلك قلادة الله التي",
+        "ajuz": "ماكان يتركها بغير نظام"
+      },
+      {
+        "sadr": "إرث النبي وجمرة الملك التي",
+        "ajuz": "لم تخل من لهب بكم وضرام"
+      },
+      {
+        "sadr": "مذخورة أحرزتها بحكومة",
+        "ajuz": "لله تعلو أرؤس الحكام"
+      },
+      {
+        "sadr": "لسنا مريدي حجة نشفي بها",
+        "ajuz": "من ريبة سقما من الأسقام"
+      },
+      {
+        "sadr": "والصبر بالأرواح يعرف فضله",
+        "ajuz": "من غيره ابتغيت ولا أعلام"
+      },
+      {
+        "sadr": "فأقم مخالفنا بكل مقوم",
+        "ajuz": "واحسم مغاندنا بكل حسام"
+      },
+      {
+        "sadr": "~ صبر الملوك وليس بالاجسام",
+        "ajuz": "لا تدهنوا في حكمه فالبحر قد"
+      },
+      {
+        "sadr": "تردي غواربه وليس بطام",
+        "ajuz": "يابن الكواكب من أئمة هاشم"
+      },
+      {
+        "sadr": "والرجح الأحساب والأحلام",
+        "ajuz": "أهدى إليك الشعر كل مفهه"
+      },
+      {
+        "sadr": "خطل وسدد فيك كل عبام",
+        "ajuz": "غرض المديح تقاربت آفاقه"
+      },
+      {
+        "sadr": "ورمى فقرطس فيه غير الرامي",
+        "ajuz": ""
+      }
+    ],
+    "translationEn": "What ails the tears that seek every direction, while the eye is bereft of slumber and sleep! O grave of the protected one, your soil holds one who is both the water of life and the slayer of annihilation! The stone slabs over you are piled upon the resting place of bones that, had they known, would have known their own magnitude! The opening of tear-ducts is because your burial chamber holds the one who was the anchor of time and the restrainer of days. The ravages of death demolished the highest wall whose pillars were set upon Islam. He entered the pavilion of the King of Kings and stood upright before the Corrector of Upright Men. Now a new Caliph rises — may guidance enjoy connected good fortune.",
+    "vocabularyHighlights": [
+      {
+        "word": "حفرة المعصوم",
+        "meaning": "grave of the protected/infallible one"
+      },
+      {
+        "word": "الإعدام",
+        "meaning": "annihilation, extinction"
+      },
+      {
+        "word": "الصفائح",
+        "meaning": "stone slabs, flat stones"
+      },
+      {
+        "word": "دعائم",
+        "meaning": "pillars, supports"
+      },
+      {
+        "word": "الإسلام",
+        "meaning": "Islam, submission"
+      },
+      {
+        "word": "رواق",
+        "meaning": "pavilion, awning"
+      },
+      {
+        "word": "الخلفاء",
+        "meaning": "the caliphs"
+      },
+      {
+        "word": "الإسراج",
+        "meaning": "saddling (horses for the caliph's disposal)"
+      }
+    ],
+    "context": "A 47-verse elegy and political panegyric in the kamil meter marking the death of one caliph and the succession of another. The poem mourns the departed ruler's greatness while celebrating the new caliph's accession — a common Abbasid genre blending ritha' with madih."
+  },
+  {
+    "id": "abu-tammam-78",
+    "poetId": "abu-tammam",
+    "titleAr": "صريع هوى تغاديه الهموم",
+    "titleEn": "Struck Down by Passion, Grief Visits Him Each Morning",
+    "genre": "ghazal",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "صريع هوى تغاديه الهموم",
+        "ajuz": "بنيسابور ليس له حميم"
+      },
+      {
+        "sadr": "غريب ليس يؤنسه قريب",
+        "ajuz": "ولا يأوي لغربته رحيم"
+      },
+      {
+        "sadr": "مقيم في الديار نوى شطون",
+        "ajuz": "يشافهه بها كمد مقيم"
+      },
+      {
+        "sadr": "يمد زمامه طمع مقيم",
+        "ajuz": "تدرع ثوبه رجل عديم"
+      },
+      {
+        "sadr": "رجاء ما يقابله رجاء",
+        "ajuz": "هو اليأس الذي عقباه شوم"
+      },
+      {
+        "sadr": "فلا عجب وإن كانت ركابي",
+        "ajuz": "بأرض طار طائرها المشوم"
+      },
+      {
+        "sadr": "فقد فارقت بالغربي دارا",
+        "ajuz": "بأرض الشام حف بها النعيم"
+      },
+      {
+        "sadr": "وكنت بها الممنع غير وغد",
+        "ajuz": "ولا نكد اذا حل العظيم"
+      },
+      {
+        "sadr": "فإن أك حللت بدار هون",
+        "ajuz": "صبوت بها فقد يصبو الحليم"
+      },
+      {
+        "sadr": "ألومك لا ألوم سؤاك دهرا",
+        "ajuz": "قضى لي بالذي يقضي سدوم"
+      },
+      {
+        "sadr": "إذا أنا لم ألم عثرات دهر",
+        "ajuz": "أصبت بها الغداة فمن ألوم"
+      },
+      {
+        "sadr": "وفي الدنيا غنى لم أنب عنه",
+        "ajuz": "ولكن ليس في الدنيا كريم !"
+      }
+    ],
+    "translationEn": "Struck down by passion, grief visits him each morning in Naysabur — he has no intimate companion. A stranger whose nearest kin bring him no comfort, no compassionate soul shelters him from his exile. Resident in this land, the distant separation speaks to him in whispers with a settled, persistent grief. His longing stretches its rein — a destitute, penniless man has donned its garment. A hope whose counterpart is only despair — its aftermath is ill-omen. No wonder if his mounts are in a land whose birds have flown with ill omen. He left behind in the west a house in the Syrian lands surrounded by abundance.",
+    "vocabularyHighlights": [
+      {
+        "word": "صريع",
+        "meaning": "one struck down, a victim"
+      },
+      {
+        "word": "حميم",
+        "meaning": "intimate companion, close friend"
+      },
+      {
+        "word": "غريب",
+        "meaning": "stranger, exile"
+      },
+      {
+        "word": "شطون",
+        "meaning": "distant separation, far-off parting"
+      },
+      {
+        "word": "الكمد",
+        "meaning": "hidden grief, suppressed sorrow"
+      },
+      {
+        "word": "مقيم",
+        "meaning": "settled, persistent"
+      },
+      {
+        "word": "العديم",
+        "meaning": "the destitute, the penniless"
+      },
+      {
+        "word": "المشوم",
+        "meaning": "ill-omened, unlucky"
+      }
+    ],
+    "context": "A 12-verse personal elegy in al-wafir meter expressing the poet's loneliness and desolation in Naysabur (Nishapur). Abu Tammam laments his exile from Syria, contrasting his current misery with past happiness — one of several poems expressing his discontent while on travels in Khurasan."
+  },
+  {
+    "id": "abu-tammam-79",
+    "poetId": "abu-tammam",
+    "titleAr": "قف بالطلول الدارسات علاثا",
+    "titleEn": "Halt at the Worn Ruins, Tarrying There",
+    "genre": "madih",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "قف بالطلول الدارسات علاثا",
+        "ajuz": "أمست حبال قطينهن رثاثا"
+      },
+      {
+        "sadr": "قسم الزمان ربوعها بين الصبا",
+        "ajuz": "وقبولها ودبورها أثلاثا"
+      },
+      {
+        "sadr": "فتأبدت من كل مخطفة الحشا",
+        "ajuz": "غيداء تكسى يارقا ورعاثا"
+      },
+      {
+        "sadr": "كالظبية الأدماء صافت فارتعت",
+        "ajuz": "زهر العرار الغض والجثجاثا"
+      },
+      {
+        "sadr": "حتى إذا ضرب الخريف رواقه",
+        "ajuz": "سافت برير أراكة وكباثا"
+      },
+      {
+        "sadr": "سيافة اللحظات يغدو طرفها",
+        "ajuz": "بالسحر في عقد في عقد النهى نفاثا"
+      },
+      {
+        "sadr": "زالت بعينيك الحمول كأنها",
+        "ajuz": "نخل مواقر من نخيل جواثا"
+      },
+      {
+        "sadr": "يوم الثلاثا لن أزال لبينهم",
+        "ajuz": "كدر الفؤاد لكل يوم ثلاثا"
+      },
+      {
+        "sadr": "إن الهموم الطارقاتك موهنا",
+        "ajuz": "منعت جفونك أن تذوق حثاثا"
+      },
+      {
+        "sadr": "ورأيت ضيف لهم لا يرضى قرى",
+        "ajuz": "إلا مداخلة الفقار دلاثا"
+      },
+      {
+        "sadr": "شجعاء جرتها الذميل تلوكه",
+        "ajuz": "أصلا إذا راح المطي غراثا"
+      },
+      {
+        "sadr": "أجدا إذا ونت المهارى أرقلت",
+        "ajuz": "رقلا كتحريق الغضا حثحاثا"
+      },
+      {
+        "sadr": "طلبت فتى جشم بن بكر مالكا",
+        "ajuz": "ضرغامها وهزبرها الدلهاثا"
+      },
+      {
+        "sadr": "ملك إذا استسقيت مزن بنانه",
+        "ajuz": "قتل الصدى وإذا استغيث أغاثا"
+      },
+      {
+        "sadr": "قد جربته تغلب ابنة وائل",
+        "ajuz": "لاخاترا غدرا ولا نكاثا"
+      },
+      {
+        "sadr": "مثل السبيكة ليس عن أعراضها",
+        "ajuz": "بالغيب لا ندسا ولا بحاثا"
+      },
+      {
+        "sadr": "ضرح القذى عنها وشذب سيفه",
+        "ajuz": "عن عيصها الخراب والخباثا"
+      },
+      {
+        "sadr": "ضاحي المحيا للهجير وللقنا",
+        "ajuz": "تحت العجاج تخاله محراثا"
+      },
+      {
+        "sadr": "هم مزقوا عنه سبائب حلمه",
+        "ajuz": "وإذا أبو الأشبال أحرج عاثا"
+      },
+      {
+        "sadr": "لولا القرابة جاسهم بوقائع",
+        "ajuz": "تنسي الكلاب وملهما وبعاثا"
+      },
+      {
+        "sadr": "بالخيل فوق متونهن فوارس",
+        "ajuz": "مثل الصقور إذا لقين بغاثا"
+      },
+      {
+        "sadr": "لكن قراكم صفحه من لم يزل",
+        "ajuz": "وأبوه فيكم رحمة وغياثا"
+      },
+      {
+        "sadr": "عف الإزار تنال جارة بيته",
+        "ajuz": "أرفاده وتجنب الأرفاثا"
+      },
+      {
+        "sadr": "عمرو بن كلثوم بن مالك الذي",
+        "ajuz": "ترك العلى لبني أبيه تراثا"
+      },
+      {
+        "sadr": "وزعوا الزمان وهم كهول جلة",
+        "ajuz": "وسطوا على أحداثه أحداثا"
+      },
+      {
+        "sadr": "ألقى عليه نجاره فأتى به",
+        "ajuz": "يقظان لا ورعا ولاملتاثا"
+      },
+      {
+        "sadr": "تزكو مواعده إذا وعد امرىء",
+        "ajuz": "أنساك أحلام الكرى الأضغاثا"
+      },
+      {
+        "sadr": "وترى تسحبنا عليه كأنما",
+        "ajuz": "جئناه نطلب عنده ميراثا"
+      },
+      {
+        "sadr": "كم مسهل بك لو عدتك قلاصه",
+        "ajuz": "تبغي سواك لأوعثت إيعاثا"
+      },
+      {
+        "sadr": "خولته عيشا أغن وجاملا",
+        "ajuz": "دثرا ومالا صامتا وأثاثا"
+      },
+      {
+        "sadr": "يا مالك ابن المالكين أرى الذي",
+        "ajuz": "كنا نؤمل من إيابك راثا"
+      },
+      {
+        "sadr": "لولا اعتمادك كنت ذا مندوحة",
+        "ajuz": "عن برقعيد وأرض باعيناثا"
+      },
+      {
+        "sadr": "والكامخية لم تكن لي منزلا",
+        "ajuz": "فمقابر اللذات من قبراثا"
+      },
+      {
+        "sadr": "لم آتها من أي وجه جئتها",
+        "ajuz": "إلا حسبت بيوتها أجداثا"
+      },
+      {
+        "sadr": "بلد الفلاحة لو أتاها جرول",
+        "ajuz": "أعني الحطيئة لاعتدى حراثا"
+      },
+      {
+        "sadr": "تصدا بها الأفهام بعد صقالها",
+        "ajuz": "وترد ذكران العقول إناثا"
+      },
+      {
+        "sadr": "أرض خلعت اللهو خلعي خاتمي",
+        "ajuz": "فيها وطلقت السرور ثلاثا"
+      }
+    ],
+    "translationEn": "Halt at the worn ruins, tarrying there — their ropes of encampment have become frayed. Time divided their dwelling places among the north winds in three equal parts. They became deserted, inhabited by every slender-waisted gazelle, adorned in an amulet and earrings. Like the tawny female gazelle who summered and grazed on the bright flowers of 'irar and jathj trees. Until when autumn stretched out its canopy, she sniffed the berries of the arak tree and its bitter fruit. I sought Malik, son of the tribe of Bakr — its prowling lion and its fierce predator. A king: when you draw water from the clouds of his palm, he slakes thirst; when appealed to, he aids.",
+    "vocabularyHighlights": [
+      {
+        "word": "الطلول الدارسات",
+        "meaning": "the worn, effaced ruins"
+      },
+      {
+        "word": "علاثا",
+        "meaning": "tarrying, lingering"
+      },
+      {
+        "word": "القطين",
+        "meaning": "the encampment, residents"
+      },
+      {
+        "word": "رثاث",
+        "meaning": "frayed, worn-out ropes"
+      },
+      {
+        "word": "مخطفة الحشا",
+        "meaning": "slender-waisted"
+      },
+      {
+        "word": "الضرغام",
+        "meaning": "the prowling lion, the fierce predator"
+      },
+      {
+        "word": "الدلهاث",
+        "meaning": "a powerful, fierce lion"
+      },
+      {
+        "word": "مزن",
+        "meaning": "rain-clouds"
+      }
+    ],
+    "context": "A 37-verse panegyric in the kamil meter dedicated to Malik ibn Abi al-Samt of the Taghlib tribe. After an elaborate atlal prelude with desert gazelle imagery, Abu Tammam pivots to celebrating the patron's valor, generosity, and role as protector of his tribe."
+  },
+  {
+    "id": "abu-tammam-80",
+    "poetId": "abu-tammam",
+    "titleAr": "أنا في ذمة الكريم سليما",
+    "titleEn": "I Am in the Protection of the Noble, Secure",
+    "genre": "madih",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "أنا في ذمة الكريم سليما",
+        "ajuz": "ن السليم الهوى الرئيف المهام"
+      },
+      {
+        "sadr": "نطت همي منه بهمة قوم",
+        "ajuz": "ثقلت وطأتي على الأيام"
+      },
+      {
+        "sadr": "بحسام اللسان والرأي أمضى",
+        "ajuz": "حين ينضى من الجراز الحسام"
+      },
+      {
+        "sadr": "ماجد أفرطت عنايته حت",
+        "ajuz": "تى توهمت أنها في المنام"
+      },
+      {
+        "sadr": "ما تواجهت نحو أفق من الآ",
+        "ajuz": "فاق إلا وجدتها من أمامي"
+      },
+      {
+        "sadr": "كل يوم ترى نوال أبي نص ~",
+        "ajuz": "لم أزل في دمامه المعظم المك"
+      },
+      {
+        "sadr": "رم حتى ظننته في ذمامي",
+        "ajuz": "يا سليمان ترف الله أرضا"
+      },
+      {
+        "sadr": "أنت فيها بمستهل الغمام",
+        "ajuz": "ولعمري لقد كفيت لك الدع"
+      },
+      {
+        "sadr": "وة إذ كنت شاتيا بالشآم",
+        "ajuz": "أنا ثاو بحمص في كل ضرب"
+      },
+      {
+        "sadr": "من ضروب الإكثار والإفحام",
+        "ajuz": "كل فدم أخاف حين أراه"
+      },
+      {
+        "sadr": "مقبلا أن يشجني بالسلام",
+        "ajuz": "رافعا كفه لبري فلا أح"
+      },
+      {
+        "sadr": "سبه جاءني لغير اللطام",
+        "ajuz": "فبحقي إلا خصصت أبا الطي"
+      },
+      {
+        "sadr": "يب عني بطيب من سلامي",
+        "ajuz": "وثنائي من قبل هذا ومن بع"
+      },
+      {
+        "sadr": "د وشكري غض لعبد السلام",
+        "ajuz": ""
+      }
+    ],
+    "translationEn": "I am in the protection of the noble one, secure — the sound of heart, compassionate, concerned with lofty aims. My anxiety has been bound by his resolution to a nation's ambition, making my weight heavy upon the days. With the sharp sword of tongue and decisive judgment — more cutting when drawn than an Indian blade. A glorious man whose care has exceeded bounds, until I imagined it a vision in a dream. I have not faced any horizon of the horizons without finding you before me. Each day you see the gift of Abu Nasr — I have remained in his honored and exalted care.",
+    "vocabularyHighlights": [
+      {
+        "word": "ذمة الكريم",
+        "meaning": "protection of the noble one"
+      },
+      {
+        "word": "الرئيف",
+        "meaning": "the compassionate, the tender"
+      },
+      {
+        "word": "المهام",
+        "meaning": "lofty concerns, important matters"
+      },
+      {
+        "word": "حسام اللسان",
+        "meaning": "the sword-sharp tongue"
+      },
+      {
+        "word": "الجراز",
+        "meaning": "a sharp sword"
+      },
+      {
+        "word": "ماجد",
+        "meaning": "glorious, noble"
+      },
+      {
+        "word": "أفاق",
+        "meaning": "horizons, regions"
+      },
+      {
+        "word": "ذمامي",
+        "meaning": "under my protection, in my charge"
+      }
+    ],
+    "context": "A 14-verse panegyric in al-khafif meter addressed to Sulayman (Abu Nasr), a patron in Syria. The poem uses metaphors of sword-sharpness for the patron's intellect and protection, while Abu Tammam humorously laments being forced to greet tedious acquaintances in Homs in his patron's absence."
+  },
+  {
+    "id": "abu-tammam-81",
+    "poetId": "abu-tammam",
+    "titleAr": "يوم الفراق لقد خلقت عظيما",
+    "titleEn": "Day of Separation, You Were Created Immense",
+    "genre": "ghazal",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "يوم الفراق لقد خلقت عظيما",
+        "ajuz": "وتركت جسمي لا سقمت سقيما"
+      },
+      {
+        "sadr": "ما للفراق تفرقت أعضاؤه",
+        "ajuz": "ما زال يعصف باللقاء قديما !"
+      },
+      {
+        "sadr": "ما زلت بعدك يا أخي في حسرة",
+        "ajuz": "وتلدد حتى أراك سليما"
+      },
+      {
+        "sadr": "اقر السلام عليك مني كلما",
+        "ajuz": "جرت الرياح فانشقتك نسيما"
+      }
+    ],
+    "translationEn": "Day of separation, you were indeed created immense, and you left my body ill — may you not recover! What ails separation that it has torn apart my limbs — it has never ceased to destroy union since ancient times! I have not stopped grieving after you, my brother, in remorse and confusion, until I see you well. Convey my greetings upon you whenever the winds blow and you breathe in their fragrance as a breeze.",
+    "vocabularyHighlights": [
+      {
+        "word": "الفراق",
+        "meaning": "separation, parting"
+      },
+      {
+        "word": "خلقت",
+        "meaning": "you were created, you are by nature"
+      },
+      {
+        "word": "عظيما",
+        "meaning": "immense, great"
+      },
+      {
+        "word": "سقمت",
+        "meaning": "may you become ill"
+      },
+      {
+        "word": "تلدد",
+        "meaning": "confusion, bewilderment"
+      },
+      {
+        "word": "نسيما",
+        "meaning": "breeze, gentle wind"
+      }
+    ],
+    "context": "A brief 4-verse poem in the kamil meter expressing grief at separation from a close companion. The poem's intimacy and personal tone — addressing the day of separation itself as a living creature — reflect Abu Tammam's skill at ikhwaniyyat (friendship poetry) alongside his renowned panegyrics."
+  },
+  {
+    "id": "abu-tammam-82",
+    "poetId": "abu-tammam",
+    "titleAr": "صرف النوى ليس بالمكيث",
+    "titleEn": "The Turning of Separation Is Not Long in Stay",
+    "genre": "madih",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "صرف النوى ليس بالمكيث",
+        "ajuz": "ينبث ما ليس بالنبيث"
+      },
+      {
+        "sadr": "هبت لأحبابنا رياح",
+        "ajuz": "غير سواه ولا ريوث"
+      },
+      {
+        "sadr": "بدور ليل التمام حسنا",
+        "ajuz": "عين حقوف ، ظباء ميث"
+      },
+      {
+        "sadr": "بين الخلاخيل والأساوي",
+        "ajuz": "ر والدماليج والرعوث"
+      },
+      {
+        "sadr": "من كل رعبوبة تردى",
+        "ajuz": "بثوب فينانها الأثيث"
+      },
+      {
+        "sadr": "كالرشإ العوهج اطباه",
+        "ajuz": "روع إلى مغزل رغوث"
+      },
+      {
+        "sadr": "رعت جنابي عويرضات",
+        "ajuz": "من خزمات ومن شثوث"
+      },
+      {
+        "sadr": "ولاحب مشكل النواحي",
+        "ajuz": "منخرق السهل والوعوث"
+      },
+      {
+        "sadr": "لم تزجر العيس في قراه",
+        "ajuz": "مذ عصر نوح وعصر شيث"
+      },
+      {
+        "sadr": "كأن صوت النعام فيه",
+        "ajuz": "إذا دعا صوت مستغيث"
+      },
+      {
+        "sadr": "قلصته بالقلاص تهوي",
+        "ajuz": "بالوخد من سيرها الحثيث"
+      },
+      {
+        "sadr": "من كل صلب القرا معوج",
+        "ajuz": "وكل عيرانة دلوث"
+      },
+      {
+        "sadr": "ذي ميعة مشيه الدفقى",
+        "ajuz": "وذات لوث بها ملوث"
+      },
+      {
+        "sadr": "يطلبن من عقد وعد موسى",
+        "ajuz": "غير سحيل ولانكيث"
+      },
+      {
+        "sadr": "بنان موسى إذا استهلت",
+        "ajuz": "للناس نابت عن الغيوث"
+      },
+      {
+        "sadr": "حيث الندى والسدى جميعا",
+        "ajuz": "وملجأ الخائف الكريث"
+      },
+      {
+        "sadr": "حيث لبون النوال تهمي",
+        "ajuz": "غير شطور ولا ثلوث"
+      },
+      {
+        "sadr": "والمجد من تالد قديم",
+        "ajuz": "ثم ومن طارف حديث"
+      },
+      {
+        "sadr": "إن تستبثه تجد عراما",
+        "ajuz": "من مستباث لمستبيث"
+      },
+      {
+        "sadr": "وحية أفعوان لصب",
+        "ajuz": "يعيث في مهجة العيوث"
+      },
+      {
+        "sadr": "تغدو المنايا مسخرات",
+        "ajuz": "وقفا على سمه النفيث"
+      },
+      {
+        "sadr": "وصارم الشفرتين عضبا",
+        "ajuz": "غير ددان ولا أنيث"
+      },
+      {
+        "sadr": "ليثا ولكنه حمام",
+        "ajuz": "صب انتقاما على الليوث"
+      },
+      {
+        "sadr": "أنكد بأري النوال ما لم",
+        "ajuz": "يحل من العشب والجثوث"
+      },
+      {
+        "sadr": "ما الجود بالجود أو تراه",
+        "ajuz": "ليس بنزر ولا لبيث"
+      },
+      {
+        "sadr": "طال المدى فاعتراك عتب",
+        "ajuz": "من صادق الود مستريث"
+      },
+      {
+        "sadr": "خذها فما نالها بنقص",
+        "ajuz": "موت جرير ولا البعيث"
+      },
+      {
+        "sadr": "وكن كريما تجد كريما",
+        "ajuz": "في مدحه يا أبا المغيث"
+      }
+    ],
+    "translationEn": "The turning of separation does not linger long — it stirs up what is not worth stirring. Winds blew for our loved ones that are neither still nor sluggish. The beauty of full-moon nights, eyes of sand-dunes, and gazelles of fertile lowlands. Between anklets and bracelets and arm-rings and earrings. Every full-figured woman draped in a robe of her luxuriant flowing hair. Like the slender young gazelle, its fear drove it to a lactating ewe. The she-camels pastured in my yard at 'Uwayrida among the tamarisk bushes and rough ground. I pressed them across a desert of obscure horizons, torn open on plain and marshy ground.",
+    "vocabularyHighlights": [
+      {
+        "word": "صرف النوى",
+        "meaning": "the turning of separation"
+      },
+      {
+        "word": "المكيث",
+        "meaning": "one who lingers, stays long"
+      },
+      {
+        "word": "ينبث",
+        "meaning": "stirs up, unearths"
+      },
+      {
+        "word": "رعبوبة",
+        "meaning": "full-figured, plump woman"
+      },
+      {
+        "word": "الرشإ",
+        "meaning": "young gazelle"
+      },
+      {
+        "word": "العوهج",
+        "meaning": "a graceful female antelope"
+      },
+      {
+        "word": "ملجأ الخائف",
+        "meaning": "refuge of the fearful"
+      },
+      {
+        "word": "الكريث",
+        "meaning": "the distressed, the worried"
+      }
+    ],
+    "context": "A 28-verse poem in the makhlu' al-basit meter addressed to Abu al-Mughith (Musa). After an elaborate nasib with desert journey imagery, Abu Tammam praises the patron's inexhaustible generosity, likening him to a deadly serpent for enemies but a refuge for the distressed."
+  },
+  {
+    "id": "abu-tammam-83",
+    "poetId": "abu-tammam",
+    "titleAr": "أزعمت أن الربع ليس يتيم",
+    "titleEn": "Do You Claim the Encampment Is Not Orphaned",
+    "genre": "madih",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "أزعمت أن الربع ليس يتيم",
+        "ajuz": "والدمع في دمن عفت لا يسجم !"
+      },
+      {
+        "sadr": "يا موسم اللذات غالتك النوى",
+        "ajuz": "بعدي فربعك للصبابة موسم !"
+      },
+      {
+        "sadr": "ولقد أراك من الكواعب كاسيا",
+        "ajuz": "فاليوم أنت من الكواعب محرم"
+      },
+      {
+        "sadr": "لحظت بشاشتك الحوادث لحظة",
+        "ajuz": "مازلت أحلم أنها لا تسلم"
+      },
+      {
+        "sadr": "أين التي كانت إذا شاءت جرى",
+        "ajuz": "من مقلتي دمع يعصفره دم"
+      },
+      {
+        "sadr": "بيضاء تسري في الظلام فيكتسي",
+        "ajuz": "نورا وتسرب في الضياء فيظلم"
+      },
+      {
+        "sadr": "يستعذب المقدام فيها حتفه",
+        "ajuz": "فتراه وهو المستميت المعلم"
+      },
+      {
+        "sadr": "مقسومة في الحسن بل هي غاية",
+        "ajuz": "فالحسن فيها والجمال مقسم"
+      },
+      {
+        "sadr": "ملطومة بالورد أطلق طرفها",
+        "ajuz": "في الخلق فهو مع المنون محكم"
+      },
+      {
+        "sadr": "مذلت ولم تكتم جفاءك تكتم",
+        "ajuz": "إن الذي يمق المذول لمعرم"
+      },
+      {
+        "sadr": "إن كان وصلك آض وهو محرم",
+        "ajuz": "منك الغداة فما السلو محرم"
+      },
+      {
+        "sadr": "عزم يفل الجيش وهو عرمرم",
+        "ajuz": "ويرد ظفر الشوق وهو مقلم"
+      },
+      {
+        "sadr": "وفتى إذا ظلم الزمان فما يرى",
+        "ajuz": "إلا إلى عزماته يتظلم !"
+      },
+      {
+        "sadr": "لولا ابن حسان المرجى لم يكن",
+        "ajuz": "بالرقة البيضاء لي متلوم"
+      },
+      {
+        "sadr": "شافهت أسباب الغنى بمحمد",
+        "ajuz": "حتى ظننت بأنها تتكلم"
+      },
+      {
+        "sadr": "قد تيمت منه القوافي بامرئ",
+        "ajuz": "مازال بالمعروف وهو متيم"
+      },
+      {
+        "sadr": "يحلو ويعذب إن زمان ناله",
+        "ajuz": "بغنى وتلتاث الخطوب فيكرم"
+      },
+      {
+        "sadr": "تلقاه إن طرق الزمان بمغرم",
+        "ajuz": "شرها إليه كأنما هو مغنم"
+      },
+      {
+        "sadr": "لا يحسب الإقلال عدما بل يرى",
+        "ajuz": "أن المقل من المروءة معدم"
+      },
+      {
+        "sadr": "مازال وهو إذا الرجال تواضحوا",
+        "ajuz": "عند المقدم حيث كان يقدم"
+      },
+      {
+        "sadr": "يحتل في سعد بن ضبة في ذرا",
+        "ajuz": "عادية قد كللتها الأنجم"
+      },
+      {
+        "sadr": "قوم يمج دما على أرماحهم",
+        "ajuz": "يوم الوغى المستبسل المستلئم"
+      },
+      {
+        "sadr": "يعلون حتى ما يشك عدوهم",
+        "ajuz": "أن المنايا الحمر حي منهم"
+      },
+      {
+        "sadr": "لو كان في الدنيا قبيل آخر",
+        "ajuz": "بإزائهم ماكان فيهم مصرم"
+      },
+      {
+        "sadr": "ولأنت أوضح فيهم من غرة",
+        "ajuz": "شدخت وفاز بها الجواد الأدهم"
+      },
+      {
+        "sadr": "تجري على آثارهم في مسلك",
+        "ajuz": "ماإن له إلا المكارم معلم"
+      },
+      {
+        "sadr": "لم ينا عني مطلب ومحمد",
+        "ajuz": "عون عليه أو إليه سلم"
+      },
+      {
+        "sadr": "لم يذعر الأيام عنك كمرتد",
+        "ajuz": "بالعقل يفهم عن أخيه ويفهم"
+      },
+      {
+        "sadr": "ممن إذا ما الشعر صافح سمعه",
+        "ajuz": "يوما رأيت ضميره يتبسم"
+      }
+    ],
+    "translationEn": "Do you claim the encampment is not orphaned and that tears at the effaced traces do not flow? O season of pleasures, separation has devastated you after me — your ruins are now a season of longing! I saw you once clothed in full-figured beauties; today you are forbidden their presence. The vicissitudes cast a glance at your radiance with a gaze I always feared would not leave it unscathed. Where is she who, when she wished, would cause a flow of tears mixed with blood from my eyelid? White she was, walking in darkness, so that darkness would be clothed in light, then walking in light so it would be darkened. The bold man finds his doom delectable in her, as you see him eager for death and marked for battle.",
+    "vocabularyHighlights": [
+      {
+        "word": "يتيم",
+        "meaning": "orphaned, desolate"
+      },
+      {
+        "word": "الربع",
+        "meaning": "the encampment, the dwelling"
+      },
+      {
+        "word": "يسجم",
+        "meaning": "flows freely (tears)"
+      },
+      {
+        "word": "الكواعب",
+        "meaning": "full-bosomed beauties, young women"
+      },
+      {
+        "word": "دمن",
+        "meaning": "traces of an encampment"
+      },
+      {
+        "word": "ملطومة",
+        "meaning": "touched with color, rosy-cheeked"
+      },
+      {
+        "word": "ابن حسان",
+        "meaning": "son of Hassan (patron's name)"
+      },
+      {
+        "word": "المتيم",
+        "meaning": "the one enslaved by love"
+      }
+    ],
+    "context": "A 29-verse panegyric in the kamil meter addressed to Muhammad ibn Hassan of the Raqqah region. After an amatory nasib describing the lost beauty and the grief of separation, Abu Tammam praises his patron as one who rescues poets from poverty through his magnanimity."
+  },
+  {
+    "id": "abu-tammam-84",
+    "poetId": "abu-tammam",
+    "titleAr": "هذا كتاب فتى له همم",
+    "titleEn": "This Is the Letter of a Youth Whose Ambitions Are High",
+    "genre": "madih",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "هذا كتاب فتى له همم",
+        "ajuz": "ساقت إليك رجاءه هممه"
+      },
+      {
+        "sadr": "غل الزمان يدي عزيمته",
+        "ajuz": "وهوت به من حالق قدمه"
+      },
+      {
+        "sadr": "وتواكلته ذوو قرابته",
+        "ajuz": "وطواه عن أكفائه عدمه"
+      },
+      {
+        "sadr": "افضى إليك بسره قلم",
+        "ajuz": "لو كان يعقله بكى قلمه"
+      }
+    ],
+    "translationEn": "This is the letter of a youth whose ambitions drove his hope to your door. Time has shackled the hands of his resolution, and his past standing has tumbled him from a high precipice. His relatives have abandoned him to his fate, and his destitution has hidden him from his peers. A pen has conveyed his secret to you — if it could understand, its own nib would have wept.",
+    "vocabularyHighlights": [
+      {
+        "word": "همم",
+        "meaning": "ambitions, high aspirations"
+      },
+      {
+        "word": "عزيمة",
+        "meaning": "resolution, firm intention"
+      },
+      {
+        "word": "تواكلته",
+        "meaning": "his relatives abandoned him, left him to fate"
+      },
+      {
+        "word": "عدمه",
+        "meaning": "his destitution, poverty"
+      },
+      {
+        "word": "أكفاء",
+        "meaning": "peers, equals"
+      },
+      {
+        "word": "قلم",
+        "meaning": "pen, reed pen"
+      }
+    ],
+    "context": "A brief 4-verse intermediary poem in the kamil meter — likely written on behalf of a petitioner seeking patronage. Abu Tammam's skill in composing such epistolary poems made him valuable to those seeking to approach powerful patrons."
+  },
+  {
+    "id": "abu-tammam-85",
+    "poetId": "abu-tammam",
+    "titleAr": "أبا سعيد وما وصفي بمتهم",
+    "titleEn": "Abu Sa'id, My Praise Is Not to Be Doubted",
+    "genre": "madih",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "أبا سعيد وما وصفي بمتهم",
+        "ajuz": "على الثناء ولا شكري بمخترم"
+      },
+      {
+        "sadr": "لئن جحدتك ما أوليت من حسن",
+        "ajuz": "إن لفي اللؤم أولى منك في الكرم"
+      },
+      {
+        "sadr": "أنسى ابتسامك والألوان كاسفة",
+        "ajuz": "تبسم الصبح في داج من الظلم"
+      },
+      {
+        "sadr": "كذا أخوك الندى لو أنه بشر",
+        "ajuz": "لم يلف طرفة عين غير مبتسم"
+      },
+      {
+        "sadr": "رددت رونق وجهي في صحيفته",
+        "ajuz": "رد الصقال بماء الصارم الخذم"
+      },
+      {
+        "sadr": "وما أبالي وخير القول أصدقه",
+        "ajuz": "حقنت لي ماء وجهي أو حقنت دمي"
+      }
+    ],
+    "translationEn": "Abu Sa'id, my description is not to be doubted in praise, nor is my gratitude to be cut short. If I denied you the good you have bestowed, I would be more rightly placed among the ignoble than you among the noble. I forget your smile while colors are dim — the smile of dawn in the thick of darkness. Thus is your brother generosity: were it a person, it would never be found not smiling for even a moment. You restored the sheen of my face in its page, as the polishing restores a sharp, gleaming sword with water. I do not care — and the best of words is the most truthful — whether you preserved my honor or my very blood.",
+    "vocabularyHighlights": [
+      {
+        "word": "وصفي",
+        "meaning": "my description, my praise"
+      },
+      {
+        "word": "مخترم",
+        "meaning": "cut short, interrupted"
+      },
+      {
+        "word": "اللؤم",
+        "meaning": "ignoble character, baseness"
+      },
+      {
+        "word": "الألوان",
+        "meaning": "colors (here: of dawn)"
+      },
+      {
+        "word": "الصقال",
+        "meaning": "polishing, burnishing"
+      },
+      {
+        "word": "الصارم",
+        "meaning": "sharp sword"
+      },
+      {
+        "word": "الخذم",
+        "meaning": "sharp-edged, cutting"
+      },
+      {
+        "word": "ماء الوجه",
+        "meaning": "honor (lit. water of the face)"
+      }
+    ],
+    "context": "A 6-verse poem in al-basit meter expressing Abu Tammam's sincere gratitude to a patron named Abu Sa'id who restored his honor. The poem unusually stresses the truth of the poet's praise rather than its artifice — a personal touch that distinguishes it from conventional panegyric."
+  },
+  {
+    "id": "abu-tammam-86",
+    "poetId": "abu-tammam",
+    "titleAr": "قل للأمير لقد قلدتني نعما",
+    "titleEn": "Tell the Prince You Have Bestowed Favors upon Me",
+    "genre": "madih",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "قل للأمير لقد قلدتني نعما",
+        "ajuz": "فت الثناء بها ماهبت الريح"
+      },
+      {
+        "sadr": "يا مانحي الجاه إذ ضن الجواد به",
+        "ajuz": "شكريك ما عشت للأسماع ممنوح"
+      },
+      {
+        "sadr": "لم يلبس الله نوحا فضل نعمته",
+        "ajuz": "إلا لما بثه من شكره نوح"
+      },
+      {
+        "sadr": "ذمت سماحته الدنيا إليه ، فما",
+        "ajuz": "يمسي ويصبح إلا وهو ممدوح"
+      },
+      {
+        "sadr": "وللأمور إذا الآراء ضقن بها",
+        "ajuz": "يوم التجادل من آرائه فيح"
+      },
+      {
+        "sadr": "لم يغلق الله باب العرف عن أحد",
+        "ajuz": "باب الأمير له المألوف مفتوح"
+      },
+      {
+        "sadr": "لن يعدم المجد من كانت أوائله",
+        "ajuz": "من آل كسرى البهاليل المراجيح"
+      },
+      {
+        "sadr": "موري الفؤاد ، فلو كانت بعزمته",
+        "ajuz": "تذكى المصابيح لم تخب المصابيح"
+      },
+      {
+        "sadr": "كأنه لاجتماع الروح فيه له",
+        "ajuz": "من كل جارحة في جسمه روح"
+      }
+    ],
+    "translationEn": "Tell the prince: you have bestowed great favors on me — my praise of them will last as long as the wind blows! O you who granted me prestige when the generous withheld it — my gratitude to you shall be gifted to all ears as long as I live. God did not clothe Noah in the gift of His grace except that what Noah spread of gratitude was worthy of it. The world blamed his generosity toward him, and he spends morning and evening only to be praised. For every affair, when views narrow upon it, there is an open vista from his counsel on the day of argument.",
+    "vocabularyHighlights": [
+      {
+        "word": "قلدتني",
+        "meaning": "you bestowed on me, adorned me with"
+      },
+      {
+        "word": "الثناء",
+        "meaning": "praise, eulogy"
+      },
+      {
+        "word": "الجاه",
+        "meaning": "prestige, rank, influence"
+      },
+      {
+        "word": "نوح",
+        "meaning": "Noah (the prophet)"
+      },
+      {
+        "word": "سماحته",
+        "meaning": "his generosity, liberality"
+      },
+      {
+        "word": "ممدوح",
+        "meaning": "praised, lauded"
+      },
+      {
+        "word": "موري الفؤاد",
+        "meaning": "the one who kindles hearts"
+      },
+      {
+        "word": "المصابيح",
+        "meaning": "lamps, lights"
+      }
+    ],
+    "context": "A 9-verse poem in al-basit meter praising an unnamed prince for granting Abu Tammam social prestige. The poet invokes the Prophet Noah as an archetype of gratitude, suggesting that the prince's generosity, like divine grace, demands perpetual acknowledgment."
+  },
+  {
+    "id": "abu-tammam-87",
+    "poetId": "abu-tammam",
+    "titleAr": "متى كان سمعي خلسة للوائم",
+    "titleEn": "When Has My Hearing Been a Prize for Blamers",
+    "genre": "fakhr",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "متى كان سمعي خلسة للوائم",
+        "ajuz": "وكيف صغت للعاذلات عزائمي ؟ !"
+      },
+      {
+        "sadr": "إذا المرء أبقى بين رأييه ثلمة",
+        "ajuz": "تسد بتعنيف فليس بحازم"
+      },
+      {
+        "sadr": "سأوطئ أهل العسكر الآن عسكرا",
+        "ajuz": "من الذل محاء لتلك المعالم"
+      },
+      {
+        "sadr": "فإني ما حوزفت في طلب العلى",
+        "ajuz": "ولكنكم حورفتم في المكارم"
+      },
+      {
+        "sadr": "رويدا يقر الأمر في مستقره",
+        "ajuz": "فما المجد عما تفعلون بنائم"
+      },
+      {
+        "sadr": "ومالي من ذنب إلى الرزق خلته",
+        "ajuz": "سوى أملي إياكم للعظائم"
+      },
+      {
+        "sadr": "بعين العلى أصبحتم بين هادم",
+        "ajuz": "دعائمها الطولى وبان كهادم"
+      },
+      {
+        "sadr": "لعمر النوى لا زلت بعد محمد",
+        "ajuz": "مسحا عليه بالدموع السواجم"
+      },
+      {
+        "sadr": "فتى فيصلي العزم يعلم أنه",
+        "ajuz": "نشا رأيه بين السيوف الصوارم"
+      },
+      {
+        "sadr": "إذا سار فيه الظن كان بكل ما",
+        "ajuz": "يؤمل من جدواه أول قادم"
+      },
+      {
+        "sadr": "أسأءت يداه عشرة المال بالندى",
+        "ajuz": "وأحسنتا فينا خلافة حاتم"
+      }
+    ],
+    "translationEn": "When has my hearing been a prize for blamers, and how have the reproachers bent my resolutions? If a man leaves a gap between his two opinions that blame can fill, he is no wise decision-maker. I shall tread upon the army of the garrison with an army of humiliation, erasing those landmarks! For I have not been circumvented in seeking high honor — it is you who have been circumvented in noble deeds. Wait — let the matter settle in its proper place, for glory is not asleep regarding what you do. My only fault against fortune — or so I imagined — was my hope in you for great undertakings. In the eyes of high ambition, you dwell between a destroyer of its highest pillars and one who resembles such a destroyer.",
+    "vocabularyHighlights": [
+      {
+        "word": "خلسة",
+        "meaning": "stolen opportunity, prize seized stealthily"
+      },
+      {
+        "word": "اللوائم",
+        "meaning": "blaming women, reproachers"
+      },
+      {
+        "word": "العزائم",
+        "meaning": "resolutions, determinations"
+      },
+      {
+        "word": "حازم",
+        "meaning": "wise, resolute, decisive"
+      },
+      {
+        "word": "العسكر",
+        "meaning": "the army, the garrison"
+      },
+      {
+        "word": "المعالم",
+        "meaning": "landmarks, marks of distinction"
+      },
+      {
+        "word": "حورفتم",
+        "meaning": "you were circumvented, deprived of your share"
+      },
+      {
+        "word": "السواجم",
+        "meaning": "flowing freely (tears)"
+      }
+    ],
+    "context": "An 11-verse poem in al-tawil meter expressing Abu Tammam's self-defense (fakhr) against patrons who failed him. This poem is unusually direct in criticizing unnamed patrons for their failure to properly reward the poet, while celebrating his own poetic superiority."
+  },
+  {
+    "id": "abu-tammam-88",
+    "poetId": "abu-tammam",
+    "titleAr": "إن عهدا لو تعلمان ذميما",
+    "titleEn": "This Covenant, Were You to Know, Is a Reproach",
+    "genre": "madih",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "إن عهدا لو تعلمان ذميما",
+        "ajuz": "أن تناما عن ليلتي أو تنيما"
+      },
+      {
+        "sadr": "كنت أرعى البدور حتى إذا ما",
+        "ajuz": "فارقوني أمسيت أرعى النجوما"
+      },
+      {
+        "sadr": "قد مررنا بالدار وهي خلاء",
+        "ajuz": "وبكينا طلولها والرسوما"
+      },
+      {
+        "sadr": "وسألنا ربوعها فانصرفنا",
+        "ajuz": "بسقام وما سألنا حكيما"
+      },
+      {
+        "sadr": "أصبحت روضة الشباب هشيما",
+        "ajuz": "وغدت ريحه البليل سموما"
+      },
+      {
+        "sadr": "شعلة في المفارق استودعتني",
+        "ajuz": "في صميم الفؤاد ثكلا صميما"
+      },
+      {
+        "sadr": "تستثير الهموم ما اكتن منها",
+        "ajuz": "صعدا وهي تستثير الهموما"
+      },
+      {
+        "sadr": "غرة بهمة ألا إنما كن",
+        "ajuz": "ت أغرا أيام كنت بهيما"
+      },
+      {
+        "sadr": "دقة في الحياة تدعى جلالا",
+        "ajuz": "مثلما سمي اللديغ سليما"
+      },
+      {
+        "sadr": "حلمتني زعمتم وأراني",
+        "ajuz": "قبل هذا التحليم كنت حليما"
+      },
+      {
+        "sadr": "من رأى بارقا سرى صامتيا",
+        "ajuz": "جاد نجدا سهولها والحزوما ؟"
+      },
+      {
+        "sadr": "يوسفيا محمديا حفيا",
+        "ajuz": "بذليل الثرى رؤوفا رحيما"
+      },
+      {
+        "sadr": "فسقى طيئا وكلبا ودودا",
+        "ajuz": "ن وقيسا ووائلا وتميما"
+      },
+      {
+        "sadr": "لن ينال العلى خصوصا من الفت",
+        "ajuz": "يان من لم يكن نداه عموما"
+      },
+      {
+        "sadr": "نشأت من يمينه نفخات",
+        "ajuz": "ماعليها ألا تكون عيوما"
+      },
+      {
+        "sadr": "ألبست نجدا الصنائع لا شي",
+        "ajuz": "حا ولا جنبة ولا قيصوما"
+      },
+      {
+        "sadr": "كرمت راحتاه في أزمات",
+        "ajuz": "كان صوب الغمام فيها لئيما"
+      },
+      {
+        "sadr": "لا رزيناه ما ألذ إذا هز",
+        "ajuz": "وأندى كفا وأكرم خيما !"
+      },
+      {
+        "sadr": "وجه العيس وهي عيس إلى الله",
+        "ajuz": "فآلت مثل القسي حطيما"
+      },
+      {
+        "sadr": "وأحق الأقوام أن يقضي الدي",
+        "ajuz": "ن امرؤ كان للإله غريما"
+      },
+      {
+        "sadr": "في طريق قد كان قبل شراكا",
+        "ajuz": "ثم لما علاه صار أديما"
+      },
+      {
+        "sadr": "لم يحدث نفسا بمكة حتى",
+        "ajuz": "جازت الكهف خيله والرقيما"
+      },
+      {
+        "sadr": "حرم الدين زاره بعد أن لم",
+        "ajuz": "يبق للكفر والضلال حريما"
+      },
+      {
+        "sadr": "حين عفى مقام إبليس سامى",
+        "ajuz": "بالمطايا مقام إبراهيما"
+      },
+      {
+        "sadr": "حطم الشرك حطمة ذكرته",
+        "ajuz": "في دجى الليل زمزما والحطيما"
+      },
+      {
+        "sadr": "فاض فيض الآتي حتى غدا المو",
+        "ajuz": "سم من فضل سيبه موسوما"
+      },
+      {
+        "sadr": "قد بلونا أبا سعيد حديثا",
+        "ajuz": "وبلونا أبا سعيد قديما"
+      },
+      {
+        "sadr": "ووردناه ساحلا وقليبا",
+        "ajuz": "ورعيناه بارضا وجميما"
+      },
+      {
+        "sadr": "فعلمنا أن ليس إلا بشق الن",
+        "ajuz": "فس صار الكريم يدعى كريما"
+      },
+      {
+        "sadr": "طلب المجد يورث المرء خبلا",
+        "ajuz": "وهموما تقضقض الحيزوما"
+      },
+      {
+        "sadr": "فتراه وهو الخلي شجيا",
+        "ajuz": "وتراه وهو الصحيح سقيما"
+      },
+      {
+        "sadr": "تجد المجد في البرية منثو",
+        "ajuz": "را وتلقاه عنده منظوما"
+      },
+      {
+        "sadr": "تيمته العلى فليس يعد ال",
+        "ajuz": "بؤس بؤسا ولا النعيم نعيما"
+      },
+      {
+        "sadr": "وتؤام الندى يري الكرم الفا",
+        "ajuz": "رد في أكثر المواطن لوما"
+      },
+      {
+        "sadr": "كلما زرته وجدت لديه",
+        "ajuz": "نسبا ظاعنا ومجدا مقيما"
+      },
+      {
+        "sadr": "أجدر الناس أن يرى وهو مغبو",
+        "ajuz": "ن وهيهات أن يرى مظلوما"
+      },
+      {
+        "sadr": "كل حال تلقاه فيها ولكن",
+        "ajuz": "ليس يلقى في حالة مذموما"
+      },
+      {
+        "sadr": "وإذا كان عارض الموت سحا",
+        "ajuz": "خضلا بالردى أجش هزيما"
+      },
+      {
+        "sadr": "في ضرام من الوغى واشتعال",
+        "ajuz": "تحسب الجو منهما مهموما"
+      },
+      {
+        "sadr": "واكتست ضمر الجياد المذاكي",
+        "ajuz": "من لباس الهيجا دما وحميما"
+      },
+      {
+        "sadr": "في مكر تلوكها الحرب فيه",
+        "ajuz": "وهي مقورة تلوك الشكيما"
+      },
+      {
+        "sadr": "قمت فيها بحجة الله لما",
+        "ajuz": "أن جعلت السيوف عنك خصوما"
+      },
+      {
+        "sadr": "فتح الله في اللواء لك الخا",
+        "ajuz": "فق يوم الاثنين فتحا عظيما"
+      },
+      {
+        "sadr": "حومته ريح الجنوب ولن يح",
+        "ajuz": "مد صيد الشاهين حتى يحوما"
+      },
+      {
+        "sadr": "في غداة مهضوبة كان فيها",
+        "ajuz": "ناضر الروض للسحاب نديما"
+      },
+      {
+        "sadr": "لينت مزنها فكانت رهاما",
+        "ajuz": "وسجت ريحها فكانت نسيما"
+      },
+      {
+        "sadr": "نعمة الله فيك لا أسأل الل",
+        "ajuz": "ه إليها نعمى سوى أن تدوما"
+      },
+      {
+        "sadr": "ولو أني فعلت كنت كمن يس",
+        "ajuz": "أله وهو قائم أن يقوما"
+      }
+    ],
+    "translationEn": "This covenant, were you to know, would be a reproach — that you two should sleep through my night or lull it to sleep. I used to watch over the full moons, but when they parted from me I spent my evenings watching the stars. We passed by the house when it was empty and wept over its ruins and faded traces. We asked its encampments but turned away with sickness — we asked no wise man. The meadow of youth has become dried stubble and its fresh breeze turned to simoon. A spark at the parting lit within my very breast an orphaned grief deep in my core.",
+    "vocabularyHighlights": [
+      {
+        "word": "عهدا",
+        "meaning": "a covenant, a bond"
+      },
+      {
+        "word": "ذميما",
+        "meaning": "blameworthy, reproachful"
+      },
+      {
+        "word": "البدور",
+        "meaning": "full moons"
+      },
+      {
+        "word": "النجوما",
+        "meaning": "the stars"
+      },
+      {
+        "word": "الطلول",
+        "meaning": "ruins, traces"
+      },
+      {
+        "word": "الرسوما",
+        "meaning": "faded traces, marks"
+      },
+      {
+        "word": "هشيما",
+        "meaning": "dried stubble, withered vegetation"
+      },
+      {
+        "word": "الصميم",
+        "meaning": "the core, the very heart"
+      }
+    ],
+    "context": "A 48-verse poem in al-khafif meter combining a personal nasib with praise of Abu Sa'id (a major Abbasid-era patron). The poem recounts a pilgrimage journey in vivid detail, praising the patron's battle victories against the Byzantines and celebrating his piety."
+  },
+  {
+    "id": "abu-tammam-89",
+    "poetId": "abu-tammam",
+    "titleAr": "أهد الدموع إلى دار وما صحها",
+    "titleEn": "Guide the Tears to a Dwelling Though It Cannot Be Cured",
+    "genre": "madih",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "أهد الدموع إلى دار وما صحها",
+        "ajuz": "فللمنازل سهم في سوافحها"
+      },
+      {
+        "sadr": "أشلى الزمان عليها كل حادثة",
+        "ajuz": "وفرقة تظلم الدنيا لنازحها"
+      },
+      {
+        "sadr": "حلفت حقا ، لقد قلت ملاحتها",
+        "ajuz": "بمن تخرم عنها من ملائحها"
+      },
+      {
+        "sadr": "إن تبرحا وتباريحي على كبد",
+        "ajuz": "ما تستقر ، فدمعي غير بارحها"
+      },
+      {
+        "sadr": "دار أجل الهوى عن أن ألم بها",
+        "ajuz": "في الركب إلا وعيني من منائحها"
+      },
+      {
+        "sadr": "إذا وصفت لنفسي هجرها جمحت",
+        "ajuz": "ودائع الشوق في أقصى جوانحها"
+      },
+      {
+        "sadr": "وإن خطبت إليها صبرها جعلت",
+        "ajuz": "جراحة الوجد تدمى في جوارحها"
+      },
+      {
+        "sadr": "ما للفيافي وتلك العيس قد خزمت",
+        "ajuz": "فلم تظلم إليها من صحاصحها ؟"
+      },
+      {
+        "sadr": "فتل إذا ابتكر الغادي على أمل",
+        "ajuz": "خلفنه يزجر الحسرى برائحها"
+      },
+      {
+        "sadr": "تصغي إلى الحدو إصغاء القيان إلى",
+        "ajuz": "نغم إذا استغربته من مطارحها"
+      },
+      {
+        "sadr": "حتى تؤوب كأن الطلح معترض",
+        "ajuz": "بشوكه في المآقي من طلائحها"
+      },
+      {
+        "sadr": "إلى الأكارم أفعالا ومنتسبا",
+        "ajuz": "لم يرتع الذم ، يوما ، في طوائحها"
+      },
+      {
+        "sadr": "آساس مكة والدنيا بعذرتها",
+        "ajuz": "لم ينزل الشيب في مثنى مسائحها"
+      },
+      {
+        "sadr": "قوم هم أمنوا قبل الحمام بها",
+        "ajuz": "من بين ساجعها الباكي ونائحها"
+      },
+      {
+        "sadr": "كانوا الجبال لها قبل الجبال وهم",
+        "ajuz": "سالوا ولم يك سيل في أباطحها"
+      },
+      {
+        "sadr": "والفضل إن شمل الإظلام ساحتها",
+        "ajuz": "مصباحها المتجلي من مصابحها"
+      },
+      {
+        "sadr": "من خيرها مغرسا فيها ووسعها",
+        "ajuz": "شعبا تحط إليه عير مادحها"
+      },
+      {
+        "sadr": "لا تفت تزجي فتي العيس ساهمة",
+        "ajuz": "إلى فتى سنها منها وقارحها"
+      },
+      {
+        "sadr": "حتى تناول تلك القوس باريها",
+        "ajuz": "حقا وتلقي زنادا عند قادحها"
+      },
+      {
+        "sadr": "كأن صاعقة في جوف بارقة",
+        "ajuz": "زئيره واغلا في أذن نابحها"
+      },
+      {
+        "sadr": "سنان موت ذعاف من أسنتها",
+        "ajuz": "صفيح تتحامى من صفائحها"
+      },
+      {
+        "sadr": "ذر تدرإ وإباء في الأمور وهل",
+        "ajuz": "جواهر الطير إلا في جوارحها !"
+      },
+      {
+        "sadr": "هشما لأنف المسامي حينه فسما",
+        "ajuz": "لهاشم ، فضلها فيها ابن صالحها"
+      },
+      {
+        "sadr": "ياحاسد الفضل لا أعرفك محتشدا",
+        "ajuz": "لغمرة أنت عندي غير سابحها"
+      },
+      {
+        "sadr": "لكوكب نازح من كف لامسه",
+        "ajuz": "وصخرة وسمها في قرن ناطحها"
+      },
+      {
+        "sadr": "ولاتقل إننا من نبعة فلقد",
+        "ajuz": "بانت نجائب إبل من نواضحها"
+      },
+      {
+        "sadr": "سميدع يتغطى من صنائعه",
+        "ajuz": "كما تغطى رجال من فضائحها"
+      },
+      {
+        "sadr": "وفارة المسك لا يخفي تضوعها",
+        "ajuz": "طول الحجاب ولا يزري بفائحها"
+      },
+      {
+        "sadr": "لله درك في الخود التي طمحت",
+        "ajuz": "ما كان أرقاك يا هذا لطامحها"
+      },
+      {
+        "sadr": "نقية الجيب لا ليل بمدخلها",
+        "ajuz": "في باب عيب ولاصبح بفاضحها"
+      },
+      {
+        "sadr": "أخذتها لبوة العريس ملبدة",
+        "ajuz": "في الغاب والنجم أدنى من مناكحها"
+      },
+      {
+        "sadr": "لو أن غير أبي الأشبال صافحها",
+        "ajuz": "شكت بمخلبها كفي مصافحها"
+      },
+      {
+        "sadr": "جاءت بصقرين غطريفين لو وزنا",
+        "ajuz": "بهضب رضوى إذا مالا براجحها"
+      },
+      {
+        "sadr": "بهاشميين بدريين إن لحجت",
+        "ajuz": "مغالق الدهر كانا من مفاتحها"
+      },
+      {
+        "sadr": "نصلان قد أثبتا في قلب شائنها",
+        "ajuz": "نارين أوقدتا في كشح كاشحها"
+      },
+      {
+        "sadr": "وكذب الله أقولا قرنت بها",
+        "ajuz": "بحجة تسرج الدنيا بواضحها"
+      },
+      {
+        "sadr": "مضيئة نطقت فينا كما نطقت",
+        "ajuz": "ذبيحة المصطفى موسى لذابحها"
+      },
+      {
+        "sadr": "لئن قلبيك جاشت بالسماحة لي",
+        "ajuz": "لقد وصلت بشكري حبل ماتحها"
+      },
+      {
+        "sadr": "وقد رأتني قريش ساحبا رسني",
+        "ajuz": "إليك عن طلقها وجها وكالحها"
+      },
+      {
+        "sadr": "إذا القصائد كانت من مدائحهم",
+        "ajuz": "فأنت لاشك عندي من مدائحها"
+      },
+      {
+        "sadr": "وإن غرائبها أجدبن من بلد",
+        "ajuz": "كانت عطاياك أندى من مسارحها"
+      }
+    ],
+    "translationEn": "Guide the tears to a dwelling though it cannot be healed — the abodes have a share in the flowing tears. Time unleashed every calamity upon it and a parting that darkens the world for the distant one. I swear truthfully: its beauty has diminished through those beauties who departed. Their departure is upon a heart that cannot settle, while my tears do not cease to accompany them. A house too noble for love — I never passed it in the caravan without my eyes becoming its fountain. When I described its abandonment to my soul, it lunged forth, the buried longing in the farthest reaches of my breast. She who, if she were to meet Malik ibn Abi al-Samt, would find the foundations of Mecca and the world in its virgin youth.",
+    "vocabularyHighlights": [
+      {
+        "word": "أهد",
+        "meaning": "guide, send as a gift"
+      },
+      {
+        "word": "سوافحها",
+        "meaning": "its flowing streams (of tears)"
+      },
+      {
+        "word": "نازحها",
+        "meaning": "its distant one, the one far from it"
+      },
+      {
+        "word": "ملائحها",
+        "meaning": "its beauties, lovely ones"
+      },
+      {
+        "word": "البارحها",
+        "meaning": "the one who does not leave it"
+      },
+      {
+        "word": "منائحها",
+        "meaning": "its fountains, sources"
+      },
+      {
+        "word": "الوجد",
+        "meaning": "passionate love, grief"
+      },
+      {
+        "word": "الجوارح",
+        "meaning": "the limbs, the vital organs"
+      }
+    ],
+    "context": "A 41-verse panegyric in al-basit meter with an elaborate atlal nasib leading to praise of a Hashimite patron. Abu Tammam praises the patron's Meccan lineage, connecting him to the sacred foundations of the Ka'ba and celebrating two sons who are described as pillars of the Hashimite family."
+  },
+  {
+    "id": "abu-tammam-90",
+    "poetId": "abu-tammam",
+    "titleAr": "عسى وطن يدنو بهم ولعلما",
+    "titleEn": "May a Homeland Draw Them Near, Perhaps the Days Will Relent",
+    "genre": "madih",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "عسى وطن يدنو بهم ولعلما",
+        "ajuz": "وأن تعتب الأيام فيهم فربما"
+      },
+      {
+        "sadr": "لهم منزل قد كان بالبيض كالمها",
+        "ajuz": "فصيح المغاني ثم أصبح أعجما"
+      },
+      {
+        "sadr": "ورد عيون الناظرين مهانة",
+        "ajuz": "وقد كان مما يرجع الطرف مكرما"
+      },
+      {
+        "sadr": "تبدل غاشيه بريم مسلم",
+        "ajuz": "تردى رداء الحسن طيفا مسلما"
+      },
+      {
+        "sadr": "ومن وشي خد لم ينمنم فرنده",
+        "ajuz": "معالم يذكرن الكتاب المنمنا"
+      },
+      {
+        "sadr": "وبالحلي إن قامت ترنم فوقها",
+        "ajuz": "حماما إذا لاقى حماما ترنما"
+      },
+      {
+        "sadr": "وبالخدلة الساق المخدمة الشوى",
+        "ajuz": "قلائص يتبعن العبنى المخدما"
+      },
+      {
+        "sadr": "سوار إذا قاتلن ممتنع الفلا",
+        "ajuz": "جعلن الشعارين الجديل وشدقما"
+      },
+      {
+        "sadr": "إلى حائط الثغر الذي يورد القنا",
+        "ajuz": "من الثغرة الريا القليب المهدما"
+      },
+      {
+        "sadr": "بسابغ معروف الأمير محمد",
+        "ajuz": "حدا هجمات المال من كان مصرما"
+      },
+      {
+        "sadr": "وحط الندى في الصامتين رحله",
+        "ajuz": "وكان زمانا في عدي بن أخزما"
+      },
+      {
+        "sadr": "يرى العلقم المأدوم بالعز أرية",
+        "ajuz": "يمانية والأري بالضيم علقما"
+      },
+      {
+        "sadr": "إذا فرشوه النصف ماتت شذاته",
+        "ajuz": "وإن رتعوا في ظلمه كان أظلما"
+      },
+      {
+        "sadr": "لقد أصبح الثغران في الدين بعدما",
+        "ajuz": "رأوا سرعان الذل فذا وتوءما"
+      },
+      {
+        "sadr": "وكنت لناشيهم أبا ولكهلهم",
+        "ajuz": "أخا ولذي التقويس والكبرة آبنما"
+      },
+      {
+        "sadr": "ومن كان بالبيض الكواعب مغرما",
+        "ajuz": "فما زلت بالبيض القواضب مغرما"
+      },
+      {
+        "sadr": "ومن تيمت سمر الحسان وأدمها",
+        "ajuz": "فما زلت بالسمر العوالي متيما"
+      },
+      {
+        "sadr": "جدعت لهم أنف الضلال بوقعة",
+        "ajuz": "تخرمت في غمائها من تخرما"
+      },
+      {
+        "sadr": "لئن كان أمسى في عقرقس أجدعا",
+        "ajuz": "لمن قبل ما أمسى بميمذ أخرما"
+      },
+      {
+        "sadr": "ثلمتهم بالمشرفي وقلما",
+        "ajuz": "تثلم عز القوم إلا تهدما"
+      },
+      {
+        "sadr": "قطعت بنان الكفر منهم بميمذ",
+        "ajuz": "وأتبعتها بالروم كفا ومعصما"
+      },
+      {
+        "sadr": "وكم جبل بالبذ منهم هددته",
+        "ajuz": "وغاو غوى حلمته لو تحلما !"
+      },
+      {
+        "sadr": "ومقتبل حلت سيوفك رأسه",
+        "ajuz": "ثغاما ولولا وقعها كان عظلما"
+      },
+      {
+        "sadr": "فلما أبت أحكامه الشيبة اغتدى",
+        "ajuz": "قناك لما قد ضيع الشيب محكما"
+      },
+      {
+        "sadr": "إذا كنت للألوى الأصم مقوما",
+        "ajuz": "فأورد وريديه الأصم المقوما"
+      },
+      {
+        "sadr": "ولما التقى البشران أنقع بشرنا",
+        "ajuz": "لبشرهم حوضا من الصبر مفعما"
+      },
+      {
+        "sadr": "وساعده تحت البيات فوارس",
+        "ajuz": "تخالهم في فحمة الليل أنجما"
+      },
+      {
+        "sadr": "وقد نثرتهم روعة ثم أحدقوا",
+        "ajuz": "به مثلما ألفت عقدا منظما"
+      },
+      {
+        "sadr": "بسافر حر الوجه لو رام سوءة",
+        "ajuz": "لكان بجلبات الدجى متلثما"
+      },
+      {
+        "sadr": "مثلت له تحت الظلام بصورة",
+        "ajuz": "على البعد أقنته الحياء فصمما"
+      },
+      {
+        "sadr": "كيوسف لما أن رأى أمر ربه",
+        "ajuz": "وقد هم أن يعروري الذنب أحجما"
+      },
+      {
+        "sadr": "وقد قال إما أن أغادر بعدها",
+        "ajuz": "عظيما وإما أن أغادر أعظما"
+      },
+      {
+        "sadr": "ونعم الصريخ المستجاش محمد",
+        "ajuz": "إذا حن نوء للمنايا وأرزما"
+      },
+      {
+        "sadr": "أشاح بفتيان الصباح فأكرهوا",
+        "ajuz": "صدور القنا الخطي حتى تحطما"
+      },
+      {
+        "sadr": "هو افترع الفتح الذي سار معرقا",
+        "ajuz": "وأنجد في علو البلاد وأتهما"
+      },
+      {
+        "sadr": "له وقعة كانت سدى فأنرتها",
+        "ajuz": "بأخرى وخير النصر ما كان ملحما"
+      },
+      {
+        "sadr": "هما طرفا الدهر الذي كان عهدنا",
+        "ajuz": "باوله غفلا فقد صار معلما"
+      },
+      {
+        "sadr": "لقد أذكرانا بأس عمرو ومسهر",
+        "ajuz": "وما كان من إسفندياذ ورستما"
+      },
+      {
+        "sadr": "رأى الروم صبحا أنها هي إذ رأوا",
+        "ajuz": "غداة التقى الزحفان انهما هما"
+      },
+      {
+        "sadr": "هزبرا غريف شد من أبهريهما",
+        "ajuz": "ومتنيهما قرب المزعفر منهما"
+      },
+      {
+        "sadr": "فأعطيت يوما لو تمنيت مثله",
+        "ajuz": "لأعجز ريعان المنى والتوهما"
+      },
+      {
+        "sadr": "لحقتهما في ساعة لو تأخرت",
+        "ajuz": "لقد زجر الإسلام طائر أشأما"
+      },
+      {
+        "sadr": "فلو صح قول الجعفرية في الذي",
+        "ajuz": "تنص من الإلهام خلناك ملهما"
+      },
+      {
+        "sadr": "فإن يك نصرانيا النهر آلس",
+        "ajuz": "فقد وجدوا وادي عقرقس مسلما"
+      },
+      {
+        "sadr": "به سبتوا في السبت بالبيض والقنا",
+        "ajuz": "سباتا ثووا منه إلى الحشر نوما"
+      },
+      {
+        "sadr": "فلو لم يقصر بالعروبة لم يزل",
+        "ajuz": "لنا عمر الأيام عيدا وموسما"
+      },
+      {
+        "sadr": "وما ذكر الدهر العبوس بأنه",
+        "ajuz": "له ابن كيوم السبت إلا تبسما"
+      },
+      {
+        "sadr": "ولم يبق في أرض البقلار طائر",
+        "ajuz": "ولا سبع إلا وقد بات مولما"
+      },
+      {
+        "sadr": "ولا رفعوا في ذلك اليوم إثلبا",
+        "ajuz": "ولا حجرا إلا رأوا تحته دما"
+      },
+      {
+        "sadr": "رموا بابن حرب سل فيهم سيوفه",
+        "ajuz": "فكانت لنا عرسا وللشرك مأتما"
+      },
+      {
+        "sadr": "أفظ بني حواء قلبا عليهم",
+        "ajuz": "ولم يقس منه القلب إلا ليرحما"
+      },
+      {
+        "sadr": "إذا أجرموا قنا القنا من دمائهم",
+        "ajuz": "وإن لم يجد جرما عليهم تجرما"
+      },
+      {
+        "sadr": "هو الليث ليث الغاب بأسا ونجدة",
+        "ajuz": "وإن كان أحيا منه وجها وأكرما"
+      },
+      {
+        "sadr": "أشد ازدلافا بين درعين مقبلا",
+        "ajuz": "وأحسن وجها بين بردين محرما"
+      },
+      {
+        "sadr": "جدير إذا ما الخطب طال فلم تنل",
+        "ajuz": "ذؤابته أن يجعل السيف سلما"
+      },
+      {
+        "sadr": "كريم إذا زرناه لم يقتصر بنا",
+        "ajuz": "على الكرم المولود أو يتكرما"
+      },
+      {
+        "sadr": "تجشم حمل الفادحات وقلما",
+        "ajuz": "أقيمت صدور المجد إلا تجشما"
+      },
+      {
+        "sadr": "وكنت أخا الإعدام لسنا لعلة",
+        "ajuz": "فكم بك بعد العدم أغنيت معدما"
+      },
+      {
+        "sadr": "وإذ أنا ممنون علي ومنعم",
+        "ajuz": "فأصبحت من خضراء نعماك منعما"
+      },
+      {
+        "sadr": "ومن خدم الأقوام يرجوا نوالهم",
+        "ajuz": "فإني لم أخدمك إلا لأخدما !"
+      }
+    ],
+    "translationEn": "May a homeland draw them near and perhaps the days will relent and show leniency to them — for sometimes. They have an encampment that was inhabited by beauties like oryx, eloquent of places, but now it has become mute. It returned the eyes of onlookers in humiliation, though it had been what made the gaze return with honor. It exchanged its visitor for a submissive gazelle draped in the robe of beauty as a peaceable phantom. The poet addresses Muhammad ibn Humayd al-Tusi, the Abbasid commander, celebrating his victories over the Byzantine forces and the Khurramites under Babak, one of the most important battles of the Abbasid era.",
+    "vocabularyHighlights": [
+      {
+        "word": "وطن",
+        "meaning": "homeland, native land"
+      },
+      {
+        "word": "يدنو",
+        "meaning": "draws near, approaches"
+      },
+      {
+        "word": "المغاني",
+        "meaning": "the dwelling places, abodes"
+      },
+      {
+        "word": "أعجما",
+        "meaning": "mute, speechless (of ruins)"
+      },
+      {
+        "word": "المذاكي",
+        "meaning": "mature war-horses"
+      },
+      {
+        "word": "الثغر",
+        "meaning": "the frontier, border region"
+      },
+      {
+        "word": "ميمذ",
+        "meaning": "a battle site against the Byzantines"
+      },
+      {
+        "word": "المشرفي",
+        "meaning": "a type of sharp sword"
+      }
+    ],
+    "context": "A 60-verse poem in al-tawil meter, one of Abu Tammam's most celebrated battle odes (hamasiyyat), praising the Abbasid commander Muhammad ibn Humayd al-Tusi. The poem commemorates the defeat of the Byzantine forces and the Khurramite rebellion, demonstrating Abu Tammam's mastery of martial description."
+  },
+  {
+    "id": "abu-tammam-91",
+    "poetId": "abu-tammam",
+    "titleAr": "سقى الله من اهوى على بعد نائه",
+    "titleEn": "May God Water the One I Love Despite Distance",
+    "genre": "ghazal",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "سقى الله من اهوى على بعد نائه",
+        "ajuz": "وإعراضه عني وطول جفائه"
+      },
+      {
+        "sadr": "أبى الله الا أن كلفت بحبه",
+        "ajuz": "فأصبحت فيه راضيا بقضائه"
+      },
+      {
+        "sadr": "وأفردت عيني بالدموع فأصبحت",
+        "ajuz": "وقد غص منها كل جفن بمائه"
+      },
+      {
+        "sadr": "فإن مت من وجد به وصبابة",
+        "ajuz": "فكم من محب مات قبلي بدائه"
+      }
+    ],
+    "translationEn": "May God water the one I love despite his distance, his turning away from me, and his long estrangement! God has willed that I be afflicted with love for him, and so I have come to be content with His decree. I have set apart my eyes for tears so that they have become choked, every lid brimming with their water. If I die of longing and passionate love for him — how many a lover has died before me of his own malady!",
+    "vocabularyHighlights": [
+      {
+        "word": "سقى الله",
+        "meaning": "may God water/shower blessings upon"
+      },
+      {
+        "word": "نائه",
+        "meaning": "his distance, his being far away"
+      },
+      {
+        "word": "الإعراض",
+        "meaning": "turning away, aversion"
+      },
+      {
+        "word": "الجفاء",
+        "meaning": "estrangement, unkindness"
+      },
+      {
+        "word": "كلفت",
+        "meaning": "I was afflicted with, burdened by love"
+      },
+      {
+        "word": "قضائه",
+        "meaning": "His (God's) decree"
+      },
+      {
+        "word": "وجد",
+        "meaning": "longing, passionate grief"
+      },
+      {
+        "word": "صبابة",
+        "meaning": "ardent love, passion"
+      }
+    ],
+    "context": "A 4-verse ghazal in al-tawil meter expressing the poet's unrequited love and acceptance of his passion as divinely decreed fate. This poem exemplifies the 'Udhriyya strand within Abbasid love poetry — the concept of love as an affliction one must endure with patience and spiritual resignation."
+  },
+  {
+    "id": "abu-tammam-92",
+    "poetId": "abu-tammam",
+    "titleAr": "سعدت غربة النوى بسعاد",
+    "titleEn": "The Exile of Separation Has Become Fortunate Through Su'ad",
+    "genre": "madih",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "سعدت غربة النوى بسعاد",
+        "ajuz": "فهي طوع الإتهام والإنجاد"
+      },
+      {
+        "sadr": "فارقتنا وللمدامع أنوا",
+        "ajuz": "ء سوار على الخدود غواد"
+      },
+      {
+        "sadr": "كل يوم يسفحن دمعا طريفا",
+        "ajuz": "يمترى مزنه بشوق تلاد"
+      },
+      {
+        "sadr": "واقعا بالخدود والحر منه",
+        "ajuz": "واقع بالقلوب والأكباد"
+      },
+      {
+        "sadr": "وعلى العيس خرد يتبسم",
+        "ajuz": "ن عن الأشنب الشتيت البراد"
+      },
+      {
+        "sadr": "كان شوك السيال حسنا فأمسى",
+        "ajuz": "دونه للفراق شوك القتاد"
+      },
+      {
+        "sadr": "شاب رأسي ، وما رأيت مشيب الرأ",
+        "ajuz": "س إلا من فضل شيب الفؤاد"
+      },
+      {
+        "sadr": "وكذاك القلوب في كل بؤس",
+        "ajuz": "ونعيم طلائع الأجساد"
+      },
+      {
+        "sadr": "طال إنكاري البياض وإن عمر",
+        "ajuz": "ت حينا ، أنكرت لون السواد"
+      },
+      {
+        "sadr": "نال رأسي من ثغرة الهم مالم",
+        "ajuz": "يستنله من ثغرة الميلاد"
+      },
+      {
+        "sadr": "زارني شخصه بطلعة ضيم",
+        "ajuz": "عمرت مجلسي من العواد"
+      },
+      {
+        "sadr": "يا أبا عبد الله أوريت زندا",
+        "ajuz": "في يدي كان دائم الإصلاد"
+      },
+      {
+        "sadr": "أنت جبت الظلام عن سبل الآ",
+        "ajuz": "ل إذ ضل كل هاد وحاد"
+      },
+      {
+        "sadr": "فكأن المغذ فيها مقيم",
+        "ajuz": "وكأن الساري عليهن غاد"
+      },
+      {
+        "sadr": "وضياء الآمال أفسح في الطر",
+        "ajuz": "ف وفي القلب من ضياء البلاد"
+      },
+      {
+        "sadr": "كان في الأجفلى وفي النقرى عر",
+        "ajuz": "فك نضر العموم نضر الوحاد"
+      },
+      {
+        "sadr": "ومن الحظ في العلى خضرة المعرو",
+        "ajuz": "ف في الجمع منه والإفراد"
+      },
+      {
+        "sadr": "كنت عن غرسه بعيدا فأدنت",
+        "ajuz": "ني إليه يداك عند الجداد"
+      },
+      {
+        "sadr": "ساعة لو تشاء بالنصف فيها",
+        "ajuz": "لمنعت البطاء خصل الجياد"
+      },
+      {
+        "sadr": "لزموا مركز الندى وذراه",
+        "ajuz": "وعدتنا عن مثل ذاك العوادي"
+      },
+      {
+        "sadr": "غير أن الرب إلى سبل الأنوا",
+        "ajuz": "ء أدنى والحظ حظ الوهاد"
+      },
+      {
+        "sadr": "بعدما أصلت الوشاة سيوفا",
+        "ajuz": "قطعت في وهي غير حداد"
+      },
+      {
+        "sadr": "من أحاديث حين دوختها بالرأ",
+        "ajuz": "ي كانت ضعيفة الإسناد"
+      },
+      {
+        "sadr": "فنفى عنك زخرف القول سمع",
+        "ajuz": "لم يكن فرصة لغير السداد"
+      },
+      {
+        "sadr": "ضرب الحلم والوقار عليه",
+        "ajuz": "دون عور الكلام بالأسداد"
+      },
+      {
+        "sadr": "وحوان أبت عليها المعالي",
+        "ajuz": "أن تسمى مطية الأحقاد"
+      },
+      {
+        "sadr": "ولعمري أن لو أضحت لأقدم",
+        "ajuz": "ت لحتفي ضغينة الحساد"
+      },
+      {
+        "sadr": "حمل العبء كاهل لك أمسى",
+        "ajuz": "لخطوب الزمان بالمرصاد"
+      },
+      {
+        "sadr": "عاتق معتق من الهون إلا",
+        "ajuz": "من مقاساة مغرم أو نجاد"
+      },
+      {
+        "sadr": "للحمالات والحمائل فيه",
+        "ajuz": "كلحوب الموارد الأعداد"
+      },
+      {
+        "sadr": "ملئتك الأحساب أي حياء",
+        "ajuz": "وحيا أزمة وحية واد !"
+      },
+      {
+        "sadr": "لو تراخت يداك عنها فواقا",
+        "ajuz": "أكلتها الأيام أكل الجراد"
+      },
+      {
+        "sadr": "أنت ناضلت دونها بعطايا",
+        "ajuz": "رائحات على العفاة غوادي"
+      },
+      {
+        "sadr": "فإذا هلهل النوال أتتنا",
+        "ajuz": "ذات نيرين مطبقات الأيادي"
+      },
+      {
+        "sadr": "كل شيء غث إذا عاد وال",
+        "ajuz": "معروف غث ما كان غير معاد"
+      },
+      {
+        "sadr": "كادت المكرمات تنهد لولا",
+        "ajuz": "أنها أيدت بخير إياد"
+      },
+      {
+        "sadr": "عندهم فرج اللهيف وتص",
+        "ajuz": "ديق ظنون الزوار والرواد"
+      },
+      {
+        "sadr": "بأحاظي الجدود لا بل بوشك",
+        "ajuz": "الجد لا بل بسؤدد الأجداد"
+      },
+      {
+        "sadr": "وكأن الأعناق يوم الوغى أو",
+        "ajuz": "لى بأسيافهم من الأغماد"
+      },
+      {
+        "sadr": "فإذا ضلت السيوف غداة الرو",
+        "ajuz": "ع كانت هواديا للهوادي"
+      },
+      {
+        "sadr": "قد بثثتم غرس المودة والشح",
+        "ajuz": "ناء في قلب كل قار وباد"
+      },
+      {
+        "sadr": "أبغضوا عزكم وودوا نداكم",
+        "ajuz": "فقروكم من بغضة ووداد"
+      },
+      {
+        "sadr": "لاعدمتم غريب مجد ربقتم",
+        "ajuz": "في عراه نوافر الأضداد"
+      }
+    ],
+    "translationEn": "The exile of separation has become fortunate through Su'ad — she is easily accessible whether going to Tihama or the highlands. She parted from us while the eyes shed rains of tears, morning after morning upon the cheeks. Every day they pour out fresh tears, milked from clouds of old-seasoned longing. Falling upon the cheeks, the heat of it falling upon hearts and livers. On the camels are restrained beauties who smile to reveal a cool, glistening smile. The thorns of the mimosa used to be beautiful but now the thorns of separation's parting are more painful. My head has gone white — and I see gray in the head only as excess of gray in the heart.",
+    "vocabularyHighlights": [
+      {
+        "word": "سعدت",
+        "meaning": "became fortunate, was blessed"
+      },
+      {
+        "word": "غربة",
+        "meaning": "exile, estrangement"
+      },
+      {
+        "word": "النوى",
+        "meaning": "separation, being far apart"
+      },
+      {
+        "word": "الإتهام",
+        "meaning": "going toward Tihama (lowlands)"
+      },
+      {
+        "word": "الإنجاد",
+        "meaning": "going toward Najd (highlands)"
+      },
+      {
+        "word": "خرد",
+        "meaning": "restrained, modest beauties"
+      },
+      {
+        "word": "الأشنب",
+        "meaning": "cool, glistening (of teeth)"
+      },
+      {
+        "word": "الفؤاد",
+        "meaning": "the heart, the inner self"
+      }
+    ],
+    "context": "A 43-verse panegyric in al-khafif meter addressed to Abu 'Abd Allah (a senior Abbasid official). The poem opens with a personal nasib lamenting the departure of Su'ad before Abu Tammam addresses his patron, celebrating how the patron's patronage revived the poet's inspiration after a period of poetic dryness."
+  },
+  {
+    "id": "abu-tammam-93",
+    "poetId": "abu-tammam",
+    "titleAr": "قل للأمير أبي سعيد ذي الندى",
+    "titleEn": "Tell the Prince Abu Sa'id, Lord of Generosity",
+    "genre": "madih",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "قل للأمير أبي سعيد ذي الندى",
+        "ajuz": "والمجد زاد الله في إكرامه"
+      },
+      {
+        "sadr": "يا واهب العيس الهموس برحلها",
+        "ajuz": "والأعوجي بسرجه ولجامه"
+      },
+      {
+        "sadr": "والحامل الأقوام فوق سلاهب",
+        "ajuz": "والحاكي الرئبال في إقدامه"
+      },
+      {
+        "sadr": "والواهب الصمصامة السيف الذي",
+        "ajuz": "يجري زعاف الموت في إسطامه"
+      },
+      {
+        "sadr": "أنت المباري الريح في نفخاتها",
+        "ajuz": "والمستهين مع الندى بملامه"
+      },
+      {
+        "sadr": "فمن أين أرهب أن يراني راجلا",
+        "ajuz": "أحد وما أرجو سوى أيامه"
+      },
+      {
+        "sadr": "أحمل هداك الله رجلي يا بن من",
+        "ajuz": "جادت يداه بنهده وغلامه"
+      },
+      {
+        "sadr": "قسم الحياء على الأنام جميعهم",
+        "ajuz": "فذهبت أنت فقدته بزمامه"
+      },
+      {
+        "sadr": "وتقسم الناس السخاء مجزأ",
+        "ajuz": "وذهبت أنت برأسه وسنامه"
+      },
+      {
+        "sadr": "وتركت للناس الإهاب ومابقى",
+        "ajuz": "من فرثه وعروقه وعظامه"
+      }
+    ],
+    "translationEn": "Tell the prince Abu Sa'id, lord of generosity and glory — may God increase his honor! O you who gave horses and their saddles as gifts, and the thoroughbred with its saddle and bridle! The one who carries people upon swift horses and imitates the lion in his boldness! And he who gives as a gift the sword Samsamah that flows with the lethal venom of death along its blade. You are one who rivals the wind in his largesse and one who scorns criticism alongside generosity. From where should I fear being seen dismounted when my only hope is in his days?",
+    "vocabularyHighlights": [
+      {
+        "word": "الهموس",
+        "meaning": "swift, soft-stepping camels"
+      },
+      {
+        "word": "الأعوجي",
+        "meaning": "a thoroughbred horse (named after Aywaj)"
+      },
+      {
+        "word": "السلاهب",
+        "meaning": "swift, lean horses"
+      },
+      {
+        "word": "الرئبال",
+        "meaning": "the fierce lion"
+      },
+      {
+        "word": "الصمصامة",
+        "meaning": "a famous sword (Samsamah)"
+      },
+      {
+        "word": "زعاف",
+        "meaning": "lethal, instantly deadly"
+      },
+      {
+        "word": "إسطامه",
+        "meaning": "its blade, its steel"
+      },
+      {
+        "word": "الملامة",
+        "meaning": "censure, blame"
+      }
+    ],
+    "context": "A 10-verse poem in the kamil meter praising Abu Sa'id for his lavish gift-giving, specifically horses, swords, and gold. Abu Tammam humorously confesses that given such generosity, he cannot fear being seen unmounted — a witty defense of accepting lavish gifts from patrons."
+  },
+  {
+    "id": "abu-tammam-94",
+    "poetId": "abu-tammam",
+    "titleAr": "أفنيت فيك معاني الشكوى",
+    "titleEn": "I Have Exhausted in Your Presence the Meanings of Complaint",
+    "genre": "ghazal",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "أفنيت فيك معاني الشكوى",
+        "ajuz": "وصفات ما ألقى من البلوى"
+      },
+      {
+        "sadr": "قلبت آفاقض الكلام فما",
+        "ajuz": "أبصرتني أغفلت عن معنى"
+      },
+      {
+        "sadr": "وأعد ما لا أشتكي غبنا ،",
+        "ajuz": "فأعود فيه مرة أخرى"
+      },
+      {
+        "sadr": "فلو أن ما أشكو إلى بشر",
+        "ajuz": "لأراحني من ذلة الشكوى"
+      },
+      {
+        "sadr": "لكنما أشكو إلى حجر",
+        "ajuz": "تنبو المعاول عنه أو أقسى"
+      },
+      {
+        "sadr": "ظبي بمبكاه ومضحكه",
+        "ajuz": "فينا تنير وتظلم الدنيا"
+      }
+    ],
+    "translationEn": "I have exhausted in your presence the meanings of complaint and the descriptions of what I suffer of affliction. I have turned over the horizons of speech and have not seen myself neglecting any meaning. I count what I do not complain of as a loss and return to it again and again. If my complaints went to a human being it would relieve me from the humiliation of complaining. But I complain to a stone that blunts the pickaxes — or to something even harder. A gazelle whose weeping and laughter both illuminate and darken our world.",
+    "vocabularyHighlights": [
+      {
+        "word": "أفنيت",
+        "meaning": "I exhausted, I depleted"
+      },
+      {
+        "word": "معاني الشكوى",
+        "meaning": "the meanings/themes of complaint"
+      },
+      {
+        "word": "البلوى",
+        "meaning": "affliction, trial"
+      },
+      {
+        "word": "آفاق الكلام",
+        "meaning": "horizons of speech"
+      },
+      {
+        "word": "غبنا",
+        "meaning": "a loss, a deprivation"
+      },
+      {
+        "word": "بشر",
+        "meaning": "a human being"
+      },
+      {
+        "word": "حجر",
+        "meaning": "stone"
+      },
+      {
+        "word": "المعاول",
+        "meaning": "pickaxes, mattocks"
+      }
+    ],
+    "context": "A 6-verse poem in the kamil meter expressing the poet's frustrated longing for an unresponsive beloved. The conceit of complaining to one harder than stone is a classic ghazal motif, here rendered with Abu Tammam's characteristic wit — the poem ends with the paradox of a beloved who simultaneously illuminates and darkens the world."
+  },
+  {
+    "id": "abu-tammam-95",
+    "poetId": "abu-tammam",
+    "titleAr": "سقى عهد الحمى سبل العهاد",
+    "titleEn": "May Clouds Water the Memory of the Sanctuary",
+    "genre": "madih",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "سقى عهد الحمى سبل العهاد",
+        "ajuz": "وروض حاضر منه وباد"
+      },
+      {
+        "sadr": "نزحت به ركي العين لما",
+        "ajuz": "رأيت الدمع من خير العتاد"
+      },
+      {
+        "sadr": "فيا حسن الرسوم وما تمشى",
+        "ajuz": "إليها الدهر في صور البعاد"
+      },
+      {
+        "sadr": "وإذ طير الحوادث في رباها",
+        "ajuz": "سواكن ، وهي غناء المراد"
+      },
+      {
+        "sadr": "مذاكي حلبة وشروب دجن",
+        "ajuz": "وسامر فتية وقدور صاد"
+      },
+      {
+        "sadr": "وأعين ربرب كحلت بسحر",
+        "ajuz": "وأجساد تضمخ بالجساد"
+      },
+      {
+        "sadr": "بزهر والحذاق وآل برد",
+        "ajuz": "ورت في كل صالحة زنادي"
+      },
+      {
+        "sadr": "وإن يك من بني أدد جناحي",
+        "ajuz": "فإن أثيث ريشي من إياد"
+      },
+      {
+        "sadr": "غدوت بهم أمد ذوي ظلا",
+        "ajuz": "وأكثر من ورائي ماء واد"
+      },
+      {
+        "sadr": "هم عظمى الأثافي من نزار",
+        "ajuz": "وأهل الهضب منها والنجاد"
+      },
+      {
+        "sadr": "معرس كل معضلة وخطب",
+        "ajuz": "ومنبت كل مكرمة وآد"
+      },
+      {
+        "sadr": "إذا حدث القبائل ساجلوهم",
+        "ajuz": "فإنهم بنو الدهر التلاد"
+      },
+      {
+        "sadr": "تفرج عنهم الغمرات بيض",
+        "ajuz": "جلاد تحت قسطلة الجلاد"
+      },
+      {
+        "sadr": "وحشو حوادث الأيام منهم",
+        "ajuz": "معاقل مطرد وبنو طراد"
+      },
+      {
+        "sadr": "لهم جهل السباع إذا المنايا",
+        "ajuz": "تمشت في القنا وحلوم عاد"
+      },
+      {
+        "sadr": "لقد أنست مساوىء كل دهر",
+        "ajuz": "محاسن أحمد بن أبي دواد"
+      },
+      {
+        "sadr": "متى تحلل به تحلل جنابا",
+        "ajuz": "رضيعا للسواري والغوادي"
+      },
+      {
+        "sadr": "ترشح نعمة الأيام فيه",
+        "ajuz": "وتقسم فيه أرزاق العباد"
+      },
+      {
+        "sadr": "وما اشتبهت طريق المجد إلا",
+        "ajuz": "هداك لقبلة المعروف هاد"
+      },
+      {
+        "sadr": "وما سافرت في الآفاق إلا",
+        "ajuz": "ومن جدواك راحلتي وزادي"
+      },
+      {
+        "sadr": "مقيم الظن عندك والأماني",
+        "ajuz": "وإن قلقت ركابي في البلاد"
+      },
+      {
+        "sadr": "معاد البعث معروف ولكن",
+        "ajuz": "ندى كفيك في الدنيا معادي"
+      },
+      {
+        "sadr": "أتاني عائر الأنباء تسري",
+        "ajuz": "عقاربه بداهية نآد"
+      },
+      {
+        "sadr": "~ يجر به على شوك القتاد",
+        "ajuz": "كأن الشمس جللها كسوف"
+      },
+      {
+        "sadr": "أو استترت برجل من جراد",
+        "ajuz": "بأني نلت من مضر وخبت"
+      },
+      {
+        "sadr": "إليك شكيتي خبب الجواد",
+        "ajuz": "وما ربع القطيعة لي بربع"
+      },
+      {
+        "sadr": "ولانادي الأذى مني بناد",
+        "ajuz": "وأين يجور عن قصد لساني"
+      },
+      {
+        "sadr": "وقلبي رائح برضاك غاد !",
+        "ajuz": "ومما كانت الحكماء قالت"
+      },
+      {
+        "sadr": "لسان المرء من خدم الفؤاد",
+        "ajuz": "فقدما كنت معسول الأماني"
+      },
+      {
+        "sadr": "ومأدوم القوافي بالسداد",
+        "ajuz": "لقد جازيت بالإحسان سوءا"
+      },
+      {
+        "sadr": "إذا وصبغت عرفك بالسواد",
+        "ajuz": "وسرت أسوق عير اللؤم حتى"
+      },
+      {
+        "sadr": "أنخت الكفر في دار الجهاد",
+        "ajuz": "فكيف وعتب يوم منك فذ"
+      },
+      {
+        "sadr": "أشد علي من حرب الفساد !",
+        "ajuz": "وليست رغوتي من فوق مذق"
+      },
+      {
+        "sadr": "ولا جمري كمين في الرماد",
+        "ajuz": "وكان الشكر للكرماء خصلا"
+      },
+      {
+        "sadr": "وميدانا كميدان الجياد",
+        "ajuz": "عليه عقدت عقدي ولاحت"
+      },
+      {
+        "sadr": "مواسمه على شيمي وعادي",
+        "ajuz": "وغيري يأكل المعروف سحتا"
+      },
+      {
+        "sadr": "وتشجب عنده بيض الأيادي",
+        "ajuz": "تثبت إن قولا كان زورا"
+      },
+      {
+        "sadr": "أتى النعمام قبلك عن زياد",
+        "ajuz": "وأرث بين حي بني جلاح"
+      },
+      {
+        "sadr": "سنا حرب وحي بني مصاد",
+        "ajuz": "وغادر في صروف الدهر قتلى"
+      },
+      {
+        "sadr": "بني بدر على ذات الإصاد",
+        "ajuz": "فما قدحاك للباري وليست"
+      },
+      {
+        "sadr": "متون صفاك من نهر المرادي",
+        "ajuz": "ولو كشفتني لبلوت خرقا"
+      },
+      {
+        "sadr": "يصافي الأكرمين ولا يصادي",
+        "ajuz": "~ إلى بعض الموارد وهو صادي"
+      },
+      {
+        "sadr": "إليك بعثت ابكار المعاني",
+        "ajuz": "يليها سائق عجل وحادي"
+      },
+      {
+        "sadr": "جوائر عن ذنابى القوم حيرى",
+        "ajuz": "هوادي للجماجم والهوادي"
+      },
+      {
+        "sadr": "يذللها بذكرك قرن فكر ،",
+        "ajuz": "إذا حرنت ، فتسلس في القياد"
+      },
+      {
+        "sadr": "لها في الهاجس القدح المعلى",
+        "ajuz": "وفي نظم القوافي والعماد"
+      },
+      {
+        "sadr": "منزهة عن السرق المورى",
+        "ajuz": "مكرمة عن المعنى المعاد"
+      },
+      {
+        "sadr": "تنصل ربها من غير جرم",
+        "ajuz": "إليك سوى النصيحة والوداد"
+      },
+      {
+        "sadr": "ومن يأذن إلى الواشين تسلق ~",
+        "ajuz": ""
+      }
+    ],
+    "translationEn": "May clouds water the memory of the sanctuary with generous rains, its present residents and those far away! I drew the eye's well dry when I saw tears as the best of provisions. How beautiful were the ruins — yet how time walked toward them in the forms of distance! When the incidents of fate flew in their heights as settled birds, they were the song of abundance. Race horses and drinkers of winter rain, companions of young men, and pots boiling with meat. Eyes anointed with the magic of beauty and bodies perfumed with amber wood. Through Zuhr and al-Hidhaq and the family of Burd my fire-striker lit a spark in every good deed. I rose with their wings to spread shade over those with need, and behind me flows an abundant river.",
+    "vocabularyHighlights": [
+      {
+        "word": "سقى",
+        "meaning": "may it be watered, rained upon"
+      },
+      {
+        "word": "العهاد",
+        "meaning": "rains following rains"
+      },
+      {
+        "word": "ركي العين",
+        "meaning": "the eye's well (wellspring of tears)"
+      },
+      {
+        "word": "الحمى",
+        "meaning": "the sanctuary, the protected place"
+      },
+      {
+        "word": "الغناء المراد",
+        "meaning": "the sought-after song, abundant song"
+      },
+      {
+        "word": "الدجن",
+        "meaning": "winter rain, overcast rain"
+      },
+      {
+        "word": "الجساد",
+        "meaning": "amber, a yellow perfume"
+      },
+      {
+        "word": "إياد",
+        "meaning": "the Iyad tribe; supports, pillars"
+      }
+    ],
+    "context": "A 49-verse poem in al-wafir meter addressed to Ahmad ibn Abi Du'ad, the chief qadi (judge) of the Abbasid caliphate. After a conventional nostalgia prelude, Abu Tammam praises his patron for resolving the poet's troubles with members of the Mudar tribe — a poem rich in political and personal allusions."
+  }
+]

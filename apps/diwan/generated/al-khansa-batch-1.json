@@ -1,0 +1,1952 @@
+[
+  {
+    "id": "al-khansa-01",
+    "poetId": "al-khansa",
+    "titleAr": "يا عين ما لك لا تبكين تسكابا ؟",
+    "titleEn": "O eye, why do you not weep",
+    "genre": "ritha",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "يا عين ما لك لا تبكين تسكابا ؟",
+        "ajuz": "اذ راب دهر وكان الدهر ريابا"
+      },
+      {
+        "sadr": "فابكي أخاك لأيتام وأرملة ،",
+        "ajuz": "وابكي اخاك اذا جاورت اجنابا"
+      },
+      {
+        "sadr": "وابكي اخاك لخيل كالقطاعصبا",
+        "ajuz": "فقدن لما ثوى سيبا وانهابا"
+      },
+      {
+        "sadr": "يعدو به سابح نهد مراكله",
+        "ajuz": "مجلبب بسواد الليل جلبابا"
+      },
+      {
+        "sadr": "حتى يصبح أقواما ، يحاربهم ،",
+        "ajuz": "أو يسلبوا ، دون صف القوم ، أسلابا"
+      },
+      {
+        "sadr": "هو الفتى الكامل الحامي حقيقته ،",
+        "ajuz": "مأوى الضريك اذا ما جاء منتابا"
+      },
+      {
+        "sadr": "يهدي الرعيل إذا ضاق السبيل بهم ،",
+        "ajuz": "نهد التليل لصعب الأمر ركابا"
+      },
+      {
+        "sadr": "المجد حلته ، والجود علته ،",
+        "ajuz": "والصدق حوزته ان قرنه هابا"
+      },
+      {
+        "sadr": "خطاب محفلة فراج مظلمة",
+        "ajuz": "ان هاب معضلة سنى لها بابا"
+      },
+      {
+        "sadr": "حمال ألوية ، قطاع أودية ،",
+        "ajuz": "شهاد أنجية ، للوتر طلابا"
+      },
+      {
+        "sadr": "سم العداة وفكاك العناة اذا",
+        "ajuz": "لاقى الوغى لم يكن للموت هيابا"
+      }
+    ],
+    "translationEn": "O my eye, why do you not pour forth tears in torrents, when treacherous time has turned against us and time has ever been full of treachery? Weep for your brother on behalf of orphans and a widow, and weep for your brother when you dwell among strangers. Weep for your brother on behalf of horses that roamed like flocks of sand-grouse, for they lost their freedom and their spoils when he was laid low. A swift horse with strong hindquarters used to carry him, cloaked in the darkness of night like a garment. He would ride until morning against peoples who warred against him, or they would be stripped of their possessions before the ranks of men. He was the perfect youth, the protector of what was dear, a shelter for the needy when they came seeking him. He guided the vanguard when the path grew narrow for them, a broad-chested hero fit to mount even the most difficult affairs. Glory was his garment, generosity his nature, and truth his reserve — when his equal feared him. An eloquent speaker in great assemblies, a dispeller of darkness, whenever a difficult matter arose he lit its way. A bearer of banners, a crosser of valleys, a witness to councils, ever seeking blood-vengeance. A poison to enemies, a ransomer of captives, when he met battle he was no man to fear death.",
+    "vocabularyHighlights": [
+      { "word": "تسكابا", "meaning": "pouring in torrents (of tears)" },
+      { "word": "ريابا", "meaning": "treacherous, full of treachery" },
+      { "word": "الضريك", "meaning": "the destitute, the needy person" },
+      { "word": "منتابا", "meaning": "one who comes repeatedly seeking help" },
+      { "word": "الرعيل", "meaning": "the vanguard, the front rank of horsemen" },
+      { "word": "حقيقته", "meaning": "what he holds dear, his honor and family" },
+      { "word": "فراج مظلمة", "meaning": "dispeller of darkness / injustice" },
+      { "word": "العناة", "meaning": "captives, prisoners of war" }
+    ],
+    "context": "This elegy is one of Al-Khansa's most celebrated poems mourning her brother Sakhr ibn Amr, who was a brave warrior and generous chieftain of the Sulaym tribe. She composed it after his death in battle, cataloguing his virtues as a protector of orphans, widows, and the needy, and as a fearless leader in war."
+  },
+  {
+    "id": "al-khansa-02",
+    "poetId": "al-khansa",
+    "titleAr": "وخرق ، كأنضاء القميص دوية ،",
+    "titleEn": "A vast wilderness like worn garments",
+    "genre": "ritha",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "وخرق ، كأنضاء القميص دوية ،",
+        "ajuz": "مخوف رداه ما يقيم به ركب"
+      },
+      {
+        "sadr": "قطعت بمجذام الرواح كانها",
+        "ajuz": "اذا حط عنها كورها جمل صعب"
+      },
+      {
+        "sadr": "يعاتبها في بعض ما أذنبت له ،",
+        "ajuz": "فيضربها ، حينا ، وليس لها ذنب"
+      },
+      {
+        "sadr": "و قد جعلت في نفسها ان تخافه",
+        "ajuz": "وليس لها منه سلام ولا حرب"
+      },
+      {
+        "sadr": "فطرت بها ، حتى إذا اشتد ظمؤها ،",
+        "ajuz": "وحب إلى القوم الإناخة والشرب"
+      },
+      {
+        "sadr": "انخت الى مظلومة غير مسكن",
+        "ajuz": "حواملها عوج ، وأفنانها رطب"
+      },
+      {
+        "sadr": "فناطا ليها سيفه ورداءه",
+        "ajuz": "وجاء إلى أفياء ما علق الركب"
+      },
+      {
+        "sadr": "فأغفى قليلا ، ثم طار برحلها ،",
+        "ajuz": "ليكسب مجدا ، أو يحور لها نهب"
+      },
+      {
+        "sadr": "فثارت تباري أعوجيا مصدرا ،",
+        "ajuz": "طويل عذار الخد ، جؤجؤه رحب"
+      }
+    ],
+    "translationEn": "A vast, frightening wilderness like the worn-out lining of a shirt, whose perils prevent any caravan from settling within it. He crossed it on a swift camel that, when its load was removed, was like a recalcitrant male camel. It would reproach her for some imagined fault and strike her at times, though she had done nothing wrong. She had made it her nature to fear him, though between them was neither peace nor outright war. He rode her until her thirst grew intense and the people longed to rest and drink. He alighted her at a palm tree, abused but not domesticated, its supporting roots twisted and its branches fresh. He hung his sword and cloak from its branch and came to rest in the shade of whatever the caravan had hung. He dozed briefly, then leapt up with his saddle to earn glory or return with plunder. She bolted, racing a noble stallion returning from the herd, with a long cheek-strap and a broad chest.",
+    "vocabularyHighlights": [
+      { "word": "خرق", "meaning": "vast wilderness, barren expanse" },
+      { "word": "أنضاء", "meaning": "worn-out, tattered (clothes or exhausted camels)" },
+      { "word": "دوية", "meaning": "vast, desolate wilderness" },
+      { "word": "مجذام الرواح", "meaning": "swift in returning, fast-moving" },
+      { "word": "الكور", "meaning": "the camel's saddle" },
+      { "word": "الظمء", "meaning": "thirst, the interval between waterings" },
+      { "word": "الأفياء", "meaning": "shadows, shade" },
+      { "word": "أعوجيا", "meaning": "a noble horse descended from the famous stallion Ajuz" }
+    ],
+    "context": "This poem describes a daring desert crossing undertaken by Sakhr, Al-Khansa's brother, praising his fearlessness and determination as he traversed a terrifying wilderness and rested briefly before riding off again in pursuit of glory and spoils."
+  },
+  {
+    "id": "al-khansa-03",
+    "poetId": "al-khansa",
+    "titleAr": "يا ابن الشريد ، على تنائي بيننا ،",
+    "titleEn": "O son of al-Sharid, despite the distance between us",
+    "genre": "ritha",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "يا ابن الشريد ، على تنائي بيننا ،",
+        "ajuz": "حييت ، غير مقبح ، مكباب"
+      },
+      {
+        "sadr": "فكه على خير الغذاء اذاغدت",
+        "ajuz": "شهباء تقطع بالي الاطناب"
+      },
+      {
+        "sadr": "أرج العطاف ، مهفهف ، نعم الفتى",
+        "ajuz": "متسهل في الأهل والأجناب"
+      },
+      {
+        "sadr": "حامي الحقيق تخاله عند الوغى",
+        "ajuz": "اسدا بيشة كاشر الأنياب"
+      },
+      {
+        "sadr": "اسدا تناذره الرفاق ضبارما",
+        "ajuz": "شثن البراثن لاحق الأقراب"
+      },
+      {
+        "sadr": "فلئن هلكت لقد غنيت سميذعا",
+        "ajuz": "محض الضريبة طيب الأثواب"
+      },
+      {
+        "sadr": "ضخم الدسيعة بالندى متدفقا",
+        "ajuz": "مأوى اليتيم وغاية المنتاب"
+      }
+    ],
+    "translationEn": "O son of al-Sharid, despite the distance between us, may you be greeted, without disgrace, by one who reveres you. He was cheerful amid the finest provision when a grey morning came cutting through worn tent-ropes. Fragrant of embrace, slender, what a fine young man — easy-mannered with both kinsmen and strangers. A protector of honor, you would think him at war a lion of Bisha with bared fangs. A lion that companions warned each other about, massive and powerful, rough-pawed and lean-flanked. If you have perished, you lived as a true noble — pure in character and fine in garment. Generous in his gifts, overflowing with liberality, a refuge for the orphan and the destination of all who came seeking.",
+    "vocabularyHighlights": [
+      { "word": "تنائي", "meaning": "distance, separation" },
+      { "word": "مكباب", "meaning": "one who bows his head in respect, reverential" },
+      { "word": "فكه", "meaning": "cheerful, jovial, pleasant" },
+      { "word": "أرج العطاف", "meaning": "fragrant of embrace, sweet-smelling" },
+      { "word": "مهفهف", "meaning": "slender, slim-waisted" },
+      { "word": "ضبارما", "meaning": "a powerful, massive lion" },
+      { "word": "شثن البراثن", "meaning": "with rough, thick paws (said of a lion)" },
+      { "word": "الدسيعة", "meaning": "the gift, bounty; generous giving" }
+    ],
+    "context": "This elegy praises Sakhr ibn Amr, Al-Khansa's brother, addressing him directly as a man of noble character who was both approachable with family and strangers, and fierce as a lion in battle — a shelter for orphans and a fountain of generosity."
+  },
+  {
+    "id": "al-khansa-04",
+    "poetId": "al-khansa",
+    "titleAr": "ارقت ونام عن سهري صحابي",
+    "titleEn": "I lay awake while my companions slept",
+    "genre": "ritha",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "ارقت ونام عن سهري صحابي",
+        "ajuz": "كأن النار مشعلة ثيابي"
+      },
+      {
+        "sadr": "إذا نجم تغور كلفتني",
+        "ajuz": "خوالد ما تؤوب إلى مآب"
+      },
+      {
+        "sadr": "فقد خلى ابو اوفى خلالا",
+        "ajuz": "علي فكلها دخلت شعابي"
+      }
+    ],
+    "translationEn": "I lay awake while my companions slept away from my vigil, as if fire blazed through my garments. Whenever a star set, it left me laden with eternal griefs that never return to their source. Abu Awfa has left behind qualities within me, and all of them have entered every valley of my being.",
+    "vocabularyHighlights": [
+      { "word": "ارقت", "meaning": "I lay awake, suffered from sleeplessness" },
+      { "word": "السهر", "meaning": "sleeplessness, night-vigil" },
+      { "word": "تغور", "meaning": "sets, sinks (said of a star)" },
+      { "word": "خوالد", "meaning": "eternal, everlasting (griefs)" },
+      { "word": "مآب", "meaning": "a place of return, a refuge" },
+      { "word": "خلالا", "meaning": "virtues, noble qualities, traits" }
+    ],
+    "context": "A short but deeply felt elegy in which Al-Khansa describes her sleepless grief for her brother Abu Awfa, saying the pain burns like fire in her clothes and every setting star brings fresh, endless sorrow."
+  },
+  {
+    "id": "al-khansa-05",
+    "poetId": "al-khansa",
+    "titleAr": "ما بال عينيك منها دمعها سرب",
+    "titleEn": "What ails your eyes that their tears flow",
+    "genre": "ritha",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "ما بال عينيك منها دمعها سرب",
+        "ajuz": "أراعها حزن أم عادها طرب"
+      },
+      {
+        "sadr": "أم ذكر صخر بعيد النوم هيجها",
+        "ajuz": "فالدمع منها عليه الدهر ينسكب"
+      },
+      {
+        "sadr": "يا لهف نفسي على صخر إذا ركبت",
+        "ajuz": "خيل لخيل تنادي ثم تضطرب"
+      },
+      {
+        "sadr": "قد كان حصنا شديد الركن ممتنعا",
+        "ajuz": "ليثا إذا نزل الفتيان أو ركبوا"
+      },
+      {
+        "sadr": "أغر ، أزهر ، مثل البدر صورته ،",
+        "ajuz": "صاف ، عتيق ، فما في وجهه ندب"
+      },
+      {
+        "sadr": "يا فارس الخيل إذ شدت رحائلها",
+        "ajuz": "ومطعم الجوع الهلكى إذا سغبوا"
+      },
+      {
+        "sadr": "كم من ضرائك هلاك و ارملة",
+        "ajuz": "حلوا لديك فزالت عنهم الكرب"
+      },
+      {
+        "sadr": "سقيا لقبرك من قبر ولا برحت",
+        "ajuz": "جود الرواعد تسقيه و تحتلب"
+      },
+      {
+        "sadr": "ماذا تضمن من جود و من كرم",
+        "ajuz": "و من خلائق ما فيهن مقتضب"
+      }
+    ],
+    "translationEn": "What ails your eyes that their tears flow so freely — was it grief that startled them, or is joy returning? Or is it the memory of Sakhr that disturbed their sleep, so that tears pour from them over him forever? How I grieve for Sakhr when horses race against horses, calling to each other and charging in confusion! He was a fortress strong in its corner, impregnable — a lion whether the young men were mounted or afoot. Bright, luminous, like the full moon in his countenance, pure and noble, with no scar upon his face. O rider of horses when their saddles were tightened, and feeder of the starving poor when hunger struck! How many of the destitute, the bereaved, and widows settled at your door and their sorrows lifted. May your grave be watered well — may the pouring rains not cease to drench it and fill it. What generosity, what nobility, what character does your grave contain — qualities without flaw.",
+    "vocabularyHighlights": [
+      { "word": "سرب", "meaning": "flowing freely, streaming" },
+      { "word": "بعيد النوم", "meaning": "far from sleep, sleepless" },
+      { "word": "ينسكب", "meaning": "pours down, flows" },
+      { "word": "أغر", "meaning": "bright-faced, noble, illustrious" },
+      { "word": "أزهر", "meaning": "luminous, radiant, bright" },
+      { "word": "ندب", "meaning": "scar, blemish" },
+      { "word": "سغبوا", "meaning": "they were hungry, suffered from hunger" },
+      { "word": "الرواعد", "meaning": "thunderclouds bringing rain" }
+    ],
+    "context": "Al-Khansa mourns Sakhr by questioning her own eyes about their constant weeping, then praising him as a stronghold for his tribe, a lion in war, and a feeder of the hungry — ending with a prayer that rain may forever water his grave."
+  },
+  {
+    "id": "al-khansa-06",
+    "poetId": "al-khansa",
+    "titleAr": "يا عين جودي بدمع منك مسكوب",
+    "titleEn": "O eye, pour forth your tears in streams",
+    "genre": "ritha",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "يا عين جودي بدمع منك مسكوب",
+        "ajuz": "كلؤلؤ جال في الأسماط مثقوب"
+      },
+      {
+        "sadr": "اني تذكرته والليل معتكر",
+        "ajuz": "ففي فؤادي صدع غير مشعوب"
+      },
+      {
+        "sadr": "نعم الفتى كان للأضياف إذ نزلوا",
+        "ajuz": "وسائل حل بعد النوم محروب"
+      },
+      {
+        "sadr": "كم من مناد دعا و الليل مكتنع",
+        "ajuz": "نفست عنه حبال الموت مكروب"
+      },
+      {
+        "sadr": "و من اسير بلا شكر جزاك به",
+        "ajuz": "بساعديه كلوم غير تجليب"
+      },
+      {
+        "sadr": "فككته ، ومقال قلته حسن",
+        "ajuz": "بعد المقالة لم يؤبن بتكذيب"
+      }
+    ],
+    "translationEn": "O eye, pour forth your tears, poured out like pearls strung and pierced on a necklace. I remembered him while the night was thick with darkness, and in my heart is a crack that cannot be mended. What a fine young man he was for guests when they alighted, and a helper to one awakened from sleep to find himself plundered. How many a caller cried out in the dark of night, and he loosened from him the ropes of death while the man was distressed. And how many a prisoner, bearing wounds with no word of thanks, he freed, speaking only good words after releasing him — words that none could accuse of falsehood.",
+    "vocabularyHighlights": [
+      { "word": "مسكوب", "meaning": "poured out, flowing" },
+      { "word": "الأسماط", "meaning": "necklace strings, rows of pearls" },
+      { "word": "مثقوب", "meaning": "pierced, bored through" },
+      { "word": "معتكر", "meaning": "thick, dense (of darkness)" },
+      { "word": "مشعوب", "meaning": "mended, joined (crack that is not mended)" },
+      { "word": "مكتنع", "meaning": "dense, enveloping (of night)" },
+      { "word": "تجليب", "meaning": "healing over (wounds that have not healed)" },
+      { "word": "يؤبن", "meaning": "to be accused, to have a charge leveled against" }
+    ],
+    "context": "Al-Khansa calls upon her eyes to weep for Sakhr, recalling him as a rescuer of those crying out in the night, a ransomer of prisoners, and a man of generous and truthful speech who freed the captive and asked nothing in return."
+  },
+  {
+    "id": "al-khansa-07",
+    "poetId": "al-khansa",
+    "titleAr": "تقول نساء : شبت من غير كبرة ،",
+    "titleEn": "Women say I have aged without growing old",
+    "genre": "ritha",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "تقول نساء : شبت من غير كبرة ،",
+        "ajuz": "و ايسر مما قد لقيت يشيب"
+      },
+      {
+        "sadr": "أقول : أبا حسان : لا العيش طيب",
+        "ajuz": "و كيف و قد افردت منك يطيب"
+      },
+      {
+        "sadr": "فتى السن كهل الحلم لا متسرع",
+        "ajuz": "ولا جامد جعد اليدين جديب"
+      },
+      {
+        "sadr": "أخو الفضل لا باغ عليه لفضله",
+        "ajuz": "ولا هو خرق في الوجوه قطوب"
+      },
+      {
+        "sadr": "اذا ذكر الناس السماح من امرئ",
+        "ajuz": "وأكرم أو قال الصواب خطيب"
+      },
+      {
+        "sadr": "ذكرتك فاستعبرت و الصدر كاظم",
+        "ajuz": "على غصة منها الفؤاد يذوب"
+      },
+      {
+        "sadr": "لعمري لقد أوهيت قلبي عن العزا",
+        "ajuz": "و طأطأت رأسي و الفؤاد كئيب"
+      },
+      {
+        "sadr": "لقد قصمت مني قناة صليبة",
+        "ajuz": "ويقصم عود النبع وهو صليب"
+      }
+    ],
+    "translationEn": "Women say I have aged without growing old — yet something far lesser than what I have endured turns hair white. I say: O Abu Hassan, life is no longer sweet, and how could it be sweet now that I am left alone without you? You were a youth in age but mature in wisdom — neither rash nor miserly with clenched fists. A man of virtue, none could find fault with his generosity, nor was he rough-faced and sullen in public. Whenever people mentioned liberality or when an orator said what was right and noble, I remembered you and tears flowed while my chest was tight with a lump that makes the heart dissolve. By my life, you have weakened my heart against consolation, you have bowed my head while my heart is sorrowful. You have broken in me a strong spear-shaft — and even the shaft of a nabaʿ tree breaks though it is hard.",
+    "vocabularyHighlights": [
+      { "word": "شبت", "meaning": "you have aged, you have grown grey" },
+      { "word": "كبرة", "meaning": "old age, great age" },
+      { "word": "افردت", "meaning": "I was left alone, separated" },
+      { "word": "جعد اليدين", "meaning": "clenched-fisted, miserly" },
+      { "word": "جديب", "meaning": "barren, poor (of character — stingy)" },
+      { "word": "خرق", "meaning": "rough, rude, ill-mannered" },
+      { "word": "قطوب", "meaning": "frowning, scowling" },
+      { "word": "قناة صليبة", "meaning": "a hard, strong spear-shaft" }
+    ],
+    "context": "Al-Khansa responds to women who note that grief has aged her prematurely, addressing her dead brother Sakhr (Abu Hassan) directly, cataloguing his virtues of wisdom, generosity, and composure, and lamenting that his loss has broken her strength like a shattered spear."
+  },
+  {
+    "id": "al-khansa-08",
+    "poetId": "al-khansa",
+    "titleAr": "أعين ألا فابكي لصخر بدرة",
+    "titleEn": "O eyes, weep for Sakhr in full measure",
+    "genre": "ritha",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "أعين ألا فابكي لصخر بدرة",
+        "ajuz": "اذا الخيل من طول الوجيف اقشعرت"
+      },
+      {
+        "sadr": "اذا زجروها في الصريخ وطابقت",
+        "ajuz": "طباق كلاب في الهراش وهرت"
+      },
+      {
+        "sadr": "شددت عصاب الحرب اذ هي مانع",
+        "ajuz": "فألقت برجليها مريا فدرت"
+      },
+      {
+        "sadr": "وكانت اذا ما رامها قبل حالب",
+        "ajuz": "تقته بإيزاغ دما واقمطرت"
+      },
+      {
+        "sadr": "وكان ابو حسان صخر اصابها",
+        "ajuz": "فارغثها بالرمح حتى اقرت"
+      },
+      {
+        "sadr": "كراهية والصبر منك سجية",
+        "ajuz": "إذا ما رحى الحرب العوان استدرت"
+      },
+      {
+        "sadr": "اقاموا جنابي رأسها وترافدوا",
+        "ajuz": "على صعبها يوم الوغى فاسبطرت"
+      },
+      {
+        "sadr": "عوان ضروس ما ينادى وليدها",
+        "ajuz": "تلقح بالمران حتى استمرت"
+      },
+      {
+        "sadr": "حلفت على أهل اللواء ليوضعن",
+        "ajuz": "فما أحنثتك الخيل حتى أبرت"
+      },
+      {
+        "sadr": "وخيل تنادى لا هوادة بينها",
+        "ajuz": "مررت لها دون السوام ومرت"
+      },
+      {
+        "sadr": "كان مدلا من اسود تبالة",
+        "ajuz": "يكون لها حيث استدارت وكرت"
+      }
+    ],
+    "translationEn": "O eyes, weep for Sakhr in full measure when the horses shudder from the length of their swift trotting. When they are urged onward in the battle-cry and they fall into step like dogs barking and snarling at each other in a fight. He would tighten the bandage of war when it was difficult, and she would kick her legs, straining and letting down milk. She was one that, when a milker tried to approach her, she would defend herself with spurts of blood and contract. Abu Hassan Sakhr struck her and stirred her with the spear until she submitted. Endurance was your nature when the millstone of a long war would grind. They steadied both sides of her head and aided each other against her in the day of battle, and she stretched out flat. A battle-seasoned she-camel, biting, whose young is not called — impregnated with spear-shafts until she continued. You swore an oath that the banner-bearers would be struck down, and the horses did not make you break your oath until you destroyed them. And horses calling to each other with no truce between them — you drove past them to the herds and they passed on. He was like a proud lion from the lions of Tabala, ever present wherever they wheeled and charged.",
+    "vocabularyHighlights": [
+      { "word": "بدرة", "meaning": "generously, abundantly, in full measure" },
+      { "word": "الوجيف", "meaning": "swift trotting of horses" },
+      { "word": "اقشعرت", "meaning": "shuddered, bristled (from exertion or cold)" },
+      { "word": "الصريخ", "meaning": "the battle-cry, the call for help" },
+      { "word": "مريا", "meaning": "straining to let down milk (a she-camel)" },
+      { "word": "إيزاغ", "meaning": "a spurt, a gush (of blood or milk)" },
+      { "word": "اسبطرت", "meaning": "stretched out flat (of a camel submitting)" },
+      { "word": "ضروس", "meaning": "biting, vicious (of a she-camel)" }
+    ],
+    "context": "This complex battle-elegy uses the extended metaphor of a fierce war-camel to praise Sakhr's indomitable spirit in combat, describing how he alone could subdue what was untamable and how he honored his battle-oaths unto death."
+  },
+  {
+    "id": "al-khansa-09",
+    "poetId": "al-khansa",
+    "titleAr": "لهفي على صخر فاني ارى له",
+    "titleEn": "My grief for Sakhr — I see his generous gifts",
+    "genre": "ritha",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "لهفي على صخر فاني ارى له",
+        "ajuz": "نوافل من معروفه قد تولت"
+      },
+      {
+        "sadr": "ولهفي على صخر لقد كان عصمة",
+        "ajuz": "لمولاه إن نعل بمولاه زلت"
+      },
+      {
+        "sadr": "يعود على مولاه منه برأفة",
+        "ajuz": "اذا ما الموالي من اخيها تخلت"
+      },
+      {
+        "sadr": "وكنت إذا كف أتتك عديمة",
+        "ajuz": "ترجي نوالا من سحابك بلت"
+      },
+      {
+        "sadr": "ومختنق راخى ابن عمر و خناقه",
+        "ajuz": "وغمته عن وجهه فتجلت"
+      },
+      {
+        "sadr": "وظاعنة في الحي لولا عطاؤه",
+        "ajuz": "غداة غد من اهلها ما استقلت"
+      },
+      {
+        "sadr": "وكنت لنا عيشا وظل ربابة",
+        "ajuz": "إذا نحن شئنا بالنوال استهلت"
+      },
+      {
+        "sadr": "فتى كان ذا حلم أصيل وتؤدة",
+        "ajuz": "اذا ما الحبى من طائف الجهل حلت"
+      },
+      {
+        "sadr": "وما كر الا كان اول طاعن",
+        "ajuz": "ولا أبصرته الخيل إلا اقشعرت"
+      },
+      {
+        "sadr": "فيدرك ثأرا ثم لم يخطه الغنى",
+        "ajuz": "فمثل أخي يوما به العين قرت"
+      },
+      {
+        "sadr": "فإن طلبوا وترا بدا بتراتهم",
+        "ajuz": "ويصبر يحميهم إذا الخيل ولت"
+      },
+      {
+        "sadr": "فلست ازرا بعده برزية",
+        "ajuz": "فاذكره الا سلت وتجلت"
+      }
+    ],
+    "translationEn": "My grief for Sakhr — for I see his acts of generosity and beneficence have now departed. And my grief for Sakhr, for he was truly a refuge for his client when his client's foot slipped. He would return to his client with compassion when fellow tribesmen abandoned their kinsman's sister. You were such that when a needy hand came to you, hoping for a gift from your cloud, it was drenched. And one who was strangled — Ibn Amr loosened his collar and lifted the darkness from his face so it cleared. And a woman preparing to depart the tribe — but for his gift on the morrow she would never have risen from her people. You were life and sustaining shade for us — whenever we wished, his generosity would begin to pour. A youth of genuine wisdom and deliberateness when the bonds of foolish anger would loosen. Whenever he charged he was the first to strike, and horses shuddered whenever they saw him. He would achieve vengeance and then prosperity would not escape him — such a brother was one whose sight brought joy to the eyes. If they sought blood-vengeance he would begin it with their own debts, and he would endure protecting them when the horses fled. I do not remember after him a great misfortune — I recall him and the grief abates and clears.",
+    "vocabularyHighlights": [
+      { "word": "لهفي", "meaning": "my grief, my lamentation, my longing" },
+      { "word": "نوافل", "meaning": "acts of generosity, extra gifts, bounties" },
+      { "word": "عصمة", "meaning": "a refuge, a protection, a safeguard" },
+      { "word": "المولى", "meaning": "the client, the ally, the protected person" },
+      { "word": "عديمة", "meaning": "destitute, lacking in means" },
+      { "word": "مختنق", "meaning": "one who is strangled, one in great distress" },
+      { "word": "تؤدة", "meaning": "deliberateness, calm composure, steadiness" },
+      { "word": "الوتر", "meaning": "blood-vengeance, a debt of blood" }
+    ],
+    "context": "A long and powerful elegy in which Al-Khansa recounts how Sakhr was a lifeline for the poor, the oppressed, and the threatened, before describing his prowess in battle and concluding that remembering him somehow lifts her grief — a paradox of mourning."
+  },
+  {
+    "id": "al-khansa-10",
+    "poetId": "al-khansa",
+    "titleAr": "ألا يا عين فانهمري ، وقلت ألا يا عين فانهمري ، وقلت",
+    "titleEn": "O eye, pour down — I said, O eye pour",
+    "genre": "ritha",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "ألا يا عين فانهمري ، وقلت ألا يا عين فانهمري ، وقلت",
+        "ajuz": "لمرزئة اصبت بها تولت"
+      },
+      {
+        "sadr": "لمرزئة كان النفس منها",
+        "ajuz": "بعيد النوم تشعل يوم غلت"
+      },
+      {
+        "sadr": "ألا يا عين ويحك أسعديني",
+        "ajuz": "فقد عظمت مصيبته وجلت"
+      },
+      {
+        "sadr": "مصيبته علي وروعتني",
+        "ajuz": "فقد خصت مصيبته وعمت"
+      },
+      {
+        "sadr": "لو أن الكف تقبل في فداه",
+        "ajuz": "بذلت يدي اليمين له فشلت"
+      },
+      {
+        "sadr": "كما والى عليينا من نداه ،",
+        "ajuz": "وشاد لنا المكارم فاستهلت"
+      },
+      {
+        "sadr": "فلم ينزع وما قصرت يداه",
+        "ajuz": "ولم يبلغ ثنائي حيث حلت"
+      }
+    ],
+    "translationEn": "O eye, pour down — for I said, O eye, pour down — over a calamity that struck me and then passed on. A calamity such that the soul, kept from sleep by it, blazes on the day it flares. O eye, woe to you — help me! For his calamity is great and has become immense. His calamity has fallen upon me and terrified me — it is both particular and universal in its reach. If the hand could be accepted as ransom for him, I would have offered my right hand until it withered. Just as he lavished upon us continuously from his generosity and built noble deeds for us until they poured down. He never desisted and his hands never fell short, yet my praise of him has not reached to where he now dwells.",
+    "vocabularyHighlights": [
+      { "word": "فانهمري", "meaning": "pour down, flow (imperative to the eye)" },
+      { "word": "مرزئة", "meaning": "a great calamity, a devastating loss" },
+      { "word": "غلت", "meaning": "boiled over, flared up (of intense grief)" },
+      { "word": "ويحك", "meaning": "woe to you (expression of reproach or sorrow)" },
+      { "word": "فشلت", "meaning": "withered, became paralyzed (of a hand)" },
+      { "word": "والى", "meaning": "continued repeatedly, lavished continuously" },
+      { "word": "شاد", "meaning": "built up, raised (noble deeds)" },
+      { "word": "ثنائي", "meaning": "my praise, my commendation" }
+    ],
+    "context": "In this elegy Al-Khansa addresses her eye repeatedly, calling it to pour tears over an unnamed but enormous loss — likely Sakhr — saying the calamity is both personal and universal, and that her praise could never reach wherever he now rests."
+  },
+  {
+    "id": "al-khansa-11",
+    "poetId": "al-khansa",
+    "titleAr": "يا عين جودي بالدموع",
+    "titleEn": "O eye, be generous with tears",
+    "genre": "ritha",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "يا عين جودي بالدموع",
+        "ajuz": "المستهلات السوافح"
+      },
+      {
+        "sadr": "فيضا كما فاضت غروب",
+        "ajuz": "ب المترعات من النواضح"
+      },
+      {
+        "sadr": "و ابكي لصخر اذ ثوى",
+        "ajuz": "بين الضريحة والصفائح"
+      },
+      {
+        "sadr": "رمسا لدى جدث تذيع م",
+        "ajuz": "بتربه هوج النوافح"
+      },
+      {
+        "sadr": "السيد الجحجاح وابن",
+        "ajuz": "السادة الشم الجحاجح"
+      },
+      {
+        "sadr": "الحامل الثقل المهم م",
+        "ajuz": "من الملمات الفوادح"
+      },
+      {
+        "sadr": "الجابر العظم الكسير",
+        "ajuz": "من المهاصر والممانح"
+      },
+      {
+        "sadr": "الواهب المئة الهجان",
+        "ajuz": "ن من الخناذيذ السوابح"
+      },
+      {
+        "sadr": "الغافر الذنب العظيم",
+        "ajuz": "لذي القرابة و الممالح"
+      },
+      {
+        "sadr": "بتعمد منه وحلم م",
+        "ajuz": "حين يبغي الحلم راجح"
+      },
+      {
+        "sadr": "ذاك الذي كنا به",
+        "ajuz": "نشفي المراض من الجوانح"
+      },
+      {
+        "sadr": "ويرد بادرة العدو",
+        "ajuz": "ونخوة الشنف المكاشح"
+      },
+      {
+        "sadr": "فأصابنا ريب الزمان",
+        "ajuz": "ن فنالنا منه بناطح"
+      },
+      {
+        "sadr": "فكانما ام الزما",
+        "ajuz": "نحورنا بمدى الذبائح"
+      },
+      {
+        "sadr": "فنساؤنا يندبن نوحا",
+        "ajuz": "حا بعد هادية النوائح"
+      },
+      {
+        "sadr": "يحنن بعد كرى العيو",
+        "ajuz": "ن حنين والهة قوامح"
+      },
+      {
+        "sadr": "شعثت شواحب لا ينين",
+        "ajuz": "اذا ونى ليل النوائح"
+      },
+      {
+        "sadr": "يندبن فقد أخي الندى",
+        "ajuz": "والخير والشيم الصوالح"
+      },
+      {
+        "sadr": "والجود والأيدي الطوال",
+        "ajuz": "المستفيضات السوامح"
+      },
+      {
+        "sadr": "فالآن نحن ومن سوانا",
+        "ajuz": "نامثل اسنان القوارح"
+      }
+    ],
+    "translationEn": "O eye, be generous with tears — the gushing, flowing kind — pouring like the overflow of brimming buckets from waterwheels. Weep for Sakhr, now that he lies between the tomb-slabs and the stone covering. A grave beside a burial mound strewn by wild-blowing winds. The chieftain, the magnanimous noble, and son of high-nosed, magnanimous chieftains. The one who bore the heavy, serious burdens from crushing calamities. The healer of broken bones, from those who are harmed and those who grant favors. The giver of a hundred white camels from among the noble, swift racing kind. The one who forgave great offenses for kinsmen and those with whom he shared salt. Doing so deliberately and with forbearance, when forbearance was deemed best. That was the one through whom we healed the sick griefs within our hearts. He would repel the enemy's sudden advance and the arrogance of the hostile antagonist. But the treachery of fate struck us and reached us with its horns charging. As if time had slaughtered our throats with the blades of sacrificial knives. Our women lament and wail after the lead mourner begins her dirge. They moan after the heavy sleep of eyes — the moaning of a bereaved, distracted woman. Disheveled, pale, worn out — they do not slacken even when the night of mourning tires. They lament the loss of my brother of generosity, goodness, and righteous character. And generosity, and long hands flowing with liberality and pardon. Now we and those beyond us are like the teeth of an aging camel — worn down to equals.",
+    "vocabularyHighlights": [
+      { "word": "المستهلات", "meaning": "gushing, pouring forth (of tears)" },
+      { "word": "السوافح", "meaning": "flowing, streaming (tears)" },
+      { "word": "الضريحة", "meaning": "the tomb, the grave-slab" },
+      { "word": "الجحجاح", "meaning": "the magnanimous noble, the generous chieftain" },
+      { "word": "الفوادح", "meaning": "crushing calamities, overwhelming disasters" },
+      { "word": "الهجان", "meaning": "white camels, noble camels" },
+      { "word": "الممالح", "meaning": "those with whom one has shared salt — friends, allies" },
+      { "word": "القوارح", "meaning": "horses or camels in their fifth year — aged animals" }
+    ],
+    "context": "One of Al-Khansa's most celebrated long elegies for Sakhr, structured as a cascade of epithets praising him as chieftain, healer of the injured, forgiver, giver of camels, and protector — before describing the tribe's collective mourning and sense of leveling loss."
+  },
+  {
+    "id": "al-khansa-12",
+    "poetId": "al-khansa",
+    "titleAr": "ذري عنك أقوال الضلال ، كفى بنا",
+    "titleEn": "Abandon the words of the misguided, we suffice",
+    "genre": "fakhr",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "ذري عنك أقوال الضلال ، كفى بنا",
+        "ajuz": "لكبش الوغى في اليوم و الأمس ناطحا"
+      },
+      {
+        "sadr": "فخالد أولى بالتعذر منكم",
+        "ajuz": "غداة علا نهجا من الحق واضحا"
+      },
+      {
+        "sadr": "عليكم باذن الله يرجي مصمما",
+        "ajuz": "سوانح لا تكبو لها وبوارحا"
+      },
+      {
+        "sadr": "نعوا مالكا بالتاج لما هبطنه",
+        "ajuz": "عوابس في هابي الغبار كوالحا"
+      },
+      {
+        "sadr": "فإن تك قد أبكتك سلمى بمالك",
+        "ajuz": "تركنا عليه نائحات ونائحا"
+      }
+    ],
+    "translationEn": "Abandon the words of the misguided — it suffices that we have been the butting ram of battle, yesterday and today. For Khalid has more right to be excused than you, on the morning he took the clear path of righteousness. Against you, by the permission of God, he is steadfastly determined — omens of the right side and left side do not make him stumble. They announced the death of Malik crowned when we descended upon them, grim-faced in the billowing dust, with scowling looks. If Salma has made you weep over Malik, we have left upon him wailing women and wailing men.",
+    "vocabularyHighlights": [
+      { "word": "ذري", "meaning": "abandon, set aside, leave" },
+      { "word": "كبش الوغى", "meaning": "the ram of battle — the foremost warrior" },
+      { "word": "ناطحا", "meaning": "butting, charging with the head" },
+      { "word": "سوانح", "meaning": "right-side omens (favorable)" },
+      { "word": "وبوارحا", "meaning": "left-side omens (usually unfavorable)" },
+      { "word": "عوابس", "meaning": "grim-faced, fierce-looking" },
+      { "word": "هابي الغبار", "meaning": "billowing, rising dust" },
+      { "word": "كوالحا", "meaning": "with snarling faces, scowling" }
+    ],
+    "context": "This is a poem of tribal pride and defiance, not a personal elegy — Al-Khansa boasts of her clan's martial prowess and their victories over enemies, asserting their right to lead and their fearlessness in battle."
+  },
+  {
+    "id": "al-khansa-13",
+    "poetId": "al-khansa",
+    "titleAr": "لا تخل أنني لقيت رواحا",
+    "titleEn": "Do not think I have found any rest",
+    "genre": "ritha",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "لا تخل أنني لقيت رواحا",
+        "ajuz": "بعد صخر حتى أثبن نواحا"
+      },
+      {
+        "sadr": "من ضميري بلوعة الحزن حتى",
+        "ajuz": "نكأ الحزن في فؤادي فقاحا"
+      },
+      {
+        "sadr": "لا تخلني اني نسيت ولا بل",
+        "ajuz": "فؤادي ولو شربت القراحا"
+      },
+      {
+        "sadr": "ذكر صخر إذا ذكرت نداه",
+        "ajuz": "عيل صبري برزئه ثم باحا"
+      },
+      {
+        "sadr": "ان في الصدر اربعا يتجاوبن",
+        "ajuz": "م حنينا حتى كسرن الجناحا"
+      },
+      {
+        "sadr": "دق عظمي وهاض مني جناحي",
+        "ajuz": "هلك صخر فما أطيق براحا"
+      },
+      {
+        "sadr": "من لضيف يحل بالحي عان",
+        "ajuz": "بعد صخر إذا دعاه صياحا"
+      },
+      {
+        "sadr": "وعليه ارامل الحي والسفر م",
+        "ajuz": "ومعترهم به قد ألاحا"
+      },
+      {
+        "sadr": "وعطايا يهزها بسماح",
+        "ajuz": "وطماح لمن اراد طماحا"
+      },
+      {
+        "sadr": "ظفر بالامور جلد نجيب",
+        "ajuz": "واذا ما سما لحرب اباحا"
+      },
+      {
+        "sadr": "وبحلم إذا الجهول اعتراه",
+        "ajuz": "يردع الجهل بعد ما قد اشاحا"
+      },
+      {
+        "sadr": "انني قد علمت وجدك بالحمد م",
+        "ajuz": "واطلاقك العناة سماحا"
+      },
+      {
+        "sadr": "فارس يضرب الكتيبة بالسيف م",
+        "ajuz": "اذا ازدف العويل الصياحا"
+      },
+      {
+        "sadr": "يقبل الطعن للنحور بشزر",
+        "ajuz": "حين يسمو حتى يلين الجراحا"
+      },
+      {
+        "sadr": "مقبلات حتى يولين عنه",
+        "ajuz": "مدبرات وما يرذن كفاحا"
+      },
+      {
+        "sadr": "كم طريد قد سكن الجأش منه",
+        "ajuz": "كان يدعو بصفهن صراحا"
+      },
+      {
+        "sadr": "فارس الحرب والمعمم فيها",
+        "ajuz": "مدره الحرب حين يلقى نطاحا"
+      }
+    ],
+    "translationEn": "Do not think that I have found any rest after Sakhr — not until mourning cries settle back in me. From my innermost being, the burn of grief is such that sorrow has torn open my heart like an old wound. Do not think I have forgotten — no, my heart, even if I drank pure water, remembers Sakhr whenever I recall his generosity; my patience with his loss is exhausted, and the grief has spoken out. Within my chest are four birds calling to each other in longing until they have broken the wing. My bones are crushed and my wing is broken within me — Sakhr has perished and I cannot bear to rest. Who now will receive the guest arriving at the tribe in distress after Sakhr, when he calls out for help? Upon him the tribe's widows and travelers rely, and those struck by hardship have been made apparent through him. And gifts he shakes out with liberality, and ambition for those who desired ambition. He seized all affairs, steadfast and noble, and whenever he aspired to battle he laid it open. With forbearance when the ignorant assailed him — he would repel their foolishness after they had turned away. I knew your passionate love of praise and your freeing of captives with generosity. A horseman who strikes the battalion with the sword when wailing and crying crowd together. He faces the stabbing at the throats with a sideways look, when he rises until wounds no longer matter. They advance against him until they turn away from him, retreating — and they do not seek him out face to face. How many a fugitive whose heart was calmed by him — he used to call to them openly by their ranks. Horseman of war and its turbaned leader, the champion of battle when it meets him head-on.",
+    "vocabularyHighlights": [
+      { "word": "رواحا", "meaning": "rest, ease, relief" },
+      { "word": "نكأ", "meaning": "reopened (a wound), tore open" },
+      { "word": "فقاحا", "meaning": "a wound reopened, a gaping wound" },
+      { "word": "القراحا", "meaning": "pure, clear water (unmixed)" },
+      { "word": "العناة", "meaning": "captives, prisoners" },
+      { "word": "الكتيبة", "meaning": "a battalion, a company of soldiers" },
+      { "word": "بشزر", "meaning": "with a sideways glance, obliquely" },
+      { "word": "مدره", "meaning": "the champion, the foremost defender" }
+    ],
+    "context": "A long, passionate elegy in which Al-Khansa insists she has found no rest since Sakhr's death, cataloguing his role as protector of guests, widows, captives, and warriors, and praising his wisdom, generosity, and fearlessness in battle."
+  },
+  {
+    "id": "al-khansa-14",
+    "poetId": "al-khansa",
+    "titleAr": "جرى لي طير في حمام حذرته",
+    "titleEn": "An omen bird flew among doves, I warned you",
+    "genre": "ritha",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "جرى لي طير في حمام حذرته",
+        "ajuz": "عليك ابن عمر و من سنيح وبارح"
+      },
+      {
+        "sadr": "فلم ينج صخرا ما حذرت وغاله",
+        "ajuz": "مواقع غاد للمنون ورائح"
+      },
+      {
+        "sadr": "رهينة رمس قد تجر ذيولها",
+        "ajuz": "عليه سوافي الرامسات البوارح"
+      },
+      {
+        "sadr": "فيا عين بكي لأمرىء طار ذكره",
+        "ajuz": "له تبكي عين الراكضات السوابح"
+      },
+      {
+        "sadr": "وكل طويل المتن اسمر ذابل",
+        "ajuz": "وكل عتيق في جياد الصفائح"
+      },
+      {
+        "sadr": "وكل دلاص كالاضاة مذالة",
+        "ajuz": "وكل جواد بين العتق قارح"
+      },
+      {
+        "sadr": "وكل ذمول كالفنيق شملة",
+        "ajuz": "وكل سريع ، آخر الليل ، آزح"
+      },
+      {
+        "sadr": "وللجار يوما إن دعا لمضيفة",
+        "ajuz": "دعا مستغيثا اولا بالجوابح"
+      },
+      {
+        "sadr": "أخو الحزم في الهيجاء والعزم في التي",
+        "ajuz": "لوقعتها يسود بيض المسايح"
+      },
+      {
+        "sadr": "حسيب لبيب متلف ما افاده",
+        "ajuz": "مبيح تلاد المستغش المكاشح"
+      }
+    ],
+    "translationEn": "An omen bird flew among the doves and I warned you of it, O son of Amr — both the right-side and left-side omen. But what I warned against could not save Sakhr, and the repeated visitations of death, morning and evening, destroyed him. He is now a pledge to the grave, its trailing edges of drifting sand blown over it by passing winds. O eye, weep for a man whose memory has taken flight — for him weep the eye of swift racing horses. And every long-shafted, dark, slender spear, and every noble sword among the finest blades. And every polished coat of mail like a gleaming pool, made to flow, and every swift charger among the best in its prime. And every steady trotting camel like a powerful bull-camel in its shaggy covering, and every swift rider in the last hours of night, pressing on. And the neighbor's eye weeps for him whenever he called on a day when a host was needed, calling for help first by his right-side auspices. He was the man of resolve in battle and determination in what, when it fell, blackened the bright polished armor. Of noble lineage, keen of mind, spending freely what he gained, bestowing the inherited wealth of the deceitful hostile enemy.",
+    "vocabularyHighlights": [
+      { "word": "سنيح", "meaning": "a right-side omen (favorable bird passing from left to right)" },
+      { "word": "بارح", "meaning": "a left-side omen (bird passing from right to left, unfavorable)" },
+      { "word": "رهينة رمس", "meaning": "a pledge to the grave, held by death" },
+      { "word": "سوافي", "meaning": "drifting sands, wind-blown sand" },
+      { "word": "دلاص", "meaning": "polished, smooth (of armor)" },
+      { "word": "الاضاة", "meaning": "a small pool, a gleaming water surface" },
+      { "word": "الفنيق", "meaning": "a powerful bull-camel" },
+      { "word": "تلاد", "meaning": "inherited property, ancestral wealth" }
+    ],
+    "context": "Al-Khansa recalls seeing an ill omen before Sakhr's death and warns that it could not be averted, then eulogizes him through a long series of images: every weapon, horse, camel, and warrior that weeps for him, before praising his nobility and generosity."
+  },
+  {
+    "id": "al-khansa-15",
+    "poetId": "al-khansa",
+    "titleAr": "أعيني جودا ولا تجمدا",
+    "titleEn": "O my two eyes, be generous and do not freeze",
+    "genre": "ritha",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "أعيني جودا ولا تجمدا",
+        "ajuz": "ألا تبكيان لصخر الندى ؟"
+      },
+      {
+        "sadr": "ألا تبكيان الجريء الجميل",
+        "ajuz": "ألا تبكيان الفتى السيدا ؟"
+      },
+      {
+        "sadr": "طويل النجاد رفيع العما",
+        "ajuz": "ساد عشيرته أمردا"
+      },
+      {
+        "sadr": "إذا القوم مدوا بأيديهم",
+        "ajuz": "إلى المجد مد إليه يدا"
+      },
+      {
+        "sadr": "فنال الذي فوق أيديهم",
+        "ajuz": "من المجد ثم مضى مصعدا"
+      },
+      {
+        "sadr": "يكلفه القوم ما عالهم",
+        "ajuz": "وإن كان أصغرهم مولدا"
+      },
+      {
+        "sadr": "ترى المجد يهوي الى بيته",
+        "ajuz": "يرى افضل الكسب ان يحمدا"
+      },
+      {
+        "sadr": "وان ذكر المجد الفيته",
+        "ajuz": "تأزر بالمجد ثم ارتدى"
+      }
+    ],
+    "translationEn": "O my two eyes, be generous and do not freeze! Will you not weep for Sakhr the generous? Will you not weep for the bold, the beautiful, the noble youth and chieftain? Long in his sword-belt, lofty in his glory, he led his tribe as a beardless youth. When people stretched forth their hands toward glory, he stretched his toward it too. And he attained what was beyond their reach in glory, then continued ascending. People burdened him with whatever burdened them, even though he was the youngest born among them. You could see glory rushing to his house, for he considered being praised the finest thing to earn. And whenever glory was mentioned you would find him girded with glory, then wrapped in it.",
+    "vocabularyHighlights": [
+      { "word": "تجمدا", "meaning": "freeze, dry up, become still (of tears)" },
+      { "word": "الندى", "meaning": "generosity, liberality, dew" },
+      { "word": "طويل النجاد", "meaning": "long in the sword-belt — tall, of great stature" },
+      { "word": "رفيع العماد", "meaning": "high in the tent-pole — of great honor and distinction" },
+      { "word": "أمردا", "meaning": "as a beardless youth, in early youth" },
+      { "word": "يهوي", "meaning": "rushes toward, plunges down to" },
+      { "word": "تأزر", "meaning": "girded himself, wrapped himself around (like a lower garment)" },
+      { "word": "ارتدى", "meaning": "put on an upper garment, draped himself" }
+    ],
+    "context": "A celebrated elegy for Sakhr in which Al-Khansa praises him for achieving leadership even as a young man, surpassing his elders in the pursuit of glory, and making his house the destination of honor itself — imagery that became iconic in Arabic elegiac poetry."
+  },
+  {
+    "id": "al-khansa-16",
+    "poetId": "al-khansa",
+    "titleAr": "بكت عيني وعاودت السهودا",
+    "titleEn": "My eye wept and sleeplessness returned",
+    "genre": "ritha",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "بكت عيني وعاودت السهودا",
+        "ajuz": "وبت الليل جانحة عميدا"
+      },
+      {
+        "sadr": "لذكرى معشر ولوا وخلوا",
+        "ajuz": "علينا من خلافتهم فقودا"
+      },
+      {
+        "sadr": "ووافوا ظمء خامسة فامسوا",
+        "ajuz": "مع الماضين قد تبعوا ثمودا"
+      },
+      {
+        "sadr": "فكم من فارس لك أم عمر و",
+        "ajuz": "يحوط سنانه الانس الحريدا"
+      },
+      {
+        "sadr": "كصخر او معاوية بن عمر و",
+        "ajuz": "اذا كانت وجوه القوم سودا"
+      },
+      {
+        "sadr": "يرد الخيل دامية كلاها",
+        "ajuz": "جدير يوم هيجا أن يصيدا"
+      },
+      {
+        "sadr": "يكبون العشار لمن اتاهم",
+        "ajuz": "اذا لم تحسب المئة الوليدا"
+      }
+    ],
+    "translationEn": "My eye wept and sleeplessness returned to me, and I passed the night leaning, grief-stricken. From the memory of a people who departed and left behind them their succession as a loss upon us. They reached the fifth-day thirst and by evening they had joined the departed, following in the steps of Thamud. How many a horseman has the mother of Amr, whose spear-tip protects the isolated weak person — like Sakhr or Muawiya ibn Amr, when the faces of men turn dark with fear. He drives back the horses with their sides bleeding — worthy on a day of battle to take captives. They would slaughter their prized she-camels for those who came to them, when a hundred head was not considered a great gift.",
+    "vocabularyHighlights": [
+      { "word": "السهود", "meaning": "sleeplessness, insomnia" },
+      { "word": "جانحة", "meaning": "leaning, bending to one side (from grief)" },
+      { "word": "عميدا", "meaning": "grief-stricken, propped up (by sorrow)" },
+      { "word": "ظمء خامسة", "meaning": "the fifth-day thirst (interval between waterings for camels)" },
+      { "word": "الحريدا", "meaning": "the isolated, the lonely, the one separated from his group" },
+      { "word": "كلاها", "meaning": "both sides (of the horse's body)" },
+      { "word": "العشار", "meaning": "she-camels in their tenth month of pregnancy — most prized" },
+      { "word": "الوليدا", "meaning": "the newborn, a young child" }
+    ],
+    "context": "Al-Khansa mourns both her brothers Sakhr and Muawiya together in this poem, lamenting that their generation has followed the ancient destroyed people of Thamud, and praising both brothers as fearless warriors and open-handed hosts."
+  },
+  {
+    "id": "al-khansa-17",
+    "poetId": "al-khansa",
+    "titleAr": "لا شيء يبقى غير وجه مليكنا",
+    "titleEn": "Nothing endures save the face of our King",
+    "genre": "hikma",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "لا شيء يبقى غير وجه مليكنا",
+        "ajuz": "ولست أرى شيئا على الدهر خالدا"
+      },
+      {
+        "sadr": "ألا إن يوم ابن الشريد ورهطه",
+        "ajuz": "أباد جفانا والقدور الرواكدا"
+      },
+      {
+        "sadr": "هم يملأون لليتيم اناء ه",
+        "ajuz": "وهم ينجزون للخليل المواعدا"
+      },
+      {
+        "sadr": "الا ابلغا عني سليما وعامرا",
+        "ajuz": "ومن كان من عليا هوازن شاهدا"
+      },
+      {
+        "sadr": "بأن بني ذبيان قد أرصدوا لكم",
+        "ajuz": "إذا ما تلاقيتم بأن لا تعاودا"
+      },
+      {
+        "sadr": "فلا يقربن الأرض إلا مسارق",
+        "ajuz": "يخاف خميسا مطلع الشمس حاردا"
+      },
+      {
+        "sadr": "على كل جرداء النسالة ضامر",
+        "ajuz": "بآخر ليل ما ضفزن الحدائدا"
+      },
+      {
+        "sadr": "فقد زاح عنا اللوم اذ تركوا لنا",
+        "ajuz": "اروما فآراما فماء بواردا"
+      },
+      {
+        "sadr": "ونحن قتلنا هاشما وابن اخته",
+        "ajuz": "ولا صلح حتى نستقيد الخرائدا"
+      },
+      {
+        "sadr": "فقد جرت العادات أنا لدى الوغى",
+        "ajuz": "سنظفر والانسان يبغي الفوائدا"
+      }
+    ],
+    "translationEn": "Nothing endures but the face of our King, and I see nothing that remains eternal through time. The day of Ibn al-Sharid and his people has wiped out our cauldrons and the settled cooking pots. They used to fill the orphan's bowl and they used to fulfil their promises to the friend. Convey from me to Sulaym and Amir, and to whoever of the nobles of Hawazin is present: that the sons of Dhubyan have prepared for you, when you meet, to receive no further reprieve. Let none approach the land except a stealthy thief who fears an army at sunrise, eager and withholding. Upon every smooth-coated, lean she-camel, in the last of the night, not yet made to kneel while bearing iron loads. Blame has been lifted from us since they left for us the heights, the rising ground, and the watering-place with its visitors. We have slain Hashim and his nephew, and there shall be no peace until we exact vengeance for our captive women. Custom has established that when we go to war we shall be victorious, and every person seeks his advantage.",
+    "vocabularyHighlights": [
+      { "word": "مليكنا", "meaning": "our King — referring to God" },
+      { "word": "خالدا", "meaning": "enduring forever, eternal" },
+      { "word": "الرواكدا", "meaning": "stationary, settled (of large cooking pots)" },
+      { "word": "ذبيان", "meaning": "Dhubyan — a tribe hostile to Al-Khansa's clan" },
+      { "word": "أرصدوا", "meaning": "prepared, lay in wait" },
+      { "word": "جرداء النسالة", "meaning": "smooth-coated, with little shedding hair — sleek camel" },
+      { "word": "الخرائدا", "meaning": "captive women, young women taken prisoner" },
+      { "word": "الفوائدا", "meaning": "advantages, benefits, gains" }
+    ],
+    "context": "Opening with a meditation on the transience of all things except God, this poem pivots to a tribal war poem in which Al-Khansa conveys a warning to enemy tribes and asserts her clan's determination to fight on until blood-vengeance is taken."
+  },
+  {
+    "id": "al-khansa-18",
+    "poetId": "al-khansa",
+    "titleAr": "ابكي لصخر اذا ناحت مطوقة",
+    "titleEn": "I weep for Sakhr when a ringed dove moans",
+    "genre": "ritha",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "ابكي لصخر اذا ناحت مطوقة",
+        "ajuz": "حمامة ، شجوها ، ورقاء بالوادي"
+      },
+      {
+        "sadr": "إذا تلأم في زغف مضاعفة",
+        "ajuz": "وصارم مثل لون الملح جراد"
+      },
+      {
+        "sadr": "ونبعة ذات ارنان وولولة",
+        "ajuz": "ومارن العود لا كز ولا عاد"
+      },
+      {
+        "sadr": "سمح الخليقة لا نكس ولا غمر",
+        "ajuz": "بل باسل مثل ليث الغابة العادي"
+      },
+      {
+        "sadr": "من أسد بيشة يحمي الخل ذي لبد",
+        "ajuz": "من اهله الحاضر الآذنين والبادي"
+      },
+      {
+        "sadr": "والمشبع القوم شحما عند مسغبهم",
+        "ajuz": "نكباء مغبرة هبت بصراد"
+      }
+    ],
+    "translationEn": "I weep for Sakhr whenever a ringed dove moans in her grief, a grey dove in the valley. When warriors are clad in interlocking coats of mail, and polished blades white as salt glitter in rows. And a nabaʿ bow that twangs and wails, with a flexible shaft that is neither stiff nor deviant. He was generous of character, neither weak nor ignorant — rather, bold like the predatory lion of the forest. From the lions of Bisha, protecting the friend with the thick mane against his settled and wandering folk. And the one who fed his people fat when they were hungry in a sideways dusty wind that blew with bitter cold.",
+    "vocabularyHighlights": [
+      { "word": "مطوقة", "meaning": "a ringed or collared dove" },
+      { "word": "شجوها", "meaning": "her grief, her sorrow" },
+      { "word": "ورقاء", "meaning": "grey, dust-colored (a dove)" },
+      { "word": "زغف", "meaning": "coats of mail, armor" },
+      { "word": "مضاعفة", "meaning": "doubled, interlocking (of chain mail)" },
+      { "word": "صارم", "meaning": "a sharp, cutting sword" },
+      { "word": "نبعة", "meaning": "a bow made from the nabaʿ tree" },
+      { "word": "صراد", "meaning": "bitter cold (with a northerly wind)" }
+    ],
+    "context": "This elegy begins with the image of a mourning dove whose cry triggers Al-Khansa's tears for Sakhr, before she praises him through battle imagery — his prowess as a lion, his generosity in providing meat in cold and hungry times."
+  },
+  {
+    "id": "al-khansa-19",
+    "poetId": "al-khansa",
+    "titleAr": "يا عين جودي بالدموع",
+    "titleEn": "O eye, be generous with tears, for your springs have dried",
+    "genre": "ritha",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "يا عين جودي بالدموع",
+        "ajuz": "فقد جفت عنك المراود"
+      },
+      {
+        "sadr": "وابكي لصخر انه",
+        "ajuz": "شق الفؤاد لما يكابد"
+      },
+      {
+        "sadr": "المستضاف من السنين",
+        "ajuz": "إذا قسا منها المحارد"
+      },
+      {
+        "sadr": "حين الرياح بلائل",
+        "ajuz": "نكب هوائجها صوارد"
+      },
+      {
+        "sadr": "ينفين عن ليط السما",
+        "ajuz": "ظلائلا والماء جامد"
+      },
+      {
+        "sadr": "مزقا تطردها الريا",
+        "ajuz": "كأنها خرق طرائد"
+      },
+      {
+        "sadr": "والمال عند ذوي البقية",
+        "ajuz": "والغنى خذم شرائد"
+      },
+      {
+        "sadr": "فيفك كربة من تمخخ",
+        "ajuz": "نقية الدول الجهائد"
+      },
+      {
+        "sadr": "حتى يؤوب بما يؤوب",
+        "ajuz": "كثير فضل العرف حامد"
+      },
+      {
+        "sadr": "ونداك محتضر ونو",
+        "ajuz": "رك في دجى الظلماء واقد"
+      },
+      {
+        "sadr": "لو ترسل الإبل الظماء",
+        "ajuz": "يسمن ليس لهن قائد"
+      },
+      {
+        "sadr": "لتيممتك يدلها",
+        "ajuz": "جدواك و السبل الموارد"
+      },
+      {
+        "sadr": "والناس سابلة اليك م",
+        "ajuz": "فصادر بغنى ووارد"
+      },
+      {
+        "sadr": "يغشون منك غطامطا",
+        "ajuz": "جاشت بوابله الرواعد"
+      },
+      {
+        "sadr": "يا ابن القروم ذوي الحجى",
+        "ajuz": "وابن الخضارمة المرافد"
+      },
+      {
+        "sadr": "وابن المهائر للمهائر",
+        "ajuz": "ئر زانها الشيم المواجد"
+      },
+      {
+        "sadr": "وحماة من يدعى اذا",
+        "ajuz": "ما طار عند الموت عارد"
+      },
+      {
+        "sadr": "ومعاصم للهالكين م",
+        "ajuz": "وساسة قدما محاشد"
+      }
+    ],
+    "translationEn": "O eye, be generous with tears, for your springs have dried up. And weep for Sakhr — he has torn open the heart with what it endures. He was the one sought as a host in years when the arid lands grew hard. When the winds blow at night, driving their fierce gusts with bitter cold. Stripping from the sky's surface the wisps of cloud while the water is frozen solid. Torn shreds that the wind chases as if they were fugitive rags in flight. And wealth with those who have reserves, and riches are packs of fleeing animals. He would release the distress of one whose she-camels have been sucked dry of their marrow — pure of the bucket-ropes, hard-tried. Until he returns with what he returns with — abundant kindness, one who is praised. Your generosity was ever-present and your light blazed in the thick darkness. If the thirsty camels were set free to fatten with no guide, they would head straight for you, led by your bounty and the well-worn paths. People pour toward you in streams — some departing with wealth and some arriving. They come to you like a surging sea in which thunderclouds have rained their downpours. O son of the wise, intelligent nobles, and son of the great generous supporters! And son of the like marrying like — adorned with the noblest character. A protector of those who call when flight-panic seizes a man at death. And strong hands for those who perish — long-standing leaders of assembled armies.",
+    "vocabularyHighlights": [
+      { "word": "المراود", "meaning": "springs, sources (of tears)" },
+      { "word": "المحارد", "meaning": "arid, barren lands that give no pasture" },
+      { "word": "صوارد", "meaning": "bitterly cold, frozen" },
+      { "word": "ليط السما", "meaning": "the surface of the sky, the sky's smooth expanse" },
+      { "word": "الخضارمة", "meaning": "the generous, the abundantly giving" },
+      { "word": "المرافد", "meaning": "supporters, those who aid and sustain others" },
+      { "word": "الغطامط", "meaning": "a roaring surge, a tumultuous flood" },
+      { "word": "محاشد", "meaning": "assembled armies, gathered masses of men" }
+    ],
+    "context": "A long and richly imagined elegy in which Al-Khansa praises Sakhr as the ultimate host in seasons of winter hardship and drought, his generosity likened to a guiding light in darkness and a sea to which all thirsty camels would instinctively come."
+  },
+  {
+    "id": "al-khansa-20",
+    "poetId": "al-khansa",
+    "titleAr": "أهاج لك الدموع على ابن عمر و",
+    "titleEn": "What has stirred your tears over Ibn Amr",
+    "genre": "ritha",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "أهاج لك الدموع على ابن عمر و",
+        "ajuz": "مصائب قد رزئت بها فجودي"
+      },
+      {
+        "sadr": "بسجل منك منحدر عليه",
+        "ajuz": "فما ينفك مثل عدا الفريد"
+      },
+      {
+        "sadr": "على فرع رزئت به خناس",
+        "ajuz": "طويل الباع فياض حميد"
+      },
+      {
+        "sadr": "جليد كان خير بني سليم",
+        "ajuz": "كريمهم المسود والمسود"
+      },
+      {
+        "sadr": "أبو حسان كان ثمال قومي",
+        "ajuz": "فأصبح ثاويا بين اللحود"
+      },
+      {
+        "sadr": "رهين بلى ، وكل فتى سيبلى",
+        "ajuz": "فأذري الدمع بالسكب المجود"
+      },
+      {
+        "sadr": "فأقسم لو بقيت لكنت فينا",
+        "ajuz": "عديدا لا يكاثر بالعديد"
+      },
+      {
+        "sadr": "ولكن الحوادث طارقات",
+        "ajuz": "لها صرف على الرجل الجليد"
+      },
+      {
+        "sadr": "فإن تك قد أتتك فلا تنادي",
+        "ajuz": "فقد اودت بفياض مجيد"
+      },
+      {
+        "sadr": "جليد حازم قدما اتاه",
+        "ajuz": "صروف الدهر بعد بني ثمود"
+      },
+      {
+        "sadr": "وعادا قد علاها الدهر قسرا",
+        "ajuz": "وحمير والجنود مع الجنود"
+      },
+      {
+        "sadr": "فلا يبعد أبو حسان صخر",
+        "ajuz": "وحل برمسه طير السعود"
+      }
+    ],
+    "translationEn": "What has stirred your tears over Ibn Amr — calamities that have struck you — so pour them out! With a great bucket flowing down over him, never ceasing like beads strung on a necklace. Over a noble branch — Khansa has been bereaved of him — of long reach and overflowing generosity, praised. Steadfast, he was the best of the sons of Sulaym — their noble one, both the one who leads and the one led. Abu Hassan was the support of my people, and now he lies settled among the tomb-slabs. A pledge to decay — and every youth will decay — so let your tears flow in generous pouring. I swear, had you lived you would have been among us a force that no multitude could outnumber. But calamities come knocking, turning upon the steadfast man. If fate has come for you, there is no calling out — for it has destroyed a generous, glorious man. Steadfast, determined, calamities of time have come upon him long ago, after the sons of Thamud. And Aad, upon whom time forced itself, and Himyar and armies upon armies. May Abu Hassan Sakhr not be far away, and may the birds of good fortune settle upon his grave.",
+    "vocabularyHighlights": [
+      { "word": "أهاج", "meaning": "stirred up, provoked (tears or emotions)" },
+      { "word": "سجل", "meaning": "a large bucket, a great outpouring" },
+      { "word": "الفريد", "meaning": "a single bead — lone pearl on a string" },
+      { "word": "فياض", "meaning": "overflowing with generosity" },
+      { "word": "ثمال", "meaning": "the support, the refuge, the sustainer of a people" },
+      { "word": "اللحود", "meaning": "the niches of graves, tomb-slabs" },
+      { "word": "صروف الدهر", "meaning": "the reversals of time, the blows of fate" },
+      { "word": "طير السعود", "meaning": "birds of good fortune, lucky omens" }
+    ],
+    "context": "Al-Khansa mourns Sakhr (Abu Hassan) as the indispensable pillar of her people, comparing the loss of him to the destruction of ancient peoples like Thamud and Aad — fates that even the strongest cannot escape — and ending with a prayer for his grave."
+  },
+  {
+    "id": "al-khansa-21",
+    "poetId": "al-khansa",
+    "titleAr": "عيني جودا بدمع منكما جودا",
+    "titleEn": "O my two eyes, pour generously your tears",
+    "genre": "ritha",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "عيني جودا بدمع منكما جودا",
+        "ajuz": "جودا ولا تعدا في اليوم موعودا"
+      },
+      {
+        "sadr": "هل تدريان على من ذا سبلتكما",
+        "ajuz": "على ابن امي ابيت الليل معمودا"
+      },
+      {
+        "sadr": "دارت بنا الارض او كادت تدور بنا",
+        "ajuz": "يا لهف نفسي فقد لاقيت صنديدا"
+      },
+      {
+        "sadr": "يا عين فابكي فتى محضا ضرائبه",
+        "ajuz": "صعبا مراقبه سهلا اذا ريدا"
+      },
+      {
+        "sadr": "لايأخذ الخسف في قوم فيغضبهم",
+        "ajuz": "ولا تراه اذا ما قام محدودا"
+      },
+      {
+        "sadr": "ولا يقوم إلى ابن العم يشتمه",
+        "ajuz": "ولا يدب إلى الجارات تخويدا"
+      },
+      {
+        "sadr": "كأنما خلق الرحمان صورته",
+        "ajuz": "دينار عين يراه الناس منقودا"
+      },
+      {
+        "sadr": "إذهب حريبا جزاك الله جنته",
+        "ajuz": "عنا وخلدت في الفردوس تخليدا"
+      },
+      {
+        "sadr": "قد عشت فينا ولا ترمى بفاحشة",
+        "ajuz": "حتى توفاك رب الناس محمودا"
+      }
+    ],
+    "translationEn": "O my two eyes, pour generously from your tears — pour and do not delay the promised gift today. Do you know over whom you have let them flow? Over the son of my mother whom I spend the night leaning, propped up by grief. The earth has spun around us or nearly spun — O how I grieve my soul, for I have lost a formidable man. O eye, weep for a youth whose qualities were pure, difficult to watch over but easy when approached. He did not accept humiliation among a people and make them angry, nor could you see him standing before them broken and limited. He would not rise against his cousin to insult him, nor would he creep toward the neighbor-women in deceit. As if the Compassionate God created his face like a pure gold dinar that people see as tested and fine. Go, you who has been bereaved — may God reward you with His paradise from us, and may you dwell in the Garden eternally. You lived among us and were never accused of a shameful act, until the Lord of all people took you while you were praised.",
+    "vocabularyHighlights": [
+      { "word": "سبلتكما", "meaning": "let them flow, released them (of tears)" },
+      { "word": "معمودا", "meaning": "propped up, leaning (from grief)" },
+      { "word": "صنديدا", "meaning": "a formidable, mighty man" },
+      { "word": "محضا ضرائبه", "meaning": "pure in his qualities, unmixed in character" },
+      { "word": "الخسف", "meaning": "humiliation, degradation" },
+      { "word": "محدودا", "meaning": "limited, restricted, bounded (broken)" },
+      { "word": "تخويدا", "meaning": "sneaking, creeping with bad intentions" },
+      { "word": "حريبا", "meaning": "one stripped of his possessions, bereaved" }
+    ],
+    "context": "An elegy addressed to her own eyes, Al-Khansa mourns the son of her mother — likely Sakhr — praising his moral integrity, handsome appearance compared to a gold dinar, and his untarnished reputation, before praying for his entry into Paradise."
+  },
+  {
+    "id": "al-khansa-22",
+    "poetId": "al-khansa",
+    "titleAr": "ضاقت بي الارض وانقضت محارمها",
+    "titleEn": "The earth has grown narrow for me, its sacred bounds broken",
+    "genre": "ritha",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "ضاقت بي الارض وانقضت محارمها",
+        "ajuz": "حتى تخاشعت الاعلام والبيد"
+      },
+      {
+        "sadr": "وقائلين تعزي عن تذكره",
+        "ajuz": "فالصبر ليس لامر الله مردود"
+      },
+      {
+        "sadr": "يا صخر قد كنت بدرا يستضاء به",
+        "ajuz": "فقد ثوى يوم مت المجد والجود"
+      },
+      {
+        "sadr": "فاليوم امسيت لا يرجوك ذو امل",
+        "ajuz": "لما هلكت وحوض الموت مورود"
+      },
+      {
+        "sadr": "ورب ثغر مهول خضت غمرته",
+        "ajuz": "بالمقربات عليها الفتية الصيد"
+      },
+      {
+        "sadr": "نصبت للقوم فيه فصل اعينهم",
+        "ajuz": "مثل الشهاب وهى منهم عباديد"
+      }
+    ],
+    "translationEn": "The earth has grown narrow for me and its sacred limits have been shattered, until the landmarks and the open plains have become humble and subdued. Those who say 'console yourself from remembering him — patience cannot reject the decree of God' speak truly. O Sakhr, you were a full moon whose light we used to follow; on the day you died, glory and generosity died with you. Today no one who hopes still hopes for you, now that you have perished — and the pool of death is one that all must reach. How many a terrifying frontier did you plunge into its depths on your close-bred horses with brave young men upon them. You set before the people in it the decision of their eyes like a shooting star, and they scattered from you in all directions.",
+    "vocabularyHighlights": [
+      { "word": "محارمها", "meaning": "its sacred and forbidden bounds, its inviolable limits" },
+      { "word": "تخاشعت", "meaning": "became humble, bowed down (of landmarks)" },
+      { "word": "الاعلام", "meaning": "prominent landmarks, mountain peaks" },
+      { "word": "البيد", "meaning": "the open desert plains" },
+      { "word": "تعزي", "meaning": "console yourself, seek consolation" },
+      { "word": "المقربات", "meaning": "close-bred horses, prized horses kept near the tent" },
+      { "word": "الشهاب", "meaning": "a shooting star, a meteor" },
+      { "word": "عباديد", "meaning": "scattered in all directions, dispersed" }
+    ],
+    "context": "Al-Khansa describes the world itself as narrowing and collapsing with Sakhr's death, then addresses him directly as a full moon whose light guided the people — gone now — before praising his fearlessness at the frontiers of battle."
+  },
+  {
+    "id": "al-khansa-23",
+    "poetId": "al-khansa",
+    "titleAr": "يا ابن الشريد وخير قيس كلها",
+    "titleEn": "O son of al-Sharid, best of all Qays",
+    "genre": "ritha",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "يا ابن الشريد وخير قيس كلها",
+        "ajuz": "خلفتني في حسرة وتلبد"
+      },
+      {
+        "sadr": "فلأبكينك ما سمعت حمامة",
+        "ajuz": "تدعو هديلا في فروع الفرقد"
+      },
+      {
+        "sadr": "انت المهند من سليم في العلى",
+        "ajuz": "والفرع لم يسب الكرام بمشهد"
+      },
+      {
+        "sadr": "قد كنت حصنا للعشيرة كلها",
+        "ajuz": "وخطيبها عند الهمام الاصيد"
+      },
+      {
+        "sadr": "فاذهب ولا تبعد وكل معمر",
+        "ajuz": "سيذوق كأس منية بتنكد"
+      },
+      {
+        "sadr": "لله در بني نهاسر إنهم",
+        "ajuz": "هدموا العمود وأدركوا بالأسود"
+      },
+      {
+        "sadr": "ضخم الدسيعة ماجدا أعراقه",
+        "ajuz": "كالبدر أو طلعة كالأسعد"
+      }
+    ],
+    "translationEn": "O son of al-Sharid, best of all Qays — you have left me in grief and confusion. I will weep for you as long as I hear a dove calling her cooing in the branches of the Farkad stars. You are the Indian sword of Sulaym in matters of glory, the noble branch that has never shamed the noble in any gathering. You were a fortress for the entire tribe and its spokesman before the mighty, the high-born. So go, and may you not be far — every person who lives long will taste the bitter cup of death. God bless the sons of Nuhasr — they demolished the tent-pole and seized it with their black swords. Of great generosity, his lineage is noble, like the full moon or a rising like the star of good fortune.",
+    "vocabularyHighlights": [
+      { "word": "تلبد", "meaning": "confusion, stupefaction, heaviness of grief" },
+      { "word": "هديلا", "meaning": "the cooing of a dove, a dove's call" },
+      { "word": "الفرقد", "meaning": "a star in Ursa Minor, used as a navigation point" },
+      { "word": "المهند", "meaning": "the Indian sword — finest quality blade" },
+      { "word": "الهمام الاصيد", "meaning": "the mighty, high-born, noble chieftain" },
+      { "word": "العمود", "meaning": "the central tent-pole — metaphor for the tribal pillar" },
+      { "word": "بالأسود", "meaning": "with black swords, with the lion (also 'aswad')" },
+      { "word": "الأسعد", "meaning": "the most fortunate star; also a proper name meaning 'most happy'" }
+    ],
+    "context": "Al-Khansa addresses Sakhr as the finest man of the entire Qays confederation, vowing to weep for him as long as doves call — a typical motif of eternal mourning — and praising him as her tribe's fortress and spokesperson before kings."
+  },
+  {
+    "id": "al-khansa-24",
+    "poetId": "al-khansa",
+    "titleAr": "ابكي ابي عمرا بعين غزيرة",
+    "titleEn": "I weep for my father Amr with a flowing eye",
+    "genre": "ritha",
+    "level": "beginner",
+    "verses": [
+      {
+        "sadr": "ابكي ابي عمرا بعين غزيرة",
+        "ajuz": "قليل اذا نام الخلي هجودها"
+      },
+      {
+        "sadr": "وصنوي لا أنسى معاوية الذي",
+        "ajuz": "له من سراة الحرتين وفودها"
+      },
+      {
+        "sadr": "وصخرا ومن ذا مثل صخر اذا غدا",
+        "ajuz": "بساحته الآطال قزم يقودها"
+      },
+      {
+        "sadr": "فذلك يا هند الرزية فاعلمي",
+        "ajuz": "ونيران حرب حين شب وقودها"
+      }
+    ],
+    "translationEn": "I weep for my father Amr with an eye that flows abundantly — little does it sleep even when the carefree sleep their fill. And for my two brothers — I do not forget Muawiya, who received the delegations from the nobles of the two lava-plains. And Sakhr — and who is like Sakhr when in his courtyard the tall, gaunt men come leading their flocks? That is the true calamity, O Hind, so know it — and the fires of war blazing when their fuel was lit.",
+    "vocabularyHighlights": [
+      { "word": "غزيرة", "meaning": "abundant, copious, flowing freely" },
+      { "word": "هجودها", "meaning": "its sleep (of the eye)" },
+      { "word": "صنوي", "meaning": "my two brothers (dual of 'brother' or 'peer')" },
+      { "word": "سراة", "meaning": "nobles, chieftains, leaders" },
+      { "word": "الحرتين", "meaning": "the two lava-plains — a geographic reference in Arabia" },
+      { "word": "الآطال", "meaning": "the tall, lean men; the thin-flanked" },
+      { "word": "قزم", "meaning": "short or impoverished people; thin, lean" },
+      { "word": "الرزية", "meaning": "the true calamity, the devastating loss" }
+    ],
+    "context": "A short, condensed elegy in which Al-Khansa mourns three men at once: her father Amr and her two brothers Muawiya and Sakhr, addressing the poem to a woman named Hind and calling these losses the true definition of calamity."
+  },
+  {
+    "id": "al-khansa-25",
+    "poetId": "al-khansa",
+    "titleAr": "ألا يا عين فانهمري بغدر",
+    "titleEn": "O eye, pour down with treachery's grief",
+    "genre": "ritha",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "ألا يا عين فانهمري بغدر",
+        "ajuz": "وفيضي فيضة من غير نزر"
+      },
+      {
+        "sadr": "ولا تعدي عزاء بعد صخر",
+        "ajuz": "فقد غلب العزاء وعيل صبري"
+      },
+      {
+        "sadr": "لمرزئة كان الجوف منها",
+        "ajuz": "بعيد النوم يشعر حر جمر"
+      },
+      {
+        "sadr": "على صخر وأي فتى كصخر",
+        "ajuz": "لعان عائل غلق بوتر"
+      },
+      {
+        "sadr": "وللخصم الالد اذا تعدى",
+        "ajuz": "ليأخذ حق مقهور بقسر"
+      },
+      {
+        "sadr": "وللأضياف اذ طرقوا هدوءا",
+        "ajuz": "وللكل المكل وكل سفر"
+      },
+      {
+        "sadr": "اذا نزلت بهم سنة جماد",
+        "ajuz": "أبي الدر لم تكسع بغبر"
+      },
+      {
+        "sadr": "هناك يكون غيث حيا تلاقى",
+        "ajuz": "نداه في جناب غير وغر"
+      },
+      {
+        "sadr": "واحيا من مخبأة كعاب",
+        "ajuz": "وأشجع من أبي شبل هزبر"
+      },
+      {
+        "sadr": "هريت الشدق رئبال اذا ما",
+        "ajuz": "عدا لم تنه عدوته بزجر"
+      },
+      {
+        "sadr": "ضبارمة توسد ساعديه",
+        "ajuz": "على طرق الغزاة وكل بحر"
+      },
+      {
+        "sadr": "تدين الخادرات له إذا ما",
+        "ajuz": "سمعن زئيره في كل فجر"
+      },
+      {
+        "sadr": "قواعد ما يلم بها عريب",
+        "ajuz": "لعسر في الزمان ولا ليسر"
+      },
+      {
+        "sadr": "فإما يمس في جدث مقيما",
+        "ajuz": "بمعترك من الأرواح قفر"
+      },
+      {
+        "sadr": "فقد يعصوصب الجادون منه",
+        "ajuz": "باروع ماجد الاعراق غمر"
+      },
+      {
+        "sadr": "اذا ما الضيق حل الى ذراه",
+        "ajuz": "تلقاه بوجه غير بسر"
+      },
+      {
+        "sadr": "تفرج بالندى الأبواب عنه",
+        "ajuz": "ولا يكتن دونهم بستر"
+      },
+      {
+        "sadr": "دهتني الحادثات به فأمست",
+        "ajuz": "علي همومها تغدو وتسري"
+      },
+      {
+        "sadr": "لو ان الدهر متخذ خليلا",
+        "ajuz": "لكان خليله صخر بن عمرو"
+      }
+    ],
+    "translationEn": "O eye, pour down — pour with treachery's overflow — and flow a flowing without stint. Do not seek consolation after Sakhr, for consolation has been overwhelmed and my patience exhausted. Over a calamity that left the innermost chest sleepless, feeling the heat of live coals. Over Sakhr — and what youth is like Sakhr for a debtor who is poor and bound by blood-vengeance? And for the hardened adversary when he transgressed, to take the right of the oppressed by force. And for guests when they arrived by night, and for the burdened poor and every traveler. When a year of frozen hardship settled upon them, she-camels whose milk never dried up with churning mud. There he was a rain, a life-giving downpour — his generosity found in a courtyard free of filth. More life-giving than a sheltered young woman, and braver than the father of a lion-cub. Wide-mouthed and tawny, a savage lion that, when it charged, its charge could not be halted by shouting. A massive lion using his own forearms as a pillow on the raiding paths and every sea. The she-lions in their dens would submit to him whenever they heard his roaring at every dawn. Solid and immovable — no visitor comes to her for hardship or ease of time. Now he lies settled in a grave in a barren battlefield of souls. The riders who came from him hard-pressed still mount from him a bold, noble, profound man. Whenever the burdened came to his protection he received them with an unclouded face. He opened every door through his generosity — hiding himself behind no curtain from them. Calamities struck me through him, and now their anxieties come upon me morning and evening. If time were ever to choose a companion, its companion would have been Sakhr ibn Amr.",
+    "vocabularyHighlights": [
+      { "word": "بغدر", "meaning": "in treachery, with the treachery of fate" },
+      { "word": "نزر", "meaning": "scanty, meager, insufficient" },
+      { "word": "العزاء", "meaning": "consolation, condolence" },
+      { "word": "سنة جماد", "meaning": "a frozen, barren year of drought" },
+      { "word": "الخادرات", "meaning": "she-lions in their dens, lionesses in hiding" },
+      { "word": "ضبارمة", "meaning": "a powerful, massive lion" },
+      { "word": "بسر", "meaning": "sullen, frowning, displeased of face" },
+      { "word": "يكتن", "meaning": "conceals himself, hides behind a screen" }
+    ],
+    "context": "One of the most expansive elegies for Sakhr, culminating in the famous final couplet that time itself would have chosen Sakhr as its companion had it taken one. Al-Khansa praises his role as a lion in battle and as the most open-handed host, whose door had no curtain to hide him from those in need."
+  },
+  {
+    "id": "al-khansa-26",
+    "poetId": "al-khansa",
+    "titleAr": "قذى بعينك ام بالعين عوار",
+    "titleEn": "Is there a mote in your eye or is it smarting",
+    "genre": "ritha",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "قذى بعينك ام بالعين عوار",
+        "ajuz": "ام ذرفت اذخلت من اهلها الدار"
+      },
+      {
+        "sadr": "كأن عيني لذكراه إذا خطرت",
+        "ajuz": "فيض يسيل على الخدين مدرار"
+      },
+      {
+        "sadr": "تبكي لصخر هي العبرى وقد ولهت",
+        "ajuz": "ودونه من جديد الترب استار"
+      },
+      {
+        "sadr": "تبكي خناس فما تنفك ما عمرت",
+        "ajuz": "لها عليه رنين وهي مفتار"
+      },
+      {
+        "sadr": "تبكي خناس على صخر وحق لها",
+        "ajuz": "اذ رابها الدهر ان الدهر ضرار"
+      },
+      {
+        "sadr": "لا بد من ميتة في صرفها عبر",
+        "ajuz": "والدهر في صرفه حول واطوار"
+      },
+      {
+        "sadr": "قد كان فيكم أبو عمر و يسودكم",
+        "ajuz": "نعم المعمم للداعين نصار"
+      },
+      {
+        "sadr": "صلب النحيزة وهاب اذا منعوا",
+        "ajuz": "وفي الحروب جريء الصدر مهصار"
+      },
+      {
+        "sadr": "يا صخر وراد ماء قد تناذره",
+        "ajuz": "أهل الموارد ما في ورده عار"
+      },
+      {
+        "sadr": "مشى السبنتى إلى هيجاء معضلة",
+        "ajuz": "له سلاحان : أنياب وأظفار"
+      },
+      {
+        "sadr": "وما عجول على بو تطيف به",
+        "ajuz": "لها حنينان : إعلان وإسرار"
+      },
+      {
+        "sadr": "ترتع ما رتعت ، حتى إذا ادكرت",
+        "ajuz": "فانما هي اقبال وادبار"
+      },
+      {
+        "sadr": "لا تسمن الدهر في ارض وان رتعت",
+        "ajuz": "فانما هي تحنان وتسجار"
+      },
+      {
+        "sadr": "يوما بأوجد مني يوم فارقني",
+        "ajuz": "صخر وللدهر احلاء وامرار"
+      },
+      {
+        "sadr": "وإن صخرا لوالينا وسيدنا",
+        "ajuz": "وإن صخرا إذا نشتو لنحار"
+      },
+      {
+        "sadr": "وإن صخرا لمقدام إذا ركبوا",
+        "ajuz": "وإن صخرا إذا جاعوا لعقار"
+      },
+      {
+        "sadr": "وإن صخرا لتأتم الهداة به",
+        "ajuz": "كأنه علم في رأسه نار"
+      },
+      {
+        "sadr": "جلد جميل المحيا كامل ورع",
+        "ajuz": "وللحروب غداة الروع مسعار"
+      },
+      {
+        "sadr": "حمال ألوية هباط أودية",
+        "ajuz": "شهاد أندية للجيش جرار"
+      },
+      {
+        "sadr": "فقلت لما رأيت الدهر ليس له",
+        "ajuz": "معاتب وحده يسدي ونيار"
+      },
+      {
+        "sadr": "لقد نعى ابن نهيك لي اخا ثقة",
+        "ajuz": "كانت ترجم عنه قبل اخبار"
+      },
+      {
+        "sadr": "فبت ساهرة للنجم ارقبه",
+        "ajuz": "حتى أتى دون غور النجم أستار"
+      },
+      {
+        "sadr": "لم تره جارة يمشي بساحتها",
+        "ajuz": "لريبة حين يخلي بيته الجار"
+      },
+      {
+        "sadr": "ولا تراه وما في البيت يأكله",
+        "ajuz": "لكنه بارز بالصحن مهمار"
+      },
+      {
+        "sadr": "ومطعم القوم شحما عند مسغبهم",
+        "ajuz": "وفي الجدوب كريم الجد ميسار"
+      },
+      {
+        "sadr": "قد كان خالصتي من كل ذي نسب",
+        "ajuz": "فقد اصيب فما للعيش اوطار"
+      },
+      {
+        "sadr": "مثل الرديني لم تنفد شبيبته",
+        "ajuz": "كأنه تحت طي البرد أسوار"
+      },
+      {
+        "sadr": "جهم المحيا تضيء الليل صورته",
+        "ajuz": "آباؤه من طوال السمك أحرار"
+      },
+      {
+        "sadr": "مورث المجد ميمون نقيبته",
+        "ajuz": "ضخم الدسيعة في العزاء مغوار"
+      },
+      {
+        "sadr": "فرع لفرع كريم غير مؤتشب",
+        "ajuz": "جلد المريرة عند الجمع فخار"
+      },
+      {
+        "sadr": "في جوف لحد مقيم قد تضمنه",
+        "ajuz": "في رمسه مقمطرات واحجار"
+      },
+      {
+        "sadr": "طلق اليدين لفعل الخير ذو فجر",
+        "ajuz": "ضخم الدسيعة بالخيرات أمار"
+      },
+      {
+        "sadr": "ليبكه مقتر أفنى حريبته",
+        "ajuz": "دهر وحالفه بؤس وإقتار"
+      },
+      {
+        "sadr": "ورفقة حار حاديهم بمهلكة",
+        "ajuz": "كأن ظلمتها في الطخية القار"
+      },
+      {
+        "sadr": "لا يمنع القوم إن سالوه خلعته",
+        "ajuz": "ولا يجاوزه بالليل مرار"
+      }
+    ],
+    "translationEn": "Is there a mote in your eye, or is it smarting, or did it weep because the people departed from their abode? As if my eye at his memory, when it passes through my mind, is a flood running ceaselessly over my cheeks. Weeping for Sakhr — she is grief-stricken and has gone mad, and between her and him are the curtains of fresh earth. Khansa weeps and will not cease as long as she lives — she has a keening for him and she is bereft. Khansa weeps for Sakhr and it is her right, for time has wronged her — and time is ever a wrongdoer. Death is inescapable in its turnings, and time in its turns has phases and cycles. Abu Amr was among you, your chieftain — what a fine turbaned one for those who called, a helper. Hard of backbone, generous when others refused, and in wars bold of breast, crushing. O Sakhr, one who came to a water-hole that people warned each other about — there was no shame in his coming to it. He walked with the lion's stride to a battle that was difficult, with two weapons: fangs and claws. Like a she-camel circling around her calf — she has two kinds of longing: open and secret. She grazes as long as she grazes, but when she remembers, she is only coming and going. She will never grow fat all her life in any land though she grazes, for she is only pining and restless. No day shall I feel his loss more than the day Sakhr parted from me — and time has its sweets and its bitters. Sakhr is our master and chieftain, and Sakhr in winter is our slaughterer of camels. Sakhr is the first to charge when they ride, and Sakhr when they are hungry is the crusher of grain. Sakhr is the beacon the guides follow, as if he were a landmark with fire upon his head. Tough, handsome of face, complete and pious — and in wars at the morning of terror, a kindler of fire. Bearer of banners, descender into valleys, witness at councils, at the head of great armies. I said when I saw that time has no one to reproach — it alone weaves warp and weft: Ibn Nuhayk announced to me a trusted brother whose news was foretold before the announcement came. I spent the night sleepless, watching the star until the curtains came before the setting star. No neighbor-woman ever saw him walking in her courtyard with ill intent when the neighbor left his house empty. You would not see him eating what was in the house — rather he was out in the open courtyard, generous and noble. He who fed the people fat in their hunger and in drought was noble of grandfather, prosperous. He was my purest kinsman of all those of lineage — he has been struck down and life has no longer any delight. Like the spear of Rudayna, whose youth did not run out, as if under the folds of the cloak he wore were iron bracelets. Grim-faced yet his countenance lights up the night — his fathers were tall of frame and free. Inheritor of glory, blessed in his inner nature, great in his gifts, a warrior in times of hardship. Noble branch of a noble branch, pure and unmixed — firm of resolve before assemblies, a man of pride. Lying in the hollow of a grave, settled, contained in his tomb with its bundled shrouds and stones. Open-handed for doing good, a man of generosity — great in his gifts, a guide to all things good. Let the destitute man weep for him, whose property time has destroyed and whose companion is misery and poverty. And a group whose guide got lost in a wasteland as if its darkness in the cloudy night were pitch. He would not refuse the people if they asked for his outer garment, nor would a passer-by in the night go past him without shelter.",
+    "vocabularyHighlights": [
+      { "word": "قذى", "meaning": "a mote, a speck in the eye" },
+      { "word": "عوار", "meaning": "smarting, inflammation of the eye" },
+      { "word": "مدرار", "meaning": "flowing ceaselessly, copious (of rain or tears)" },
+      { "word": "مفتار", "meaning": "bereft, dazed with grief" },
+      { "word": "السبنتى", "meaning": "a lion walking with a proud, rolling gait" },
+      { "word": "نحار", "meaning": "one who slaughters camels for guests in winter" },
+      { "word": "الرديني", "meaning": "a spear attributed to Rudayna, renowned for its quality" },
+      { "word": "مغوار", "meaning": "a warrior who raids frequently, a swift raider" }
+    ],
+    "context": "The most celebrated and longest elegy of Al-Khansa's diwan, this poem opens with the iconic image of the grief-stricken eye and builds through a famous anaphoric section 'Sakhr is our chieftain... Sakhr in winter... Sakhr when they ride...' before cataloguing his virtues as a brave warrior, generous host, and pure-lineaged noble."
+  },
+  {
+    "id": "al-khansa-27",
+    "poetId": "al-khansa",
+    "titleAr": "أعيني هلا تبكيان على صخر",
+    "titleEn": "O my two eyes, will you not weep for Sakhr",
+    "genre": "ritha",
+    "level": "advanced",
+    "verses": [
+      {
+        "sadr": "أعيني هلا تبكيان على صخر",
+        "ajuz": "بدمع حثيث لا بكيء ولا نزر"
+      },
+      {
+        "sadr": "وتستفرغان الدمع أو تذريانه",
+        "ajuz": "على ذي الندى والجود والسيد الغمر"
+      },
+      {
+        "sadr": "فما لكما عن ذي يمينين فابكيا",
+        "ajuz": "عليه مع الباكي المسلب من صبر"
+      },
+      {
+        "sadr": "كأن لم يقل أهلا لطالب حاجة",
+        "ajuz": "وكان بليج الوجه منشرح الصدر"
+      },
+      {
+        "sadr": "ولم يغد في خيل مجنبة القنا",
+        "ajuz": "ليروي أطراف الردينية السمر"
+      },
+      {
+        "sadr": "فشأن المنايا اذ اصابك ريبها",
+        "ajuz": "لتغدو على الفتيان بعدك أو تسري"
+      },
+      {
+        "sadr": "فمن يضمن المعروف في صلب ماله",
+        "ajuz": "ضمانك أو يقري الضيوف كما تقري"
+      },
+      {
+        "sadr": "جراد زفته ريح نجد إلى البحر",
+        "ajuz": "وكائن قرنت الحق من ثوب صفوة"
+      },
+      {
+        "sadr": "ومن سابح طرف ومن كاعب بكر",
+        "ajuz": "وقائلة والنعش قد فات خطوها"
+      },
+      {
+        "sadr": "لتدركه : يا لهف نفسي على صخر",
+        "ajuz": "ألا ثكلت أم الذين مشوا به"
+      },
+      {
+        "sadr": "إلى القبر ماذا يحملون إلى القبر",
+        "ajuz": "وماذا يواري القبر تحت ترابه"
+      },
+      {
+        "sadr": "من الخير يا بؤس الحوادث والدهر",
+        "ajuz": "وم الحزم في العزاء والجود والندى"
+      },
+      {
+        "sadr": "غداة يرى حلف اليسارة والعسر",
+        "ajuz": "لقد كان في كل الأمور مهذبا"
+      },
+      {
+        "sadr": "جليل الايادي لا ينهنه بالزجر",
+        "ajuz": "وان تلقه في الشرب لا تلقى فاحشا"
+      },
+      {
+        "sadr": "ولا ناكثا عقد السرائر والصبر",
+        "ajuz": "فلا يبعدن قبر تضمن شخصه"
+      },
+      {
+        "sadr": "وجاد عليه كل واكفة القطر",
+        "ajuz": ""
+      }
+    ],
+    "translationEn": "O my two eyes, will you not weep for Sakhr with quick tears — not scanty and not meager? And drain your tears or shed them over the one of generosity, liberality, and the flooding chieftain. What excuse do you have from one of two blessed hands — weep then over him together with the one who weeps, robbed of patience. As if he never said 'welcome' to one who sought something — though he was bright of face and open of chest. As if he never rode out in horses flanked by spears to water the tips of dark Rudaynite lances. But such is the way of fate — when its treachery struck you, it would go out upon the young men after you, morning and evening. Who can guarantee beneficence from his own deep wealth as you guaranteed it? Or receive guests as you received them? Like locusts driven by the Najdi wind to the sea. How many a good garment have you paired with truth — from a choice robe and a swimming swift horse and a full-breasted virgin. And a woman saying as the bier has outpaced her steps to reach it: O how my soul grieves for Sakhr! May the mothers of those who carried him to the grave be bereaved! What is it they carry to the grave? And what does the grave conceal beneath its earth of goodness? O the misery of calamities and time! And determination in the face of consolation, and generosity, and open-handedness — on the morning when the companion of ease and hardship is seen. He was refined in all matters, great in his acts of kindness — not to be restrained by a scolding. And if you encountered him at the drinking-session you would find no indecency. Nor one who breaks the bonds of secret compacts and endurance. May the grave that contains his person not be kept far from mercy — and may every dripping rain be generous over him.",
+    "vocabularyHighlights": [
+      { "word": "حثيث", "meaning": "quick, hurried, abundant" },
+      { "word": "بكيء", "meaning": "scanty, stingy (of tears)" },
+      { "word": "نزر", "meaning": "meager, insufficient" },
+      { "word": "الغمر", "meaning": "flooding, overwhelming (of generosity); the magnanimous" },
+      { "word": "بليج الوجه", "meaning": "bright, radiant, cheerful of face" },
+      { "word": "منشرح الصدر", "meaning": "open-chested, open-hearted, at ease" },
+      { "word": "الردينية", "meaning": "the Rudaynite spears — finest quality spears" },
+      { "word": "واكفة", "meaning": "dripping, letting fall drops (of rain clouds)" }
+    ],
+    "context": "In this elegy Al-Khansa challenges her own eyes to pour tears for Sakhr, then stages the scene of his funeral bier outpacing a mourning woman — a powerful dramatic image — before praising his refinement, open-handedness, and moral integrity, and concluding with a prayer for rain upon his grave."
+  },
+  {
+    "id": "al-khansa-28",
+    "poetId": "al-khansa",
+    "titleAr": "إن كنت عن وجدك لم تقصري",
+    "titleEn": "If you have not fallen short in your grief",
+    "genre": "ritha",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "إن كنت عن وجدك لم تقصري",
+        "ajuz": "او كنت في الأسوة لم تعذري"
+      },
+      {
+        "sadr": "فإن في العقدة من يلبن",
+        "ajuz": "عبر السرى في القلص الضمر"
+      },
+      {
+        "sadr": "وصاحب قلت له خائف",
+        "ajuz": "إنك للخيل بمستنظر"
+      },
+      {
+        "sadr": "إنك داع بكبير إذا",
+        "ajuz": "وافيت أعلى مرقب فانظر"
+      },
+      {
+        "sadr": "فآنسن من ساعة فارسا",
+        "ajuz": "يخب ادنى بقع المنظر"
+      },
+      {
+        "sadr": "فاولج السوط على حوشب",
+        "ajuz": "أجرد مثل الصدع الأعفر"
+      },
+      {
+        "sadr": "تنبطه الساق بشدكما",
+        "ajuz": "مال هجير الرجل الاعسر"
+      }
+    ],
+    "translationEn": "If you have not fallen short in your grief, or if in your consolation you cannot be excused, then know that in the camp there is one who crosses the night journey on lean, young she-camels. A companion to whom I said, fearful: 'You are in full view of the horses.' You are one who calls out loudly — when you have reached the highest lookout, watch carefully. They spotted from a moment's time a horseman trotting at the nearest patch of the viewing place. He applied the whip to Hawshab — a sleek horse like a dusty-grey young male mountain-goat. Its leg works it with both striking together as the midday heat leans on the left man.",
+    "vocabularyHighlights": [
+      { "word": "الوجد", "meaning": "passionate grief, intense love and sorrow" },
+      { "word": "الأسوة", "meaning": "consolation, example to follow in bearing grief" },
+      { "word": "القلص الضمر", "meaning": "young lean she-camels" },
+      { "word": "مستنظر", "meaning": "in plain view, visible to lookouts" },
+      { "word": "مرقب", "meaning": "a lookout post, an elevated vantage point" },
+      { "word": "يخب", "meaning": "trots, moves at a trot (of a horse)" },
+      { "word": "أجرد", "meaning": "sleek, smooth-coated (of a horse)" },
+      { "word": "الصدع الأعفر", "meaning": "a dusty-grey young mountain ibex" }
+    ],
+    "context": "A more narrative poem in which Al-Khansa describes a scout or companion keeping watch on an elevated lookout, spotting a rider in the distance and urging a fast horse forward — a vivid scene of tribal vigilance and readiness for war."
+  },
+  {
+    "id": "al-khansa-29",
+    "poetId": "al-khansa",
+    "titleAr": "ذكرت أخي بعد نوم الخلي",
+    "titleEn": "I remembered my brother after the carefree had slept",
+    "genre": "ritha",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "ذكرت أخي بعد نوم الخلي",
+        "ajuz": "فانحدر الدمع مني انحدارا"
+      },
+      {
+        "sadr": "وخيل لبست لأبطالها",
+        "ajuz": "شليلا ودمرت قوما دمارا"
+      },
+      {
+        "sadr": "تصيد بالرمح ريعانها",
+        "ajuz": "وتهتصر الكبش منها اهتصارا"
+      },
+      {
+        "sadr": "فألحمتها القوم تحت الوغى",
+        "ajuz": "وأرسلت مهرك فيها فغارا"
+      },
+      {
+        "sadr": "يقين وتحسبه قافلا",
+        "ajuz": "إذا طابقت وغشين الحرارا"
+      },
+      {
+        "sadr": "فذلك في الجد مكروهه",
+        "ajuz": "وفي السلم تلهو وترخي الإزارا"
+      },
+      {
+        "sadr": "وهاجرة حرها صاخد",
+        "ajuz": "جعلت رداءك فيها خمارا"
+      },
+      {
+        "sadr": "لتدرك شأوا على قربه",
+        "ajuz": "وتكسب حمدا وتحمي الذمارا"
+      },
+      {
+        "sadr": "وتروي السنان وتردي الكمي",
+        "ajuz": "كمرجل طباخة حين فارا"
+      },
+      {
+        "sadr": "وتغشي الخيول حياض النجيع",
+        "ajuz": "وتعطي الجزيل وتردي العشارا"
+      },
+      {
+        "sadr": "كان القتود اذا شدها",
+        "ajuz": "على ذي وسوم تباري صوارا"
+      },
+      {
+        "sadr": "تمكن في دفء ارطائه",
+        "ajuz": "أهاج العشي عليه فثارا ؟"
+      },
+      {
+        "sadr": "فدار فلما رأي سربها",
+        "ajuz": "احس قنيصا قريبا فطارا"
+      },
+      {
+        "sadr": "يشقق سرباله هاجرا",
+        "ajuz": "من الشد لما أجد الفرارا"
+      },
+      {
+        "sadr": "فبات يقنص ابطالها",
+        "ajuz": "وينعصر الماء منه انعصارا"
+      }
+    ],
+    "translationEn": "I remembered my brother after the carefree had slept, and tears poured from me in a rushing torrent. And horses that put on for their heroes a coat of mail and destroyed a people utterly. They hunt with the spear the leaders of the enemy and they seize the ram among them in a powerful grip. You drove them into the people beneath the battle and released your colt among them in a raid. He is certain, and you would think him returning — when they fell into step and covered the heat. Such is his dislike in earnestness, while in peace he plays and relaxes his lower garment. And a midday heat whose temperature is scorching — you made your cloak into a head-covering in it, to catch up with a pace near at hand and win praise and protect what is inviolable. You water the spear-tip and destroy the armored warrior like a cook's cauldron when it boils. You shade the horses over pools of spilled blood and give generously and slaughter the ten-month she-camels. When the saddle-frames were tied on a horse with markings, racing the bull-aurochs. Settled in the warmth of the roots of a tamarisk — did the evening rouse it and it burst forth? It wheeled, and when it saw the herd, it sensed prey nearby and flew. It ripped its outer garment in the noon-heat from the strain when the prey took flight at full speed. It spent the night hunting the heroes of the herd, and the sweat was wrung from it in torrents.",
+    "vocabularyHighlights": [
+      { "word": "الخلي", "meaning": "the carefree, the one without worry" },
+      { "word": "انحدارا", "meaning": "flowing down, rushing downward" },
+      { "word": "شليلا", "meaning": "a coat of chain mail, armor" },
+      { "word": "ريعانها", "meaning": "the foremost among them, the leaders and prime of the group" },
+      { "word": "الكبش", "meaning": "the ram — the leader, the champion" },
+      { "word": "اهتصارا", "meaning": "seizing and breaking (as a lion does to prey)" },
+      { "word": "الذمار", "meaning": "what is inviolable and must be protected, sacred honor" },
+      { "word": "النجيع", "meaning": "fresh dark blood, blood that has just been spilled" }
+    ],
+    "context": "An elegy that unfolds as a vivid battle narrative, remembering a brother's heroism through scenes of mounted combat, the hunt of a lion among the wild herds, and feats of generosity in peacetime — the contrast of war and peace as twin expressions of noble character."
+  },
+  {
+    "id": "al-khansa-30",
+    "poetId": "al-khansa",
+    "titleAr": "طرق النعي على صفينة غدوة",
+    "titleEn": "The death-news arrived at Safina at dawn",
+    "genre": "ritha",
+    "level": "intermediate",
+    "verses": [
+      {
+        "sadr": "طرق النعي على صفينة غدوة",
+        "ajuz": "ونعى المعمم من بني عمرو"
+      },
+      {
+        "sadr": "حامي الحقيقة والمجير إذا",
+        "ajuz": "ما خيف حد نوائب الدهر"
+      },
+      {
+        "sadr": "الحي يعلم أن جفنته",
+        "ajuz": "تغدو غداة الريح أو تسري"
+      },
+      {
+        "sadr": "فإذا أضاء وجاش مرجله",
+        "ajuz": "فلنعم رب النار والقدر"
+      },
+      {
+        "sadr": "ابلغ موالية فقد رزئوا",
+        "ajuz": "مولى يريشهم ولا يشري"
+      },
+      {
+        "sadr": "يكفي حماتهم ويعطي لهم",
+        "ajuz": "مئة من العشرين والعشر"
+      },
+      {
+        "sadr": "تروي سنان الرمح طعنته",
+        "ajuz": "والخيل قد خاضت دما يجري"
+      },
+      {
+        "sadr": "قد كان مأوى كل أرملة",
+        "ajuz": "ومقيل عثرة كل ذي عذر"
+      },
+      {
+        "sadr": "تلقى عيالهم نوافله",
+        "ajuz": "فتصيب ذا الميسور والعسر"
+      }
+    ],
+    "translationEn": "The death-news arrived at Safina at dawn, announcing the passing of the turbaned one from the sons of Amr. The protector of honor and the one who grants refuge whenever the sharp edge of time's calamities is feared. The tribe knows that his large bowl goes out in the morning of the wind or travels by night. And when it lit up and his cooking-pot boiled, what a fine master of the fire and the cauldron he was! Convey to his clients that they have been bereaved of a protector who feathered their arrows and did not sell them. He protected their defenders and gave them a hundred from the twenty-year-olds and the ten-year-olds. His lance-thrust waters the spear-tip while the horses have waded through running blood. He was the shelter of every widow and the lifter of the stumble of every man with an excuse. His acts of generosity reach their families, touching both the prosperous and the one in hardship.",
+    "vocabularyHighlights": [
+      { "word": "طرق", "meaning": "arrived at night, struck (of news or a visitor)" },
+      { "word": "النعي", "meaning": "the announcement of death, the death-news" },
+      { "word": "المعمم", "meaning": "the one wearing the turban — the chieftain, the leader" },
+      { "word": "الجفنة", "meaning": "a large wooden bowl used for food" },
+      { "word": "مرجله", "meaning": "his cooking pot, his cauldron" },
+      { "word": "يريشهم", "meaning": "feathers their arrows — equips them, strengthens them" },
+      { "word": "يشري", "meaning": "sells, betrays (he does not sell them out)" },
+      { "word": "مقيل عثرة", "meaning": "one who lifts another's stumble, who corrects mistakes" }
+    ],
+    "context": "The final poem in this collection mourns a chieftain from the sons of Amr — likely Sakhr — whose death is announced at dawn to a place called Safina, praising him as the tribe's provider whose cooking-pot fed all in cold weather and whose generosity reached even the humblest widow and the man who had fallen short."
+  }
+]

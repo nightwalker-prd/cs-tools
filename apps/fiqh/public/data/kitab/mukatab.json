@@ -1,0 +1,122 @@
+{
+  "id": "mukatab",
+  "titleAr": "كتاب المكاتب",
+  "titleEn": "Contractual Emancipation",
+  "order": 38,
+  "categoryId": "mutafarriqat",
+  "pageRange": [
+    169,
+    171
+  ],
+  "abwab": [
+    {
+      "id": "mukatab-main",
+      "kitabId": "mukatab",
+      "titleAr": "كتاب المكاتب",
+      "titleEn": "Contractual Emancipation",
+      "order": 1,
+      "sections": [
+        {
+          "id": "mukatab-main-1-1",
+          "babId": "mukatab-main",
+          "kitabId": "mukatab",
+          "titleAr": "كتاب المكاتب",
+          "titleEn": "Contractual Emancipation",
+          "order": 1,
+          "textAr": "وإذا كاتب المولى عبده أو أمته على مال شرطه عليه وقبل العبد ذلك صار مكاتبا ويجوز أن يشترط المال حالا ومؤجلا ومنجما وتجوز كتابة العبد الصغير إذا كان يعقل البيع والشراء\n\nوإذا صحت الكتابة خرج المكاتب من يد المولى ولم يخرج من ملكه فيجوز له البيع والشراء والسفر ولا يجوز له التزويج إلا بإذن المولى ولا يهب ولا يصدق إلا بشيء اليسير ولا يتكفل\n\nفإنه ولد له ولد من أمة له دخل في كتابته وكان حكمه كحكمه وكسبه له وإن زوج المولى عبده من أمته ثم كاتبهما فولدت منه ولدا دخل في كتابتها وكان كسبه لها\n\nوإن وطئ المولى مكاتبته لزمه العقر وإن جنى عليها أو على ولدها لزمته الجناية وإن أتلف مالا لها غرمه\n\nوإذا اشترى المكاتب أباه أو أبنه دخل في كتابته وإن اشترى أم ولده دخل ولدها في الكتابة ولم يجز بيعها وإن اشترى ذا رحم محرم منه لا ولاد له لم يدخل في كتابته عند أبي حنيفة",
+          "sourcePage": 169,
+          "masail": [
+            {
+              "id": "masalah-mukatab-main-1-1",
+              "sectionId": "mukatab-main-1-1",
+              "kitabId": "mukatab",
+              "titleAr": "كتاب المكاتب",
+              "titleEn": "Contractual Emancipation",
+              "rulingAr": "وإذا كاتب المولى عبده أو أمته على مال شرطه عليه وقبل العبد ذلك صار مكاتبا ويجوز أن يشترط المال حالا ومؤجلا ومنجما وتجوز كتابة العبد الصغير إذا كان يعقل البيع والشراء\n\nوإذا صحت الكتابة خرج المكاتب من يد المولى ولم يخرج من ملكه فيجوز له البيع والشراء والسفر ولا يجوز له التزويج إلا بإذن المولى ولا يهب ولا يصدق إلا بشيء اليسير ولا يتكفل\n\nفإنه ولد له ولد من أمة له دخل في كتابته وكان حكمه كحكمه وكسبه له وإن زوج المولى عبده من أمته ثم كاتبهما فولدت منه ولدا دخل في كتابتها وكان كسبه لها\n\nوإن وطئ المولى مكاتبته لزمه العقر وإن جنى عليها أو على ولدها لزمته الجناية وإن أتلف مالا لها غرمه\n\nوإذا اشترى المكاتب أباه أو أبنه دخل في كتابته وإن اشترى أم ولده دخل ولدها في الكتابة ولم يجز بيعها وإن اشترى ذا رحم محرم منه لا ولاد له لم يدخل في كتابته عند أبي حنيفة",
+              "rulingEn": "If the master enters into a kitabah (emancipation contract) with his slave or slave-woman for an amount of wealth he stipulates, and the slave accepts, the slave becomes a mukatab. The payment may be stipulated as immediately due, deferred, or in installments. The kitabah of a minor slave is valid if the minor understands buying and selling.\n\nWhen the kitabah is validly established, the mukatab leaves the master's physical control but does not leave his ownership. The mukatab is permitted to buy, sell, and travel. He may not marry except with the master's permission. He may not make gifts or give charity except for small amounts, nor may he stand as guarantor.\n\nIf a child is born to him from his slave-woman, the child enters into his kitabah and has the same legal status as him, and the child's earnings belong to the mukatab. If the master marries his slave to his slave-woman and then enters into kitabah with both of them, and she gives birth from the slave, the child enters into her kitabah and the child's earnings belong to her.\n\nIf the master has intercourse with his female mukatab, he owes her the bridal payment (uqr). If he commits an offense against her or her child, he is liable for the offense. If he destroys her property, he must compensate her.\n\nIf the mukatab purchases his father or son, they enter into his kitabah. If he purchases his umm walad, her child enters into the kitabah and she may not be sold. If he purchases a relative of unmarriageable kinship who is not a direct ancestor or descendant, that relative does not enter into his kitabah according to Abu Hanifah.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "If the master enters into a kitabah (emancipation contract) with his slave or slave-woman for an amount of wealth he stipulates, and the slave accepts, the slave becomes a mukatab. The payment may be stipulated as immediately due, deferred, or in installments. The kitabah of a minor slave is valid if the minor understands buying and selling.\n\nWhen the kitabah is validly established, the mukatab leaves the master's physical control but does not leave his ownership. The mukatab is permitted to buy, sell, and travel. He may not marry except with the master's permission. He may not make gifts or give charity except for small amounts, nor may he stand as guarantor.\n\nIf a child is born to him from his slave-woman, the child enters into his kitabah and has the same legal status as him, and the child's earnings belong to the mukatab. If the master marries his slave to his slave-woman and then enters into kitabah with both of them, and she gives birth from the slave, the child enters into her kitabah and the child's earnings belong to her.\n\nIf the master has intercourse with his female mukatab, he owes her the bridal payment (uqr). If he commits an offense against her or her child, he is liable for the offense. If he destroys her property, he must compensate her.\n\nIf the mukatab purchases his father or son, they enter into his kitabah. If he purchases his umm walad, her child enters into the kitabah and she may not be sold. If he purchases a relative of unmarriageable kinship who is not a direct ancestor or descendant, that relative does not enter into his kitabah according to Abu Hanifah."
+        },
+        {
+          "id": "mukatab-main-1-2",
+          "babId": "mukatab-main",
+          "kitabId": "mukatab",
+          "titleAr": "كتاب المكاتب",
+          "titleEn": "Contractual Emancipation",
+          "order": 2,
+          "textAr": "وإذا عجز المكاتب عن نجم نظر الحاكم في حاله فإن كان له دين يقتضيه أو مال يقدم إليه ولم يعجل بتعجيزه وانتظر عليه اليومين\n\nوالثلاثة وإن لم يكن له وجه وطلب المولى تعجيزه عجزه الحاكم وفسخ الكتابة عند أبي حنيفة ﵀ وقالا\n\nرحمهما الله: حتى يتوالى عليه نجمان وإذا عجز المكاتب عاد إلى أحكام الرق وكان ما في يده من الأكساب لمولاه\n\nوإن مات المكاتب وله مال لم تنفسخ الكتابة وقضيت كتابته من أكسابه وحكم بعتقه في آخر جزء من أجزاء حياته وإن لم يترك وفاء وترك ولدا مولودا في الكتابة سعى في كتابة أبيه على نجومه وإذا أدى حكمنا بعتق أبيه قبل موته وعتق الولد وإن ترك ولدا مشترى في الكتابة قيل له: إما أن تؤدي الكتابة حالا وإلا رددت في الرق\n\nوإذا كاتب المسلم عبده على خمر أو خنزير أو على قيمة نفسه فالكتابة فاسدة\n\nفإن أدى الخمر عتق ولزمه أن يسعى في قيمته ولا ينقص من المسمى ويزاد عليه",
+          "sourcePage": 169,
+          "masail": [
+            {
+              "id": "masalah-mukatab-main-1-2",
+              "sectionId": "mukatab-main-1-2",
+              "kitabId": "mukatab",
+              "titleAr": "كتاب المكاتب",
+              "titleEn": "Contractual Emancipation",
+              "rulingAr": "وإذا عجز المكاتب عن نجم نظر الحاكم في حاله فإن كان له دين يقتضيه أو مال يقدم إليه ولم يعجل بتعجيزه وانتظر عليه اليومين\n\nوالثلاثة وإن لم يكن له وجه وطلب المولى تعجيزه عجزه الحاكم وفسخ الكتابة عند أبي حنيفة ﵀ وقالا\n\nرحمهما الله: حتى يتوالى عليه نجمان وإذا عجز المكاتب عاد إلى أحكام الرق وكان ما في يده من الأكساب لمولاه\n\nوإن مات المكاتب وله مال لم تنفسخ الكتابة وقضيت كتابته من أكسابه وحكم بعتقه في آخر جزء من أجزاء حياته وإن لم يترك وفاء وترك ولدا مولودا في الكتابة سعى في كتابة أبيه على نجومه وإذا أدى حكمنا بعتق أبيه قبل موته وعتق الولد وإن ترك ولدا مشترى في الكتابة قيل له: إما أن تؤدي الكتابة حالا وإلا رددت في الرق\n\nوإذا كاتب المسلم عبده على خمر أو خنزير أو على قيمة نفسه فالكتابة فاسدة\n\nفإن أدى الخمر عتق ولزمه أن يسعى في قيمته ولا ينقص من المسمى ويزاد عليه",
+              "rulingEn": "If the mukatab is unable to pay an installment, the judge examines his situation. If he has a debt to collect or wealth that is arriving, the judge does not hasten to declare him incapable and waits two or three days for him.\n\nIf he has no means and the master requests his incapacitation, the judge declares him incapable and annuls the kitabah according to Abu Hanifah -- may Allah have mercy on him. The other two -- may Allah have mercy on them -- said: Not until he defaults on two consecutive installments. When the mukatab is declared incapable, he returns to the status of slavery and whatever he has in his possession belongs to his master.\n\nIf the mukatab dies and has wealth, the kitabah is not annulled. His kitabah payment is settled from his earnings, and he is deemed to have been manumitted in the last moment of his life. If he leaves no assets to cover the payment but leaves a child born during the kitabah, the child continues to pay the father's kitabah on its installments. When the child pays, the father is deemed to have been manumitted before his death, and the child is manumitted. If the mukatab leaves a child who was purchased into the kitabah, the child is told: \"Either pay the kitabah immediately, or you are returned to slavery.\"\n\nIf a Muslim enters into kitabah with his slave for wine, swine, or the slave's own value, the kitabah is invalid.\n\nIf the slave delivers the wine, he is manumitted, and he must then work to pay his value. The amount is not reduced below the specified amount, nor is it increased.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "If the mukatab is unable to pay an installment, the judge examines his situation. If he has a debt to collect or wealth that is arriving, the judge does not hasten to declare him incapable and waits two or three days for him.\n\nIf he has no means and the master requests his incapacitation, the judge declares him incapable and annuls the kitabah according to Abu Hanifah -- may Allah have mercy on him. The other two -- may Allah have mercy on them -- said: Not until he defaults on two consecutive installments. When the mukatab is declared incapable, he returns to the status of slavery and whatever he has in his possession belongs to his master.\n\nIf the mukatab dies and has wealth, the kitabah is not annulled. His kitabah payment is settled from his earnings, and he is deemed to have been manumitted in the last moment of his life. If he leaves no assets to cover the payment but leaves a child born during the kitabah, the child continues to pay the father's kitabah on its installments. When the child pays, the father is deemed to have been manumitted before his death, and the child is manumitted. If the mukatab leaves a child who was purchased into the kitabah, the child is told: \"Either pay the kitabah immediately, or you are returned to slavery.\"\n\nIf a Muslim enters into kitabah with his slave for wine, swine, or the slave's own value, the kitabah is invalid.\n\nIf the slave delivers the wine, he is manumitted, and he must then work to pay his value. The amount is not reduced below the specified amount, nor is it increased."
+        },
+        {
+          "id": "mukatab-main-1-3",
+          "babId": "mukatab-main",
+          "kitabId": "mukatab",
+          "titleAr": "كتاب المكاتب",
+          "titleEn": "Contractual Emancipation",
+          "order": 3,
+          "textAr": "وإن كاتبه على حيوان غير موصوف فالكتابة جائزة وإذا كاتب عبديه كتابة واحدة ضامن عن الآخر جازت الكتابة وأيهما أدى عتقا ويرجع على شريكه بنصف ما أدى\n\nوإذا أعتق المولى مكاتبه عتق بعتقه وسقط عنه مال الكتابة\n\nوإذا مات مولى المكاتب لم تنفسخ الكتابة وقيل له: أد المال إلى ورثة المولى على نجومه فإن أعتقه أحد الورثة لم ينفذ عتقه وإن أعتقوه جميعا عتق وسقط عنه مال الكتابة\n\nوإذا كاتب المولى أم ولده جاز وإن مات المولى سقط عنها مال الكتابة وإن\n\nولدت مكاتبته منه فهي بالخيار: إن شاءت مضت على الكتابة وإن شاءت عجزت نفسها وصارت أم ولد له",
+          "sourcePage": 169,
+          "masail": [
+            {
+              "id": "masalah-mukatab-main-1-3",
+              "sectionId": "mukatab-main-1-3",
+              "kitabId": "mukatab",
+              "titleAr": "كتاب المكاتب",
+              "titleEn": "Contractual Emancipation",
+              "rulingAr": "وإن كاتبه على حيوان غير موصوف فالكتابة جائزة وإذا كاتب عبديه كتابة واحدة ضامن عن الآخر جازت الكتابة وأيهما أدى عتقا ويرجع على شريكه بنصف ما أدى\n\nوإذا أعتق المولى مكاتبه عتق بعتقه وسقط عنه مال الكتابة\n\nوإذا مات مولى المكاتب لم تنفسخ الكتابة وقيل له: أد المال إلى ورثة المولى على نجومه فإن أعتقه أحد الورثة لم ينفذ عتقه وإن أعتقوه جميعا عتق وسقط عنه مال الكتابة\n\nوإذا كاتب المولى أم ولده جاز وإن مات المولى سقط عنها مال الكتابة وإن\n\nولدت مكاتبته منه فهي بالخيار: إن شاءت مضت على الكتابة وإن شاءت عجزت نفسها وصارت أم ولد له",
+              "rulingEn": "If the kitabah is for an unspecified animal, the kitabah is valid. If a master enters into a single kitabah with two slaves, each being a guarantor for the other, the kitabah is valid. Whichever of them pays, both are manumitted, and the one who paid may recover half of what he paid from the other.\n\nIf the master manumits his mukatab, the slave is manumitted by his manumission and the kitabah payment is waived.\n\nIf the mukatab's master dies, the kitabah is not annulled. The mukatab is told: \"Pay the amount to the master's heirs on its installments.\" If one of the heirs manumits him, that manumission does not take effect. If all the heirs manumit him, he is manumitted and the kitabah payment is waived.\n\nIf the master enters into kitabah with his umm walad, it is valid. If the master dies, the kitabah payment is waived. If a female mukatab gives birth from the master, she has the choice: she may continue with the kitabah if she wishes, or she may declare herself incapable and become his umm walad.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "If the kitabah is for an unspecified animal, the kitabah is valid. If a master enters into a single kitabah with two slaves, each being a guarantor for the other, the kitabah is valid. Whichever of them pays, both are manumitted, and the one who paid may recover half of what he paid from the other.\n\nIf the master manumits his mukatab, the slave is manumitted by his manumission and the kitabah payment is waived.\n\nIf the mukatab's master dies, the kitabah is not annulled. The mukatab is told: \"Pay the amount to the master's heirs on its installments.\" If one of the heirs manumits him, that manumission does not take effect. If all the heirs manumit him, he is manumitted and the kitabah payment is waived.\n\nIf the master enters into kitabah with his umm walad, it is valid. If the master dies, the kitabah payment is waived. If a female mukatab gives birth from the master, she has the choice: she may continue with the kitabah if she wishes, or she may declare herself incapable and become his umm walad."
+        },
+        {
+          "id": "mukatab-main-1-4",
+          "babId": "mukatab-main",
+          "kitabId": "mukatab",
+          "titleAr": "كتاب المكاتب",
+          "titleEn": "Contractual Emancipation",
+          "order": 4,
+          "textAr": "وإذا كاتب مدبرته جاز فإن مات المولى ولا مال له كانت بالخيار بين أن تسعى في ثلثي قيمتها أو جميع مال الكتابة وإن دبر مكاتبته صح التدبير ولها الخيار: إن شاءت مضت على الكتابة وإن شاءت عجزت نفسها وصارت مدبرة وإن مضت على كتابتها فمات المولى ولا مال له فهي بالخيار: إن شاءت سعت في ثلثي مال الكتابة أو ثلثي قيمتها عند أبي حنيفة\n\nوإذا أعتق المكاتب عبده على مال لم يجز\n\nوإن وهب على عوض لم يصح وإن كاتب عبده جاز فإن أدى الثاني قبل أن يعتق الأول فولاؤه للمولى وإن أدى بعد عتق المكاتب الأول فولاؤه له",
+          "sourcePage": 169,
+          "masail": [
+            {
+              "id": "masalah-mukatab-main-1-4",
+              "sectionId": "mukatab-main-1-4",
+              "kitabId": "mukatab",
+              "titleAr": "كتاب المكاتب",
+              "titleEn": "Contractual Emancipation",
+              "rulingAr": "وإذا كاتب مدبرته جاز فإن مات المولى ولا مال له كانت بالخيار بين أن تسعى في ثلثي قيمتها أو جميع مال الكتابة وإن دبر مكاتبته صح التدبير ولها الخيار: إن شاءت مضت على الكتابة وإن شاءت عجزت نفسها وصارت مدبرة وإن مضت على كتابتها فمات المولى ولا مال له فهي بالخيار: إن شاءت سعت في ثلثي مال الكتابة أو ثلثي قيمتها عند أبي حنيفة\n\nوإذا أعتق المكاتب عبده على مال لم يجز\n\nوإن وهب على عوض لم يصح وإن كاتب عبده جاز فإن أدى الثاني قبل أن يعتق الأول فولاؤه للمولى وإن أدى بعد عتق المكاتب الأول فولاؤه له",
+              "rulingEn": "If the master enters into kitabah with his female mudabbar, it is valid. If the master dies and has no other wealth, she has the choice between working to earn two-thirds of her value or the entire kitabah amount. If the master makes his female mukatab a mudabbar, the tadbir is valid, and she has the choice: she may continue with the kitabah if she wishes, or she may declare herself incapable and become a mudabbar. If she continues with her kitabah and the master dies and has no other wealth, she has the choice between working to earn two-thirds of the kitabah amount or two-thirds of her value, according to Abu Hanifah.\n\nIf the mukatab manumits his slave for a sum of money, it is not valid.\n\nIf he makes a gift in exchange for compensation, it is not valid. If he enters into kitabah with his own slave, it is valid. If the second mukatab pays before the first is manumitted, his patronage (wala') belongs to the original master. If the second pays after the first mukatab's manumission, his patronage belongs to the first mukatab.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "If the master enters into kitabah with his female mudabbar, it is valid. If the master dies and has no other wealth, she has the choice between working to earn two-thirds of her value or the entire kitabah amount. If the master makes his female mukatab a mudabbar, the tadbir is valid, and she has the choice: she may continue with the kitabah if she wishes, or she may declare herself incapable and become a mudabbar. If she continues with her kitabah and the master dies and has no other wealth, she has the choice between working to earn two-thirds of the kitabah amount or two-thirds of her value, according to Abu Hanifah.\n\nIf the mukatab manumits his slave for a sum of money, it is not valid.\n\nIf he makes a gift in exchange for compensation, it is not valid. If he enters into kitabah with his own slave, it is valid. If the second mukatab pays before the first is manumitted, his patronage (wala') belongs to the original master. If the second pays after the first mukatab's manumission, his patronage belongs to the first mukatab."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "ihya-mawat",
+  "titleAr": "كتاب إحياء الموات",
+  "titleEn": "Revival of Barren Land",
+  "order": 27,
+  "categoryId": "muamalat",
+  "pageRange": [
+    130,
+    130
+  ],
+  "abwab": [
+    {
+      "id": "ihya-mawat-main",
+      "kitabId": "ihya-mawat",
+      "titleAr": "كتاب إحياء الموات",
+      "titleEn": "Revival of Barren Land",
+      "order": 1,
+      "sections": [
+        {
+          "id": "ihya-mawat-main-1",
+          "babId": "ihya-mawat-main",
+          "kitabId": "ihya-mawat",
+          "titleAr": "كتاب إحياء الموات",
+          "titleEn": "Revival of Barren Land",
+          "order": 1,
+          "textAr": "الموات: ما لا ينتفع به من الأرض لانقطاع الماء عنه أو لغلبه الماء عليه أو ما أشبه ذلك مما يمنع الزراعة فما كان منها عاديا لا مالك له أو كان مملوكا في الإسلام لا يعرف له مالك بعينه وهو بعيد من القرية بحيث إذا وقف إنسان\n\nفي أقصى العامر فصاح لم يسمع الصوت فيه فهو موات\n\nمن أحياه بإذن الإمام ملكه وإن أحياه بغير إذنه لم يملكه عند أبي حنيفة وقال أبو يوسف ومحمد: يملكه\n\nويملك الذمي بالإحياء كما يملك المسلم\n\nومن حجر أرضا ولم يعمرها ثلاث سنين أخذها الإمام ودفعها إلى غيره\n\nولا يجوز إحياء ما قرب من العامر ويترك مرعى لأهل القرية ومطرحا لحصائدهم\n\nومن حفر بئرا في برية فله حريمها فإن كانت البئر للعطن فحريمها أربعون ذراعا وإن كانت للناضح فستون ذراعا وإن كانت عينا فحريمها ثلاثمائة ذراع\n\nومن أراد أن يحفر في حريمها منع منه\n\nوما ترك الفرات أو الدجلة وعدل عنه فإن كان يجوز عوده إليه لم يجز إحياؤه وإن كان لا يجوز أن يعود إليه فهو كالموات إذا لم يكن حريما لعامر يملكه من أحياه بإذن الإمام عند الإمام\n\nومن كان له نهر في أرض غيره فليس له حريمه عند أبي حنيفة إلا أن يقيم بينة على ذلك وقال أبو يوسف ومحمد: له مسناة يمشي عليها ويلقي عليها طينه",
+          "sourcePage": 130,
+          "masail": [
+            {
+              "id": "masalah-ihya-mawat-main-1",
+              "sectionId": "ihya-mawat-main-1",
+              "kitabId": "ihya-mawat",
+              "titleAr": "كتاب إحياء الموات",
+              "titleEn": "Revival of Barren Land",
+              "rulingAr": "الموات: ما لا ينتفع به من الأرض لانقطاع الماء عنه أو لغلبه الماء عليه أو ما أشبه ذلك مما يمنع الزراعة فما كان منها عاديا لا مالك له أو كان مملوكا في الإسلام لا يعرف له مالك بعينه وهو بعيد من القرية بحيث إذا وقف إنسان\n\nفي أقصى العامر فصاح لم يسمع الصوت فيه فهو موات\n\nمن أحياه بإذن الإمام ملكه وإن أحياه بغير إذنه لم يملكه عند أبي حنيفة وقال أبو يوسف ومحمد: يملكه\n\nويملك الذمي بالإحياء كما يملك المسلم\n\nومن حجر أرضا ولم يعمرها ثلاث سنين أخذها الإمام ودفعها إلى غيره\n\nولا يجوز إحياء ما قرب من العامر ويترك مرعى لأهل القرية ومطرحا لحصائدهم\n\nومن حفر بئرا في برية فله حريمها فإن كانت البئر للعطن فحريمها أربعون ذراعا وإن كانت للناضح فستون ذراعا وإن كانت عينا فحريمها ثلاثمائة ذراع\n\nومن أراد أن يحفر في حريمها منع منه\n\nوما ترك الفرات أو الدجلة وعدل عنه فإن كان يجوز عوده إليه لم يجز إحياؤه وإن كان لا يجوز أن يعود إليه فهو كالموات إذا لم يكن حريما لعامر يملكه من أحياه بإذن الإمام عند الإمام\n\nومن كان له نهر في أرض غيره فليس له حريمه عند أبي حنيفة إلا أن يقيم بينة على ذلك وقال أبو يوسف ومحمد: له مسناة يمشي عليها ويلقي عليها طينه",
+              "rulingEn": "Barren land (mawat) is land that yields no benefit due to water being cut off from it, or due to water overwhelming it, or similar conditions that prevent farming. Land that is ancient and has no owner, or that was owned in the Islamic era but whose specific owner is not known, and that is far from the inhabited area -- such that if a person stands at the edge of the cultivated zone and shouts, his voice is not heard there -- is barren land.\n\nWhoever revives it with the Imam's permission owns it. If he revives it without the Imam's permission, he does not own it according to Abu Hanifa. Abu Yusuf and Muhammad said: he owns it.\n\nA dhimmi acquires ownership by revival just as a Muslim does.\n\nIf someone demarcates land and does not cultivate it for three years, the Imam takes it from him and gives it to another.\n\nReviving land close to inhabited areas is not permissible. Land must be left as pasture for the people of the village and a place for their harvested crops.\n\nIf someone digs a well in the wilderness, he has its protective zone (harim). If the well is for watering livestock, its protective zone is forty cubits. If the well is for irrigation by drawing water, its protective zone is sixty cubits. If it is a spring, its protective zone is three hundred cubits.\n\nIf someone wants to dig within its protective zone, he is prevented.\n\nWhatever the Euphrates or the Tigris abandons and turns away from: if the water may return to it, reviving it is not permissible. If the water will not return, it is like barren land -- provided it is not the protective zone of inhabited land -- and whoever revives it with the Imam's permission owns it, according to the Imam.\n\nIf someone has a canal running through another's land, he has no protective zone according to Abu Hanifa, unless he produces evidence to that effect. Abu Yusuf and Muhammad said: he has an embankment on which he may walk and upon which he may deposit his dredged soil.",
+              "difficulty": "basic",
+              "conditions": [],
+              "evidence": []
+            }
+          ],
+          "textEn": "Barren land (mawat) is land that yields no benefit due to water being cut off from it, or due to water overwhelming it, or similar conditions that prevent farming. Land that is ancient and has no owner, or that was owned in the Islamic era but whose specific owner is not known, and that is far from the inhabited area -- such that if a person stands at the edge of the cultivated zone and shouts, his voice is not heard there -- is barren land.\n\nWhoever revives it with the Imam's permission owns it. If he revives it without the Imam's permission, he does not own it according to Abu Hanifa. Abu Yusuf and Muhammad said: he owns it.\n\nA dhimmi acquires ownership by revival just as a Muslim does.\n\nIf someone demarcates land and does not cultivate it for three years, the Imam takes it from him and gives it to another.\n\nReviving land close to inhabited areas is not permissible. Land must be left as pasture for the people of the village and a place for their harvested crops.\n\nIf someone digs a well in the wilderness, he has its protective zone (harim). If the well is for watering livestock, its protective zone is forty cubits. If the well is for irrigation by drawing water, its protective zone is sixty cubits. If it is a spring, its protective zone is three hundred cubits.\n\nIf someone wants to dig within its protective zone, he is prevented.\n\nWhatever the Euphrates or the Tigris abandons and turns away from: if the water may return to it, reviving it is not permissible. If the water will not return, it is like barren land -- provided it is not the protective zone of inhabited land -- and whoever revives it with the Imam's permission owns it, according to the Imam.\n\nIf someone has a canal running through another's land, he has no protective zone according to Abu Hanifa, unless he produces evidence to that effect. Abu Yusuf and Muhammad said: he has an embankment on which he may walk and upon which he may deposit his dredged soil."
+        }
+      ]
+    }
+  ]
+}
