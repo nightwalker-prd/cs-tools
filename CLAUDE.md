@@ -39,6 +39,10 @@ pnpm test                             # Run tests
 | networking | 5178 | Full-stack networking topic explorer |
 | leetcode-guide | 5179 | LeetCode problem-solving patterns guide |
 | databases | 5180 | Database concepts explorer with quizzes |
+| os | 5181 | Operating systems concepts explorer with quizzes |
+| design-patterns | 5182 | Software design patterns explorer with quizzes |
+| devops | 5183 | DevOps & CI/CD concepts explorer with quizzes |
+| security | 5184 | Security & cryptography explorer with quizzes |
 
 ### Shared Packages (8)
 | Package | Contents |
