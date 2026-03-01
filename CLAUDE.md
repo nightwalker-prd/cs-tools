@@ -69,6 +69,7 @@ pnpm test                             # Run tests
 | cryptography | 5208 | Deep cryptography explorer with quizzes |
 | forensics | 5209 | Digital forensics explorer with quizzes |
 | threat-intelligence | 5210 | Cyber threat intelligence explorer with quizzes |
+| cloud-security | 5211 | Cloud security concepts explorer with quizzes |
 
 ### Shared Packages (8)
 | Package | Contents |
