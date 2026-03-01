@@ -1,5 +1,5 @@
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from '@cstools/ui';
-import { BarChart3, Brain, Network, Gauge, Code, BookOpen, Wifi, Server, BookMarked, HelpCircle, Layers, Database, Cpu, Blocks, Rocket, ShieldCheck, BrainCircuit, FlaskConical, Binary, GitBranchPlus, FunctionSquare, Terminal, SquareTerminal, Microchip, Wrench, CircuitBoard, Infinity, FileCode, Monitor, Workflow, Radio, Sigma, Plug, Tv, LineChart, Radar, Flame } from 'lucide-react';
+import { BarChart3, Brain, Network, Gauge, Code, BookOpen, Wifi, Server, BookMarked, HelpCircle, Layers, Database, Cpu, Blocks, Rocket, ShieldCheck, BrainCircuit, FlaskConical, Binary, GitBranchPlus, FunctionSquare, Terminal, SquareTerminal, Microchip, Wrench, CircuitBoard, Infinity, FileCode, Monitor, Workflow, Radio, Sigma, Plug, Tv, LineChart, Radar, Flame, Crosshair } from 'lucide-react';
 
 type Tag = 'reference' | 'interactive' | 'quiz' | 'interview' | 'drills';
 
@@ -311,6 +311,15 @@ const tools: Tool[] = [
     stats: '13 topics, 39 concepts, 39 quiz questions',
     tags: ['reference', 'quiz'],
   },
+  {
+    name: 'Pentesting',
+    description: 'Pentesting fundamentals — methodology, web attacks, network exploitation, privilege escalation, and red team operations',
+    icon: Crosshair,
+    color: '#E53E3E',
+    port: 5206,
+    stats: '13 topics, 39 concepts, 39 quiz questions',
+    tags: ['reference', 'quiz'],
+  },
 ];
 
 const tagColors: Record<Tag, string> = {
@@ -322,10 +331,10 @@ const tagColors: Record<Tag, string> = {
 };
 
 const overallStats = [
-  { label: 'Tools', value: '33', icon: Server, color: '#58A6FF' },
-  { label: 'Topics', value: '389+', icon: Layers, color: '#3FB950' },
-  { label: 'Questions', value: '1244+', icon: HelpCircle, color: '#D2A8FF' },
-  { label: 'Concepts', value: '1164+', icon: BookMarked, color: '#D29922' },
+  { label: 'Tools', value: '34', icon: Server, color: '#58A6FF' },
+  { label: 'Topics', value: '402+', icon: Layers, color: '#3FB950' },
+  { label: 'Questions', value: '1283+', icon: HelpCircle, color: '#D2A8FF' },
+  { label: 'Concepts', value: '1203+', icon: BookMarked, color: '#D29922' },
 ];
 
 export default function App() {

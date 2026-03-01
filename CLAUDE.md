@@ -64,6 +64,7 @@ pnpm test                             # Run tests
 | algorithm-analysis | 5203 | Algorithm analysis concepts explorer with quizzes |
 | osint | 5204 | OSINT fundamentals explorer with quizzes |
 | adult-tech-innovation | 5205 | Adult industry tech innovation explorer with quizzes |
+| pentesting | 5206 | Pentesting fundamentals explorer with quizzes |
 
 ### Shared Packages (8)
 | Package | Contents |
