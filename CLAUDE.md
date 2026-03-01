@@ -43,6 +43,15 @@ pnpm test                             # Run tests
 | design-patterns | 5182 | Software design patterns explorer with quizzes |
 | devops | 5183 | DevOps & CI/CD concepts explorer with quizzes |
 | security | 5184 | Security & cryptography explorer with quizzes |
+| ml | 5185 | Machine learning concepts explorer with quizzes |
+| data-science | 5186 | Data science & analytics explorer with quizzes |
+| discrete-math | 5187 | Discrete mathematics explorer with quizzes |
+| distributed-systems | 5188 | Distributed systems concepts explorer with quizzes |
+| functional-programming | 5189 | Functional programming concepts explorer with quizzes |
+| compilers | 5190 | Compilers & DSLs explorer with quizzes |
+| dev-experience | 5191 | Developer experience & CLI mastery explorer with quizzes |
+| systems-programming | 5192 | Systems programming concepts explorer with quizzes |
+| software-engineering | 5193 | Software engineering practices explorer with quizzes |
 
 ### Shared Packages (8)
 | Package | Contents |

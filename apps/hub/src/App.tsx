@@ -1,5 +1,5 @@
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from '@cstools/ui';
-import { BarChart3, Brain, Network, Gauge, Code, BookOpen, Wifi, Server, BookMarked, HelpCircle, Layers, Database, Cpu, Blocks, Rocket, ShieldCheck } from 'lucide-react';
+import { BarChart3, Brain, Network, Gauge, Code, BookOpen, Wifi, Server, BookMarked, HelpCircle, Layers, Database, Cpu, Blocks, Rocket, ShieldCheck, BrainCircuit, FlaskConical, Binary, GitBranchPlus, FunctionSquare, Terminal, SquareTerminal, Microchip, Wrench } from 'lucide-react';
 
 type Tag = 'reference' | 'interactive' | 'quiz' | 'interview' | 'drills';
 
@@ -122,6 +122,87 @@ const tools: Tool[] = [
     stats: '13 topics, 39 concepts, 39 quiz questions',
     tags: ['reference', 'quiz', 'interview'],
   },
+  {
+    name: 'Machine Learning',
+    description: 'ML fundamentals — regression, classification, neural networks, CNNs, transformers, and reinforcement learning',
+    icon: BrainCircuit,
+    color: '#7EE787',
+    port: 5185,
+    stats: '13 topics, 39 concepts, 39 quiz questions',
+    tags: ['reference', 'quiz', 'interview'],
+  },
+  {
+    name: 'Data Science',
+    description: 'Data science fundamentals — statistics, probability, EDA, visualization, A/B testing, and data pipelines',
+    icon: FlaskConical,
+    color: '#DA70D6',
+    port: 5186,
+    stats: '13 topics, 39 concepts, 39 quiz questions',
+    tags: ['reference', 'quiz'],
+  },
+  {
+    name: 'Discrete Math',
+    description: 'Discrete mathematics — propositional & predicate logic, set theory, graph theory, combinatorics, and number theory',
+    icon: Binary,
+    color: '#FF9E64',
+    port: 5187,
+    stats: '13 topics, 39 concepts, 39 quiz questions',
+    tags: ['reference', 'quiz'],
+  },
+  {
+    name: 'Distributed Systems',
+    description: 'Distributed systems — consensus algorithms, replication, partitioning, fault tolerance, and emerging patterns',
+    icon: GitBranchPlus,
+    color: '#C9A0FF',
+    port: 5188,
+    stats: '13 topics, 39 concepts, 39 quiz questions',
+    tags: ['reference', 'quiz', 'interview'],
+  },
+  {
+    name: 'Functional Programming',
+    description: 'FP fundamentals — pure functions, immutability, monads, type systems, algebraic data types, and category theory',
+    icon: FunctionSquare,
+    color: '#E06C75',
+    port: 5189,
+    stats: '13 topics, 39 concepts, 39 quiz questions',
+    tags: ['reference', 'quiz'],
+  },
+  {
+    name: 'Compilers & DSLs',
+    description: 'Compilers and DSLs — lexing, parsing, ASTs, type checking, optimization, code generation, and DSL design',
+    icon: Terminal,
+    color: '#61AFEF',
+    port: 5190,
+    stats: '13 topics, 39 concepts, 39 quiz questions',
+    tags: ['reference', 'quiz'],
+  },
+  {
+    name: 'Developer Experience',
+    description: 'Developer experience — shell mastery, git workflows, automation, SSH, dotfiles, and CLI tool building',
+    icon: SquareTerminal,
+    color: '#98C379',
+    port: 5191,
+    stats: '13 topics, 39 concepts, 39 quiz questions',
+    tags: ['reference', 'interactive'],
+  },
+  {
+    name: 'Systems Programming',
+    description: 'Systems programming — syscalls, memory management, pthreads, IPC, sockets, debugging, and performance',
+    icon: Microchip,
+    color: '#73DACA',
+    port: 5192,
+    stats: '13 topics, 39 concepts, 39 quiz questions',
+    tags: ['reference', 'interactive'],
+  },
+  {
+    name: 'Software Engineering',
+    description: 'Software engineering practices — requirements, testing strategies, agile processes, code review, and production readiness',
+    icon: Wrench,
+    color: '#E5C07B',
+    port: 5193,
+    stats: '13 topics, 39 concepts, 39 quiz questions',
+    tags: ['reference', 'interactive'],
+  },
 ];
 
 const tagColors: Record<Tag, string> = {
@@ -133,10 +214,10 @@ const tagColors: Record<Tag, string> = {
 };
 
 const overallStats = [
-  { label: 'Tools', value: '12', icon: Server, color: '#58A6FF' },
-  { label: 'Topics', value: '116+', icon: Layers, color: '#3FB950' },
-  { label: 'Questions', value: '425+', icon: HelpCircle, color: '#D2A8FF' },
-  { label: 'Concepts', value: '345+', icon: BookMarked, color: '#D29922' },
+  { label: 'Tools', value: '21', icon: Server, color: '#58A6FF' },
+  { label: 'Topics', value: '233+', icon: Layers, color: '#3FB950' },
+  { label: 'Questions', value: '776+', icon: HelpCircle, color: '#D2A8FF' },
+  { label: 'Concepts', value: '696+', icon: BookMarked, color: '#D29922' },
 ];
 
 export default function App() {
