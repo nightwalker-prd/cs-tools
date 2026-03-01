@@ -1,5 +1,5 @@
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from '@cstools/ui';
-import { BarChart3, Brain, Network, Gauge, Code, BookOpen, Wifi, Server, BookMarked, HelpCircle, Layers, Database, Cpu, Blocks, Rocket, ShieldCheck, BrainCircuit, FlaskConical, Binary, GitBranchPlus, FunctionSquare, Terminal, SquareTerminal, Microchip, Wrench, CircuitBoard, Infinity, FileCode, Monitor, Workflow, Radio, Sigma, Plug, Tv, LineChart } from 'lucide-react';
+import { BarChart3, Brain, Network, Gauge, Code, BookOpen, Wifi, Server, BookMarked, HelpCircle, Layers, Database, Cpu, Blocks, Rocket, ShieldCheck, BrainCircuit, FlaskConical, Binary, GitBranchPlus, FunctionSquare, Terminal, SquareTerminal, Microchip, Wrench, CircuitBoard, Infinity, FileCode, Monitor, Workflow, Radio, Sigma, Plug, Tv, LineChart, Radar } from 'lucide-react';
 
 type Tag = 'reference' | 'interactive' | 'quiz' | 'interview' | 'drills';
 
@@ -293,6 +293,15 @@ const tools: Tool[] = [
     stats: '13 topics, 39 concepts, 39 quiz questions',
     tags: ['reference', 'quiz'],
   },
+  {
+    name: 'OSINT',
+    description: 'OSINT fundamentals — reconnaissance, SOCMINT, GEOINT, verification, threat intelligence, and operational security',
+    icon: Radar,
+    color: '#00D4AA',
+    port: 5204,
+    stats: '13 topics, 39 concepts, 39 quiz questions',
+    tags: ['reference', 'quiz'],
+  },
 ];
 
 const tagColors: Record<Tag, string> = {
@@ -304,10 +313,10 @@ const tagColors: Record<Tag, string> = {
 };
 
 const overallStats = [
-  { label: 'Tools', value: '31', icon: Server, color: '#58A6FF' },
-  { label: 'Topics', value: '363+', icon: Layers, color: '#3FB950' },
-  { label: 'Questions', value: '1166+', icon: HelpCircle, color: '#D2A8FF' },
-  { label: 'Concepts', value: '1086+', icon: BookMarked, color: '#D29922' },
+  { label: 'Tools', value: '32', icon: Server, color: '#58A6FF' },
+  { label: 'Topics', value: '376+', icon: Layers, color: '#3FB950' },
+  { label: 'Questions', value: '1205+', icon: HelpCircle, color: '#D2A8FF' },
+  { label: 'Concepts', value: '1125+', icon: BookMarked, color: '#D29922' },
 ];
 
 export default function App() {
