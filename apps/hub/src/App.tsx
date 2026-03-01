@@ -1,5 +1,5 @@
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from '@cstools/ui';
-import { BarChart3, Brain, Network, Gauge, Code, BookOpen, Wifi, Server, BookMarked, HelpCircle, Layers, Database, Cpu, Blocks, Rocket, ShieldCheck, BrainCircuit, FlaskConical, Binary, GitBranchPlus, FunctionSquare, Terminal, SquareTerminal, Microchip, Wrench, CircuitBoard, Infinity, FileCode, Monitor, Workflow, Radio, Sigma, Plug, Tv, LineChart, Radar, Flame, Crosshair, Microscope } from 'lucide-react';
+import { BarChart3, Brain, Network, Gauge, Code, BookOpen, Wifi, Server, BookMarked, HelpCircle, Layers, Database, Cpu, Blocks, Rocket, ShieldCheck, BrainCircuit, FlaskConical, Binary, GitBranchPlus, FunctionSquare, Terminal, SquareTerminal, Microchip, Wrench, CircuitBoard, Infinity, FileCode, Monitor, Workflow, Radio, Sigma, Plug, Tv, LineChart, Radar, Flame, Crosshair, Microscope, KeyRound } from 'lucide-react';
 
 type Tag = 'reference' | 'interactive' | 'quiz' | 'interview' | 'drills';
 
@@ -329,6 +329,15 @@ const tools: Tool[] = [
     stats: '13 topics, 39 concepts, 39 quiz questions',
     tags: ['reference', 'quiz'],
   },
+  {
+    name: 'Cryptography',
+    description: 'Deep cryptography — symmetric & asymmetric encryption, hash functions, TLS, digital signatures, post-quantum crypto, and emerging techniques',
+    icon: KeyRound,
+    color: '#FFD700',
+    port: 5208,
+    stats: '13 topics, 39 concepts, 39 quiz questions',
+    tags: ['reference', 'quiz'],
+  },
 ];
 
 const tagColors: Record<Tag, string> = {
@@ -340,10 +349,10 @@ const tagColors: Record<Tag, string> = {
 };
 
 const overallStats = [
-  { label: 'Tools', value: '35', icon: Server, color: '#58A6FF' },
-  { label: 'Topics', value: '415+', icon: Layers, color: '#3FB950' },
-  { label: 'Questions', value: '1322+', icon: HelpCircle, color: '#D2A8FF' },
-  { label: 'Concepts', value: '1242+', icon: BookMarked, color: '#D29922' },
+  { label: 'Tools', value: '36', icon: Server, color: '#58A6FF' },
+  { label: 'Topics', value: '428+', icon: Layers, color: '#3FB950' },
+  { label: 'Questions', value: '1361+', icon: HelpCircle, color: '#D2A8FF' },
+  { label: 'Concepts', value: '1281+', icon: BookMarked, color: '#D29922' },
 ];
 
 export default function App() {

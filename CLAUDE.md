@@ -66,6 +66,7 @@ pnpm test                             # Run tests
 | adult-tech-innovation | 5205 | Adult industry tech innovation explorer with quizzes |
 | pentesting | 5206 | Pentesting fundamentals explorer with quizzes |
 | reverse-engineering | 5207 | Reverse engineering fundamentals explorer with quizzes |
+| cryptography | 5208 | Deep cryptography explorer with quizzes |
 
 ### Shared Packages (8)
 | Package | Contents |
