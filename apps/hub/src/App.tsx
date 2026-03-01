@@ -1,5 +1,5 @@
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from '@cstools/ui';
-import { BarChart3, Brain, Network, Gauge, Code, BookOpen, Wifi, Server, BookMarked, HelpCircle, Layers, Database, Cpu, Blocks, Rocket, ShieldCheck, BrainCircuit, FlaskConical, Binary, GitBranchPlus, FunctionSquare, Terminal, SquareTerminal, Microchip, Wrench, CircuitBoard, Infinity, FileCode, Monitor, Workflow, Radio, Sigma, Plug } from 'lucide-react';
+import { BarChart3, Brain, Network, Gauge, Code, BookOpen, Wifi, Server, BookMarked, HelpCircle, Layers, Database, Cpu, Blocks, Rocket, ShieldCheck, BrainCircuit, FlaskConical, Binary, GitBranchPlus, FunctionSquare, Terminal, SquareTerminal, Microchip, Wrench, CircuitBoard, Infinity, FileCode, Monitor, Workflow, Radio, Sigma, Plug, Tv } from 'lucide-react';
 
 type Tag = 'reference' | 'interactive' | 'quiz' | 'interview' | 'drills';
 
@@ -275,6 +275,15 @@ const tools: Tool[] = [
     stats: '13 topics, 39 concepts, 39 quiz questions',
     tags: ['reference', 'interactive'],
   },
+  {
+    name: 'Media Streaming',
+    description: 'Media streaming — video codecs, streaming protocols, CDN architecture, DRM, and platform engineering patterns',
+    icon: Tv,
+    color: '#E879F9',
+    port: 5202,
+    stats: '13 topics, 39 concepts, 39 quiz questions',
+    tags: ['reference', 'interactive'],
+  },
 ];
 
 const tagColors: Record<Tag, string> = {
@@ -286,10 +295,10 @@ const tagColors: Record<Tag, string> = {
 };
 
 const overallStats = [
-  { label: 'Tools', value: '29', icon: Server, color: '#58A6FF' },
-  { label: 'Topics', value: '337+', icon: Layers, color: '#3FB950' },
-  { label: 'Questions', value: '1088+', icon: HelpCircle, color: '#D2A8FF' },
-  { label: 'Concepts', value: '1008+', icon: BookMarked, color: '#D29922' },
+  { label: 'Tools', value: '30', icon: Server, color: '#58A6FF' },
+  { label: 'Topics', value: '350+', icon: Layers, color: '#3FB950' },
+  { label: 'Questions', value: '1127+', icon: HelpCircle, color: '#D2A8FF' },
+  { label: 'Concepts', value: '1047+', icon: BookMarked, color: '#D29922' },
 ];
 
 export default function App() {

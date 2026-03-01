@@ -60,6 +60,7 @@ pnpm test                             # Run tests
 | information-theory | 5199 | Information theory & coding explorer with quizzes |
 | numerical-methods | 5200 | Numerical methods & linear algebra explorer with quizzes |
 | api-design | 5201 | API design & protocols explorer with quizzes |
+| media-streaming | 5202 | Media streaming concepts explorer with quizzes |
 
 ### Shared Packages (8)
 | Package | Contents |
