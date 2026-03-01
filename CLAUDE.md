@@ -68,6 +68,7 @@ pnpm test                             # Run tests
 | reverse-engineering | 5207 | Reverse engineering fundamentals explorer with quizzes |
 | cryptography | 5208 | Deep cryptography explorer with quizzes |
 | forensics | 5209 | Digital forensics explorer with quizzes |
+| threat-intelligence | 5210 | Cyber threat intelligence explorer with quizzes |
 
 ### Shared Packages (8)
 | Package | Contents |
