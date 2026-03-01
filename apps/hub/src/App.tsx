@@ -1,5 +1,5 @@
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from '@cstools/ui';
-import { BarChart3, Brain, Network, Gauge, Code, BookOpen, Wifi, Server, BookMarked, HelpCircle, Layers, Database, Cpu, Blocks, Rocket, ShieldCheck, BrainCircuit, FlaskConical, Binary, GitBranchPlus, FunctionSquare, Terminal, SquareTerminal, Microchip, Wrench, CircuitBoard, Infinity, FileCode, Monitor, Workflow, Radio, Sigma, Plug, Tv, LineChart, Radar, Flame, Crosshair, Microscope, KeyRound } from 'lucide-react';
+import { BarChart3, Brain, Network, Gauge, Code, BookOpen, Wifi, Server, BookMarked, HelpCircle, Layers, Database, Cpu, Blocks, Rocket, ShieldCheck, BrainCircuit, FlaskConical, Binary, GitBranchPlus, FunctionSquare, Terminal, SquareTerminal, Microchip, Wrench, CircuitBoard, Infinity, FileCode, Monitor, Workflow, Radio, Sigma, Plug, Tv, LineChart, Radar, Flame, Crosshair, Microscope, KeyRound, Fingerprint } from 'lucide-react';
 
 type Tag = 'reference' | 'interactive' | 'quiz' | 'interview' | 'drills';
 
@@ -338,6 +338,15 @@ const tools: Tool[] = [
     stats: '13 topics, 39 concepts, 39 quiz questions',
     tags: ['reference', 'quiz'],
   },
+  {
+    name: 'Digital Forensics',
+    description: 'Digital forensics — evidence acquisition, disk/memory/network/mobile forensics, incident response, anti-forensics, and malware forensics',
+    icon: Fingerprint,
+    color: '#9B59B6',
+    port: 5209,
+    stats: '13 topics, 39 concepts, 39 quiz questions',
+    tags: ['reference', 'quiz'],
+  },
 ];
 
 const tagColors: Record<Tag, string> = {
@@ -349,10 +358,10 @@ const tagColors: Record<Tag, string> = {
 };
 
 const overallStats = [
-  { label: 'Tools', value: '36', icon: Server, color: '#58A6FF' },
-  { label: 'Topics', value: '428+', icon: Layers, color: '#3FB950' },
-  { label: 'Questions', value: '1361+', icon: HelpCircle, color: '#D2A8FF' },
-  { label: 'Concepts', value: '1281+', icon: BookMarked, color: '#D29922' },
+  { label: 'Tools', value: '37', icon: Server, color: '#58A6FF' },
+  { label: 'Topics', value: '441+', icon: Layers, color: '#3FB950' },
+  { label: 'Questions', value: '1400+', icon: HelpCircle, color: '#D2A8FF' },
+  { label: 'Concepts', value: '1320+', icon: BookMarked, color: '#D29922' },
 ];
 
 export default function App() {
