@@ -61,6 +61,7 @@ pnpm test                             # Run tests
 | numerical-methods | 5200 | Numerical methods & linear algebra explorer with quizzes |
 | api-design | 5201 | API design & protocols explorer with quizzes |
 | media-streaming | 5202 | Media streaming concepts explorer with quizzes |
+| algorithm-analysis | 5203 | Algorithm analysis concepts explorer with quizzes |
 
 ### Shared Packages (8)
 | Package | Contents |
