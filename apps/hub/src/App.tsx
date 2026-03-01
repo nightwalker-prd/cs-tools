@@ -1,5 +1,5 @@
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from '@cstools/ui';
-import { BarChart3, Brain, Network, Gauge, Code, BookOpen, Wifi, Server, BookMarked, HelpCircle, Layers, Database, Cpu, Blocks, Rocket, ShieldCheck, BrainCircuit, FlaskConical, Binary, GitBranchPlus, FunctionSquare, Terminal, SquareTerminal, Microchip, Wrench, CircuitBoard, Infinity, FileCode, Monitor, Workflow, Radio, Sigma, Plug, Tv, LineChart, Radar } from 'lucide-react';
+import { BarChart3, Brain, Network, Gauge, Code, BookOpen, Wifi, Server, BookMarked, HelpCircle, Layers, Database, Cpu, Blocks, Rocket, ShieldCheck, BrainCircuit, FlaskConical, Binary, GitBranchPlus, FunctionSquare, Terminal, SquareTerminal, Microchip, Wrench, CircuitBoard, Infinity, FileCode, Monitor, Workflow, Radio, Sigma, Plug, Tv, LineChart, Radar, Flame } from 'lucide-react';
 
 type Tag = 'reference' | 'interactive' | 'quiz' | 'interview' | 'drills';
 
@@ -302,6 +302,15 @@ const tools: Tool[] = [
     stats: '13 topics, 39 concepts, 39 quiz questions',
     tags: ['reference', 'quiz'],
   },
+  {
+    name: 'Adult Tech Innovation',
+    description: 'How the adult industry drove tech innovation — streaming video, online payments, CDNs, compression, privacy tech, and content moderation at scale',
+    icon: Flame,
+    color: '#FF6B6B',
+    port: 5205,
+    stats: '13 topics, 39 concepts, 39 quiz questions',
+    tags: ['reference', 'quiz'],
+  },
 ];
 
 const tagColors: Record<Tag, string> = {
@@ -313,10 +322,10 @@ const tagColors: Record<Tag, string> = {
 };
 
 const overallStats = [
-  { label: 'Tools', value: '32', icon: Server, color: '#58A6FF' },
-  { label: 'Topics', value: '376+', icon: Layers, color: '#3FB950' },
-  { label: 'Questions', value: '1205+', icon: HelpCircle, color: '#D2A8FF' },
-  { label: 'Concepts', value: '1125+', icon: BookMarked, color: '#D29922' },
+  { label: 'Tools', value: '33', icon: Server, color: '#58A6FF' },
+  { label: 'Topics', value: '389+', icon: Layers, color: '#3FB950' },
+  { label: 'Questions', value: '1244+', icon: HelpCircle, color: '#D2A8FF' },
+  { label: 'Concepts', value: '1164+', icon: BookMarked, color: '#D29922' },
 ];
 
 export default function App() {

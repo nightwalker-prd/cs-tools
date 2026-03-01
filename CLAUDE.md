@@ -63,6 +63,7 @@ pnpm test                             # Run tests
 | media-streaming | 5202 | Media streaming concepts explorer with quizzes |
 | algorithm-analysis | 5203 | Algorithm analysis concepts explorer with quizzes |
 | osint | 5204 | OSINT fundamentals explorer with quizzes |
+| adult-tech-innovation | 5205 | Adult industry tech innovation explorer with quizzes |
 
 ### Shared Packages (8)
 | Package | Contents |
