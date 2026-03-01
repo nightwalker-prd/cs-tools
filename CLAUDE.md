@@ -52,6 +52,14 @@ pnpm test                             # Run tests
 | dev-experience | 5191 | Developer experience & CLI mastery explorer with quizzes |
 | systems-programming | 5192 | Systems programming concepts explorer with quizzes |
 | software-engineering | 5193 | Software engineering practices explorer with quizzes |
+| computer-architecture | 5194 | Computer architecture concepts explorer with quizzes |
+| automata | 5195 | Automata & formal languages explorer with quizzes |
+| programming-languages | 5196 | Programming language theory explorer with quizzes |
+| computer-graphics | 5197 | Computer graphics concepts explorer with quizzes |
+| concurrency | 5198 | Concurrency & parallelism explorer with quizzes |
+| information-theory | 5199 | Information theory & coding explorer with quizzes |
+| numerical-methods | 5200 | Numerical methods & linear algebra explorer with quizzes |
+| api-design | 5201 | API design & protocols explorer with quizzes |
 
 ### Shared Packages (8)
 | Package | Contents |

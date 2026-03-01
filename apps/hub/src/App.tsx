@@ -1,5 +1,5 @@
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from '@cstools/ui';
-import { BarChart3, Brain, Network, Gauge, Code, BookOpen, Wifi, Server, BookMarked, HelpCircle, Layers, Database, Cpu, Blocks, Rocket, ShieldCheck, BrainCircuit, FlaskConical, Binary, GitBranchPlus, FunctionSquare, Terminal, SquareTerminal, Microchip, Wrench } from 'lucide-react';
+import { BarChart3, Brain, Network, Gauge, Code, BookOpen, Wifi, Server, BookMarked, HelpCircle, Layers, Database, Cpu, Blocks, Rocket, ShieldCheck, BrainCircuit, FlaskConical, Binary, GitBranchPlus, FunctionSquare, Terminal, SquareTerminal, Microchip, Wrench, CircuitBoard, Infinity, FileCode, Monitor, Workflow, Radio, Sigma, Plug } from 'lucide-react';
 
 type Tag = 'reference' | 'interactive' | 'quiz' | 'interview' | 'drills';
 
@@ -203,6 +203,78 @@ const tools: Tool[] = [
     stats: '13 topics, 39 concepts, 39 quiz questions',
     tags: ['reference', 'interactive'],
   },
+  {
+    name: 'Computer Architecture',
+    description: 'Computer architecture — digital logic, CPU pipelines, caches, memory hierarchy, and modern processor design',
+    icon: CircuitBoard,
+    color: '#FF6B6B',
+    port: 5194,
+    stats: '13 topics, 39 concepts, 39 quiz questions',
+    tags: ['reference', 'interactive'],
+  },
+  {
+    name: 'Automata & Formal Languages',
+    description: 'Automata theory — DFA, NFA, regular languages, context-free grammars, Turing machines, and computability',
+    icon: Infinity,
+    color: '#C678DD',
+    port: 5195,
+    stats: '13 topics, 39 concepts, 39 quiz questions',
+    tags: ['reference', 'interactive'],
+  },
+  {
+    name: 'Programming Languages',
+    description: 'Programming language theory — type systems, evaluation strategies, paradigms, memory management, and runtime design',
+    icon: FileCode,
+    color: '#61AFEF',
+    port: 5196,
+    stats: '13 topics, 39 concepts, 39 quiz questions',
+    tags: ['reference', 'interactive'],
+  },
+  {
+    name: 'Computer Graphics',
+    description: 'Computer graphics — math foundations, rendering pipeline, ray tracing, shaders, and real-time techniques',
+    icon: Monitor,
+    color: '#E06C75',
+    port: 5197,
+    stats: '13 topics, 39 concepts, 39 quiz questions',
+    tags: ['reference', 'interactive'],
+  },
+  {
+    name: 'Concurrency & Parallelism',
+    description: 'Concurrency — threading models, synchronization, lock-free algorithms, async patterns, and distributed concurrency',
+    icon: Workflow,
+    color: '#56B6C2',
+    port: 5198,
+    stats: '13 topics, 39 concepts, 39 quiz questions',
+    tags: ['reference', 'interactive'],
+  },
+  {
+    name: 'Information Theory',
+    description: 'Information theory — entropy, compression, error-correcting codes, channel capacity, and Shannon limits',
+    icon: Radio,
+    color: '#D19A66',
+    port: 5199,
+    stats: '13 topics, 39 concepts, 39 quiz questions',
+    tags: ['reference', 'interactive'],
+  },
+  {
+    name: 'Numerical Methods',
+    description: 'Numerical methods — linear algebra, matrix decompositions, optimization, floating-point analysis, and FFT',
+    icon: Sigma,
+    color: '#CBA6F7',
+    port: 5200,
+    stats: '13 topics, 39 concepts, 39 quiz questions',
+    tags: ['reference', 'interactive'],
+  },
+  {
+    name: 'API Design & Protocols',
+    description: 'API design — REST, GraphQL, gRPC, WebSockets, authentication, rate limiting, and API operations',
+    icon: Plug,
+    color: '#F5A97F',
+    port: 5201,
+    stats: '13 topics, 39 concepts, 39 quiz questions',
+    tags: ['reference', 'interactive'],
+  },
 ];
 
 const tagColors: Record<Tag, string> = {
@@ -214,10 +286,10 @@ const tagColors: Record<Tag, string> = {
 };
 
 const overallStats = [
-  { label: 'Tools', value: '21', icon: Server, color: '#58A6FF' },
-  { label: 'Topics', value: '233+', icon: Layers, color: '#3FB950' },
-  { label: 'Questions', value: '776+', icon: HelpCircle, color: '#D2A8FF' },
-  { label: 'Concepts', value: '696+', icon: BookMarked, color: '#D29922' },
+  { label: 'Tools', value: '29', icon: Server, color: '#58A6FF' },
+  { label: 'Topics', value: '337+', icon: Layers, color: '#3FB950' },
+  { label: 'Questions', value: '1088+', icon: HelpCircle, color: '#D2A8FF' },
+  { label: 'Concepts', value: '1008+', icon: BookMarked, color: '#D29922' },
 ];
 
 export default function App() {
