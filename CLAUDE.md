@@ -71,6 +71,7 @@ pnpm test                             # Run tests
 | threat-intelligence | 5210 | Cyber threat intelligence explorer with quizzes |
 | cloud-security | 5211 | Cloud security concepts explorer with quizzes |
 | kali-linux | 5212 | Kali Linux tools & workflow explorer with quizzes |
+| self-hosting | 5213 | Self-hosting fundamentals explorer with quizzes |
 
 ### Shared Packages (8)
 | Package | Contents |
