@@ -20,7 +20,7 @@ get_project_name() {
 }
 
 # All known apps
-ALL_APPS="hub algo-viz dsa-drills system-design complexity-atlas ddia networking leetcode-guide"
+ALL_APPS="hub algo-viz dsa-drills system-design complexity-atlas ddia networking leetcode-guide databases os design-patterns devops security ml data-science discrete-math distributed-systems functional-programming compilers dev-experience systems-programming software-engineering computer-architecture automata programming-languages computer-graphics concurrency information-theory numerical-methods api-design media-streaming algorithm-analysis osint adult-tech-innovation pentesting reverse-engineering cryptography forensics threat-intelligence cloud-security kali-linux self-hosting browsers web-animations quantum-computing ui-ux-design game-dev blockchain robotics edge-computing nlp hci data-visualization tech-ethics"
 
 deploy_app() {
   local app=$1
@@ -32,8 +32,13 @@ deploy_app() {
     return 1
   fi
   echo -n "Deploying $app... "
+  # Auto-create project if it doesn't exist
   local output
   output=$(npx wrangler pages deploy "$dist" --project-name="$project" --commit-dirty=true 2>&1)
+  if echo "$output" | grep -q "Project not found"; then
+    npx wrangler pages project create "$project" --production-branch=main >/dev/null 2>&1
+    output=$(npx wrangler pages deploy "$dist" --project-name="$project" --commit-dirty=true 2>&1)
+  fi
   if echo "$output" | grep -q "Deployment complete"; then
     local url
     url=$(echo "$output" | grep -oE 'https://[^ ]+\.pages\.dev')
