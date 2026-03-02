@@ -72,6 +72,7 @@ pnpm test                             # Run tests
 | cloud-security | 5211 | Cloud security concepts explorer with quizzes |
 | kali-linux | 5212 | Kali Linux tools & workflow explorer with quizzes |
 | self-hosting | 5213 | Self-hosting fundamentals explorer with quizzes |
+| browsers | 5214 | Browser internals explorer with quizzes |
 
 ### Shared Packages (8)
 | Package | Contents |
