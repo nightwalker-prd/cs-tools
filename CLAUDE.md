@@ -73,6 +73,7 @@ pnpm test                             # Run tests
 | kali-linux | 5212 | Kali Linux tools & workflow explorer with quizzes |
 | self-hosting | 5213 | Self-hosting fundamentals explorer with quizzes |
 | browsers | 5214 | Browser internals explorer with quizzes |
+| web-animations | 5215 | Web animations explorer with quizzes |
 
 ### Shared Packages (8)
 | Package | Contents |

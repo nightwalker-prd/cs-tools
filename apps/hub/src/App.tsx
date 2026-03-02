@@ -1,5 +1,5 @@
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from '@cstools/ui';
-import { BarChart3, Brain, Network, Gauge, Code, BookOpen, Wifi, Server, BookMarked, HelpCircle, Layers, Database, Cpu, Blocks, Rocket, ShieldCheck, BrainCircuit, FlaskConical, Binary, GitBranchPlus, FunctionSquare, Terminal, SquareTerminal, Microchip, Wrench, CircuitBoard, Infinity, FileCode, Monitor, Workflow, Radio, Sigma, Plug, Tv, LineChart, Radar, Flame, Crosshair, Microscope, KeyRound, Fingerprint, ScanEye, CloudCog, Skull, Home, Globe } from 'lucide-react';
+import { BarChart3, Brain, Network, Gauge, Code, BookOpen, Wifi, Server, BookMarked, HelpCircle, Layers, Database, Cpu, Blocks, Rocket, ShieldCheck, BrainCircuit, FlaskConical, Binary, GitBranchPlus, FunctionSquare, Terminal, SquareTerminal, Microchip, Wrench, CircuitBoard, Infinity, FileCode, Monitor, Workflow, Radio, Sigma, Plug, Tv, LineChart, Radar, Flame, Crosshair, Microscope, KeyRound, Fingerprint, ScanEye, CloudCog, Skull, Home, Globe, Sparkles } from 'lucide-react';
 
 type Tag = 'reference' | 'interactive' | 'quiz' | 'interview' | 'drills';
 
@@ -392,6 +392,15 @@ const tools: Tool[] = [
     stats: '13 topics, 39 concepts, 39 quiz questions',
     tags: ['reference', 'quiz'],
   },
+  {
+    name: 'Web Animations',
+    description: 'Web animations — CSS transitions, keyframes, transforms, WAAPI, scroll-driven animations, SVG motion, View Transitions API, GSAP, performance, and accessibility',
+    icon: Sparkles,
+    color: '#E040FB',
+    port: 5215,
+    stats: '13 topics, 39 concepts, 39 quiz questions',
+    tags: ['reference', 'quiz'],
+  },
 ];
 
 const tagColors: Record<Tag, string> = {
@@ -403,10 +412,10 @@ const tagColors: Record<Tag, string> = {
 };
 
 const overallStats = [
-  { label: 'Tools', value: '42', icon: Server, color: '#58A6FF' },
-  { label: 'Topics', value: '506+', icon: Layers, color: '#3FB950' },
-  { label: 'Questions', value: '1595+', icon: HelpCircle, color: '#D2A8FF' },
-  { label: 'Concepts', value: '1515+', icon: BookMarked, color: '#D29922' },
+  { label: 'Tools', value: '43', icon: Server, color: '#58A6FF' },
+  { label: 'Topics', value: '519+', icon: Layers, color: '#3FB950' },
+  { label: 'Questions', value: '1634+', icon: HelpCircle, color: '#D2A8FF' },
+  { label: 'Concepts', value: '1554+', icon: BookMarked, color: '#D29922' },
 ];
 
 export default function App() {
