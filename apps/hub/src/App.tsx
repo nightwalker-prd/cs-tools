@@ -1,5 +1,5 @@
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from '@cstools/ui';
-import { BarChart3, Brain, Network, Gauge, Code, BookOpen, Wifi, Server, BookMarked, HelpCircle, Layers, Database, Cpu, Blocks, Rocket, ShieldCheck, BrainCircuit, FlaskConical, Binary, GitBranchPlus, FunctionSquare, Terminal, SquareTerminal, Microchip, Wrench, CircuitBoard, Infinity, FileCode, Monitor, Workflow, Radio, Sigma, Plug, Tv, LineChart, Radar, Flame, Crosshair, Microscope, KeyRound, Fingerprint, ScanEye, CloudCog, Skull, Home, Globe, Sparkles } from 'lucide-react';
+import { BarChart3, Brain, Network, Gauge, Code, BookOpen, Wifi, Server, BookMarked, HelpCircle, Layers, Database, Cpu, Blocks, Rocket, ShieldCheck, BrainCircuit, FlaskConical, Binary, GitBranchPlus, FunctionSquare, Terminal, SquareTerminal, Microchip, Wrench, CircuitBoard, Infinity, FileCode, Monitor, Workflow, Radio, Sigma, Plug, Tv, LineChart, Radar, Flame, Crosshair, Microscope, KeyRound, Fingerprint, ScanEye, CloudCog, Skull, Home, Globe, Sparkles, Atom, Palette, Gamepad2, Link, Bot, Router, MessageSquareText, MousePointer, PieChart, Scale } from 'lucide-react';
 
 type Tag = 'reference' | 'interactive' | 'quiz' | 'interview' | 'drills';
 
@@ -401,6 +401,96 @@ const tools: Tool[] = [
     stats: '13 topics, 39 concepts, 39 quiz questions',
     tags: ['reference', 'quiz'],
   },
+  {
+    name: 'Quantum Computing',
+    description: 'Quantum computing — qubits, superposition, entanglement, quantum gates, Shor\'s & Grover\'s algorithms, error correction, and quantum hardware',
+    icon: Atom,
+    color: '#00BCD4',
+    port: 5216,
+    stats: '13 topics, 39 concepts, 39 quiz questions',
+    tags: ['reference', 'quiz'],
+  },
+  {
+    name: 'UI/UX Design',
+    description: 'UI/UX design — design principles, color theory, typography, user research, information architecture, usability testing, and design systems',
+    icon: Palette,
+    color: '#FF4081',
+    port: 5217,
+    stats: '13 topics, 39 concepts, 39 quiz questions',
+    tags: ['reference', 'quiz'],
+  },
+  {
+    name: 'Game Development',
+    description: 'Game development — game loops, physics, rendering, input systems, AI & pathfinding, level design, multiplayer networking, and engines',
+    icon: Gamepad2,
+    color: '#FF5722',
+    port: 5218,
+    stats: '13 topics, 39 concepts, 39 quiz questions',
+    tags: ['reference', 'quiz'],
+  },
+  {
+    name: 'Blockchain',
+    description: 'Blockchain — cryptographic primitives, consensus mechanisms, Bitcoin, Ethereum, smart contracts, DeFi, Layer 2, zero-knowledge proofs, and Web3',
+    icon: Link,
+    color: '#F7931A',
+    port: 5219,
+    stats: '13 topics, 39 concepts, 39 quiz questions',
+    tags: ['reference', 'quiz'],
+  },
+  {
+    name: 'Robotics',
+    description: 'Robotics — kinematics, control systems, computer vision, SLAM, motion planning, ROS, swarm robotics, autonomous vehicles, and drones',
+    icon: Bot,
+    color: '#607D8B',
+    port: 5220,
+    stats: '13 topics, 39 concepts, 39 quiz questions',
+    tags: ['reference', 'quiz'],
+  },
+  {
+    name: 'Edge Computing',
+    description: 'Edge computing — IoT devices, embedded systems, edge platforms, containerization at the edge, data processing, edge AI, digital twins, and IIoT',
+    icon: Router,
+    color: '#009688',
+    port: 5221,
+    stats: '13 topics, 39 concepts, 39 quiz questions',
+    tags: ['reference', 'quiz'],
+  },
+  {
+    name: 'NLP',
+    description: 'Natural language processing — text processing, embeddings, transformers, large language models, NER, machine translation, RAG, and prompt engineering',
+    icon: MessageSquareText,
+    color: '#9C27B0',
+    port: 5222,
+    stats: '13 topics, 39 concepts, 39 quiz questions',
+    tags: ['reference', 'quiz'],
+  },
+  {
+    name: 'HCI',
+    description: 'Human-computer interaction — cognitive psychology, input paradigms, user-centered design, evaluation methods, VR/AR, voice UI, BCIs, and ethics',
+    icon: MousePointer,
+    color: '#3F51B5',
+    port: 5223,
+    stats: '13 topics, 39 concepts, 39 quiz questions',
+    tags: ['reference', 'quiz'],
+  },
+  {
+    name: 'Data Visualization',
+    description: 'Data visualization — visual encoding, perception, chart types, D3.js, interactive visualizations, dashboards, data storytelling, and accessibility',
+    icon: PieChart,
+    color: '#FF9800',
+    port: 5224,
+    stats: '13 topics, 39 concepts, 39 quiz questions',
+    tags: ['reference', 'quiz'],
+  },
+  {
+    name: 'Tech Ethics',
+    description: 'Technology ethics — ethical frameworks, digital rights, AI bias, transparency, content moderation, automation, environmental impact, and governance',
+    icon: Scale,
+    color: '#795548',
+    port: 5225,
+    stats: '13 topics, 39 concepts, 39 quiz questions',
+    tags: ['reference', 'quiz'],
+  },
 ];
 
 const tagColors: Record<Tag, string> = {
@@ -412,10 +502,10 @@ const tagColors: Record<Tag, string> = {
 };
 
 const overallStats = [
-  { label: 'Tools', value: '43', icon: Server, color: '#58A6FF' },
-  { label: 'Topics', value: '519+', icon: Layers, color: '#3FB950' },
-  { label: 'Questions', value: '1634+', icon: HelpCircle, color: '#D2A8FF' },
-  { label: 'Concepts', value: '1554+', icon: BookMarked, color: '#D29922' },
+  { label: 'Tools', value: '53', icon: Server, color: '#58A6FF' },
+  { label: 'Topics', value: '649+', icon: Layers, color: '#3FB950' },
+  { label: 'Questions', value: '2024+', icon: HelpCircle, color: '#D2A8FF' },
+  { label: 'Concepts', value: '1944+', icon: BookMarked, color: '#D29922' },
 ];
 
 export default function App() {

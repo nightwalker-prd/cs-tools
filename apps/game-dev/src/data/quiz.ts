@@ -1,0 +1,535 @@
+export interface QuizQuestion {
+  id: string;
+  chapterId: number;
+  question: string;
+  options: string[];
+  answer: number;
+  explanation: string;
+}
+
+export const quizQuestions: QuizQuestion[] = [
+  // Chapter 1: Game Loop & Architecture
+  {
+    id: 'q1-1',
+    chapterId: 1,
+    question: 'What is the primary advantage of a fixed timestep game loop over a variable timestep?',
+    options: [
+      'It renders frames faster on all hardware',
+      'It provides deterministic, reproducible simulation results regardless of frame rate',
+      'It automatically adapts to different screen refresh rates',
+      'It uses less CPU and GPU resources',
+    ],
+    answer: 1,
+    explanation: 'A fixed timestep ensures that physics and game logic are updated at a consistent rate (e.g., 60 times per second), producing deterministic results. This is critical for physics stability, replay systems, and networked multiplayer where all clients must agree on game state.',
+  },
+  {
+    id: 'q1-2',
+    chapterId: 1,
+    question: 'In the Entity-Component-System (ECS) architecture, what do Systems operate on?',
+    options: [
+      'Individual entity objects with inherited behaviors',
+      'Components that match specific queries, processing data across all matching entities',
+      'Only the root game object in the scene hierarchy',
+      'Pre-compiled shader programs attached to entities',
+    ],
+    answer: 1,
+    explanation: 'In ECS, Systems iterate over all entities that have a specific set of components. For example, a MovementSystem might query for all entities with both Position and Velocity components, then update their positions. This data-oriented approach enables cache-friendly processing and clean separation of concerns.',
+  },
+  {
+    id: 'q1-3',
+    chapterId: 1,
+    question: 'What is the standard order of operations in a typical game loop iteration?',
+    options: [
+      'Render -> Input -> Update -> Physics',
+      'Input -> Update -> Render -> Present',
+      'Physics -> Render -> Input -> Update',
+      'Update -> Input -> Render -> Physics',
+    ],
+    answer: 1,
+    explanation: 'The standard game loop processes input first (what did the player do?), then updates game state (physics, AI, logic), then renders the frame, and finally presents it to the screen. This order ensures that the rendered frame reflects the most recent player input and game state.',
+  },
+  // Chapter 2: 2D Game Physics
+  {
+    id: 'q2-1',
+    chapterId: 2,
+    question: 'What does AABB stand for in collision detection?',
+    options: [
+      'Automatic Axis-Based Boundaries',
+      'Axis-Aligned Bounding Box',
+      'Advanced Algorithm for Box Bounds',
+      'Approximate Area Boundary Bounds',
+    ],
+    answer: 1,
+    explanation: 'AABB stands for Axis-Aligned Bounding Box. It is a rectangular box whose edges are parallel to the coordinate axes. AABB collision checks are extremely fast (just comparing min/max values on each axis) making them ideal for broad-phase collision detection before more expensive narrow-phase checks.',
+  },
+  {
+    id: 'q2-2',
+    chapterId: 2,
+    question: 'What is the Separating Axis Theorem (SAT) used for?',
+    options: [
+      'Sorting sprites by depth for correct rendering order',
+      'Determining if two convex shapes overlap by finding a separating axis between them',
+      'Calculating the shortest path between two points in a tile map',
+      'Optimizing memory layout for physics data',
+    ],
+    answer: 1,
+    explanation: 'SAT states that two convex shapes do not overlap if and only if there exists an axis along which their projections do not overlap. By testing all potential separating axes (normals of each edge), you can determine both whether shapes collide and the minimum translation vector to resolve the collision.',
+  },
+  {
+    id: 'q2-3',
+    chapterId: 2,
+    question: 'Which physics engine is commonly used for 2D games in web browsers?',
+    options: [
+      'PhysX',
+      'Matter.js',
+      'Bullet Physics',
+      'Havok',
+    ],
+    answer: 1,
+    explanation: 'Matter.js is a popular 2D rigid body physics engine for the web, written in JavaScript. It handles collision detection, rigid body dynamics, constraints, and supports features like compound bodies and sleeping. Box2D (via Emscripten ports) is another common choice for web 2D physics.',
+  },
+  // Chapter 3: Rendering & Graphics
+  {
+    id: 'q3-1',
+    chapterId: 3,
+    question: 'What is a sprite atlas (texture atlas) and why is it used?',
+    options: [
+      'A map of all game levels stored as a single image',
+      'A single texture containing multiple sprite images, used to reduce draw calls and texture swaps',
+      'A 3D model format that stores vertex data as flat textures',
+      'A debugging tool that visualizes collision boundaries',
+    ],
+    answer: 1,
+    explanation: 'A sprite atlas packs many individual sprite images into a single large texture. When rendering, the GPU only needs to bind one texture and the game uses UV coordinates to select the correct sub-region for each sprite. This dramatically reduces draw calls and texture state changes, which are major GPU performance bottlenecks.',
+  },
+  {
+    id: 'q3-2',
+    chapterId: 3,
+    question: 'What is the purpose of a camera system in a 2D game?',
+    options: [
+      'To capture screenshots for social media sharing',
+      'To define which portion of the game world is visible on screen and handle smooth scrolling/tracking',
+      'To record gameplay footage for replays',
+      'To detect objects outside the player visible area for AI',
+    ],
+    answer: 1,
+    explanation: 'A camera system defines a viewport into the game world, translating world coordinates to screen coordinates. It handles features like following the player, smooth interpolation (lerp), screen shake, zoom, and culling objects outside the visible area to save rendering time.',
+  },
+  {
+    id: 'q3-3',
+    chapterId: 3,
+    question: 'What are shaders in the context of game rendering?',
+    options: [
+      'Tools for creating shadow maps in the game world',
+      'Small programs that run on the GPU to control how vertices and pixels are processed and rendered',
+      'Algorithms that sort objects by distance from the camera',
+      'Post-processing filters applied only in photo mode',
+    ],
+    answer: 1,
+    explanation: 'Shaders are GPU programs written in languages like GLSL, HLSL, or WGSL. Vertex shaders transform geometry, fragment/pixel shaders determine the color of each pixel. They enable effects like lighting, water, distortion, bloom, and cel-shading. Modern games rely heavily on custom shaders for their visual identity.',
+  },
+  // Chapter 4: Input & Controls
+  {
+    id: 'q4-1',
+    chapterId: 4,
+    question: 'What is input buffering in fighting games?',
+    options: [
+      'Storing input data in a circular buffer for network replay',
+      'Accepting and queuing inputs within a short time window so players can execute moves slightly early',
+      'Filtering out accidental button presses to prevent unintended actions',
+      'Compressing input data to reduce network bandwidth',
+    ],
+    answer: 1,
+    explanation: 'Input buffering stores player inputs for a small window (typically 3-10 frames) before they are needed. This makes games feel more responsive by allowing players to queue up the next move slightly before the current animation ends. Fighting games like Street Fighter and Guilty Gear rely heavily on input buffering for fluid combo execution.',
+  },
+  {
+    id: 'q4-2',
+    chapterId: 4,
+    question: 'Why is input mapping (action mapping) important in game design?',
+    options: [
+      'It makes the game run faster by caching input states',
+      'It decouples game actions from specific hardware inputs, enabling rebinding and cross-platform support',
+      'It prevents players from using keyboard macros',
+      'It encrypts input data to prevent cheating',
+    ],
+    answer: 1,
+    explanation: 'Input mapping creates an abstraction layer between physical inputs (keyboard keys, gamepad buttons, touch gestures) and game actions (jump, attack, interact). This allows players to rebind controls, supports multiple input devices simultaneously, and simplifies porting across platforms without changing game logic.',
+  },
+  {
+    id: 'q4-3',
+    chapterId: 4,
+    question: 'What is the Gamepad API in web browsers used for?',
+    options: [
+      'Rendering gamepad button icons on screen',
+      'Detecting and reading input from connected game controllers in web applications',
+      'Emulating gamepad inputs with keyboard and mouse',
+      'Streaming game video to external displays',
+    ],
+    answer: 1,
+    explanation: 'The Gamepad API (navigator.getGamepads()) allows web games to detect connected controllers, read button states, analog stick positions, and trigger values. It supports standard gamepad mappings so developers can reference buttons by role (e.g., "A button") rather than raw indices across different controller brands.',
+  },
+  // Chapter 5: Audio & Sound Design
+  {
+    id: 'q5-1',
+    chapterId: 5,
+    question: 'What is the Web Audio API primarily used for in game development?',
+    options: [
+      'Recording voice chat between players',
+      'Creating, processing, and spatializing audio in real-time within the browser',
+      'Compressing audio files for faster downloads',
+      'Synchronizing background music with video cutscenes',
+    ],
+    answer: 1,
+    explanation: 'The Web Audio API provides a graph-based audio processing system where AudioNodes (sources, effects, destinations) are connected together. It supports real-time synthesis, spatial 3D audio positioning, filtering, convolution reverb, and precise timing — making it the foundation for game audio in web-based games.',
+  },
+  {
+    id: 'q5-2',
+    chapterId: 5,
+    question: 'What is adaptive audio in games?',
+    options: [
+      'Audio that automatically adjusts volume based on ambient room noise',
+      'Music and sound effects that dynamically change based on gameplay state and player actions',
+      'Audio that only plays when the player has headphones connected',
+      'A system that converts text to speech for accessibility',
+    ],
+    answer: 1,
+    explanation: 'Adaptive audio systems modify the soundtrack in real-time based on game context. For example, music might intensify during combat, become ambient during exploration, and shift to a tense key when health is low. Tools like FMOD and Wwise provide vertical layering (adding/removing instrument tracks) and horizontal sequencing (transitioning between musical sections).',
+  },
+  {
+    id: 'q5-3',
+    chapterId: 5,
+    question: 'What is spatial audio in the context of game sound design?',
+    options: [
+      'Audio that plays in surround sound only',
+      'Sound positioning in 3D space so audio appears to come from specific locations relative to the listener',
+      'Audio that is stored in spatial data formats like GeoJSON',
+      'Background music that changes based on the player map location',
+    ],
+    answer: 1,
+    explanation: 'Spatial audio simulates how sound behaves in physical space — including direction (panning), distance (attenuation), and environment (reverb, occlusion). The Web Audio API PannerNode and AudioListener provide this in browsers. In 3D games, spatial audio is critical for immersion and gameplay (hearing enemies approach from behind).',
+  },
+  // Chapter 6: AI & Pathfinding
+  {
+    id: 'q6-1',
+    chapterId: 6,
+    question: 'What makes A* pathfinding more efficient than Dijkstra algorithm for game AI?',
+    options: [
+      'A* uses less memory by not storing visited nodes',
+      'A* uses a heuristic to estimate remaining distance, directing the search toward the goal',
+      'A* can only work on grid-based maps, which are simpler to process',
+      'A* skips obstacle detection entirely for speed',
+    ],
+    answer: 1,
+    explanation: 'A* extends Dijkstra by adding a heuristic function h(n) that estimates the cost from node n to the goal. The total priority f(n) = g(n) + h(n) guides the search toward the goal rather than exploring uniformly in all directions. With an admissible heuristic (never overestimates), A* finds the optimal path while typically exploring far fewer nodes.',
+  },
+  {
+    id: 'q6-2',
+    chapterId: 6,
+    question: 'What is a behavior tree in game AI?',
+    options: [
+      'A visual representation of the game scene graph',
+      'A hierarchical structure of nodes (selectors, sequences, actions) that controls AI decision-making',
+      'A data structure for storing player behavior analytics',
+      'An algorithm for generating procedural tree models in nature scenes',
+    ],
+    answer: 1,
+    explanation: 'Behavior trees organize AI logic into a tree of nodes: Selectors (try children until one succeeds), Sequences (run children in order, fail if any fails), and Leaf nodes (actions/conditions). They are modular, reusable, and easier to debug than state machines for complex AI. Unreal Engine uses behavior trees as its primary AI system.',
+  },
+  {
+    id: 'q6-3',
+    chapterId: 6,
+    question: 'What are steering behaviors used for in game AI?',
+    options: [
+      'Controlling the camera movement in cutscenes',
+      'Calculating autonomous movement like seeking, fleeing, wandering, and flocking for AI agents',
+      'Mapping keyboard input to vehicle turning mechanics',
+      'Optimizing pathfinding node traversal speed',
+    ],
+    answer: 1,
+    explanation: 'Steering behaviors (introduced by Craig Reynolds) produce forces that guide agent movement: seek/flee (move toward/away from target), arrive (slow down near target), wander (random meandering), and flocking (separation, alignment, cohesion). They create natural-looking group movement for birds, fish, crowds, and enemy squads.',
+  },
+  // Chapter 7: Level Design
+  {
+    id: 'q7-1',
+    chapterId: 7,
+    question: 'What is procedural generation in level design?',
+    options: [
+      'Manually placing every object in a level editor',
+      'Using algorithms to create game content dynamically rather than hand-crafting every element',
+      'Importing 3D scans of real-world locations as game levels',
+      'Using motion capture data to animate level transitions',
+    ],
+    answer: 1,
+    explanation: 'Procedural generation uses algorithms (noise functions, wave function collapse, L-systems, cellular automata) to create levels, terrain, dungeons, or entire worlds. Games like Minecraft, No Man\'s Sky, and roguelikes (Hades, Dead Cells) use procedural generation for infinite replayability while maintaining design constraints.',
+  },
+  {
+    id: 'q7-2',
+    chapterId: 7,
+    question: 'What is "pacing" in level design?',
+    options: [
+      'The speed at which the player character moves through a level',
+      'The deliberate variation of intensity, challenge, and rest periods throughout a level to maintain engagement',
+      'The frame rate target that a level must maintain',
+      'The time limit imposed on speedrun attempts',
+    ],
+    answer: 1,
+    explanation: 'Pacing refers to how a designer controls the rhythm of a gameplay experience — alternating high-intensity sections (combat encounters, boss fights) with low-intensity moments (exploration, story, safe rooms). Good pacing prevents fatigue, builds tension, and creates memorable moments. The "kishōtenketsu" structure (intro, development, twist, conclusion) is one common pacing framework.',
+  },
+  {
+    id: 'q7-3',
+    chapterId: 7,
+    question: 'What is environmental storytelling?',
+    options: [
+      'Using voice-over narration during gameplay',
+      'Conveying narrative through the design, placement, and state of objects in the game world',
+      'Displaying subtitles for environmental sound effects',
+      'Creating cutscenes that show the environment being destroyed',
+    ],
+    answer: 1,
+    explanation: 'Environmental storytelling lets players piece together narrative by observing the game world — scattered notes, abandoned camps, blood trails, crumbling architecture, graffiti, item placement. Games like Dark Souls, Bioshock, and Gone Home masterfully use environmental details to tell stories without explicit narration, rewarding observant players.',
+  },
+  // Chapter 8: Game Design Patterns
+  {
+    id: 'q8-1',
+    chapterId: 8,
+    question: 'What is the purpose of object pooling in game development?',
+    options: [
+      'Grouping similar game objects visually in the scene hierarchy',
+      'Pre-allocating and reusing objects to avoid frequent memory allocation and garbage collection during gameplay',
+      'Sharing textures between objects to reduce VRAM usage',
+      'Distributing game objects across multiple servers',
+    ],
+    answer: 1,
+    explanation: 'Object pooling pre-creates a collection of reusable objects (bullets, particles, enemies) at initialization. Instead of instantiating and destroying objects at runtime (which triggers garbage collection and causes frame hitches), objects are activated/deactivated from the pool. This is critical for projectiles, particles, and any frequently spawned/despawned objects.',
+  },
+  {
+    id: 'q8-2',
+    chapterId: 8,
+    question: 'How does the Observer pattern apply to game development?',
+    options: [
+      'It monitors player behavior for anti-cheat detection',
+      'It allows game systems to subscribe to and react to events without tight coupling between systems',
+      'It observes frame rate and automatically adjusts graphics quality',
+      'It watches for file changes to enable hot reloading during development',
+    ],
+    answer: 1,
+    explanation: 'The Observer pattern (event system/pub-sub) lets game systems communicate without direct references. When a player takes damage, the health system publishes an event; the UI, sound, camera shake, and achievement systems all subscribe independently. This decoupling makes systems modular, testable, and easy to add/remove without breaking existing code.',
+  },
+  {
+    id: 'q8-3',
+    chapterId: 8,
+    question: 'What is the Command pattern used for in games?',
+    options: [
+      'Sending instructions to a remote server',
+      'Encapsulating actions as objects to enable undo/redo, replays, and input recording',
+      'Defining the order of compilation for game scripts',
+      'Managing the rendering command queue on the GPU',
+    ],
+    answer: 1,
+    explanation: 'The Command pattern wraps each action (move, attack, use item) as an object with execute() and undo() methods. This enables undo/redo in strategy games and level editors, input replay systems, action queuing for turn-based games, and network synchronization by sending command objects rather than raw state.',
+  },
+  // Chapter 9: UI & HUD Design
+  {
+    id: 'q9-1',
+    chapterId: 9,
+    question: 'What is the difference between diegetic and non-diegetic game UI?',
+    options: [
+      'Diegetic UI uses text while non-diegetic uses icons',
+      'Diegetic UI exists within the game world (e.g., a watch on the character arm) while non-diegetic is overlaid on screen (traditional HUD)',
+      'Diegetic UI is interactive while non-diegetic is static',
+      'There is no meaningful difference; they are interchangeable terms',
+    ],
+    answer: 1,
+    explanation: 'Diegetic UI exists within the game world and characters can see it (Dead Space health bar on the suit, Fallout Pip-Boy). Non-diegetic UI is overlaid on the screen as a traditional HUD that only the player sees. Spatial UI floats in game space (enemy health bars above heads). Meta UI affects the screen itself (blood splatter on edges when hurt).',
+  },
+  {
+    id: 'q9-2',
+    chapterId: 9,
+    question: 'Why is an inventory system considered a complex UI challenge in game development?',
+    options: [
+      'Because it requires 3D rendering of all items',
+      'Because it must handle drag-and-drop, stacking, sorting, filtering, tooltips, and context menus while remaining performant with hundreds of items',
+      'Because inventory data must always be encrypted',
+      'Because all inventory systems must support multiplayer trading',
+    ],
+    answer: 1,
+    explanation: 'Inventory systems combine multiple UI challenges: grid/list layouts, drag-and-drop reordering, item stacking and splitting, weight/capacity limits, categorization and filtering, detailed tooltips, context menus (use, equip, drop, compare), and responsive updates. Games like Diablo, Minecraft, and Escape from Tarkov demonstrate the range of inventory design complexity.',
+  },
+  {
+    id: 'q9-3',
+    chapterId: 9,
+    question: 'What is a dialog system in game UI?',
+    options: [
+      'A system for developers to communicate during playtesting',
+      'A framework for presenting NPC conversations, choices, branching narratives, and quest information to the player',
+      'A debug console for entering cheat codes',
+      'A voice chat system for multiplayer games',
+    ],
+    answer: 1,
+    explanation: 'Dialog systems present conversations between the player and NPCs, handling text display (typewriter effects), voice acting playback, branching choices (dialog trees), condition checks (skill requirements, story flags), and quest state updates. Tools like Yarn Spinner, Ink, and Twine help authors create complex branching narratives that the game UI renders.',
+  },
+  // Chapter 10: Multiplayer & Networking
+  {
+    id: 'q10-1',
+    chapterId: 10,
+    question: 'What is the main disadvantage of peer-to-peer architecture compared to client-server for multiplayer games?',
+    options: [
+      'It requires more expensive server hardware',
+      'Every peer must trust the others, making it vulnerable to cheating, and each peer needs a connection to every other peer',
+      'It cannot support more than two players',
+      'It adds more latency than client-server',
+    ],
+    answer: 1,
+    explanation: 'In P2P, each client sends data to every other client, creating O(n^2) connections and requiring all peers to have the full game state. Since there is no authoritative server, any client can send false data (cheating). Client-server architectures use an authoritative server that validates all actions, making cheating much harder to accomplish.',
+  },
+  {
+    id: 'q10-2',
+    chapterId: 10,
+    question: 'What is lag compensation in multiplayer games?',
+    options: [
+      'Reducing the game graphics quality to improve network performance',
+      'Server-side techniques that rewind time to validate player actions as they appeared on the player screen despite network latency',
+      'Adding artificial delay to all players to match the slowest connection',
+      'Compressing network packets to reduce transmission time',
+    ],
+    answer: 1,
+    explanation: 'Lag compensation (used in FPS games like Counter-Strike and Overwatch) has the server store a history of game states. When a player fires, the server rewinds to the state the player actually saw (accounting for their latency) and checks the hit. This ensures that what players see on screen matches what the server validates, despite network delays.',
+  },
+  {
+    id: 'q10-3',
+    chapterId: 10,
+    question: 'What is rollback netcode?',
+    options: [
+      'A system that automatically reconnects players after a network disconnection',
+      'A networking model that predicts inputs, runs the game forward, and corrects by rolling back and resimulating when actual inputs differ from predictions',
+      'A method of compressing game state for faster network transmission',
+      'A server-side logging system that records all game events for replay',
+    ],
+    answer: 1,
+    explanation: 'Rollback netcode (used in fighting games like Guilty Gear Strive, Street Fighter 6) predicts that remote players will repeat their last input, runs the simulation forward immediately, and if the actual input differs, rolls back to the last confirmed state and resimulates. This provides responsive gameplay even with latency, unlike delay-based netcode which adds input lag.',
+  },
+  // Chapter 11: Game Engines & Frameworks
+  {
+    id: 'q11-1',
+    chapterId: 11,
+    question: 'What scripting language does Godot primarily use?',
+    options: [
+      'Lua',
+      'GDScript (plus C# support)',
+      'JavaScript',
+      'Python',
+    ],
+    answer: 1,
+    explanation: 'Godot uses GDScript, a Python-like language designed specifically for game development with tight engine integration. Godot 4 also supports C# (via .NET), C++ via GDExtension, and community bindings for Rust and other languages. GDScript is popular for its simplicity and how closely it maps to Godot node and scene concepts.',
+  },
+  {
+    id: 'q11-2',
+    chapterId: 11,
+    question: 'Which web framework is specifically designed for 2D game development with a full physics engine included?',
+    options: [
+      'Three.js',
+      'Phaser',
+      'D3.js',
+      'React Three Fiber',
+    ],
+    answer: 1,
+    explanation: 'Phaser is a popular open-source HTML5 game framework specifically designed for 2D games. It includes Arcade Physics and Matter.js integration, sprite management, animation, tilemap support, input handling, audio, and a scene management system. Three.js is focused on 3D rendering, while PixiJS is a 2D renderer without built-in physics or game framework features.',
+  },
+  {
+    id: 'q11-3',
+    chapterId: 11,
+    question: 'What is a key factor when choosing between Unity, Unreal Engine, and Godot for a new project?',
+    options: [
+      'They all produce identical results so the choice does not matter',
+      'Project requirements (2D vs 3D, team size, target platform, budget, and licensing terms) should drive the decision',
+      'Always choose Unreal Engine because it has the best graphics',
+      'Always choose Unity because it is the most popular',
+    ],
+    answer: 1,
+    explanation: 'Engine choice depends on multiple factors: Unity excels at mobile and cross-platform with a large asset store; Unreal has best-in-class 3D graphics (Nanite, Lumen) for AAA; Godot is free/open-source with a lightweight footprint ideal for indie and 2D games. Team expertise, licensing costs (Unreal royalties vs Unity seats vs Godot free), and community ecosystem all matter.',
+  },
+  // Chapter 12: Performance Optimization
+  {
+    id: 'q12-1',
+    chapterId: 12,
+    question: 'What is a "frame budget" in game development?',
+    options: [
+      'The total number of frames in a game animation',
+      'The maximum time available per frame (e.g., 16.67ms for 60fps) that must accommodate all game logic, physics, and rendering',
+      'The budget allocated for purchasing animation assets',
+      'The number of keyframes used in character animations',
+    ],
+    answer: 1,
+    explanation: 'At 60fps, each frame must complete in 16.67ms; at 30fps, 33.33ms. This budget must cover input processing, AI updates, physics simulation, game logic, rendering (draw calls, GPU work), and audio. Exceeding the budget causes dropped frames and stuttering. Profiling tools help identify which systems consume the most time within the budget.',
+  },
+  {
+    id: 'q12-2',
+    chapterId: 12,
+    question: 'What is draw call batching?',
+    options: [
+      'Drawing all game objects one at a time in sequence',
+      'Combining multiple rendering operations into fewer GPU calls by grouping objects that share the same material/texture',
+      'Limiting the total number of objects that can exist in a scene',
+      'A technique for drawing objects in back-to-front order',
+    ],
+    answer: 1,
+    explanation: 'Each draw call has CPU overhead as the driver communicates with the GPU. Batching groups objects that share the same material, texture, and shader into a single draw call. Static batching combines non-moving geometry, dynamic batching merges moving objects at runtime, and GPU instancing renders many copies of the same mesh with one call. Reducing draw calls from thousands to hundreds can dramatically improve frame rate.',
+  },
+  {
+    id: 'q12-3',
+    chapterId: 12,
+    question: 'What is frustum culling?',
+    options: [
+      'Removing corrupted texture data from GPU memory',
+      'Not rendering objects that fall outside the camera visible area (view frustum)',
+      'Reducing polygon count on distant objects',
+      'Removing duplicate vertices from 3D models',
+    ],
+    answer: 1,
+    explanation: 'Frustum culling tests each object bounding volume against the camera view frustum (the pyramid-shaped visible area). Objects completely outside the frustum are skipped entirely — no vertex processing, no pixel shading. Combined with occlusion culling (skipping objects hidden behind others), this prevents the GPU from wasting time on invisible geometry.',
+  },
+  // Chapter 13: Publishing & Distribution
+  {
+    id: 'q13-1',
+    chapterId: 13,
+    question: 'What is the typical revenue split on major game distribution platforms like Steam?',
+    options: [
+      'The developer keeps 100% of revenue',
+      'The platform takes approximately 30% and the developer receives 70%',
+      'Revenue is split 50/50 between platform and developer',
+      'The platform takes 10% of revenue',
+    ],
+    answer: 1,
+    explanation: 'Steam, the App Store, Google Play, and console stores (PlayStation, Xbox, Nintendo) all take approximately 30% of game revenue. Steam reduces this to 25% after $10M and 20% after $50M in sales. Epic Games Store takes only 12%. These revenue shares significantly impact indie developer profitability and influence platform choice.',
+  },
+  {
+    id: 'q13-2',
+    chapterId: 13,
+    question: 'What is playtesting in game QA?',
+    options: [
+      'The developer playing their own game to check for fun',
+      'Having real players test the game to identify bugs, usability issues, balance problems, and gather feedback on player experience',
+      'Running automated test scripts against game code',
+      'Testing whether the game installs correctly on different platforms',
+    ],
+    answer: 1,
+    explanation: 'Playtesting involves observing real players interact with the game to discover issues developers are too close to see: confusing tutorials, unclear objectives, difficulty spikes, broken mechanics, and unfun loops. It includes alpha/beta testing, focus groups, and A/B testing. Analytics (heatmaps, funnel analysis, retention curves) supplement qualitative playtester feedback.',
+  },
+  {
+    id: 'q13-3',
+    chapterId: 13,
+    question: 'What are the main game monetization models?',
+    options: [
+      'Only premium (pay upfront) model exists',
+      'Premium, free-to-play with microtransactions, subscription, and ad-supported are all common models with different tradeoffs',
+      'Games can only make money through in-game advertising',
+      'All games must use a subscription model',
+    ],
+    answer: 1,
+    explanation: 'Game monetization spans several models: premium (one-time purchase), free-to-play with cosmetic microtransactions (Fortnite model), freemium with gameplay-affecting purchases (mobile gacha), subscription (Game Pass, MMO monthly fees), ad-supported (rewarded video ads in mobile games), and DLC/season passes. Each model impacts game design, player trust, and long-term revenue differently.',
+  },
+];
+
+export function getQuestionsForChapter(chapterId: number): QuizQuestion[] {
+  return quizQuestions.filter(q => q.chapterId === chapterId);
+}

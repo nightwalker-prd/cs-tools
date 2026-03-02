@@ -74,6 +74,16 @@ pnpm test                             # Run tests
 | self-hosting | 5213 | Self-hosting fundamentals explorer with quizzes |
 | browsers | 5214 | Browser internals explorer with quizzes |
 | web-animations | 5215 | Web animations explorer with quizzes |
+| quantum-computing | 5216 | Quantum computing concepts explorer with quizzes |
+| ui-ux-design | 5217 | UI/UX design concepts explorer with quizzes |
+| game-dev | 5218 | Game development concepts explorer with quizzes |
+| blockchain | 5219 | Blockchain concepts explorer with quizzes |
+| robotics | 5220 | Robotics concepts explorer with quizzes |
+| edge-computing | 5221 | Edge computing concepts explorer with quizzes |
+| nlp | 5222 | Natural language processing explorer with quizzes |
+| hci | 5223 | Human-computer interaction explorer with quizzes |
+| data-visualization | 5224 | Data visualization concepts explorer with quizzes |
+| tech-ethics | 5225 | Technology ethics explorer with quizzes |
 
 ### Shared Packages (8)
 | Package | Contents |
